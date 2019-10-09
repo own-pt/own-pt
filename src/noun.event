@@ -1,0 +1,7267 @@
+noun.event
+
+w: @en_Christ's_Resurrection
+w: @en_Resurrection
+w: @en_Resurrection_of_Christ
+d: @en_(New Testament) the rising of Christ on the third day after the Crucifixion
+ihyper: milagre 2
+mt: noun.communication:Novo_Testamento
+sa: @en:noun.event:Christ's_Resurrection
+
+w: @en_Crucifixion
+d: @en_the death of Jesus by crucifixion
+ihyper: morte 2
+sa: @en:noun.event:Crucifixion
+
+w: @en_English
+w: @en_side
+d: @en_(sports) the spin given to a ball by striking it on one side or releasing it with a sharp twist
+hypo: @en_spin
+mt: noun.act:esporte
+sa: @en:noun.event:English
+
+w: @en_Godspeed
+d: @en_a successful journey
+hypo: vitória
+sa: @en:noun.event:Godspeed
+
+w: @en_Iditarod
+w: @en_Iditarod_Trail_Dog_Sled_Race
+d: @en_an important dogsled race run annually on the Iditarod Trail
+hypo: @en_cross_country
+sa: @en:noun.event:Iditarod
+
+w: @en_Maundy
+d: @en_a public ceremony on Maundy Thursday when the monarch distributes Maundy money
+hypo: cerimónia
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.event:Maundy
+
+w: @en_Preakness
+d: @en_an annual race for three-year-old horses; held at Pimlico in Baltimore, Maryland
+hypo: @en_thoroughbred_race
+sa: @en:noun.event:Preakness
+
+w: @en_Teapot_Dome
+w: @en_Teapot_Dome_scandal
+d: @en_a government scandal involving a former United States Navy oil reserve in Wyoming that was secretly leased to a private oil company in 1921; became symbolic of the scandals of the Harding administration
+ihyper: escândalo
+sa: @en:noun.event:Teapot_Dome
+
+w: @en_Word_of_God
+d: @en_a manifestation of the mind and will of God
+hypo: manifestação
+sa: @en:noun.event:Word_of_God
+
+w: @en_abiotrophy
+d: @en_a loss of vitality and a degeneration of cells and tissues not due to any apparent injury
+hypo: degeneração
+sa: @en:noun.event:abiotrophy
+
+w: @en_accompaniment
+w: @en_attendant
+w: @en_co-occurrence
+w: @en_concomitant
+d: @en_an event or situation that happens at the same time as or in connection with another
+hyper: @en_associate
+hyper: @en_background 1
+hypo: acontecimento 2
+sa: @en:noun.event:accompaniment
+
+w: @en_acoustic_wave
+w: @en_sound_wave
+d: @en_(acoustics) a wave that transmits sound
+hyper: @en_air_wave
+hypo: onda
+mt: noun.cognition:Acustica
+sa: @en:noun.event:acoustic_wave
+
+w: @en_adaptive_radiation
+d: @en_the development of many different forms from an originally homogeneous group of organisms as they fill different ecological niches
+hypo: @en_radiation
+sa: @en:noun.event:adaptive_radiation
+
+w: @en_adrenarche
+d: @en_the increase in activity of the adrenal glands just before puberty
+hypo: começo 3
+sa: @en:noun.event:adrenarche
+
+w: @en_affliction
+d: @en_a cause of great suffering and distress
+hyper: @en_curse
+hyper: gólgota
+hyper: tribulação
+hyper: noun.state:Deusa_da_Vingança
+hyper: noun.state:ataque
+hypo: problema 1
+sa: @en:noun.event:affliction
+
+w: @en_air_wave
+d: @en_a sound wave that is transmitted via air
+hypo: @en_acoustic_wave
+sa: @en:noun.event:air_wave
+
+w: @en_airburst
+d: @en_an explosion in the atmosphere
+hypo: explosão 2
+sa: @en:noun.event:airburst
+
+w: @en_algorithm_error
+d: @en_error resulting from the choice of the wrong algorithm or method for achieving the intended result
+hypo: @en_computer_error
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.event:algorithm_error
+
+w: @en_allomerism
+d: @en_(chemistry) variability in chemical composition without variation in crystalline form
+hypo: flutuação
+mt: noun.cognition:Quimica
+sa: @en:noun.event:allomerism
+
+w: @en_amphimixis
+d: @en_union of sperm and egg in sexual reproduction
+hm: noun.process:Reproducao_sexuada
+hypo: @en_union
+sa: @en:noun.event:amphimixis
+
+w: @en_amplitude
+d: @en_(physics) the maximum displacement of a periodic wave
+hypo: deslocamento
+mt: noun.cognition:Fisica
+sa: @en:noun.event:amplitude
+
+w: @en_annular_eclipse
+d: @en_only a thin outer disk of the sun can be seen
+hypo: Eclipse_Solar
+sa: @en:noun.event:annular_eclipse
+
+w: @en_appalling
+d: @en_an experience that appalls
+hypo: experiência
+sa: @en:noun.event:appalling
+
+w: @en_appearance
+d: @en_the event of coming into sight
+hyper: @en_manifestation
+hyper: @en_reappearance
+hyper: aparição
+hyper: manifestação
+hypo: acontecimento 2
+sa: @en:noun.event:appearance
+
+w: @en_approach
+w: @en_approaching
+d: @en_the event of one object coming closer to another
+hypo: movimento
+sa: @en:noun.event:approach
+
+w: @en_ascension
+d: @en_(astronomy) the rising of a star above the horizon
+hypo: @en_change_of_location
+mt: noun.cognition:Astronomia
+sa: @en:noun.event:ascension 1
+
+w: @en_associate
+d: @en_any event that usually accompanies or is closely connected with another
+hypo: @en_accompaniment
+sa: @en:noun.event:associate
+
+w: @en_athletic_competition
+w: @en_athletic_contest
+w: @en_athletics
+d: @en_a contest between athletes
+hyper: @en_meet
+hyper: @en_prelim
+hyper: @en_tug-of-war
+hyper: Jogos_Olímpicos
+hyper: Special_Olympics
+hyper: Triplo_Salto
+hyper: decatlo
+hyper: pentatlo
+hypo: certame
+sa: @en:noun.event:athletic_competition
+
+w: @en_atmospheric_static
+w: @en_atmospherics
+w: @en_static
+d: @en_a crackling or hissing noise caused by electrical interference
+hyper: @en_radio_noise
+hypo: estrondo
+sa: @en:noun.event:atmospheric_static
+
+w: @en_auspice
+d: @en_a favorable omen
+hypo: adivinhação
+sa: @en:noun.event:auspice
+
+w: @en_auto_race
+w: @en_automobile_race
+w: @en_car_race
+d: @en_a race between (usually high-performance) automobiles
+hyper: @en_rally
+hyper: Grande_Prémio
+hypo: corrida 1
+sa: @en:noun.event:auto_race
+
+w: @en_autogamy
+d: @en_self-fertilization in plants
+hypo: @en_self-fertilisation
+sa: @en:noun.event:autogamy
+
+w: @en_avalanche
+d: @en_a sudden appearance of an overwhelming number of things
+hypo: acontecimento 2
+sa: @en:noun.event:avalanche 1
+
+w: @en_avulsion
+d: @en_an abrupt change in the course of a stream that forms the boundary between two parcels of land resulting in the loss of part of the land of one landowner and a consequent increase in the land of another
+hypo: alteração
+sa: @en:noun.event:avulsion
+
+w: @en_axial_motion
+w: @en_axial_rotation
+w: @en_roll
+d: @en_rotary motion of an object around its own axis
+hyper: @en_wallow
+hypo: rotação
+sa: @en:noun.event:axial_motion
+
+w: @en_baa
+d: @en_the cry made by sheep
+hypo: @en_cry
+sa: @en:noun.event:baa
+
+w: @en_back-blast
+w: @en_backblast
+d: @en_backfire from a recoilless weapon
+hypo: @en_backfire 1
+sa: @en:noun.event:back-blast
+
+w: @en_backfire
+d: @en_a loud noise made by the explosion of fuel in the manifold or exhaust of an internal combustion engine
+hypo: explosão 2
+sa: @en:noun.event:backfire
+
+w: @en_backfire 1
+w: @en_blowback
+d: @en_the backward escape of gases and unburned gunpowder after a gun is fired
+hyper: @en_back-blast
+hypo: explosão 2
+sa: @en:noun.event:backfire 1
+
+w: @en_backfire 2
+d: @en_a fire that is set intentionally in order to slow an approaching forest fire or grassfire by clearing a burned area in its path
+hypo: fogo 1
+sa: @en:noun.event:backfire 3
+
+w: @en_background
+w: @en_background_signal
+d: @en_extraneous signals that can be confused with the phenomenon to be observed or measured
+hyper: radiação_de_fundo
+hyper: ruído_de_fundo
+hypo: estrondo
+sa: @en:noun.event:background
+
+w: @en_background 1
+d: @en_relatively unimportant or inconspicuous accompanying situation
+hypo: @en_accompaniment
+sa: @en:noun.event:background 1
+
+w: @en_backwash
+w: @en_wake
+d: @en_the wave that spreads behind a boat as it moves forward
+hypo: onda 2
+sa: @en:noun.event:backwash
+
+w: @en_bang
+w: @en_bash
+w: @en_belt
+w: @en_knock
+w: @en_smash
+d: @en_a vigorous blow
+hypo: choque
+sa: @en:noun.event:bang 1
+
+w: @en_banging
+d: @en_a continuing very loud noise
+hypo: ruído 4
+sa: @en:noun.event:banging
+
+w: @en_bar_mitzvah
+d: @en_(Judaism) an initiation ceremony marking the 13th birthday of a Jewish boy and signifying the beginning of religious responsibility
+hypo: iniciação 1
+mt: noun.cognition:judaísmo
+sa: @en:noun.event:bar_mitzvah
+
+w: @en_barn_dance
+d: @en_a dance party featuring country dancing
+hypo: baile
+sa: @en:noun.event:barn_dance
+
+w: @en_barnburner
+d: @en_an impressively successful event
+hypo: vitória
+mu: noun.communication:@en_colloquialism
+sa: @en:noun.event:barnburner
+
+w: @en_bas_mitzvah
+w: @en_bat_mitzvah
+w: @en_bath_mitzvah
+d: @en_(Judaism) an initiation ceremony marking the 12th birthday of a Jewish girl and signifying the beginning of religious responsibility
+hypo: iniciação 1
+mt: noun.cognition:judaísmo
+sa: @en:noun.event:bas_mitzvah
+
+w: @en_battle_damage
+w: @en_combat_casualty
+d: @en_loss of military equipment in battle
+hypo: @en_damage
+mt: noun.group:exército 3
+sa: @en:noun.event:battle_damage
+
+w: @en_bay
+d: @en_the sound of a hound on the scent
+hypo: @en_cry
+sa: @en:noun.event:bay
+
+w: @en_beat
+d: @en_the sound of stroke or blow
+hypo: ruído 3
+sa: @en:noun.event:beat 1
+
+w: @en_bell
+w: @en_toll
+d: @en_the sound of a bell being struck
+hyper: @en_knell
+hyper: ângelus
+hypo: ruído 3
+sa: @en:noun.event:bell
+
+w: @en_bell_ringing
+d: @en_the sound of someone playing a set of bells
+hypo: anilhagem
+sa: @en:noun.event:bell_ringing
+
+w: @en_bend
+w: @en_bending
+d: @en_movement that causes the formation of a curve
+hyper: refracção
+hypo: movimento
+sa: @en:noun.event:bend
+
+w: @en_bicycle_race
+d: @en_a race between people riding bicycles
+hyper: Tour_de_France
+hypo: corrida 1
+sa: @en:noun.event:bicycle_race
+
+w: @en_big_bang
+d: @en_(cosmology) the cosmic explosion that is hypothesized to have marked the origin of the universe
+hypo: explosão 2
+mt: noun.cognition:Cosmologia
+sa: @en:noun.event:big_bang
+
+w: @en_birr
+w: @en_whir
+w: @en_whirr
+w: @en_whirring
+d: @en_sound of something in rapid motion
+hypo: ruído 3
+sa: @en:noun.event:birr
+
+w: @en_bit
+w: @en_piece
+d: @en_an instance of some kind
+hypo: caso
+sa: @en:noun.event:bit
+
+w: @en_bite
+d: @en_(angling) an instance of a fish taking the bait
+hypo: vitória
+mt: noun.act:Pesca
+sa: @en:noun.event:bite
+
+w: @en_blast
+w: @en_good_time
+d: @en_a highly pleasurable or exciting experience
+hypo: experiência
+sa: @en:noun.event:blast 2
+
+w: @en_bleat
+d: @en_the sound of sheep or goats (or any sound resembling this)
+hypo: @en_cry
+sa: @en:noun.event:bleat
+
+w: @en_blessed_event
+w: @en_happy_event
+d: @en_the live birth of a child
+hypo: @en_live_birth
+mu: noun.communication:@en_colloquialism
+sa: @en:noun.event:blessed_event
+
+w: @en_blighty_wound
+d: @en_a wound that would cause an English soldier to be sent home from service abroad
+hypo: ferida
+sa: @en:noun.event:blighty_wound
+
+w: @en_blip
+d: @en_a sudden minor shock or meaningless interruption
+hypo: @en_blow
+sa: @en:noun.event:blip
+
+w: @en_blow
+w: @en_shock
+d: @en_an unpleasant or disappointing surprise
+hyper: @en_blip
+hypo: surpresa
+sa: @en:noun.event:blow 1
+
+w: @en_blowout
+d: @en_a sudden malfunction of a part or apparatus
+hypo: disfunção
+sa: @en:noun.event:blowout
+
+w: @en_blowout 1
+w: @en_laugher
+w: @en_romp
+w: @en_runaway
+w: @en_shoo-in
+w: @en_walkaway
+d: @en_an easy victory
+hypo: vitória 2
+sa: @en:noun.event:blowout 1
+
+w: @en_boat_race
+d: @en_a race between people rowing or driving boats
+hyper: @en_sailing-race
+hypo: corrida 1
+sa: @en:noun.event:boat_race
+
+w: @en_bomb
+w: @en_dud
+w: @en_turkey
+d: @en_an event that fails badly or is totally ineffectual
+hypo: fracasso
+sa: @en:noun.event:bomb
+
+w: @en_bomb_blast
+d: @en_the explosion of a bomb
+hyper: explosões_nucleares
+hypo: explosão 4
+sa: @en:noun.event:bomb_blast
+
+w: @en_bombilation
+w: @en_bombination
+w: @en_buzz
+d: @en_sound of rapid vibration
+hypo: ruído 3
+sa: @en:noun.event:bombilation
+
+w: @en_bombshell
+w: @en_thunderbolt
+w: @en_thunderclap
+d: @en_a shocking surprise
+hypo: surpresa
+sa: @en:noun.event:bombshell
+
+w: @en_bong
+d: @en_a dull resonant sound as of a bell
+hypo: ruído 3
+sa: @en:noun.event:bong
+
+w: @en_bounce
+w: @en_bouncing
+d: @en_rebounding from an impact (or series of impacts)
+hypo: repercussão
+sa: @en:noun.event:bounce
+
+w: @en_bout
+d: @en_a contest or fight (especially between boxers or wrestlers)
+hypo: certame
+sa: @en:noun.event:bout
+
+w: @en_bow-wow
+d: @en_the bark of a dog
+hypo: ladrido
+sa: @en:noun.event:bow-wow
+
+w: @en_boxing_match
+d: @en_a match between boxers; usually held in a boxing ring
+hyper: @en_prize_fight
+hyper: @en_sparring_match
+hypo: combate
+sa: @en:noun.event:boxing_match
+
+w: @en_brake_failure
+d: @en_brakes fail to stop a vehicle
+hypo: avaria 1
+sa: @en:noun.event:brake_failure
+
+w: @en_break
+d: @en_the occurrence of breaking
+hyper: @en_snap 1
+hypo: dispersão
+sa: @en:noun.event:break 2
+
+w: @en_breaker
+w: @en_breakers
+w: @en_surf
+d: @en_waves breaking on the shore
+hypo: onda 2
+sa: @en:noun.event:breaker
+
+w: @en_breath_of_fresh_air
+d: @en_a welcome relief
+hypo: @en_easing
+sa: @en:noun.event:breath_of_fresh_air
+
+w: @en_broad_jump
+w: @en_long_jump
+d: @en_a competition that involves jumping as far as possible from a running start
+hypo: @en_field_event
+mp: noun.act:@en_run-up
+sa: @en:noun.event:broad_jump
+
+w: @en_brush
+w: @en_light_touch
+d: @en_momentary contact
+hypo: tocar
+sa: @en:noun.event:brush
+
+w: @en_brush_fire
+d: @en_an uncontrolled fire that consumes brush and shrubs and bushes
+hypo: fogo 1
+sa: @en:noun.event:brush_fire
+
+w: @en_buffeting
+w: @en_pounding
+d: @en_repeated heavy blows
+hypo: choque
+sa: @en:noun.event:buffeting
+
+w: @en_bun-fight
+w: @en_bunfight
+d: @en_(Briticism) a grand formal party on an important occasion
+hypo: balada
+mr: noun.location:Grã-Bretanha
+mu: noun.communication:calão
+sa: @en:noun.event:bun-fight
+
+w: @en_burnup
+d: @en_a high-speed motorcycle race on a public road
+hypo: corrida 1
+mr: noun.location:Grã-Bretanha
+mu: noun.communication:calão
+sa: @en:noun.event:burnup
+
+w: @en_cam_stroke
+w: @en_stroke
+w: @en_throw
+d: @en_the maximum movement available to a pivoted or reciprocating piece by a cam
+hyper: @en_instroke
+hyper: @en_outstroke
+hypo: movimento
+sa: @en:noun.event:cam_stroke
+
+w: @en_campaign_for_governor
+w: @en_governor's_race
+d: @en_a race for election to the governorship
+hypo: campanha
+sa: @en:noun.event:campaign_for_governor
+
+w: @en_capsizing
+d: @en_(nautical) the event of a boat accidentally turning over in the water
+hypo: naufrágio
+mt: noun.act:Navegacão
+sa: @en:noun.event:capsizing
+
+w: @en_carom
+w: @en_ricochet
+d: @en_a glancing rebound
+hypo: repercussão
+sa: @en:noun.event:carom
+
+w: @en_cascade
+w: @en_shower
+d: @en_a sudden downpour (as of tears or sparks etc) likened to a rain shower
+hypo: descenso
+sa: @en:noun.event:cascade
+
+w: @en_casualty
+d: @en_a decrease of military personnel or equipment
+hyper: @en_damage
+hyper: @en_loss 1
+hypo: abatimento 1
+mt: noun.group:exército 3
+sa: @en:noun.event:casualty 1
+
+w: @en_casualty 1
+w: @en_fatal_accident
+d: @en_an accident that causes someone to die
+hyper: @en_collateral_damage
+hypo: acidente 2
+hypo: fatalidade
+sa: @en:noun.event:casualty 2
+
+w: @en_cataplasia
+d: @en_(biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form
+hypo: degeneração
+mt: noun.cognition:biologia
+sa: @en:noun.event:cataplasia
+
+w: @en_caterwaul
+d: @en_the yowling sound made by a cat in heat
+hypo: @en_cry
+sa: @en:noun.event:caterwaul
+
+w: @en_cause_celebre
+d: @en_an incident that attracts great public attention
+hypo: evento 2
+sa: @en:noun.event:cause_celebre
+
+w: @en_caw
+d: @en_the sound made by corvine birds
+hypo: @en_cry
+sa: @en:noun.event:caw
+
+w: @en_ceilidh
+d: @en_an informal social gathering at which there is Scottish or Irish folk music and singing and folk dancing and story telling
+hypo: balada
+mr: noun.location:Escocia
+mr: noun.location:Irlanda 1
+sa: @en:noun.event:ceilidh
+
+w: @en_championship
+d: @en_a competition at which a champion is chosen
+hypo: certame
+sa: @en:noun.event:championship
+
+w: @en_change_of_location
+w: @en_travel
+d: @en_a movement through space that changes the location of something
+hyper: @en_ascension
+hyper: @en_creep
+hyper: @en_entering
+hyper: @en_fall
+hyper: @en_levitation
+hyper: @en_spread
+hyper: @en_stampede
+hyper: Gravitação
+hyper: ascensão
+hyper: avanço
+hyper: circulação
+hyper: descenso
+hyper: fluxo 1
+hyper: translação
+hypo: movimento
+sa: @en:noun.event:change_of_location
+
+w: @en_chariot_race
+d: @en_a race between ancient chariots
+hypo: corrida 1
+sa: @en:noun.event:chariot_race
+
+w: @en_chatter
+w: @en_chattering
+d: @en_the rapid series of noises made by the parts of a machine
+hypo: ruído 4
+sa: @en:noun.event:chatter 1
+
+w: @en_chatter 1
+w: @en_chattering 1
+d: @en_the high-pitched continuing noise made by animals (birds or monkeys)
+hypo: ruído 4
+sa: @en:noun.event:chatter
+
+w: @en_chess_match
+d: @en_a match between chess players
+hypo: combate
+sa: @en:noun.event:chess_match
+
+w: @en_chicken
+d: @en_a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops
+hypo: certame
+sa: @en:noun.event:chicken
+
+w: @en_chink
+w: @en_click
+w: @en_clink
+d: @en_a short light metallic sound
+hypo: ruído 3
+sa: @en:noun.event:chink
+
+w: @en_chirrup
+w: @en_twitter
+d: @en_a series of chirps
+hypo: ruído 3
+sa: @en:noun.event:chirrup
+
+w: @en_chorus
+d: @en_any utterance produced simultaneously by a group
+hypo: ruído 3
+sa: @en:noun.event:chorus
+
+w: @en_chug
+d: @en_the dull explosive noise made by an engine
+hypo: ruído 4
+sa: @en:noun.event:chug
+
+w: @en_circumstance
+d: @en_formal ceremony about important occasions
+hypo: cerimónia
+sa: @en:noun.event:circumstance
+
+w: @en_clack
+w: @en_clap
+d: @en_a sharp abrupt noise as if two objects hit together; may be repeated
+hypo: ruído 4
+sa: @en:noun.event:clack
+
+w: @en_claiming_race
+d: @en_a horse race in which each owner declares before the race at what price his horse will be offered for sale after the race
+hypo: @en_horse_race
+sa: @en:noun.event:claiming_race
+
+w: @en_clang
+w: @en_clangor
+w: @en_clangoring
+w: @en_clangour
+w: @en_clank
+w: @en_clash
+w: @en_crash
+d: @en_a loud resonant repeating noise
+hypo: ruído 4
+sa: @en:noun.event:clang
+
+w: @en_clatter
+d: @en_a rattling noise (often produced by rapid movement)
+hypo: ruído 4
+sa: @en:noun.event:clatter
+
+w: @en_cleistogamy
+d: @en_the production of small nonopening self-pollinating flowers
+hypo: @en_self-pollination
+sa: @en:noun.event:cleistogamy
+
+w: @en_click-clack
+d: @en_a succession of clicks
+hyper: @en_clickety-clack
+hypo: ruído 3
+sa: @en:noun.event:click-clack
+
+w: @en_clickety-clack
+w: @en_clickety-click
+d: @en_a fast and rhythmic click-clack
+hypo: @en_click-clack
+sa: @en:noun.event:clickety-clack
+
+w: @en_cliffhanger
+d: @en_a contest whose outcome is uncertain up to the very end
+hypo: certame
+sa: @en:noun.event:cliffhanger
+
+w: @en_climax
+w: @en_flood_tide
+d: @en_the highest point of anything conceived of as growing or developing or unfolding
+hypo: @en_juncture
+sa: @en:noun.event:climax
+
+w: @en_clip-clop
+w: @en_clippety-clop
+w: @en_clop
+w: @en_clopping
+w: @en_clumping
+w: @en_clunking
+d: @en_the sound of a horse's hoofs hitting on a hard surface
+hypo: ruído 3
+sa: @en:noun.event:clip-clop
+
+w: @en_clockwise_rotation
+w: @en_dextrorotation
+d: @en_rotation to the right
+hypo: rotação
+sa: @en:noun.event:clockwise_rotation
+
+w: @en_cluck
+w: @en_clucking
+d: @en_the sound made by a hen (as in calling her chicks)
+hypo: @en_cry
+sa: @en:noun.event:cluck
+
+w: @en_clump
+w: @en_clunk
+w: @en_thud
+w: @en_thump
+w: @en_thumping
+d: @en_a heavy dull sound (as made by impact of heavy objects)
+hypo: ruído 3
+sa: @en:noun.event:clump
+
+w: @en_coarctation
+w: @en_constriction
+d: @en_tight or narrow compression
+hypo: compressão
+sa: @en:noun.event:coarctation
+
+w: @en_collateral_damage
+d: @en_(euphemism) inadvertent casualties and destruction inflicted on civilians in the course of military operations
+hypo: @en_casualty 1
+mt: noun.group:exército 3
+mu: noun.communication:eufemismo
+sa: @en:noun.event:collateral_damage
+
+w: @en_comber
+d: @en_a long curling sea wave
+hypo: onda 2
+sa: @en:noun.event:comber
+
+w: @en_comeupance
+w: @en_comeuppance
+w: @en_deserts
+d: @en_an outcome (good or bad) that is well deserved
+hypo: conseqüência 1
+sa: @en:noun.event:comeupance
+
+w: @en_commotion
+w: @en_whirl
+d: @en_confused movement
+hypo: movimento
+sa: @en:noun.event:commotion
+
+w: @en_computer_error
+w: @en_error
+d: @en_(computer science) the occurrence of an incorrect result produced by a computer
+hyper: @en_algorithm_error
+hyper: @en_hardware_error
+hyper: @en_programming_error
+hypo: acontecimento 2
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.event:computer_error
+
+w: @en_concussion
+d: @en_injury to the brain caused by a blow; usually resulting in loss of consciousness
+hypo: ferimentos
+sa: @en:noun.event:concussion
+
+w: @en_conjuncture
+d: @en_a critical combination of events or circumstances
+hypo: @en_juncture
+sa: @en:noun.event:conjuncture
+
+w: @en_convulsion
+d: @en_a physical disturbance such as an earthquake or upheaval
+hypo: problema 1
+sa: @en:noun.event:convulsion
+
+w: @en_coo
+d: @en_the sound made by a pigeon
+hypo: @en_cry
+sa: @en:noun.event:coo
+
+w: @en_corollary
+d: @en_a practical consequence that follows naturally
+hypo: conseqüência 1
+sa: @en:noun.event:corollary
+
+w: @en_coruscation
+w: @en_glitter
+w: @en_sparkle
+d: @en_the occurrence of a small flash or spark
+hypo: @en_flash 1
+sa: @en:noun.event:coruscation
+
+w: @en_cotilion
+w: @en_cotillion
+d: @en_a ball at which young ladies are presented to society
+hypo: baile 1
+sa: @en:noun.event:cotilion
+
+w: @en_counterclockwise_rotation
+w: @en_levorotation
+d: @en_rotation to the left
+hypo: rotação
+sa: @en:noun.event:counterclockwise_rotation
+
+w: @en_countercurrent
+w: @en_crosscurrent
+w: @en_rip
+w: @en_riptide
+w: @en_tide_rip
+d: @en_a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current
+hypo: noun.phenomenon:turbulência
+sa: @en:noun.event:countercurrent
+
+w: @en_coup_de_theatre
+d: @en_a dramatic surprise
+hypo: surpresa
+sa: @en:noun.event:coup_de_theatre
+
+w: @en_creep
+d: @en_a slow longitudinal movement or deformation
+hypo: @en_change_of_location
+sa: @en:noun.event:creep
+
+w: @en_crepitation_rale
+d: @en_the crackling sound heard on auscultation when patients with respiratory diseases inhale; associated with tuberculosis and pneumonia and congestive heart failure
+hypo: @en_rale
+hypo: noun.state:sintoma
+sa: @en:noun.event:crepitation_rale
+
+w: @en_crestless_wave
+w: @en_swell
+d: @en_the undulating movement of the surface of the open sea
+hyper: @en_ground_swell 1
+hypo: onda 2
+sa: @en:noun.event:crestless_wave
+
+w: @en_cricket_match
+d: @en_a match between two cricket teams
+hypo: combate
+sa: @en:noun.event:cricket_match
+
+w: @en_crime_wave
+d: @en_a sudden rise in the crime rate
+hypo: @en_rise 1
+sa: @en:noun.event:crime_wave
+
+w: @en_cross-fertilisation
+w: @en_cross-fertilization
+d: @en_fertilization by the union of male and female gametes from different individual of the same species
+hyper: Alogamia
+hypo: fecundação 1
+sa: @en:noun.event:cross-fertilisation
+
+w: @en_cross-pollination
+d: @en_fertilization by transfer of pollen from the anthers of one flower to the stigma of another
+hypo: Polinização
+sa: @en:noun.event:cross-pollination
+
+w: @en_cross_country
+d: @en_a long race run over open country
+hyper: @en_Iditarod
+hypo: corrida 1
+sa: @en:noun.event:cross_country
+
+w: @en_crown_fire
+d: @en_a forest fire that advances with great speed jumping from crown to crown ahead of the ground fire
+hypo: incêndio_florestal
+sa: @en:noun.event:crown_fire
+
+w: @en_crunch
+d: @en_the sound of something crunching
+hypo: ruído 4
+sa: @en:noun.event:crunch
+
+w: @en_crustal_movement
+w: @en_tectonic_movement
+d: @en_movement resulting from or causing deformation of the earth's crust
+hypo: movimento
+mt: noun.cognition:geologia
+sa: @en:noun.event:crustal_movement
+
+w: @en_cry
+d: @en_the characteristic utterance of an animal
+hyper: @en_baa
+hyper: @en_bay
+hyper: @en_bleat
+hyper: @en_caterwaul
+hyper: @en_caw
+hyper: @en_cluck
+hyper: @en_coo
+hyper: @en_gobble
+hyper: @en_growl
+hyper: @en_yelp
+hyper: cacarejo
+hyper: cacarejo 1
+hyper: grasno
+hyper: ladrido
+hyper: miado
+hyper: mugido
+hyper: pio
+hyper: relincho
+hyper: rugido
+hyper: uivo
+hyper: zurro
+hypo: ruído 3
+sa: @en:noun.event:cry
+
+w: @en_curse
+w: @en_torment
+d: @en_a severe affliction
+hypo: @en_affliction
+sa: @en:noun.event:curse
+
+w: @en_curtain_raising
+w: @en_opening
+w: @en_opening_night
+d: @en_the first performance (as of a theatrical production)
+hypo: começo 3
+sa: @en:noun.event:curtain_raising
+
+w: @en_cycle
+w: @en_oscillation
+d: @en_a single complete execution of a periodically repeated phenomenon
+hyper: @en_pass 1
+hyper: Ciclo_Cardíaco
+hyper: Ciclo_de_Carnot
+hyper: noun.time:Ciclo_Menstrual
+hypo: @en_periodic_event
+sa: @en:noun.event:cycle 1
+
+w: @en_cycle_of_rebirth
+d: @en_(Hinduism) repeated rebirth in new forms
+hyper: @en_moksa
+hypo: @en_rebirth
+mt: noun.cognition:hinduísmo
+sa: @en:noun.event:cycle_of_rebirth
+
+w: @en_daily_variation
+d: @en_fluctuations that occur between one day and the next
+hypo: flutuação
+sa: @en:noun.event:daily_variation
+
+w: @en_damage
+w: @en_equipment_casualty
+d: @en_loss of military equipment
+hyper: @en_battle_damage
+hyper: @en_operational_casualty
+hypo: @en_casualty
+mt: noun.group:exército 3
+sa: @en:noun.event:damage 1
+
+w: @en_dash
+d: @en_a footrace run at top speed
+hypo: @en_track_event
+sa: @en:noun.event:dash
+
+w: @en_dead_heat
+d: @en_a tie in a race
+hypo: empate
+sa: @en:noun.event:dead_heat
+
+w: @en_deal
+d: @en_the type of treatment received (especially as the result of an agreement)
+hyper: @en_fair_deal
+hyper: @en_raw_deal
+hypo: placar
+sa: @en:noun.event:deal
+
+w: @en_death_knell
+d: @en_an omen of death or destruction
+hypo: adivinhação
+sa: @en:noun.event:death_knell
+
+w: @en_debilitation
+w: @en_enervation
+w: @en_enfeeblement
+w: @en_exhaustion
+d: @en_serious weakening and loss of energy
+hypo: @en_weakening
+sa: @en:noun.event:debilitation
+
+w: @en_debris_storm
+w: @en_debris_surge
+d: @en_the sudden spread of dust and debris from a collapsing building
+hypo: @en_rush 1
+sa: @en:noun.event:debris_storm
+
+w: @en_decision
+d: @en_(boxing) a victory won on points when no knockout has occurred
+hyper: @en_split_decision
+hypo: placar
+mt: noun.act:boxe
+sa: @en:noun.event:decision 2
+
+w: @en_decrepitation
+d: @en_the crackling or breaking up of certain crystals when they are heated
+hypo: creptação
+sa: @en:noun.event:decrepitation
+
+w: @en_dedication
+d: @en_a ceremony in which something (as a building) is dedicated to some goal or purpose
+hyper: @en_rededication
+hypo: cerimónia
+sa: @en:noun.event:dedication
+
+w: @en_defervescence
+d: @en_abatement of a fever as indicated by a reduction in body temperature
+hypo: hiato
+sa: @en:noun.event:defervescence
+
+w: @en_deflection
+w: @en_deflexion
+d: @en_the movement of the pointer or pen of a measuring instrument from its zero position
+hypo: movimento
+sa: @en:noun.event:deflection 1
+
+w: @en_delivery
+d: @en_the event of giving birth
+hypo: nascimento
+sa: @en:noun.event:delivery
+
+w: @en_denouement
+d: @en_the outcome of a complex sequence of events
+hypo: placar
+sa: @en:noun.event:denouement
+
+w: @en_derailment
+d: @en_an accident in which a train runs off its track
+hypo: acidente 5
+sa: @en:noun.event:derailment
+
+w: @en_destabilization
+d: @en_an event that causes a loss of equilibrium (as of a ship or aircraft)
+hypo: alteração
+mt: noun.artifact:aeronave 1
+mt: noun.artifact:barco 2
+sa: @en:noun.event:destabilization
+
+w: @en_development
+d: @en_a recent event that has some relevance for the present situation
+hyper: @en_turn 1
+hyper: fenómeno
+hyper: ramificação
+hypo: alteração
+sa: @en:noun.event:development 1
+
+w: @en_ding
+d: @en_a ringing sound
+hypo: ruído 3
+sa: @en:noun.event:ding
+
+w: @en_ding-dong
+d: @en_the noise made by a bell
+hypo: ruído 4
+sa: @en:noun.event:ding-dong
+
+w: @en_dip
+d: @en_a brief immersion
+hypo: imersão
+sa: @en:noun.event:dip
+
+w: @en_direct_tide
+d: @en_the occurrence of high tide on one side of the earth coinciding with high tide on the opposite side
+hypo: maré_alta
+sa: @en:noun.event:direct_tide
+
+w: @en_disappearance
+d: @en_ceasing to exist
+hypo: acontecimento 2
+sa: @en:noun.event:disappearance 1
+
+w: @en_disappearance 1
+d: @en_the event of passing out of sight
+hyper: @en_evanescence
+hyper: @en_fadeout 1
+hyper: @en_immersion
+hyper: @en_vanishing
+hypo: acontecimento 2
+sa: @en:noun.event:disappearance
+
+w: @en_discharge
+d: @en_the sudden giving off of energy
+hyper: @en_electrical_discharge
+hyper: erupção 1
+hyper: explosão 2
+hypo: acontecimento 2
+sa: @en:noun.event:discharge
+
+w: @en_discharge 1
+w: @en_outpouring
+w: @en_run
+d: @en_the pouring forth of a fluid
+hyper: derrame
+hyper: esguinche
+hypo: fluxo 1
+sa: @en:noun.event:discharge 1
+
+w: @en_discus
+d: @en_an athletic competition in which a disk-shaped object is thrown as far as possible
+hypo: @en_field_event
+sa: @en:noun.event:discus
+
+w: @en_disembarrassment
+d: @en_something that extricates you from embarrassment
+hypo: @en_easing
+sa: @en:noun.event:disembarrassment
+
+w: @en_disk_error
+d: @en_error resulting from malfunction of a magnetic disk
+hypo: @en_hardware_error
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.event:disk_error
+
+w: @en_dislocation
+w: @en_disruption
+d: @en_an event that results in a displacement or discontinuity
+hypo: interrupção
+sa: @en:noun.event:dislocation
+
+w: @en_dispersion
+w: @en_scattering
+d: @en_spreading widely or driving off
+hyper: @en_dissipation
+hyper: Diáspora
+hypo: @en_spread
+sa: @en:noun.event:dispersion
+
+w: @en_dissilience
+d: @en_the emergence of seeds as seed pods burst open when they are ripe
+hypo: @en_egress 1
+mt: noun.cognition:Botanica
+sa: @en:noun.event:dissilience
+
+w: @en_dissipation
+d: @en_breaking up and scattering by dispersion
+hypo: @en_dispersion
+sa: @en:noun.event:dissipation
+
+w: @en_disturbance
+w: @en_perturbation
+d: @en_activity that is a malfunction, intrusion, or interruption
+hyper: @en_magnetic_storm
+hyper: incômodo
+hypo: noun.act:atividade 1
+sa: @en:noun.event:disturbance
+
+w: @en_diurnal_variation
+d: @en_fluctuations that occur during each day
+hypo: flutuação
+sa: @en:noun.event:diurnal_variation
+
+w: @en_diving
+w: @en_diving_event
+d: @en_an athletic competition that involves diving into water
+hp: @en_swim_meet
+hypo: combate
+sa: @en:noun.event:diving
+
+w: @en_dog_racing
+d: @en_a race between dogs; usually an occasion for betting on the outcome
+hypo: corrida 1
+sa: @en:noun.event:dog_racing
+
+w: @en_dogfight
+d: @en_a fiercely disputed contest
+hypo: certame
+sa: @en:noun.event:dogfight
+
+w: @en_driftage
+d: @en_the deviation (by a vessel or aircraft) from its intended course due to drifting
+hypo: diferença
+mt: noun.artifact:aeronave 1
+sa: @en:noun.event:driftage
+
+w: @en_drippage
+w: @en_dripping
+d: @en_a liquid (as water) that flows in drops (as from the eaves of house)
+hypo: fluxo 1
+sa: @en:noun.event:drippage
+
+w: @en_drum
+d: @en_the sound of a drum
+hypo: ruído 3
+sa: @en:noun.event:drum
+
+w: @en_drumbeat
+w: @en_rataplan
+w: @en_rub-a-dub
+d: @en_the sound made by beating a drum
+hypo: ruído 3
+sa: @en:noun.event:drumbeat
+
+w: @en_easing
+w: @en_moderation
+w: @en_relief
+d: @en_a change for the better
+hyper: @en_breath_of_fresh_air
+hyper: @en_disembarrassment
+hypo: alteração
+sa: @en:noun.event:easing
+
+w: @en_ebb
+w: @en_reflux
+d: @en_the outward flow of the tide
+hp: @en_ebbtide
+hypo: fluxo 1
+sa: @en:noun.event:ebb
+
+w: @en_ebbtide
+d: @en_the tide while water is flowing out
+hypo: maré
+mp: @en_ebb
+sa: @en:noun.event:ebbtide
+
+w: @en_egress
+w: @en_emersion
+d: @en_(astronomy) the reappearance of a celestial body after an eclipse
+hp: eclipse
+hypo: @en_reappearance
+mt: noun.cognition:Astronomia
+sa: @en:noun.event:egress
+
+w: @en_egress 1
+w: @en_emergence
+w: @en_issue
+d: @en_the becoming visible
+hyper: @en_dissilience
+hyper: @en_eruption
+hypo: começo
+sa: @en:noun.event:egress 1
+
+w: @en_elaboration
+w: @en_refinement
+d: @en_the result of improving something
+hypo: melhoria
+sa: @en:noun.event:elaboration
+
+w: @en_electrical_discharge
+d: @en_a discharge of electricity
+hyper: @en_impulse
+hyper: @en_spike 1
+hyper: noun.phenomenon:@en_atmospheric_electricity
+hypo: @en_discharge
+sa: @en:noun.event:electrical_discharge
+
+w: @en_elimination_tournament
+d: @en_a tournament in which losers are eliminated in successive rounds
+hypo: torneio 3
+mp: @en_final
+mp: @en_quarterfinal
+mp: @en_semi
+sa: @en:noun.event:elimination_tournament
+
+w: @en_embarrassment
+d: @en_some event that causes someone to be embarrassed
+hypo: problema 1
+sa: @en:noun.event:embarrassment
+
+w: @en_emission
+d: @en_the occurrence of a flow of water (as from a pipe)
+hypo: fluxo 1
+sa: @en:noun.event:emission
+
+w: @en_end_game
+w: @en_endgame
+d: @en_the final stages of an extended process of negotiation
+hypo: fim 1
+sa: @en:noun.event:end_game 1
+
+w: @en_end_game 1
+w: @en_endgame 1
+d: @en_the final stages of a chess game after most of the pieces have been removed from the board
+hypo: fim 1
+sa: @en:noun.event:end_game
+
+w: @en_engagement
+w: @en_interlocking
+w: @en_mesh
+w: @en_meshing
+d: @en_contact by fitting together
+hypo: toque 1
+sa: @en:noun.event:engagement
+
+w: @en_engine_failure
+d: @en_engine does not run
+hypo: avaria 1
+sa: @en:noun.event:engine_failure
+
+w: @en_entering
+w: @en_entrance
+d: @en_a movement into or inward
+hyper: invasão
+hypo: @en_change_of_location
+sa: @en:noun.event:entering
+
+w: @en_eruption
+d: @en_the emergence of a tooth as it breaks through the gum
+hypo: @en_egress 1
+sa: @en:noun.event:eruption 2
+
+w: @en_evanescence
+d: @en_the event of fading and gradually vanishing from sight
+hypo: @en_disappearance 1
+sa: @en:noun.event:evanescence
+
+w: @en_exercise
+d: @en_(usually plural) a ceremony that involves processions and speeches
+hyper: colação_de_grau
+hypo: cerimónia
+mu: noun.communication:plural
+sa: @en:noun.event:exercise 1
+
+w: @en_expense
+d: @en_a detriment or sacrifice
+hypo: detrimento
+sa: @en:noun.event:expense
+
+w: @en_explosion
+d: @en_a sudden great increase
+hypo: aumento 1
+sa: @en:noun.event:explosion 1
+
+w: @en_explosion 1
+d: @en_the noise caused by an explosion
+hypo: ruído 4
+sa: @en:noun.event:explosion 2
+
+w: @en_extrasystole
+d: @en_a premature systole resulting in a momentary cardiac arrhythmia
+hypo: sístole
+sa: @en:noun.event:extrasystole
+
+w: @en_eye_opener
+d: @en_something surprising and revealing
+hypo: surpresa
+sa: @en:noun.event:eye_opener
+
+w: @en_fadeout
+d: @en_a gradual temporary loss of a transmitted signal due to electrical disturbances
+hypo: estrondo
+sa: @en:noun.event:fadeout 1
+
+w: @en_fadeout 1
+w: @en_receding
+d: @en_a slow or gradual disappearance
+hypo: @en_disappearance 1
+sa: @en:noun.event:fadeout
+
+w: @en_fading_away
+d: @en_gradually diminishing in brightness or loudness or strength
+hypo: abatimento
+sa: @en:noun.event:fading_away
+
+w: @en_fair_deal
+w: @en_square_deal
+d: @en_fair treatment
+hypo: @en_deal
+sa: @en:noun.event:fair_deal
+
+w: @en_fall
+d: @en_a movement downward
+hypo: @en_change_of_location
+sa: @en:noun.event:fall 4
+
+w: @en_fall 1
+w: @en_pin
+d: @en_when a wrestler's shoulders are forced to the mat
+hp: @en_wrestling_match
+hyper: @en_takedown
+hypo: vitória 2
+sa: @en:noun.event:fall 2
+
+w: @en_fault
+d: @en_(electronics) equipment failure attributable to some defect in a circuit (loose connection or insulation failure or short circuit etc.)
+hypo: avaria 1
+mt: noun.cognition:Eletronica
+sa: @en:noun.event:fault
+
+w: @en_feast
+d: @en_something experienced with great delight
+hypo: coisa
+sa: @en:noun.event:feast
+
+w: @en_fender-bender
+d: @en_a collision between motor vehicles that produces minor damage
+hypo: colisión
+sa: @en:noun.event:fender-bender
+
+w: @en_field_event
+d: @en_a competition that takes place on a field rather than on a running track
+hp: @en_track_meet
+hyper: @en_broad_jump
+hyper: @en_discus
+hyper: @en_high_jump
+hyper: @en_javelin
+hyper: Arremesso_de_peso
+hyper: Lançamento_de_martelo
+hyper: salto_com_vara
+hypo: combate
+sa: @en:noun.event:field_event
+
+w: @en_field_trial
+d: @en_a contest between gun dogs to determine their proficiency in pointing and retrieving
+hypo: certame
+sa: @en:noun.event:field_trial
+
+w: @en_final
+d: @en_the final match between the winners of all previous matches in an elimination tournament
+hp: @en_elimination_tournament
+hyper: final_da_taça
+hypo: combate
+sa: @en:noun.event:final
+
+w: @en_finish
+d: @en_the downfall of someone (as of persons on one side of a conflict)
+hypo: queda
+sa: @en:noun.event:finish 1
+
+w: @en_finish 1
+d: @en_designated event that concludes a contest (especially a race)
+hyper: @en_photo_finish
+hyper: @en_runner-up_finish
+hyper: @en_third-place_finish
+hyper: empate
+hypo: acontecimento 2
+sa: @en:noun.event:finish
+
+w: @en_fire
+d: @en_a severe trial
+hypo: tribulação
+sa: @en:noun.event:fire 1
+
+w: @en_fire_walking
+d: @en_the ceremony of walking barefoot over hot stones or a bed of embers
+hypo: cerimónia
+sa: @en:noun.event:fire_walking
+
+w: @en_first-place_finish
+d: @en_a finish in first place (as in a race)
+hypo: vitória 1
+sa: @en:noun.event:first-place_finish
+
+w: @en_flame-out
+d: @en_a complete or conspicuous failure
+hypo: desastre 1
+sa: @en:noun.event:flame-out 1
+
+w: @en_flame-out 1
+d: @en_the failure of a jet engine caused by an interruption of the fuel supply or by faulty combustion
+hypo: Blecautes
+mt: noun.artifact:Motor_a_Jacto
+sa: @en:noun.event:flame-out
+
+w: @en_flap
+w: @en_flapping
+w: @en_flutter
+w: @en_fluttering
+d: @en_the motion made by flapping up and down
+hypo: onda
+sa: @en:noun.event:flap 1
+
+w: @en_flash
+w: @en_flashing
+d: @en_a short vivid experience
+hypo: experiência
+sa: @en:noun.event:flash 1
+
+w: @en_flash 1
+d: @en_a sudden intense burst of radiant energy
+hyper: @en_coruscation
+hyper: @en_gleam
+hyper: @en_heat_flash
+hyper: @en_streak
+hyper: fagulha
+hyper: raio
+hypo: acontecimento 2
+sa: @en:noun.event:flash
+
+w: @en_flashback
+d: @en_an unexpected but vivid recurrence of a past experience (especially a recurrence of the effects of an hallucinogenic drug taken much earlier)
+hypo: recorrência
+sa: @en:noun.event:flashback
+
+w: @en_flesh_wound
+d: @en_a wound that does not damage important internal organs or shatter any bones
+hypo: ferida
+sa: @en:noun.event:flesh_wound
+
+w: @en_flick
+d: @en_a light sharp contact (usually with something flexible)
+hypo: toque 1
+sa: @en:noun.event:flick
+
+w: @en_flood
+w: @en_flood_tide 1
+w: @en_rising_tide
+d: @en_the occurrence of incoming water (between a low tide and the following high tide)
+hypo: maré
+sa: @en:noun.event:flood
+
+w: @en_fluctuation
+d: @en_a wave motion
+hypo: onda
+sa: @en:noun.event:fluctuation 1
+
+w: @en_flush
+w: @en_gush
+w: @en_outpouring 1
+d: @en_a sudden rapid flow (as of water)
+hyper: @en_springtide
+hypo: fluxo 1
+sa: @en:noun.event:flush
+
+w: @en_flying_start
+w: @en_running_start
+d: @en_a quick and auspicious beginning
+hypo: começo 3
+sa: @en:noun.event:flying_start
+
+w: @en_flying_start 1
+w: @en_running_start 1
+d: @en_a racing start in which the contestants are already in full motion when they pass the starting line
+hypo: @en_racing_start
+sa: @en:noun.event:flying_start 1
+
+w: @en_foot_race
+w: @en_footrace
+w: @en_run 1
+d: @en_a race run on foot
+hyper: @en_fun_run
+hyper: @en_obstacle_race
+hyper: @en_steeplechase 1
+hyper: @en_track_event
+hyper: Maratona
+hypo: corrida 1
+sa: @en:noun.event:foot_race
+
+w: @en_footfall
+w: @en_footstep
+w: @en_step
+d: @en_the sound of a step of someone walking
+hyper: @en_tramp
+hypo: ruído 3
+sa: @en:noun.event:footfall
+
+w: @en_foregone_conclusion
+w: @en_matter_of_course
+d: @en_an inevitable ending
+hypo: chegada
+sa: @en:noun.event:foregone_conclusion
+
+w: @en_foreshock
+d: @en_a tremor preceding an earthquake
+hypo: tremor 1
+sa: @en:noun.event:foreshock
+
+w: @en_foundering
+w: @en_going_under
+d: @en_(of a ship) sinking
+hypo: @en_sinking 1
+mt: noun.artifact:barco 2
+sa: @en:noun.event:foundering
+
+w: @en_fragmentation
+d: @en_the scattering of bomb fragments after the bomb explodes
+hypo: explosão 2
+sa: @en:noun.event:fragmentation
+
+w: @en_freshet
+w: @en_spate
+d: @en_the occurrence of a water flow resulting from sudden rain or melting snow
+hypo: fluxo 1
+sa: @en:noun.event:freshet
+
+w: @en_fruit
+d: @en_the consequence of some effort or action
+hypo: conseqüência 1
+sa: @en:noun.event:fruit
+
+w: @en_fun_run
+w: @en_funrun
+d: @en_a footrace run for fun (often including runners who are sponsored for a charity)
+hypo: @en_foot_race
+sa: @en:noun.event:fun_run
+
+w: @en_fundamental
+d: @en_any factor that could be considered important to the understanding of a particular business
+hypo: fator
+sa: @en:noun.event:fundamental
+
+w: @en_fundraiser
+d: @en_a social function that is held for the purpose of raising money
+hypo: acontecimento 1
+sa: @en:noun.event:fundraiser
+
+w: @en_generation
+w: @en_genesis
+d: @en_a coming into being
+hypo: começo
+sa: @en:noun.event:generation
+
+w: @en_gleam
+w: @en_gleaming
+w: @en_glimmer
+d: @en_a flash of light (especially reflected light)
+hypo: @en_flash 1
+sa: @en:noun.event:gleam
+
+w: @en_glycogenesis
+d: @en_the conversion of glucose to glycogen when the glucose in the blood exceeds the demand
+hypo: mudança 5
+sa: @en:noun.event:glycogenesis
+
+w: @en_gobble
+d: @en_the characteristic sound made by a turkey cock
+hypo: @en_cry
+sa: @en:noun.event:gobble
+
+w: @en_grand_slam
+d: @en_winning all of the tricks in a hand of bridge
+hypo: @en_slam
+sa: @en:noun.event:grand_slam
+
+w: @en_grassfire
+w: @en_prairie_fire
+d: @en_an uncontrolled fire in a grassy area
+hypo: fogo 1
+sa: @en:noun.event:grassfire
+
+w: @en_grate
+d: @en_a harsh rasping sound made by scraping something
+hypo: ruído 4
+sa: @en:noun.event:grate
+
+w: @en_grinding
+d: @en_a harsh and strident sound (as of the grinding of gears)
+hypo: ruído 4
+sa: @en:noun.event:grinding
+
+w: @en_ground_fire
+d: @en_a forest fire that burns the humus; may not appear on the surface
+hypo: incêndio_florestal
+sa: @en:noun.event:ground_fire
+
+w: @en_ground_floor
+d: @en_becoming part of a venture at the beginning (regarded as position of advantage)
+hypo: começo
+sa: @en:noun.event:ground_floor
+
+w: @en_ground_loop
+d: @en_a sharp uncontrollable turn made by an airplane while moving along the ground
+hypo: acidente 5
+sa: @en:noun.event:ground_loop
+
+w: @en_ground_swell
+d: @en_an obvious change of public opinion or political sentiment that occurs without leadership or overt expression
+hypo: transição 1
+sa: @en:noun.event:ground_swell 1
+
+w: @en_ground_swell 1
+w: @en_heavy_swell
+d: @en_a broad and deep undulation of the ocean
+hypo: @en_crestless_wave
+sa: @en:noun.event:ground_swell
+
+w: @en_growl
+w: @en_growling
+d: @en_the sound of growling (as made by animals)
+hypo: @en_cry
+sa: @en:noun.event:growl
+
+w: @en_grumble
+w: @en_grumbling
+w: @en_rumble
+w: @en_rumbling
+d: @en_a loud low dull continuous noise
+hypo: ruído 4
+sa: @en:noun.event:grumble
+
+w: @en_grunt
+w: @en_oink
+d: @en_the short low gruff noise of the kind made by hogs
+hypo: ruído 4
+sa: @en:noun.event:grunt
+
+w: @en_gymkhana
+d: @en_a meet at which riders and horses display a range of skills and aptitudes
+hypo: @en_meet
+sa: @en:noun.event:gymkhana
+
+w: @en_halt
+w: @en_stop
+d: @en_the event of something ending
+hyper: cessação
+hyper: paralisação
+hypo: chegada
+sa: @en:noun.event:halt
+
+w: @en_hap
+d: @en_an accidental happening
+hypo: acidente 1
+sa: @en:noun.event:hap
+
+w: @en_hardware_error
+d: @en_error resulting from a malfunction of some physical component of the computer
+hyper: @en_disk_error
+hypo: @en_computer_error
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.event:hardware_error
+
+w: @en_harmonic_motion
+d: @en_a periodic motion in which the displacement is either symmetrical about a point or is the sum of such motions
+hyper: Movimento_harmónico_simples
+hypo: @en_periodic_motion
+sa: @en:noun.event:harmonic_motion
+
+w: @en_harness_race
+w: @en_harness_racing
+d: @en_a horse race between people riding in sulkies behind horses that are trotting or pacing
+hypo: @en_horse_race
+sa: @en:noun.event:harness_race
+
+w: @en_head
+w: @en_headway
+d: @en_forward movement
+hypo: avanço
+sa: @en:noun.event:head
+
+w: @en_head 1
+w: @en_pass
+w: @en_straits
+d: @en_a difficult juncture
+hypo: @en_juncture
+sa: @en:noun.event:head 1
+
+w: @en_head_trip
+w: @en_trip
+d: @en_an exciting or stimulating experience
+hypo: experiência
+sa: @en:noun.event:head_trip
+
+w: @en_heartbreaker
+d: @en_a narrow defeat or a defeat at the last minute
+hypo: derrota
+sa: @en:noun.event:heartbreaker
+
+w: @en_heat
+d: @en_a preliminary race in which the winner advances to a more important race
+hypo: corrida 1
+sa: @en:noun.event:heat
+
+w: @en_heat_flash
+d: @en_a flash of intense heat (as released by an atomic explosion)
+hypo: @en_flash 1
+sa: @en:noun.event:heat_flash
+
+w: @en_heat_lightning
+d: @en_bright flashes of light near the horizon without thunder (especially on hot evenings); usually attributed to distant lightning that is reflected by clouds
+hypo: raio
+sa: @en:noun.event:heat_lightning
+
+w: @en_heave
+w: @en_heaving
+d: @en_an upward movement (especially a rhythmical rising and falling)
+hypo: ascensão
+sa: @en:noun.event:heave 1
+
+w: @en_heave 1
+d: @en_(geology) a horizontal dislocation
+hypo: movimento
+mt: noun.cognition:geologia
+sa: @en:noun.event:heave
+
+w: @en_high_jump
+d: @en_a competition that involves jumping as high as possible over a horizontal bar
+hypo: @en_field_event
+sa: @en:noun.event:high_jump
+
+w: @en_home_stand
+d: @en_a series of successive games played at a team's home field or court
+hypo: @en_series
+sa: @en:noun.event:home_stand
+
+w: @en_homestretch
+d: @en_the end of an enterprise
+hypo: fim 1
+mu: noun.communication:@en_colloquialism
+sa: @en:noun.event:homestretch
+
+w: @en_hop
+w: @en_record_hop
+d: @en_an informal dance where popular music is played
+hypo: baile
+sa: @en:noun.event:hop
+
+w: @en_horse_race
+d: @en_a contest of speed between horses; usually held for the purpose of betting
+hyper: @en_claiming_race
+hyper: @en_harness_race
+hyper: @en_selling_race
+hyper: @en_stake_race
+hyper: @en_steeplechase
+hyper: @en_thoroughbred_race
+hypo: corrida 1
+sa: @en:noun.event:horse_race
+
+w: @en_house_party
+d: @en_a party lasting over one or more nights at a large house
+hypo: balada
+sa: @en:noun.event:house_party
+
+w: @en_howl
+d: @en_a loud sustained noise resembling the cry of a hound
+hyper: gritar_agudo
+hypo: ruído 4
+sa: @en:noun.event:howl
+
+w: @en_humiliation
+w: @en_mortification
+d: @en_an instance in which you are caused to lose your prestige or self-respect
+hypo: caso
+sa: @en:noun.event:humiliation
+
+w: @en_immersion
+w: @en_ingress
+d: @en_(astronomy) the disappearance of a celestial body prior to an eclipse
+hp: eclipse
+hypo: @en_disappearance 1
+mt: noun.cognition:Astronomia
+sa: @en:noun.event:immersion 1
+
+w: @en_implosion
+d: @en_a sudden inward collapse
+hyper: Colapso_gravitacional
+hypo: colapso
+sa: @en:noun.event:implosion
+
+w: @en_impulse
+w: @en_nerve_impulse
+w: @en_nervous_impulse
+w: @en_neural_impulse
+d: @en_the electrical discharge that travels along a nerve fiber
+hyper: potencial_de_ação
+hypo: @en_electrical_discharge
+sa: @en:noun.event:impulse
+
+w: @en_inevitable
+d: @en_an unavoidable event
+hypo: destino
+sa: @en:noun.event:inevitable
+
+w: @en_inferior_conjunction
+d: @en_(astronomy) the alignment of the Earth and a planet on the same side of the sun
+hypo: Conjunção
+mt: noun.cognition:Astronomia
+sa: @en:noun.event:inferior_conjunction
+
+w: @en_inflation
+d: @en_(cosmology) a brief exponential expansion of the universe (faster than the speed of light) postulated to have occurred shortly after the big bang
+hypo: explosão 2
+mt: noun.cognition:Cosmologia
+sa: @en:noun.event:inflation
+
+w: @en_insertional_mutagenesis
+d: @en_(genetics) a mutation caused by the insertion of exogenous DNA into a genome
+hypo: @en_mutagenesis
+mt: noun.cognition:Genetica
+sa: @en:noun.event:insertional_mutagenesis
+
+w: @en_instroke
+d: @en_the stroke of an engine piston moving away from the crankshaft
+hypo: @en_cam_stroke
+sa: @en:noun.event:instroke
+
+w: @en_intravenous_drip
+d: @en_slow continuous drip introducing solutions intravenously (a drop at a time)
+hypo: drible
+sa: @en:noun.event:intravenous_drip
+
+w: @en_invasion
+d: @en_(pathology) the spread of pathogenic microorganisms or malignant cells to new sites in the body
+hypo: @en_spread
+mt: noun.cognition:@en_medical_specialty
+sa: @en:noun.event:invasion 1
+
+w: @en_inversion
+d: @en_(genetics) a kind of mutation in which the order of the genes in a section of a chromosome is reversed
+hypo: Mutação
+mt: noun.cognition:Genetica
+sa: @en:noun.event:inversion
+
+w: @en_irradiation
+d: @en_(physiology) the spread of sensory neural impulses in the cortex
+hypo: @en_spread
+mt: noun.cognition:Fisiologia
+sa: @en:noun.event:irradiation
+
+w: @en_isomerisation
+w: @en_isomerization
+d: @en_the conversion of a compound into an isomer of itself
+hypo: mudança 5
+sa: @en:noun.event:isomerisation
+
+w: @en_jangle
+w: @en_jingle
+d: @en_a metallic sound
+hypo: ruído 3
+sa: @en:noun.event:jangle
+
+w: @en_javelin
+d: @en_an athletic competition in which a javelin is thrown as far as possible
+hypo: @en_field_event
+sa: @en:noun.event:javelin
+
+w: @en_jitter
+d: @en_a small irregular movement
+hypo: movimento
+sa: @en:noun.event:jitter 1
+
+w: @en_jitter 1
+d: @en_small rapid variations in a waveform resulting from fluctuations in the voltage supply or mechanical vibrations or other sources
+hypo: estrondo
+sa: @en:noun.event:jitter
+
+w: @en_jolly
+d: @en_a happy party
+hypo: balada
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.event:jolly
+
+w: @en_juncture
+w: @en_occasion
+d: @en_an event that occurs at a critical time
+hyper: @en_climax
+hyper: @en_conjuncture
+hyper: @en_head 1
+hyper: @en_milestone
+hyper: @en_reality_check
+hyper: crise
+hyper: ponto_de_viragem
+hypo: acontecimento 2
+sa: @en:noun.event:juncture
+
+w: @en_just_deserts
+w: @en_poetic_justice
+d: @en_an outcome in which virtue triumphs over vice (often ironically)
+hypo: placar
+sa: @en:noun.event:just_deserts
+
+w: @en_kismat
+w: @en_kismet
+d: @en_(Islam) the will of Allah
+hypo: destino
+mt: noun.cognition:islamismo
+sa: @en:noun.event:kismat
+
+w: @en_kiss_of_death
+d: @en_something that is ruinous
+hypo: calamidade
+sa: @en:noun.event:kiss_of_death
+
+w: @en_knell
+d: @en_the sound of a bell rung slowly to announce a death or a funeral or the end of something
+hypo: @en_bell
+sa: @en:noun.event:knell
+
+w: @en_ladder
+w: @en_ravel
+w: @en_run 2
+d: @en_a row of unravelled stitches
+hypo: avaria
+sa: @en:noun.event:ladder
+
+w: @en_landslide
+d: @en_an overwhelming electoral victory
+hypo: vitória 2
+sa: @en:noun.event:landslide 1
+
+w: @en_last_laugh
+d: @en_ultimate success achieved after a near failure (inspired by the saying `he laughs best who laughs last')
+hypo: vitória 2
+sa: @en:noun.event:last_laugh
+
+w: @en_lee_tide
+w: @en_leeward_tide
+d: @en_a tide that runs in the same direction as the wind is blowing
+hypo: maré
+sa: @en:noun.event:lee_tide
+
+w: @en_levitation
+d: @en_movement upward in virtue of lightness
+hypo: @en_change_of_location
+sa: @en:noun.event:levitation
+
+w: @en_lift
+w: @en_rise
+d: @en_a wave that lifts the surface of the water or ground
+hypo: onda 2
+sa: @en:noun.event:lift 1
+
+w: @en_liftoff
+d: @en_the initial ascent of a rocket from its launching pad
+hypo: ascensão
+sa: @en:noun.event:liftoff
+
+w: @en_lightening
+d: @en_descent of the uterus into the pelvic cavity that occurs late in pregnancy; the fetus is said to have dropped
+hypo: descenso
+sa: @en:noun.event:lightening
+
+w: @en_little_slam
+w: @en_small_slam
+d: @en_winning all but one of the tricks in a hand of bridge
+hypo: @en_slam
+sa: @en:noun.event:little_slam
+
+w: @en_live_birth
+d: @en_the birth of a living fetus (regardless of the length of gestation)
+hyper: @en_blessed_event
+hypo: nascimento
+sa: @en:noun.event:live_birth
+
+w: @en_loss
+d: @en_the experience of losing a loved one
+hypo: experiência
+sa: @en:noun.event:loss 1
+
+w: @en_loss 1
+w: @en_personnel_casualty
+d: @en_military personnel lost by death or capture
+hyper: @en_sacrifice
+hyper: ferida
+hypo: @en_casualty
+mt: noun.group:exército 3
+sa: @en:noun.event:loss
+
+w: @en_loss_of_consciousness
+d: @en_the occurrence of a loss of the ability to perceive and respond
+hyper: chilique
+hypo: alteração
+sa: @en:noun.event:loss_of_consciousness
+
+w: @en_lurch
+d: @en_a decisive defeat in a game (especially in cribbage)
+hypo: derrota
+sa: @en:noun.event:lurch
+
+w: @en_luxation
+d: @en_displacement or misalignment of a joint or organ
+hyper: @en_subluxation
+hypo: deslocamento
+sa: @en:noun.event:luxation
+
+w: @en_magnetic_storm
+d: @en_a sudden disturbance of the earth's magnetic field; caused by emission of particles from the sun
+hypo: @en_disturbance
+sa: @en:noun.event:magnetic_storm
+
+w: @en_manifestation
+w: @en_materialisation
+w: @en_materialization
+d: @en_an appearance in bodily form (as of a disembodied spirit)
+hypo: @en_appearance
+sa: @en:noun.event:manifestation 1
+
+w: @en_match_game
+w: @en_matched_game
+w: @en_test_match
+d: @en_an international championship match
+hypo: combate
+sa: @en:noun.event:match_game
+
+w: @en_materialisation 1
+w: @en_materialization 1
+w: @en_offspring
+d: @en_something that comes into existence as a result
+hypo: noun.phenomenon:conseqüência
+sa: @en:noun.event:materialisation 1
+
+w: @en_meet
+w: @en_sports_meeting
+d: @en_a meeting at which a number of athletic contests are held
+hyper: @en_gymkhana
+hyper: @en_race_meeting
+hyper: @en_regatta
+hyper: @en_swim_meet
+hyper: @en_track_meet
+hypo: @en_athletic_competition
+mp: noun.act:atletismo
+sa: @en:noun.event:meet
+
+w: @en_megadeath
+d: @en_the death of a million people
+hypo: morte 2
+sa: @en:noun.event:megadeath
+
+w: @en_menarche
+d: @en_the first occurrence of menstruation in a woman
+hypo: começo 3
+sa: @en:noun.event:menarche
+
+w: @en_merry-go-round
+d: @en_a never-ending cycle of activities and events (especially when they seem to have little purpose)
+hypo: ciclo
+sa: @en:noun.event:merry-go-round
+
+w: @en_might-have-been
+d: @en_an event that could have occurred but never did
+hypo: noun.Tops:acontecimento
+sa: @en:noun.event:might-have-been
+
+w: @en_migration
+d: @en_(chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule
+hypo: noun.Tops:acontecimento
+mt: noun.cognition:Quimica
+sa: @en:noun.event:migration 1
+
+w: @en_mile
+d: @en_a footrace extending one mile
+hypo: @en_track_event
+sa: @en:noun.event:mile
+
+w: @en_milestone
+d: @en_a significant event in your life (or in a project)
+hypo: @en_juncture
+sa: @en:noun.event:milestone
+
+w: @en_military_ceremony
+d: @en_a formal ceremony performed by military personnel
+hypo: cerimónia
+mt: noun.group:exército 3
+sa: @en:noun.event:military_ceremony
+
+w: @en_misfire
+w: @en_miss
+d: @en_a failure to hit (or meet or find etc)
+hypo: desastre 1
+sa: @en:noun.event:misfire 1
+
+w: @en_moksa
+d: @en_(Hinduism) release from the cycle of rebirth
+hypo: @en_cycle_of_rebirth
+mt: noun.cognition:hinduísmo
+sa: @en:noun.event:moksa
+
+w: @en_monstrosity
+d: @en_something hideous or frightful
+hypo: malformação
+sa: @en:noun.event:monstrosity
+
+w: @en_murmur
+w: @en_murmuration
+w: @en_murmuring
+w: @en_mussitation
+w: @en_mutter
+w: @en_muttering
+d: @en_a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech
+hypo: ruído 3
+sa: @en:noun.event:murmur
+
+w: @en_mutagenesis
+d: @en_an event capable of causing a mutation
+hp: Mutação
+hyper: @en_insertional_mutagenesis
+hypo: causa
+sa: @en:noun.event:mutagenesis
+
+w: @en_near-death_experience
+d: @en_the experience of being close to death but surviving
+hypo: experiência
+sa: @en:noun.event:near-death_experience
+
+w: @en_near_miss
+d: @en_an accidental collision that is narrowly avoided
+hypo: acidente 5
+sa: @en:noun.event:near_miss
+
+w: @en_nonevent
+d: @en_an anticipated event that turns out to be far less significant than was expected
+hypo: noun.Tops:acontecimento
+sa: @en:noun.event:nonevent
+
+w: @en_obstacle_race
+d: @en_a race in which competitors must negotiate obstacles
+hypo: @en_foot_race
+sa: @en:noun.event:obstacle_race
+
+w: @en_one-off
+d: @en_a happening that occurs only once and is not repeated
+hypo: acontecimento 2
+sa: @en:noun.event:one-off
+
+w: @en_onrush
+d: @en_a forceful forward rush or flow
+hypo: @en_rush 1
+sa: @en:noun.event:onrush
+
+w: @en_onslaught
+d: @en_a sudden and severe onset of trouble
+hypo: problema 1
+sa: @en:noun.event:onslaught
+
+w: @en_ooze
+w: @en_oozing
+w: @en_seepage
+d: @en_the process of seeping
+hyper: exsudação
+hypo: fluxo 1
+sa: @en:noun.event:ooze
+
+w: @en_open
+d: @en_a tournament in which both professionals and amateurs may play
+hypo: torneio 3
+sa: @en:noun.event:open
+
+w: @en_operational_casualty
+w: @en_operational_damage
+d: @en_loss of military equipment in field operations
+hypo: @en_damage
+mt: noun.group:exército 3
+sa: @en:noun.event:operational_casualty
+
+w: @en_orbital_motion
+w: @en_orbital_rotation
+d: @en_motion of an object in an orbit around a fixed point
+hypo: rotação
+sa: @en:noun.event:orbital_motion
+
+w: @en_outage
+d: @en_a temporary suspension of operation (as of computers)
+hypo: avaria 1
+mt: noun.artifact:calculadora 1
+sa: @en:noun.event:outage
+
+w: @en_outstroke
+d: @en_the stroke of an engine piston moving toward the crankshaft
+hypo: @en_cam_stroke
+sa: @en:noun.event:outstroke
+
+w: @en_overture
+w: @en_preliminary
+w: @en_prelude
+d: @en_something that serves as a preceding event or introduces what follows
+hypo: começo 2
+sa: @en:noun.event:overture
+
+w: @en_pageant
+w: @en_pageantry
+d: @en_a rich and spectacular ceremony
+hypo: cerimónia
+sa: @en:noun.event:pageant
+
+w: @en_pant
+d: @en_the noise made by a short puff of steam (as from an engine)
+hypo: ruído 4
+sa: @en:noun.event:pant
+
+w: @en_partial_eclipse
+d: @en_an eclipse in which the eclipsed body is only partially obscured
+hypo: eclipse
+sa: @en:noun.event:partial_eclipse
+
+w: @en_pass 1
+d: @en_one complete cycle of operations (as by a computer)
+hypo: @en_cycle
+mt: noun.artifact:calculadora 1
+sa: @en:noun.event:pass 1
+
+w: @en_passing
+d: @en_the end of something
+hypo: fim 1
+sa: @en:noun.event:passing 2
+
+w: @en_pat
+w: @en_rap
+w: @en_tap
+d: @en_the sound made by a gentle blow
+hyper: @en_pitter-patter
+hypo: ruído 3
+sa: @en:noun.event:pat
+
+w: @en_patter
+d: @en_a quick succession of light rapid sounds
+hypo: ruído 3
+sa: @en:noun.event:patter
+
+w: @en_payoff
+w: @en_reward
+w: @en_wages
+d: @en_a recompense for worthy acts or retribution for wrongdoing
+hypo: conseqüência 1
+sa: @en:noun.event:payoff
+
+w: @en_peal
+w: @en_pealing
+w: @en_roll 1
+w: @en_rolling
+d: @en_a deep prolonged sound (as of thunder or large bells)
+hypo: ruído 3
+sa: @en:noun.event:peal
+
+w: @en_periodic_event
+w: @en_recurrent_event
+d: @en_an event that recurs at intervals
+hyper: @en_cycle
+hyper: @en_sunset
+hyper: Migrações_humanas
+hyper: aurora
+hyper: maré
+hyper: pulso
+hyper: repetição 2
+hypo: acontecimento 2
+sa: @en:noun.event:periodic_event
+
+w: @en_periodic_motion
+w: @en_periodic_movement
+d: @en_motion that recurs over and over and the period of time required for each recurrence remains the same
+hyper: @en_harmonic_motion
+hypo: movimento
+sa: @en:noun.event:periodic_motion
+
+w: @en_peripeteia
+w: @en_peripetia
+w: @en_peripety
+d: @en_a sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work)
+hypo: surpresa
+sa: @en:noun.event:peripeteia
+
+w: @en_permutation
+w: @en_replacement
+w: @en_substitution
+w: @en_switch
+w: @en_transposition
+d: @en_an event in which one thing is substituted for another
+hypo: flutuação
+sa: @en:noun.event:permutation
+
+w: @en_photo_finish
+d: @en_in general, any very close finish; in particular, a finish of a race in which the contestants are so close together that the winner must be determined from a photograph taken at the instant of finishing
+hypo: @en_finish 1
+sa: @en:noun.event:photo_finish
+
+w: @en_photo_op
+w: @en_photo_opportunity
+d: @en_an occasion that lends itself to (or is deliberately arranged for) taking photographs that provide favorable publicity for those who are photographed
+hypo: acontecimento 1
+sa: @en:noun.event:photo_op
+
+w: @en_pileup
+d: @en_multiple collisions of vehicles
+hypo: colisión
+sa: @en:noun.event:pileup
+
+w: @en_ping
+d: @en_a sharp high-pitched resonant sound (as of a sonar echo or a bullet striking metal)
+hypo: ruído 3
+sa: @en:noun.event:ping
+
+w: @en_pitter-patter
+d: @en_a series of rapid tapping sounds
+hypo: @en_pat
+sa: @en:noun.event:pitter-patter
+
+w: @en_plague
+d: @en_any large scale calamity (especially when thought to be sent by God)
+hypo: calamidade
+sa: @en:noun.event:plague
+
+w: @en_play
+w: @en_shimmer
+d: @en_a weak and tremulous light
+hypo: alteração
+sa: @en:noun.event:play
+
+w: @en_playoff
+d: @en_any final competition to determine a championship
+hyper: World_Series
+hypo: certame
+mp: noun.act:@en_playoff_game
+sa: @en:noun.event:playoff
+
+w: @en_plonk
+d: @en_the noise of something dropping (as into liquid)
+hypo: ruído 4
+sa: @en:noun.event:plonk
+
+w: @en_plop
+d: @en_the noise of a rounded object dropping into a liquid without a splash
+hypo: ruído 4
+sa: @en:noun.event:plop
+
+w: @en_plump
+d: @en_the sound of a sudden heavy fall
+hypo: ruído 4
+sa: @en:noun.event:plump
+
+w: @en_plunge
+d: @en_a steep and rapid fall
+hypo: queda 1
+sa: @en:noun.event:plunge
+
+w: @en_plunk
+d: @en_a hollow twanging sound
+hypo: ruído 3
+sa: @en:noun.event:plunk
+
+w: @en_population_shift
+d: @en_a change in the relative numbers of the different groups of individuals making up a population
+hypo: mudança 3
+sa: @en:noun.event:population_shift
+
+w: @en_posthumous_birth
+d: @en_birth of a child after the father has died
+hypo: nascimento
+sa: @en:noun.event:posthumous_birth 1
+
+w: @en_posthumous_birth 1
+d: @en_birth of a child by Caesarean section after the death of the mother
+hypo: nascimento
+sa: @en:noun.event:posthumous_birth
+
+w: @en_potato_race
+d: @en_a novelty race in which competitors move potatoes from one place to another one at a time
+hypo: corrida 1
+sa: @en:noun.event:potato_race
+
+w: @en_potlatch
+d: @en_a ceremonial feast held by some Indians of the northwestern coast of North America (as in celebrating a marriage or a new accession) in which the host gives gifts to tribesmen and others to display his superior wealth (sometimes, formerly, to his own impoverishment)
+hypo: banquete 1
+hypo: cerimónia
+sa: @en:noun.event:potlatch
+
+w: @en_pounding 1
+w: @en_throb
+w: @en_throbbing
+d: @en_an instance of rapid strong pulsation (of the heart)
+hypo: pulso
+sa: @en:noun.event:pounding 1
+
+w: @en_prang
+d: @en_a crash involving a car or plane
+hypo: acidente 3
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.event:prang
+
+w: @en_precipitation
+d: @en_the act of casting down or falling headlong from a height
+hypo: queda 1
+sa: @en:noun.event:precipitation
+
+w: @en_predestination
+d: @en_previous determination as if by destiny or fate
+hypo: destino
+sa: @en:noun.event:predestination
+
+w: @en_prelim
+w: @en_preliminary 1
+d: @en_a minor match preceding the main event
+hypo: @en_athletic_competition
+sa: @en:noun.event:prelim
+
+w: @en_prize_fight
+w: @en_prizefight
+d: @en_a boxing match between professional boxers for a cash prize
+hypo: @en_boxing_match
+sa: @en:noun.event:prize_fight
+
+w: @en_programming_error
+w: @en_software_error
+d: @en_error resulting from bad code in some program involved in producing the erroneous result
+hyper: @en_run-time_error
+hyper: @en_syntax_error
+hypo: @en_computer_error
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.event:programming_error
+
+w: @en_prom
+w: @en_promenade
+d: @en_a formal ball held for a school class toward the end of the academic year
+hypo: baile 1
+sa: @en:noun.event:prom
+
+w: @en_punctuation
+d: @en_something that makes repeated and regular interruptions or divisions
+hypo: interrupção
+sa: @en:noun.event:punctuation
+
+w: @en_puncture
+d: @en_loss of air pressure in a tire when a hole is made by some sharp object
+hypo: acidente 5
+sa: @en:noun.event:puncture
+
+w: @en_quack
+d: @en_the harsh sound of a duck
+hypo: ruído 3
+sa: @en:noun.event:quack
+
+w: @en_quantum_jump
+d: @en_(physics) an abrupt transition of an electron or atom or molecule from one quantum state to another with the emission or absorption of a quantum
+hypo: pulo
+mt: noun.cognition:Fisica
+sa: @en:noun.event:quantum_jump
+
+w: @en_quarterfinal
+d: @en_one of the four competitions in an elimination tournament whose winners go on to play in the semifinals
+hp: @en_elimination_tournament
+hypo: combate
+sa: @en:noun.event:quarterfinal
+
+w: @en_race_meeting
+d: @en_a regular occasion on which a number of horse races are held on the same track
+hypo: @en_meet
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.event:race_meeting
+
+w: @en_racing_start
+d: @en_the start of a race
+hyper: @en_flying_start 1
+hypo: começo 3
+sa: @en:noun.event:racing_start
+
+w: @en_rack
+w: @en_wrack
+d: @en_the destruction or collapse of something
+hypo: demolição
+sa: @en:noun.event:rack
+
+w: @en_radiation
+d: @en_the spread of a group of organisms into new habitats
+hyper: @en_adaptive_radiation
+hypo: @en_spread
+hypo: noun.process:atividade
+sa: @en:noun.event:radiation
+
+w: @en_radio_noise
+d: @en_static at radio wavelengths
+hypo: @en_atmospheric_static
+sa: @en:noun.event:radio_noise
+
+w: @en_rale
+w: @en_rattle
+w: @en_rattling
+d: @en_a rapid series of short loud sounds (as might be heard with a stethoscope in some types of respiratory disorders)
+hyper: @en_crepitation_rale
+hypo: ruído 4
+sa: @en:noun.event:rale
+
+w: @en_rally
+d: @en_an automobile race run over public roads
+hypo: @en_auto_race
+sa: @en:noun.event:rally 1
+
+w: @en_rapid_climb
+w: @en_rapid_growth
+w: @en_zoom
+d: @en_a rapid rise
+hypo: ascensão
+sa: @en:noun.event:rapid_climb
+
+w: @en_rat-a-tat
+w: @en_rat-a-tat-tat
+w: @en_rat-tat
+d: @en_a series of short sharp taps (as made by strokes on a drum or knocks on a door)
+hypo: tapping
+sa: @en:noun.event:rat-a-tat
+
+w: @en_raw_deal
+d: @en_unfair treatment
+hypo: @en_deal
+sa: @en:noun.event:raw_deal
+
+w: @en_razing
+w: @en_wrecking
+d: @en_the event of a structure being completely demolished and leveled
+hypo: demolição
+sa: @en:noun.event:razing
+
+w: @en_reality_check
+d: @en_an occasion on which one is reminded of the nature of things in the real world
+hypo: @en_juncture
+sa: @en:noun.event:reality_check
+
+w: @en_reappearance
+d: @en_the event of something appearing again
+hyper: @en_egress
+hypo: @en_appearance
+sa: @en:noun.event:reappearance
+
+w: @en_rebirth
+w: @en_reincarnation
+w: @en_renascence
+d: @en_a second or new birth
+hyper: @en_cycle_of_rebirth
+hyper: @en_transmigration
+hypo: nascimento
+sa: @en:noun.event:rebirth
+
+w: @en_recombination
+d: @en_(physics) a combining of charges or transfer of electrons in a gas that results in the neutralization of ions; important for ions arising from the passage of high-energy particles
+hypo: combinação
+mt: noun.cognition:Fisica
+sa: @en:noun.event:recombination 1
+
+w: @en_recombination 1
+d: @en_(genetics) a combining of genes or characters different from what they were in the parents
+hypo: combinação
+mt: noun.cognition:Genetica
+sa: @en:noun.event:recombination
+
+w: @en_recrudescence
+d: @en_a return of something after a period of abatement
+hypo: Surto
+sa: @en:noun.event:recrudescence
+
+w: @en_rectification
+d: @en_the conversion of alternating current to direct current
+hypo: mudança 5
+sa: @en:noun.event:rectification
+
+w: @en_rededication
+d: @en_a new dedication
+hypo: @en_dedication
+sa: @en:noun.event:rededication
+
+w: @en_regatta
+d: @en_a meeting for boat races
+hypo: @en_meet
+sa: @en:noun.event:regatta
+
+w: @en_repechage
+d: @en_a race (especially in rowing) in which runners-up in the eliminating heats compete for a place in the final race
+hypo: corrida 1
+sa: @en:noun.event:repechage
+
+w: @en_report
+d: @en_a sharp explosive sound (especially the sound of a gun firing)
+hypo: ruído 4
+sa: @en:noun.event:report
+
+w: @en_resilience
+w: @en_resiliency
+d: @en_an occurrence of rebounding or springing back
+hypo: repercussão
+sa: @en:noun.event:resilience
+
+w: @en_resolution
+d: @en_the subsidence of swelling or other signs of inflammation (especially in a lung)
+hypo: remissão
+sa: @en:noun.event:resolution
+
+w: @en_reversion
+d: @en_(genetics) a return to a normal phenotype (usually resulting from a second mutation)
+hypo: Mutação
+mt: noun.cognition:Genetica
+sa: @en:noun.event:reversion
+
+w: @en_rhonchus
+d: @en_a sound like whistling or snoring that is heard with a stethoscope during expiration as air passes through obstructed channels
+hypo: ruído 4
+sa: @en:noun.event:rhonchus
+
+w: @en_rise 1
+d: @en_a growth in strength or number or importance
+hyper: @en_crime_wave
+hyper: @en_spike
+hyper: @en_wave
+hypo: crescimento 1
+sa: @en:noun.event:rise
+
+w: @en_road_to_Damascus
+d: @en_a sudden turning point in a person's life (similar to the sudden conversion of the Apostle Paul on the road from Jerusalem to Damascus of arrest Christians)
+hypo: ponto_de_viragem
+sa: @en:noun.event:road_to_Damascus
+
+w: @en_rockslide
+d: @en_a landslide of rocks
+hypo: Deslizamento_de_terra
+sa: @en:noun.event:rockslide
+
+w: @en_roll 2
+w: @en_roller
+w: @en_rolling_wave
+d: @en_a long heavy sea wave as it advances towards the shore
+hypo: onda 2
+sa: @en:noun.event:roll 1
+
+w: @en_round_robin
+d: @en_a tournament in which every contestant plays every other contestant
+hypo: torneio 3
+sa: @en:noun.event:round_robin
+
+w: @en_rout
+d: @en_an overwhelming defeat
+hypo: derrota
+sa: @en:noun.event:rout
+
+w: @en_run-time_error
+w: @en_runtime_error
+w: @en_semantic_error
+d: @en_an error in logic or arithmetic that must be detected at run time
+hypo: @en_programming_error
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.event:run-time_error
+
+w: @en_run-up
+w: @en_runup
+d: @en_a substantial increase over a relatively short period of time
+hypo: aumento 1
+sa: @en:noun.event:run-up
+
+w: @en_runner-up_finish
+w: @en_second-place_finish
+d: @en_a finish in second place (as in a race)
+hypo: @en_finish 1
+sa: @en:noun.event:runner-up_finish
+
+w: @en_rush
+d: @en_a sudden burst of activity
+hypo: explosão 3
+sa: @en:noun.event:rush 1
+
+w: @en_rush 1
+w: @en_spate 1
+w: @en_surge
+w: @en_upsurge
+d: @en_a sudden forceful flow
+hyper: @en_debris_storm
+hyper: @en_onrush
+hypo: fluxo 1
+sa: @en:noun.event:rush
+
+w: @en_sack_race
+d: @en_a novelty race in which competitors jump ahead with their feet confined in a sack
+hypo: corrida 1
+sa: @en:noun.event:sack_race
+
+w: @en_sacrifice
+d: @en_personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective)
+hypo: @en_loss 1
+sa: @en:noun.event:sacrifice
+
+w: @en_sailing-race
+w: @en_yacht_race
+d: @en_a race between crews of people in yachts
+hypo: @en_boat_race
+sa: @en:noun.event:sailing-race
+
+w: @en_saltation
+d: @en_(genetics) a mutation that drastically changes the phenotype of an organism or species
+hypo: Mutação
+mt: noun.cognition:Genetica
+sa: @en:noun.event:saltation
+
+w: @en_salvo
+d: @en_an outburst resembling the discharge of firearms or the release of bombs
+hypo: explosão 3
+sa: @en:noun.event:salvo
+
+w: @en_samsara
+d: @en_(Hinduism and Buddhism) the endless cycle of birth and suffering and death and rebirth
+hypo: ciclo
+mt: noun.cognition:budismo
+mt: noun.cognition:hinduísmo
+sa: @en:noun.event:samsara
+
+w: @en_scene
+d: @en_an incident (real or imaginary)
+hypo: evento 2
+sa: @en:noun.event:scene
+
+w: @en_schism
+d: @en_the formal separation of a church into two churches or the withdrawal of one group over doctrinal differences
+hypo: rompimento
+ihypo: noun.time:Grande_Cisma_do_Oriente
+sa: @en:noun.event:schism
+
+w: @en_scintillation
+w: @en_sparkling
+w: @en_twinkle
+d: @en_a rapid change in brightness; a brief spark or flash
+hypo: alteração
+sa: @en:noun.event:scintillation
+
+w: @en_scrape
+w: @en_scraping
+w: @en_scratch
+w: @en_scratching
+d: @en_a harsh noise made by scraping
+hypo: ruído 4
+sa: @en:noun.event:scrape
+
+w: @en_scratch_race
+d: @en_a race in which all contestants start from scratch (on equal terms)
+hypo: corrida 1
+sa: @en:noun.event:scratch_race
+
+w: @en_scream
+w: @en_screaming
+w: @en_screech
+w: @en_screeching
+w: @en_shriek
+w: @en_shrieking
+d: @en_a high-pitched noise resembling a human cry
+hypo: ruído 4
+sa: @en:noun.event:scream
+
+w: @en_scrunch
+d: @en_a crunching noise
+hypo: ruído 4
+sa: @en:noun.event:scrunch
+
+w: @en_sea-poose
+w: @en_sea-purse
+w: @en_sea-puss
+w: @en_sea_purse
+w: @en_sea_puss
+w: @en_undertow
+d: @en_the seaward undercurrent created after waves have broken on the shore
+hypo: @en_undercurrent
+sa: @en:noun.event:sea-poose
+
+w: @en_sea_change
+d: @en_a profound transformation
+hypo: mudança 3
+sa: @en:noun.event:sea_change
+
+w: @en_seek
+d: @en_the movement of a read/write head to a specific data track on a disk
+hypo: movimento
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.event:seek
+
+w: @en_seismic_disturbance
+w: @en_shock 1
+d: @en_an instance of agitation of the earth's crust
+hypo: Sismos
+sa: @en:noun.event:seismic_disturbance
+
+w: @en_self-fertilisation
+w: @en_self-fertilization
+d: @en_fertilization by the union of male and female gametes from the same individual
+hyper: @en_autogamy
+hypo: fecundação 1
+sa: @en:noun.event:self-fertilisation
+
+w: @en_self-pollination
+d: @en_fertilization by transfer of pollen from the anthers to the stigma of the same flower
+hyper: @en_cleistogamy
+hypo: Polinização
+sa: @en:noun.event:self-pollination
+
+w: @en_selling_race
+d: @en_a horse race in which the winning horse must be put up for auction
+hypo: @en_horse_race
+sa: @en:noun.event:selling_race
+
+w: @en_semi
+w: @en_semifinal
+d: @en_one of the two competitions in the next to the last round of an elimination tournament
+hp: @en_elimination_tournament
+hypo: combate
+sa: @en:noun.event:semi
+
+w: @en_senate_campaign
+w: @en_senate_race
+d: @en_a race for election to the senate
+hypo: campanha
+sa: @en:noun.event:senate_campaign
+
+w: @en_separation
+d: @en_the termination of employment (by resignation or dismissal)
+hypo: placar
+sa: @en:noun.event:separation 1
+
+w: @en_sequella
+d: @en_a secondary consequence
+hypo: conseqüência 1
+sa: @en:noun.event:sequella
+
+w: @en_sequence
+d: @en_several repetitions of a melodic phrase in different keys
+hypo: repetição 2
+sa: @en:noun.event:sequence
+
+w: @en_series
+d: @en_(sports) several contests played successively by the same teams
+hyper: @en_home_stand
+hyper: World_Series
+hypo: certame
+mt: noun.act:esporte
+sa: @en:noun.event:series
+
+w: @en_service_break
+d: @en_a tennis game won on the opponent's service
+hp: noun.act:Tênis
+hypo: vitória 2
+sa: @en:noun.event:service_break
+
+w: @en_set
+d: @en_the descent of a heavenly body below the horizon
+hypo: descenso
+sa: @en:noun.event:set
+
+w: @en_sex_change
+d: @en_a change in a person's physical sexual characteristics (as by surgery and hormone treatments)
+hypo: alteração
+sa: @en:noun.event:sex_change
+
+w: @en_shakedown
+d: @en_initial adjustments to improve the functioning or the efficiency and to bring to a more satisfactory state
+hypo: ajustamento
+sa: @en:noun.event:shakedown
+
+w: @en_sheet_lighting
+d: @en_lightning that appears as a broad sheet; due to reflections of more distant lightning and to diffusion by the clouds
+hypo: raio
+sa: @en:noun.event:sheet_lighting
+
+w: @en_shimmy
+d: @en_an abnormal wobble in a motor vehicle (especially in the front wheels)
+hypo: @en_wobble
+sa: @en:noun.event:shimmy
+
+w: @en_shipwreck
+d: @en_an irretrievable loss
+hypo: desolação 1
+sa: @en:noun.event:shipwreck 1
+
+w: @en_shrilling
+d: @en_a continuing shrill noise
+hypo: ruído 4
+sa: @en:noun.event:shrilling
+
+w: @en_shrinkage
+w: @en_shrinking
+d: @en_process or result of becoming less or smaller
+hyper: compressão
+hypo: abatimento 1
+sa: @en:noun.event:shrinkage
+
+w: @en_shutout
+w: @en_skunk
+d: @en_a defeat in a game where one side fails to score
+hypo: derrota
+sa: @en:noun.event:shutout
+
+w: @en_sideshow
+d: @en_a subordinate incident of little importance relative to the main event
+hypo: evento 2
+sa: @en:noun.event:sideshow
+
+w: @en_sideswipe
+d: @en_a glancing blow from or on the side of something (especially motor vehicles)
+hypo: choque
+sa: @en:noun.event:sideswipe
+
+w: @en_sigh
+d: @en_a sound like a person sighing
+hypo: ruído 3
+sa: @en:noun.event:sigh
+
+w: @en_sinking
+d: @en_a slow fall or decline (as for lack of strength)
+hypo: abatimento 1
+sa: @en:noun.event:sinking 1
+
+w: @en_sinking 1
+d: @en_a descent as through liquid (especially through water)
+hyper: @en_foundering
+hyper: imersão
+hyper: subsidência 1
+hypo: descenso
+sa: @en:noun.event:sinking
+
+w: @en_sizzle
+d: @en_a sizzling noise
+hypo: ruído 4
+sa: @en:noun.event:sizzle
+
+w: @en_skeleton
+w: @en_skeleton_in_the_closet
+w: @en_skeleton_in_the_cupboard
+d: @en_a scandal that is kept secret
+hypo: escândalo
+sa: @en:noun.event:skeleton
+
+w: @en_ski_race
+w: @en_skiing_race
+d: @en_a race between people wearing skis
+hyper: @en_slalom
+hyper: descida_livre
+hypo: corrida 1
+sa: @en:noun.event:ski_race
+
+w: @en_skirl
+d: @en_the sound of (the chanter of) a bagpipe
+hypo: ruído 3
+sa: @en:noun.event:skirl
+
+w: @en_sky_burial
+d: @en_a traditional Tibetan funeral ritual in which the corpse is exposed to the open air to be eaten by sacred vultures
+hypo: Funeral
+sa: @en:noun.event:sky_burial
+
+w: @en_slack_tide
+w: @en_slack_water
+d: @en_the occurrence of relatively still water at the turn of the (low) tide
+hypo: maré
+sa: @en:noun.event:slack_tide
+
+w: @en_slalom
+d: @en_a downhill race over a winding course defined by upright poles
+hypo: @en_ski_race
+sa: @en:noun.event:slalom
+
+w: @en_slam
+w: @en_sweep
+d: @en_winning all or all but one of the tricks in bridge
+hp: noun.act:@en_bridge
+hyper: @en_grand_slam
+hyper: @en_little_slam
+hypo: vitória 2
+sa: @en:noun.event:slam
+
+w: @en_slam 1
+d: @en_a forceful impact that makes a loud noise
+hypo: impacto
+sa: @en:noun.event:slam 1
+
+w: @en_slip
+w: @en_trip 1
+d: @en_an accidental misstep threatening (or causing) a fall
+hyper: noun.act:tombo
+hypo: acidente 5
+sa: @en:noun.event:slip
+
+w: @en_smash 1
+w: @en_smash-up
+d: @en_a serious collision (especially of motor vehicles)
+hypo: colisión
+mt: noun.artifact:veículos_motorizados
+sa: @en:noun.event:smash
+
+w: @en_smolder
+w: @en_smoulder
+d: @en_a fire that burns with thick smoke but no flame
+hypo: fogo 1
+sa: @en:noun.event:smolder
+
+w: @en_smudge
+d: @en_a smoky fire to drive away insects
+hypo: fogo 1
+sa: @en:noun.event:smudge
+
+w: @en_snap
+d: @en_the noise produced by the rapid movement of a finger from the tip to the base of the thumb on the same hand
+hypo: ruído 4
+sa: @en:noun.event:snap 2
+
+w: @en_snap 1
+d: @en_a sudden breaking
+hypo: @en_break
+sa: @en:noun.event:snap 1
+
+w: @en_snore
+d: @en_the rattling noise produced when snoring
+hypo: ruído 4
+sa: @en:noun.event:snore
+
+w: @en_social_event
+d: @en_an event characteristic of persons forming groups
+hyper: noun.communication:espectáculo
+hyper: acontecimento 1
+hyper: certame
+hypo: noun.Tops:acontecimento
+sa: @en:noun.event:social_event
+
+w: @en_solitary_wave
+w: @en_soliton
+w: @en_soliton_wave
+d: @en_(physics) a quantum of energy or quasiparticle that can be propagated as a traveling wave in nonlinear systems and is neither preceded nor followed by another such disturbance; does not obey the superposition principle and does not dissipate
+hypo: @en_traveling_wave
+mt: noun.cognition:Fisica
+sa: @en:noun.event:solitary_wave
+
+w: @en_song
+d: @en_a distinctive or characteristic sound
+hypo: ruído 3
+sa: @en:noun.event:song
+
+w: @en_sparring_match
+d: @en_a practice or exhibition boxing match
+hypo: @en_boxing_match
+sa: @en:noun.event:sparring_match
+
+w: @en_spatter
+w: @en_spattering
+w: @en_splatter
+w: @en_splattering
+w: @en_splutter
+w: @en_sputter
+w: @en_sputtering
+d: @en_the noise of something spattering or sputtering explosively
+hypo: ruído 4
+sa: @en:noun.event:spatter
+
+w: @en_spelldown
+w: @en_spelling_bee
+w: @en_spelling_contest
+d: @en_a contest in which you are eliminated if you fail to spell a word correctly
+hypo: certame
+sa: @en:noun.event:spelldown
+
+w: @en_spike
+d: @en_a sharp rise followed by a sharp decline
+hypo: @en_rise 1
+sa: @en:noun.event:spike 1
+
+w: @en_spike 1
+d: @en_a transient variation in voltage or current
+hypo: @en_electrical_discharge
+sa: @en:noun.event:spike
+
+w: @en_spin
+d: @en_a swift whirling motion (usually of a missile)
+hyper: @en_English
+hyper: Backspin
+hyper: Topspin
+hypo: rotação
+sa: @en:noun.event:spin
+
+w: @en_splat
+d: @en_a single splash
+hypo: borrifo
+sa: @en:noun.event:splat
+
+w: @en_split_decision
+d: @en_a boxing decision in which the judges are not unanimous
+hypo: @en_decision
+sa: @en:noun.event:split_decision
+
+w: @en_spray
+d: @en_a jet of vapor
+hypo: esguinche
+sa: @en:noun.event:spray
+
+w: @en_spread
+w: @en_spreading
+d: @en_process or result of distributing or extending over a wide expanse of space
+hyper: @en_dispersion
+hyper: @en_invasion
+hyper: @en_irradiation
+hyper: @en_radiation
+hyper: difusão
+hypo: @en_change_of_location
+sa: @en:noun.event:spread
+
+w: @en_springtide
+d: @en_a swelling rush of anything
+hypo: @en_flush
+sa: @en:noun.event:springtide 1
+
+w: @en_springtide 1
+d: @en_a greater than average tide occurring during the new and full moons
+hypo: maré_alta
+sa: @en:noun.event:springtide
+
+w: @en_spritz
+d: @en_a quick squirt of some liquid (usually carbonated water)
+hypo: esguinche
+sa: @en:noun.event:spritz
+
+w: @en_squawk
+d: @en_the noise of squawking
+hypo: ruído 4
+sa: @en:noun.event:squawk
+
+w: @en_squeak
+d: @en_a short high-pitched noise
+hypo: ruído 4
+sa: @en:noun.event:squeak
+
+w: @en_squeeze
+w: @en_wring
+d: @en_a twisting squeeze
+hypo: movimento
+sa: @en:noun.event:squeeze
+
+w: @en_squish
+d: @en_the noise of soft mud being walked on
+hypo: ruído 4
+sa: @en:noun.event:squish
+
+w: @en_stake_race
+d: @en_a horse race in which part of the prize is put up by the owners of the horses in the race
+hypo: @en_horse_race
+sa: @en:noun.event:stake_race
+
+w: @en_stall
+d: @en_a malfunction in the flight of an aircraft in which there is a sudden loss of lift that results in a downward plunge
+hypo: disfunção
+sa: @en:noun.event:stall
+
+w: @en_stampede
+d: @en_a wild headlong rush of frightened animals (horses or cattle)
+hypo: @en_change_of_location
+sa: @en:noun.event:stampede
+
+w: @en_steeplechase
+d: @en_a horse race over an obstructed course
+hyper: Grand_National
+hypo: @en_horse_race
+sa: @en:noun.event:steeplechase 1
+
+w: @en_steeplechase 1
+d: @en_a footrace of usually 3000 meters over a closed track with hurdles and a water jump
+hypo: @en_foot_race
+sa: @en:noun.event:steeplechase 2
+
+w: @en_streak
+d: @en_a sudden flash (as of lightning)
+hypo: @en_flash 1
+sa: @en:noun.event:streak
+
+w: @en_stridulation
+d: @en_a shrill grating or chirping noise made by some insects by rubbing body parts together
+hypo: ruído 4
+sa: @en:noun.event:stridulation
+
+w: @en_stroke 1
+d: @en_a light touch
+hypo: tocar
+sa: @en:noun.event:stroke 1
+
+w: @en_strum
+d: @en_sound of strumming
+hypo: ruído 3
+sa: @en:noun.event:strum
+
+w: @en_stunner
+d: @en_an unexpected and amazing event
+hypo: surpresa
+sa: @en:noun.event:stunner
+
+w: @en_sublimation
+d: @en_(psychology) modifying the natural expression of an impulse or instinct (especially a sexual one) to one that is socially acceptable
+hypo: alteração
+mt: noun.cognition:Psicólogos_por_nacionalidade
+sa: @en:noun.event:sublimation 1
+
+w: @en_sublimation 1
+d: @en_(chemistry) a change directly from the solid to the gaseous state without becoming liquid
+hypo: mudança 3
+mt: noun.cognition:Quimica
+sa: @en:noun.event:sublimation 2
+
+w: @en_subluxation
+d: @en_partial displacement of a joint or organ
+hypo: @en_luxation
+sa: @en:noun.event:subluxation
+
+w: @en_sunset
+d: @en_the daily event of the sun sinking below the horizon
+hypo: @en_periodic_event
+sa: @en:noun.event:sunset
+
+w: @en_superfetation
+d: @en_fertilization of a second ovum after a pregnancy has begun; results in two fetuses of different ages in the uterus at the same time
+hypo: fecundação 1
+sa: @en:noun.event:superfetation
+
+w: @en_superior_conjunction
+d: @en_(astronomy) the alignment of the Earth and a planet on the opposite side of the sun
+hypo: Conjunção
+mt: noun.cognition:Astronomia
+sa: @en:noun.event:superior_conjunction
+
+w: @en_supervention
+d: @en_a following on in addition
+hypo: acontecimento 2
+sa: @en:noun.event:supervention
+
+w: @en_surface_fire
+d: @en_a forest fire that burns only the surface litter and undergrowth
+hypo: incêndio_florestal
+sa: @en:noun.event:surface_fire
+
+w: @en_surface_noise
+d: @en_noise produced by the friction of the stylus of a record player moving over the rotating record
+hypo: ruído_de_fundo
+sa: @en:noun.event:surface_noise
+
+w: @en_susurration
+w: @en_susurrus
+d: @en_the indistinct sound of people whispering
+hypo: ruído 3
+sa: @en:noun.event:susurration
+
+w: @en_swash
+d: @en_the movement or sound of water
+hypo: onda 2
+sa: @en:noun.event:swash
+
+w: @en_swerve
+w: @en_yaw
+d: @en_an erratic deflection from an intended course
+hypo: @en_turn
+sa: @en:noun.event:swerve
+
+w: @en_swim_meet
+w: @en_swimming_meet
+d: @en_a swimming competition between two or more teams
+hypo: @en_meet
+mp: @en_diving
+mp: @en_swimming_event
+sa: @en:noun.event:swim_meet
+
+w: @en_swimming_event
+d: @en_an athletic competition that involves swimming
+hp: @en_swim_meet
+hypo: combate
+sa: @en:noun.event:swimming_event
+
+w: @en_swish
+d: @en_a brushing or rustling sound
+hypo: ruído 3
+sa: @en:noun.event:swish
+
+w: @en_swoosh
+w: @en_whoosh
+d: @en_the noise produced by the sudden rush of a fluid (a gas or liquid)
+hypo: ruído 4
+sa: @en:noun.event:swoosh
+
+w: @en_syntax_error
+d: @en_an error of language resulting from code that does not conform to the syntax of the programming language
+hypo: @en_programming_error
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.event:syntax_error
+
+w: @en_takedown
+d: @en_(amateur wrestling) being brought to the mat from a standing position
+hp: @en_wrestling_match
+hypo: @en_fall 1
+mt: noun.act:Grappling
+sa: @en:noun.event:takedown 1
+
+w: @en_takeoff
+d: @en_the initial ascent of an airplane as it becomes airborne
+hypo: ascensão
+sa: @en:noun.event:takeoff
+
+w: @en_taste
+d: @en_a brief experience of something
+hypo: experiência
+sa: @en:noun.event:taste
+
+w: @en_tea_party
+d: @en_a party at which tea is served
+hypo: balada
+sa: @en:noun.event:tea_party
+
+w: @en_tennis_match
+d: @en_a match between tennis players
+hypo: combate
+sa: @en:noun.event:tennis_match
+
+w: @en_thaw
+d: @en_a relaxation or slackening of tensions or reserve; becoming less hostile
+hypo: relaxamento
+sa: @en:noun.event:thaw
+
+w: @en_the_Great_Calamity
+w: @en_the_Great_Hunger
+w: @en_the_Great_Starvation
+w: @en_the_Irish_Famine
+d: @en_a famine in Ireland resulting from a potato blight; between 1846 and 1851 a million people starved to death and 1.6 million emigrated (most to America)
+hypo: Carestia
+sa: @en:noun.event:the_Great_Calamity
+
+w: @en_thelarche
+d: @en_the start of breast development in a woman at the beginning of puberty
+hypo: começo 3
+sa: @en:noun.event:thelarche
+
+w: @en_third-place_finish
+d: @en_a finish in third place (as in a race)
+hypo: @en_finish 1
+sa: @en:noun.event:third-place_finish
+
+w: @en_thoroughbred_race
+d: @en_a race between thoroughbred horses
+hyper: @en_Preakness
+hyper: Belmont_Stakes
+hyper: Kentucky_Derby
+hypo: @en_horse_race
+sa: @en:noun.event:thoroughbred_race
+
+w: @en_three-day_event
+d: @en_an equestrian competition; the first day is dressage; the second is cross-country jumping; the third is stadium jumping
+hypo: noun.act:@en_equestrian_sport
+mp: noun.act:@en_cross-country_jumping
+mp: noun.act:@en_showjumping
+mp: noun.act:adestramento
+sa: @en:noun.event:three-day_event
+
+w: @en_throbbing 1
+d: @en_a sound with a strong rhythmic beat
+hypo: ruído 3
+sa: @en:noun.event:throbbing 1
+
+w: @en_thrum
+d: @en_a thrumming sound
+hypo: ruído 3
+sa: @en:noun.event:thrum
+
+w: @en_thunderclap 1
+d: @en_a single sharp crash of thunder
+hypo: trovão
+sa: @en:noun.event:thunderclap
+
+w: @en_thunk
+d: @en_a dull hollow sound
+hypo: ruído 3
+sa: @en:noun.event:thunk
+
+w: @en_tick
+w: @en_ticking
+d: @en_a metallic tapping sound
+hyper: @en_ticktock
+hypo: ruído 3
+sa: @en:noun.event:tick
+
+w: @en_ticktock
+w: @en_tictac
+w: @en_tocktact
+d: @en_steady recurrent ticking sound as made by a clock
+hypo: @en_tick
+sa: @en:noun.event:ticktock
+
+w: @en_tidal_current
+w: @en_tidal_flow
+d: @en_the water current caused by the tides
+hp: maré
+hyper: macaréu 1
+hypo: corrente
+sa: @en:noun.event:tidal_current
+
+w: @en_tidal_wave
+d: @en_an unusual (and often destructive) rise of water along the seashore caused by a storm or a combination of wind and high tide
+hypo: calamidade
+hypo: onda 2
+sa: @en:noun.event:tidal_wave 1
+
+w: @en_tide
+d: @en_something that may increase or decrease (like the tides of the sea)
+hypo: flutuação
+sa: @en:noun.event:tide 1
+
+w: @en_time
+d: @en_a person's experience on a particular occasion
+hypo: experiência
+sa: @en:noun.event:time 1
+
+w: @en_tin_disease
+w: @en_tin_pest
+w: @en_tin_plague
+d: @en_the transformation of ordinary white tin into powdery grey tin at very cold temperatures
+hypo: mudança 3
+sa: @en:noun.event:tin_disease
+
+w: @en_toot
+d: @en_a blast of a horn
+hypo: ruído 3
+sa: @en:noun.event:toot
+
+w: @en_tootle
+d: @en_the sound of casual playing on a musical instrument
+hypo: ruído 3
+sa: @en:noun.event:tootle
+
+w: @en_top_dressing
+d: @en_a layer of fertilizer or manure not plowed in
+hypo: Fecundaçao
+sa: @en:noun.event:top_dressing
+
+w: @en_torch_race
+d: @en_(ancient Greece) in which a torch is passed from one runner to the next
+hypo: estafeta
+mr: noun.location:Grécia 1
+mt: noun.time:antiguidade
+sa: @en:noun.event:torch_race
+
+w: @en_torrent
+w: @en_violent_stream
+d: @en_a violently fast stream of water (or other liquid)
+hypo: corrente
+sa: @en:noun.event:torrent
+
+w: @en_total_eclipse
+d: @en_an eclipse as seen from a place where the eclipsed body is completely obscured
+hypo: eclipse
+sa: @en:noun.event:total_eclipse
+
+w: @en_track_event
+d: @en_a footrace performed on a track (indoor or outdoor)
+hp: @en_track_meet
+hyper: @en_dash
+hyper: @en_mile
+hyper: Corrida_de_obstáculos
+hypo: @en_foot_race
+sa: @en:noun.event:track_event
+
+w: @en_track_meet
+d: @en_a track and field competition between two or more teams
+hypo: @en_meet
+mp: noun.act:carreira 1
+mp: @en_field_event
+mp: @en_track_event
+sa: @en:noun.event:track_meet
+
+w: @en_train
+d: @en_a series of consequences wrought by an event
+hypo: conseqüência 1
+sa: @en:noun.event:train
+
+w: @en_tramp
+d: @en_a heavy footfall
+hypo: @en_footfall
+sa: @en:noun.event:tramp
+
+w: @en_trample
+w: @en_trampling
+d: @en_the sound of heavy treading or stomping
+hypo: ruído 3
+sa: @en:noun.event:trample
+
+w: @en_transmigration
+d: @en_the passing of a soul into another body after death
+hypo: @en_rebirth
+sa: @en:noun.event:transmigration
+
+w: @en_transmutation
+d: @en_(physics) the change of one chemical element into another (as by nuclear decay or radioactive bombardment)
+hypo: alteração
+mt: noun.cognition:Fisica
+sa: @en:noun.event:transmutation 1
+
+w: @en_transposition 1
+d: @en_(genetics) a kind of mutation in which a chromosomal segment is transfered to a new position on the same or another chromosome
+hypo: Mutação
+mt: noun.cognition:Genetica
+sa: @en:noun.event:transposition
+
+w: @en_traveling_wave
+w: @en_travelling_wave
+d: @en_a wave in which the medium moves in the direction of propagation of the wave
+hyper: @en_solitary_wave
+hypo: onda
+sa: @en:noun.event:traveling_wave
+
+w: @en_trial
+d: @en_(sports) a preliminary competition to determine qualifications
+hypo: certame
+mt: noun.act:esporte
+sa: @en:noun.event:trial 1
+
+w: @en_tug-of-war
+d: @en_a contest in which teams pull of opposite ends of a rope; the team dragged across a central line loses
+hypo: @en_athletic_competition
+sa: @en:noun.event:tug-of-war
+
+w: @en_turn
+w: @en_turning
+d: @en_a movement in a new direction
+hyper: @en_swerve
+hyper: @en_volution
+hyper: darvoltas
+hyper: regresso
+hyper: rotação
+hypo: movimento
+sa: @en:noun.event:turn
+
+w: @en_turn 1
+w: @en_turn_of_events
+w: @en_twist
+d: @en_an unforeseen development
+hypo: @en_development
+sa: @en:noun.event:turn 1
+
+w: @en_twang
+d: @en_a sharp vibrating sound (as of a plucked string)
+hypo: ruído 3
+sa: @en:noun.event:twang
+
+w: @en_undercurrent
+w: @en_undertide
+d: @en_a current below the surface of a fluid
+hp: maré
+hyper: @en_sea-poose
+hypo: corrente
+sa: @en:noun.event:undercurrent
+
+w: @en_undulation
+d: @en_wavelike motion; a gentle rising and falling in the manner of waves
+hypo: movimento
+sa: @en:noun.event:undulation 1
+
+w: @en_union
+d: @en_the occurrence of a uniting of separate parts
+hyper: @en_amphimixis
+hyper: combinação
+hyper: fusão
+hypo: acontecimento 2
+sa: @en:noun.event:union
+
+w: @en_unknown_quantity
+d: @en_a factor in a given situation whose bearing and importance is not apparent
+hypo: fator
+sa: @en:noun.event:unknown_quantity
+
+w: @en_upheaval
+w: @en_uplift
+w: @en_upthrow
+w: @en_upthrust
+d: @en_(geology) a rise of land to a higher elevation (as in the process of mountain building)
+hypo: ascensão
+mt: noun.cognition:geologia
+sa: @en:noun.event:upheaval
+
+w: @en_uplifting
+d: @en_the rise of something
+hypo: ascensão
+sa: @en:noun.event:uplifting
+
+w: @en_vagary
+d: @en_an unexpected and inexplicable change in something (in a situation or a person's behavior, etc.)
+hypo: alteração
+sa: @en:noun.event:vagary
+
+w: @en_vanishing
+d: @en_a sudden or mysterious disappearance
+hypo: @en_disappearance 1
+sa: @en:noun.event:vanishing
+
+w: @en_visitation
+d: @en_any disaster or catastrophe
+hypo: calamidade
+sa: @en:noun.event:visitation 1
+
+w: @en_voice
+d: @en_a sound suggestive of a vocal utterance
+hypo: ruído 3
+sa: @en:noun.event:voice
+
+w: @en_volution
+d: @en_a rolling or revolving motion
+hypo: @en_turn
+sa: @en:noun.event:volution
+
+w: @en_vroom
+d: @en_the roaring sound made by a motor that is running at high speed
+hypo: ruído 3
+sa: @en:noun.event:vroom
+
+w: @en_walk-in
+w: @en_waltz
+d: @en_an assured victory (especially in an election)
+hypo: vitória 2
+sa: @en:noun.event:walk-in
+
+w: @en_wallow
+d: @en_an indolent or clumsy rolling about
+hypo: @en_axial_motion
+sa: @en:noun.event:wallow
+
+w: @en_waning
+d: @en_a gradual decrease in magnitude or extent
+hypo: abatimento 1
+sa: @en:noun.event:waning
+
+w: @en_war_cloud
+d: @en_an ominous sign that war threatens
+hypo: agouro 1
+sa: @en:noun.event:war_cloud
+
+w: @en_warp
+w: @en_warping
+d: @en_a moral or mental distortion
+hypo: deformação
+sa: @en:noun.event:warp
+
+w: @en_waterloo
+d: @en_a final crushing defeat
+hypo: derrota
+sa: @en:noun.event:waterloo
+
+w: @en_wave
+d: @en_something that rises rapidly
+hypo: @en_rise 1
+sa: @en:noun.event:wave 2
+
+w: @en_waxing
+d: @en_a gradual increase in magnitude or extent
+hypo: aumento 1
+sa: @en:noun.event:waxing
+
+w: @en_weakening
+d: @en_becoming weaker
+hyper: @en_debilitation
+hyper: atenuação
+hyper: atrofia
+hyper: perda 1
+hyper: relaxamento
+hypo: mudança 3
+sa: @en:noun.event:weakening
+
+w: @en_whack
+d: @en_the sound made by a sharp swift blow
+hypo: ruído 3
+sa: @en:noun.event:whack
+
+w: @en_whammy
+d: @en_a serious or devastating setback
+hypo: revés
+sa: @en:noun.event:whammy
+
+w: @en_whist_drive
+d: @en_a progressive whist party
+hypo: balada
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.event:whist_drive
+
+w: @en_white_horse
+w: @en_whitecap
+d: @en_a wave that is blown by the wind so its crest is broken and appears white
+hypo: onda 2
+sa: @en:noun.event:white_horse
+
+w: @en_whitewash
+d: @en_a defeat in which the losing person or team fails to score
+hypo: derrota
+sa: @en:noun.event:whitewash
+
+w: @en_whiz
+d: @en_a buzzing or hissing sound as of something traveling rapidly through the air
+hypo: ruído 3
+sa: @en:noun.event:whiz
+
+w: @en_wild_card
+d: @en_an unpredictable factor
+hypo: fator
+sa: @en:noun.event:wild_card
+
+w: @en_wobble
+d: @en_an unsteady rocking motion
+hyper: @en_shimmy
+hypo: movimento
+sa: @en:noun.event:wobble
+
+w: @en_wrestling_match
+d: @en_a match between wrestlers
+hypo: combate
+mp: @en_fall 1
+mp: @en_takedown
+sa: @en:noun.event:wrestling_match
+
+w: @en_wrongful_death
+d: @en_a death that results from a wrongful act or from negligence; a death that can serve as the basis for a civil action for damages on behalf of the dead person's family or heirs
+hypo: morte 2
+sa: @en:noun.event:wrongful_death
+
+w: @en_yelp
+w: @en_yelping
+w: @en_yip
+d: @en_a sharp high-pitched cry (especially by a dog)
+hypo: @en_cry
+sa: @en:noun.event:yelp
+
+w: @en_zap
+d: @en_a sudden event that imparts energy or excitement, usually with a dramatic impact
+hypo: noun.Tops:acontecimento
+sa: @en:noun.event:zap
+
+w: @en_zing
+d: @en_a brief high-pitched buzzing or humming sound
+hypo: ruído 3
+sa: @en:noun.event:zing
+
+w: @en_zizz
+d: @en_a buzzing or whizzing sound
+hypo: ruído 3
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.event:zizz
+
+w: Acidentes
+w: acidente
+d: @en_a newsworthy event
+hypo: acontecimento 2
+sa: @en:noun.event:news_event
+
+w: Advento
+w: Segunda_vinda_de_cristo
+w: segunda_vinda_de_Cristo
+d: @en_(Christian theology) the reappearance of Jesus as judge for the Last Judgment
+ihyper: manifestação
+mt: noun.cognition:Teologia_Cristã
+sa: @en:noun.event:Advent
+
+w: Alogamia
+d: @en_cross-fertilization in plants
+hypo: @en_cross-fertilisation
+sa: @en:noun.event:allogamy
+
+w: Arremesso_de_peso
+d: @en_an athletic competition in which a heavy metal ball is hurled as far as possible
+hypo: @en_field_event
+sa: @en:noun.event:shot_put
+
+w: Ascensão
+w: Ascensão_de_Jesus
+w: Ascensão_de_jesus
+d: @en_(New Testament) the rising of the body of Jesus into heaven on the 40th day after his Resurrection
+ihyper: milagre 2
+mt: noun.communication:Novo_Testamento
+sa: @en:noun.event:Ascension 2
+
+w: Atavismo
+w: atavismo
+d: @en_a reappearance of an earlier characteristic
+hypo: recorrência
+sa: @en:noun.event:atavism
+
+w: Avalanches
+w: avalancha
+w: avalanche
+w: avalanches
+d: @en_a slide of large masses of snow and ice and mud down a mountain
+hyper: lahar
+hypo: avalanche 1
+sa: @en:noun.event:avalanche
+
+w: Backspin
+d: @en_spin (usually of a moving ball) that retards or reverses the forward motion
+hypo: @en_spin
+sa: @en:noun.event:backspin
+
+w: Baile_de_Máscaras
+w: Baile_de_máscaras
+d: @en_a ball at which guests wear costumes and masks
+hypo: baile 1
+hypo: noun.group:baile_de_máscaras
+sa: @en:noun.event:fancy-dress_ball
+
+w: Beep
+w: assobio
+d: @en_a short high tone produced as a signal or warning
+hypo: ruído 3
+sa: @en:noun.event:beep
+
+w: Belmont_Stakes
+d: @en_an annual race for three-year-old horses; held on Long Island at Elmont, New York
+hypo: @en_thoroughbred_race
+sa: @en:noun.event:Belmont_Stakes
+
+w: Blecautes
+w: blecaute
+d: @en_equipment failure resulting when the supply of power fails
+hyper: @en_flame-out 1
+hyper: apagão
+hypo: avaria 1
+sa: @en:noun.event:power_failure
+
+w: Boda
+w: boda
+w: casamento
+d: @en_the social event at which the ceremony of marriage is performed
+hypo: cerimónia
+sa: @en:noun.event:hymeneals
+
+w: Calvário
+w: ordália
+w: ordálio
+d: @en_a severe or trying experience
+hypo: experiência
+sa: @en:noun.event:ordeal
+
+w: Carestia
+w: Fome
+w: fome
+d: @en_a severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death
+hyper: @en_the_Great_Calamity
+hypo: calamidade
+sa: @en:noun.event:famine
+
+w: Caribdis
+w: Caríbdis
+d: @en_(Greek mythology) a ship-devouring whirlpool lying on the other side of a narrow strait from Scylla
+hypo: espiral
+mt: noun.group:Mitologia_Grega
+sa: @en:noun.event:Charybdis
+
+w: Carma
+w: karma
+d: @en_(Hinduism and Buddhism) the effects of a person's actions that determine his destiny in his next incarnation
+hypo: destino
+mt: noun.cognition:budismo
+mt: noun.cognition:hinduísmo
+sa: @en:noun.event:karma
+
+w: Caso_watergate
+w: caso_Watergate
+d: @en_a political scandal involving abuse of power and bribery and obstruction of justice; led to the resignation of Richard Nixon in 1974
+ihyper: escândalo
+sa: @en:noun.event:Watergate
+
+w: Ciclo_Cardíaco
+w: Ciclo_cardíaco
+d: @en_the complete cycle of events in the heart from the beginning of one heart beat to the beginning of the next; an electrical impulse conducted through the heart muscle that constricts the atria which is followed by constriction of the ventricles
+hypo: @en_cycle
+sa: @en:noun.event:cardiac_cycle
+
+w: Ciclo_de_Carnot
+w: Ciclo_de_carnot
+d: @en_a cycle (of expansion and compression) of an idealized reversible heat engine that does work without loss of heat
+hypo: @en_cycle
+sa: @en:noun.event:Carnot's_ideal_cycle
+
+w: Ciclo_econômico
+d: @en_recurring fluctuations in economic activity consisting of recession and recovery and growth and decline
+hypo: flutuação
+sa: @en:noun.event:business_cycle
+
+w: Colapso_gravitacional
+d: @en_the implosion of a star resulting from its own gravity; the result is a smaller and denser celestial object
+hypo: @en_implosion
+sa: @en:noun.event:gravitational_collapse
+
+w: Concussão
+d: @en_any violent blow
+hypo: choque
+sa: @en:noun.event:concussion 1
+
+w: Conjunção
+w: conjunção
+d: @en_(astronomy) apparent meeting or passing of two or more celestial bodies in the same degree of the zodiac
+hyper: @en_inferior_conjunction
+hyper: @en_superior_conjunction
+hypo: encontro
+mt: noun.cognition:Astronomia
+sa: @en:noun.event:alignment
+
+w: Copa_do_Mundo
+d: @en_a soccer tournament held every four years between national soccer teams to determine a world champion
+hypo: torneio 3
+sa: @en:noun.event:World_Cup
+
+w: Corrente_de_retorno
+d: @en_a strong surface current flowing outwards from a shore
+hp: maré
+hypo: corrente
+sa: @en:noun.event:rip_current
+
+w: Corrida_armamentista
+w: corrida_armamentista
+d: @en_a competition between nations to have the most powerful armaments
+hypo: corrida
+sa: @en:noun.event:arms_race
+
+w: Corrida_de_obstáculos
+d: @en_a footrace in which contestants must negotiate a series of hurdles
+hypo: @en_track_event
+sa: @en:noun.event:hurdle_race
+
+w: Crosstalk
+d: @en_the presence of an unwanted signal via an accidental coupling
+hypo: estrondo
+sa: @en:noun.event:XT
+
+w: Deleção
+w: Deleção_genética
+d: @en_(genetics) the loss or absence of one or more nucleotides from a chromosome
+hypo: Mutação
+mt: noun.cognition:Genetica
+sa: @en:noun.event:deletion
+
+w: Deslizamento_de_terra
+w: derrocadas
+d: @en_a slide of a large mass of dirt and rock down a mountain or cliff
+hyper: @en_rockslide
+hyper: deslizamento
+hypo: avalanche 1
+sa: @en:noun.event:landslide
+
+w: Diáspora
+w: Diásporas
+w: diáspora
+d: @en_the dispersion of the Jews outside Israel; from the destruction of the temple in Jerusalem in 587-86 BC when they were exiled to Babylonia up to the present time
+hypo: @en_dispersion
+sa: @en:noun.event:Diaspora
+
+w: Diástole
+w: diástole
+d: @en_the widening of the chambers of the heart between two contractions when the chambers fill with blood
+hypo: pulso
+sa: @en:noun.event:diastole
+
+w: Eclipse_Lunar
+w: Eclipses_lunares
+w: eclipse_lunar
+d: @en_the earth interrupts light shining on the moon
+hypo: eclipse
+sa: @en:noun.event:lunar_eclipse
+
+w: Eclipse_Solar
+w: Eclipses_solares
+w: eclipse_solar
+d: @en_the moon interrupts light from the sun
+hyper: @en_annular_eclipse
+hypo: eclipse
+sa: @en:noun.event:solar_eclipse
+
+w: Epidemias
+w: epidemia
+w: epidemias
+d: @en_a widespread outbreak of an infectious disease; many people are infected at the same time
+hyper: Pandemias
+hypo: Surto
+sa: @en:noun.event:epidemic
+
+w: Epifania
+d: @en_a divine manifestation
+hypo: manifestação
+sa: @en:noun.event:epiphany
+
+w: Erupção_pliniana
+d: @en_a volcanic eruption in which a stream of gas and ash is violently ejected to a height of several miles
+hypo: erupção 1
+sa: @en:noun.event:Plinian_eruption
+
+w: Fecundaçao
+w: fecundação
+w: fertilização
+w: fertilização_do_solo
+d: @en_making fertile as by applying fertilizer or manure
+hyper: @en_top_dressing
+hypo: noun.act:enriquecimento
+sa: @en:noun.event:dressing
+
+w: Funeral
+w: enterro
+w: funeral
+d: @en_a ceremony at which a dead person is buried or cremated
+hyper: @en_sky_burial
+hyper: enterro 1
+hypo: cerimónia
+sa: @en:noun.event:funeral
+
+w: Grand_National
+d: @en_an annual steeplechase run in Liverpool, England
+hypo: @en_steeplechase
+sa: @en:noun.event:Grand_National
+
+w: Grande_Prémio
+w: Grande_Prêmio
+d: @en_one of several international races
+hypo: @en_auto_race
+sa: @en:noun.event:Grand_Prix
+
+w: Gravitação
+w: gravidade
+d: @en_movement downward resulting from gravitational attraction
+hyper: queda 1
+hypo: @en_change_of_location
+sa: @en:noun.event:gravitation
+
+w: Incêndios
+w: fogo
+w: incêndio
+d: @en_a very intense and uncontrolled fire
+hyper: incêndio_florestal 1
+hypo: fogo 1
+sa: @en:noun.event:conflagration
+
+w: Jogos_Olímpicos
+w: Olimpíadas
+w: olimpíada
+d: @en_the modern revival of the ancient games held once every 4 years in a selected country
+hyper: Jogos_Olímpicos_de_Inverno
+hypo: @en_athletic_competition
+sa: @en:noun.event:Olympiad
+
+w: Jogos_Olímpicos_de_Inverno
+w: Jogos_olímpicos_de_inverno
+d: @en_an Olympics for winter sports
+hypo: Jogos_Olímpicos
+sa: @en:noun.event:Winter_Olympic_Games
+
+w: Kentucky_Derby
+w: Kentucky_derby
+d: @en_an annual race for three-year-old horses; held at Churchill Downs in Louisville, Kentucky
+hypo: @en_thoroughbred_race
+sa: @en:noun.event:Kentucky_Derby
+
+w: Lançamento_de_martelo
+d: @en_an athletic competition in which a heavy metal ball that is attached to a flexible wire is hurled as far as possible
+hypo: @en_field_event
+sa: @en:noun.event:hammer_throw
+
+w: Luau
+d: @en_an elaborate Hawaiian feast or party (especially one accompanied by traditional foods and entertainment)
+hypo: banquete 1
+mr: noun.location:Havai
+sa: @en:noun.event:luau
+
+w: Maratona
+w: maratona
+d: @en_a footrace of 26 miles 385 yards
+hypo: @en_foot_race
+sa: @en:noun.event:marathon
+
+w: Maremoto
+w: maremoto
+d: @en_an earthquake at the sea bed
+hypo: Sismos
+sa: @en:noun.event:seaquake
+
+w: Migrações_humanas
+w: Movimento_migratório
+w: migração
+d: @en_the periodic passage of groups of animals (especially birds or fishes) from one region to another for feeding or breeding
+hypo: @en_periodic_event
+sa: @en:noun.event:migration
+
+w: Movimento_harmónico_simples
+w: Movimento_harmônico_simples
+d: @en_periodic motion in which the restoring force is proportional to the displacement
+hypo: @en_harmonic_motion
+sa: @en:noun.event:simple_harmonic_motion
+
+w: Mutação
+w: mutação
+d: @en_(genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism
+hyper: @en_inversion
+hyper: @en_reversion
+hyper: @en_saltation
+hyper: @en_transposition 1
+hyper: Deleção
+hyper: Mutação_pontual
+hypo: alteração
+mp: @en_mutagenesis
+mt: noun.cognition:Genetica
+sa: @en:noun.event:chromosomal_mutation
+
+w: Mutação_pontual
+d: @en_(genetics) a mutation due to an intramolecular reorganization of a gene
+hypo: Mutação
+mt: noun.cognition:Genetica
+sa: @en:noun.event:gene_mutation
+
+w: Noite_do_pijama
+d: @en_an occasion of spending a night away from home or having a guest spend the night in your home (especially as a party for children)
+hypo: acontecimento 1
+sa: @en:noun.event:sleepover
+
+w: Ondas_de_gravidade
+d: @en_(physics) a wave that is hypothesized to propagate gravity and to travel at the speed of light
+hypo: onda
+mt: noun.cognition:Fisica
+sa: @en:noun.event:gravitation_wave
+
+w: Outono
+d: @en_the lapse of mankind into sinfulness because of the sin of Adam and Eve
+ihyper: noun.Tops:acontecimento
+sa: @en:noun.event:Fall 3
+
+w: Pandemias
+w: pandemia
+d: @en_an epidemic that is geographically widespread; occurring throughout a region or even throughout the world
+hypo: Epidemias
+sa: @en:noun.event:pandemic
+
+w: Pirolise
+w: pirólise
+d: @en_transformation of a substance produced by the action of heat
+hypo: mudança 3
+sa: @en:noun.event:pyrolysis
+
+w: Polinização
+w: polinização
+d: @en_transfer of pollen from the anther to the stigma of a plant
+hyper: @en_cross-pollination
+hyper: @en_self-pollination
+hypo: fecundação 1
+sa: @en:noun.event:pollenation
+
+w: Popping
+d: @en_a sharp explosive sound as from a gunshot or drawing a cork
+hypo: ruído 3
+sa: @en:noun.event:pop
+
+w: Queda_Livre
+w: queda_livre
+d: @en_the ideal falling motion of something subject only to a gravitational field
+hypo: queda 1
+sa: @en:noun.event:free_fall
+
+w: Queda_do_homem
+d: @en_(Judeo-Christian mythology) when Adam and Eve ate of the fruit of the tree of knowledge of good and evil in the Garden of Eden, God punished them by driving them out of the Garden of Eden and into the world where they would be subject to sickness and pain and eventual death
+hypo: ponto_de_viragem
+mt: noun.communication:Antigo_Testamento
+sa: @en:noun.event:Fall_of_Man
+
+w: Rei_afogado
+d: @en_drawing position in chess: any of a player's possible moves would place his king in check
+hypo: empate
+sa: @en:noun.event:stalemate
+
+w: Revolução_Cultural_Chinesa
+w: Revolução_cultural_chinesa
+w: revolução_cultural
+d: @en_a radical reform in China initiated by Mao Zedong in 1965 and carried out largely by the Red Guard; intended to eliminate counterrevolutionary elements in the government it resulted in purges of the intellectuals and socioeconomic chaos
+hypo: revolução
+mr: noun.location:China
+sa: @en:noun.event:Cultural_Revolution
+
+w: Rinha_de_galo
+w: brigadegalo
+w: rinha_de_galo
+d: @en_a match in a cockpit between two fighting cocks heeled with metal gaffs
+hypo: combate
+sa: @en:noun.event:cockfight
+
+w: Ripple
+d: @en_(electronics) an oscillation of small amplitude imposed on top of a steady value
+hypo: Vibração
+mt: noun.cognition:Eletronica
+sa: @en:noun.event:ripple 1
+
+w: Réplica
+d: @en_a tremor (or one of a series of tremors) occurring after the main shock of an earthquake
+hypo: tremor 1
+sa: @en:noun.event:aftershock
+
+w: Salto_quântico
+w: avanço_ou_aumento_repentinos
+d: @en_a sudden large increase or advance
+hypo: pulo 1
+sa: @en:noun.event:quantum_jump 1
+
+w: Senoide
+w: Senóide
+d: @en_a wave whose waveform resembles a sine curve
+hypo: onda
+sa: @en:noun.event:sine_wave
+
+w: Sismos
+w: Terremotos
+w: sismo
+w: sismos
+w: terramoto
+w: terremoto
+w: tremor
+w: tremor_de_terra
+d: @en_shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity
+hyper: @en_seismic_disturbance
+hyper: Maremoto
+hyper: tremor 1
+hypo: noun.phenomenon:@en_geological_phenomenon
+sa: @en:noun.event:earthquake
+
+w: Special_Olympics
+d: @en_an athletic contest modeled after the Olympic Games but intended for mentally or physically handicapped persons
+hypo: @en_athletic_competition
+sa: @en:noun.event:Special_Olympics
+
+w: Superfecundação
+d: @en_fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males)
+hypo: fecundação 1
+sa: @en:noun.event:superfecundation
+
+w: Suposição
+d: @en_(Christianity) the taking up of the body and soul of the Virgin Mary when her earthly life had ended
+hypo: milagre 2
+mt: noun.cognition:cristianismo
+sa: @en:noun.event:Assumption
+
+w: Surto
+w: deflagração
+w: epidemia 1
+w: erupção
+w: explosão
+w: surto
+d: @en_a sudden violent spontaneous occurrence (usually of some undesirable condition)
+hyper: @en_recrudescence
+hyper: Epidemias
+hypo: acontecimento 2
+sa: @en:noun.event:eruption 3
+
+w: Teofania
+w: teofania
+d: @en_a visible (but not necessarily material) manifestation of a deity to a human person
+hypo: manifestação
+sa: @en:noun.event:theophany
+
+w: Terror_Noturno
+w: terror_noturno
+d: @en_an emotional episode (usually in young children) in which the person awakens in terror with feelings of anxiety and fear but is unable to remember any incident that might have provoked those feelings
+hypo: drama
+sa: @en:noun.event:night_terror
+
+w: Topspin
+d: @en_forward spin (usually of a moving ball) that is imparted by an upward stroke
+hypo: @en_spin
+sa: @en:noun.event:topspin
+
+w: Tour_de_France
+w: Tour_de_france
+d: @en_a French bicycle race for professional cyclists that lasts three weeks and covers about 3,000 miles
+hypo: @en_bicycle_race
+sa: @en:noun.event:Tour_de_France
+
+w: Transfiguração
+d: @en_(New Testament) the sudden emanation of radiance from the person of Jesus
+hypo: milagre 2
+mt: noun.communication:Novo_Testamento
+sa: @en:noun.event:Transfiguration
+
+w: Travamento
+w: crache
+d: @en_(computer science) an event that causes a computer system to become inoperative
+hyper: crash_da_cabeça_do_dispositivo
+hypo: acidente 5
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.event:crash 3
+
+w: Tremolo
+d: @en_vocal vibrato especially an excessive or poorly controlled one
+hypo: vibrato
+sa: @en:noun.event:tremolo
+
+w: Triplo_Salto
+d: @en_an athletic contest in which a competitor must perform successively a hop and a step and a jump in continuous movement
+hypo: @en_athletic_competition
+sa: @en:noun.event:hop-step-and-jump
+
+w: Vibração
+w: oscilação
+w: vibração
+w: vibrações
+d: @en_(physics) a regular periodic variation in value about a mean
+hyper: Ripple
+hyper: transiente
+hyper: noun.phenomenon:@en_sympathetic_vibration
+hyper: noun.phenomenon:Batimentos
+hyper: noun.phenomenon:Ressonancia
+hypo: onda
+mt: noun.cognition:Fisica
+sa: @en:noun.event:oscillation
+
+w: World_Series
+w: World_series
+w: série
+d: @en_series that constitutes the playoff for the baseball championship
+hypo: @en_playoff
+hypo: @en_series
+sa: @en:noun.event:World_Series
+
+w: abatimento
+d: @en_a becoming gradually less
+hyper: @en_fading_away
+hypo: abatimento 1
+sa: @en:noun.event:dwindling
+
+w: abatimento 1
+w: decréscimo
+d: @en_a change downward
+hyper: @en_casualty
+hyper: @en_shrinkage
+hyper: @en_sinking
+hyper: @en_waning
+hyper: abatimento
+hyper: atrito
+hypo: alteração
+sa: @en:noun.event:decrease
+
+w: abertura
+d: @en_the first event in a series
+hypo: começo 3
+sa: @en:noun.event:opener
+
+w: abortamento
+w: aborto
+d: @en_failure of a plan
+hypo: desastre 1
+sa: @en:noun.event:abortion
+
+w: acidente 1
+w: coincidência
+d: @en_anything that happens suddenly or by chance without an apparent cause
+hyper: @en_hap
+hyper: chance
+hyper: coincidência 1
+hyper: loteria
+hypo: acontecimento 2
+sa: @en:noun.event:accident
+
+w: acidente 2
+d: especialmente um evento que cause dano ou prejuízo
+hyper: @en_casualty 1
+hyper: acidente 3
+hyper: colisión
+hyper: ferimentos
+hyper: naufrágio
+hypo: acidente 5
+sa: @en:noun.event:accident 1
+
+w: acidente 3
+d: @en_a serious accident (usually involving one or more vehicles)
+hyper: @en_prang
+hypo: acidente 2
+sa: @en:noun.event:crash
+
+w: acidente 4
+w: azar
+w: infortúnio
+w: má_sorte
+d: @en_unnecessary and unforeseen trouble resulting from an unfortunate event
+hyper: acidente 5
+hyper: adversidade
+hyper: bomba
+hyper: calamidade
+hyper: infortúnio 1
+hyper: lástima
+hypo: problema 1
+sa: @en:noun.event:bad_luck
+
+w: acidente 5
+w: azar 1
+d: @en_an instance of misfortune
+hyper: @en_derailment
+hyper: @en_ground_loop
+hyper: @en_near_miss
+hyper: @en_puncture
+hyper: @en_slip
+hyper: Travamento
+hyper: acidente 2
+hypo: acidente 4
+sa: @en:noun.event:misadventure
+
+w: acontecimento
+w: evento
+w: eventualidade
+d: @en_a possible event or occurrence or result
+hypo: acontecimento 2
+sa: @en:noun.event:contingence
+
+w: acontecimento 1
+w: festa
+d: @en_a vaguely specified social event
+hyper: @en_fundraiser
+hyper: @en_photo_op
+hyper: Noite_do_pijama
+hyper: balada
+hyper: celebração
+hyper: cerimónia
+hypo: @en_social_event
+sa: @en:noun.event:affair
+
+w: acontecimento 2
+w: evento 1
+w: ocorrência
+d: @en_an event that happens
+hyper: @en_accompaniment
+hyper: @en_appearance
+hyper: @en_avalanche
+hyper: @en_computer_error
+hyper: @en_disappearance
+hyper: @en_disappearance 1
+hyper: @en_discharge
+hyper: @en_finish 1
+hyper: @en_flash 1
+hyper: @en_juncture
+hyper: @en_one-off
+hyper: @en_periodic_event
+hyper: @en_supervention
+hyper: @en_union
+hyper: Acidentes
+hyper: Surto
+hyper: acidente 1
+hyper: acontecimento
+hyper: alteração
+hyper: bom_tratamento
+hyper: caso
+hyper: chegada
+hyper: coisa
+hyper: colapso
+hyper: colapso 1
+hyper: começo
+hyper: convergência
+hyper: desastre 1
+hyper: destino
+hyper: dádiva
+hyper: episódio
+hyper: evento 2
+hyper: experiência
+hyper: explosão 3
+hyper: fogo 1
+hyper: interrupção
+hyper: maravilha
+hyper: maravilha 1
+hyper: movimento
+hyper: problema 1
+hyper: revés
+hyper: ruído 3
+hyper: toque 1
+hyper: vitória
+hypo: noun.Tops:acontecimento
+sa: @en:noun.event:happening
+
+w: adivinhação
+w: agoiro
+w: agouro
+w: augúrio
+w: presságio
+w: profecia
+w: prognóstico
+d: @en_a sign of something about to happen
+hyper: @en_auspice
+hyper: @en_death_knell
+hyper: mau_agouro
+hypo: agouro 1
+sa: @en:noun.event:omen
+
+w: adversidade
+d: @en_a stroke of ill fortune; a calamitous event
+hypo: acidente 4
+sa: @en:noun.event:adversity
+
+w: agouro 1
+w: augúrio 1
+w: presságio 1
+d: @en_an event that is experienced as indicating important things to come
+hyper: @en_war_cloud
+hyper: adivinhação
+hypo: experiência
+sa: @en:noun.event:augury
+
+w: ajustamento
+d: @en_making or becoming suitable; adjusting to circumstances
+hyper: noun.act:@en_readjustment
+hyper: noun.act:Habituação
+hyper: noun.act:domesticação
+hyper: @en_shakedown
+hypo: melhoria
+sa: @en:noun.event:accommodation
+
+w: alfa
+d: @en_the beginning of a series or sequence
+hypo: começo 3
+sa: @en:noun.event:alpha
+
+w: alteração
+w: modificação
+w: mudança
+w: variação
+d: @en_an event that occurs when something passes from one state or phase to another
+hyper: noun.attribute:aceleração
+hyper: noun.attribute:desaceleração
+hyper: @en_avulsion
+hyper: @en_destabilization
+hyper: @en_development
+hyper: @en_easing
+hyper: @en_loss_of_consciousness
+hyper: @en_play
+hyper: @en_scintillation
+hyper: @en_sex_change
+hyper: @en_sublimation
+hyper: @en_transmutation
+hyper: @en_vagary
+hyper: Mutação
+hyper: abatimento 1
+hyper: aumento 1
+hyper: avaria
+hyper: deformação 1
+hyper: dispersão
+hyper: flutuação
+hyper: morte 2
+hyper: mudança 2
+hyper: mudança 3
+hyper: mudança 4
+hyper: mutação 1
+hyper: nascimento
+hyper: revolução
+hyper: surpresa
+hyper: transição 1
+hypo: acontecimento 2
+sa: @en:noun.event:alteration
+
+w: anilhagem
+d: @en_the sound of a bell ringing
+hyper: @en_bell_ringing
+hypo: ruído 3
+sa: @en:noun.event:ring
+
+w: aniquilamento
+w: aniquilação
+w: desintegração
+d: @en_total destruction
+hyper: extinção
+hypo: demolição
+sa: @en:noun.event:annihilation
+
+w: aniquilação 1
+w: erradicação
+d: @en_the complete destruction of every trace of something
+hypo: demolição
+sa: @en:noun.event:eradication
+
+w: antecedentes
+d: @en_a preceding occurrence or cause or event
+hypo: causa
+sa: @en:noun.event:antecedent
+
+w: anticlímax
+d: @en_a disappointing decline after a previous rise
+hypo: perda 1
+sa: @en:noun.event:anticlimax
+
+w: apagão
+w: blecaute 1
+d: @en_the failure of electric power for a general region
+hypo: Blecautes
+sa: @en:noun.event:blackout
+
+w: aparição
+d: @en_the appearance of a ghostlike figure
+hypo: @en_appearance
+sa: @en:noun.event:apparition
+
+w: apito
+w: assobio 1
+w: assovio
+d: @en_the sound made by something moving rapidly or by steam coming out of a small aperture
+hypo: ruído 3
+sa: @en:noun.event:whistle
+
+w: apocalipse
+d: @en_a cosmic cataclysm in which God destroys the ruling powers of evil
+hypo: calamidade
+sa: @en:noun.event:apocalypse
+
+w: ascensão
+w: escalada
+w: subida
+d: @en_a movement upward
+hyper: @en_heave
+hyper: @en_liftoff
+hyper: @en_rapid_climb
+hyper: @en_takeoff
+hyper: @en_upheaval
+hyper: @en_uplifting
+hyper: ascenção
+hyper: levantamento_crustal
+hypo: @en_change_of_location
+sa: @en:noun.event:ascension
+
+w: ascenção
+w: escalada 1
+w: montanhismo
+d: @en_an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)
+hypo: ascensão
+sa: @en:noun.event:climb
+
+w: atenuação
+w: enfraquecimento
+d: @en_weakening in force or intensity
+hypo: @en_weakening
+sa: @en:noun.event:attenuation
+
+w: atrito
+d: @en_a wearing down to weaken or destroy
+hypo: abatimento 1
+sa: @en:noun.event:attrition
+
+w: atrofia
+d: @en_any weakening or degeneration (especially through lack of use)
+hypo: @en_weakening
+sa: @en:noun.event:atrophy
+
+w: aumento
+d: @en_the amount by which something increases
+hypo: aumento 1
+sa: @en:noun.event:augmentation
+
+w: aumento 1
+w: crescimento
+d: @en_a change resulting in an increase
+hyper: @en_explosion
+hyper: @en_run-up
+hyper: @en_waxing
+hyper: aumento
+hyper: concentração
+hyper: pulo 1
+hypo: alteração
+sa: @en:noun.event:increase
+
+w: aurora
+d: @en_the daily event of the sun rising above the horizon
+hypo: @en_periodic_event
+sa: @en:noun.event:sunrise
+
+w: avalanche 1
+d: @en_(geology) the descent of a large mass of earth or rocks or snow etc.
+hyper: Avalanches
+hyper: Deslizamento_de_terra
+hypo: descenso
+mt: noun.cognition:geologia
+sa: @en:noun.event:slide
+
+w: avanço
+w: progresso
+w: progressão
+d: @en_a movement forward
+hyper: @en_head
+hypo: @en_change_of_location
+sa: @en:noun.event:advance
+
+w: avaria
+w: dano
+w: estrago
+w: prejuízo
+d: @en_the occurrence of a change for the worse
+hyper: @en_ladder
+hyper: deformação
+hyper: detrimento
+hypo: alteração
+sa: @en:noun.event:damage
+
+w: avaria 1
+d: @en_a cessation of normal operation
+hyper: @en_brake_failure
+hyper: @en_engine_failure
+hyper: @en_fault
+hyper: @en_outage
+hyper: Blecautes
+hyper: gasto
+hypo: desastre 1
+sa: @en:noun.event:breakdown 1
+
+w: baile
+d: @en_a party for social dancing
+hyper: @en_barn_dance
+hyper: @en_hop
+hyper: baile 1
+hyper: rave
+hypo: balada
+sa: @en:noun.event:dance
+
+w: baile 1
+d: @en_a lavish dance requiring formal attire
+hyper: @en_cotilion
+hyper: @en_prom
+hyper: Baile_de_Máscaras
+hypo: baile
+sa: @en:noun.event:ball
+
+w: baixamar
+w: maré_baixa
+d: @en_the lowest (farthest) ebb of the tide
+hypo: maré
+sa: @en:noun.event:low_tide
+
+w: balada
+w: banquete
+w: festa 1
+w: night
+w: reveillon
+d: @en_an occasion on which people can assemble for social interaction and entertainment
+hyper: @en_bun-fight
+hyper: @en_ceilidh
+hyper: @en_house_party
+hyper: @en_jolly
+hyper: @en_tea_party
+hyper: @en_whist_drive
+hyper: baile
+hyper: banquete 1
+hyper: cocktail
+hyper: festa 5
+hyper: festa_de_aniversário
+hypo: acontecimento 1
+sa: @en:noun.event:party
+
+w: banquete 1
+w: festa 2
+d: @en_an elaborate party (often outdoors)
+hyper: @en_potlatch
+hyper: Luau
+hypo: balada
+sa: @en:noun.event:feast 1
+
+w: baterpalmas
+w: explosão 1
+d: @en_a sudden very loud noise
+hyper: golpe_de_aríete
+hypo: ruído 4
+sa: @en:noun.event:bam
+
+w: batida
+w: bofetada
+w: estalo
+w: palmada
+w: tabefe
+d: @en_a blow from a flat object (as an open hand)
+hypo: choque
+sa: @en:noun.event:slap
+
+w: batida 1
+w: batidas
+d: @en_the sound of knocking (as on a door or in an engine or bearing)
+hypo: ruído 3
+sa: @en:noun.event:knock 1
+
+w: batida 2
+w: rufo
+d: @en_the sound of a drum (especially a snare drum) beaten rapidly and continuously
+hypo: ruído 3
+sa: @en:noun.event:drum_roll
+
+w: batidinha
+d: um golpe suave
+hypo: choque
+sa: @en:noun.event:rap 1
+
+w: beberagem
+d: @en_an occurrence of an unusual mixture
+hypo: mistura 1
+sa: @en:noun.event:concoction
+
+w: bom_tratamento
+d: @en_an occurrence that causes special pleasure or delight
+hypo: acontecimento 2
+sa: @en:noun.event:treat
+
+w: bomba
+w: soco
+d: @en_a bad experience
+hypo: acidente 4
+sa: @en:noun.event:knock 2
+
+w: borrifo
+w: respingo
+d: @en_the sound like water splashing
+hyper: @en_splat
+hypo: ruído 4
+sa: @en:noun.event:plash
+
+w: burburinho
+w: cicio
+w: murmúrio
+w: sussurro
+d: @en_a light noise, like the noise of silk clothing or leaves blowing in the wind
+hypo: ruído 4
+sa: @en:noun.event:rustle
+
+w: cacarejo
+d: @en_the cry of a cock (or an imitation of it)
+hyper: cocoricó
+hypo: @en_cry
+sa: @en:noun.event:crow
+
+w: cacarejo 1
+d: @en_the sound made by a hen after laying an egg
+hypo: @en_cry
+sa: @en:noun.event:cackle
+
+w: calamidade
+w: cataclismo
+w: catástrofe
+w: catástrofes
+w: desastre
+w: flagelo
+w: tragédia
+d: @en_an event resulting in great loss and misfortune
+hyper: @en_kiss_of_death
+hyper: @en_plague
+hyper: @en_tidal_wave
+hyper: @en_visitation
+hyper: Carestia
+hyper: apocalipse
+hyper: catástrofe 1
+hyper: força_maior
+hyper: maremoto 1
+hypo: acidente 4
+sa: @en:noun.event:calamity
+
+w: campanha
+d: @en_a race between candidates for elective office
+hyper: @en_campaign_for_governor
+hyper: @en_senate_campaign
+hypo: corrida
+sa: @en:noun.event:campaign
+
+w: capítulo
+d: @en_a series of related events forming an episode
+hypo: episódio
+sa: @en:noun.event:chapter
+
+w: caso
+w: exemplo
+w: ocasião
+w: ocorrência 1
+d: @en_an occurrence of something
+hyper: @en_bit
+hyper: @en_humiliation
+hyper: vez
+hypo: acontecimento 2
+sa: @en:noun.event:case
+
+w: casus_belli
+d: @en_an event used to justify starting a war
+hypo: começo
+sa: @en:noun.event:casus_belli
+
+w: catástrofe 1
+d: @en_a disaster comparable to a nuclear meltdown
+hypo: calamidade
+sa: @en:noun.event:meltdown
+
+w: causa
+d: @en_events that provide the generative force that is the origin of something
+hyper: @en_mutagenesis
+hyper: antecedentes
+hyper: etiologia
+hyper: fator
+hyper: produtor
+hypo: começo 2
+sa: @en:noun.event:cause
+
+w: celebração
+w: festa 3
+w: rotulagem
+d: @en_a joyful occasion for special festivities to mark some happy event
+hypo: acontecimento 1
+sa: @en:noun.event:celebration
+
+w: cerimónia
+w: cerimônia
+w: festa 4
+d: @en_a formal event performed on a special occasion
+hyper: @en_Maundy
+hyper: @en_circumstance
+hyper: @en_dedication
+hyper: @en_exercise
+hyper: @en_fire_walking
+hyper: @en_military_ceremony
+hyper: @en_pageant
+hyper: @en_potlatch
+hyper: Boda
+hyper: Funeral
+hyper: comemoração
+hyper: formalidade
+hyper: inauguração
+hyper: iniciação 1
+hypo: acontecimento 1
+sa: @en:noun.event:ceremonial
+
+w: certame
+w: competição
+w: concurso
+w: jogo
+w: partida
+w: torneio
+d: @en_an occasion on which a winner is selected from among two or more contestants
+hyper: noun.act:jogo 1
+hyper: @en_athletic_competition
+hyper: @en_bout
+hyper: @en_championship
+hyper: @en_chicken
+hyper: @en_cliffhanger
+hyper: @en_dogfight
+hyper: @en_field_trial
+hyper: @en_playoff
+hyper: @en_series
+hyper: @en_spelldown
+hyper: @en_trial
+hyper: combate
+hyper: corrida
+hyper: corrida 1
+hyper: torneio 2
+hyper: torneio 3
+hypo: @en_social_event
+sa: @en:noun.event:competition
+
+w: cessação
+d: @en_a stopping
+hyper: noun.act:@en_legal_separation
+hypo: @en_halt
+sa: @en:noun.event:cessation
+
+w: chance
+d: @en_an unexpected piece of good luck
+hypo: acidente 1
+sa: @en:noun.event:break 1
+
+w: chegada
+w: conclusão
+w: fim
+w: resultado
+d: @en_event whose occurrence ends something
+hyper: @en_foregone_conclusion
+hyper: @en_halt
+hyper: demolição
+hyper: derrota
+hyper: fim 1
+hyper: omêga
+hyper: placar
+hyper: vitória 2
+hypo: acontecimento 2
+sa: @en:noun.event:conclusion
+
+w: chilique
+w: desfalecimento
+w: desmaio
+d: @en_a spontaneous loss of consciousness caused by insufficient blood to the brain
+hypo: @en_loss_of_consciousness
+sa: @en:noun.event:deliquium
+
+w: chilro
+w: gorjeio
+w: trinado
+d: @en_a sharp sound made by small birds or insects
+hyper: pio 1
+hypo: ruído 3
+sa: @en:noun.event:chirp
+
+w: choque
+d: @en_an impact (as from a collision)
+hyper: @en_bang
+hyper: @en_buffeting
+hyper: @en_sideswipe
+hyper: Concussão
+hyper: batida
+hyper: batidinha
+hyper: sacudida
+hypo: impacto
+sa: @en:noun.event:blow
+
+w: ciclo
+d: uma sequência de eventos repetida periodicamente
+hyper: @en_merry-go-round
+hyper: @en_samsara
+hypo: repetição 2
+sa: @en:noun.event:cycle 2
+
+w: circulação
+d: @en_free movement or passage (as of cytoplasm within a cell or sap through a plant)
+hypo: @en_change_of_location
+mt: noun.Tops:flora
+sa: @en:noun.event:circulation
+
+w: cocktail
+d: @en_an afternoon party at which cocktails are served
+hypo: balada
+sa: @en:noun.event:cocktail_party
+
+w: cocoricó
+d: @en_an imitation of the crow of a cock
+hypo: cacarejo
+sa: @en:noun.event:cock-a-doodle-doo
+
+w: coice
+w: recuo
+d: @en_the backward jerk of a gun when it is fired
+hypo: movimento
+sa: @en:noun.event:kick
+
+w: coincidência 1
+d: @en_an event that might have been arranged although it was really accidental
+hypo: acidente 1
+sa: @en:noun.event:coincidence
+
+w: coisa
+d: @en_an event
+hyper: @en_feast
+hypo: acontecimento 2
+sa: @en:noun.event:thing
+
+w: colapso
+w: desabamento
+w: desmoronamento
+d: @en_a natural event caused by something suddenly falling down or caving in
+hyper: @en_implosion
+hyper: desabamento 1
+hyper: fiasco
+hypo: acontecimento 2
+sa: @en:noun.event:collapse
+
+w: colapso 1
+d: @en_a sudden large decline of business or the prices of stocks (especially one that causes additional failures)
+hypo: acontecimento 2
+sa: @en:noun.event:collapse 1
+
+w: colação_de_grau
+w: formatura
+w: graduação
+d: @en_an academic exercise in which diplomas are conferred
+hypo: @en_exercise
+mp: noun.communication:@en_baccalaureate
+sa: @en:noun.event:commencement 2
+
+w: colcheia
+d: @en_a tremulous sound
+hypo: ruído 3
+sa: @en:noun.event:quaver
+
+w: colisión
+w: colisão
+d: @en_an accident resulting from violent impact of a moving object
+hyper: @en_fender-bender
+hyper: @en_pileup
+hyper: @en_smash 1
+hypo: acidente 2
+sa: @en:noun.event:collision
+
+w: colisão 1
+d: @en_(physics) a brief event in which two or more bodies come together
+hypo: toque 1
+mt: noun.cognition:Fisica
+sa: @en:noun.event:collision 1
+
+w: combate
+w: jogo 1
+w: luta
+w: partida 1
+d: @en_a formal contest in which two or more persons or teams compete
+hyper: @en_boxing_match
+hyper: @en_chess_match
+hyper: @en_cricket_match
+hyper: @en_diving
+hyper: @en_field_event
+hyper: @en_final
+hyper: @en_match_game
+hyper: @en_quarterfinal
+hyper: @en_semi
+hyper: @en_swimming_event
+hyper: @en_tennis_match
+hyper: @en_wrestling_match
+hyper: Rinha_de_galo
+hypo: certame
+sa: @en:noun.event:match
+
+w: combinação
+w: mistura
+d: @en_an occurrence that results in things being united
+hyper: @en_recombination
+hyper: @en_recombination 1
+hyper: conglomeração
+hyper: consolidação
+hyper: mistura 1
+hypo: @en_union
+sa: @en:noun.event:combine
+
+w: comemoração
+d: @en_a ceremony to honor the memory of someone or something
+hypo: cerimónia
+sa: @en:noun.event:commemoration
+
+w: começo
+w: início
+w: princípio
+d: @en_the event consisting of the start of something
+hyper: @en_egress 1
+hyper: @en_generation
+hyper: @en_ground_floor
+hyper: casus_belli
+hyper: começo 2
+hyper: começo 3
+hyper: concepção
+hyper: crescimento 1
+hypo: acontecimento 2
+sa: @en:noun.event:beginning
+
+w: começo 1
+w: investida
+w: início 1
+d: @en_the beginning or early stages
+hypo: começo 3
+sa: @en:noun.event:oncoming
+
+w: começo 2
+w: gênese
+w: iniciação
+w: origem
+d: @en_an event that is a beginning; a first part or stage of subsequent events
+hyper: @en_overture
+hyper: causa
+hyper: germinação
+hyper: procissão
+hypo: começo
+sa: @en:noun.event:inception
+
+w: começo 3
+w: decolagem
+w: início 2
+w: princípio 1
+d: @en_the beginning of anything
+hyper: @en_adrenarche
+hyper: @en_curtain_raising
+hyper: @en_flying_start
+hyper: @en_menarche
+hyper: @en_racing_start
+hyper: @en_thelarche
+hyper: abertura
+hyper: alfa
+hyper: começo 1
+hyper: kickoff
+hyper: madrugada
+hypo: começo
+sa: @en:noun.event:start
+
+w: compressão
+w: contração
+d: @en_the process or result of becoming smaller or pressed together
+hyper: @en_coarctation
+hypo: @en_shrinkage
+sa: @en:noun.event:compression
+
+w: compressão 1
+d: @en_an increase in the density of something
+hypo: concentração
+sa: @en:noun.event:compaction
+
+w: concentração
+d: @en_increase in density
+hyper: compressão 1
+hyper: rarefação
+hypo: aumento 1
+sa: @en:noun.event:concentration
+
+w: concepção
+w: criação
+d: @en_the event that occurred at the beginning of something
+hyper: fecundação 1
+hypo: começo
+sa: @en:noun.event:conception
+
+w: conglomeração
+d: @en_an occurrence combining miscellaneous things into a (more or less) rounded mass
+hypo: combinação
+sa: @en:noun.event:conglobation
+
+w: conseqüência
+w: continuação
+w: resultado 1
+d: @en_something that follows something else
+hypo: placar
+sa: @en:noun.event:sequel
+
+w: conseqüência 1
+d: @en_the outcome of an event especially as relative to an individual
+hyper: @en_comeupance
+hyper: @en_corollary
+hyper: @en_fruit
+hyper: @en_payoff
+hyper: @en_sequella
+hyper: @en_train
+hypo: placar
+sa: @en:noun.event:aftermath
+
+w: conservação
+d: @en_an occurrence of improvement by virtue of preventing loss or injury or other change
+hypo: melhoria
+sa: @en:noun.event:conservation
+
+w: consolidação
+d: @en_combining into a solid mass
+hypo: combinação
+sa: @en:noun.event:consolidation
+
+w: contágio
+w: infecção
+w: spillover
+d: @en_an incident in which an infectious disease is transmitted
+hypo: evento 2
+sa: @en:noun.event:contagion
+
+w: convergência
+d: @en_the occurrence of two or more things coming together
+hyper: encontro
+hypo: acontecimento 2
+sa: @en:noun.event:convergence
+
+w: coroação
+d: @en_the ceremony of installing a new monarch
+hypo: iniciação 1
+sa: @en:noun.event:coronation
+
+w: corrente
+w: correnteza
+w: fluxo
+d: @en_a steady flow of a fluid (usually from natural causes)
+hyper: @en_tidal_current
+hyper: @en_torrent
+hyper: @en_undercurrent
+hyper: Corrente_de_retorno
+hyper: espiral
+hyper: redemoinho 1
+hyper: noun.phenomenon:Corrente_oceânica
+hypo: fluxo 1
+sa: @en:noun.event:current
+
+w: corrente_de_ar
+w: fluxo_de_ar
+d: @en_the flow of air
+hypo: fluxo 1
+sa: @en:noun.event:air_flow
+
+w: corrida
+d: @en_any competition
+hyper: Corrida_armamentista
+hyper: campanha
+hypo: certame
+sa: @en:noun.event:race 1
+
+w: corrida 1
+d: @en_a contest of speed
+hyper: @en_auto_race
+hyper: @en_bicycle_race
+hyper: @en_boat_race
+hyper: @en_burnup
+hyper: @en_chariot_race
+hyper: @en_cross_country
+hyper: @en_dog_racing
+hyper: @en_foot_race
+hyper: @en_heat
+hyper: @en_horse_race
+hyper: @en_potato_race
+hyper: @en_repechage
+hyper: @en_sack_race
+hyper: @en_scratch_race
+hyper: @en_ski_race
+hyper: estafeta
+hyper: estilo_livre
+hypo: certame
+sa: @en:noun.event:race
+
+w: crash_da_cabeça_do_dispositivo
+d: @en_(computer science) a crash of a read/write head in a hard disk drive (usually caused by contact of the head with the surface of the magnetic disk)
+hypo: Travamento
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.event:head_crash
+
+w: creptação
+d: @en_the sharp sound of snapping noises
+hyper: @en_decrepitation
+hypo: ruído 4
+sa: @en:noun.event:crackle
+
+w: crescimento 1
+w: emergência
+d: @en_the gradual beginning or coming forth
+hyper: @en_rise 1
+hypo: começo
+sa: @en:noun.event:emergence 1
+
+w: crise
+d: @en_a crucial stage or turning point in the course of something
+hyper: emergência 1
+hypo: @en_juncture
+sa: @en:noun.event:crisis
+
+w: cristianização
+d: @en_conversion to Christianity
+hypo: mudança 2
+sa: @en:noun.event:Christianisation
+
+w: darvoltas
+d: @en_turning in an opposite direction or position
+hypo: @en_turn
+sa: @en:noun.event:reversal
+
+w: decatlo
+d: @en_an athletic contest consisting of ten different events
+hypo: @en_athletic_competition
+sa: @en:noun.event:decathlon
+
+w: deformação
+d: @en_a change for the worse
+hyper: @en_warp
+hypo: avaria
+sa: @en:noun.event:deformation
+
+w: deformação 1
+d: @en_alteration in the shape or dimensions of an object as a result of the application of stress to it
+hyper: noun.phenomenon:@en_shear
+hyper: noun.phenomenon:@en_strain
+hypo: alteração
+sa: @en:noun.event:deformation 1
+
+w: degeneração
+d: @en_passing from a more complex to a simpler biological form
+hyper: @en_abiotrophy
+hyper: @en_cataplasia
+hypo: mudança 3
+sa: @en:noun.event:degeneration
+
+w: demolição
+w: desolação
+w: destruição
+d: @en_an event (or the result of an event) that completely destroys something
+hyper: @en_rack
+hyper: @en_razing
+hyper: aniquilamento
+hyper: aniquilação 1
+hyper: depredação
+hyper: desolação 1
+hypo: chegada
+sa: @en:noun.event:demolition
+
+w: depredação
+w: devastação
+d: (geralmente plural) uma ação destrutiva
+e: As depredações da idade e da doença
+hypo: demolição
+mu: noun.communication:plural
+sa: @en:noun.event:depredation
+
+w: derrame
+w: escoamento
+d: @en_the discharge of a fluid from some container
+hypo: @en_discharge 1
+sa: @en:noun.event:escape
+
+w: derrota
+w: perda
+w: vencimento
+d: @en_an unsuccessful ending to a struggle or contest
+hyper: @en_heartbreaker
+hyper: @en_lurch
+hyper: @en_rout
+hyper: @en_shutout
+hyper: @en_waterloo
+hyper: @en_whitewash
+hyper: surra
+hypo: chegada
+hypo: desastre 1
+sa: @en:noun.event:defeat
+
+w: desabamento 1
+w: subsidência
+d: @en_the sudden collapse of something into a hollow beneath it
+hypo: colapso
+sa: @en:noun.event:cave_in
+
+w: desastre 1
+d: @en_an event that does not accomplish its intended purpose
+hyper: @en_flame-out
+hyper: @en_misfire
+hyper: abortamento
+hyper: avaria 1
+hyper: derrota
+hyper: disfunção
+hyper: fracasso
+hyper: malformação
+hyper: queda
+hypo: acontecimento 2
+sa: @en:noun.event:failure
+
+w: descenso
+w: descida
+w: fallout
+w: rebaixamento
+d: @en_a movement downward
+hyper: @en_cascade
+hyper: @en_lightening
+hyper: @en_set
+hyper: @en_sinking 1
+hyper: avalanche 1
+hyper: queda 1
+hypo: @en_change_of_location
+sa: @en:noun.event:descent
+
+w: descida_livre
+d: @en_a ski race down a trail
+hypo: @en_ski_race
+sa: @en:noun.event:downhill
+
+w: deslizamento
+d: @en_a landslide of mud
+hypo: Deslizamento_de_terra
+sa: @en:noun.event:mudslide
+
+w: deslocamento
+d: @en_an event in which something is displaced without rotation
+hyper: @en_amplitude
+hyper: @en_luxation
+hypo: translação
+sa: @en:noun.event:displacement
+
+w: desmembramento
+d: @en_the removal of limbs; being cut to pieces
+hypo: noun.act:tortura
+hypo: mutilação
+sa: @en:noun.event:dismemberment
+
+w: desolação 1
+w: ruína
+d: @en_an event that results in destruction
+hyper: @en_shipwreck
+hyper: desolação 2
+hypo: demolição
+sa: @en:noun.event:ruin
+
+w: desolação 2
+w: devastação 1
+d: @en_an event that results in total destruction
+hypo: desolação 1
+sa: @en:noun.event:desolation
+
+w: destino
+w: fado
+w: sorte
+d: @en_an event (or a course of events) that will inevitably happen in the future
+hyper: @en_inevitable
+hyper: @en_kismat
+hyper: @en_predestination
+hyper: Carma
+hyper: dia_do_juizo
+hypo: acontecimento 2
+sa: @en:noun.event:destiny
+
+w: detrimento
+w: prejuízo 1
+d: @en_a damage or loss
+hyper: @en_expense
+hypo: avaria
+sa: @en:noun.event:detriment
+
+w: dia_do_juizo
+w: fim_do_mundo
+d: @en_an unpleasant or disastrous destiny
+hypo: destino
+sa: @en:noun.event:day_of_reckoning
+
+w: diferença
+d: @en_a variation that deviates from the standard or norm
+hyper: @en_driftage
+hyper: discrepância
+hyper: flexão
+hypo: flutuação
+sa: @en:noun.event:departure 1
+
+w: difusão
+d: @en_the spread of social institutions (and myths and skills) from one society to another
+hypo: @en_spread
+mt: noun.group:Mitologia
+sa: @en:noun.event:diffusion
+
+w: discrepância
+d: @en_an event that departs from expectations
+hypo: diferença
+sa: @en:noun.event:discrepancy
+
+w: disfunção
+w: mau_funcionamento
+d: @en_a failure to function normally
+hyper: @en_blowout
+hyper: @en_stall
+hypo: desastre 1
+sa: @en:noun.event:malfunction
+
+w: dispersão
+d: @en_coming apart
+hyper: @en_break
+hyper: rompimento
+hypo: alteração
+sa: @en:noun.event:breakup
+
+w: drama
+d: um episódio que é turbulento ou altamente emocional
+hyper: Terror_Noturno
+hypo: episódio
+sa: @en:noun.event:drama
+
+w: drible
+d: @en_flowing in drops; the formation and falling of drops of liquid
+hyper: @en_intravenous_drip
+hypo: fluxo 1
+sa: @en:noun.event:dribble
+
+w: dádiva
+d: @en_a sudden happening that brings good fortune (as a sudden opportunity to make money)
+hypo: acontecimento 2
+sa: @en:noun.event:bonanza
+
+w: eclipse
+w: ocultação
+d: quando um corpo celeste obscurece outro
+hyper: @en_partial_eclipse
+hyper: @en_total_eclipse
+hyper: Eclipse_Lunar
+hyper: Eclipse_Solar
+hypo: interrupção
+mp: @en_egress
+mp: @en_immersion
+sa: @en:noun.event:eclipse
+
+w: emergência 1
+w: urgência
+d: @en_a sudden unforeseen crisis (usually involving danger) that requires immediate action
+hypo: crise
+sa: @en:noun.event:emergency
+
+w: empate
+d: @en_the finish of a contest in which the score is tied and the winner is undecided
+hyper: @en_dead_heat
+hyper: Rei_afogado
+hypo: @en_finish 1
+sa: @en:noun.event:draw
+
+w: encontro
+d: @en_a casual or unexpected convergence
+hyper: Conjunção
+hypo: convergência
+sa: @en:noun.event:encounter
+
+w: ensopado
+d: @en_the sound of a liquid falling drop by drop
+hypo: ruído 3
+sa: @en:noun.event:drip 1
+
+w: enterro 1
+w: funeral 1
+w: inumação
+w: sepultamento
+w: sepultura
+d: @en_the ritual placing of a corpse in a grave
+hypo: Funeral
+sa: @en:noun.event:burial
+
+w: episódio
+d: @en_a happening that is distinctive in a series of related events
+hyper: capítulo
+hyper: drama
+hyper: idílio
+hypo: acontecimento 2
+mp: evento 2
+sa: @en:noun.event:episode
+
+w: erupção 1
+w: erupção_vulcânica
+w: erupções_vulcânicas
+d: @en_the sudden occurrence of a violent discharge of steam and volcanic material
+hyper: Erupção_pliniana
+hypo: @en_discharge
+sa: @en:noun.event:eruption
+
+w: escândalo
+d: @en_a disgraceful event
+hyper: @en_skeleton
+hypo: problema 1
+ihypo: @en_Teapot_Dome
+ihypo: Caso_watergate
+sa: @en:noun.event:outrage
+
+w: esguinche
+d: @en_the occurrence of a sudden discharge (as of liquid)
+hyper: @en_spray
+hyper: @en_spritz
+hypo: @en_discharge 1
+sa: @en:noun.event:jet
+
+w: espiral
+w: funil
+w: furacão
+w: redemoinho
+w: sorvedouro
+w: tufão
+w: turbilhão
+w: voragem
+w: vórtice
+d: @en_a powerful circular current of water (usually the result of conflicting tides)
+hyper: Caribdis
+hypo: corrente
+sa: @en:noun.event:maelstrom
+
+w: esporro
+w: estrilo
+d: @en_the noise made by the forceful impact of two objects
+hypo: ruído 4
+sa: @en:noun.event:slam 2
+
+w: estafeta
+d: @en_a race between teams; each member runs or swims part of the distance
+hyper: @en_torch_race
+hypo: corrida 1
+sa: @en:noun.event:relay
+
+w: estalo 1
+d: @en_a sudden sharp noise
+hypo: ruído 4
+sa: @en:noun.event:crack
+
+w: estampido_sónico
+d: @en_an explosive sound caused by the shock wave of an airplane traveling faster than the speed of sound
+hypo: onda_de_choque
+sa: @en:noun.event:sonic_boom
+
+w: estilo_livre
+w: freestyle
+d: @en_a race (as in swimming) in which each contestant has a free choice of the style to use
+hypo: corrida 1
+sa: @en:noun.event:freestyle
+
+w: estrondo
+w: ruído
+d: @en_electrical or acoustic activity that can disturb communication
+hyper: noun.communication:@en_clutter
+hyper: @en_atmospheric_static
+hyper: @en_background
+hyper: @en_fadeout
+hyper: @en_jitter 1
+hyper: Crosstalk
+hyper: ruído_branco
+hypo: problema 1
+sa: @en:noun.event:disturbance 1
+
+w: etiologia
+d: @en_the cause of a disease
+hypo: causa
+sa: @en:noun.event:aetiology
+
+w: evento 2
+w: incidente
+d: @en_a single distinct event
+hp: episódio
+hyper: @en_cause_celebre
+hyper: @en_scene
+hyper: @en_sideshow
+hyper: contágio
+hypo: acontecimento 2
+sa: @en:noun.event:incident
+
+w: experiência
+d: @en_an event as apprehended
+hyper: @en_appalling
+hyper: @en_blast
+hyper: @en_flash
+hyper: @en_head_trip
+hyper: @en_loss
+hyper: @en_near-death_experience
+hyper: @en_taste
+hyper: @en_time
+hyper: Calvário
+hyper: agouro 1
+hyper: projeção_da_consciência
+hyper: visão
+hypo: acontecimento 2
+mp: noun.cognition:@en_high_point
+sa: @en:noun.event:experience
+
+w: expiração
+w: morte
+d: @en_euphemistic expressions for death
+hypo: morte 2
+mu: noun.communication:eufemismo
+sa: @en:noun.event:departure
+
+w: explosão 2
+d: @en_a violent release of energy caused by a chemical or nuclear reaction
+hyper: @en_airburst
+hyper: @en_backfire
+hyper: @en_backfire 1
+hyper: @en_big_bang
+hyper: @en_fragmentation
+hyper: @en_inflation
+hyper: explosão 4
+hypo: @en_discharge
+sa: @en:noun.event:blowup
+
+w: explosão 3
+d: @en_a sudden intense happening
+hyper: @en_rush
+hyper: @en_salvo
+hypo: acontecimento 2
+sa: @en:noun.event:burst
+
+w: explosão 4
+d: @en_an explosion (as of dynamite)
+hyper: @en_bomb_blast
+hypo: explosão 2
+sa: @en:noun.event:blast
+
+w: explosões_nucleares
+d: @en_the explosion of an atomic bomb
+hypo: @en_bomb_blast
+mp: noun.object:@en_fireball 1
+sa: @en:noun.event:atomic_explosion
+
+w: exsudação
+d: @en_the process of exuding; the slow escape of liquids from blood vessels through pores or breaks in the cell membranes
+hypo: @en_ooze
+sa: @en:noun.event:exudation
+
+w: extinção
+d: @en_complete annihilation
+hypo: aniquilamento
+sa: @en:noun.event:extermination
+
+w: fagulha
+d: @en_a momentary flash of light
+hypo: @en_flash 1
+sa: @en:noun.event:flicker
+
+w: fatalidade
+w: morte 1
+d: @en_a death resulting from an accident or a disaster
+hyper: @en_casualty 1
+hyper: homicídio
+hypo: morte 2
+sa: @en:noun.event:fatality
+
+w: fator
+d: @en_anything that contributes causally to a result
+hyper: @en_fundamental
+hyper: @en_unknown_quantity
+hyper: @en_wild_card
+hyper: parâmetro
+hyper: noun.substance:@en_RF
+hyper: noun.substance:Fator_intrínseco
+hypo: causa
+sa: @en:noun.event:factor
+
+w: fecundação 1
+w: fertilização 1
+d: @en_creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant
+hyper: @en_cross-fertilisation
+hyper: @en_self-fertilisation
+hyper: @en_superfetation
+hyper: Polinização
+hyper: Superfecundação
+hypo: concepção
+sa: @en:noun.event:fecundation
+
+w: fenómeno
+w: fenômeno
+d: @en_a remarkable development
+hypo: @en_development
+sa: @en:noun.event:phenomenon
+
+w: ferida
+d: @en_a casualty to military personnel resulting from combat
+hyper: @en_blighty_wound
+hyper: @en_flesh_wound
+hypo: @en_loss 1
+mt: noun.group:exército 3
+sa: @en:noun.event:combat_injury
+
+w: ferimentos
+d: @en_an accident that results in physical damage or hurt
+hyper: @en_concussion
+hyper: mutilação
+hypo: acidente 2
+sa: @en:noun.event:accidental_injury
+
+w: festa 5
+d: @en_an uproarious party
+hypo: balada
+sa: @en:noun.event:bash 1
+
+w: festa_de_aniversário
+d: @en_a party held on the anniversary of someone's birth
+hypo: balada
+sa: @en:noun.event:birthday_party
+
+w: fiasco
+w: malogro
+d: @en_a sudden and violent collapse
+hypo: colapso
+sa: @en:noun.event:debacle 2
+
+w: fim 1
+w: final
+d: @en_the concluding parts of an event or occurrence
+hyper: @en_end_game
+hyper: @en_end_game 1
+hyper: @en_homestretch
+hyper: @en_passing
+hypo: chegada
+sa: @en:noun.event:end
+
+w: final_da_taça
+w: final_de_copa
+d: @en_the final match of any cup competition (such as the annual final of the English soccer competition at Wembley)
+hypo: @en_final
+mt: noun.act:futebol
+sa: @en:noun.event:cup_final
+
+w: flexão
+d: @en_deviation from a straight or normal course
+hypo: diferença
+sa: @en:noun.event:flection
+
+w: flutuação
+w: mudança 1
+w: variação 1
+d: @en_an instance of change; the rate or magnitude of change
+hyper: @en_allomerism
+hyper: @en_daily_variation
+hyper: @en_diurnal_variation
+hyper: @en_permutation
+hyper: @en_tide
+hyper: Ciclo_econômico
+hyper: diferença
+hyper: vicissitude
+hypo: alteração
+sa: @en:noun.event:fluctuation
+
+w: fluxo 1
+d: @en_the motion characteristic of fluids (liquids or gases)
+hyper: noun.artifact:jato
+hyper: @en_discharge 1
+hyper: @en_drippage
+hyper: @en_ebb
+hyper: @en_emission
+hyper: @en_flush
+hyper: @en_freshet
+hyper: @en_ooze
+hyper: @en_rush 1
+hyper: corrente
+hyper: corrente_de_ar
+hyper: drible
+hyper: fluxo 2
+hyper: fluxo_reverso
+hyper: runoff
+hypo: @en_change_of_location
+sa: @en:noun.event:flow
+
+w: fluxo 2
+d: @en_a flow or discharge
+hypo: fluxo 1
+sa: @en:noun.event:flux
+
+w: fluxo_reverso
+d: @en_a flow that returns toward its source
+hyper: regurgitação
+hypo: fluxo 1
+sa: @en:noun.event:backflow
+
+w: fogo 1
+w: incêndio 1
+d: @en_the event of something burning (often destructive)
+hyper: @en_backfire 2
+hyper: @en_brush_fire
+hyper: @en_grassfire
+hyper: @en_smolder
+hyper: @en_smudge
+hyper: Incêndios
+hyper: fogueira
+hyper: fogueira 1
+hyper: incêndio_florestal
+hypo: acontecimento 2
+sa: @en:noun.event:fire
+
+w: fogueira
+d: @en_a large outdoor fire that is lighted as a signal or in celebration
+hypo: fogo 1
+sa: @en:noun.event:balefire
+
+w: fogueira 1
+d: @en_a small outdoor fire for warmth or cooking (as at a camp)
+hypo: fogo 1
+sa: @en:noun.event:campfire
+
+w: forma_de_onda
+d: @en_the shape of a wave illustrated graphically by plotting the values of the period quantity against time
+hypo: onda
+sa: @en:noun.event:wave_form
+
+w: formalidade
+d: @en_a requirement of etiquette or custom
+hypo: cerimónia
+sa: @en:noun.event:formalities
+
+w: força_maior
+d: @en_a natural and unavoidable catastrophe that interrupts the expected course of events
+hypo: calamidade
+sa: @en:noun.event:act_of_God
+
+w: fracasso
+d: @en_a complete failure
+hyper: @en_bomb
+hypo: desastre 1
+sa: @en:noun.event:bust
+
+w: fusão
+w: unificação
+d: @en_an occurrence that involves the production of a union
+hypo: @en_union
+sa: @en:noun.event:fusion
+
+w: gargarejo
+d: o som produzido enquanto gargarejando
+hypo: ruído 3
+sa: @en:noun.event:gargle
+
+w: gasto
+d: @en_an explosion that fails to occur
+hypo: avaria 1
+sa: @en:noun.event:dud 1
+
+w: germinação
+d: @en_the origin of some development
+hypo: começo 2
+sa: @en:noun.event:germination
+
+w: golpe_de_aríete
+d: @en_the banging sound of steam in pipes
+hypo: baterpalmas
+sa: @en:noun.event:water_hammer
+
+w: gorgolejo
+d: @en_the bubbling sound of water flowing from a bottle with a narrow neck
+hypo: ruído 3
+sa: @en:noun.event:gurgle
+
+w: grasno
+d: @en_the cry of a goose (or any sound resembling this)
+hypo: @en_cry
+sa: @en:noun.event:honk
+
+w: gritar_agudo
+w: gritar_histérico
+d: @en_a high-pitched howl
+hypo: @en_howl
+sa: @en:noun.event:squeal
+
+w: gólgota
+w: martírio
+d: @en_any experience that causes intense suffering
+hypo: @en_affliction
+sa: @en:noun.event:calvary
+
+w: hiato
+w: suspensão
+d: @en_an interruption in the intensity or amount of something
+hyper: @en_defervescence
+hyper: remissão
+hypo: interrupção
+sa: @en:noun.event:abatement 1
+
+w: homicídio
+d: @en_an event that causes someone to die
+hypo: fatalidade
+sa: @en:noun.event:killing
+
+w: idílio
+d: @en_an episode of such pastoral or romantic charm as to qualify as the subject of a poetic idyll
+hypo: episódio
+sa: @en:noun.event:idyll
+
+w: imersão
+d: @en_sinking until covered completely with water
+hyper: @en_dip
+hypo: @en_sinking 1
+sa: @en:noun.event:immersion
+
+w: impacto
+d: @en_the striking of one body against another
+hyper: @en_slam 1
+hyper: choque
+hypo: toque 1
+sa: @en:noun.event:impact
+
+w: inauguração
+d: @en_a ceremony accompanying the start of some enterprise
+hypo: cerimónia
+sa: @en:noun.event:opening 1
+
+w: incêndio_florestal
+w: incêndios_florestais
+d: @en_an uncontrolled fire in a wooded area
+hyper: @en_crown_fire
+hyper: @en_ground_fire
+hyper: @en_surface_fire
+hypo: fogo 1
+sa: @en:noun.event:forest_fire
+
+w: incêndio_florestal 1
+d: @en_a raging and rapidly spreading conflagration
+hypo: Incêndios
+sa: @en:noun.event:wildfire
+
+w: incômodo
+w: problema
+d: @en_an angry disturbance
+hypo: @en_disturbance
+sa: @en:noun.event:bother
+
+w: independência
+d: @en_the successful ending of the American Revolution
+hypo: vitória 2
+sa: @en:noun.event:independence
+
+w: inferno
+d: @en_a cause of difficulty and suffering
+hypo: problema 1
+sa: @en:noun.event:blaze
+
+w: infortúnio 1
+d: @en_something that causes or entails suffering
+hypo: acidente 4
+sa: @en:noun.event:hardship
+
+w: iniciação 1
+d: @en_a formal entry into an organization or position or office
+hyper: noun.act:inauguração
+hyper: @en_bar_mitzvah
+hyper: @en_bas_mitzvah
+hyper: coroação
+hypo: cerimónia
+sa: @en:noun.event:induction
+
+w: interrupção
+w: pausa
+d: @en_some abrupt occurrence that interrupts an ongoing activity
+hyper: @en_dislocation
+hyper: @en_punctuation
+hyper: eclipse
+hyper: hiato
+hypo: acontecimento 2
+sa: @en:noun.event:break
+
+w: invasão
+d: @en_any entry into an area not previously occupied
+hypo: @en_entering
+sa: @en:noun.event:encroachment
+
+w: kickoff
+d: @en_a start given to contestants
+hypo: começo 3
+sa: @en:noun.event:kickoff
+
+w: ladrido
+d: @en_the sound made by a dog
+hyper: @en_bow-wow
+hypo: @en_cry
+sa: @en:noun.event:bark
+
+w: lahar
+d: @en_an avalanche of volcanic water and mud down the slopes of a volcano
+hypo: Avalanches
+sa: @en:noun.event:lahar
+
+w: latido
+d: @en_a noise resembling the bark of a dog
+hypo: ruído 4
+sa: @en:noun.event:bark 2
+
+w: levantamento_crustal
+d: @en_the event of something being raised upward
+hypo: ascensão
+sa: @en:noun.event:elevation
+
+w: loteria
+d: @en_something that is regarded as a chance event
+hypo: acidente 1
+sa: @en:noun.event:lottery
+
+w: lástima
+w: pena
+d: @en_an unfortunate development
+hypo: acidente 4
+sa: @en:noun.event:pity
+
+w: macaréu
+w: onda_de_maré
+w: onda_gigantesca
+w: rás_de_maré
+w: ráz_de_maré
+d: @en_a wave resulting from the periodic flow of the tides that is caused by the gravitational attraction of the moon and sun
+hypo: onda 2
+sa: @en:noun.event:tidal_wave
+
+w: macaréu 1
+d: @en_a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+hypo: @en_tidal_current
+sa: @en:noun.event:aegir
+
+w: madrugada
+d: @en_the earliest period
+hypo: começo 3
+sa: @en:noun.event:dawn 1
+
+w: malformação
+d: @en_something abnormal or anomalous
+hyper: @en_monstrosity
+hypo: desastre 1
+sa: @en:noun.event:malformation
+
+w: manifestação
+d: @en_a clear appearance
+hyper: @en_Word_of_God
+hyper: Epifania
+hyper: Teofania
+hyper: tsunami 1
+hypo: @en_appearance
+ihypo: Advento
+sa: @en:noun.event:manifestation
+
+w: maravilha
+w: milagre
+d: @en_something that causes feelings of wonder
+hypo: acontecimento 2
+sa: @en:noun.event:marvel
+
+w: maravilha 1
+w: milagre 1
+d: @en_any amazing or wonderful occurrence
+hypo: acontecimento 2
+sa: @en:noun.event:miracle
+
+w: maremoto 1
+w: maremotos
+w: tsunami
+d: @en_a cataclysm resulting from a destructive sea wave caused by an earthquake or volcanic eruption
+hypo: calamidade
+hypo: onda 2
+sa: @en:noun.event:tsunami
+
+w: martírio 1
+d: @en_death that is imposed because of the person's adherence of a religious faith or cause
+hypo: morte 2
+sa: @en:noun.event:martyrdom
+
+w: maré
+w: marés
+d: @en_the periodic rise and fall of the sea level under the gravitational pull of the moon
+hyper: @en_ebbtide
+hyper: @en_flood
+hyper: @en_lee_tide
+hyper: @en_slack_tide
+hyper: baixamar
+hyper: maré_alta
+hypo: @en_periodic_event
+mp: @en_tidal_current
+mp: @en_undercurrent
+mp: Corrente_de_retorno
+sa: @en:noun.event:tide
+
+w: maré_alta
+w: preamar
+d: @en_the tide when the water is highest
+hyper: @en_direct_tide
+hyper: @en_springtide 1
+hyper: água-morta
+hypo: maré
+sa: @en:noun.event:high_tide
+
+w: mau_agouro
+d: @en_an unfavorable omen
+hypo: adivinhação
+sa: @en:noun.event:foreboding
+
+w: melhoria
+w: progresso 1
+d: @en_a change for the better; progress in development
+hyper: noun.act:ressurgência
+hyper: @en_elaboration
+hyper: ajustamento
+hyper: conservação
+hyper: recuperação
+hypo: mudança 3
+sa: @en:noun.event:advance 1
+
+w: miado
+w: miau
+d: @en_the sound made by a cat (or any sound resembling this)
+hypo: @en_cry
+sa: @en:noun.event:meow
+
+w: milagre 2
+d: @en_a marvellous event manifesting a supernatural act of a divine agent
+hyper: Suposição
+hyper: Transfiguração
+hypo: noun.Tops:acontecimento
+ihypo: @en_Christ's_Resurrection
+ihypo: Ascensão
+sa: @en:noun.event:miracle 1
+
+w: mistura 1
+w: mixagem
+d: @en_an event that combines things in a mixture
+hyper: beberagem
+hyper: mistura 2
+hypo: combinação
+sa: @en:noun.event:mix
+
+w: mistura 2
+d: @en_an occurrence of thorough mixing
+hypo: mistura 1
+sa: @en:noun.event:blend
+
+w: morte 2 ant nascimento
+d: @en_the event of dying or departure from life
+hyper: @en_megadeath
+hyper: @en_wrongful_death
+hyper: expiração
+hyper: fatalidade
+hyper: martírio 1
+hypo: alteração
+ihypo: @en_Crucifixion
+sa: @en:noun.event:death
+
+w: movimento
+d: @en_a natural event that involves a change in the position or location of something
+hyper: @en_approach
+hyper: @en_bend
+hyper: @en_cam_stroke
+hyper: @en_change_of_location
+hyper: @en_commotion
+hyper: @en_crustal_movement
+hyper: @en_deflection
+hyper: @en_heave 1
+hyper: @en_jitter
+hyper: @en_periodic_motion
+hyper: @en_seek
+hyper: @en_squeeze
+hyper: @en_turn
+hyper: @en_undulation
+hyper: @en_wobble
+hyper: coice
+hyper: onda
+hyper: onda 2
+hyper: passagem
+hyper: repercussão
+hyper: torção
+hyper: noun.phenomenon:Movimento_Browniano
+hypo: acontecimento 2
+sa: @en:noun.event:motion
+
+w: mudança 2
+d: @en_a change of religion
+hyper: cristianização
+hypo: alteração
+sa: @en:noun.event:conversion 1
+
+w: mudança 3
+w: transformação
+w: transmutação
+d: @en_a qualitative change
+hyper: @en_population_shift
+hyper: @en_sea_change
+hyper: @en_sublimation 1
+hyper: @en_tin_disease
+hyper: @en_weakening
+hyper: Pirolise
+hyper: degeneração
+hyper: melhoria
+hyper: mudança 5
+hyper: reforço
+hypo: alteração
+sa: @en:noun.event:shift 1
+
+w: mudança 4
+d: @en_an abrupt change in the tone or register of the voice (as at puberty or due to emotion)
+hypo: alteração
+sa: @en:noun.event:break 4
+
+w: mudança 5
+w: transição
+d: @en_an event that results in a transformation
+hyper: @en_glycogenesis
+hyper: @en_isomerisation
+hyper: @en_rectification
+hypo: mudança 3
+sa: @en:noun.event:changeover
+
+w: mugido
+d: @en_the sound made by a cow or bull
+hypo: @en_cry
+sa: @en:noun.event:moo
+
+w: mutação 1
+d: @en_a change or alteration in form or qualities
+hypo: alteração
+sa: @en:noun.event:mutation 1
+
+w: mutilação
+d: @en_an injury that causes disfigurement or that deprives you of a limb or other important body part
+hyper: desmembramento
+hypo: ferimentos
+sa: @en:noun.event:mutilation
+
+w: nascimento ant morte 2
+d: @en_the event of being born
+hyper: @en_delivery
+hyper: @en_live_birth
+hyper: @en_posthumous_birth
+hyper: @en_posthumous_birth 1
+hyper: @en_rebirth
+hypo: alteração
+sa: @en:noun.event:birth
+
+w: naufrágio
+d: @en_an accident that destroys a ship at sea
+hyper: @en_capsizing
+hypo: acidente 2
+sa: @en:noun.event:shipwreck
+
+w: omêga
+w: ómega
+w: ômega
+d: @en_the ending of a series or sequence
+hypo: chegada
+sa: @en:noun.event:Z
+
+w: onda
+d: @en_(physics) a movement up and down or back and forth
+hyper: @en_acoustic_wave
+hyper: @en_flap
+hyper: @en_fluctuation
+hyper: @en_traveling_wave
+hyper: Ondas_de_gravidade
+hyper: Senoide
+hyper: Vibração
+hyper: forma_de_onda
+hyper: onda_de_choque
+hyper: onda_estacionária
+hyper: pulsação
+hyper: seicha
+hypo: movimento
+mt: noun.cognition:Fisica
+sa: @en:noun.event:undulation
+
+w: onda 1
+w: vaga
+w: vagalhão
+d: @en_a large sea wave
+hypo: onda 2
+sa: @en:noun.event:billow
+
+w: onda 2
+w: vaga 1
+d: @en_one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)
+hyper: @en_backwash
+hyper: @en_breaker
+hyper: @en_comber
+hyper: @en_crestless_wave
+hyper: @en_lift
+hyper: @en_roll 2
+hyper: @en_swash
+hyper: @en_tidal_wave
+hyper: @en_white_horse
+hyper: macaréu
+hyper: maremoto 1
+hyper: onda 1
+hyper: ondaleta
+hypo: movimento
+sa: @en:noun.event:moving_ridge
+
+w: onda_de_choque
+d: @en_a region of high pressure travelling through a gas at a high velocity
+hyper: estampido_sónico
+hypo: onda
+sa: @en:noun.event:blast_wave
+
+w: onda_estacionária
+d: @en_a wave (as a sound wave in a chamber or an electromagnetic wave in a transmission line) in which the ratio of its instantaneous amplitude at one point to that at any other point does not vary with time
+hypo: onda
+sa: @en:noun.event:standing_wave
+
+w: ondaleta
+w: ondinha
+w: onduleta
+w: rápido
+d: Uma pequena onda na superfície de um líquido
+hypo: onda 2
+sa: @en:noun.event:riffle
+
+w: paralisação
+d: @en_an interruption of normal activity
+hypo: @en_halt
+sa: @en:noun.event:stand
+
+w: parâmetro
+w: parâmetros
+d: @en_any factor that defines a system and determines (or limits) its performance
+hypo: fator
+sa: @en:noun.event:parameter
+
+w: passagem
+d: @en_the motion of one object relative to another
+hypo: movimento
+sa: @en:noun.event:passage
+
+w: pentatlo
+d: @en_an athletic contest consisting of five different events
+hypo: @en_athletic_competition
+sa: @en:noun.event:pentathlon
+
+w: perda 1
+d: @en_a sudden decline in strength or number or importance
+hyper: anticlímax
+hypo: @en_weakening
+sa: @en:noun.event:downfall
+
+w: pio
+d: @en_the short weak cry of a young bird
+hypo: @en_cry
+sa: @en:noun.event:cheep
+
+w: pio 1
+d: @en_a weak chirping sound as of a small bird
+hypo: chilro
+sa: @en:noun.event:tweet
+
+w: pior
+d: @en_the least favorable outcome
+hypo: placar
+sa: @en:noun.event:worst
+
+w: placar
+w: resultado 2
+d: @en_something that results
+hyper: @en_deal
+hyper: @en_decision
+hyper: @en_denouement
+hyper: @en_just_deserts
+hyper: @en_separation
+hyper: conseqüência
+hyper: conseqüência 1
+hyper: pior
+hyper: resultado 3
+hypo: chegada
+sa: @en:noun.event:final_result
+
+w: ponto_de_viragem
+d: @en_an event marking a unique or important historical change of course or one on which important developments depend
+hyper: @en_road_to_Damascus
+hyper: Queda_do_homem
+hypo: @en_juncture
+sa: @en:noun.event:landmark
+
+w: potencial_de_ação
+d: @en_the local voltage change across the cell wall as a nerve impulse is transmitted
+hypo: @en_impulse
+sa: @en:noun.event:action_potential
+
+w: problema 1
+d: @en_an event causing distress or pain
+hyper: @en_affliction
+hyper: @en_convulsion
+hyper: @en_embarrassment
+hyper: @en_onslaught
+hyper: acidente 4
+hyper: escândalo
+hyper: estrondo
+hyper: inferno
+hypo: acontecimento 2
+sa: @en:noun.event:trouble
+
+w: procissão
+d: @en_(theology) the origination of the Holy Spirit at Pentecost
+hypo: começo 2
+mt: noun.cognition:teologia
+sa: @en:noun.event:emanation
+
+w: produtor
+d: @en_something that produces
+hypo: causa
+sa: @en:noun.event:producer
+
+w: projeção_da_consciência
+d: @en_the dissociative experience of observing yourself from an external perspective as though your mind or soul had left and was observing your body
+hypo: experiência
+sa: @en:noun.event:out-of-body_experience
+
+w: pulo
+w: salto
+d: @en_an abrupt transition
+hyper: @en_quantum_jump
+hypo: transição 1
+sa: @en:noun.event:jump
+
+w: pulo 1
+w: salto 1
+d: um aumento súbito e decisivo
+hyper: Salto_quântico
+hypo: aumento 1
+sa: @en:noun.event:jump 1
+
+w: pulsação
+d: @en_(electronics) a sharp transient wave in the normal electrical state (or a series of such transients)
+hypo: onda
+mt: noun.cognition:Eletronica
+sa: @en:noun.event:impulse 1
+
+w: pulso
+d: @en_the rhythmic contraction and expansion of the arteries with each beat of the heart
+hyper: @en_pounding 1
+hyper: Diástole
+hyper: sístole
+hypo: @en_periodic_event
+sa: @en:noun.event:beat
+
+w: queda
+w: ruína 1
+d: @en_failure that results in a loss of position or reputation
+hyper: @en_finish
+hypo: desastre 1
+sa: @en:noun.event:downfall 1
+
+w: queda 1
+d: @en_a free and rapid descent by the force of gravity
+hyper: @en_plunge
+hyper: @en_precipitation
+hyper: Queda_Livre
+hypo: Gravitação
+hypo: descenso
+sa: @en:noun.event:drop
+
+w: radiação_de_fundo
+d: @en_radiation coming from sources other than those being observed
+hypo: @en_background
+sa: @en:noun.event:background_radiation
+
+w: raio
+w: relâmpago
+d: @en_the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash); can scintillate for a second or more
+hyper: @en_heat_lightning
+hyper: @en_sheet_lighting
+hypo: @en_flash 1
+sa: @en:noun.event:lightning
+
+w: ramificação
+d: @en_a development that complicates a situation
+hypo: @en_development
+sa: @en:noun.event:complication
+
+w: rangido
+d: @en_a squeaking sound
+hypo: ruído 4
+sa: @en:noun.event:creak
+
+w: rarefação
+d: @en_a decrease in the density of something
+hypo: concentração
+sa: @en:noun.event:rarefaction
+
+w: rave
+d: @en_a dance party that lasts all night and electronically synthesized music is played
+hypo: baile
+sa: @en:noun.event:rave
+
+w: recorrência
+w: repetição
+d: @en_happening again (especially at regular intervals)
+hyper: @en_flashback
+hyper: Atavismo
+hypo: repetição 2
+sa: @en:noun.event:recurrence
+
+w: recuperação
+d: @en_return to an original state
+hypo: melhoria
+sa: @en:noun.event:recovery
+
+w: redemoinho 1
+w: remoinho
+w: vórtice 1
+d: @en_a miniature whirlpool or whirlwind resulting when the current of a fluid doubles back on itself
+hypo: corrente
+sa: @en:noun.event:eddy
+
+w: reforço
+d: @en_becoming stronger
+hypo: mudança 3
+sa: @en:noun.event:strengthening
+
+w: refracção
+w: refração
+d: @en_the amount by which a propagating wave is bent
+hypo: @en_bend
+sa: @en:noun.event:deflection
+
+w: regresso
+w: volta
+d: @en_the occurrence of a change in direction back in the opposite direction
+hypo: @en_turn
+sa: @en:noun.event:coming_back
+
+w: regurgitação
+d: @en_backflow of blood through a defective heart valve
+hypo: fluxo_reverso
+sa: @en:noun.event:regurgitation
+
+w: relaxamento
+d: @en_an occurrence of control or strength weakening
+hyper: @en_thaw
+hypo: @en_weakening
+sa: @en:noun.event:loosening
+
+w: relincho
+d: @en_the characteristic sounds made by a horse
+hypo: @en_cry
+sa: @en:noun.event:neigh
+
+w: remissão
+w: remição
+d: @en_an abatement in intensity or degree (as in the manifestations of a disease)
+hyper: @en_resolution
+hypo: hiato
+sa: @en:noun.event:remission
+
+w: repercussão
+d: @en_a movement back from an impact
+hyper: @en_bounce
+hyper: @en_carom
+hyper: @en_resilience
+hypo: movimento
+sa: @en:noun.event:backlash
+
+w: repetição 1
+d: @en_something (especially a game) that is played again
+hypo: repetição 2
+mt: noun.act:jogo 4
+sa: @en:noun.event:rematch
+
+w: repetição 2
+d: @en_an event that repeats
+hyper: @en_sequence
+hyper: ciclo
+hyper: recorrência
+hyper: repetição 1
+hypo: @en_periodic_event
+sa: @en:noun.event:repeat
+
+w: resultado 3
+d: @en_the outcome of a game or contest
+hypo: placar
+sa: @en:noun.event:decision 1
+
+w: revolução
+d: @en_a drastic and far-reaching change in ways of thinking and behaving
+hyper: Revolução_Cultural_Chinesa
+hyper: revolução_verde
+hypo: alteração
+sa: @en:noun.event:revolution 1
+
+w: revolução_verde
+d: @en_the introduction of pesticides and high-yield grains and better management during the 1960s and 1970s which greatly increased agricultural productivity
+hypo: revolução
+sa: @en:noun.event:green_revolution
+
+w: revés
+d: @en_an unfortunate happening that hinders or impedes; something that is thwarting or frustrating
+hyper: @en_whammy
+hypo: acontecimento 2
+sa: @en:noun.event:black_eye
+
+w: ribombo
+d: @en_a deep prolonged loud noise
+hypo: ruído 4
+sa: @en:noun.event:boom 1
+
+w: rompimento
+d: @en_a personal or social separation (as between opposing factions)
+hyper: @en_schism
+hypo: dispersão
+sa: @en:noun.event:breach
+
+w: ronrom
+w: ronrono
+d: @en_a low vibrating sound typical of a contented cat
+hypo: ruído 3
+sa: @en:noun.event:purr
+
+w: rotação
+d: @en_a single complete turn (axial or orbital)
+hyper: @en_axial_motion
+hyper: @en_clockwise_rotation
+hyper: @en_counterclockwise_rotation
+hyper: @en_orbital_motion
+hyper: @en_spin
+hypo: @en_turn
+sa: @en:noun.event:gyration
+
+w: rugido
+d: @en_the sound made by a lion
+hypo: @en_cry
+sa: @en:noun.event:roar 1
+
+w: runoff
+d: @en_the occurrence of surplus liquid (as water) exceeding the limit or capacity
+hypo: fluxo 1
+sa: @en:noun.event:overflow
+
+w: rusga
+d: @en_loud confused noise from many sources
+hypo: ruído 4
+sa: @en:noun.event:brouhaha
+
+w: ruído 1
+d: @en_a loud and disturbing noise
+hypo: ruído 4
+sa: @en:noun.event:racket
+
+w: ruído 2
+d: @en_a loud harsh or strident noise
+hypo: ruído 4
+sa: @en:noun.event:blare
+
+w: ruído 3
+w: som
+d: @en_the sudden occurrence of an audible event
+hyper: @en_beat
+hyper: @en_bell
+hyper: @en_birr
+hyper: @en_bombilation
+hyper: @en_bong
+hyper: @en_chink
+hyper: @en_chirrup
+hyper: @en_chorus
+hyper: @en_click-clack
+hyper: @en_clip-clop
+hyper: @en_clump
+hyper: @en_cry
+hyper: @en_ding
+hyper: @en_drum
+hyper: @en_drumbeat
+hyper: @en_footfall
+hyper: @en_jangle
+hyper: @en_murmur
+hyper: @en_pat
+hyper: @en_patter
+hyper: @en_peal
+hyper: @en_ping
+hyper: @en_plunk
+hyper: @en_quack
+hyper: @en_sigh
+hyper: @en_skirl
+hyper: @en_song
+hyper: @en_strum
+hyper: @en_susurration
+hyper: @en_swish
+hyper: @en_throbbing 1
+hyper: @en_thrum
+hyper: @en_thunk
+hyper: @en_tick
+hyper: @en_toot
+hyper: @en_tootle
+hyper: @en_trample
+hyper: @en_twang
+hyper: @en_voice
+hyper: @en_vroom
+hyper: @en_whack
+hyper: @en_whiz
+hyper: @en_zing
+hyper: @en_zizz
+hyper: Beep
+hyper: Popping
+hyper: anilhagem
+hyper: apito
+hyper: batida 1
+hyper: batida 2
+hyper: chilro
+hyper: colcheia
+hyper: ensopado
+hyper: gargarejo
+hyper: gorgolejo
+hyper: ronrom
+hyper: ruído 4
+hyper: tapping
+hyper: tinido
+hyper: vibrato
+hypo: acontecimento 2
+sa: @en:noun.event:sound
+
+w: ruído 4
+d: @en_sound of any kind (especially unintelligible or dissonant sound)
+hyper: @en_banging
+hyper: @en_chatter
+hyper: @en_chatter 1
+hyper: @en_chug
+hyper: @en_clack
+hyper: @en_clang
+hyper: @en_clatter
+hyper: @en_crunch
+hyper: @en_ding-dong
+hyper: @en_explosion 1
+hyper: @en_grate
+hyper: @en_grinding
+hyper: @en_grumble
+hyper: @en_grunt
+hyper: @en_howl
+hyper: @en_pant
+hyper: @en_plonk
+hyper: @en_plop
+hyper: @en_plump
+hyper: @en_rale
+hyper: @en_report
+hyper: @en_rhonchus
+hyper: @en_scrape
+hyper: @en_scream
+hyper: @en_scrunch
+hyper: @en_shrilling
+hyper: @en_sizzle
+hyper: @en_snap
+hyper: @en_snore
+hyper: @en_spatter
+hyper: @en_squawk
+hyper: @en_squeak
+hyper: @en_squish
+hyper: @en_stridulation
+hyper: @en_swoosh
+hyper: baterpalmas
+hyper: borrifo
+hyper: burburinho
+hyper: creptação
+hyper: esporro
+hyper: estalo 1
+hyper: latido
+hyper: rangido
+hyper: ribombo
+hyper: rusga
+hyper: ruído 1
+hyper: ruído 2
+hyper: silvo
+hyper: trovão
+hyper: zumbido
+hypo: ruído 3
+sa: @en:noun.event:noise
+
+w: ruído_branco
+d: @en_a noise produced by a stimulus containing all of the audible frequencies of vibration
+hypo: estrondo
+sa: @en:noun.event:white_noise
+
+w: ruído_de_fundo
+d: @en_extraneous noise contaminating sound measurements that cannot be separated from the desired signal
+hyper: @en_surface_noise
+hypo: @en_background
+sa: @en:noun.event:background_noise
+
+w: sacudida
+d: @en_a sudden jarring impact
+hypo: choque
+sa: @en:noun.event:jar
+
+w: salto_com_vara
+d: @en_a competition that involves jumping over a high crossbar with the aid of a long pole
+hypo: @en_field_event
+mp: noun.act:@en_run-up
+sa: @en:noun.event:pole_jump
+
+w: seicha
+d: @en_a wave on the surface of a lake or landlocked bay; caused by atmospheric or seismic disturbances
+hypo: onda
+sa: @en:noun.event:seiche
+
+w: silvo
+d: @en_a fricative sound (especially as an expression of disapproval)
+hypo: ruído 4
+sa: @en:noun.event:fizzle 1
+
+w: subsidência 1
+d: @en_a gradual sinking to a lower level
+hypo: @en_sinking 1
+sa: @en:noun.event:settling
+
+w: substituto
+d: Um evento que é substituído por um evento cancelado anteriormente
+hypo: noun.Tops:acontecimento
+sa: @en:noun.event:make-up
+
+w: surpresa
+d: @en_a sudden unexpected event
+hyper: @en_blow
+hyper: @en_bombshell
+hyper: @en_coup_de_theatre
+hyper: @en_eye_opener
+hyper: @en_peripeteia
+hyper: @en_stunner
+hypo: alteração
+sa: @en:noun.event:surprise
+
+w: surra
+d: uma derrota completa
+hypo: derrota
+sa: @en:noun.event:debacle
+
+w: sístole
+d: @en_the contraction of the chambers of the heart (especially the ventricles) to drive blood into the aorta and pulmonary artery
+hyper: @en_extrasystole
+hypo: pulso
+sa: @en:noun.event:systole
+
+w: tapping
+d: @en_the sound of light blow or knock
+hyper: @en_rat-a-tat
+hypo: ruído 3
+sa: @en:noun.event:tapping
+
+w: tinido
+d: @en_a light clear metallic sound as of a small bell
+hypo: ruído 3
+sa: @en:noun.event:ting
+
+w: tocar
+w: toque
+d: @en_the event of something coming in contact with the body
+hyper: @en_brush
+hyper: @en_stroke 1
+hypo: toque 1
+sa: @en:noun.event:touch
+
+w: toque 1
+d: @en_the physical coming together of two or more things
+hyper: @en_engagement
+hyper: @en_flick
+hyper: colisão 1
+hyper: impacto
+hyper: tocar
+hypo: acontecimento 2
+sa: @en:noun.event:contact
+
+w: torneio 1
+d: @en_a combat between two mounted knights tilting against each other with blunted lances
+hp: torneio 2
+hypo: noun.act:batalha 5
+sa: @en:noun.event:joust
+
+w: torneio 2
+d: @en_a series of jousts between knights contesting for a prize
+hypo: certame
+mp: torneio 1
+sa: @en:noun.event:tournament 1
+
+w: torneio 3
+d: Uma competição desportiva na qual os competidores jogam uma série de jogos para decidir o vencedor
+hyper: @en_elimination_tournament
+hyper: @en_open
+hyper: @en_round_robin
+hyper: Copa_do_Mundo
+hypo: certame
+sa: @en:noun.event:tournament
+
+w: torção
+d: @en_a jerky pulling movement
+hypo: movimento
+sa: @en:noun.event:twist 2
+
+w: transiente
+d: @en_(physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load
+hypo: Vibração
+mt: noun.cognition:Fisica
+sa: @en:noun.event:transient
+
+w: transição 1
+d: @en_a change from one place or state or subject or stage to another
+hyper: @en_ground_swell
+hyper: pulo
+hypo: alteração
+sa: @en:noun.event:transition 1
+
+w: translação
+d: @en_a uniform movement without rotation
+hyper: deslocamento
+hypo: @en_change_of_location
+sa: @en:noun.event:translation
+
+w: tremor 1
+d: @en_a small earthquake
+hyper: @en_foreshock
+hyper: Réplica
+hypo: Sismos
+sa: @en:noun.event:earth_tremor
+
+w: tribulação
+d: @en_an annoying or frustrating or catastrophic event
+hyper: @en_fire
+hypo: @en_affliction
+sa: @en:noun.event:trial
+
+w: trovão
+d: @en_a booming or crashing noise caused by air expanding along the path of a bolt of lightning
+hyper: @en_thunderclap 1
+hypo: ruído 4
+sa: @en:noun.event:thunder 1
+
+w: tsunami 1
+d: @en_an overwhelming manifestation of some emotion or phenomenon
+hypo: manifestação
+sa: @en:noun.event:tidal_wave 2
+
+w: uivo
+d: @en_the long plaintive cry of a hound or a wolf
+hypo: @en_cry
+sa: @en:noun.event:howl 2
+
+w: vez
+d: @en_an instance or single occasion for some event
+hypo: caso
+sa: @en:noun.event:clip
+
+w: vibrato
+d: @en_(music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch
+hyper: Tremolo
+hypo: ruído 3
+mt: noun.communication:música
+sa: @en:noun.event:vibrato
+
+w: vicissitude
+d: @en_a variation in circumstances or fortune at different times in your life or in the development of something
+hypo: flutuação
+sa: @en:noun.event:vicissitude
+
+w: visão
+d: @en_a religious or mystical experience of a supernatural appearance
+hypo: experiência
+sa: @en:noun.event:vision
+
+w: vitória
+d: @en_an event that accomplishes its intended purpose
+hyper: @en_Godspeed
+hyper: @en_barnburner
+hyper: @en_bite
+hyper: vitória 2
+hypo: acontecimento 2
+sa: @en:noun.event:success
+
+w: vitória 1
+d: @en_a victory (as in a race or other competition)
+hyper: @en_first-place_finish
+hypo: vitória 2
+sa: @en:noun.event:win
+
+w: vitória 2
+d: @en_a successful ending of a struggle or contest
+hyper: @en_blowout 1
+hyper: @en_fall 1
+hyper: @en_landslide
+hyper: @en_last_laugh
+hyper: @en_service_break
+hyper: @en_slam
+hyper: @en_walk-in
+hyper: independência
+hyper: vitória 1
+hyper: vitória_de_Pirro
+hyper: xeque-mate
+hypo: chegada
+hypo: vitória
+sa: @en:noun.event:triumph
+
+w: vitória_de_Pirro
+w: vitória_pírrica
+d: @en_a victory that is won by incurring terrible losses
+hypo: vitória 2
+sa: @en:noun.event:Pyrrhic_victory
+
+w: xeque-mate
+d: @en_complete victory
+hypo: vitória 2
+sa: @en:noun.event:checkmate
+
+w: zumbido
+d: @en_a humming noise
+hypo: ruído 4
+sa: @en:noun.event:hum
+
+w: zurro
+d: o grito de um jumento
+hypo: @en_cry
+sa: @en:noun.event:bray
+
+w: água-morta
+d: @en_a less than average tide occurring at the first and third quarters of the moon
+hypo: maré_alta
+sa: @en:noun.event:neap
+
+w: ângelus
+d: @en_the sound of a bell rung in Roman Catholic churches to announce the time when the Angelus should be recited
+hypo: @en_bell
+sa: @en:noun.event:angelus
+

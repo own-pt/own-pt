@@ -1,0 +1,2752 @@
+verb.emotion
+
+w: @en_beatify
+d: fazer abençoadamente feliz
+fs: 10 9
+hypo: elevar
+sa: @en:verb.emotion:beatify 1
+
+w: @en_buffalo
+d: intimidar ou amedrontar
+fs: 10 9
+hypo: aterrorizar 2
+sa: @en:verb.emotion:buffalo
+
+w: @en_fly_high
+d: estar eufórico
+e: Ele estava eufórico durante os meses de verão.
+fs: 2
+hypo: experimentar
+sa: @en:verb.emotion:fly_high
+
+w: @en_lull
+d: acalmar por engano
+e: Não se deixe embalar por este falso estado de tranquilidade.
+fs: 10 9
+hypo: acalmar
+sa: @en:verb.emotion:lull 1
+
+w: @en_moon_about
+w: @en_moon_around
+w: @en_mope
+d: ser apático, sombrio, ou atordoado
+fs: 2
+hypo: verb.stative:estar 2
+sa: @en:verb.emotion:moon_about
+
+w: @en_rack
+d: esticar até os limites
+e: procurar na sua cabeça
+fs: 8
+hypo: esgotar
+sa: @en:verb.emotion:rack
+
+w: abominar
+w: detestar
+w: execrar
+w: odiar
+d: achar repugnante
+fs: 9 8
+hypo: detestar 1
+sa: @en:verb.emotion:abhor
+
+w: aborrecer
+w: agastar
+w: amolar
+w: atormentar
+w: importunar
+w: incomodar
+w: irritar
+w: molestar
+w: perturbar
+w: vexar
+d: Causar irritação, perturbar, especialmente por coisas  menores
+e: Os mosquitos zumbindo no meu ouvido me incomodam.
+fs: 9 10
+hyper: aborrecer 1
+hyper: aborrecer 3
+hyper: antagonizar
+hyper: corroer
+hyper: importunar 2
+hyper: incomodar 11
+hyper: irritar 9
+hypo: desagradar 1
+sa: @en:verb.emotion:annoy
+vg: enervar-se
+
+w: aborrecer 1
+w: assediar
+w: importunar 1
+w: incomodar 1
+w: irritar 1
+w: molestar 1
+w: provocar
+d: @en_annoy continually or chronically
+e: Esse homem assedia suas colegas de trabalho.
+fs: 10 9
+hyper: verb.communication:enfadar
+hyper: atormentar 3
+hyper: verb.social:@en_haze
+hypo: aborrecer
+sa: @en:verb.emotion:beset
+
+w: aborrecer 2
+w: cansar
+w: chatear
+w: entediar
+w: fatigar
+d: @en_cause to be bored
+fs: 9 10
+sa: @en:verb.emotion:bore
+
+w: aborrecer 3
+w: irritar 2
+d: causar irritação a
+fs: 9 10
+cause: apoquentar
+hypo: aborrecer
+sa: @en:verb.emotion:fret 1
+
+w: acabrunhar
+w: afligir
+w: angustiar
+d: @en_cause great unhappiness for; distress
+fs: 10
+hyper: atribular
+hyper: entristecer
+hyper: esgotar
+hypo: confundir 2
+sa: @en:verb.emotion:afflict
+
+w: acalentar
+w: adorar
+w: apreciar
+w: dar_valor
+w: gostar
+d: @en_be fond of; be attached to
+fs: 8 9
+hyper: gostar 2
+hypo: amar 1
+sa: @en:verb.emotion:care_for 8
+
+w: acalmar
+w: silenciar
+w: tranquilizar
+w: tranqüilizar
+d: @en_make calm or still
+fs: 9 10
+hyper: @en_lull
+hyper: acalmar 2
+hyper: compor
+hyper: reassegurar
+hypo: acalmar 1
+sa: @en:verb.emotion:calm
+
+w: acalmar 1
+w: aliviar
+w: confortar
+w: consolar
+w: reconfortar
+d: @en_give moral or emotional strength to
+fs: 10 9
+hyper: acalmar
+hyper: acalmar 3
+sa: @en:verb.emotion:comfort 1
+
+w: acalmar 2
+w: aliviar 1
+w: apaziguar
+w: aplacar
+w: pacificar
+w: serenar
+w: sossegar
+w: tranquilizar 1
+d: ganhar a boa vontade de
+fs: 10 8 9
+hypo: acalmar
+sa: @en:verb.emotion:appease
+
+w: acalmar 3
+w: aliviar 2
+w: aquietar
+w: pacificar 1
+d: diminuir a intensidade de algo ruim ou acalmar
+fs: 8 11
+hyper: aliviar 3
+hypo: acalmar 1
+sa: @en:verb.emotion:allay
+
+w: acalmar-se
+d: @en_become quiet or calm, especially after a state of agitation
+fs: 1 2
+hypo: verb.change:revoltar
+sa: @en:verb.emotion:calm 1
+
+w: acender
+d: @en_arouse or excite feelings and passions
+fs: 11 8
+hyper: agitar
+hypo: concitar
+sa: @en:verb.emotion:fire_up
+
+w: admirar
+w: estimar
+d: @en_feel admiration for
+fs: 9 8
+hyper: invejar 1
+hypo: verb.cognition:prezar
+sa: @en:verb.emotion:admire
+
+w: admirar 1
+d: olhar com grande prazer
+fs: 22
+hypo: agradar
+sa: @en:verb.emotion:feast_one's_eyes
+
+w: admitir
+d: aceitar ou admitir a contragosto
+fs: 8
+entail: ressentir
+sa: @en:verb.emotion:grudge
+
+w: adorar 1
+w: idolatrar
+d: @en_love unquestioningly and uncritically or to excess; venerate as an idol
+fs: 9 8
+hyper: babar 1
+hypo: adorar 4
+sa: @en:verb.emotion:hero-worship
+
+w: adorar 2
+w: idolatrar 1
+d: @en_show devotion to (a deity)
+fs: 8
+hypo: reverenciar 1
+mt: noun.cognition:Crença_religiosa
+sa: @en:verb.emotion:worship 1
+
+w: adorar 3
+d: @en_shower with love; show excessive affection for
+fs: 22
+hypo: amar 1
+sa: @en:verb.emotion:dote 2
+
+w: adorar 4
+w: idolatrar 2
+w: reverenciar
+d: @en_love intensely
+fs: 9 28 32 8
+hyper: verb.change:@en_fetishize
+hyper: adorar 1
+hypo: amar 1
+sa: @en:verb.emotion:adore
+
+w: afetar
+w: comover
+w: impressionar
+d: @en_have an emotional or cognitive impact upon
+fs: 10
+cause: experimentar
+hyper: verb.cognition:@en_awaken
+hyper: verb.cognition:assombrar 1
+hyper: verb.cognition:impressionar 1
+hyper: verb.cognition:infectar
+hyper: alhear
+hyper: apaixonar
+hyper: atacar
+hyper: causar_impressão
+hyper: chegar_lá
+hyper: comover 1
+hyper: conquistar
+hyper: deprimir 2
+hyper: desagradar 3
+hyper: disturbar
+hyper: emudecer
+hyper: entristecer 1
+hyper: gravar
+hyper: penetrar
+hyper: tocar 2
+sa: @en:verb.emotion:affect
+vg: verb.creation:estimular
+vg: verb.perception:atacar
+
+w: afligir 1
+w: angustiar 1
+d: causar dor mental para
+e: A notícia da doença de seu filho afligiu a mãe.
+e: A notícia da doença do filho angustiou sua mãe.
+fs: 9 10
+hyper: cercar
+hypo: disturbar
+sa: @en:verb.emotion:distress
+
+w: afligir-se
+w: magoar
+w: sofrer
+d: sentir dor
+fs: 2 22
+hyper: apiedar
+hyper: estar_de_luto
+hypo: sofrer 1
+sa: @en:verb.emotion:grieve
+
+w: agitar
+d: @en_work up into agitation or excitement
+fs: 9 10 8 11
+hypo: acender
+sa: @en:verb.emotion:ferment
+
+w: agitar 1
+w: enervar
+w: incomodar 2
+d: @en_make nervous or agitated
+fs: 9 10
+hypo: agitar 2
+sa: @en:verb.emotion:bother 3
+vg: confundir 1
+
+w: agitar 2
+w: excitar
+d: @en_cause to be agitated, excited, or roused
+fs: 10 9
+hyper: agitar 1
+hyper: electrificar
+hyper: excitar 5
+hyper: perturbar 5
+hypo: disturbar
+sa: @en:verb.emotion:agitate
+
+w: agoniar
+w: agonizar
+d: @en_suffer agony or anguish
+fs: 2 22
+hypo: sofrer 1
+sa: @en:verb.emotion:agonise
+
+w: agradar
+w: agradar-se
+w: saborear
+d: @en_derive or receive pleasure from; get enjoyment from; take pleasure in
+fs: 9 8 33
+entail: gostar 3
+hyper: admirar 1
+hyper: devorar
+sa: @en:verb.emotion:bask 13
+
+w: agradar 1
+d: @en_be the will of or have the will (to)
+fs: 1 2
+hypo: desejar 5
+sa: @en:verb.emotion:please 1
+
+w: agradar 2
+w: aprazer
+w: comprazer
+w: embevecer
+w: encantar
+w: gostar 1
+w: satisfazer
+d: @en_give pleasure to or be pleasing to
+fs: 9 10
+cause: gostar 3
+cause: gostar 4
+hyper: encantar 4
+hyper: encarecer
+hypo: agradar 3
+sa: @en:verb.emotion:delight
+vg: satisfazer 2
+
+w: agradar 3
+w: satisfazer 1
+d: @en_make happy or satisfied
+fs: 9 10
+hyper: agradar 2
+hyper: contentar
+hyper: satisfazer 2
+sa: @en:verb.emotion:gratify
+
+w: aguardar
+w: esperançar
+w: esperar
+d: ser otimista; estar cheio de esperança; ter esperanças
+fs: 26 2 22
+hypo: ansiar
+sa: @en:verb.emotion:hope
+
+w: alegrar
+w: alegrar-se
+w: regozijar
+w: regozijar-se
+d: @en_feel happiness or joy
+fs: 22 2
+hyper: verb.communication:alegrar 1
+hyper: alegrar 2
+hyper: exultar 1
+hypo: experimentar
+sa: @en:verb.emotion:joy
+
+w: alegrar 1 ant entristecer 1
+d: @en_make glad or happy
+fs: 10 9
+cause: alegrar 2
+hyper: fazer_feliz_demais
+sa: @en:verb.emotion:gladden 1
+
+w: alegrar 2
+d: @en_become glad or happy
+fs: 2
+hypo: alegrar
+sa: @en:verb.emotion:gladden
+
+w: alentar
+w: empolgar
+w: encorajar
+w: incentivar
+d: dar incentivo para
+fs: 9 10
+hyper: encorajar 2
+hypo: alentar 1
+sa: @en:verb.emotion:cheer 2
+
+w: alentar 1
+w: encorajar 1
+d: @en_inspire with confidence; give hope or courage to
+fs: 10 9
+cause: aguardar
+hyper: verb.communication:@en_hollo 1
+hyper: verb.communication:alimentar
+hyper: verb.communication:exortar 1
+hyper: alentar
+hyper: encorajar 3
+hyper: extroverter
+hyper: incentivar 1
+hypo: animar
+sa: @en:verb.emotion:encourage
+
+w: alfinetar
+d: @en_to cause a sharp emotional pain
+fs: 9 10 8 11
+hypo: concitar
+sa: @en:verb.emotion:prick
+
+w: alfinetar 1
+d: @en_cause an emotional pain, as if by stinging
+fs: 9 10
+hypo: magoar 2
+sa: @en:verb.emotion:sting
+
+w: alhear
+w: alienar
+d: fazer removido ou isolado ou emocionalmente dissociado
+fs: 10
+hypo: afetar
+sa: @en:verb.emotion:alienate 1
+
+w: alhear 1
+w: alienar 1
+w: estranhar
+d: despertar hostilidade ou indiferença onde havia anteriormente amor, carinho ou simpatia
+fs: 10 9
+hyper: desabituar
+hyper: separar
+hypo: verb.change:alterar 2
+sa: @en:verb.emotion:alien
+
+w: alimentar
+d: estimular
+fs: 10
+hypo: comover 2
+sa: @en:verb.emotion:fuel
+
+w: aliviar 3
+d: @en_discharge bad feelings or tension through verbalization
+fs: 2
+hypo: acalmar 3
+mt: noun.act:psicanálise
+sa: @en:verb.emotion:abreact
+
+w: amar
+d: @en_be enamored or in love with
+fs: 9
+hyper: ter_caso
+hypo: amar 1
+sa: @en:verb.emotion:love 1
+
+w: amar 1
+d: @en_have a great affection or liking for
+fs: 8 9
+hyper: acalentar
+hyper: adorar 3
+hyper: adorar 4
+hyper: amar
+sa: @en:verb.emotion:love
+
+w: amargar
+w: amargurar
+w: envenenar
+d: tansformar em  amargo ou ressentido
+e: As mentiras envenenaram o relacionamento deles.
+e: Estas injustiças a amarguraram ainda mais.
+fs: 10
+cause: ressentir
+sa: @en:verb.emotion:acerbate
+
+w: ambicionar
+d: @en_have as one's ambition
+fs: 28
+hypo: ansiar
+sa: @en:verb.emotion:ambition
+
+w: ameaçar
+d: intimidar alguém (com uma ameaça)
+fs: 9
+hypo: intimidar 4
+sa: @en:verb.emotion:hold_over
+
+w: amedrontar
+w: assustar
+w: atemorizar
+w: aterrorizar
+w: intimidar
+d: causar medo em
+fs: 9 10
+cause: apavorar 2
+hyper: verb.communication:@en_bluff
+hyper: amedrontar 1
+hyper: aterrorizar 1
+hyper: consternar 1
+hyper: horrorizar 1
+hyper: impressionar 2
+hyper: intimidar 4
+hypo: comover 2
+sa: @en:verb.emotion:affright
+
+w: amedrontar 1
+w: assustar 1
+d: @en_frighten or scare, and often provoke into a violent action
+fs: 10 9
+hypo: amedrontar
+sa: @en:verb.emotion:spook
+
+w: amedrontar 2
+w: apavorar
+w: assombrar
+w: obsedar
+d: @en_haunt like a ghost; pursue
+fs: 9 10
+hypo: ocupar
+sa: @en:verb.emotion:ghost
+
+w: amendrontar
+d: @en_to stimulate to action
+fs: 10 9 30
+hypo: estarrecer
+sa: @en:verb.emotion:galvanise
+
+w: amolar 1
+w: chatear 1
+w: incomodar 3
+d: incomodar persistentemente
+fs: 9
+hypo: atormentar 3
+sa: @en:verb.emotion:badger
+
+w: angustiar 2
+d: @en_suffer great pains or distress
+fs: 2
+hypo: sofrer 1
+sa: @en:verb.emotion:anguish 2
+
+w: angustiar 3
+w: doer
+w: machucar
+d: causar angústia emocional ou fazer miserável
+fs: 10
+cause: sofrer 1
+hyper: atormentar 1
+hyper: atormentar 2
+hyper: incomodar 10
+hyper: partir_o_coração
+hypo: confundir 2
+sa: @en:verb.emotion:anguish
+
+w: animar
+w: exaltar
+w: inspirar
+d: aumentar ou intensificar
+fs: 9 10
+hyper: alentar 1
+hypo: comover 2
+sa: @en:verb.emotion:animate
+
+w: animar 1
+d: tornar mais alegre
+fs: 9 10
+cause: verb.communication:animar_se
+hypo: verb.communication:aclamar 3
+sa: @en:verb.emotion:buoy_up 1
+
+w: animar 2
+w: excitar 1
+w: provocar 1
+d: @en_stimulate sexually
+fs: 9 10
+hyper: seduzir
+hypo: comover 2
+sa: @en:verb.emotion:arouse 1
+
+w: animar 3
+d: @en_arouse or elicit a feeling
+fs: 10 9
+hyper: entusiasmar 1
+hypo: concitar
+sa: @en:verb.emotion:excite 2
+
+w: animar_se
+d: tornar-se sensibilizado ou exultante
+fs: 1
+sa: @en:verb.emotion:rise
+
+w: ansiar
+w: desejar
+w: querer
+d: sentir ou ter desejo por; querer fortemente
+e: Eu quero ir para cada agora
+e: Eu quero meu próprio quarto
+e: Eu quero meu próprio quarto.
+e: Eu quero ir para casa agora
+fs: 26 28 8
+hyper: verb.consumption:desejar
+hyper: aguardar
+hyper: ambicionar
+hyper: ansiar 1
+hyper: desejar 2
+hyper: desejar 4
+hyper: desejar 5
+hyper: desejar 6
+hyper: desejar 7
+hyper: invejar
+hyper: querer 6
+hyper: querer 7
+hyper: querer 8
+hyper: sentir_falta
+hyper: verb.possession:perseguir
+sa: @en:verb.emotion:desire
+
+w: ansiar 1
+w: desejar 1
+w: suspirar
+d: desejar fortemente ou persistentemente
+fs: 22
+hyper: ansiar_por
+hypo: ansiar
+sa: @en:verb.emotion:hanker
+
+w: ansiar_por
+w: desejar_fortemente
+d: @en_have a desire for something or someone who is not present
+fs: 22
+hyper: morrer 1
+hypo: ansiar 1
+sa: @en:verb.emotion:ache 6
+
+w: antagonizar
+w: inimizar
+d: @en_provoke the hostility of
+fs: 10 9
+hypo: aborrecer
+sa: @en:verb.emotion:antagonise
+
+w: antipatizar
+w: desgostar
+w: não_gostar
+d: @en_have or feel a dislike or distaste for
+fs: 32 8 9
+entail: verb.cognition:desaprovar
+hyper: detestar 1
+hyper: ressentir
+sa: @en:verb.emotion:dislike
+
+w: apagar_se
+d: @en_make inconspicuous
+fs: 9
+hypo: fazer_humilde
+sa: @en:verb.emotion:efface
+
+w: apaixonar
+d: afetar de repente com profundo sentimento
+fs: 9 10
+hypo: afetar
+sa: @en:verb.emotion:smite
+
+w: apaixonar 1
+w: infatuar
+d: despertar o amor irracional ou paixão e causar a se comportar de uma forma irracional
+fs: 10 9
+hypo: concitar
+sa: @en:verb.emotion:infatuate
+
+w: apaixonar-se
+d: @en_fall in love with; become infatuated with
+fs: 9 8
+hypo: verb.change:alterar 1
+sa: @en:verb.emotion:fall_for
+
+w: apavorar 1
+d: @en_cause sudden fear in or fill with sudden panic
+fs: 9 10
+cause: apavorar 3
+hypo: aterrorizar 1
+sa: @en:verb.emotion:panic 1
+
+w: apavorar 2
+w: recear
+w: temer
+w: ter_medo_de
+d: @en_be afraid or scared of; be frightened of
+fs: 9 28 8
+hyper: apavorar 3
+sa: @en:verb.emotion:dread
+
+w: apavorar 3
+w: apavorar-se
+w: temer 1
+d: @en_be overcome by a sudden fear
+fs: 22 2
+hyper: descontrolar_se
+hypo: apavorar 2
+sa: @en:verb.emotion:panic
+
+w: apegar
+w: grudar
+d: permanecer emocionalmente ou intelectualmente ligado
+fs: 11
+sa: @en:verb.emotion:cling
+
+w: apiedar
+w: apiedar-se
+w: compadecer
+w: compadecer-se
+w: lastimar
+d: @en_share the suffering of
+fs: 9
+hyper: comiserar
+hyper: preocupar-se 1
+hypo: afligir-se
+sa: @en:verb.emotion:compassionate
+
+w: apoquentar
+d: ficar agitado ou irritado
+fs: 2 22
+hyper: titubear
+hypo: preocupar-se 2
+sa: @en:verb.emotion:fret
+
+w: apreciar 1
+d: @en_recognize with gratitude; be grateful for
+fs: 8
+hypo: verb.communication:agradecer
+sa: @en:verb.emotion:appreciate
+
+w: aproveitar
+w: cultuar
+w: desfrutar
+w: encantar 1
+w: gostar_muito
+w: gozar
+d: @en_get pleasure from
+fs: 28 8
+hyper: verb.perception:@en_get_off
+hypo: gostar 3
+sa: @en:verb.emotion:enjoy 1
+
+w: arder
+d: @en_feel strong emotion, especially anger or passion
+fs: 2
+hypo: experimentar
+sa: @en:verb.emotion:burn
+
+w: arrepender
+w: arrepender-se
+w: lamentar
+w: sentir
+d: @en_feel remorse for; feel sorry for; be contrite about
+fs: 8
+hypo: experimentar
+sa: @en:verb.emotion:regret
+
+w: assustar 2
+w: desalentar
+w: intimidar 1
+d: @en_cause to lose courage
+fs: 10
+hypo: intimidar 3
+sa: @en:verb.emotion:dash
+
+w: atacar
+d: pegar de repente e com força
+e: Este show ataca os espectadores com algumas cenas chocantes.
+fs: 9 10
+hypo: afetar
+sa: @en:verb.emotion:zap
+
+w: atemorizar 1
+w: intimidar 2
+d: expulsar por medo
+fs: 10 9
+hypo: verb.motion:afastar
+sa: @en:verb.emotion:frighten 1
+
+w: aterrorizar 1
+w: horripilar
+w: terrificar
+d: @en_fill with terror; frighten greatly
+fs: 9 10
+hyper: apavorar 1
+hypo: amedrontar
+sa: @en:verb.emotion:terrify
+
+w: aterrorizar 2
+d: @en_subdue, restrain, or overcome by affecting with a feeling of awe; frighten (as with threats)
+fs: 10 9
+hyper: @en_buffalo
+hypo: impressionar 2
+sa: @en:verb.emotion:cow
+
+w: atormentar 1
+w: supliciar
+w: torturar
+d: @en_cause to agonize
+fs: 10
+cause: agoniar
+hypo: angustiar 3
+sa: @en:verb.emotion:agonise 1
+
+w: atormentar 2
+w: excruciar
+w: torturar 1
+d: tormentar emocional ou mentalmente
+fs: 9 10
+hypo: angustiar 3
+sa: @en:verb.emotion:excruciate
+
+w: atormentar 3
+w: crucificar
+w: incomodar 4
+w: retalhar
+w: tormentar
+d: tratar cruelmente
+fs: 9 10
+hyper: amolar 1
+hyper: enfurecer 6
+hyper: ficar_de_mãos_atadas
+hyper: verb.social:acossar
+hypo: aborrecer 1
+sa: @en:verb.emotion:bedevil
+
+w: atrair
+d: @en_be attractive to
+fs: 10 4 9
+hyper: atrair 2
+hyper: cativar
+sa: @en:verb.emotion:appeal
+
+w: atrair 1
+w: conduzir
+w: trazer
+d: @en_attract the attention of
+fs: 10
+hypo: verb.contact:atrair
+sa: @en:verb.emotion:bring 5
+vg: verb.communication:fazer
+
+w: atrair 2
+d: @en_appear inviting
+fs: 1
+hypo: atrair
+sa: @en:verb.emotion:beckon
+
+w: atrair 3
+d: @en_elicit responses, such as objections, criticism, applause, etc.
+fs: 8
+hypo: concitar
+sa: @en:verb.emotion:draw 1
+vg: verb.possession:@en_draw
+
+w: atribular
+d: causar dificuldades
+fs: 10
+hypo: acabrunhar
+sa: @en:verb.emotion:tribulate
+
+w: aviltar
+w: degradar
+w: rebaixar
+d: reduzir o valor ou o caráter, geralmente verbalmente
+fs: 10 9
+hyper: desumanizar
+hyper: rebaixar 2
+hypo: aviltar 1
+sa: @en:verb.emotion:degrade
+
+w: aviltar 1
+w: humilhar
+w: mortificar
+w: rebaixar 1
+d: ferir o orgulho de alguém
+e: Ele humilhou seu colega, criticando-o na frente do seu gerente.
+fs: 10 9
+hyper: aviltar
+hyper: esmagar
+hypo: magoar 2
+sa: @en:verb.emotion:abase
+
+w: babar
+w: salivar
+d: @en_be envious, desirous, eager for, or extremely happy about something
+fs: 22
+hypo: cobiçar
+sa: @en:verb.emotion:drool
+
+w: babar 1
+d: invejar sem culpa
+fs: 8 9
+hypo: adorar 1
+sa: @en:verb.emotion:drool_over
+
+w: babar 2
+w: transbordar
+d: @en_overflow with a certain feeling
+e: As crianças transbordavam de alegria.
+e: Meu chefe estava babando de ódio.
+fs: 2
+hypo: estar_enraivecido
+sa: @en:verb.emotion:bubble_over
+
+w: babar_de_raiva
+w: espumar_de_raiva
+d: Estar em um estado de raiva descontrolada
+fs: 2
+hypo: enraivecer 3
+sa: @en:verb.emotion:foam_at_the_mouth
+
+w: bajular
+d: ganhar  favores de alguém por esforços deliberados
+fs: 20 9
+hyper: bajular 1
+hypo: controlar
+sa: @en:verb.emotion:ingratiate
+
+w: bajular 1
+w: puxar_o_saco
+d: congraçar-se a; muitas vezes com o comportamento hipócrita
+fs: 22
+hypo: bajular
+sa: @en:verb.emotion:cotton_up 9
+
+w: bestificar
+w: chocar
+d: @en_strike with horror or terror
+fs: 9 10
+hypo: horrorizar 1
+sa: @en:verb.emotion:shock
+
+w: brilhar
+d: @en_be exuberant or high-spirited
+fs: 1 2
+hypo: experimentar
+sa: @en:verb.emotion:glow 1
+
+w: brilhar 1
+w: radiar
+d: @en_experience a feeling of well-being or happiness, as from good health or an intense emotion
+fs: 2
+hypo: experimentar
+sa: @en:verb.emotion:beam 1
+
+w: brochar
+w: desanimar
+d: causar a perda de coragem
+e: uma experiência brochante
+fs: 10 9
+hypo: descontrolar
+sa: @en:verb.emotion:unman
+
+w: cativar
+w: deleitar
+w: deliciar
+w: encantar 2
+w: fascinar
+d: atrair; impressionar para enamorar-se
+e: Ela cativou todos os corações masculinos.
+fs: 10 9
+hyper: verb.cognition:manter 2
+hyper: manipular 1
+hypo: atrair
+sa: @en:verb.emotion:becharm
+
+w: causar_impressão
+w: impressionar 1
+d: @en_impress positively
+fs: 10 9
+hyper: impressionar 3
+hyper: impressionar_bem
+hypo: afetar
+sa: @en:verb.emotion:impress
+
+w: causar_perturbação
+w: perturbar 1
+w: transtornar
+d: @en_disturb in mind or make uneasy or cause to be worried or alarmed
+fs: 10 9
+hyper: inquietar
+hypo: disturbar
+sa: @en:verb.emotion:cark
+
+w: cercar
+w: cercear
+d: causar a sentir-se angustiado ou preocupado
+e: Ela estava cercada por tantos problemas que se sentia totalmente desanimada.
+fs: 10
+hypo: afligir 1
+sa: @en:verb.emotion:besiege
+
+w: chegar_lá
+d: @en_refer to or be relevant or familiar to
+fs: 1
+hypo: afetar
+sa: @en:verb.emotion:hit_home
+
+w: chiar
+w: ferver_de_raiva
+d: ferver de raiva ou ressentimento profundo
+e: Ela estava chiando de raiva.
+fs: 1
+hypo: estar_enraivecido
+sa: @en:verb.emotion:sizzle
+
+w: chocar 1
+w: escandalizar
+w: horrorizar
+w: ofender
+w: ultrajar
+d: causar nojo ou repulsa
+fs: 9 10
+hypo: indignar
+sa: @en:verb.emotion:appal
+
+w: chocar 2
+d: @en_disturb (someone's) composure
+fs: 10 9
+hypo: disturbar
+sa: @en:verb.emotion:jolt
+
+w: cobiçar
+w: serávidopor
+d: @en_wish, long, or crave for (something, especially the property of another person)
+fs: 8
+hyper: babar
+hypo: invejar
+sa: @en:verb.emotion:covet
+
+w: combustir
+w: enfurecer
+d: causar a tornar-se violento
+e: Tumultos combustiram o Paquistão  depois dos ataques aéreos americanos no Afeganistão.
+fs: 11 9 10
+cause: perder_a_cabeça
+hypo: encolerizar
+sa: @en:verb.emotion:combust 1
+
+w: comer
+w: consumir
+d: preocupar ou causar ansiedade de uma forma persistente
+e: O que está te consumindo?
+fs: 10
+hypo: inquietar
+sa: @en:verb.emotion:eat
+
+w: comiserar
+w: compadecer-se 1
+d: sentir ou expressar simpatia ou compaixão
+fs: 22 2
+hyper: prestar_condolências
+hypo: apiedar
+sa: @en:verb.emotion:commiserate
+
+w: comover 1
+d: @en_arouse sympathy or compassion in
+fs: 9 10
+hypo: afetar
+sa: @en:verb.emotion:move 1
+vg: verb.creation:estimular
+
+w: comover 2
+d: @en_stir the feelings, emotions, or peace of
+fs: 8 11 9 10
+hyper: alimentar
+hyper: amedrontar
+hyper: animar
+hyper: animar 2
+hyper: convidar
+hyper: eletrizar
+hyper: elevar
+hyper: excitar 4
+hypo: concitar
+sa: @en:verb.emotion:excite
+
+w: compor
+w: recompor
+d: acalmar (alguém, especialmente a si mesmo); fazer-se tranquilo
+fs: 10 9
+hypo: acalmar
+sa: @en:verb.emotion:compose
+
+w: concitar
+w: elicitar
+w: estimular
+w: incitar
+w: provocar 2
+d: @en_call forth (emotions, feelings, and responses)
+fs: 8
+hyper: acender
+hyper: alfinetar
+hyper: animar 3
+hyper: apaixonar 1
+hyper: atrair 3
+hyper: comover 2
+hyper: confundir 2
+hyper: encolerizar
+hyper: envergonhar 1
+hyper: interessar
+hyper: magoar 2
+hyper: pedir
+hyper: reacender
+hyper: superar
+hyper: tocar 1
+hypo: verb.creation:causar 1
+sa: @en:verb.emotion:arouse
+
+w: confundir
+d: @en_be flustered; behave in a confused manner
+fs: 2
+hypo: verb.social:comportar-se 1
+sa: @en:verb.emotion:fluster 1
+
+w: confundir 1
+w: incomodar 5
+d: @en_make confused or perplexed or puzzled
+fs: 9 10
+hypo: confundir 3
+sa: @en:verb.emotion:bother 2
+vg: agitar 1
+
+w: confundir 2
+w: desconcertar
+w: perturbar 2
+d: @en_cause to lose one's composure
+fs: 9 10
+hyper: acabrunhar
+hyper: angustiar 3
+hyper: constrangir
+hyper: descombobular
+hyper: descontrolar
+hyper: desintegrar
+hypo: concitar
+sa: @en:verb.emotion:discomfit
+
+w: confundir 3
+w: disconcertar
+d: @en_cause to feel embarrassment
+fs: 9 10
+hyper: confundir 1
+hyper: desviar_a_atenção
+hyper: irritar 8
+hypo: constrangir
+sa: @en:verb.emotion:confuse
+vg: verb.cognition:confundir 5
+
+w: congratular
+w: orgulhar
+d: @en_be proud of
+fs: 20
+hypo: experimentar
+sa: @en:verb.emotion:congratulate
+
+w: conquistar
+d: sobrecarregar emocionalmente
+e: Ele a conquistou completamente.
+fs: 9 10
+hypo: afetar
+sa: @en:verb.emotion:sweep_away
+
+w: conquistar 1
+d: ganhar a admiração
+fs: 9 10
+hypo: superar
+sa: @en:verb.emotion:knock_out
+
+w: considerar
+w: sustentar
+d: @en_maintain (a theory, thoughts, or feelings)
+fs: 8
+hypo: experimentar
+sa: @en:verb.emotion:entertain
+
+w: consternar
+w: dejectar
+w: dejetar
+w: deprimir
+w: desanimar 1
+w: desencorajar
+w: desmoralizar
+d: @en_lower someone's spirits; make downhearted
+fs: 9 10
+hyper: deprimir 1
+hypo: desanimar 2
+sa: @en:verb.emotion:cast_down
+
+w: consternar 1
+d: encher de ansiedade, medo, desânimo, ou confusão
+fs: 9 10
+hypo: amedrontar
+sa: @en:verb.emotion:consternate
+
+w: constrangir
+w: descompor
+w: embaraçar
+w: envergonhar
+w: inferiorizar
+d: @en_cause to be embarrassed; cause to feel self-conscious
+fs: 9 10
+hyper: confundir 3
+hypo: confundir 2
+sa: @en:verb.emotion:abash
+
+w: contentar
+d: @en_make content
+fs: 9 10
+hypo: agradar 3
+sa: @en:verb.emotion:content
+
+w: controlar
+w: manipular
+d: @en_control (others or oneself) or influence skillfully, usually to one's advantage
+fs: 9 8
+hyper: bajular
+hyper: exibir
+hyper: instigar
+hypo: verb.social:interagir
+sa: @en:verb.emotion:control 6
+
+w: convidar
+w: tentar
+d: @en_give rise to a desire by being attractive or inviting
+fs: 10
+hypo: comover 2
+sa: @en:verb.emotion:invite
+
+w: corroer
+w: magoar 1
+d: @en_gnaw into; make resentful or angry
+fs: 10
+hypo: aborrecer
+sa: @en:verb.emotion:eat_into
+
+w: criar_caso
+d: @en_worry unnecessarily or excessively
+fs: 2 22
+hyper: importar_se
+hyper: incomodar 12
+hypo: preocupar-se 2
+sa: @en:verb.emotion:fret 3
+
+w: crucificar 1
+w: mortificar 1
+w: subjugar
+d: @en_hold within limits and control
+fs: 8 9
+entail: verb.consumption:abster
+hyper: mortificar 2
+hypo: verb.social:controlar 1
+sa: @en:verb.emotion:crucify 3
+
+w: cuidar
+w: preocupar-se
+d: @en_be concerned with
+fs: 22
+hyper: verb.cognition:preocupar-se
+hypo: verb.cognition:importar_(se)_
+sa: @en:verb.emotion:care 12
+
+w: decepcionar
+w: desapontar
+w: desiludir
+d: @en_fail to meet the hopes or expectations of
+fs: 9 10
+hyper: desapontar 1
+hyper: desencantar 1
+hyper: falhar
+hypo: verb.social:contrariar
+sa: @en:verb.emotion:disappoint
+
+w: deprimir 1
+w: desestimular
+d: @en_depress or discourage
+fs: 10 9 11
+hypo: consternar
+sa: @en:verb.emotion:chill
+
+w: deprimir 2
+d: @en_make gloomy or depressed
+fs: 10
+hypo: afetar
+sa: @en:verb.emotion:cloud
+
+w: desabituar
+d: @en_detach the affections of
+fs: 9
+hypo: alhear 1
+sa: @en:verb.emotion:wean
+
+w: desagradar
+w: descontentar
+d: colocar de  mau humor
+e: Os funcionários estavam dissatisfeitos pelas más condições de trabalho deles.
+fs: 9 10
+hypo: desagradar 2
+sa: @en:verb.emotion:disgruntle
+
+w: desagradar 1
+w: desgostar 1
+d: @en_give displeasure to
+fs: 10 9
+cause: antipatizar
+hyper: aborrecer
+hyper: desagradar 2
+hyper: rechaçar
+sa: @en:verb.emotion:displease
+
+w: desagradar 2
+d: @en_fail to satisfy
+fs: 10 9
+entail: decepcionar
+hyper: desagradar
+hyper: descontentar 1
+hypo: desagradar 1
+sa: @en:verb.emotion:dissatisfy
+
+w: desagradar 3
+w: incomodar 6
+d: @en_affect in a disagreeable way
+fs: 9 10
+hypo: afetar
+sa: @en:verb.emotion:jar
+
+w: desanimar 2
+w: desencorajar 1
+w: dissuadir
+d: @en_deprive of courage or hope; take away hope from; cause to feel discouraged
+fs: 9 10
+hyper: consternar
+hyper: desencorajar 2
+hyper: desencorajar 3
+hyper: intimidar 3
+sa: @en:verb.emotion:discourage
+
+w: desapontar 1
+d: deixar de cumprir as expectativas (ou padrões)
+fs: 2 4 1 22
+hypo: decepcionar
+sa: @en:verb.emotion:come_short 12
+
+w: desaprovar
+d: olhar com desagrado para algo
+e: A República logo se  livrou de seus poucos amigos.
+fs: 9 10
+hypo: envergonhar 1
+sa: @en:verb.emotion:discountenance
+
+w: desarmar
+d: fazer menos hostil; conquistar
+e: O charme dela desarmou o advogado de acusação completamente.
+fs: 10 9
+hypo: verb.communication:convencer
+sa: @en:verb.emotion:disarm
+
+w: desarranjar
+d: @en_derange mentally, throw out of mental balance; make insane
+fs: 10
+hypo: enlouquecer
+sa: @en:verb.emotion:derange 1
+
+w: descombobular
+w: desconcertar 1
+w: desnortear
+d: @en_cause to be confused emotionally
+fs: 9 10
+hypo: confundir 2
+sa: @en:verb.emotion:bemuse
+
+w: descontentar 1
+d: @en_make dissatisfied
+fs: 9 10
+hypo: desagradar 2
+sa: @en:verb.emotion:discontent
+
+w: descontrolar
+w: enervar 1
+w: perturbar 3
+d: perturbar a serenidade de
+fs: 11 10
+hyper: brochar
+hypo: confundir 2
+sa: @en:verb.emotion:enervate
+
+w: descontrolar_se
+d: @en_lose one's nerve
+fs: 2
+hypo: apavorar 3
+sa: @en:verb.emotion:freak
+
+w: desdenhar
+w: menosprezar
+d: @en_regard with contempt
+fs: 9 8
+hypo: desdenhar 1
+sa: @en:verb.emotion:look_down_on
+
+w: desdenhar 1
+w: desprezar
+w: menosprezar 1
+d: @en_look down on with disdain
+fs: 8 9
+hyper: desdenhar
+hypo: detestar 1
+sa: @en:verb.emotion:contemn
+
+w: desejar 2
+w: esperar 1
+w: querer 1
+w: ter_vontade
+d: @en_have an inclination for something or some activity
+fs: 8 33
+hypo: ansiar
+sa: @en:verb.emotion:feel_like
+
+w: desejar 3
+w: esperançar 1
+w: esperar 2
+w: pretender
+w: querer 2
+d: @en_expect and wish
+fs: 26
+hypo: desejar 4
+sa: @en:verb.emotion:desire 2
+
+w: desejar 4
+w: querer 3
+d: esperar por; ter um desejo
+fs: 28 8
+hyper: desejar 3
+hypo: ansiar
+sa: @en:verb.emotion:wish
+
+w: desejar 5
+w: esperar 3
+w: querer 4
+d: @en_prefer or wish to do something
+fs: 28
+hyper: agradar 1
+hypo: ansiar
+sa: @en:verb.emotion:care
+
+w: desejar 6
+w: querer 5
+d: @en_feel or express a desire or hope concerning the future or fortune of
+fs: 14
+hypo: ansiar
+sa: @en:verb.emotion:wish 1
+
+w: desejar 7
+d: @en_have a strong sexual desire for
+fs: 9
+hypo: ansiar
+sa: @en:verb.emotion:lech_after
+
+w: desejar 8
+d: @en_express a desire for
+fs: 8
+hypo: verb.communication:pedir 6
+sa: @en:verb.emotion:desire 1
+
+w: desencantar
+d: sentir se menos enamorado de algo ou alguém
+fs: 2
+hypo: experimentar
+sa: @en:verb.emotion:cool_off 1
+
+w: desencantar 1
+w: desiludir 1
+d: @en_free from enchantment
+fs: 9 10
+hypo: decepcionar
+sa: @en:verb.emotion:disenchant
+
+w: desencorajar 2
+d: ser desanimador ou negativo sobre
+fs: 8 9
+hypo: desanimar 2
+sa: @en:verb.emotion:pour_cold_water_on
+
+w: desencorajar 3
+w: desentusiasmar
+w: esmorecer
+w: tirar_o_entusiasmo
+d: @en_take away the enthusiasm of
+fs: 9 10
+hypo: desanimar 2
+sa: @en:verb.emotion:dishearten
+
+w: desencorajar-se
+w: desesperar-se
+d: @en_lose confidence or hope; become dejected
+fs: 2
+hypo: desesperar
+sa: @en:verb.emotion:despond
+
+w: desesperar
+d: @en_abandon hope; give up hope; lose heart
+fs: 2 22
+hyper: desencorajar-se
+sa: @en:verb.emotion:despair
+
+w: desesperar 1
+w: desmoronar
+d: perder o controle das suas emoções
+fs: 2
+hyper: despedaçar_se
+hyper: dissolver
+hyper: morrer 2
+hypo: verb.body:agir
+sa: @en:verb.emotion:break_down
+
+w: desintegrar
+w: desmoronar 1
+d: causar a perder o controle emocional
+fs: 10
+hypo: confundir 2
+sa: @en:verb.emotion:dissolve 4
+vg: dissolver
+
+w: desinteressar
+w: desinteressar_se
+w: retirar_se
+d: perder o interesse
+fs: 22 2
+hyper: verb.social:@en_back_down
+hypo: verb.body:fatigar
+sa: @en:verb.emotion:retire
+vg: verb.social:retirar-se
+
+w: despedaçar_se
+d: @en_lose one's emotional or mental composure
+e: Ela desmoronou quando seu único filho morreu.
+fs: 2
+hypo: desesperar 1
+sa: @en:verb.emotion:fall_apart
+
+w: desumanizar ant humanizar
+d: @en_deprive of human qualities
+fs: 10
+hypo: aviltar
+sa: @en:verb.emotion:dehumanise
+
+w: desviar_a_atenção
+w: distrair
+d: @en_draw someone's attention away from something
+fs: 9 10
+hypo: confundir 3
+sa: @en:verb.emotion:deflect 6
+
+w: detestar 1
+w: odiar 1
+d: @en_dislike intensely; feel antipathy or aversion towards
+fs: 8 9
+hyper: abominar
+hyper: desdenhar 1
+hypo: antipatizar
+sa: @en:verb.emotion:detest
+
+w: devorar
+d: @en_enjoy avidly
+fs: 8
+hypo: agradar
+sa: @en:verb.emotion:devour
+
+w: dilacerar
+w: lacerar
+d: @en_deeply hurt the feelings of; distress
+fs: 9 10
+hypo: magoar 2
+sa: @en:verb.emotion:lacerate
+
+w: dissolver
+d: perder o controle emocional
+fs: 22
+hypo: desesperar 1
+sa: @en:verb.emotion:dissolve
+vg: desintegrar
+
+w: disturbar
+w: perturbar 4
+d: @en_move deeply
+fs: 10
+hyper: afligir 1
+hyper: agitar 2
+hyper: causar_perturbação
+hyper: chocar 2
+hypo: afetar
+sa: @en:verb.emotion:disturb
+
+w: dominar
+w: tiranizar
+d: governar ou exercer poder sobre (alguém) de uma forma cruel e autocrática
+fs: 9
+hypo: maltratar
+sa: @en:verb.emotion:domineer
+
+w: electrificar
+w: eletrificar
+d: excitar de repente e intensamente
+e: A notícia nos electrificou.
+fs: 9 10
+hypo: agitar 2
+sa: @en:verb.emotion:electrify
+
+w: eletrizar
+w: emocionar
+w: excitar 2
+w: fazer_cócegas
+w: vibrar
+d: sentir intensa e súbita sensação ou emoção;  "ele ficou excitado com a velocidade e o ronco do motor"
+fs: 10
+hypo: comover 2
+sa: @en:verb.emotion:thrill 2
+
+w: elevar
+w: intoxicar
+d: @en_fill with high spirits; fill with optimism
+fs: 9 10
+cause: alegrar
+hyper: @en_beatify
+hyper: enebriar
+hyper: inchar
+hypo: comover 2
+sa: @en:verb.emotion:elate
+
+w: emocionar 1
+d: @en_give expression or emotion to, in a stage or movie role
+fs: 8
+hypo: verb.creation:atuar 1
+sa: @en:verb.emotion:emote
+
+w: emudecer
+d: tornar sem palavras,  por ser surpreendente ou chocante
+fs: 10
+hypo: afetar
+sa: @en:verb.emotion:strike_dumb
+
+w: encantar 3
+w: fascinar 1
+d: @en_to render motionless, as with a fixed stare or by arousing terror or awe
+fs: 9 10
+hypo: interessar
+sa: @en:verb.emotion:fascinate
+
+w: encantar 4
+d: @en_hold spellbound
+fs: 9 10
+hypo: agradar 2
+sa: @en:verb.emotion:delight 2
+
+w: encarecer
+d: tornar atraente ou amável
+fs: 20
+hypo: agradar 2
+sa: @en:verb.emotion:endear
+
+w: encher_o_saco
+w: incomodar 7
+d: preocupar-se persistentemente
+e: preocupações e dúvidas incomodantes
+fs: 10
+hypo: inquietar
+sa: @en:verb.emotion:nag
+
+w: encolerizar
+w: enraivecer
+w: irar
+w: zangar
+d: fazer ficar com raiva
+fs: 9 10
+cause: enraivecer 2
+hyper: combustir
+hyper: encolerizar 1
+hyper: enfurecer 3
+hyper: enfurecer 5
+hyper: exacerbar
+hyper: importunar 3
+hyper: injuriar
+hyper: irritar 10
+hypo: concitar
+sa: @en:verb.emotion:anger
+
+w: encolerizar 1
+w: enfurecer 1
+w: exasperar
+w: irar 1
+w: irritar 3
+d: @en_make furious
+fs: 10 9
+hypo: encolerizar
+sa: @en:verb.emotion:exasperate 1
+
+w: encorajar 2
+w: encorajar-se
+d: @en_gain courage
+fs: 22 2
+hypo: alentar
+sa: @en:verb.emotion:buck_up
+
+w: encorajar 3
+d: @en_give heart or courage to
+fs: 9 10
+hypo: alentar 1
+sa: @en:verb.emotion:goad
+
+w: enebriar
+w: exaltar 1
+w: excitar 3
+w: exultar
+d: encher de emoção sublime
+e: As crianças estavam excitadas com a perspectiva de ir ao cinema.
+e: Ele estava enebriado com seu sucesso fenomenal.
+fs: 9 10
+hypo: elevar
+sa: @en:verb.emotion:beatify 3
+
+w: enervar-se
+w: irritar-se
+d: @en_feel extreme irritation or anger
+fs: 2
+hypo: experimentar
+sa: @en:verb.emotion:chafe 1
+vg: aborrecer
+
+w: enfurecer 2
+w: irritar 4
+d: @en_be mad, angry, or furious
+fs: 22 2
+hypo: experimentar
+sa: @en:verb.emotion:fume
+
+w: enfurecer 3
+w: enraivecer 1
+d: @en_make mad
+fs: 10 9
+hypo: encolerizar
+sa: @en:verb.emotion:madden
+
+w: enfurecer 4
+d: ficar muito irritado
+fs: 2
+hypo: enraivecer 2
+sa: @en:verb.emotion:steam
+
+w: enfurecer 5
+d: @en_put into a rage; make violently angry
+fs: 9 10
+cause: enraivecer 3
+hypo: encolerizar
+sa: @en:verb.emotion:enrage
+
+w: enfurecer 6
+d: @en_drive up the wall; go on someone's nerves
+fs: 10 9
+hypo: atormentar 3
+sa: @en:verb.emotion:madden 1
+
+w: enlouquecer
+d: @en_cause to go crazy; cause to lose one's mind
+fs: 10
+hyper: desarranjar
+sa: @en:verb.emotion:craze
+
+w: enlutar
+w: lamentar 1
+d: observar os costumes de luto após a morte de um ente querido
+fs: 2
+hypo: verb.social:celebrar 1
+sa: @en:verb.emotion:mourn 1
+
+w: enojar
+d: causar a sentir aversão ou desgosto intenso
+fs: 9 10
+hypo: rechaçar
+sa: @en:verb.emotion:put_off 4
+
+w: enraivecer 2
+w: irritar 5
+w: zangar_se
+d: @en_become angry
+fs: 2
+hyper: enfurecer 4
+hyper: ofender_se
+hyper: ter_um_ataque 1
+hypo: experimentar
+sa: @en:verb.emotion:anger 1
+
+w: enraivecer 3
+w: zangar 1
+d: @en_feel intense anger
+fs: 22 2
+hyper: babar_de_raiva
+hyper: perder_a_cabeça
+sa: @en:verb.emotion:rage
+
+w: entristecer
+d: @en_cause to feel sorrow
+fs: 10
+cause: afligir-se
+hypo: acabrunhar
+sa: @en:verb.emotion:aggrieve
+
+w: entristecer 1 ant alegrar 1
+d: fazer infeliz
+fs: 9 10
+cause: entristecer 2
+hyper: pesar
+hypo: afetar
+sa: @en:verb.emotion:sadden 1
+
+w: entristecer 2
+d: vir a se sentir triste
+fs: 2 22
+hypo: experimentar
+sa: @en:verb.emotion:sadden
+
+w: entusiasmar
+w: levar_a_casa_abaixo
+d: causar muito entusiasmo
+e: A música dela levou a casa abaixo.
+fs: 10 9
+hypo: entusiasmar 1
+sa: @en:verb.emotion:bring_down
+
+w: entusiasmar 1
+d: @en_cause to feel enthusiasm
+fs: 9 10
+hyper: entusiasmar
+hypo: animar 3
+sa: @en:verb.emotion:enthuse
+
+w: entusiasmar_se
+d: @en_become excited about
+fs: 8
+hypo: verb.cognition:considerar 5
+sa: @en:verb.emotion:warm_to
+
+w: envergonhar 1
+d: @en_cause to be ashamed
+fs: 10 9
+hyper: desaprovar
+hypo: concitar
+sa: @en:verb.emotion:shame
+
+w: esgotar
+w: estressar
+d: @en_test the limits of
+fs: 8 11
+hyper: @en_rack
+hypo: acabrunhar
+sa: @en:verb.emotion:strain
+
+w: esmagar
+d: @en_humiliate or depress completely
+fs: 9 10
+hypo: aviltar 1
+sa: @en:verb.emotion:crush
+
+w: esperar 4
+d: @en_be excited or anxious about
+fs: 8
+hyper: temer 4
+hypo: verb.cognition:aguardar
+sa: @en:verb.emotion:anticipate
+
+w: estar_de_luto
+w: lamentar 2
+w: prantear
+d: @en_feel sadness
+fs: 2 22
+hypo: afligir-se
+sa: @en:verb.emotion:mourn
+
+w: estar_enraivecido
+w: estar_furioso
+d: estar em um estado emocional agitado
+fs: 2 22
+hyper: babar 2
+hyper: chiar
+hyper: fermentar
+hypo: verb.stative:estar 2
+sa: @en:verb.emotion:boil
+
+w: estarrecer
+w: pasmar
+w: surpreender
+d: @en_surprise greatly; knock someone's socks off
+fs: 10 9
+hyper: amendrontar
+hypo: verb.cognition:assombrar 1
+sa: @en:verb.emotion:ball_over
+
+w: estultificar
+d: @en_prove to be of unsound mind or demonstrate someone's incompetence
+fs: 9
+hypo: verb.cognition:demonstrar
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.emotion:stultify
+
+w: exacerbar
+w: exasperar 1
+d: @en_exasperate or irritate
+fs: 10 9
+hypo: encolerizar
+sa: @en:verb.emotion:aggravate
+
+w: excitar 4
+w: titilar
+d: excitar prazerosamente ou eroticamente
+e: Uma história excitante apareceu na revista geralmente conservadora.
+fs: 10 9
+entail: agradar 2
+hypo: comover 2
+sa: @en:verb.emotion:titillate
+
+w: excitar 5
+d: ficar animado ou estimulado
+fs: 10 9
+hypo: agitar 2
+sa: @en:verb.emotion:hype_up
+
+w: exibir
+w: treinar
+d: @en_show and train
+fs: 8
+hypo: controlar
+sa: @en:verb.emotion:handle 5
+
+w: experimentar
+w: sentir 1
+d: @en_undergo an emotional sensation or be in a particular state of mind
+fs: 8
+hyper: @en_fly_high
+hyper: alegrar
+hyper: arder
+hyper: arrepender
+hyper: brilhar
+hyper: brilhar 1
+hyper: congratular
+hyper: considerar
+hyper: desencantar
+hyper: enervar-se
+hyper: enfurecer 2
+hyper: enraivecer 2
+hyper: entristecer 2
+hyper: inclinar
+hyper: morrer
+hyper: orgulhar-se
+hyper: recalcar
+hyper: recapturar
+hyper: simpatizar
+hyper: sofrer 1
+sa: @en:verb.emotion:experience
+
+w: explodir
+d: @en_force out or release suddenly and often violently something pent up
+fs: 22
+hypo: expressar_sentimentos
+sa: @en:verb.emotion:break
+
+w: expressar_sentimentos
+d: dar expressão verbal ou outra para os sentimentos
+fs: 2
+hyper: verb.body:choramingar
+hyper: verb.body:gargalhar
+hyper: explodir
+hyper: queixar-se
+sa: @en:verb.emotion:express_emotion
+
+w: extroverter
+d: tornar mais sociável
+fs: 10 9
+hypo: alentar 1
+sa: @en:verb.emotion:draw_out
+
+w: exultar 1
+d: sentir extrema felicidade ou euforia
+fs: 2
+hyper: regojizar
+hypo: alegrar
+sa: @en:verb.emotion:be_on_cloud_nine
+
+w: falhar
+w: trair
+d: @en_disappoint, prove undependable to; abandon, forsake
+fs: 10 9
+hypo: decepcionar
+sa: @en:verb.emotion:betray
+
+w: fazer_feliz_demais
+d: causar a sentir-se extremamente alegre ou feliz
+e: O crescimento econômico  deixou radiante a indústria alemã.
+fs: 10 9
+hypo: alegrar 1
+sa: @en:verb.emotion:overjoy
+
+w: fazer_humilde
+d: causar a ser despretencioso
+e: Esta experiência o fará mais humilde.
+fs: 9 10
+hyper: apagar_se
+hypo: verb.change:alterar 2
+sa: @en:verb.emotion:humble 1
+
+w: fermentar
+w: fervilhar
+d: estar em um estado agitado ou animado
+e: A mente dela estava fervilhando.
+e: O Oriente Médio está fermentando.
+fs: 1 2
+hypo: estar_enraivecido
+sa: @en:verb.emotion:ferment 1
+
+w: ficar_amuado
+w: ficar_emburrado
+d: estar em um acesso de raiva; ficar em silêncio ou mal-humorado
+fs: 22 2
+hypo: verb.stative:amuar
+sa: @en:verb.emotion:brood
+
+w: ficar_de_mãos_atadas
+w: manietar
+d: tornar ineficaz ou impotente
+fs: 8 11
+hypo: atormentar 3
+sa: @en:verb.emotion:hamstring
+
+w: gostar 2
+d: ter afeição por; sentir ternura por
+fs: 9
+hypo: acalentar
+sa: @en:verb.emotion:yearn 10
+
+w: gostar 3
+d: @en_find enjoyable or agreeable
+fs: 28 8 33
+entail: verb.cognition:aprovar 1
+hyper: aproveitar
+hyper: gostar 5
+hyper: ligar 1
+hyper: preferir
+sa: @en:verb.emotion:like 5
+
+w: gostar 4
+d: @en_be fond of
+fs: 8 9
+sa: @en:verb.emotion:like 4
+
+w: gostar 5
+d: @en_have a liking, fondness, or taste (for)
+fs: 33 8
+hypo: gostar 3
+sa: @en:verb.emotion:care_for 1
+
+w: gravar
+d: @en_impress or affect deeply
+fs: 4
+hypo: afetar
+sa: @en:verb.emotion:engrave
+
+w: gritar
+d: @en_silence or overwhelm by shouting
+fs: 9
+hypo: verb.change:silenciar
+sa: @en:verb.emotion:shout_down
+
+w: horrorizar 1
+d: @en_fill with apprehension or alarm; cause to be unpleasantly surprised
+fs: 10 9
+hyper: bestificar
+hypo: amedrontar
+sa: @en:verb.emotion:alarm
+
+w: humanizar ant desumanizar
+d: @en_make more humane
+fs: 10
+hypo: verb.change:alterar 2
+sa: @en:verb.emotion:humanise
+
+w: importar_se
+d: ter escrúpulos
+e: Ele mentiu e nem teve escrúpulos.
+fs: 8 22
+hypo: criar_caso
+sa: @en:verb.emotion:scruple
+
+w: importunar 2
+w: incomodar 8
+w: irritar 6
+d: @en_cause to be annoyed, irritated, or resentful
+fs: 10 9
+hypo: aborrecer
+sa: @en:verb.emotion:peeve
+
+w: importunar 3
+w: incomodar 9
+d: @en_irritate or vex
+fs: 10 9
+hypo: encolerizar
+sa: @en:verb.emotion:gall
+
+w: impressionar 2
+d: inspirar respeito
+fs: 9
+hyper: aterrorizar 2
+hypo: amedrontar
+sa: @en:verb.emotion:awe
+
+w: impressionar 3
+d: @en_impress greatly
+fs: 9 10
+hypo: causar_impressão
+sa: @en:verb.emotion:wow
+
+w: impressionar_bem
+d: fazer uma impressão positiva (sobre alguém) com antecedência
+fs: 9 8
+hypo: causar_impressão
+sa: @en:verb.emotion:prepossess 1
+
+w: incentivar 1
+d: incentivar a ser menos reservado
+fs: 8 11 9 10
+hypo: alentar 1
+sa: @en:verb.emotion:bring_out
+
+w: inchar
+d: @en_make proud or conceited
+fs: 11 10
+hypo: elevar
+sa: @en:verb.emotion:puff
+
+w: inclinar
+d: @en_feel favorably disposed or willing
+fs: 22
+hypo: experimentar
+sa: @en:verb.emotion:incline
+
+w: incomodar 10
+d: @en_give pain or trouble to
+e: Eu fui seriamente incomodado por esses alunos.
+fs: 10 9
+hypo: angustiar 3
+sa: @en:verb.emotion:try 1
+
+w: incomodar 11
+d: criar problemas para  ou envergonhar
+fs: 11 8
+hypo: aborrecer
+sa: @en:verb.emotion:ruffle
+
+w: incomodar 12
+d: @en_make a fuss; be agitated
+fs: 22 2
+hypo: criar_caso
+sa: @en:verb.emotion:dither
+
+w: incomodar 13
+d: @en_discompose
+fs: 8 11 9 10
+hypo: irritar 8
+sa: @en:verb.emotion:ruffle 1
+
+w: indignar
+w: nausear
+w: repugnar
+w: repulsar
+w: revoltar
+d: causar aversão; ofender o senso moral de
+fs: 9 10
+hyper: chocar 1
+hypo: rechaçar
+sa: @en:verb.emotion:churn_up
+
+w: injuriar
+w: insultar
+w: irritar 7
+w: ofender 1
+d: @en_cause to feel resentment or indignation
+fs: 10 9
+cause: ressentir
+hypo: encolerizar
+sa: @en:verb.emotion:offend 1
+
+w: inquietar
+w: preocupar
+d: @en_disturb the peace of mind of; afflict with mental agitation or distress
+fs: 9 10
+cause: preocupar-se 2
+hyper: verb.cognition:@en_misgive
+hyper: comer
+hyper: encher_o_saco
+hypo: causar_perturbação
+sa: @en:verb.emotion:vex 2
+vg: preocupar-se 2
+
+w: instigar
+w: provocar 3
+d: @en_to arouse hope, desire, or curiosity without satisfying them
+fs: 9
+entail: animar 2
+entail: decepcionar
+hypo: controlar
+sa: @en:verb.emotion:tease 1
+
+w: interessar
+d: @en_excite the curiosity of; engage the interest of
+fs: 10 9
+hyper: verb.cognition:ocupar
+hyper: encantar 3
+hypo: concitar
+sa: @en:verb.emotion:interest
+
+w: intimidar 3
+d: @en_to compel or deter by or as if by threats
+fs: 10 9
+entail: verb.communication:advertir 6
+hyper: assustar 2
+hypo: desanimar 2
+sa: @en:verb.emotion:intimidate 1
+
+w: intimidar 4
+d: @en_make timid or fearful
+fs: 9
+hyper: ameaçar
+hyper: maltratar
+hypo: amedrontar
+sa: @en:verb.emotion:intimidate
+
+w: inundar
+d: surpreender ou sobrecarregar, por choque
+fs: 10
+hypo: superar
+sa: @en:verb.emotion:stagger
+
+w: invejar
+w: ter_medo_de_gastar
+d: @en_be envious of; set one's heart on
+fs: 14
+hyper: cobiçar
+hypo: ansiar
+sa: @en:verb.emotion:begrudge 1
+
+w: invejar 1
+d: @en_feel envious towards; admire enviously
+fs: 9
+hypo: admirar
+sa: @en:verb.emotion:envy 1
+
+w: irritar 8
+d: @en_cause to be nervous or upset
+fs: 9 10
+cause: confundir
+hyper: incomodar 13
+hypo: confundir 3
+sa: @en:verb.emotion:fluster
+
+w: irritar 9
+d: @en_irritate
+fs: 9 12 10
+hypo: aborrecer
+sa: @en:verb.emotion:get 12
+vg: pegar
+
+w: irritar 10
+d: causar a ficar irritado
+fs: 10 9
+hypo: encolerizar
+sa: @en:verb.emotion:miff
+
+w: lamentar 3
+d: @en_feel sad about the loss or absence of
+fs: 9 8
+hypo: sentir_falta
+sa: @en:verb.emotion:regret 1
+
+w: ligar
+d: mostrar nenhuma preocupação ou interesse; sempre usado no negativo
+fs: 22 2
+sa: @en:verb.emotion:care_a_hang
+
+w: ligar 1
+d: começar a gostar
+fs: 22
+hypo: gostar 3
+sa: @en:verb.emotion:cotton
+
+w: magoar 2
+w: ofender 2
+w: provocar 4
+d: @en_hurt the feelings of
+fs: 9 10
+hyper: verb.communication:descompor 1
+hyper: alfinetar 1
+hyper: aviltar 1
+hyper: dilacerar
+hypo: concitar
+sa: @en:verb.emotion:bruise
+
+w: maltratar
+d: @en_be bossy towards
+fs: 9
+hyper: dominar
+hypo: intimidar 4
+sa: @en:verb.emotion:ballyrag
+
+w: manipular 1
+d: @en_gratify and charm, usually in order to influence
+fs: 10 9
+hypo: cativar
+sa: @en:verb.emotion:work 10
+vg: verb.perception:@en_work
+
+w: matar
+d: @en_overwhelm with hilarity, pleasure, or admiration
+fs: 9 10
+hypo: superar
+sa: @en:verb.emotion:kill
+
+w: morrer
+d: @en_feel indifferent towards
+fs: 22
+hypo: experimentar
+sa: @en:verb.emotion:die 3
+
+w: morrer 1
+w: morrer_de_vontade
+d: querer muito algo
+e: Ela estava morrendo por um cigarro.
+e: Eu estava morrendo de vontade de  sair dali.
+fs: 22 28
+hypo: ansiar_por
+sa: @en:verb.emotion:die 1
+
+w: morrer 2
+d: @en_be brought to or as if to the point of death by an intense emotion such as embarrassment, amusement, or shame
+fs: 22 33
+hypo: desesperar 1
+sa: @en:verb.emotion:die
+
+w: mortificar 2
+d: praticar abnegação do corpo e de apetites
+fs: 2
+hypo: crucificar 1
+hypo: verb.social:@en_check 1
+sa: @en:verb.emotion:mortify 4
+
+w: obcecar
+w: obsediar
+d: estar preocupado com alguma coisa
+fs: 22
+hypo: preocupar-se 2
+sa: @en:verb.emotion:obsess 3
+
+w: obscurecer
+d: surpreender com escuridão ou  noite
+fs: 10
+hypo: superar
+sa: @en:verb.emotion:benight
+
+w: ocupar
+w: preocupar 1
+d: envolver ou absorver o interesse ou atenção de antemão ou ocupar urgentemente ou obsessivamente
+fs: 10
+hyper: amedrontar 2
+hyper: preocupar 2
+hypo: verb.social:governar 3
+sa: @en:verb.emotion:preoccupy
+
+w: ofender_se
+d: enraivecer ou ofender
+fs: 2
+hypo: enraivecer 2
+sa: @en:verb.emotion:bridle
+
+w: orgulhar-se
+d: @en_feel proud of
+fs: 22
+hypo: experimentar
+sa: @en:verb.emotion:pride_oneself 9
+
+w: partir_o_coração
+d: @en_cause deep emotional pain and grief to somebody
+fs: 9 10
+hypo: angustiar 3
+sa: @en:verb.emotion:break_someone's_heart
+
+w: pedir
+d: aumentar a probabilidade de
+e: pedindo briga
+fs: 8
+hypo: concitar
+sa: @en:verb.emotion:ask_for
+
+w: pegar
+w: tocar
+d: evocar uma resposta emocional
+e: O Requiem de Brahms me pega toda vez.
+fs: 10 9
+hypo: tocar 2
+sa: @en:verb.emotion:get 11
+vg: irritar 9
+
+w: penetrar
+d: @en_move or affect (a person's emotions or bodily feelings) deeply or sharply
+fs: 9 10
+hypo: afetar
+sa: @en:verb.emotion:pierce
+
+w: penitenciar
+d: @en_turn away from sin or do penitence
+fs: 2
+sa: @en:verb.emotion:atone
+
+w: perder
+d: sofrer a perda de uma pessoa através da morte ou remoção
+fs: 9 10
+hypo: sofrer 1
+sa: @en:verb.emotion:lose
+
+w: perder_a_cabeça
+w: ter_um_ataque
+d: @en_get very angry and fly into a rage
+fs: 22 2
+hypo: enraivecer 3
+sa: @en:verb.emotion:blow_a_fuse
+
+w: perguntar-se
+d: @en_be uncertain about; think about without fully understanding or being able to decide
+fs: 22
+hypo: verb.cognition:contemplar 3
+sa: @en:verb.emotion:puzzle 3
+
+w: perturbar 5
+d: fazer chateado ou incomodado
+fs: 10 9
+hypo: agitar 2
+sa: @en:verb.emotion:pother 1
+
+w: pesar
+d: ser opressivo ou desanimador
+fs: 10
+hypo: entristecer 1
+sa: @en:verb.emotion:weigh_down
+
+w: pirar
+d: sofrer um colapso nervoso
+fs: 2
+hypo: verb.body:contrair 1
+sa: @en:verb.emotion:break_up 4
+
+w: preferir
+d: @en_like better; value more highly
+fs: 15 8 27 9 33
+hypo: gostar 3
+sa: @en:verb.emotion:prefer
+
+w: preocupar 2
+d: causar estar preocupado
+fs: 10
+hypo: ocupar
+sa: @en:verb.emotion:prepossess
+
+w: preocupar-se 1
+d: @en_feel concern or interest
+fs: 2 22
+hypo: apiedar
+sa: @en:verb.emotion:care 2
+
+w: preocupar-se 2
+d: @en_be worried, concerned, anxious, troubled, or uneasy
+fs: 22 2 26
+hyper: apoquentar
+hyper: criar_caso
+hyper: obcecar
+hyper: temer 5
+sa: @en:verb.emotion:worry
+vg: inquietar
+
+w: preparar_se
+d: preparar (a si mesmo) para algo desagradável ou difícil
+fs: 9
+hyper: respirar_fundo
+hypo: verb.change:aprontar
+sa: @en:verb.emotion:brace
+
+w: prestar_condolências
+d: expressar sua tristeza, por ocasião da morte de alguém
+fs: 2 22
+hypo: comiserar
+sa: @en:verb.emotion:condole
+
+w: queixar-se
+d: @en_express grief verbally
+fs: 8
+entail: afligir-se
+hypo: expressar_sentimentos
+sa: @en:verb.emotion:keen
+
+w: querer 6
+d: @en_want to have
+fs: 8
+hypo: ansiar
+sa: @en:verb.emotion:like 6
+
+w: querer 7
+d: @en_have a strong desire or urge to do something
+fs: 28
+hypo: ansiar
+sa: @en:verb.emotion:itch
+
+w: querer 8
+d: @en_have a fancy or particular liking or desire for
+fs: 9 8
+entail: gostar 3
+hypo: ansiar
+sa: @en:verb.emotion:fancy
+
+w: reacender
+d: @en_arouse again
+fs: 8 11
+hypo: concitar
+sa: @en:verb.emotion:rekindle
+
+w: reassegurar
+w: tranquilizar 2
+w: tranqüilizar 1
+d: @en_cause to feel sure; give reassurance to
+fs: 9 10
+hypo: acalmar
+sa: @en:verb.emotion:assure
+
+w: rebaixar 2
+w: reduzir
+d: @en_lower in grade or rank or force somebody into an undignified situation
+fs: 21
+hypo: aviltar
+sa: @en:verb.emotion:reduce
+
+w: recalcar
+d: ter fortes sentimentos reprimidos
+fs: 2
+hypo: experimentar
+sa: @en:verb.emotion:smolder
+
+w: recapturar
+d: experimentar de novo
+fs: 8
+hypo: experimentar
+sa: @en:verb.emotion:recapture
+
+w: rechaçar
+w: repelir
+d: @en_be repellent to; cause aversion in
+fs: 10 9
+hyper: enojar
+hyper: indignar
+hypo: desagradar 1
+sa: @en:verb.emotion:repel
+
+w: regojizar
+w: triunfar
+d: @en_be ecstatic with joy
+fs: 21
+hypo: exultar 1
+sa: @en:verb.emotion:rejoice 2
+
+w: respirar_fundo
+d: preparar-se para algo difícil ou desagradável
+fs: 9
+hypo: preparar_se
+sa: @en:verb.emotion:nerve
+
+w: ressentir
+d: @en_feel bitter or indignant about
+fs: 9 8
+hyper: ressentir 2
+hypo: antipatizar
+sa: @en:verb.emotion:resent
+
+w: ressentir 1
+d: @en_wish ill or allow unwillingly
+fs: 26
+sa: @en:verb.emotion:begrudge
+
+w: ressentir 2
+d: guardar rancor; abrigar maus sentimentos
+fs: 2 22
+hypo: ressentir
+sa: @en:verb.emotion:grudge 1
+
+w: reverenciar 1
+w: temer 2
+w: venerar
+d: olhar com sentimentos de respeito e reverência;
+fs: 8 9
+hyper: adorar 2
+hyper: santificar
+hypo: verb.cognition:prezar
+sa: @en:verb.emotion:fear 1
+
+w: santificar
+d: considerar sagrado
+fs: 8
+hypo: reverenciar 1
+sa: @en:verb.emotion:enshrine
+
+w: satisfazer 2
+d: @en_give satisfaction
+fs: 9 10
+hypo: agradar 3
+sa: @en:verb.emotion:please 3
+vg: agradar 2
+
+w: seduzir
+w: tentar 1
+d: @en_try to seduce
+fs: 9
+hypo: animar 2
+sa: @en:verb.emotion:tempt 1
+
+w: sentir 2
+d: @en_be sorry; used to introduce an unpleasant statement
+fs: 26
+hypo: verb.communication:lamentar 3
+sa: @en:verb.emotion:fear 2
+
+w: sentir_falta
+w: sentir_saudade
+d: sentir ou sofrer com a falta de
+e: Ele sente falta da mãe
+fs: 8 9
+entail: arrepender
+hyper: lamentar 3
+hypo: ansiar
+sa: @en:verb.emotion:miss
+
+w: separar
+d: perder o contato pessoal ao longo do tempo
+fs: 2
+hypo: alhear 1
+sa: @en:verb.emotion:drift_apart
+
+w: simpatizar
+d: @en_share the feelings of; understand the sentiments of
+fs: 2 22
+hypo: experimentar
+sa: @en:verb.emotion:sympathise 1
+
+w: sofrer 1
+d: @en_experience (emotional) pain
+fs: 22 2
+hyper: afligir-se
+hyper: agoniar
+hyper: angustiar 2
+hyper: perder
+hypo: experimentar
+sa: @en:verb.emotion:suffer
+vg: verb.cognition:aguentar 1
+
+w: superar
+d: superar, como acontece com as emoções ou estímulos perceptivos
+fs: 10
+hyper: verb.change:@en_devastate
+hyper: verb.cognition:acometer
+hyper: conquistar 1
+hyper: inundar
+hyper: matar
+hyper: obscurecer
+hyper: trancar
+hypo: concitar
+sa: @en:verb.emotion:overcome
+
+w: temer 3
+d: @en_be uneasy or apprehensive about
+fs: 8
+sa: @en:verb.emotion:fear 13
+
+w: temer 4
+d: antecipar com medo ou ansiedade
+fs: 8
+entail: apavorar 2
+hypo: esperar 4
+sa: @en:verb.emotion:apprehend
+
+w: temer 5
+w: ter_medo
+d: ter medo ou sentir-se ansioso ou apreensivo sobre uma possível ou provável situação ou evento
+fs: 26 22
+hypo: preocupar-se 2
+sa: @en:verb.emotion:fear 3
+
+w: ter_caso
+d: ter um caso de amor com
+fs: 9 8
+hypo: amar
+sa: @en:verb.emotion:romance
+
+w: ter_um_ataque 1
+d: ficar muito irritado
+fs: 2
+hypo: enraivecer 2
+sa: @en:verb.emotion:raise_the_roof
+
+w: titubear
+d: agir nervosamente; estar indeciso; ser incerto
+fs: 22 2
+hypo: apoquentar
+sa: @en:verb.emotion:dither 1
+
+w: tocar 1
+d: evocar uma reação, resposta, ou emoção
+fs: 1 2
+hypo: concitar
+sa: @en:verb.emotion:strike_a_chord 1
+
+w: tocar 2
+d: @en_affect emotionally
+fs: 10 9
+hyper: pegar
+hypo: afetar
+sa: @en:verb.emotion:stir
+
+w: trancar
+w: travar
+d: @en_hold fast (in a certain state)
+fs: 10
+hypo: superar
+sa: @en:verb.emotion:lock
+

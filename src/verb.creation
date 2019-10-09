@@ -1,0 +1,5657 @@
+verb.creation
+
+w: @en_adopt
+w: @en_dramatise
+w: @en_dramatize
+d: @en_put into dramatic form
+fs: 8
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:adopt
+
+w: @en_alliterate
+d: @en_use alliteration as a form of poetry
+fs: 2
+hypo: rimar
+mt: noun.communication:Poemas
+sa: @en:verb.creation:alliterate
+
+w: @en_animalise
+w: @en_animalize
+d: @en_represent in the form of an animal
+fs: 9 8
+hypo: figurar 1
+sa: @en:verb.creation:animalise
+
+w: @en_anthologise
+w: @en_anthologize
+d: @en_compile an anthology
+fs: 8
+hypo: compilar 1
+sa: @en:verb.creation:anthologise
+
+w: @en_appear
+d: @en_appear as a character on stage or appear in a play, etc.
+fs: 22
+hypo: desempenhar 1
+mt: noun.communication:Dramaturgia
+sa: @en:verb.creation:appear
+
+w: @en_applique
+d: @en_sew on as a decoration
+fs: 8
+entail: confeccionar
+hypo: adornar 1
+sa: @en:verb.creation:applique
+
+w: @en_aquatint
+d: @en_etch in aquatint
+fs: 8 2
+hypo: @en_etch
+mt: noun.act:arte
+sa: @en:verb.creation:aquatint
+
+w: @en_arouse
+w: @en_bring_up
+w: @en_call_down
+w: @en_call_forth
+w: @en_conjure
+w: @en_conjure_up
+w: @en_evoke
+w: @en_invoke
+w: @en_put_forward
+w: @en_raise
+w: @en_stir
+d: @en_summon into action or bring into existence, often as if by magic
+fs: 11 8
+hyper: verb.communication:abençoar
+hyper: verb.communication:amaldiçoar 1
+hypo: causar 1
+sa: @en:verb.creation:arouse
+vg: causar 3
+
+w: @en_arrange
+w: @en_set
+d: @en_adapt for performance in a different way
+fs: 8
+hyper: @en_prearrange
+hyper: @en_transpose
+hyper: pôr
+hyper: tabular
+hypo: compor 2
+mt: noun.communication:música
+sa: @en:verb.creation:arrange
+
+w: @en_arrange 1
+w: @en_format
+d: @en_set (printed matter) into a specific format
+fs: 8
+hyper: @en_rubricate 1
+hyper: indentar
+hypo: verb.change:alterar 1
+sa: @en:verb.creation:arrange 2
+
+w: @en_audition
+w: @en_try_out
+d: @en_perform in order to get a role
+fs: 2
+hyper: @en_read
+hypo: apresentar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:audition
+
+w: @en_back_up
+d: @en_make a copy of (a computer file) especially for storage in another place as a security copy
+fs: 8
+hypo: copiar 2
+mt: noun.artifact:calculadora 1
+sa: @en:verb.creation:back_up
+
+w: @en_bang_out
+d: @en_play loudly
+fs: 8
+hypo: executar 4
+mt: noun.act:música
+sa: @en:verb.creation:bang_out
+
+w: @en_bard
+w: @en_barde
+w: @en_caparison
+w: @en_dress_up
+d: @en_put a caparison on
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:bard
+
+w: @en_beat
+d: @en_shape by beating
+fs: 8
+hyper: martelar
+hypo: formar
+sa: @en:verb.creation:beat
+
+w: @en_bedizen
+d: @en_decorate tastelessly
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:bedizen
+
+w: @en_begild
+w: @en_engild
+w: @en_gild
+d: @en_decorate with, or as if with, gold leaf or liquid gold
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:begild
+
+w: @en_bejewel
+w: @en_jewel
+d: @en_adorn or decorate with precious stones
+fs: 9 10 8
+hypo: adornar 1
+sa: @en:verb.creation:bejewel
+
+w: @en_belly_dance
+d: @en_perform a belly dance
+fs: 2
+hypo: dançar
+mt: noun.act:baile
+sa: @en:verb.creation:belly_dance
+
+w: @en_belt
+w: @en_belt_out
+d: @en_sing loudly and forcefully
+fs: 8
+hypo: cantar 1
+sa: @en:verb.creation:belt
+
+w: @en_benday
+d: @en_reproduce by the Benday process
+fs: 8
+hypo: entalhar
+sa: @en:verb.creation:benday
+
+w: @en_bespangle
+w: @en_spangle
+d: @en_decorate with spangles
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:bespangle
+
+w: @en_blast
+d: @en_make with or as if with an explosion
+fs: 8
+hypo: @en_cut 1
+sa: @en:verb.creation:blast 2
+
+w: @en_blaze_away
+d: @en_perform (an acting passage) brilliantly and rapidly
+fs: 2
+hypo: desempenhar 1
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:blaze_away
+
+w: @en_blueprint
+w: @en_draft
+w: @en_draught
+d: @en_make a blueprint of
+fs: 8
+hypo: desenhar 2
+sa: @en:verb.creation:blueprint
+
+w: @en_bodypaint
+d: @en_apply paint to a body
+fs: 9
+hypo: pincelar
+sa: @en:verb.creation:bodypaint
+
+w: @en_boldface
+d: @en_print in boldface
+fs: 8
+hypo: imprimir 1
+sa: @en:verb.creation:boldface
+
+w: @en_bootleg
+d: @en_produce or distribute illegally
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:bootleg
+
+w: @en_bow
+d: @en_play on a string instrument with a bow
+fs: 2
+hypo: tocar 4
+mt: noun.act:música
+sa: @en:verb.creation:bow
+
+w: @en_brew
+d: @en_prepare by brewing
+fs: 8 1
+entail: verb.change:azedar
+hypo: confeccionar 1
+sa: @en:verb.creation:brew
+
+w: @en_bring_on
+w: @en_induce
+d: @en_cause to arise
+fs: 11 8
+hypo: engendrar
+sa: @en:verb.creation:bring_on
+
+w: @en_bring_on 1
+d: @en_cause to appear
+fs: 8 11
+sa: @en:verb.creation:bring_on 1
+
+w: @en_brocade
+d: @en_weave a design into (textiles)
+fs: 8
+hypo: tecer 2
+mt: noun.act:artesanato
+sa: @en:verb.creation:brocade
+
+w: @en_bugle
+d: @en_play on a bugle
+fs: 8
+hypo: executar 4
+mt: noun.act:música
+sa: @en:verb.creation:bugle
+
+w: @en_build
+d: @en_be engaged in building
+fs: 2
+hypo: criar 7
+mt: noun.cognition:arquitectura
+sa: @en:verb.creation:build 10
+vg: construir 5
+
+w: @en_burn
+w: @en_cut
+d: @en_create by duplicating data
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:burn 5
+vg: @en_cut 3
+
+w: @en_busk
+d: @en_play music in a public place and solicit money for it
+fs: 2
+hypo: tocar 4
+sa: @en:verb.creation:busk
+
+w: @en_calligraph
+d: @en_write beautifully and ornamentally
+fs: 2
+hypo: escrever 3
+sa: @en:verb.creation:calligraph
+
+w: @en_cantilever
+d: @en_construct with girders and beams such that only one end is fixed
+fs: 8
+hypo: construir 5
+mt: noun.act:Arquitectura
+sa: @en:verb.creation:cantilever
+
+w: @en_capitalise
+w: @en_capitalize
+d: @en_write in capital letters
+fs: 8
+hypo: escrever 3
+sa: @en:verb.creation:capitalise
+
+w: @en_carnalize
+w: @en_sensualize
+d: @en_represent materialistically, as in a painting or a sculpture
+fs: 8 9
+hypo: figurar 1
+sa: @en:verb.creation:carnalize
+
+w: @en_carol
+d: @en_sing carols
+fs: 8
+hypo: cantar
+mt: noun.act:música
+sa: @en:verb.creation:carol
+
+w: @en_carry
+d: @en_bear (a crop)
+fs: 11
+hypo: fazer 16
+mt: noun.act:agricultura 3
+sa: @en:verb.creation:carry 8
+vg: verb.consumption:manejar
+
+w: @en_carry 1
+w: @en_run
+d: @en_include as the content; broadcast or publicize
+fs: 8 11
+hypo: verb.communication:alastrar
+sa: @en:verb.creation:carry
+
+w: @en_cartoon
+d: @en_draw cartoons of
+fs: 8
+hypo: desenhar 3
+mt: noun.act:arte
+sa: @en:verb.creation:cartoon
+
+w: @en_carve_out
+d: @en_establish or create through painstaking effort
+fs: 8
+hypo: criar 6
+sa: @en:verb.creation:carve_out
+
+w: @en_cast
+w: @en_mold
+w: @en_mould
+d: @en_form by pouring (e.g., wax or hot metal) into a cast or mold
+fs: 8
+hyper: @en_press 1
+hyper: @en_recast
+hyper: @en_sand_cast
+hypo: formar
+sa: @en:verb.creation:cast
+
+w: @en_cast 1
+w: @en_contrive
+w: @en_project
+w: @en_throw
+d: @en_put or send forth
+fs: 11 8
+hyper: verb.motion:@en_shoot 2
+hypo: verb.motion:enviar 3
+sa: @en:verb.creation:cast 2
+
+w: @en_cast_off
+d: @en_make the last row of stitches when knitting
+fs: 8
+hypo: verb.contact:bordar
+mt: noun.act:artesanato
+sa: @en:verb.creation:cast_off
+
+w: @en_cast_on
+d: @en_make the first row of stitches when knitting
+fs: 8
+hypo: verb.contact:bordar
+mt: noun.act:artesanato
+sa: @en:verb.creation:cast_on
+
+w: @en_catch
+w: @en_get
+d: @en_apprehend and reproduce accurately
+fs: 8 11
+hypo: @en_reproduce
+sa: @en:verb.creation:catch 12
+vg: verb.cognition:comprender 2
+
+w: @en_chalk
+d: @en_write, draw, or trace with chalk
+fs: 8
+entail: verb.contact:delinear
+hypo: desenhar 3
+sa: @en:verb.creation:chalk
+
+w: @en_channelise
+w: @en_channelize
+d: @en_make a channel for; provide with a channel
+fs: 8
+hypo: construir 5
+sa: @en:verb.creation:channelise
+
+w: @en_charcoal
+d: @en_draw, trace, or represent with charcoal
+fs: 8 9
+entail: verb.contact:delinear
+hypo: desenhar 3
+mt: noun.act:arte
+sa: @en:verb.creation:charcoal
+
+w: @en_charge
+d: @en_place a heraldic bearing on
+fs: 8
+hypo: pincelar
+mt: noun.act:arte
+sa: @en:verb.creation:charge
+
+w: @en_check
+w: @en_checker
+w: @en_chequer
+d: @en_mark into squares or draw squares on; draw crossed lines on
+fs: 8
+hypo: desenhar 3
+sa: @en:verb.creation:check
+
+w: @en_choir
+w: @en_chorus
+d: @en_sing in a choir
+fs: 2
+hypo: cantar 1
+mt: noun.act:música
+sa: @en:verb.creation:choir
+
+w: @en_chop
+d: @en_form or shape by chopping
+fs: 8
+hypo: causar 1
+sa: @en:verb.creation:chop
+
+w: @en_chord
+d: @en_play chords on (a string instrument)
+fs: 8
+hypo: tocar 3
+mt: noun.communication:música
+sa: @en:verb.creation:chord
+
+w: @en_churn_out
+d: @en_perform in a mechanical way
+fs: 8
+hypo: desempenhar 1
+mt: noun.act:música
+sa: @en:verb.creation:churn_out 1
+
+w: @en_churn_out 1
+d: @en_produce something at a fast rate
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:churn_out
+
+w: @en_cinematise
+w: @en_cinematize
+d: @en_make a film of or adopt so as to make into a film
+fs: 8
+hypo: filmar
+sa: @en:verb.creation:cinematise
+
+w: @en_clap_together
+w: @en_clap_up
+w: @en_slap_together
+d: @en_make hastily and carelessly
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:clap_together
+
+w: @en_clarion
+d: @en_blow the clarion
+fs: 2
+hypo: tocar 3
+mt: noun.act:música
+mt: noun.cognition:música 1
+sa: @en:verb.creation:clarion
+
+w: @en_clog
+d: @en_dance a clog dance
+fs: 2
+hypo: dançar
+mt: noun.act:baile
+sa: @en:verb.creation:clog
+
+w: @en_co-author
+d: Ser um co-autor em (um livro, um jornal)
+fs: 8
+hypo: escrever 5
+mt: noun.act:autoria
+sa: @en:verb.creation:co-author
+
+w: @en_co-star
+d: @en_be the co-star in a performance
+fs: 2 22
+hypo: estrelar
+mt: noun.communication:Dramaturgia
+sa: @en:verb.creation:co-star
+
+w: @en_cobble_together
+w: @en_cobble_up
+d: @en_put together hastily
+fs: 8
+hypo: compilar 1
+sa: @en:verb.creation:cobble_together
+
+w: @en_coil
+w: @en_hand-build
+w: @en_handbuild
+d: @en_make without a potter's wheel
+fs: 8
+hypo: formar
+sa: @en:verb.creation:coil
+
+w: @en_cold_work
+w: @en_coldwork
+d: @en_shape (metal) without heat
+fs: 8
+hypo: trabalhar
+sa: @en:verb.creation:cold_work
+
+w: @en_come_up
+d: @en_bring forth, usually something desirable
+fs: 8
+hypo: engendrar
+sa: @en:verb.creation:come_up 3
+
+w: @en_commend
+d: @en_present as worthy of regard, kindness, or confidence
+fs: 10 11 9 8
+hypo: representar 4
+sa: @en:verb.creation:commend
+
+w: @en_compound
+d: @en_create by mixing or combining
+fs: 8
+hypo: compor 1
+sa: @en:verb.creation:compound
+
+w: @en_concert
+d: @en_contrive (a plan) by mutual agreement
+fs: 8
+hypo: arquitetar 1
+sa: @en:verb.creation:concert
+
+w: @en_concertise
+w: @en_concertize
+d: @en_give concerts; perform in concerts
+fs: 2
+hypo: apresentar
+mt: noun.act:música
+sa: @en:verb.creation:concertise
+
+w: @en_concoct
+w: @en_cook_up
+d: @en_prepare or cook by mixing ingredients
+fs: 8
+hypo: cozinhar
+mt: noun.act:cozinha
+sa: @en:verb.creation:concoct 1
+
+w: @en_concoct 1
+w: @en_trump_up
+d: @en_invent
+fs: 8
+hypo: inventar 4
+sa: @en:verb.creation:concoct 2
+
+w: @en_concord
+d: @en_arrange by concord or agreement
+fs: 8
+hypo: verb.communication:arranjar
+sa: @en:verb.creation:concord
+
+w: @en_confect
+d: @en_make or construct
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:confect 1
+
+w: @en_conventionalize
+w: @en_stylise
+w: @en_stylize
+d: @en_represent according to a conventional style
+fs: 8
+hypo: figurar 1
+mt: noun.act:arte
+sa: @en:verb.creation:conventionalize
+
+w: @en_cooper
+d: @en_make barrels and casks
+fs: 8
+hypo: fabricar 1
+sa: @en:verb.creation:cooper
+
+w: @en_copy
+w: @en_replicate
+d: @en_reproduce or make an exact copy of
+fs: 1 11 8
+hypo: replicar
+mt: noun.cognition:biologia
+sa: @en:verb.creation:copy 3
+
+w: @en_copy_out
+d: @en_copy very carefully and as accurately as possible
+fs: 8
+hypo: transcrever
+sa: @en:verb.creation:copy_out
+
+w: @en_corduroy
+d: @en_build (a road) from logs laid side by side
+fs: 8
+hypo: construir 5
+sa: @en:verb.creation:corduroy
+
+w: @en_counterpoint
+d: @en_write in counterpoint
+fs: 8
+hypo: compor 2
+mt: noun.communication:música
+sa: @en:verb.creation:counterpoint
+
+w: @en_crank_out
+w: @en_grind_out
+d: @en_produce in a routine or monotonous manner
+fs: 11 8
+hypo: fazer 13
+sa: @en:verb.creation:crank_out
+
+w: @en_crayon
+d: @en_write, draw, or trace with a crayon
+fs: 8 9
+hypo: desenhar 3
+sa: @en:verb.creation:crayon
+
+w: @en_create_by_mental_act
+w: @en_create_mentally
+d: @en_create mentally and abstractly rather than with one's hands
+fs: 8
+hyper: verb.cognition:@en_draw
+hyper: verb.cognition:recriar
+hyper: @en_give_birth
+hyper: @en_schematize
+hyper: arquitetar 1
+hyper: conceber
+hyper: conjecturar
+hyper: construir 7
+hyper: construir 8
+hyper: desenhar 2
+hyper: desenvolver 1
+hyper: forjar
+hyper: inventar 3
+hyper: programar
+hyper: programar 1
+hypo: causar 1
+sa: @en:verb.creation:create_by_mental_act
+
+w: @en_create_verbally
+d: @en_create with or from words
+fs: 8
+hyper: compor 3
+hyper: cunhar
+hyper: escrever 4
+hyper: rimar
+hypo: causar 1
+sa: @en:verb.creation:create_verbally
+
+w: @en_crochet
+d: @en_create by looping or crocheting
+fs: 8 2
+hyper: @en_double_crochet
+hyper: @en_shell_stitch
+hyper: @en_single_crochet
+hypo: confeccionar 1
+mt: noun.act:artesanato
+sa: @en:verb.creation:crochet 1
+vg: @en_crochet 1
+
+w: @en_crochet 1
+w: @en_hook
+d: @en_make a piece of needlework by interlocking and looping thread with a hooked needle
+fs: 8
+hypo: @en_intertwine 1
+mt: noun.act:artesanato
+sa: @en:verb.creation:crochet
+vg: @en_crochet
+
+w: @en_crop
+d: @en_yield crops
+fs: 1
+hypo: dar
+sa: @en:verb.creation:crop
+
+w: @en_cross
+d: @en_trace a line through or across
+fs: 8
+hypo: escrever 3
+sa: @en:verb.creation:cross 9
+
+w: @en_crosshatch
+d: @en_shade with multiple crossing lines
+fs: 8
+hypo: sombrear
+sa: @en:verb.creation:crosshatch
+
+w: @en_custom-make
+w: @en_customise
+w: @en_customize
+w: @en_tailor-make
+d: @en_make to specifications
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:custom-make
+
+w: @en_cut 1
+d: @en_form by probing, penetrating, or digging
+fs: 11 8
+hyper: @en_blast
+hypo: causar 1
+sa: @en:verb.creation:cut 1
+vg: cortar
+
+w: @en_cut 2
+w: @en_tailor
+d: @en_style and tailor in a certain fashion
+fs: 8
+hyper: verb.contact:@en_gore 1
+hypo: arquitetar
+mt: noun.cognition:Moda
+sa: @en:verb.creation:cut
+
+w: @en_cut 3
+d: @en_record a performance on (a medium)
+fs: 8
+hypo: verb.communication:gravar 1
+sa: @en:verb.creation:cut 4
+vg: @en_burn
+vg: @en_cut 4
+
+w: @en_cut 4
+d: @en_make a recording of
+fs: 8
+hypo: verb.communication:gravar 1
+sa: @en:verb.creation:cut 5
+vg: @en_cut 3
+
+w: @en_cut 5
+d: @en_perform or carry out
+fs: 8
+hypo: desempenhar 1
+sa: @en:verb.creation:cut 15
+
+w: @en_cut_corners
+d: @en_do something the cheapest or easiest way
+fs: 13
+hypo: desempenhar 1
+sa: @en:verb.creation:cut_corners
+
+w: @en_cyclostyle
+d: @en_print with an implement with small toothed wheels that cuts small holes in a stencil
+fs: 8
+hypo: imprimir 1
+sa: @en:verb.creation:cyclostyle
+
+w: @en_damascene
+d: @en_inlay metal with gold and silver
+fs: 8
+hypo: encrustar
+mt: noun.act:artesanato
+sa: @en:verb.creation:damascene
+
+w: @en_deglaze
+d: @en_dissolve cooking juices or solid food in (a pan) by adding liquid and stirring
+fs: 8
+hypo: cozinhar
+sa: @en:verb.creation:deglaze
+
+w: @en_demyelinate
+d: @en_destroy the myelin sheath of
+fs: 11
+hypo: destruir 3
+sa: @en:verb.creation:demyelinate
+
+w: @en_depict
+w: @en_picture
+w: @en_render
+w: @en_show
+d: @en_show in, or as in, a picture
+fs: 8
+hyper: @en_map
+hyper: ilustrar
+hypo: figurar 1
+mt: noun.act:arte
+sa: @en:verb.creation:depict
+
+w: @en_descant
+d: @en_sing in descant
+fs: 2
+hypo: cantar 1
+sa: @en:verb.creation:descant
+
+w: @en_descant_on
+d: @en_sing a descant on a main tune or melody
+fs: 8
+hypo: cantar 1
+sa: @en:verb.creation:descant_on
+
+w: @en_develop
+d: @en_generate gradually
+fs: 10 11 9 8
+hyper: verb.change:@en_make 1
+hypo: engendrar
+sa: @en:verb.creation:develop 9
+vg: verb.change:@en_build_up 2
+vg: verb.change:desenvolver 1
+
+w: @en_devil
+d: @en_coat or stuff with a spicy paste
+fs: 8
+hypo: cozinhar
+mt: noun.act:cozinha
+sa: @en:verb.creation:devil
+
+w: @en_dip
+d: @en_place (candle wicks) into hot, liquid wax
+fs: 8
+hypo: confeccionar 1
+sa: @en:verb.creation:dip
+
+w: @en_disincarnate
+d: @en_make immaterial; remove the real essence of
+fs: 11
+hypo: verb.change:imaterializar
+sa: @en:verb.creation:disincarnate
+
+w: @en_distemper
+d: @en_paint with distemper
+fs: 8
+hypo: pincelar
+mt: noun.act:arte
+sa: @en:verb.creation:distemper
+
+w: @en_dogfight
+d: @en_arrange for an illegal dogfight
+fs: 8
+hypo: arranjar
+sa: @en:verb.creation:dogfight
+
+w: @en_doodle
+d: @en_make a doodle; draw aimlessly
+fs: 2
+entail: verb.contact:delinear
+hypo: desenhar 3
+sa: @en:verb.creation:doodle
+
+w: @en_double_crochet
+w: @en_double_stitch
+d: @en_make by double stitching
+fs: 8
+hypo: @en_crochet
+mt: noun.act:artesanato
+sa: @en:verb.creation:double_crochet
+
+w: @en_double_tongue
+w: @en_triple-tongue
+d: @en_play fast notes on a wind instrument
+fs: 8 2
+hypo: @en_tongue
+mt: noun.act:música
+mt: noun.cognition:música 1
+sa: @en:verb.creation:double_tongue
+
+w: @en_draft 1
+w: @en_outline
+d: @en_draw up an outline or sketch for something
+fs: 8
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:draft
+
+w: @en_draw
+d: @en_write a legal document or paper
+fs: 8
+hypo: compor 3
+sa: @en:verb.creation:draw 7
+
+w: @en_draw 1
+d: @en_engage in drawing
+fs: 2
+hypo: criar 7
+sa: @en:verb.creation:draw 2
+vg: verb.contact:delinear
+
+w: @en_draw 2
+w: @en_get 1
+d: @en_earn or achieve a base by being walked by the pitcher
+fs: 8
+hypo: efetuar 1
+mt: noun.act:basebol
+sa: @en:verb.creation:draw 1
+
+w: @en_dress_ship
+d: @en_decorate a ship with flags
+fs: 2
+hypo: adornar 1
+sa: @en:verb.creation:dress_ship
+
+w: @en_drive
+d: @en_compel somebody to do something, often against his own will or judgment
+fs: 24
+hypo: @en_make 1
+sa: @en:verb.creation:drive
+vg: verb.contact:@en_drive 1
+vg: verb.social:@en_drive 1
+
+w: @en_dropforge
+d: @en_forge with a dropforge
+fs: 8
+hypo: martelar
+sa: @en:verb.creation:dropforge
+
+w: @en_drum
+d: @en_play a percussion instrument
+fs: 2
+hypo: tocar 3
+mt: noun.act:música
+sa: @en:verb.creation:drum
+
+w: @en_dry-wall
+d: @en_construct with drywall
+fs: 8
+hypo: construir 5
+sa: @en:verb.creation:dry-wall
+
+w: @en_dummy
+w: @en_dummy_up
+d: @en_make a dummy of
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:dummy
+
+w: @en_duplicate
+d: @en_make a duplicate or duplicates of
+fs: 11 8
+hypo: reproduzir
+sa: @en:verb.creation:duplicate 1
+
+w: @en_elegise
+w: @en_elegize
+d: @en_compose an elegy
+fs: 2
+hypo: versar
+mt: noun.communication:Poemas
+sa: @en:verb.creation:elegise
+
+w: @en_embattle
+d: @en_prepare for battle or conflict
+fs: 2
+hypo: confabular
+sa: @en:verb.creation:embattle
+
+w: @en_escallop
+w: @en_scallop
+d: @en_bake in a sauce, milk, etc., often with breadcrumbs on top
+fs: 8
+hypo: cozinhar
+sa: @en:verb.creation:escallop
+
+w: @en_establish
+w: @en_give
+d: @en_bring about
+fs: 8 11
+hyper: introduzir
+hyper: pacificar
+hypo: causar 1
+sa: @en:verb.creation:establish 1
+vg: fazer 14
+
+w: @en_etch
+d: @en_make an etching of
+fs: 8
+entail: verb.change:corroer 2
+hyper: @en_aquatint
+hypo: imprimir
+mt: noun.act:arte
+sa: @en:verb.creation:etch
+
+w: @en_extort
+w: @en_wring_from
+d: @en_get or cause to become in a difficult or laborious manner
+fs: 8
+hyper: @en_prise
+hypo: verb.possession:obter 7
+sa: @en:verb.creation:extort
+
+w: @en_extrude
+w: @en_squeeze_out
+d: @en_form or shape by forcing through an opening
+fs: 8 11
+hypo: construir 3
+sa: @en:verb.creation:extrude
+
+w: @en_faggot
+w: @en_fagot
+d: @en_ornament or join (fabric) by faggot stitch
+fs: 2
+hypo: bordar
+sa: @en:verb.creation:faggot
+
+w: @en_fashion
+w: @en_forge
+d: @en_make out of components (often in an improvising manner)
+fs: 8
+hyper: @en_tie
+hyper: confeccionar
+hyper: fazer_com_astúcia
+hypo: fabricar 1
+sa: @en:verb.creation:fashion
+
+w: @en_feint
+d: @en_deceive by a mock action
+fs: 8 9
+hypo: fingir 2
+sa: @en:verb.creation:feint
+
+w: @en_fictionalise
+w: @en_fictionalize
+w: @en_retell
+d: @en_make into fiction
+fs: 8
+hypo: recriar
+sa: @en:verb.creation:fictionalise
+
+w: @en_fiddle
+d: @en_play the violin or fiddle
+fs: 2
+hypo: tocar 3
+mt: noun.act:música
+sa: @en:verb.creation:fiddle
+vg: @en_fiddle 1
+
+w: @en_fiddle 1
+d: @en_play on a violin
+fs: 8
+hypo: executar 4
+mt: noun.communication:música
+sa: @en:verb.creation:fiddle 2
+vg: @en_fiddle
+
+w: @en_filet
+w: @en_fillet
+d: @en_decorate with a lace of geometric designs
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:filet
+
+w: @en_filigree
+d: @en_make filigree, as with a precious metal
+fs: 2
+hypo: fazer_com_astúcia
+sa: @en:verb.creation:filigree
+
+w: @en_film-make
+d: @en_make films; be a film maker
+fs: 2
+hypo: causar 1
+sa: @en:verb.creation:film-make
+
+w: @en_fix
+d: @en_set or place definitely
+fs: 8 11
+hypo: constituir
+sa: @en:verb.creation:fix 1
+
+w: @en_flag
+d: @en_decorate with flags
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:flag
+
+w: @en_flambe
+d: @en_pour liquor over and ignite (a dish)
+fs: 8
+hypo: cozinhar
+sa: @en:verb.creation:flambe
+
+w: @en_foliate
+d: @en_hammer into thin flat foils
+fs: 8
+hypo: martelar
+sa: @en:verb.creation:foliate
+
+w: @en_foliate 1
+d: @en_decorate with leaves
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:foliate 1
+
+w: @en_follow
+w: @en_take_after
+d: @en_imitate in behavior; take as a model
+fs: 9
+hypo: copiar 1
+sa: @en:verb.creation:follow
+
+w: @en_formulate
+d: @en_prepare according to a formula
+fs: 8
+hypo: confeccionar 1
+mt: noun.cognition:Quimica
+sa: @en:verb.creation:formulate 1
+
+w: @en_frame
+w: @en_frame_up
+d: @en_construct by fitting or uniting parts together
+fs: 8
+hypo: construir 5
+mt: noun.act:construção 1
+sa: @en:verb.creation:frame
+
+w: @en_fresco
+d: @en_paint onto wet plaster on a wall
+fs: 8
+hypo: pincelar
+mt: noun.act:arte
+sa: @en:verb.creation:fresco
+
+w: @en_fret
+d: @en_carve a pattern into
+fs: 8
+hyper: @en_honeycomb
+hypo: verb.contact:cortar 5
+mt: noun.act:artesanato
+sa: @en:verb.creation:fret 1
+
+w: @en_fret 1
+d: @en_decorate with an interlaced design
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:fret
+
+w: @en_fringe
+d: @en_adorn with a fringe
+fs: 8
+hypo: adornar 1
+mt: noun.act:artesanato
+sa: @en:verb.creation:fringe
+
+w: @en_fruit
+d: @en_cause to bear fruit
+fs: 8
+cause: frutar
+sa: @en:verb.creation:fruit 1
+
+w: @en_fudge_together
+w: @en_throw_together
+d: @en_produce shoddily, without much attention to detail
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:fudge_together
+
+w: @en_garland
+d: @en_adorn with bands of flowers or leaves
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:garland
+
+w: @en_gazette
+d: @en_publish in a gazette
+fs: 26 8
+hypo: editar
+sa: @en:verb.creation:gazette
+
+w: @en_get_over
+d: @en_to bring (a necessary but unpleasant task) to an end
+fs: 8
+hypo: atingir
+sa: @en:verb.creation:get_over
+
+w: @en_ghost
+w: @en_ghostwrite
+d: @en_write for someone else
+fs: 8
+hypo: escrever 5
+mt: noun.act:autoria
+sa: @en:verb.creation:ghost
+
+w: @en_gild_the_lily
+w: @en_paint_the_lily
+d: @en_adorn unnecessarily (something that is already beautiful)
+fs: 2
+hypo: adornar 1
+sa: @en:verb.creation:gild_the_lily
+
+w: @en_give 1
+d: @en_present to view
+fs: 8
+hypo: verb.perception:apresentar
+sa: @en:verb.creation:give 13
+vg: @en_give 3
+
+w: @en_give 2
+w: @en_have
+w: @en_hold
+w: @en_make
+w: @en_throw 1
+d: @en_organize or be responsible for
+fs: 8
+hypo: verb.social:conduzir 6
+sa: @en:verb.creation:give 2
+
+w: @en_give 3
+d: @en_perform for an audience
+fs: 8
+hypo: apresentar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:give 12
+vg: @en_give 1
+
+w: @en_give 4
+w: @en_yield
+d: @en_cause to happen or be responsible for
+fs: 15 14 11
+hypo: causar 1
+sa: @en:verb.creation:give 3
+vg: fazer 14
+
+w: @en_give_birth
+d: @en_create or produce an idea
+fs: 11 8
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:give_birth
+
+w: @en_grandstand
+d: @en_perform ostentatiously in order to impress the audience and with an eye to the applause
+fs: 2
+hypo: apresentar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:grandstand
+
+w: @en_grind
+d: @en_shape or form by grinding
+fs: 8
+hypo: formar
+sa: @en:verb.creation:grind 4
+
+w: @en_grind 1
+d: @en_created by grinding
+fs: 8
+hypo: causar 1
+sa: @en:verb.creation:grind 5
+
+w: @en_groin
+d: @en_build with groins
+fs: 8
+hypo: construir 5
+mt: noun.act:construção 1
+sa: @en:verb.creation:groin
+
+w: @en_ham
+w: @en_ham_it_up
+w: @en_overact
+w: @en_overplay
+d: @en_exaggerate one's acting
+fs: 2 8
+hypo: actuar
+mt: noun.communication:Dramaturgia
+sa: @en:verb.creation:ham
+
+w: @en_handcraft
+d: @en_make something by hand
+fs: 8
+hypo: fazer_com_astúcia
+sa: @en:verb.creation:handcraft
+
+w: @en_harp
+d: @en_play the harp
+fs: 2
+entail: verb.contact:tirar 9
+hypo: tocar 3
+mt: noun.act:música
+sa: @en:verb.creation:harp
+
+w: @en_hatch
+d: @en_inlay with narrow strips or lines of a different substance such as gold or silver, for the purpose of decorating
+fs: 8
+hypo: encrustar
+mt: noun.act:artesanato
+sa: @en:verb.creation:hatch 3
+
+w: @en_hectograph
+d: @en_copy on a duplicator
+fs: 8
+hypo: copiar 2
+sa: @en:verb.creation:hectograph
+
+w: @en_heel
+d: @en_perform with the heels
+fs: 8
+hypo: dançar
+mt: noun.act:baile
+mt: noun.communication:baile
+sa: @en:verb.creation:heel
+
+w: @en_hill
+d: @en_form into a hill
+fs: 8
+hypo: formar
+sa: @en:verb.creation:hill
+
+w: @en_hoe
+d: @en_dig with a hoe
+fs: 2 8
+entail: verb.contact:cavar 2
+hypo: arar 1
+mt: noun.act:agricultura 3
+sa: @en:verb.creation:hoe
+
+w: @en_honeycomb
+d: @en_carve a honeycomb pattern into
+fs: 8 11
+hypo: @en_fret
+sa: @en:verb.creation:honeycomb
+
+w: @en_hoof
+d: @en_dance in a professional capacity
+fs: 2
+hypo: dançar
+mt: noun.communication:baile
+mu: noun.communication:calão
+sa: @en:verb.creation:hoof 3
+
+w: @en_hot-work
+d: @en_roll, press, forge, or shape (metal) while hot
+fs: 8
+hypo: trabalhar
+sa: @en:verb.creation:hot-work
+
+w: @en_hymn
+d: @en_sing a hymn
+fs: 2
+hypo: cantar
+mt: noun.act:música
+sa: @en:verb.creation:hymn
+
+w: @en_illuminate
+d: @en_add embellishments and paintings to (medieval manuscripts)
+fs: 8
+entail: pintar 1
+hyper: @en_miniate 1
+hypo: adornar 1
+mt: noun.act:arte
+sa: @en:verb.creation:illuminate
+
+w: @en_induce 1
+w: @en_induct
+d: @en_produce electric current by electrostatic or magnetic processes
+fs: 11 8
+hypo: causar
+mt: noun.cognition:Fisica
+sa: @en:verb.creation:induce 3
+
+w: @en_instrument
+w: @en_instrumentate
+d: @en_write an instrumental score for
+fs: 8
+hypo: compor 2
+mt: noun.cognition:eufonia
+sa: @en:verb.creation:instrument
+
+w: @en_interlude
+d: @en_perform an interlude
+fs: 2
+hypo: apresentar
+mt: noun.act:música
+sa: @en:verb.creation:interlude
+
+w: @en_intertwine
+w: @en_tat
+d: @en_make lacework by knotting or looping
+fs: 2 8
+entail: Nódulo
+hypo: confeccionar 1
+mt: noun.act:artesanato
+sa: @en:verb.creation:intertwine 1
+
+w: @en_intertwine 1
+w: @en_loop
+d: @en_make a loop in
+fs: 8
+hyper: @en_crochet 1
+hyper: @en_noose
+hypo: amarrar 1
+sa: @en:verb.creation:intertwine
+
+w: @en_italicise
+w: @en_italicize
+d: @en_print in italics
+fs: 8
+hypo: imprimir 1
+sa: @en:verb.creation:italicise
+
+w: @en_japan
+d: Cobrir com laca, laquear, como feito no Japão
+fs: 8
+hypo: @en_lacquer
+mt: noun.act:artesanato
+sa: @en:verb.creation:japan
+
+w: @en_jazz
+d: @en_play something in the style of jazz
+fs: 8
+hypo: executar 4
+mt: noun.act:música
+sa: @en:verb.creation:jazz
+
+w: @en_jive
+d: @en_dance to jive music; dance the jive
+fs: 2
+hypo: dançar
+mt: noun.act:baile
+sa: @en:verb.creation:jive
+
+w: @en_lace
+d: @en_do lacework
+fs: 2
+hypo: tecer 2
+mt: noun.act:artesanato
+sa: @en:verb.creation:lace
+
+w: @en_lacquer
+d: @en_coat with lacquer
+fs: 8
+hyper: @en_japan
+hypo: adornar 1
+mt: noun.act:artesanato
+sa: @en:verb.creation:lacquer
+
+w: @en_landscape
+d: trabalhar como  jardineiro paisagista
+fs: 2
+hypo: jardinar
+mt: noun.act:horticultura
+sa: @en:verb.creation:landscape
+vg: ajardinar
+
+w: @en_lard
+d: @en_prepare or cook with lard
+fs: 8
+hypo: cozinhar
+mt: noun.act:cozinha
+sa: @en:verb.creation:lard
+
+w: @en_lay
+d: @en_prepare or position for action or operation
+fs: 8
+hypo: confabular
+sa: @en:verb.creation:lay
+
+w: @en_letter
+d: @en_mark letters on or mark with letters
+fs: 8
+hypo: escrever 3
+sa: @en:verb.creation:letter
+
+w: @en_lipstick
+d: @en_form by tracing with lipstick
+fs: 8
+hypo: delinear 1
+sa: @en:verb.creation:lipstick
+
+w: @en_lithograph
+d: @en_make by lithography
+fs: 8
+hypo: imprimir
+mt: noun.act:arte
+sa: @en:verb.creation:lithograph
+
+w: @en_lock
+d: @en_build locks in order to facilitate the navigation of vessels
+fs: 2
+hypo: construir 5
+sa: @en:verb.creation:lock 4
+
+w: @en_loom
+d: @en_weave on a loom
+fs: 1
+hypo: tecer 2
+sa: @en:verb.creation:loom
+
+w: @en_lyric
+d: @en_write lyrics for (a song)
+fs: 8
+hyper: @en_relyric
+hypo: compor 3
+mt: noun.communication:Poemas
+sa: @en:verb.creation:lyric
+
+w: @en_machine
+d: @en_make by machinery
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:machine
+
+w: @en_machine 1
+d: @en_turn, shape, mold, or otherwise finish by machinery
+fs: 8
+hypo: formar
+sa: @en:verb.creation:machine 1
+
+w: @en_macrame
+d: @en_make knotted patterns
+fs: 8 2
+hypo: Nódulo
+sa: @en:verb.creation:macrame
+
+w: @en_madrigal
+d: @en_sing madrigals
+fs: 8
+hypo: cantar
+mt: noun.act:música
+sa: @en:verb.creation:madrigal
+
+w: @en_make 1
+d: @en_compel or make somebody or something to act in a certain way
+fs: 24
+hyper: @en_drive
+hypo: causar 4
+sa: @en:verb.creation:make 15
+
+w: @en_manufacture
+d: @en_produce naturally
+fs: 11
+hypo: fazer 13
+sa: @en:verb.creation:manufacture 3
+
+w: @en_map
+d: @en_depict as if on a map
+fs: 11
+hypo: @en_depict
+sa: @en:verb.creation:map 1
+vg: @en_map 1
+
+w: @en_map 1
+d: @en_make a map of; show or establish the features of details of
+fs: 8
+hyper: verb.cognition:@en_plat
+hyper: verb.cognition:mapear 2
+hypo: figurar 1
+sa: @en:verb.creation:map
+vg: @en_map
+
+w: @en_map 2
+w: @en_map_out
+d: @en_plan, delineate, or arrange in detail
+fs: 8
+hypo: arquitetar 1
+sa: @en:verb.creation:map 3
+
+w: @en_marble
+d: @en_paint or stain like marble
+fs: 8
+hypo: verb.change:colorir
+mt: noun.act:artesanato
+sa: @en:verb.creation:marble
+
+w: @en_mass-produce
+d: @en_produce on a large scale
+fs: 8
+hypo: fabricar 2
+sa: @en:verb.creation:mass-produce
+
+w: @en_melodise
+w: @en_melodize
+d: @en_supply a melody for
+fs: 8
+hypo: compor 2
+mt: noun.communication:música
+sa: @en:verb.creation:melodise
+
+w: @en_microcopy
+d: @en_photocopy printed or other graphic matter so that it is reduced in size
+fs: 8 11
+hypo: fotocopiar
+sa: @en:verb.creation:microcopy
+
+w: @en_microfilm
+d: @en_record on microfilm
+fs: 8
+hypo: filmar
+sa: @en:verb.creation:microfilm
+
+w: @en_mime
+w: @en_pantomime
+d: @en_act out without words but with gestures and bodily movements only
+fs: 2
+hypo: actuar
+sa: @en:verb.creation:mime
+
+w: @en_mimeo
+w: @en_mimeograph
+d: @en_print copies from (a prepared stencil) using a mimeograph
+fs: 8
+hypo: copiar 2
+sa: @en:verb.creation:mimeo
+
+w: @en_miniate
+d: @en_paint with red lead or vermilion
+fs: 8
+hypo: adornar 4
+mt: noun.act:arte
+sa: @en:verb.creation:miniate
+
+w: @en_miniate 1
+w: @en_rubricate
+d: @en_decorate (manuscripts) with letters painted red
+fs: 8
+hypo: @en_illuminate
+mt: noun.act:arte
+sa: @en:verb.creation:miniate 1
+
+w: @en_minstrel
+d: @en_celebrate by singing, in the style of minstrels
+fs: 8
+hypo: cantar 1
+mt: noun.act:música
+sa: @en:verb.creation:minstrel
+
+w: @en_miscast
+d: @en_cast an actor, singer, or dancer in an unsuitable role
+fs: 9
+hypo: eleger
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:miscast
+
+w: @en_misprint
+d: @en_print incorrectly
+fs: 8
+hypo: @en_print
+sa: @en:verb.creation:misprint
+
+w: @en_model
+w: @en_pattern
+d: @en_plan or create according to a model or models
+fs: 21
+hyper: @en_scale
+hyper: @en_sovietise
+hypo: copiar 1
+sa: @en:verb.creation:model 2
+
+w: @en_modulate
+d: @en_change the key of, in music
+fs: 8
+hypo: executar 4
+mt: noun.act:música
+sa: @en:verb.creation:modulate
+
+w: @en_mound
+d: @en_form into a rounded elevation
+fs: 8
+hyper: @en_mound_over
+hypo: formar
+sa: @en:verb.creation:mound
+
+w: @en_mound_over
+d: @en_form a mound over
+fs: 11 8
+hypo: @en_mound
+sa: @en:verb.creation:mound_over
+
+w: @en_mount
+w: @en_put_on
+d: @en_prepare and supply with the necessary equipment for execution or performance
+fs: 8
+hyper: reapresentar
+hypo: confabular
+sa: @en:verb.creation:mount 1
+
+w: @en_mount 1
+d: @en_put up or launch
+fs: 11 8
+hypo: empreender 1
+sa: @en:verb.creation:mount
+
+w: @en_mythologise
+w: @en_mythologize
+d: @en_construct a myth
+fs: 8
+hypo: inventar 4
+sa: @en:verb.creation:mythologise
+
+w: @en_net
+w: @en_web
+d: @en_construct or form a web, as if by weaving
+fs: 8
+hypo: tecer 2
+sa: @en:verb.creation:net
+
+w: @en_noose
+d: @en_make a noose in or of
+fs: 8
+hypo: @en_intertwine 1
+sa: @en:verb.creation:noose
+
+w: @en_offset
+d: @en_create an offset in
+fs: 8
+hypo: causar 1
+sa: @en:verb.creation:offset 1
+
+w: @en_offset 1
+d: @en_produce by offset printing
+fs: 8
+hypo: imprimir 1
+sa: @en:verb.creation:offset
+
+w: @en_open_up
+w: @en_pioneer
+d: @en_open up an area or prepare a way
+fs: 8
+hypo: inovar
+sa: @en:verb.creation:open_up
+
+w: @en_output
+d: @en_to create or manufacture a specific amount
+fs: 11 8
+hypo: construir 3
+sa: @en:verb.creation:output
+
+w: @en_overbear
+d: @en_bear too much
+fs: 11
+hypo: dar
+sa: @en:verb.creation:overbear
+
+w: @en_overcrop
+w: @en_overcultivate
+d: @en_to exhaust by excessive cultivation
+fs: 8
+hypo: cultivar 1
+mt: noun.act:agricultura 3
+sa: @en:verb.creation:overcrop
+
+w: @en_overprint
+w: @en_print_over
+d: @en_print (additional text or colors) onto an already imprinted paper
+fs: 8 11
+hyper: @en_surcharge
+hypo: imprimir 1
+sa: @en:verb.creation:overprint
+
+w: @en_overwork
+d: @en_use too much
+fs: 8
+hypo: trabalhar
+sa: @en:verb.creation:overwork
+
+w: @en_panel
+d: @en_decorate with panels
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:panel
+
+w: @en_paragraph
+d: @en_write about in a paragraph
+fs: 8 9
+hypo: compor 3
+sa: @en:verb.creation:paragraph 1
+
+w: @en_paragraph 1
+d: @en_write paragraphs; work as a paragrapher
+fs: 2
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:paragraph
+
+w: @en_pencil
+d: @en_write, draw, or trace with a pencil
+fs: 8 9
+entail: verb.contact:delinear
+hypo: desenhar 3
+sa: @en:verb.creation:pencil
+
+w: @en_phase_in
+d: @en_introduce gradually
+fs: 8
+hypo: inovar
+sa: @en:verb.creation:phase_in
+
+w: @en_photostat
+d: @en_make a copy by means of a Photostat device
+fs: 2 8
+hypo: fotocopiar
+sa: @en:verb.creation:photostat
+
+w: @en_pick
+d: @en_provoke
+fs: 8
+hypo: causar 3
+sa: @en:verb.creation:pick
+
+w: @en_pipe
+d: @en_trim with piping
+fs: 8
+entail: confeccionar
+hypo: adornar 1
+sa: @en:verb.creation:pipe 1
+
+w: @en_play_back
+w: @en_replay
+d: @en_reproduce (a recording) on a recorder
+fs: 8
+hypo: reproduzir
+sa: @en:verb.creation:play_back
+
+w: @en_play_out
+d: @en_perform or be performed to the end
+fs: 1 8
+hypo: apresentar
+sa: @en:verb.creation:play_out
+vg: verb.competition:@en_play_out
+
+w: @en_plot
+d: @en_devise the sequence of events in (a literary work or a play, movie, or ballet)
+fs: 8
+hypo: arquitetar 1
+sa: @en:verb.creation:plot 3
+
+w: @en_plume
+d: @en_deck with a plume
+fs: 8
+hypo: adornar 2
+sa: @en:verb.creation:plume
+
+w: @en_prank
+d: @en_dress or decorate showily or gaudily
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:prank
+
+w: @en_prearrange
+d: @en_arrange beforehand
+fs: 8
+hypo: @en_arrange
+sa: @en:verb.creation:prearrange
+
+w: @en_preassemble
+w: @en_prefabricate
+d: @en_to manufacture sections of (a building), especially in a factory, so that they can be easily transported to and rapidly assembled on a building site of buildings
+fs: 8
+hypo: construir 3
+mt: noun.act:construção 1
+sa: @en:verb.creation:preassemble
+
+w: @en_precook
+d: @en_cook beforehand so that the actual preparation won't take long
+fs: 8
+hypo: cozinhar
+mt: noun.act:cozinha
+sa: @en:verb.creation:precook
+
+w: @en_prefabricate 1
+d: @en_produce synthetically, artificially, or stereotypically and unoriginally
+fs: 11 8
+hypo: construir 3
+sa: @en:verb.creation:prefabricate 1
+
+w: @en_prefigure
+d: @en_imagine or consider beforehand
+fs: 8
+hypo: conjecturar
+sa: @en:verb.creation:prefigure 1
+
+w: @en_preform
+d: @en_form or shape beforehand or determine the shape of beforehand
+fs: 8 11
+hypo: formar
+sa: @en:verb.creation:preform
+vg: @en_preform 1
+
+w: @en_preform 1
+d: @en_form into a shape resembling the final, desired one
+fs: 8
+hypo: formar
+sa: @en:verb.creation:preform 1
+vg: @en_preform
+
+w: @en_prelude
+d: @en_play as a prelude
+fs: 8
+hypo: executar 4
+mt: noun.act:música
+sa: @en:verb.creation:prelude
+
+w: @en_premier
+w: @en_premiere
+d: @en_perform a work for the first time
+fs: 8
+hypo: desempenhar 1
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:premier
+
+w: @en_press
+d: @en_create by pressing
+fs: 8 11
+hypo: causar 1
+sa: @en:verb.creation:press 1
+
+w: @en_press 1
+w: @en_press_out
+d: @en_press from a plastic
+fs: 11 8
+hypo: @en_cast
+sa: @en:verb.creation:press
+
+w: @en_print
+d: @en_write as if with print; not cursive
+fs: 2 8
+hyper: @en_misprint
+hypo: escrever 3
+sa: @en:verb.creation:print 3
+
+w: @en_prise
+w: @en_pry
+d: @en_make an uninvited or presumptuous inquiry
+fs: 8
+hypo: @en_extort
+sa: @en:verb.creation:prise
+
+w: @en_profile
+d: @en_write about
+fs: 11 8 10 9
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:profile 1
+
+w: @en_project 1
+d: @en_draw a projection of
+fs: 8
+hypo: desenhar 3
+sa: @en:verb.creation:project 8
+
+w: @en_proof
+d: @en_make or take a proof of, such as a photographic negative, an etching, or typeset
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:proof
+
+w: @en_prove
+d: @en_take a trial impression of
+fs: 8
+hypo: imprimir 1
+sa: @en:verb.creation:prove
+
+w: @en_puddle
+d: @en_subject to puddling or form by puddling
+fs: 8
+hypo: formar
+sa: @en:verb.creation:puddle
+
+w: @en_pulsate
+w: @en_pulse
+d: @en_produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses
+fs: 11 8
+hypo: construir 3
+sa: @en:verb.creation:pulsate
+
+w: @en_pun
+d: @en_make a play on words
+fs: 2
+hypo: verb.communication:caçoar 1
+sa: @en:verb.creation:pun
+
+w: @en_purl
+d: @en_edge or border with gold or silver embroidery
+fs: 8
+hypo: bordar
+sa: @en:verb.creation:purl 1
+vg: @en_purl 2
+
+w: @en_purl 1
+d: @en_knit with a purl stitch
+fs: 2 8
+hypo: fazer_meias
+mt: noun.act:artesanato
+sa: @en:verb.creation:purl 2
+
+w: @en_purl 2
+d: @en_embroider with gold or silver thread
+fs: 8
+hypo: bordar
+sa: @en:verb.creation:purl
+vg: @en_purl
+
+w: @en_purl_stitch
+d: @en_make with purl stitches
+fs: 8
+hypo: amarrar 1
+mt: noun.act:artesanato
+sa: @en:verb.creation:purl_stitch
+
+w: @en_put_on 1
+d: @en_put on the stove or ready for cooking
+fs: 8
+hypo: cozinhar
+mt: noun.act:cozinha
+sa: @en:verb.creation:put_on 2
+
+w: @en_put_out
+d: @en_put out considerable effort
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:put_out
+
+w: @en_quadruplicate
+d: @en_reproduce fourfold
+fs: 8
+hypo: reproduzir
+sa: @en:verb.creation:quadruplicate
+
+w: @en_quilt
+d: @en_create by stitching together
+fs: 8
+entail: verb.change:@en_bolster
+hypo: confeccionar
+sa: @en:verb.creation:quilt
+
+w: @en_quilt 1
+d: @en_stitch or sew together
+fs: 8
+entail: verb.contact:bordar
+hypo: verb.contact:juntar 6
+sa: @en:verb.creation:quilt 1
+
+w: @en_rack
+d: @en_work on a rack
+fs: 8
+entail: verb.contact:esticar
+hypo: trabalhar
+sa: @en:verb.creation:rack
+
+w: @en_raft
+d: @en_make into a raft
+fs: 8
+hypo: fabricar 2
+sa: @en:verb.creation:raft
+
+w: @en_rag
+d: @en_play in ragtime
+fs: 8
+hypo: executar 4
+mt: noun.act:música
+mt: noun.communication:música
+sa: @en:verb.creation:rag
+
+w: @en_raise 1
+d: @en_create a disturbance, especially by making a great noise
+fs: 8
+hypo: causar 1
+sa: @en:verb.creation:raise 6
+
+w: @en_rap
+d: @en_perform rap music
+fs: 2
+hypo: apresentar
+mt: noun.act:música
+sa: @en:verb.creation:rap 10
+
+w: @en_read
+d: @en_audition for a stage role by reading parts of a role
+fs: 22
+hypo: @en_audition
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:read 5
+
+w: @en_realise
+w: @en_realize
+d: @en_expand or complete (a part in a piece of baroque music) by supplying the harmonies indicated in the figured bass
+fs: 8
+hypo: compatibilizar
+mt: noun.communication:música
+sa: @en:verb.creation:realise 7
+
+w: @en_reassemble
+d: @en_assemble once again, after taking something apart
+fs: 8
+hypo: compor 1
+sa: @en:verb.creation:reassemble
+
+w: @en_recapitulate
+d: @en_repeat stages of evolutionary development during the embryonic phase of life
+fs: 11
+hypo: replicar
+sa: @en:verb.creation:recapitulate 1
+
+w: @en_recapture
+d: @en_take up anew
+fs: 11 8
+hypo: capturar
+sa: @en:verb.creation:recapture
+
+w: @en_recast
+w: @en_remold
+w: @en_remould
+d: @en_cast again
+fs: 8
+hypo: @en_cast
+sa: @en:verb.creation:recast 1
+
+w: @en_recast 1
+d: @en_cast again, in a different role
+fs: 9
+hypo: eleger
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:recast
+
+w: @en_recite
+w: @en_retell 1
+d: @en_render verbally, "recite a poem"
+fs: 8
+hypo: recriar
+sa: @en:verb.creation:recite
+
+w: @en_recopy
+d: @en_copy again
+fs: 8
+hypo: transcrever
+sa: @en:verb.creation:recopy
+
+w: @en_recreate
+d: @en_create anew
+fs: 8
+hyper: @en_reinvent
+hypo: causar 1
+sa: @en:verb.creation:recreate 5
+
+w: @en_redecorate
+d: @en_redo the decoration of an apartment or house
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:redecorate
+
+w: @en_register
+d: @en_manipulate the registers of an organ
+fs: 2
+hypo: tocar 3
+mt: noun.act:música
+sa: @en:verb.creation:register
+
+w: @en_reharmonise
+w: @en_reharmonize
+d: @en_provide with a different harmony
+fs: 8
+hypo: compatibilizar
+mt: noun.cognition:eufonia
+sa: @en:verb.creation:reharmonise
+
+w: @en_reinvent
+d: @en_create anew and make over
+fs: 8
+hypo: @en_recreate
+sa: @en:verb.creation:reinvent
+
+w: @en_relyric
+d: @en_write new lyrics for (a song)
+fs: 8
+hypo: @en_lyric
+mt: noun.communication:Poemas
+sa: @en:verb.creation:relyric
+
+w: @en_replay 1
+d: @en_play (a melody) again
+fs: 8
+hypo: executar 4
+sa: @en:verb.creation:replay
+
+w: @en_reproduce
+d: @en_recreate a sound, image, idea, mood, atmosphere, etc.
+fs: 8
+hyper: @en_catch
+hypo: verb.cognition:recriar
+mt: noun.cognition:belas_artes
+sa: @en:verb.creation:reproduce 3
+
+w: @en_rewrite
+d: @en_rewrite so as to make fit to suit a new or different purpose
+fs: 8
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:rewrite
+
+w: @en_rib
+d: @en_form vertical ribs by knitting
+fs: 8
+hypo: fazer_meias
+mt: noun.act:artesanato
+sa: @en:verb.creation:rib
+
+w: @en_ridge
+d: @en_plough alternate strips by throwing the furrow onto an unploughed strip
+fs: 8
+hypo: arar
+mt: noun.act:agricultura 3
+sa: @en:verb.creation:ridge
+
+w: @en_riff
+d: @en_play riffs
+fs: 2
+hypo: executar 4
+sa: @en:verb.creation:riff
+
+w: @en_rig_up
+d: @en_erect or construct, especially as a temporary measure
+fs: 8
+hypo: compor 1
+sa: @en:verb.creation:rig_up
+
+w: @en_roneo
+d: @en_make copies on a Roneograph
+fs: 1
+hypo: copiar 2
+sa: @en:verb.creation:roneo
+
+w: @en_roughcast
+d: @en_shape roughly
+fs: 8
+hypo: formar
+sa: @en:verb.creation:roughcast
+
+w: @en_rubricate 1
+d: @en_furnish with rubrics or regulate by rubrics
+fs: 8
+hypo: @en_arrange 1
+sa: @en:verb.creation:rubricate 1
+
+w: @en_run 1
+d: @en_carry out
+fs: 8
+hypo: atingir
+sa: @en:verb.creation:run
+
+w: @en_run_up
+d: @en_make by sewing together quickly
+fs: 1
+hypo: confeccionar
+sa: @en:verb.creation:run_up
+
+w: @en_sand_cast
+d: @en_pour molten metal into a mold of sand
+fs: 8
+hypo: @en_cast
+sa: @en:verb.creation:sand_cast
+
+w: @en_sandwich
+d: @en_make into a sandwich
+fs: 8
+hypo: confabular
+sa: @en:verb.creation:sandwich
+
+w: @en_scale
+d: @en_pattern, make, regulate, set, measure, or estimate according to some rate or standard
+fs: 8
+hypo: @en_model
+sa: @en:verb.creation:scale
+
+w: @en_scallop 1
+d: @en_decorate an edge with scallops
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:scallop
+
+w: @en_scamp
+d: @en_perform hastily and carelessly
+fs: 8
+hypo: desempenhar 1
+mt: noun.act:música
+sa: @en:verb.creation:scamp
+
+w: @en_schematize
+d: @en_formulate in regular order; to reduce to a scheme or formula
+fs: 8
+entail: verb.change:coordenar
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:schematize
+
+w: @en_score
+d: @en_write a musical score for
+fs: 8
+hyper: orquestrar
+hypo: compor 2
+mt: noun.communication:música
+sa: @en:verb.creation:score
+
+w: @en_scrape
+d: @en_make by scraping
+fs: 8 11
+hypo: causar 1
+sa: @en:verb.creation:scrape
+
+w: @en_scrawl
+w: @en_scribble
+d: @en_write carelessly
+fs: 8 2
+hypo: escrever 3
+sa: @en:verb.creation:scrawl
+
+w: @en_scrimmage
+d: @en_practice playing (a sport)
+fs: 2
+hypo: ensaiar
+sa: @en:verb.creation:scrimmage
+
+w: @en_seed
+d: @en_bear seeds
+fs: 1
+hypo: dar
+sa: @en:verb.creation:seed
+
+w: @en_serenade
+d: @en_sing and play for somebody
+fs: 2 9
+hypo: desempenhar 1
+sa: @en:verb.creation:serenade
+
+w: @en_set 1
+w: @en_typeset
+d: @en_set in type
+fs: 8
+hypo: imprimir 1
+sa: @en:verb.creation:set 11
+
+w: @en_set 2
+d: @en_apply or start
+fs: 8
+hypo: começar
+sa: @en:verb.creation:set 12
+
+w: @en_set_to_music
+d: @en_write (music) for (a text)
+fs: 8
+hypo: compor 2
+mt: noun.communication:música
+sa: @en:verb.creation:set_to_music
+
+w: @en_set_up
+d: @en_begin, or enable someone else to begin, a venture by providing the means, logistics, etc.
+fs: 11 8
+hypo: confabular
+sa: @en:verb.creation:set_up 2
+
+w: @en_shell_stitch
+d: @en_make by shell stitching
+fs: 8
+hypo: @en_crochet
+mt: noun.act:artesanato
+sa: @en:verb.creation:shell_stitch
+
+w: @en_shimmy
+d: @en_dance a shimmy
+fs: 2
+hypo: dançar
+mt: noun.act:baile
+sa: @en:verb.creation:shimmy
+
+w: @en_sight-read
+w: @en_sightread
+d: @en_perform music from a score without having seen the score before
+fs: 8 2
+hyper: @en_sight-sing
+hypo: apresentar
+mt: noun.act:música
+sa: @en:verb.creation:sight-read
+
+w: @en_sight-sing
+w: @en_sightsing
+d: @en_sing from a score without having seen it before
+fs: 2 8
+hypo: @en_sight-read
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:sight-sing
+
+w: @en_silhouette
+d: @en_represent by a silhouette
+fs: 8 10 9 11
+hypo: figurar 1
+sa: @en:verb.creation:silhouette
+
+w: @en_silkscreen
+d: @en_print by silkscreen
+fs: 8
+hypo: imprimir
+mt: noun.act:arte
+sa: @en:verb.creation:silkscreen
+
+w: @en_sing_along
+d: @en_sing with a choir or an orchestra
+fs: 2
+hypo: cantar 1
+sa: @en:verb.creation:sing_along
+
+w: @en_single_crochet
+w: @en_single_stitch
+d: @en_make by single stitching
+fs: 8
+hypo: @en_crochet
+mt: noun.act:artesanato
+sa: @en:verb.creation:single_crochet
+
+w: @en_sinter
+d: @en_cause (ores or powdery metals) to become a coherent mass by heating without melting
+fs: 8
+hypo: formar
+sa: @en:verb.creation:sinter
+
+w: @en_skirl
+d: @en_play the bagpipes
+fs: 2
+hypo: tocar 3
+mt: noun.act:música
+sa: @en:verb.creation:skirl
+
+w: @en_sloganeer
+d: @en_coin new slogans
+fs: 2
+hypo: cunhar
+sa: @en:verb.creation:sloganeer
+
+w: @en_slur
+d: @en_play smoothly or legato
+fs: 8
+hypo: executar 4
+mt: noun.act:música
+sa: @en:verb.creation:slur
+
+w: @en_smelt
+d: @en_extract (metals) by heating
+fs: 8
+entail: verb.change:aquecer 1
+hypo: construir 3
+sa: @en:verb.creation:smelt
+
+w: @en_smock
+d: @en_embellish by sewing in straight lines crossing each other diagonally
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:smock
+
+w: @en_solmizate
+d: @en_sing using syllables like `do', `re' and `mi' to represent the tones of the scale
+fs: 2
+hypo: cantar 1
+mt: noun.act:música
+sa: @en:verb.creation:solmizate
+vg: solfar
+
+w: @en_solo
+d: @en_perform a piece written for a single instrument
+fs: 2
+hypo: apresentar
+sa: @en:verb.creation:solo
+
+w: @en_sonnet
+d: @en_compose a sonnet
+fs: 2
+hypo: versar
+mt: noun.communication:Poemas
+sa: @en:verb.creation:sonnet
+
+w: @en_sonnet 1
+d: @en_praise in a sonnet
+fs: 9 8
+hypo: verb.communication:elogiar 1
+mt: noun.communication:Poemas
+sa: @en:verb.creation:sonnet 1
+
+w: @en_sound_off
+w: @en_strike_up
+d: @en_start playing
+fs: 2
+hypo: tocar 4
+mt: noun.act:música
+mt: noun.cognition:música 1
+mt: noun.communication:música
+sa: @en:verb.creation:sound_off
+
+w: @en_sovietise
+w: @en_sovietize
+d: @en_model a country's social, political, and economic structure on the Soviet Union
+fs: 8
+hypo: @en_model
+sa: @en:verb.creation:sovietise
+
+w: @en_spatchcock
+d: @en_interpolate or insert (words) into a sentence or story
+fs: 8
+hypo: verb.communication:@en_insert
+sa: @en:verb.creation:spatchcock
+
+w: @en_spatchcock 1
+d: @en_prepare for eating if or as if a spatchcock
+fs: 8
+hypo: confabular
+mt: noun.act:cozinha
+sa: @en:verb.creation:spatchcock 1
+
+w: @en_spell_out
+d: @en_spell fully and without abbreviating
+fs: 8
+hypo: escrever 2
+sa: @en:verb.creation:spell_out
+
+w: @en_spin
+d: @en_make up a story
+fs: 8
+hypo: inventar 4
+sa: @en:verb.creation:spin 1
+
+w: @en_spondaise
+w: @en_spondaize
+d: @en_make spondaic
+fs: 8
+hypo: versar
+mt: noun.communication:Poemas
+sa: @en:verb.creation:spondaise
+
+w: @en_sporulate
+d: @en_produce spores
+fs: 1
+hypo: fazer 13
+mt: noun.cognition:Botanica
+sa: @en:verb.creation:sporulate
+vg: verb.change:@en_sporulate
+
+w: @en_stage_direct
+d: @en_direct for the stage
+fs: 8
+hypo: dirigir
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:stage_direct
+
+w: @en_stamp
+d: @en_form or cut out with a mold, form, or die
+fs: 8
+hypo: formar
+sa: @en:verb.creation:stamp
+
+w: @en_stencil
+d: @en_mark or print with a stencil
+fs: 8
+hypo: imprimir
+mt: noun.act:arte
+sa: @en:verb.creation:stencil
+
+w: @en_stenograph
+d: @en_write in shorthand
+fs: 2
+hypo: escrever 3
+sa: @en:verb.creation:stenograph
+
+w: @en_stipple
+d: @en_engrave by means of dots and flicks
+fs: 8
+hypo: entalhar
+mt: noun.act:arte
+sa: @en:verb.creation:stipple
+
+w: @en_stipple 1
+d: @en_apply (paint) in small dots or strokes
+fs: 8
+hypo: pincelar
+sa: @en:verb.creation:stipple 2
+
+w: @en_stipple 2
+d: @en_make by small short touches that together produce an even or softly graded shadow, as in paint or ink
+fs: 8
+hypo: pincelar
+mt: noun.act:arte
+sa: @en:verb.creation:stipple 1
+
+w: @en_stooge
+d: @en_act as the stooge
+fs: 2
+hypo: actuar
+mt: noun.communication:Dramaturgia
+sa: @en:verb.creation:stooge
+
+w: @en_streamline
+d: @en_contour economically or efficiently
+fs: 8
+hypo: contornar
+sa: @en:verb.creation:streamline
+
+w: @en_strike_up 1
+d: @en_begin
+fs: 8
+hypo: empreender 1
+sa: @en:verb.creation:strike_up
+
+w: @en_stucco
+d: @en_decorate with stucco work
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:stucco
+
+w: @en_stunt
+d: @en_perform a stunt or stunts
+fs: 2
+hypo: desempenhar 1
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:stunt
+
+w: @en_superscribe
+d: @en_write on the top or outside
+fs: 8
+hypo: escrever 3
+sa: @en:verb.creation:superscribe 1
+
+w: @en_surcharge
+d: @en_print a new denomination on a stamp or a banknote
+fs: 8
+hypo: @en_overprint
+sa: @en:verb.creation:surcharge
+
+w: @en_symphonise
+w: @en_symphonize
+d: @en_play or sound together, in harmony
+fs: 2 1
+hypo: tocar 4
+mt: noun.act:música
+sa: @en:verb.creation:symphonise
+
+w: @en_tag
+d: @en_supply (blank verse or prose) with rhymes
+fs: 8
+hypo: rimar
+mt: noun.communication:Poemas
+sa: @en:verb.creation:tag
+
+w: @en_take_off
+d: @en_mimic or imitate in an amusing or satirical manner
+fs: 9 11 8 10
+hypo: copiar 1
+sa: @en:verb.creation:take_off
+
+w: @en_tap_dance
+d: @en_perform a tap dance
+fs: 2
+hypo: dançar
+mt: noun.act:baile
+mt: noun.communication:baile
+sa: @en:verb.creation:tap_dance
+
+w: @en_tart_up
+d: @en_decorate in a cheap and flashy way
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:tart_up
+
+w: @en_tee_up
+d: @en_make detailed arrangements or preparations
+fs: 8
+hypo: arranjar
+sa: @en:verb.creation:tee_up
+
+w: @en_think
+d: @en_imagine or visualize
+fs: 2
+hypo: conjecturar
+sa: @en:verb.creation:think
+
+w: @en_throw 2
+d: @en_make on a potter's wheel
+fs: 8
+hypo: formar
+sa: @en:verb.creation:throw
+
+w: @en_tie
+d: @en_make by tying pieces together
+fs: 8
+hypo: @en_fashion
+sa: @en:verb.creation:tie
+
+w: @en_tinsel
+d: @en_adorn with tinsel
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:tinsel
+
+w: @en_tongue
+d: @en_articulate by tonguing, as when playing wind instruments
+fs: 2 8
+hyper: @en_double_tongue
+hypo: executar 4
+mt: noun.act:música
+mt: noun.cognition:música 1
+sa: @en:verb.creation:tongue
+
+w: @en_tool
+d: @en_work with a tool
+fs: 8
+hypo: trabalhar
+sa: @en:verb.creation:tool
+
+w: @en_track
+d: @en_make tracks upon
+fs: 8
+hypo: causar 1
+sa: @en:verb.creation:track
+
+w: @en_transcribe
+d: @en_rewrite or arrange a piece of music for an instrument or medium other than that originally intended
+fs: 8
+hypo: verb.change:adaptar 1
+mt: noun.cognition:eufonia
+sa: @en:verb.creation:transcribe
+
+w: @en_transpose
+d: @en_put (a piece of music) into another key
+fs: 8
+hypo: @en_arrange
+mt: noun.communication:música
+sa: @en:verb.creation:transpose
+
+w: @en_travesty
+d: @en_make a travesty of
+fs: 8
+hypo: verb.communication:arremedar
+sa: @en:verb.creation:travesty
+
+w: @en_triplicate
+d: @en_reproduce threefold
+fs: 8
+hypo: reproduzir
+sa: @en:verb.creation:triplicate
+
+w: @en_troll
+d: @en_sing the parts of (a round) in succession
+fs: 8
+hypo: cantar
+mt: noun.act:música
+sa: @en:verb.creation:troll
+
+w: @en_turn_out
+d: @en_produce quickly or regularly, usually with machinery
+fs: 11 8
+hypo: construir 3
+sa: @en:verb.creation:turn_out 1
+
+w: @en_tweedle
+d: @en_play negligently on a musical instrument
+fs: 2
+hypo: tocar 3
+mt: noun.act:música
+sa: @en:verb.creation:tweedle
+
+w: @en_twill
+d: @en_weave diagonal lines into (textiles)
+fs: 8
+hypo: tecer 2
+sa: @en:verb.creation:twill
+
+w: @en_typecast
+d: @en_cast repeatedly in the same kind of role
+fs: 9
+hypo: eleger
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:typecast
+
+w: @en_underact
+w: @en_underplay
+d: @en_act (a role) with great restraint
+fs: 2 8
+hypo: actuar
+mt: noun.communication:Dramaturgia
+sa: @en:verb.creation:underact
+
+w: @en_underperform
+d: executar muito raramente
+e: Suas peças são raramente executadas, mas elas são muito boas.
+fs: 8
+hypo: apresentar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:underperform
+
+w: @en_underproduce
+d: @en_produce below capacity or demand
+fs: 1 8 11
+hypo: construir 3
+sa: @en:verb.creation:underproduce
+
+w: @en_vamp
+w: @en_vamp_up
+d: inventar
+fs: 8
+hypo: inventar 4
+sa: @en:verb.creation:vamp
+
+w: @en_vein
+d: @en_make a veinlike pattern
+fs: 8
+hypo: verb.change:colorir
+sa: @en:verb.creation:vein
+
+w: @en_vermiculate
+d: @en_decorate with wavy or winding lines
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:vermiculate
+
+w: @en_walk_through
+d: @en_perform in a perfunctory way, as for a first rehearsal
+fs: 8
+hypo: ensaiar
+sa: @en:verb.creation:walk_through
+
+w: @en_watercolor
+w: @en_watercolour
+d: @en_paint with watercolors
+fs: 8
+hypo: pincelar
+mt: noun.act:arte
+sa: @en:verb.creation:watercolor
+
+w: @en_wattle
+d: @en_build of or with wattle
+fs: 8
+hypo: construir 5
+mt: noun.act:construção 1
+sa: @en:verb.creation:wattle
+
+w: @en_write_about
+w: @en_write_of
+w: @en_write_on
+d: @en_write about a particular topic
+fs: 8 9
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:write_about
+
+w: @en_write_copy
+d: @en_write for commercial publications
+fs: 2
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:write_copy
+
+w: @en_write_off
+d: @en_write something fluently, and without hesitation
+fs: 8
+hypo: compor 3
+sa: @en:verb.creation:write_off
+
+w: @en_write_out
+w: @en_write_up
+d: @en_put into writing; write in complete form
+fs: 8
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:write_out
+
+w: Nódulo
+w: amarrar
+w: amarrar_em_nós
+d: fazer nós
+fs: 8
+hyper: @en_macrame
+hypo: confeccionar 1
+sa: @en:verb.creation:knot
+
+w: abrir_uma_ação
+w: instaurar
+w: instaurar_um_processo
+w: instituir
+d: @en_advance or set forth in court
+e: instituir procedimentos
+fs: 8
+hypo: causar 1
+sa: @en:verb.creation:bring 1
+
+w: acender
+w: fazer
+d: reunir e acender os materiais para
+fs: 8
+hypo: confeccionar 1
+sa: @en:verb.creation:make 10
+vg: verb.change:arrumar 2
+vg: cozinhar
+
+w: achar
+w: descobrir
+d: @en_make a discovery, make a new finding
+fs: 8 26
+hypo: conceber
+sa: @en:verb.creation:discover
+vg: verb.cognition:descobrir 2
+vg: verb.communication:achar
+vg: verb.perception:achar
+
+w: acompanhar
+d: @en_perform an accompaniment to
+fs: 9 8
+hypo: tocar 4
+mt: noun.act:música
+sa: @en:verb.creation:accompany
+
+w: activar
+w: desencadear
+d: @en_put in motion or move to act
+fs: 11 8
+cause: verb.change:acontecer 6
+hypo: empreender 1
+sa: @en:verb.creation:activate
+
+w: actuar
+w: atuar
+w: fazer 1
+w: representar
+d: @en_perform on a stage or theater
+fs: 2
+hyper: @en_ham
+hyper: @en_mime
+hyper: @en_stooge
+hyper: @en_underact
+hypo: apresentar
+mt: noun.communication:Dramaturgia
+sa: @en:verb.creation:act 3
+vg: atuar 1
+vg: passar
+vg: performar
+vg: verb.stative:@en_act
+
+w: adornar
+d: @en_decorate with heraldic arms
+fs: 8
+hypo: adornar 1
+mt: noun.act:arte
+sa: @en:verb.creation:blazon
+
+w: adornar 1
+w: decorar
+w: embelezar
+w: empetecar
+w: enfeitar
+w: ornamentar
+w: ornar
+d: tornar mais atraente ao adicionar ornamento, cor, etc
+fs: 11 8
+hyper: verb.contact:@en_wreathe
+hyper: verb.contact:incrustar
+hyper: verb.contact:trançar 4
+hyper: @en_applique
+hyper: @en_bard
+hyper: @en_bedizen
+hyper: @en_begild
+hyper: @en_bejewel
+hyper: @en_bespangle
+hyper: @en_dress_ship
+hyper: @en_filet
+hyper: @en_flag
+hyper: @en_foliate 1
+hyper: @en_fret 1
+hyper: @en_fringe
+hyper: @en_garland
+hyper: @en_gild_the_lily
+hyper: @en_illuminate
+hyper: @en_lacquer
+hyper: @en_panel
+hyper: @en_pipe
+hyper: @en_prank
+hyper: @en_redecorate
+hyper: @en_scallop 1
+hyper: @en_smock
+hyper: @en_stucco
+hyper: @en_tart_up
+hyper: @en_tinsel
+hyper: @en_vermiculate
+hyper: adornar
+hyper: adornar 2
+hyper: adornar 3
+hyper: adornar 4
+hyper: ajardinar
+hyper: bordar
+hyper: colocar_na_parede
+hyper: decorar 1
+hyper: emplumar
+hyper: encrustar
+hyper: esmaltar
+hyper: espetar
+hyper: festonar
+hyper: ilustrar 1
+hyper: miçangar
+hypo: verb.change:alterar 2
+sa: @en:verb.creation:adorn
+vg: verb.stative:adornar 1
+
+w: adornar 2
+w: enfeitar 1
+d: @en_decorate
+fs: 17 8 21
+hyper: @en_plume
+hypo: adornar 1
+sa: @en:verb.creation:bedeck
+
+w: adornar 3
+w: enfeitar 2
+d: @en_decorate (food), as with parsley or other ornamental foods
+fs: 8 11
+hypo: adornar 1
+sa: @en:verb.creation:dress
+vg: verb.change:@en_dress 1
+vg: verb.contact:@en_dress 1
+
+w: adornar 4
+w: colorir
+d: @en_decorate with colors
+fs: 8 11
+hyper: @en_miniate
+hypo: adornar 1
+sa: @en:verb.creation:color 1
+
+w: afigurar
+w: envisionar
+w: figurar
+w: ver
+w: visualizar
+d: imaginar; conceber; ver  na imaginacao
+fs: 26 8
+hypo: conjecturar
+sa: @en:verb.creation:envision
+vg: verb.cognition:compreender 2
+vg: visualizar 1
+
+w: ajardinar
+d: @en_embellish with plants
+fs: 8
+hypo: adornar 1
+mt: noun.act:horticultura
+sa: @en:verb.creation:landscape 1
+vg: @en_landscape
+
+w: alterar
+w: consertar
+d: fazer uma alteração, um conserto
+fs: 8
+entail: confeccionar
+hypo: verb.change:alterar 2
+sa: @en:verb.creation:alter
+
+w: amanhar
+w: cultivar
+w: plantar
+d: @en_foster the growth of
+fs: 8
+hyper: fazer 16
+mt: noun.act:agricultura 3
+sa: @en:verb.creation:cultivate
+
+w: amarrar 1
+d: @en_tie or link together
+fs: 8 21
+hyper: @en_intertwine 1
+hyper: @en_purl_stitch
+hypo: verb.contact:juntar 6
+sa: @en:verb.creation:entwine
+
+w: amoldar
+w: modelar
+w: plasmar
+d: modelar em argila, cera, etc
+fs: 8
+hypo: formar
+mt: noun.act:arte
+sa: @en:verb.creation:model
+
+w: anotar
+w: fazer_notas_ou_comentários
+d: @en_add explanatory notes to or supply with critical comments
+fs: 8
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:annotate
+
+w: antever
+w: prever
+w: visionar
+d: @en_picture to oneself; imagine possible
+fs: 8 26
+hypo: conjecturar
+sa: @en:verb.creation:envision 1
+
+w: apagar
+w: eliminar
+d: @en_eliminate completely and without a trace
+fs: 11 10 9 8
+hypo: destruir 3
+sa: @en:verb.creation:sweep_away
+
+w: apresentar
+w: desempenhar
+w: fazer 2
+d: @en_give a performance (of something)
+fs: 22 8 2
+hyper: verb.competition:@en_barnstorm
+hyper: verb.competition:@en_barnstorm 1
+hyper: @en_audition
+hyper: @en_concertise
+hyper: @en_give 3
+hyper: @en_grandstand
+hyper: @en_interlude
+hyper: @en_play_out
+hyper: @en_rap
+hyper: @en_sight-read
+hyper: @en_solo
+hyper: @en_underperform
+hyper: actuar
+hyper: conduzir
+hyper: lançado
+hyper: performar
+hyper: tocar 4
+hypo: recriar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:perform 1
+
+w: apresentar 1
+w: encenar
+d: @en_perform (a play), especially on a stage
+fs: 8
+hyper: localizar
+hypo: recriar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:present
+
+w: arar
+w: estevar
+w: lavrar
+d: revirar e preparar a terra, especialmente com um arado
+e: lavrar a terra na primavera
+fs: 2 8
+entail: verb.contact:cavar 2
+hyper: @en_ridge
+hyper: estorrar
+hypo: arar 1
+mt: noun.act:agricultura 3
+sa: @en:verb.creation:plough
+
+w: arar 1
+w: lavrar 1
+d: @en_work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation
+fs: 2 8
+entail: cultivar 1
+hyper: @en_hoe
+hyper: arar
+hypo: trabalhar
+mt: noun.act:agricultura 3
+sa: @en:verb.creation:till
+
+w: arquitetar
+w: criar
+d: @en_create the design for; create or execute in an artistic or highly skilled manner
+fs: 8
+hyper: @en_cut 2
+hyper: desenhar 1
+hypo: criar 4
+sa: @en:verb.creation:design 1
+vg: arquitetar 2
+
+w: arquitetar 1
+w: inventar
+w: planear
+w: planejar
+w: projetar
+d: fazer ou elaborar um plano para; conceber
+fs: 8 28
+hyper: @en_concert
+hyper: @en_map 2
+hyper: @en_plot
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:contrive 1
+
+w: arquitetar 2
+w: criar 1
+w: desenhar
+d: criar projetos
+fs: 2
+hypo: criar 4
+sa: @en:verb.creation:design 7
+vg: arquitetar
+
+w: arranjar
+w: realizar
+d: planejar, organizar e realizar (um evento)
+e: A tribo vizinha organizou uma invasao.
+fs: 8
+hyper: @en_dogfight
+hyper: @en_tee_up
+hyper: fasear
+hypo: empreender 1
+sa: @en:verb.creation:arrange 3
+
+w: arrasar
+w: demolir
+d: @en_tear down so as to make flat with the ground
+fs: 8 11
+hyper: verb.contact:arrasar
+hypo: destruir 3
+sa: @en:verb.creation:dismantle 2
+
+w: assar
+d: @en_prepare with dry heat in an oven
+fs: 2 8
+hypo: confeccionar 1
+sa: @en:verb.creation:bake
+
+w: atalhar
+d: @en_create a short circuit in
+fs: 8 11
+hypo: causar 1
+sa: @en:verb.creation:short
+
+w: atingir
+w: cumprir
+w: efetuar
+w: executar
+w: levar_a_cabo
+w: realizar 1
+d: @en_put in effect
+fs: 8
+hyper: @en_get_over
+hyper: @en_run 1
+hyper: consumar
+hyper: consumar 1
+hyper: verb.social:cumprir
+hyper: verb.social:cumprir 1
+hypo: verb.change:acabar 4
+hypo: efetuar 1
+sa: @en:verb.creation:accomplish
+vg: verb.change:executar
+
+w: atuar 1
+w: representar 1
+d: desempenhar um papel ou parte
+fs: 9 8 2
+hyper: verb.communication:atuar
+hyper: coadjuvar
+hyper: efetivar
+hyper: parodiar
+hyper: personificar
+hyper: reencenar
+hyper: verb.emotion:emocionar 1
+hypo: recriar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:act
+vg: verb.body:simular
+vg: actuar
+vg: brincar
+
+w: autodestruir
+d: @en_do away with oneself or itself
+fs: 2 1
+hypo: destruir 3
+sa: @en:verb.creation:self-destroy
+
+w: balançar
+w: requebrar
+d: @en_play with a subtle and intuitively felt sense of rhythm
+fs: 2
+hypo: tocar 4
+mt: noun.communication:música
+sa: @en:verb.creation:swing 3
+
+w: bater
+d: @en_produce a rhythm by striking repeatedly
+fs: 8
+hypo: tocar 3
+mt: noun.communication:música
+sa: @en:verb.creation:beat 5
+vg: verb.motion:@en_beat
+
+w: bordar
+w: recamar
+d: @en_decorate with needlework
+fs: 8
+entail: verb.contact:bordar
+hyper: @en_faggot
+hyper: @en_purl
+hyper: @en_purl 2
+hypo: adornar 1
+sa: @en:verb.creation:broider
+
+w: bosquejar
+w: delinear
+w: rascunhar
+d: @en_make a sketch of
+fs: 8
+hypo: desenhar 3
+mt: noun.act:arte
+sa: @en:verb.creation:chalk_out
+
+w: brincar
+w: fingir
+d: fingir ser alguém no âmbito de um jogo ou atividade lúdica
+fs: 26 9 8
+hypo: fingir 2
+sa: @en:verb.creation:play 6
+vg: atuar 1
+
+w: cantar
+d: @en_deliver by singing
+fs: 8
+hyper: @en_carol
+hyper: @en_hymn
+hyper: @en_madrigal
+hyper: @en_troll
+hyper: solfar
+hypo: cantar 1
+hypo: interpretar
+mt: noun.act:música
+sa: @en:verb.creation:sing 1
+vg: verb.communication:cantar
+
+w: cantar 1
+d: @en_produce tones with the voice
+fs: 27 22 2
+hyper: verb.communication:@en_place
+hyper: verb.communication:@en_treble
+hyper: verb.communication:@en_troll
+hyper: verb.communication:cantar 4
+hyper: verb.communication:cantar_à_tirolesa
+hyper: verb.communication:cantarolar
+hyper: verb.communication:cantarolar 1
+hyper: verb.communication:trinar 1
+hyper: @en_belt
+hyper: @en_choir
+hyper: @en_descant
+hyper: @en_descant_on
+hyper: @en_minstrel
+hyper: @en_sing_along
+hyper: @en_solmizate
+hyper: cantar
+hyper: harmonizar
+hyper: piar
+hyper: salmo
+hyper: vocalizar
+hypo: verb.communication:conversar 3
+mt: noun.act:música
+sa: @en:verb.creation:sing
+
+w: capturar
+d: @en_succeed in representing or expressing something intangible
+fs: 11 8
+hyper: @en_recapture
+hypo: figurar 1
+sa: @en:verb.creation:capture
+
+w: caracter_alfabético
+d: @en_set down or print with letters
+fs: 8
+hypo: imprimir 1
+sa: @en:verb.creation:letter 1
+
+w: catalogar
+d: @en_make a catalogue, compile a catalogue
+fs: 2
+hypo: compilar 1
+sa: @en:verb.creation:catalog
+
+w: causar
+w: fazer 3
+w: produzir
+w: provocar
+d: @en_cause to happen, occur or exist
+fs: 11
+hyper: @en_induce 1
+hyper: verb.stative:deixar 1
+hypo: causar 1
+sa: @en:verb.creation:bring_about 3
+
+w: causar 1
+w: construir
+w: criar 2
+w: provocar 1
+w: realizar 2
+d: @en_make or cause to be or to become
+fs: 8 11
+hyper: verb.body:conceber 1
+hyper: verb.body:gerar 2
+hyper: verb.change:@en_clear
+hyper: verb.change:@en_froth
+hyper: verb.change:derivar
+hyper: verb.change:destilar 3
+hyper: verb.change:regenerar 5
+hyper: verb.cognition:estabelecer
+hyper: verb.contact:@en_cleave
+hyper: verb.contact:@en_twine
+hyper: verb.contact:furar 5
+hyper: @en_arouse
+hyper: @en_chop
+hyper: @en_create_by_mental_act
+hyper: @en_create_verbally
+hyper: @en_cut 1
+hyper: @en_establish
+hyper: @en_film-make
+hyper: @en_give 4
+hyper: @en_grind 1
+hyper: @en_offset
+hyper: @en_press
+hyper: @en_raise 1
+hyper: @en_recreate
+hyper: @en_scrape
+hyper: @en_track
+hyper: abrir_uma_ação
+hyper: atalhar
+hyper: causar
+hyper: causar 4
+hyper: começar
+hyper: compor 1
+hyper: compor 2
+hyper: concretizar
+hyper: confeccionar 1
+hyper: construir 4
+hyper: construir 5
+hyper: copiar 2
+hyper: coreografar
+hyper: cortar
+hyper: criar 4
+hyper: dar
+hyper: dinamitar
+hyper: dirigir
+hyper: engendrar
+hyper: estilizar
+hyper: executar 3
+hyper: fazer 13
+hyper: fazer 17
+hyper: fazer_caminho
+hyper: filmar
+hyper: manufaturar
+hyper: preparar 2
+hyper: recriar
+hyper: riscar 1
+hyper: verb.emotion:concitar
+hyper: verb.social:@en_incorporate
+hyper: verb.social:organizar 1
+sa: @en:verb.creation:create
+
+w: causar 2
+d: @en_give occasion to
+fs: 11
+hyper: incutir
+hypo: causar 4
+sa: @en:verb.creation:occasion
+
+w: causar 3
+w: incitar
+d: @en_evoke or provoke to appear or occur
+fs: 8 11
+hyper: @en_pick
+hypo: causar 4
+sa: @en:verb.creation:call_forth 1
+vg: @en_arouse
+
+w: causar 4
+w: fazer 4
+w: provocar 2
+d: @en_give rise to; cause to happen or occur, not always intentionally
+fs: 8 11
+hyper: verb.cognition:determinar
+hyper: @en_make 1
+hyper: causar 2
+hyper: causar 3
+hyper: desovar
+hyper: efetuar 1
+hyper: empreender 1
+hyper: estimular
+hyper: facilitar
+hyper: impelir
+hypo: causar 1
+sa: @en:verb.creation:cause
+
+w: citar
+d: @en_refer to
+fs: 8 9
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:cite
+
+w: clonar
+d: @en_make multiple identical copies of
+fs: 9 8
+hypo: copiar 2
+sa: @en:verb.creation:clone
+
+w: coadjuvar
+d: desempenhar um papel subordinado ao (outro artista)
+fs: 9
+hypo: atuar 1
+mt: noun.communication:Dramaturgia
+sa: @en:verb.creation:support
+
+w: colocar_hífen
+d: @en_divide or connect with a hyphen
+fs: 8
+hypo: escrever 2
+sa: @en:verb.creation:hyphen
+
+w: colocar_na_parede
+w: pendurar
+d: decorar ou mobiliar com algo suspenso
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:hang
+
+w: começar
+w: originar
+w: provir
+w: tomar_a_iniciativa
+d: @en_bring into being
+fs: 11 8
+hyper: verb.change:@en_initiate
+hyper: @en_set 2
+hyper: verb.stative:remontar
+hypo: causar 1
+sa: @en:verb.creation:initiate 1
+
+w: começar 1
+w: iniciar
+d: @en_get off the ground
+fs: 8 11
+hyper: verb.social:abrir 1
+hyper: verb.social:inaugurar
+hypo: verb.change:começar 6
+sa: @en:verb.creation:commence
+
+w: compatibilizar
+d: @en_write a harmony for
+fs: 8
+hyper: @en_realise
+hyper: @en_reharmonise
+hypo: compor 2
+mt: noun.cognition:eufonia
+sa: @en:verb.creation:harmonise 1
+
+w: compilar
+d: @en_use a computer program to translate source code written in a particular programming language into computer-readable machine code that can be executed
+fs: 8
+hypo: fabricar 1
+sa: @en:verb.creation:compile 1
+
+w: compilar 1
+w: compor
+d: colocar juntos extraindo de material existente
+fs: 8 21
+hyper: @en_anthologise
+hyper: @en_cobble_together
+hyper: catalogar
+hypo: fabricar 1
+sa: @en:verb.creation:compile
+
+w: compor 1
+w: montar
+w: reunir
+d: @en_create by putting components or members together
+fs: 8 10 11
+hyper: @en_compound
+hyper: @en_reassemble
+hyper: @en_rig_up
+hyper: confeccionar 2
+hyper: configurar
+hyper: confundir
+hypo: verb.contact:acoplar 1
+hypo: causar 1
+sa: @en:verb.creation:assemble
+
+w: compor 2
+w: escrever
+d: @en_write music
+fs: 2 8
+hyper: @en_arrange
+hyper: @en_counterpoint
+hyper: @en_instrument
+hyper: @en_melodise
+hyper: @en_score
+hyper: @en_set_to_music
+hyper: compatibilizar
+hypo: causar 1
+mt: noun.communication:música
+sa: @en:verb.creation:compose 3
+
+w: compor 3
+w: escrever 1
+d: produzir uma obra literária
+fs: 8
+entail: escrever 2
+hyper: @en_adopt
+hyper: @en_draft 1
+hyper: @en_draw
+hyper: @en_lyric
+hyper: @en_paragraph
+hyper: @en_paragraph 1
+hyper: @en_profile
+hyper: @en_rewrite
+hyper: @en_write_about
+hyper: @en_write_copy
+hyper: @en_write_off
+hyper: @en_write_out
+hyper: anotar
+hyper: citar
+hyper: derrubar
+hyper: escrever 5
+hyper: escrever_um_roteiro_para
+hyper: versar
+hypo: @en_create_verbally
+mt: noun.act:autoria
+sa: @en:verb.creation:compose 1
+vg: escrever 4
+
+w: computadorizar
+d: controlar uma função, um processo, ou a criação de alguma coisa através de um computador
+fs: 8
+hypo: verb.social:@en_put_to_work
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.creation:computerise
+
+w: conceber
+w: conceitualizar
+d: @en_have the idea for
+fs: 22 8
+hyper: achar
+hyper: inventar 2
+hyper: pré-conceber
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:conceive
+
+w: concretizar
+w: realizar 3
+d: @en_make real or concrete; give reality or substance to
+fs: 8
+hyper: encarnar
+hyper: verb.perception:@en_express
+hypo: causar 1
+sa: @en:verb.creation:actualise
+
+w: conduzir
+w: reger
+d: liderar músicos  no desempenho de uma obra
+fs: 8
+hypo: apresentar
+mt: noun.act:música
+sa: @en:verb.creation:conduct 4
+vg: conduzir 1
+
+w: conduzir 1
+w: reger 1
+d: conduzir, como no desempenho de uma composição
+fs: 8
+hypo: desempenhar 1
+mt: noun.act:música
+sa: @en:verb.creation:conduct
+vg: conduzir
+
+w: confabular
+w: organizar
+d: @en_arrange by systematic planning and united effort
+fs: 8
+hyper: @en_embattle
+hyper: @en_lay
+hyper: @en_mount
+hyper: @en_sandwich
+hyper: @en_set_up
+hyper: @en_spatchcock 1
+hypo: empreender 1
+sa: @en:verb.creation:devise 1
+
+w: confabular 1
+d: @en_unconsciously replace fact with fantasy in one's memory
+fs: 2 8
+hypo: inventar 4
+mt: noun.cognition:Psicopatologias
+sa: @en:verb.creation:confabulate 3
+
+w: confeccionar
+w: coser
+w: costurar
+d: @en_create (clothes) with cloth
+fs: 8 2
+hyper: @en_quilt
+hyper: @en_run_up
+hypo: @en_fashion
+sa: @en:verb.creation:sew
+
+w: confeccionar 1
+w: construir 1
+w: fabricar
+d: @en_make from scratch
+fs: 8
+hyper: verb.change:@en_reform 1
+hyper: @en_brew
+hyper: @en_crochet
+hyper: @en_dip
+hyper: @en_formulate
+hyper: @en_intertwine
+hyper: Nódulo
+hyper: acender
+hyper: assar
+hyper: cozinhar
+hyper: cozinhar 1
+hyper: cunhar 1
+hyper: fabricar 1
+hyper: fazer_meias
+hyper: formar
+hyper: tecer 1
+hyper: tecer 2
+hypo: causar 1
+sa: @en:verb.creation:create_from_raw_material
+
+w: confeccionar 2
+d: @en_make into a confection
+fs: 8
+hypo: compor 1
+sa: @en:verb.creation:comfit
+
+w: configurar
+d: @en_set up for a particular purpose
+fs: 8
+hypo: compor 1
+sa: @en:verb.creation:configure
+
+w: confundir
+w: misturar
+d: @en_assemble without order or sense
+fs: 8
+hyper: verb.cognition:atabalhoar
+hypo: compor 1
+sa: @en:verb.creation:confuse
+vg: verb.cognition:confundir 3
+
+w: conjecturar
+w: conjeturar
+w: imaginar
+w: pensar
+d: formar uma imagem mental de algo que não está presente ou não é o caso
+fs: 26 8
+hyper: @en_prefigure
+hyper: @en_think
+hyper: afigurar
+hyper: antever
+hyper: desejar
+hyper: sonhar 1
+hyper: sonhar 2
+hyper: visualizar 1
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:conceive_of 1
+
+w: constituir
+w: estabelecer
+w: fundar
+d: criar ou estabelecer as bases
+fs: 8
+hyper: @en_fix
+hyper: verb.social:nomear 2
+hypo: empreender 1
+sa: @en:verb.creation:constitute
+
+w: construir 2
+w: erigir
+d: @en_construct, build, or erect
+fs: 8
+hypo: construir 5
+mt: noun.act:construção 1
+sa: @en:verb.creation:erect
+
+w: construir 3
+w: criar 3
+w: fazer 5
+w: produzir 1
+d: @en_create or manufacture a man-made product
+fs: 11 8
+hyper: verb.contact:criar
+hyper: @en_bootleg
+hyper: @en_burn
+hyper: @en_churn_out 1
+hyper: @en_clap_together
+hyper: @en_confect
+hyper: @en_custom-make
+hyper: @en_dummy
+hyper: @en_extrude
+hyper: @en_fudge_together
+hyper: @en_machine
+hyper: @en_output
+hyper: @en_preassemble
+hyper: @en_prefabricate 1
+hyper: @en_proof
+hyper: @en_pulsate
+hyper: @en_put_out
+hyper: @en_smelt
+hyper: @en_turn_out
+hyper: @en_underproduce
+hyper: construir 9
+hyper: editar
+hyper: fazer 14
+hyper: fazer 15
+hyper: laminar
+hyper: refazer
+hyper: reproduzir
+hyper: superproduzir
+sa: @en:verb.creation:create 3
+vg: criar 4
+
+w: construir 4
+w: estabelecer 1
+d: construir ou estabelecer algo abstrato
+fs: 8
+hypo: causar 1
+sa: @en:verb.creation:build 9
+
+w: construir 5
+w: edificar
+d: @en_make by combining materials and parts
+fs: 8
+hyper: verb.change:personalizar
+hyper: verb.contact:@en_revet
+hyper: @en_cantilever
+hyper: @en_channelise
+hyper: @en_corduroy
+hyper: @en_dry-wall
+hyper: @en_frame
+hyper: @en_groin
+hyper: @en_lock
+hyper: @en_wattle
+hyper: construir 2
+hyper: reconstruir
+hypo: causar 1
+sa: @en:verb.creation:build
+vg: @en_build
+
+w: construir 6
+d: @en_give form to, according to a plan
+fs: 8 11
+hypo: criar 5
+sa: @en:verb.creation:build 4
+
+w: construir 7
+d: @en_create by organizing and linking ideas, arguments, or concepts
+fs: 8
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:construct 2
+
+w: construir 8
+d: @en_create by linking linguistic units
+fs: 8
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:construct 3
+
+w: construir 9
+w: elaborar
+d: @en_produce from basic elements or sources; change into a more developed product
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:elaborate
+
+w: consumar
+d: @en_make perfect; bring to perfection
+fs: 8
+hypo: atingir
+sa: @en:verb.creation:consummate
+
+w: consumar 1
+d: @en_fulfill sexually
+fs: 8
+entail: verb.contact:comer
+hypo: atingir
+sa: @en:verb.creation:consummate 1
+
+w: contornar
+d: @en_form the contours of
+fs: 8 11
+hyper: @en_streamline
+hypo: delinear 1
+sa: @en:verb.creation:contour
+
+w: contrafazer
+w: falsificar
+d: @en_make a copy of with the intent to deceive
+fs: 8
+hypo: recriar
+sa: @en:verb.creation:counterfeit
+
+w: copiar
+w: imitar
+d: @en_make a reproduction or copy of
+fs: 8
+hypo: copiar 2
+sa: @en:verb.creation:imitate 3
+
+w: copiar 1
+w: imitar 1
+w: simular
+d: @en_reproduce someone's behavior or looks
+fs: 8
+hyper: verb.change:@en_conform_to
+hyper: verb.communication:simular 1
+hyper: @en_follow
+hyper: @en_model
+hyper: @en_take_off
+hyper: imitar 2
+hyper: verb.stative:copiar
+hypo: reproduzir
+sa: @en:verb.creation:copy
+
+w: copiar 2
+d: @en_make a replica of
+fs: 8
+hyper: verb.change:@en_manifold
+hyper: @en_back_up
+hyper: @en_hectograph
+hyper: @en_mimeo
+hyper: @en_roneo
+hyper: clonar
+hyper: copiar
+hyper: traçar 1
+hypo: causar 1
+sa: @en:verb.creation:copy 1
+
+w: coreografar
+d: @en_compose a sequence of dance steps, often to music
+fs: 2 8
+hypo: causar 1
+mt: noun.communication:baile
+sa: @en:verb.creation:choreograph
+
+w: cortar
+w: recortar
+d: @en_form or shape by cutting or incising
+fs: 11 8
+hypo: causar 1
+sa: @en:verb.creation:cut 11
+vg: @en_cut 1
+
+w: cozinhar
+w: preparar
+d: @en_prepare for eating by applying heat
+fs: 8
+hyper: verb.change:@en_dress 1
+hyper: verb.change:conservar
+hyper: @en_concoct
+hyper: @en_deglaze
+hyper: @en_devil
+hyper: @en_escallop
+hyper: @en_flambe
+hyper: @en_lard
+hyper: @en_precook
+hyper: @en_put_on 1
+hyper: improvisar 1
+hypo: confeccionar 1
+sa: @en:verb.creation:cook
+vg: acender
+
+w: cozinhar 1
+w: preparar 1
+d: @en_prepare a hot meal
+fs: 2
+entail: verb.change:cozinhar
+hypo: confeccionar 1
+mt: noun.act:cozinha
+sa: @en:verb.creation:cook 1
+
+w: criar 4
+w: fazer 6
+w: instituir 1
+d: @en_create by artistic means
+fs: 8
+hyper: arquitetar
+hyper: arquitetar 2
+hyper: fazer 12
+hypo: causar 1
+sa: @en:verb.creation:create 13
+vg: construir 3
+
+w: criar 5
+w: desenvolver
+w: fazer 7
+d: @en_make something new, such as a product or a mental or artistic creation
+fs: 8 11
+hyper: construir 6
+hypo: criar 6
+sa: @en:verb.creation:develop 1
+vg: desenvolver 1
+
+w: criar 6
+d: @en_bring into existence
+fs: 8 11
+hyper: @en_carve_out
+hyper: criar 5
+hyper: inventar_de_novo
+sa: @en:verb.creation:create 2
+
+w: criar 7
+w: fazer 8
+d: @en_pursue a creative activity; be engaged in a creative activity
+fs: 2
+hyper: @en_build
+hyper: @en_draw 1
+hyper: pincelar
+hypo: verb.social:agir
+sa: @en:verb.creation:create 1
+
+w: cultivar 1
+d: @en_prepare for crops
+fs: 8
+hyper: @en_overcrop
+hypo: verb.change:aprontar
+mt: noun.act:agricultura 3
+sa: @en:verb.creation:crop 1
+vg: verb.contact:amassar 2
+
+w: cunhar
+d: @en_make up
+fs: 8
+hyper: @en_sloganeer
+hypo: @en_create_verbally
+sa: @en:verb.creation:coin 1
+
+w: cunhar 1
+d: @en_form by stamping, punching, or printing
+fs: 8
+hypo: confeccionar 1
+sa: @en:verb.creation:coin
+
+w: dançar
+d: @en_move in a pattern; usually to musical accompaniment; do or perform a dance
+fs: 22 8
+hyper: @en_belly_dance
+hyper: @en_clog
+hyper: @en_heel
+hyper: @en_hoof
+hyper: @en_jive
+hyper: @en_shimmy
+hyper: @en_tap_dance
+hyper: verb.motion:@en_bebop
+hyper: verb.motion:@en_boogie
+hyper: verb.motion:@en_bump
+hyper: verb.motion:@en_cakewalk
+hyper: verb.motion:@en_cha-cha
+hyper: verb.motion:@en_conga
+hyper: verb.motion:@en_disco
+hyper: verb.motion:@en_folk_dance
+hyper: verb.motion:@en_foxtrot
+hyper: verb.motion:@en_grind
+hyper: verb.motion:@en_jig
+hyper: verb.motion:@en_jitterbug
+hyper: verb.motion:@en_kick
+hyper: verb.motion:@en_mambo
+hyper: verb.motion:@en_mosh
+hyper: verb.motion:@en_one-step
+hyper: verb.motion:@en_polka
+hyper: verb.motion:@en_quickstep
+hyper: verb.motion:@en_rhumba
+hyper: verb.motion:@en_skank
+hyper: verb.motion:@en_square_dance
+hyper: verb.motion:@en_tango
+hyper: verb.motion:@en_twist
+hyper: verb.motion:@en_two-step
+hyper: verb.motion:dançar_break
+hyper: verb.motion:dançar_o_Charleston
+hyper: verb.motion:dançar_quadrilha
+hyper: verb.motion:sambar
+hyper: verb.motion:sapatear
+hyper: verb.motion:transar
+hyper: verb.motion:valsar
+hypo: verb.motion:deslocar 1
+mt: noun.act:baile
+sa: @en:verb.creation:dance
+vg: verb.motion:dançar 1
+
+w: dar
+d: @en_bring forth, "The apple tree bore delicious apples this year"
+fs: 11
+hyper: verb.change:@en_spin_off
+hyper: @en_crop
+hyper: @en_overbear
+hyper: @en_seed
+hyper: frutar
+hypo: causar 1
+sa: @en:verb.creation:bear
+
+w: debutar
+d: @en_present for the first time to the public
+fs: 8
+hypo: inovar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:debut 2
+
+w: decorar 1
+d: @en_decorate, as with ornaments
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:trim 1
+
+w: delinear 1
+d: @en_trace the shape of
+fs: 8
+hyper: @en_lipstick
+hyper: contornar
+hypo: desenhar 3
+sa: @en:verb.creation:delineate
+
+w: derrubar
+d: @en_write quickly
+fs: 8
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:dash_off
+
+w: desejar
+w: devanear
+w: fantasiar
+w: sonhar
+d: @en_have a daydream; indulge in a fantasy
+fs: 26 22 2
+hypo: conjecturar
+sa: @en:verb.creation:daydream
+
+w: desempenhar 1
+w: executar 1
+w: fazer 9
+d: realizar ou executar uma ação
+fs: 8
+hyper: verb.change:@en_click_off
+hyper: verb.communication:@en_carry 1
+hyper: verb.communication:@en_pipe_up
+hyper: verb.communication:citar_novamente
+hyper: @en_appear
+hyper: @en_blaze_away
+hyper: @en_churn_out
+hyper: @en_cut 5
+hyper: @en_cut_corners
+hyper: @en_premier
+hyper: @en_scamp
+hyper: @en_serenade
+hyper: @en_stunt
+hyper: conduzir 1
+hyper: ensaiar
+hyper: estrelar
+hyper: executar 2
+hyper: improvisar
+hyper: interpretar
+sa: @en:verb.creation:do 1
+
+w: desenhar 1
+d: @en_devise or compose
+fs: 8
+hypo: arquitetar
+sa: @en:verb.creation:make_up 3
+
+w: desenhar 2
+w: esboçar
+w: projetar 1
+d: @en_make a design of; plan out in systematic, often graphic form
+fs: 8
+hyper: verb.cognition:conceber
+hyper: @en_blueprint
+hyper: redesenhar
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:design
+
+w: desenhar 3
+d: @en_represent by making a drawing of, as with a pencil, chalk, etc. on a surface
+fs: 9 8 2
+hyper: @en_cartoon
+hyper: @en_chalk
+hyper: @en_charcoal
+hyper: @en_check
+hyper: @en_crayon
+hyper: @en_doodle
+hyper: @en_pencil
+hyper: @en_project 1
+hyper: bosquejar
+hyper: delinear 1
+hyper: diagramar
+hyper: pautar
+hyper: sombrear
+hypo: figurar 1
+mt: noun.act:arte
+sa: @en:verb.creation:draw
+vg: verb.contact:delinear
+
+w: desenvolver 1
+w: elaborar 1
+d: @en_work out
+fs: 8
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:develop
+vg: criar 5
+
+w: desestruturar
+w: desfazer
+w: desmanchar
+w: desmantelar
+w: desmontar
+w: destruir
+d: desmontar em suas partes constituintes
+fs: 8
+hypo: destruir 3
+sa: @en:verb.creation:break_apart
+
+w: desfazer 1
+w: desmanchar 1
+w: destruir 1
+d: @en_deprive of certain characteristics
+fs: 8
+hyper: destruir 3
+sa: @en:verb.creation:undo
+
+w: desovar
+w: fazer 10
+d: @en_call forth
+fs: 8 11
+hypo: causar 4
+sa: @en:verb.creation:breed
+
+w: destruir 2
+d: @en_destroy (one's own missile or rocket)
+fs: 8
+hypo: destruir 3
+sa: @en:verb.creation:destruct 1
+
+w: destruir 3
+d: @en_do away with, cause the destruction or undoing of
+fs: 8 11
+hyper: verb.change:@en_kill
+hyper: verb.change:eliminar 1
+hyper: @en_demyelinate
+hyper: apagar
+hyper: arrasar
+hyper: autodestruir
+hyper: desestruturar
+hyper: destruir 2
+hyper: destruir 4
+hyper: dilapidar
+hyper: erradicar
+hyper: findar
+hyper: fraturar
+hyper: interditar
+hypo: desfazer 1
+sa: @en:verb.creation:destroy
+
+w: destruir 4
+w: pulverizar
+d: destruir completamente
+fs: 8 11
+hypo: destruir 3
+sa: @en:verb.creation:demolish
+
+w: diagramar
+w: plotar
+d: fazer um desenho esquemático ou técnico  que mostra as interações entre as variáveis ou como algo é construído
+fs: 8
+hyper: diagramar 1
+hypo: desenhar 3
+sa: @en:verb.creation:diagram
+
+w: diagramar 1
+w: fazer_grafo
+d: @en_plot upon a graph
+fs: 8
+hypo: diagramar
+sa: @en:verb.creation:graph 1
+
+w: dilapidar
+d: @en_bring into a condition of decay or partial ruin by neglect or misuse
+fs: 11 8
+hypo: destruir 3
+sa: @en:verb.creation:dilapidate
+
+w: dinamitar
+w: explodir
+d: @en_create by using explosives
+fs: 11 8
+hypo: causar 1
+sa: @en:verb.creation:blast
+
+w: dirigir
+d: @en_guide the actors in (plays and films)
+fs: 8 2
+hyper: @en_stage_direct
+hypo: causar 1
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:direct
+
+w: editar
+w: publicar
+d: @en_put into print
+fs: 8
+hyper: @en_gazette
+hyper: reeditar
+hypo: construir 3
+sa: @en:verb.creation:print 2
+
+w: efetivar
+d: @en_represent an incident, state, or emotion by action, especially on stage
+fs: 8
+hypo: atuar 1
+sa: @en:verb.creation:act_out 1
+
+w: efetuar 1
+w: ocasionar
+w: produzir 2
+w: provocar 3
+d: @en_produce
+fs: 11 8
+cause: verb.change:acontecer 6
+hyper: @en_draw 2
+hyper: atingir
+hyper: induzir
+hyper: precipitar 1
+hyper: verb.stative:servir 2
+hypo: causar 4
+sa: @en:verb.creation:effect
+
+w: eleger
+w: escolher
+d: @en_select to play,sing, or dance a part in a play, movie, musical, opera, or ballet
+fs: 9
+entail: apresentar 1
+entail: desempenhar 1
+entail: filmar
+hyper: @en_miscast
+hyper: @en_recast 1
+hyper: @en_typecast
+hypo: verb.social:delegar 2
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:cast 1
+vg: verb.social:@en_cast
+
+w: emplumar
+d: decorar com penas
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:fledge
+
+w: empreender
+d: @en_enter upon an activity or enterprise
+fs: 33 8
+hypo: empreender 1
+sa: @en:verb.creation:attempt
+
+w: empreender 1
+w: iniciar 1
+d: @en_take the lead or initiative in; participate in the development of
+fs: 8
+hyper: @en_mount 1
+hyper: @en_strike_up 1
+hyper: activar
+hyper: arranjar
+hyper: confabular
+hyper: constituir
+hyper: empreender
+hyper: inovar
+hypo: causar 4
+sa: @en:verb.creation:initiate
+
+w: encarnar
+d: @en_make concrete and real
+fs: 11 8
+hypo: concretizar
+sa: @en:verb.creation:incarnate
+
+w: encrustar
+d: @en_decorate the surface of by inserting wood, stone, and metal
+fs: 8
+hyper: @en_damascene
+hyper: @en_hatch
+hypo: adornar 1
+mt: noun.act:artesanato
+sa: @en:verb.creation:inlay
+
+w: engendrar
+w: fazer 11
+w: gerar
+w: procriar
+d: @en_bring into existence
+fs: 8 11
+hyper: @en_bring_on
+hyper: @en_come_up
+hyper: @en_develop
+hyper: libertar
+hypo: causar 1
+sa: @en:verb.creation:bring_forth 1
+
+w: ensaiar
+w: exercitar
+w: exercitar-se
+d: @en_engage in a rehearsal (of)
+fs: 8 2
+hyper: @en_scrimmage
+hyper: @en_walk_through
+hypo: desempenhar 1
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:practice
+
+w: entalhar
+w: gravar
+d: esculpir ou cortar em um bloco que vai ser usado para impressão
+fs: 8
+hyper: @en_benday
+hyper: @en_stipple
+hypo: imprimir
+mt: noun.act:arte
+sa: @en:verb.creation:engrave
+
+w: entrançar
+w: trançar
+d: @en_make by braiding or interlacing
+fs: 8
+hypo: tecer 2
+mt: noun.act:artesanato
+sa: @en:verb.creation:braid
+
+w: entrar
+d: entrar no palco
+fs: 2
+entail: atuar 1
+mt: noun.communication:Dramaturgia
+sa: @en:verb.creation:enter
+
+w: erradicar
+w: exterminar
+w: extirpar
+d: @en_destroy completely, as if down to the roots
+fs: 8 9
+hypo: destruir 3
+sa: @en:verb.creation:eradicate
+
+w: esboçar 1
+d: @en_prepare in preliminary or sketchy form
+fs: 8
+hypo: preparar 2
+sa: @en:verb.creation:rough 1
+
+w: escrever 2
+w: soletrar
+d: @en_write or name the letters that comprise the conventionally accepted form of (a word or part of a word)
+fs: 8
+hyper: @en_spell_out
+hyper: colocar_hífen
+sa: @en:verb.creation:spell
+
+w: escrever 3
+d: @en_mark or trace on a surface
+fs: 2 8
+hyper: verb.communication:@en_dot
+hyper: @en_calligraph
+hyper: @en_capitalise
+hyper: @en_cross
+hyper: @en_letter
+hyper: @en_print
+hyper: @en_scrawl
+hyper: @en_stenograph
+hyper: @en_superscribe
+hyper: imprimir 1
+hyper: sobreescrever
+hyper: transcrever
+hypo: verb.contact:delinear
+sa: @en:verb.creation:write 1
+
+w: escrever 4
+w: publicar 1
+d: @en_have (one's written work) issued for publication
+fs: 2 8
+hypo: @en_create_verbally
+sa: @en:verb.creation:publish
+vg: compor 3
+
+w: escrever 5
+d: ser autor de
+fs: 8
+hyper: @en_co-author
+hyper: @en_ghost
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:author
+
+w: escrever_um_roteiro_para
+d: @en_write a script for
+fs: 8
+hypo: compor 3
+mt: noun.act:autoria
+sa: @en:verb.creation:script
+
+w: esculpir
+d: @en_create by shaping stone or wood or any other hard material
+fs: 2 8
+hypo: formar
+mt: noun.act:arte
+sa: @en:verb.creation:sculpt
+vg: verb.contact:esculpir 1
+
+w: esmaltar
+d: @en_coat, inlay, or surface with enamel
+fs: 8
+entail: verb.change:assar
+hypo: adornar 1
+mt: noun.act:artesanato
+sa: @en:verb.creation:enamel
+
+w: espetar
+d: cobrir e decorar com objetos que penetram a superfície
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:stick 3
+
+w: estilizar
+d: @en_make consistent with a certain fashion or style
+fs: 8
+hyper: verb.body:@en_pompadour
+hypo: causar 1
+mt: noun.cognition:Moda
+sa: @en:verb.creation:style
+
+w: estimular
+w: incentivar
+w: motivar
+w: propulsar
+w: provocar 4
+d: @en_give an incentive for action
+fs: 8 10 24 9 11
+hypo: causar 4
+sa: @en:verb.creation:actuate 2
+vg: verb.emotion:afetar
+vg: verb.emotion:comover 1
+
+w: estorrar
+w: gradar
+d: @en_draw a harrow over (land)
+fs: 2 8
+hypo: arar
+mt: noun.act:agricultura 3
+sa: @en:verb.creation:disk
+
+w: estrear
+d: @en_be performed for the first time
+fs: 1
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:premier 1
+
+w: estrear 1
+d: @en_appear for the first time in public
+fs: 4 1
+hypo: passar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:debut
+
+w: estrelar
+w: protagonizar
+d: @en_be the star in a performance
+fs: 2 22
+hyper: @en_co-star
+hypo: desempenhar 1
+mt: noun.communication:Dramaturgia
+sa: @en:verb.creation:star
+
+w: executar 2
+d: @en_perform or carry out
+fs: 8
+hyper: verb.social:@en_pay
+hypo: desempenhar 1
+sa: @en:verb.creation:make 12
+vg: verb.social:@en_do
+
+w: executar 3
+d: @en_carry out (performances)
+fs: 8
+hypo: causar 1
+sa: @en:verb.creation:put_on 1
+
+w: executar 4
+w: retocar
+w: tocar
+d: @en_replay (as a melody)
+e: Toque essa de novo, Sam.
+e: Ela tocou o terceiro movimento lindamente.
+fs: 8
+hyper: @en_bang_out
+hyper: @en_bugle
+hyper: @en_fiddle 1
+hyper: @en_jazz
+hyper: @en_modulate
+hyper: @en_prelude
+hyper: @en_rag
+hyper: @en_replay 1
+hyper: @en_riff
+hyper: @en_slur
+hyper: @en_tongue
+hyper: repetir
+hyper: tocal_mal
+hypo: recriar
+sa: @en:verb.creation:play
+vg: tocar 4
+
+w: extrair
+d: @en_deduce (a principle) or construe (a meaning)
+fs: 8
+hypo: verb.cognition:compreender 1
+sa: @en:verb.creation:draw_out
+
+w: fabricar 1
+d: @en_make by shaping or bringing together constituents
+fs: 8 11
+hyper: @en_cooper
+hyper: @en_fashion
+hyper: compilar
+hyper: compilar 1
+hyper: fabricar 2
+hypo: confeccionar 1
+sa: @en:verb.creation:make 11
+
+w: fabricar 2
+d: @en_put together out of artificial or natural components or parts
+fs: 8 11
+hyper: @en_mass-produce
+hyper: @en_raft
+hypo: fabricar 1
+sa: @en:verb.creation:construct 1
+
+w: facilitar
+d: @en_increase the likelihood of (a response)
+fs: 11
+hypo: causar 4
+mt: noun.attribute:ciência_natural
+sa: @en:verb.creation:facilitate 3
+
+w: fasear
+d: organizar em fases ou etapas
+fs: 8
+hypo: arranjar
+sa: @en:verb.creation:phase
+
+w: fazer 12
+d: @en_create or design, often in a certain way
+fs: 8 21
+hypo: criar 4
+sa: @en:verb.creation:do
+
+w: fazer 13
+w: parir
+d: @en_bring forth or yield
+fs: 11 8
+hyper: verb.body:dar_à_luz
+hyper: @en_crank_out
+hyper: @en_manufacture
+hyper: @en_sporulate
+hypo: causar 1
+sa: @en:verb.creation:bring_forth
+
+w: fazer 14
+w: gerar 1
+d: @en_give or supply
+fs: 11 8
+hypo: construir 3
+sa: @en:verb.creation:generate 2
+vg: @en_establish
+vg: @en_give 4
+
+w: fazer 15
+d: @en_produce (energy)
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:generate 1
+
+w: fazer 16
+w: produzir 3
+d: @en_cultivate by growing, often involving improvements by means of agricultural techniques
+fs: 11 8
+hyper: @en_carry
+hyper: superproduzir 1
+hyper: verb.stative:@en_keep 1
+hypo: amanhar
+mt: noun.act:agricultura 3
+sa: @en:verb.creation:farm
+
+w: fazer 17
+w: trazer
+d: fazer acontecer ou ocorrer como conseqüência
+e: Eu não posso fazer um milagre.
+e: A chuva trouxe alívio para a região da seca.
+fs: 8 11
+hypo: causar 1
+sa: @en:verb.creation:bring
+vg: verb.social:funcionar 1
+
+w: fazer_caminho
+d: @en_make by pounding or trampling
+fs: 8
+entail: verb.motion:marchar 2
+hypo: causar 1
+sa: @en:verb.creation:beat 2
+
+w: fazer_com_astúcia
+d: @en_make by hand and with much skill
+fs: 8
+hyper: @en_filigree
+hyper: @en_handcraft
+hypo: @en_fashion
+sa: @en:verb.creation:craft
+
+w: fazer_grafo 1
+d: representar por meio de um gráfico
+fs: 8
+hypo: figurar 1
+sa: @en:verb.creation:chart 4
+
+w: fazer_meias
+w: fazer_rendas
+w: tecer
+w: tricotar
+d: @en_make (textiles) by knitting
+fs: 8 2
+entail: verb.contact:bordar
+hyper: @en_purl 1
+hyper: @en_rib
+hypo: confeccionar 1
+mt: noun.act:artesanato
+sa: @en:verb.creation:knit
+
+w: fazer_pintura-de-dedo
+d: aplicar cores com os dedos
+fs: 2 8
+hypo: pincelar
+mt: noun.act:arte
+sa: @en:verb.creation:finger-paint
+
+w: festonar
+d: decorar com grinaldas de flores
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:festoon
+
+w: figurar 1
+w: representar 2
+d: @en_create an image or likeness of
+fs: 9 8
+hyper: @en_animalise
+hyper: @en_carnalize
+hyper: @en_conventionalize
+hyper: @en_depict
+hyper: @en_map 1
+hyper: @en_silhouette
+hyper: capturar
+hyper: desenhar 3
+hyper: fazer_grafo 1
+hyper: perfilar
+hyper: pintar 1
+hyper: representar 4
+hyper: representar 5
+hyper: tirar_molde_de
+hypo: recriar
+mt: noun.act:arte
+sa: @en:verb.creation:interpret 1
+
+w: filmar
+d: @en_record in film
+fs: 8
+hyper: @en_cinematise
+hyper: @en_microfilm
+hypo: verb.communication:registar
+hypo: causar 1
+sa: @en:verb.creation:film
+
+w: finalizar
+d: @en_terminate gradually
+fs: 8
+hypo: verb.change:concluir 1
+sa: @en:verb.creation:phase_out
+
+w: findar
+w: terminar
+d: colocar um fim
+fs: 8 11
+hypo: destruir 3
+sa: @en:verb.creation:end 13
+
+w: fingir 1
+d: @en_behave unnaturally or affectedly
+fs: 2 8
+hyper: fingir 2
+sa: @en:verb.creation:act 4
+vg: verb.body:agir
+
+w: fingir 2
+w: simular 1
+d: @en_make a pretence of
+fs: 8
+hyper: @en_feint
+hyper: brincar
+hypo: fingir 1
+sa: @en:verb.creation:assume
+
+w: flautear
+d: tocar flauta
+fs: 8
+hypo: tocar 3
+mt: noun.act:música
+sa: @en:verb.creation:pipe
+
+w: forjar
+w: formular
+w: inventar 1
+d: @en_come up with (an idea, plan, explanation, theory, or principle) after a mental effort
+fs: 8
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:contrive
+
+w: formar
+w: modelar 1
+w: moldar
+d: @en_make something, usually for a specific function
+fs: 8 21
+hyper: verb.contact:@en_chip 1
+hyper: verb.contact:@en_cut_out 1
+hyper: verb.contact:@en_layer
+hyper: verb.contact:cortar 5
+hyper: verb.contact:forjar
+hyper: @en_beat
+hyper: @en_cast
+hyper: @en_coil
+hyper: @en_grind
+hyper: @en_hill
+hyper: @en_machine 1
+hyper: @en_mound
+hyper: @en_preform
+hyper: @en_preform 1
+hyper: @en_puddle
+hyper: @en_roughcast
+hyper: @en_sinter
+hyper: @en_stamp
+hyper: @en_throw 2
+hyper: amoldar
+hyper: esculpir
+hyper: reformar
+hypo: confeccionar 1
+sa: @en:verb.creation:forge 3
+vg: trabalhar
+
+w: fotocopiar
+w: xerocar
+d: @en_reproduce by xerography
+fs: 8 2
+hyper: @en_microcopy
+hyper: @en_photostat
+hypo: reproduzir
+sa: @en:verb.creation:photocopy
+
+w: fraturar
+d: @en_interrupt, break, or destroy
+fs: 8 11
+hypo: destruir 3
+sa: @en:verb.creation:fracture
+
+w: frutar
+w: frutificar
+d: dar frutos
+fs: 1
+hypo: dar
+sa: @en:verb.creation:fruit
+
+w: harmonizar
+d: @en_sing or play in harmony
+fs: 2 22
+hypo: cantar 1
+mt: noun.act:música
+mt: noun.cognition:música 1
+mt: noun.communication:música
+sa: @en:verb.creation:harmonise
+
+w: ilustrar
+d: @en_depict with an illustration
+fs: 8
+hypo: @en_depict
+mt: noun.act:arte
+sa: @en:verb.creation:illustrate
+
+w: ilustrar 1
+d: @en_supply with illustrations
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:illustrate 1
+
+w: imitar 2
+d: imitar (uma pessoa ou trejeito), especialmente para  efeitos satíricos
+fs: 11 9 8
+hypo: copiar 1
+sa: @en:verb.creation:mime 1
+
+w: impelir
+w: impulsionar
+w: incitar 1
+w: tocar 1
+d: @en_urge or force (a person) to an action; constrain or motivate
+fs: 24
+hypo: causar 4
+sa: @en:verb.creation:force
+
+w: imprimir
+d: @en_make into a print
+fs: 8
+hyper: @en_etch
+hyper: @en_lithograph
+hyper: @en_silkscreen
+hyper: @en_stencil
+hyper: entalhar
+hypo: reproduzir
+sa: @en:verb.creation:print 1
+
+w: imprimir 1
+d: @en_reproduce by printing
+fs: 8
+hyper: @en_boldface
+hyper: @en_cyclostyle
+hyper: @en_italicise
+hyper: @en_offset 1
+hyper: @en_overprint
+hyper: @en_prove
+hyper: @en_set 1
+hyper: caracter_alfabético
+hypo: escrever 3
+sa: @en:verb.creation:impress
+
+w: improvisar
+d: executar sem preparação
+e: ele improvisou um discurso no casamento
+fs: 2 8
+hypo: desempenhar 1
+sa: @en:verb.creation:ad-lib
+
+w: improvisar 1
+d: @en_prepare or cook quickly or hastily
+fs: 8
+hypo: cozinhar
+mt: noun.act:cozinha
+sa: @en:verb.creation:whip_up
+
+w: incutir
+w: infundir
+d: @en_supply the inspiration for
+fs: 11
+hypo: causar 2
+sa: @en:verb.creation:inspire
+
+w: indentar
+d: @en_set in from the margin
+fs: 8
+hypo: @en_arrange 1
+sa: @en:verb.creation:indent
+
+w: induzir
+w: precipitar
+d: @en_cause to occur rapidly
+fs: 8 11
+hypo: efetuar 1
+sa: @en:verb.creation:hasten
+
+w: inovar
+d: @en_bring something new to an environment
+fs: 8
+hyper: @en_open_up
+hyper: @en_phase_in
+hyper: debutar
+hypo: empreender 1
+sa: @en:verb.creation:innovate
+
+w: interditar
+d: @en_destroy by firepower, such as an enemy's line of communication
+fs: 8 11
+hypo: destruir 3
+sa: @en:verb.creation:interdict
+
+w: interpretar
+d: @en_give an interpretation or rendition of
+fs: 8 9
+hyper: cantar
+hypo: desempenhar 1
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:interpret
+
+w: introduzir
+d: @en_bring in or establish in a new place or environment
+fs: 8 11
+hyper: verb.motion:interpor
+hypo: @en_establish
+sa: @en:verb.creation:introduce 1
+
+w: inventar 2
+d: @en_conceive or fashion in the mind; invent
+fs: 8
+hypo: conceber
+sa: @en:verb.creation:design 9
+
+w: inventar 3
+w: pensar 1
+d: @en_devise or invent
+fs: 8
+hyper: verb.cognition:idealizar
+hyper: inventar 4
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:concoct
+
+w: inventar 4
+d: @en_make up something artificial or untrue
+fs: 8
+hyper: @en_concoct 1
+hyper: @en_mythologise
+hyper: @en_spin
+hyper: @en_vamp
+hyper: confabular 1
+hypo: inventar 3
+sa: @en:verb.creation:cook_up
+
+w: inventar_de_novo
+w: reinventar
+d: @en_bring back into existence
+fs: 8
+hypo: criar 6
+sa: @en:verb.creation:reinvent 1
+
+w: jardinar
+d: @en_work in the garden
+fs: 2
+hyper: @en_landscape
+hypo: verb.social:cuidar 4
+mt: noun.act:horticultura
+sa: @en:verb.creation:garden
+
+w: laminar
+d: @en_create laminate by bonding sheets of material with a bonding material
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:laminate
+
+w: lançado
+w: ser
+d: @en_make one's debut
+fs: 2
+hypo: apresentar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:debut 1
+
+w: libertar
+w: livrar
+w: soltar
+d: @en_release (gas or energy) as a result of a chemical reaction or physical decomposition
+fs: 8
+hypo: engendrar
+mt: noun.cognition:Quimica
+sa: @en:verb.creation:free 3
+
+w: localizar
+d: @en_locate
+fs: 21
+hypo: apresentar 1
+sa: @en:verb.creation:localise
+
+w: lustrar
+w: polir
+d: dar um brilho  normalmente, esfregando
+fs: 8
+entail: verb.contact:esfregar 3
+hypo: verb.contact:lustrar
+sa: @en:verb.creation:gloss
+
+w: manchar
+w: riscar
+d: marcar com pontos ou manchas de diferentes cores ou tons de cor como se manchado
+fs: 8
+hypo: verb.change:colorir 1
+sa: @en:verb.creation:blotch
+
+w: manufaturar
+d: @en_create or produce in a mechanical way
+fs: 8
+hypo: causar 1
+sa: @en:verb.creation:manufacture 2
+
+w: martelar
+d: @en_create by hammering
+fs: 8
+hyper: @en_dropforge
+hyper: @en_foliate
+hypo: @en_beat
+sa: @en:verb.creation:forge
+vg: verb.contact:fincar
+
+w: metrificar
+d: @en_compose in poetic meter
+e: O poeta metrificou seus poemas muito precisamente.
+fs: 8
+hypo: versar
+mt: noun.communication:Poemas
+sa: @en:verb.creation:metrify
+
+w: miçangar
+d: Decorar pondo miçangas
+fs: 8
+hypo: adornar 1
+sa: @en:verb.creation:bead
+
+w: modelar 2
+w: simular 2
+d: @en_create a representation or model of
+fs: 11 8
+hypo: recriar
+sa: @en:verb.creation:model 4
+
+w: orquestrar
+d: @en_write an orchestra score for
+fs: 8
+hypo: @en_score
+mt: noun.cognition:eufonia
+sa: @en:verb.creation:orchestrate
+
+w: pacificar
+d: combater a violência e tentar estabelecer a paz em (local)
+fs: 8
+hypo: @en_establish
+sa: @en:verb.creation:pacify
+
+w: parodiar
+d: @en_make a spoof of or make fun of
+fs: 9 8
+hypo: atuar 1
+sa: @en:verb.creation:parody
+
+w: passar
+d: @en_be performed or presented for public viewing
+fs: 4 1
+hyper: estrear 1
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:play 4
+vg: actuar
+
+w: pautar
+w: traçar
+d: @en_mark or draw with a ruler
+fs: 8
+hypo: desenhar 3
+sa: @en:verb.creation:rule
+
+w: pedalar
+d: @en_operate the pedals on a keyboard instrument
+fs: 2
+entail: executar 4
+hypo: verb.contact:controlar
+mt: noun.act:música
+sa: @en:verb.creation:pedal
+
+w: perfilar
+d: @en_represent in profile, by drawing or painting
+fs: 9 8
+hypo: figurar 1
+sa: @en:verb.creation:profile
+
+w: performar
+d: executar em um determinado local
+fs: 8
+hypo: apresentar
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:play 3
+vg: actuar
+
+w: personificar
+w: representar 3
+w: retratar
+d: assumir o caráter de alguém ou agir como alguém
+fs: 9
+hypo: atuar 1
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.creation:impersonate
+
+w: piar
+w: trinar
+d: @en_sing in modulation
+fs: 2 1
+hypo: cantar 1
+mt: noun.act:música
+sa: @en:verb.creation:chirp
+
+w: pincelar
+w: pintar
+d: fazer uma pintura
+fs: 8 2
+hyper: @en_bodypaint
+hyper: @en_charge
+hyper: @en_distemper
+hyper: @en_fresco
+hyper: @en_stipple 1
+hyper: @en_stipple 2
+hyper: @en_watercolor
+hyper: fazer_pintura-de-dedo
+hyper: sombrear
+hypo: criar 7
+mt: noun.act:arte
+sa: @en:verb.creation:paint 1
+
+w: pintar 1
+d: fazer uma pintura de
+fs: 8 9
+hyper: repintar
+hypo: figurar 1
+mt: noun.act:arte
+sa: @en:verb.creation:paint
+
+w: precipitar 1
+d: @en_bring about abruptly
+fs: 11 8
+hypo: efetuar 1
+sa: @en:verb.creation:precipitate
+
+w: preparar 2
+d: @en_to prepare verbally, either for written or spoken delivery
+fs: 8
+hyper: esboçar 1
+hypo: causar 1
+sa: @en:verb.creation:prepare 2
+
+w: programar
+d: escrever um programa de computador
+fs: 2
+hyper: verb.change:hackear
+hypo: @en_create_by_mental_act
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.creation:program
+
+w: programar 1
+d: criar o código, escrever um programa de computador
+e: Ela escreve código mais rápido do que qualquer outro
+fs: 8
+hypo: @en_create_by_mental_act
+sa: @en:verb.creation:write 10
+
+w: pré-conceber
+d: @en_conceive beforehand
+fs: 8
+hypo: conceber
+sa: @en:verb.creation:preconceive
+
+w: pôr
+d: @en_adapt
+e: Coloque estas palavras numa música
+fs: 8
+hypo: @en_arrange
+mt: noun.communication:música
+sa: @en:verb.creation:put 13
+
+w: reapresentar
+d: executar novamente a apresentação de uma peça, por exemplo
+fs: 8
+hypo: @en_mount
+sa: @en:verb.creation:rerun
+
+w: reconstruir
+d: @en_build again
+fs: 8 2
+hypo: construir 5
+mt: noun.act:construção 1
+sa: @en:verb.creation:rebuild
+
+w: recriar
+d: @en_create anew
+fs: 8 11
+hyper: verb.change:regenerar 1
+hyper: @en_fictionalise
+hyper: @en_recite
+hyper: apresentar
+hyper: apresentar 1
+hyper: atuar 1
+hyper: contrafazer
+hyper: executar 4
+hyper: figurar 1
+hyper: modelar 2
+hyper: reencenar 1
+hyper: renovar
+hypo: causar 1
+sa: @en:verb.creation:re-create
+
+w: redesenhar
+d: @en_design anew, make a new design for
+fs: 8
+hypo: desenhar 2
+sa: @en:verb.creation:redesign
+
+w: reduplicar
+d: @en_form by reduplication
+fs: 8
+hypo: replicar
+mt: noun.cognition:Linguistica
+sa: @en:verb.creation:geminate
+
+w: reeditar
+d: @en_publish again
+fs: 8 2
+hypo: editar
+sa: @en:verb.creation:republish
+
+w: reencenar
+d: @en_act out; represent or perform as if in a play
+fs: 8
+hypo: atuar 1
+sa: @en:verb.creation:act_out
+
+w: reencenar 1
+d: @en_enact or perform again
+fs: 8
+hypo: recriar
+sa: @en:verb.creation:reenact 1
+
+w: refazer
+w: remodelar
+d: @en_make new
+fs: 8
+hyper: refazer 1
+hypo: construir 3
+sa: @en:verb.creation:make_over
+
+w: refazer 1
+w: remodelar 1
+d: @en_cast or model anew
+fs: 8
+hypo: refazer
+sa: @en:verb.creation:recast 2
+
+w: reformar
+w: remodelar 2
+d: @en_shape again or shape differently
+fs: 8
+hypo: formar
+sa: @en:verb.creation:remold 1
+
+w: reimprimir
+d: imprimir de novo
+fs: 8
+hypo: reproduzir
+sa: @en:verb.creation:reissue
+
+w: renovar
+d: @en_reestablish on a new, usually improved, basis or make new or like new
+fs: 8 11
+hyper: verb.change:@en_remold
+hyper: verb.change:@en_revitalise
+hyper: verb.change:avivar
+hyper: verb.change:regenerar 3
+hyper: verb.change:renovar
+hyper: verb.change:renovar 1
+hyper: verb.change:renovar 3
+hyper: verb.change:revisar
+hyper: verb.change:substituir 1
+hyper: verb.social:restabelecer 1
+hypo: recriar
+sa: @en:verb.creation:regenerate
+
+w: repetir
+d: @en_repeat an earlier theme of a composition
+fs: 8
+hypo: executar 4
+mt: noun.act:música
+sa: @en:verb.creation:recapitulate
+
+w: repintar
+d: pintar novamente
+fs: 9 8
+hypo: pintar 1
+mt: noun.act:arte
+sa: @en:verb.creation:repaint
+
+w: replicar
+d: @en_make or do or perform again
+fs: 8
+hyper: @en_copy
+hyper: @en_recapitulate
+hyper: reduplicar
+hypo: reproduzir
+sa: @en:verb.creation:double
+
+w: representar 4
+w: retratar 1
+d: @en_represent abstractly, for example in a painting, drawing, or sculpture
+fs: 10 9 11 8
+hyper: @en_commend
+hypo: figurar 1
+mt: noun.act:arte
+sa: @en:verb.creation:portray 2
+
+w: representar 5
+d: @en_make a portrait of
+fs: 8 9
+hypo: figurar 1
+mt: noun.act:arte
+sa: @en:verb.creation:depict 1
+
+w: reproduzir
+d: @en_make a copy or equivalent of
+fs: 8
+hyper: @en_duplicate
+hyper: @en_play_back
+hyper: @en_quadruplicate
+hyper: @en_triplicate
+hyper: copiar 1
+hyper: fotocopiar
+hyper: imprimir
+hyper: reimprimir
+hyper: replicar
+hyper: tirar_as_digitais
+hypo: construir 3
+sa: @en:verb.creation:reproduce
+
+w: retrabalhar
+d: @en_use again in altered form
+fs: 8
+hypo: trabalhar
+sa: @en:verb.creation:make_over 2
+
+w: rimar
+w: versejar
+d: compor rimas
+fs: 2
+hyper: @en_alliterate
+hyper: @en_tag
+hypo: @en_create_verbally
+mt: noun.communication:Poemas
+sa: @en:verb.creation:rhyme
+
+w: riscar 1
+d: produzir ignição ou um golpe
+fs: 11 8
+hypo: causar 1
+sa: @en:verb.creation:strike
+vg: verb.change:@en_strike
+
+w: salmo
+d: @en_sing or celebrate in psalms
+fs: 8
+hypo: cantar 1
+mt: noun.act:música
+sa: @en:verb.creation:psalm
+
+w: sobreescrever
+d: @en_write on the outside or upper part of
+fs: 8
+hypo: escrever 3
+sa: @en:verb.creation:superscribe
+
+w: solfar
+w: solfejar
+w: solmizar
+d: cantar pelas sílabas de solfejo
+fs: 8
+hypo: cantar
+mt: noun.communication:música
+sa: @en:verb.creation:solmizate 1
+vg: @en_solmizate
+
+w: sombrear
+d: @en_represent the effect of shade or shadow on
+fs: 8
+hyper: @en_crosshatch
+hypo: desenhar 3
+hypo: pincelar
+mt: noun.act:arte
+sa: @en:verb.creation:fill_in
+
+w: sonhar 1
+d: @en_portray in the mind
+fs: 8
+hypo: conjecturar
+sa: @en:verb.creation:fantasise 1
+
+w: sonhar 2
+d: @en_indulge in fantasies
+fs: 26 22 2
+hypo: conjecturar
+sa: @en:verb.creation:fantasise
+
+w: superproduzir
+d: produzir em excesso
+fs: 8
+hypo: construir 3
+sa: @en:verb.creation:overproduce 1
+
+w: superproduzir 1
+d: produzir em excesso; produzir mais do que precisava ou queria
+fs: 8
+hypo: fazer 16
+sa: @en:verb.creation:overproduce
+
+w: tabular
+d: @en_arrange or enter in tabular form
+fs: 8
+hypo: @en_arrange
+sa: @en:verb.creation:table
+
+w: tatuar
+d: @en_stain (skin) with indelible color
+fs: 9 19
+entail: verb.contact:alfinetar 1
+hypo: verb.change:colorir
+sa: @en:verb.creation:tattoo
+
+w: tecer 1
+d: @en_form a web by making a thread
+fs: 11
+entail: @en_extrude
+hypo: confeccionar 1
+sa: @en:verb.creation:spin
+
+w: tecer 2
+w: urdir
+d: @en_create a piece of cloth by interlacing strands of fabric, such as wool or cotton
+fs: 8
+hyper: @en_brocade
+hyper: @en_lace
+hyper: @en_loom
+hyper: @en_net
+hyper: @en_twill
+hyper: entrançar
+hypo: confeccionar 1
+mt: noun.act:artesanato
+sa: @en:verb.creation:tissue
+
+w: tirar_as_digitais
+d: @en_take an impression of a person's fingerprints
+fs: 8
+hypo: reproduzir
+sa: @en:verb.creation:fingerprint
+
+w: tirar_molde_de
+d: @en_construct a model of
+fs: 8
+hypo: figurar 1
+sa: @en:verb.creation:mock_up
+
+w: tocal_mal
+w: tocar_mal
+d: tocar incorretamente, por exemplo, tocar uma nota errada
+fs: 8 2
+hypo: executar 4
+sa: @en:verb.creation:misplay
+
+w: tocar 2
+d: @en_cause to emit recorded audio or video
+fs: 8 11
+sa: @en:verb.creation:play 5
+vg: verb.change:@en_run 2
+vg: tocar 5
+vg: verb.social:executar 3
+
+w: tocar 3
+d: @en_perform music on (a musical instrument)
+fs: 8
+hyper: @en_chord
+hyper: @en_clarion
+hyper: @en_drum
+hyper: @en_fiddle
+hyper: @en_harp
+hyper: @en_register
+hyper: @en_skirl
+hyper: @en_tweedle
+hyper: bater
+hyper: flautear
+hyper: trompetear
+hypo: verb.perception:soar 5
+mt: noun.act:música
+mt: noun.communication:música
+sa: @en:verb.creation:play 1
+vg: tocar 4
+
+w: tocar 4
+d: @en_play on an instrument
+fs: 1 2
+hyper: @en_bow
+hyper: @en_busk
+hyper: @en_sound_off
+hyper: @en_symphonise
+hyper: acompanhar
+hyper: balançar
+hypo: apresentar
+mt: noun.communication:música
+sa: @en:verb.creation:play 12
+vg: executar 4
+vg: tocar 3
+
+w: tocar 5
+d: emitir som gravado
+fs: 11 1
+hypo: verb.perception:ressoar 4
+sa: @en:verb.creation:play 11
+vg: tocar 2
+
+w: trabalhar
+d: @en_shape, form, or improve a material
+fs: 8
+hyper: @en_cold_work
+hyper: @en_hot-work
+hyper: @en_overwork
+hyper: @en_rack
+hyper: @en_tool
+hyper: arar 1
+hyper: retrabalhar
+hypo: verb.change:transformar 6
+sa: @en:verb.creation:process
+vg: formar
+
+w: transcrever
+d: @en_copy down as is
+fs: 8
+hyper: @en_copy_out
+hyper: @en_recopy
+hypo: escrever 3
+sa: @en:verb.creation:copy 5
+
+w: traçar 1
+d: copiar seguindo as linhas do desenho original em uma folha transparente, colocada em cima dele
+fs: 8
+hypo: copiar 2
+sa: @en:verb.creation:trace
+
+w: trompetear
+d: tocar  ou soprar no trompete
+fs: 2
+entail: verb.body:assoprar
+hypo: tocar 3
+mt: noun.act:música
+sa: @en:verb.creation:trumpet
+
+w: versar
+w: versejar 1
+d: @en_compose verses or put into verse
+fs: 2 8
+hyper: @en_elegise
+hyper: @en_sonnet
+hyper: @en_spondaise
+hyper: metrificar
+hypo: compor 3
+mt: noun.communication:Poemas
+sa: @en:verb.creation:poetise
+
+w: visualizar 1
+d: @en_form a mental picture of something that is invisible or abstract
+fs: 2
+hypo: conjecturar
+sa: @en:verb.creation:visualise 2
+vg: afigurar
+
+w: vocalizar
+d: @en_sing (each note a scale or in a melody) with the same vowel
+fs: 2 8
+hypo: cantar 1
+sa: @en:verb.creation:vocalise
+

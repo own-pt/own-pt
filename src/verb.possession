@@ -1,0 +1,6602 @@
+verb.possession
+
+w: @en_abnegate
+w: @en_deny
+d: @en_deny oneself (something); restrain, especially from indulging in some pleasure
+fs: 14
+hypo: verb.social:controlar 1
+sa: @en:verb.possession:abnegate
+vg: negar 1
+
+w: @en_absorb
+w: @en_take_over
+d: @en_take up, as of debts or payments
+fs: 11 8
+hypo: financiar 3
+sa: @en:verb.possession:absorb
+
+w: @en_accept
+w: @en_take
+d: @en_make use of or accept for some purpose
+fs: 8
+hyper: cooptar
+sa: @en:verb.possession:accept 12
+
+w: @en_accept 1
+w: @en_assume
+w: @en_bear
+w: @en_take_over 1
+d: @en_take on as one's own the expenses or debts of another person
+fs: 8
+hyper: @en_carry-the_can
+hypo: adoptar
+sa: @en:verb.possession:accept 1
+
+w: @en_access
+d: @en_obtain or retrieve from a storage device; as of information on a computer
+fs: 8
+hyper: @en_address
+hyper: conectar-se
+hypo: re-adquirir
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.possession:access
+
+w: @en_accouter
+w: @en_accoutre
+d: @en_provide with military equipment
+fs: 8 9
+hypo: aparelhar
+sa: @en:verb.possession:accouter
+
+w: @en_accrue
+w: @en_fall
+d: @en_come into the possession of
+fs: 10
+hypo: @en_change_hands
+sa: @en:verb.possession:accrue 10
+vg: @en_devolve
+vg: cair
+
+w: @en_address
+d: @en_access or locate by address
+fs: 8
+hypo: @en_access
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.possession:address
+
+w: @en_admeasure
+d: @en_determine the quantity of someone's share
+fs: 8
+entail: @en_apportion
+hypo: verb.communication:achar
+sa: @en:verb.possession:admeasure
+
+w: @en_administer
+d: @en_perform (a church sacrament) ritually
+fs: 8 15
+entail: verb.social:executar
+hyper: @en_insufflate
+hypo: aplicar
+sa: @en:verb.possession:administer 1
+
+w: @en_advance
+d: @en_pay in advance
+fs: 14 8 15
+hypo: emprestar
+sa: @en:verb.possession:advance
+
+w: @en_afford
+w: @en_give
+w: @en_open
+d: @en_afford access to
+fs: 4
+sa: @en:verb.possession:afford 1
+
+w: @en_agree
+d: @en_be agreeable or suitable
+fs: 4
+hypo: verb.stative:agradar
+sa: @en:verb.possession:agree 2
+
+w: @en_air-condition
+d: @en_control the humidity and temperature of
+fs: 11 8
+hypo: verb.change:@en_process
+sa: @en:verb.possession:air-condition 1
+
+w: @en_air-condition 1
+w: @en_air-cool
+d: @en_equip with an apparatus for controlling the humidity and temperature
+fs: 8 11
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:air-condition
+
+w: @en_allowance
+d: @en_put on a fixed allowance, as of food
+fs: 14
+hypo: conceder 2
+sa: @en:verb.possession:allowance
+
+w: @en_alphabetize
+d: @en_provide with an alphabet
+fs: 10 8 9 11
+hypo: abastecer
+mt: noun.communication:discurso
+sa: @en:verb.possession:alphabetize
+
+w: @en_annex
+d: @en_take (territory) as if by conquest
+fs: 11 8
+hyper: verb.social:colonizar
+hypo: esbulhar
+sa: @en:verb.possession:annex
+
+w: @en_antique
+d: @en_shop for antiques
+fs: 2 22
+hypo: ir_às_compras 1
+mt: noun.act:comercialismo
+sa: @en:verb.possession:antique
+
+w: @en_appoint
+d: @en_furnish
+fs: 17 8 9
+hypo: aparelhar
+sa: @en:verb.possession:appoint
+
+w: @en_apportion
+w: @en_deal
+w: @en_divvy_up
+w: @en_portion_out
+w: @en_share
+d: @en_give out as one's portion or share
+fs: 21 8
+entail: verb.contact:dividir 14
+hypo: distribuir
+sa: @en:verb.possession:apportion
+
+w: @en_arbitrage
+d: @en_practice arbitrage, as in the stock market
+fs: 2
+hypo: @en_merchandise
+mt: noun.act:comercialismo
+sa: @en:verb.possession:arbitrage
+
+w: @en_arrogate
+w: @en_assign
+d: @en_make undue claims to having
+fs: 15
+hypo: reclamar
+sa: @en:verb.possession:arrogate 1
+
+w: @en_articulate
+w: @en_joint
+d: @en_provide with a joint
+fs: 8
+hypo: abastecer
+mt: noun.act:Carpintaria
+sa: @en:verb.possession:articulate
+
+w: @en_assess
+d: @en_charge (a person or a property) with a payment, such as a tax or a fine
+fs: 9
+hypo: cobrar 1
+sa: @en:verb.possession:assess 1
+vg: avaliar
+
+w: @en_assign 1
+d: @en_transfer one's right to
+fs: 15 14
+hypo: transferir 1
+sa: @en:verb.possession:assign
+
+w: @en_bail
+d: @en_deliver something in trust to somebody for a special purpose and for a limited period
+fs: 8
+hypo: alienar 1
+sa: @en:verb.possession:bail
+
+w: @en_balance
+d: @en_compute credits and debits of an account
+fs: 8
+hypo: computar
+sa: @en:verb.possession:balance
+
+w: @en_bank
+d: @en_do business with a bank or keep an account at a bank
+fs: 22
+hypo: tramitar
+sa: @en:verb.possession:bank 2
+
+w: @en_bank 1
+d: @en_act as the banker in a game or in gambling
+fs: 2
+hypo: verb.competition:atuar
+sa: @en:verb.possession:bank 3
+vg: @en_bank 2
+
+w: @en_bank 2
+d: @en_be in the banking business
+fs: 2
+hypo: verb.social:trabalhar 3
+sa: @en:verb.possession:bank 1
+vg: @en_bank 1
+
+w: @en_bankroll
+d: @en_provide with sufficient funds; finance
+fs: 8
+hypo: financiar 3
+sa: @en:verb.possession:bankroll
+
+w: @en_barter_away
+d: @en_trade in in a bartering transaction
+fs: 8
+hypo: @en_trade 1
+mt: noun.act:comercialismo
+sa: @en:verb.possession:barter_away
+
+w: @en_be
+d: @en_spend or use time
+fs: 11 8
+hypo: levar
+sa: @en:verb.possession:be
+
+w: @en_bear 1
+w: @en_pay
+w: @en_yield
+d: @en_bring in
+fs: 11
+hyper: @en_pay_off 1
+hyper: render
+hypo: adquirir 8
+mt: noun.possession:fundos_de_investimento
+sa: @en:verb.possession:bear 1
+
+w: @en_bear 2
+w: @en_hold
+d: @en_have rightfully; of rights, titles, and offices
+fs: 8
+hypo: ter 1
+sa: @en:verb.possession:bear
+
+w: @en_bed
+d: @en_furnish with a bed
+fs: 8
+hyper: @en_bunk
+hypo: abastecer
+sa: @en:verb.possession:bed
+
+w: @en_benefice
+d: @en_endow with a benefice
+fs: 17
+hypo: dotar
+sa: @en:verb.possession:benefice
+
+w: @en_bereave
+d: @en_deprive through death
+fs: 18
+hypo: privar
+sa: @en:verb.possession:bereave
+
+w: @en_berth
+d: @en_provide with a berth
+fs: 9
+hypo: abastecer
+sa: @en:verb.possession:berth
+
+w: @en_bewhisker
+w: @en_whisker
+d: @en_furnish with whiskers
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:bewhisker
+
+w: @en_bid
+w: @en_call
+d: @en_make a demand, as for a card or a suit or a show of hands
+fs: 2
+hyper: verb.competition:@en_raise 1
+hyper: @en_double
+hyper: @en_outbid 1
+hyper: @en_outcall
+hyper: @en_overbid 1
+hyper: @en_preempt
+hyper: @en_underbid 1
+hypo: verb.competition:jogar 2
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.possession:bid 1
+
+w: @en_bid 1
+d: @en_make a serious effort to attain something
+fs: 11 8
+hypo: perseguir
+sa: @en:verb.possession:bid 4
+
+w: @en_bilk
+d: @en_evade payment to
+fs: 9
+hypo: privar 1
+sa: @en:verb.possession:bilk
+
+w: @en_black_market
+w: @en_run
+d: @en_deal in illegally, such as arms or liquor
+fs: 8
+hypo: @en_merchandise
+mt: noun.act:crime 2
+sa: @en:verb.possession:black_market
+vg: verb.motion:@en_ply
+
+w: @en_black_marketeer
+d: @en_deal on the black market
+fs: 2
+hypo: vender 1
+mt: noun.act:crime 2
+sa: @en:verb.possession:black_marketeer
+
+w: @en_bleed
+d: @en_get or extort (money or other possessions) from someone
+fs: 9 16
+hypo: extorquir 1
+sa: @en:verb.possession:bleed 9
+
+w: @en_blow
+d: @en_spend lavishly or wastefully on
+fs: 8 19
+hypo: despender
+sa: @en:verb.possession:blow
+vg: desperdiçar
+
+w: @en_bond
+d: emitir obrigações financeiras
+fs: 8
+hypo: hipotecar
+sa: @en:verb.possession:bond
+
+w: @en_bootleg
+d: @en_sell illicit products such as drugs or alcohol
+fs: 8 2
+hypo: vender
+mt: noun.act:crime 2
+sa: @en:verb.possession:bootleg
+
+w: @en_border
+w: @en_edge
+d: decorar com  uma borda ou bainha
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:border
+
+w: @en_bottom
+d: @en_provide with a bottom or a seat
+fs: 8
+hypo: abastecer
+mt: noun.act:@en_cabinetry
+sa: @en:verb.possession:bottom
+
+w: @en_bounce
+d: @en_come back after being refused
+fs: 4 1
+hypo: verb.motion:devolver 1
+sa: @en:verb.possession:bounce
+vg: @en_bounce 1
+
+w: @en_bounce 1
+d: @en_refuse to accept and send back
+fs: 11 8
+cause: @en_bounce
+hypo: declinar
+sa: @en:verb.possession:bounce 1
+vg: @en_bounce
+
+w: @en_brattice
+d: @en_supply with a brattice, to ventilate mines
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:brattice
+
+w: @en_break_even
+d: equilibrar custos e lucros
+fs: 2
+sa: @en:verb.possession:break_even
+
+w: @en_breathe
+d: @en_impart as if by breathing
+fs: 21
+hypo: @en_instill
+sa: @en:verb.possession:breathe
+
+w: @en_bring_home
+w: @en_take_home
+d: @en_earn as a salary or wage
+fs: 8
+hypo: adquirir 8
+sa: @en:verb.possession:bring_home
+
+w: @en_bring_in
+d: @en_submit (a verdict) to a court
+fs: 8
+hypo: entregar 16
+sa: @en:verb.possession:bring_in 3
+
+w: @en_bull
+d: @en_try to raise the price of stocks through speculative buying
+fs: 8
+hypo: especular
+mt: noun.act:investimento
+sa: @en:verb.possession:bull
+vg: verb.change:@en_bull
+
+w: @en_bum
+w: @en_cadge
+w: @en_grub
+w: @en_mooch
+w: @en_sponge
+d: @en_ask for and get free; be a parasite
+fs: 2 8
+hyper: @en_freeload
+hypo: obter 7
+sa: @en:verb.possession:bum
+
+w: @en_bunk
+d: @en_provide with a bunk
+fs: 9
+hypo: @en_bed
+sa: @en:verb.possession:bunk
+
+w: @en_bunker
+d: @en_fill (a ship's bunker) with coal or oil
+fs: 8
+hypo: abastecer 1
+sa: @en:verb.possession:bunker
+
+w: @en_burn
+d: @en_spend (significant amounts of money)
+fs: 8
+hypo: desperdiçar
+sa: @en:verb.possession:burn 1
+
+w: @en_bush
+d: @en_provide with a bushing
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:bush
+
+w: @en_buy_food
+w: @en_take_out
+d: @en_purchase prepared food to be eaten at home
+fs: 8
+hypo: adquirir 7
+sa: @en:verb.possession:buy_food
+
+w: @en_buy_into
+d: @en_buy stocks or shares of a company
+fs: 8
+hypo: investir
+mt: noun.act:investimento
+sa: @en:verb.possession:buy_into
+
+w: @en_by-bid
+d: @en_bid on behalf of someone else
+fs: 2
+hypo: oferecer 6
+mt: noun.act:almoeda
+sa: @en:verb.possession:by-bid
+
+w: @en_cache
+w: @en_hive_up
+w: @en_hoard
+w: @en_lay_away
+w: @en_squirrel_away
+w: @en_stash
+d: @en_save up as for future use
+fs: 8
+hypo: _poupar
+sa: @en:verb.possession:cache
+
+w: @en_cadge 1
+w: @en_schnorr
+w: @en_scrounge
+w: @en_shnorr
+d: @en_obtain or seek to obtain by cadging or wheedling
+fs: 16 2
+hypo: captar
+sa: @en:verb.possession:cadge 1
+
+w: @en_carry
+d: @en_have on the surface or on the skin
+fs: 8
+hypo: verb.stative:portar 1
+sa: @en:verb.possession:carry 10
+
+w: @en_carry 1
+w: @en_post
+d: @en_transfer (entries) from one account book to another
+fs: 8
+hypo: transferir 2
+sa: @en:verb.possession:carry 13
+vg: verb.motion:@en_carry
+
+w: @en_carry 2
+d: @en_capture after a fight
+fs: 8
+hypo: apropriar-se
+sa: @en:verb.possession:carry 4
+
+w: @en_carry 3
+w: @en_stock
+w: @en_stockpile
+d: @en_have on hand
+fs: 8
+hypo: ter 1
+sa: @en:verb.possession:carry
+
+w: @en_carry-the_can
+w: @en_face_the_music
+d: @en_accept the unpleasant consequences of one's actions
+fs: 2
+hypo: @en_accept 1
+sa: @en:verb.possession:carry-the_can
+
+w: @en_carry_over
+w: @en_hold_over
+d: @en_hold over goods to be sold for the next season
+fs: 8
+hypo: guardar 3
+sa: @en:verb.possession:carry_over
+
+w: @en_cash_in_on
+d: @en_take advantage of or capitalize on
+fs: 8
+hypo: beneficiar
+sa: @en:verb.possession:cash_in_on
+
+w: @en_causeway
+d: @en_provide with a causeway
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:causeway
+
+w: @en_certificate
+d: @en_present someone with a certificate
+fs: 9
+hypo: outorgar 7
+sa: @en:verb.possession:certificate
+
+w: @en_chalk_up
+w: @en_run_up
+d: @en_accumulate as a debt
+fs: 8
+hypo: dever 1
+sa: @en:verb.possession:chalk_up
+
+w: @en_change_hands
+w: @en_change_owners
+d: @en_be transferred to another owner
+fs: 1
+hyper: @en_accrue
+hyper: @en_devolve
+hyper: @en_vest
+hypo: verb.motion:deslocar 2
+sa: @en:verb.possession:change_hands
+
+w: @en_charge
+d: @en_enter a certain amount as a charge
+fs: 8 15
+hypo: debitar 1
+sa: @en:verb.possession:charge 2
+vg: cobrar 1
+
+w: @en_check
+d: @en_hand over something to somebody as for temporary safekeeping
+fs: 15
+hypo: consignar
+sa: @en:verb.possession:check
+vg: @en_check 1
+
+w: @en_check 1
+d: @en_consign for shipment on a vehicle
+fs: 8
+hypo: consignar
+sa: @en:verb.possession:check 13
+vg: @en_check
+
+w: @en_check_out
+w: @en_cheque
+d: @en_withdraw money by writing a check
+fs: 8
+hypo: sacar
+sa: @en:verb.possession:check_out 2
+
+w: @en_check_out 1
+d: @en_record, add up, and receive payment for items purchased
+fs: 2 8
+entail: adquirir 7
+sa: @en:verb.possession:check_out
+
+w: @en_chuck
+w: @en_ditch
+d: @en_throw away
+fs: 8
+hypo: abandonar 4
+mu: noun.communication:calão
+sa: @en:verb.possession:chuck
+
+w: @en_clean_out
+d: @en_deprive completely of money or goods
+fs: 10 9
+hypo: privar
+sa: @en:verb.possession:clean_out
+
+w: @en_clean_up
+d: @en_dispose of
+fs: 8
+hypo: alienar
+sa: @en:verb.possession:clean_up
+
+w: @en_clean_up 1
+d: @en_make a big profit; often in a short period of time
+fs: 2
+hypo: lucrar 2
+sa: @en:verb.possession:clean_up 4
+
+w: @en_clear
+d: @en_sell
+fs: 8
+hypo: vender
+mt: noun.act:comercialismo
+sa: @en:verb.possession:clear 9
+
+w: @en_clear 1
+d: @en_be debited and credited to the proper bank accounts
+fs: 1
+sa: @en:verb.possession:clear 7
+
+w: @en_cleat
+d: @en_provide with cleats
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:cleat
+
+w: @en_close_out
+d: @en_terminate by selling off or disposing of
+fs: 8
+hypo: descartar
+sa: @en:verb.possession:close_out
+
+w: @en_cloy
+w: @en_surfeit
+d: @en_supply or feed to surfeit
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:cloy
+
+w: @en_coal
+d: @en_supply with coal
+fs: 9 10 8 11
+hypo: abastecer
+sa: @en:verb.possession:coal
+
+w: @en_coinsure
+d: @en_take out coinsurance
+fs: 9 8
+hypo: assegurar
+sa: @en:verb.possession:coinsure
+
+w: @en_combine
+d: @en_add together from different sources
+fs: 8
+hypo: conceder 5
+sa: @en:verb.possession:combine
+
+w: @en_come_by
+w: @en_come_into
+d: @en_obtain, especially accidentally
+fs: 8
+hyper: encontrar 4
+hypo: adquirir 1
+sa: @en:verb.possession:come_by
+
+w: @en_come_upon
+w: @en_enter_upon
+w: @en_luck_into
+d: @en_take possession of
+fs: 8 16 9
+hypo: adquirir 1
+sa: @en:verb.possession:come_upon 1
+
+w: @en_communalise
+w: @en_communalize
+d: @en_make something the property of the commune or community
+fs: 8
+hypo: compartilhar
+sa: @en:verb.possession:communalise
+
+w: @en_comparison-shop
+d: @en_compare prices for a given item
+fs: 2
+hypo: ir_às_compras 1
+mt: noun.act:comercialismo
+sa: @en:verb.possession:comparison-shop
+
+w: @en_compound
+d: @en_calculate principal and interest
+fs: 8
+hypo: computar
+sa: @en:verb.possession:compound
+
+w: @en_condemn
+d: @en_appropriate (property) for public use
+fs: 8
+hypo: apreender
+sa: @en:verb.possession:condemn
+
+w: @en_consign
+d: @en_commit forever; commit irrevocably
+fs: 21
+hypo: abandonar 4
+sa: @en:verb.possession:consign 1
+
+w: @en_consign 1
+d: @en_send to an address
+fs: 21 8
+hypo: verb.contact:entregar
+sa: @en:verb.possession:consign 2
+
+w: @en_constitutionalize
+d: @en_provide with a constitution, as of a country
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:constitutionalize
+
+w: @en_copper-bottom
+d: @en_provide with a copper bottom
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:copper-bottom
+
+w: @en_copyright
+d: @en_secure a copyright on a written work
+fs: 8
+hypo: adquirir 3
+sa: @en:verb.possession:copyright
+
+w: @en_corbel
+d: @en_furnish with a corbel
+fs: 8
+hypo: abastecer
+mt: noun.cognition:arquitectura
+sa: @en:verb.possession:corbel
+
+w: @en_cornice
+d: @en_furnish with a cornice
+fs: 8
+hypo: abastecer
+mt: noun.cognition:arquitectura
+sa: @en:verb.possession:cornice
+
+w: @en_costume
+d: @en_furnish with costumes; as for a film or play
+fs: 9 8
+hypo: abastecer
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.possession:costume
+
+w: @en_cozen
+d: @en_cheat or trick
+fs: 22 8 21
+hypo: adquirir 2
+hypo: verb.social:calotear 1
+sa: @en:verb.possession:cozen
+
+w: @en_crenel
+w: @en_crenelate
+w: @en_crenellate
+d: @en_supply with battlements
+fs: 8
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:crenel
+
+w: @en_crib
+d: @en_take unauthorized (intellectual material)
+fs: 8
+hypo: plagiar
+mt: noun.act:crime 2
+sa: @en:verb.possession:crib
+
+w: @en_cull
+d: @en_remove something that has been rejected
+fs: 2 8
+hypo: livrar 2
+sa: @en:verb.possession:cull
+
+w: @en_cut_in
+d: @en_allow someone to have a share or profit
+fs: 9
+hypo: @en_partake
+sa: @en:verb.possession:cut_in
+
+w: @en_dado
+d: @en_provide with a dado
+fs: 8
+hypo: abastecer
+mt: noun.act:Carpintaria
+sa: @en:verb.possession:dado
+
+w: @en_de-access
+d: @en_dispose of by selling
+fs: 8
+hypo: descartar
+sa: @en:verb.possession:de-access
+
+w: @en_de-aerate
+w: @en_deaerate
+d: @en_remove air or gas from
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:de-aerate
+
+w: @en_deaccession
+d: @en_sell (art works) from a collection, especially in order to raise money for the purchase of other art works
+fs: 8
+hypo: vender
+mt: noun.act:arte
+mt: noun.act:comercialismo
+sa: @en:verb.possession:deaccession
+
+w: @en_deal 1
+d: @en_sell
+fs: 8
+hypo: vender 1
+mt: noun.act:comercialismo
+sa: @en:verb.possession:deal 11
+vg: vender 1
+
+w: @en_deal 2
+d: @en_give (a specific card) to a player
+fs: 15
+hypo: ceder 1
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.possession:deal 6
+vg: cartear
+
+w: @en_decaffeinate
+d: @en_remove caffeine from (coffee)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:decaffeinate
+
+w: @en_decarbonate
+d: @en_remove carbon dioxide from
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:decarbonate
+
+w: @en_decerebrate
+d: @en_remove the cerebrum from (a human body)
+fs: 9
+hypo: livrar 2
+mt: noun.cognition:cirurgia
+sa: @en:verb.possession:decerebrate
+
+w: @en_dechlorinate
+d: @en_remove chlorine from (water)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:dechlorinate
+
+w: @en_decommission
+d: @en_withdraw from active service
+fs: 8
+hypo: retirar 1
+sa: @en:verb.possession:decommission
+
+w: @en_defalcate
+w: @en_embezzle
+w: @en_malversate
+w: @en_misappropriate
+w: @en_peculate
+d: @en_appropriate (as property entrusted to one's care) fraudulently to one's own use
+fs: 16 8
+hyper: @en_fiddle
+hypo: furtar 2
+sa: @en:verb.possession:defalcate
+
+w: @en_defat
+d: @en_remove the fat from
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:defat
+
+w: @en_default
+w: @en_default_on
+d: @en_fail to pay up
+fs: 22 2
+entail: dever
+hypo: verb.social:falhar
+sa: @en:verb.possession:default
+
+w: @en_defibrinate
+d: @en_remove fibrin from (blood)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:defibrinate
+
+w: @en_defray
+d: @en_bear the expenses of
+fs: 8
+hypo: pagar 6
+sa: @en:verb.possession:defray
+
+w: @en_degrease
+d: @en_remove grease or oil from (a pan)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:degrease
+
+w: @en_delist
+d: @en_remove (a security) from listing at a stock exchange
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:delist
+
+w: @en_delocalize
+d: @en_remove from the proper or usual locality
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:delocalize
+
+w: @en_demise
+d: @en_transfer by a lease or by a will
+fs: 8
+hypo: transferir 1
+sa: @en:verb.possession:demise
+
+w: @en_deplume
+w: @en_displume
+d: @en_strip of honors, possessions, or attributes
+fs: 9 10
+hypo: pilhar 1
+sa: @en:verb.possession:deplume
+
+w: @en_derequisition
+d: @en_release from government control
+fs: 8
+hypo: abandonar 2
+sa: @en:verb.possession:derequisition
+
+w: @en_derive
+w: @en_gain
+d: @en_obtain
+fs: 16 8
+hyper: @en_draw
+hypo: obter 7
+sa: @en:verb.possession:derive
+
+w: @en_desacralize
+w: @en_secularize
+d: @en_transfer from ecclesiastical to civil possession, use, or control
+fs: 8
+hypo: transferir 1
+sa: @en:verb.possession:desacralize
+
+w: @en_destain
+d: @en_remove stain from (a laboratory specimen) to enhance contrast
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:destain
+
+w: @en_desulfurize
+w: @en_desulphurize
+d: @en_remove sulfur from
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:desulfurize
+
+w: @en_detick
+d: @en_free (a pet) of ticks
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:detick
+
+w: @en_devein
+d: @en_remove the dark dorsal vein of (a shrimp)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:devein
+
+w: @en_devise
+d: @en_give by will, especially real property
+fs: 8
+hypo: dar 16
+sa: @en:verb.possession:devise
+
+w: @en_devolve
+w: @en_fall 1
+w: @en_pass
+w: @en_return
+d: @en_be inherited by
+fs: 10
+hyper: cair
+hypo: @en_change_hands
+sa: @en:verb.possession:devolve 13
+vg: @en_accrue
+
+w: @en_devote
+d: @en_set aside or apart for a specific purpose or use
+fs: 8
+hypo: guardar 2
+sa: @en:verb.possession:devote
+
+w: @en_dip
+d: @en_take a small amount from
+fs: 22 21 20
+hypo: sacar
+sa: @en:verb.possession:dip 12
+
+w: @en_disembody
+d: @en_free from a body or physical form or reality
+fs: 10
+hypo: desimpedir
+sa: @en:verb.possession:disembody
+
+w: @en_dishonor
+w: @en_dishonour
+d: @en_refuse to accept
+fs: 8
+hypo: declinar
+sa: @en:verb.possession:dishonor
+
+w: @en_disinfest
+d: @en_rid of vermin
+fs: 11 8
+hypo: desimpedir
+sa: @en:verb.possession:disinfest
+
+w: @en_disinvest
+w: @en_divest
+d: @en_reduce or dispose of; cease to hold (an investment)
+fs: 2 22 8
+hypo: sacar
+sa: @en:verb.possession:disinvest
+
+w: @en_dispossess
+d: @en_deprive of the possession of real estate
+fs: 9
+hypo: privar
+sa: @en:verb.possession:dispossess
+
+w: @en_distrain
+d: @en_confiscate by distress
+fs: 8
+hypo: apreender
+sa: @en:verb.possession:distrain
+
+w: @en_distrain 1
+d: @en_legally take something in place of a debt payment
+fs: 22
+hypo: reaver
+sa: @en:verb.possession:distrain 2
+
+w: @en_distrain 2
+d: @en_levy a distress on
+fs: 8 9
+hypo: arrecadar 1
+sa: @en:verb.possession:distrain 1
+
+w: @en_divert
+w: @en_hive_off
+d: @en_withdraw (money) and move into a different location, often secretly and with dishonest intentions
+fs: 8
+hypo: sacar
+sa: @en:verb.possession:divert
+
+w: @en_dock
+d: @en_deduct from someone's wages
+fs: 8
+hypo: deduzir
+sa: @en:verb.possession:dock
+
+w: @en_dock 1
+d: @en_deprive someone of benefits, as a penalty
+fs: 18 9
+hypo: privar 1
+sa: @en:verb.possession:dock 1
+
+w: @en_double
+d: @en_bridge: make a demand for (a card or suit)
+fs: 8
+hypo: @en_bid
+sa: @en:verb.possession:double 3
+
+w: @en_double-glaze
+d: @en_provide with two sheets of glass
+fs: 8
+hypo: envidraçar
+sa: @en:verb.possession:double-glaze
+
+w: @en_double_up
+d: @en_share a room or a bed designed for only one person
+fs: 1 2
+hypo: compartilhar
+sa: @en:verb.possession:double_up
+
+w: @en_draw
+w: @en_reap
+d: @en_get or derive
+fs: 8 16
+hypo: @en_derive
+sa: @en:verb.possession:draw
+vg: verb.emotion:atrair 3
+
+w: @en_dump
+w: @en_underprice
+d: @en_sell at artificially low prices
+fs: 21 8
+hypo: vender
+sa: @en:verb.possession:dump 1
+
+w: @en_eke_out
+w: @en_squeeze_out
+d: @en_make by laborious and precarious means
+fs: 8
+hypo: adquirir 8
+sa: @en:verb.possession:eke_out 1
+
+w: @en_eke_out 1
+w: @en_squeeze_out 1
+d: @en_obtain with difficulty
+fs: 22
+hypo: obter 7
+sa: @en:verb.possession:eke_out
+
+w: @en_eke_out 2
+w: @en_fill_out
+d: @en_supplement what is thought to be deficient
+fs: 8
+hypo: @en_supplement
+sa: @en:verb.possession:eke_out 2
+
+w: @en_embattle
+d: @en_fortify by furnishing with battlements for defense
+fs: 8
+hypo: verb.contact:fortificar
+sa: @en:verb.possession:embattle
+
+w: @en_enfeoff
+d: @en_put in possession of land in exchange for a pledge of service, in feudal society
+fs: 17
+hypo: dar 15
+sa: @en:verb.possession:enfeoff
+
+w: @en_ensile
+d: @en_store in a silo
+fs: 8
+hypo: armazenar 2
+sa: @en:verb.possession:ensile
+
+w: @en_entail
+w: @en_fee-tail
+d: @en_limit the inheritance of property to a specific class of heirs
+fs: 8
+hypo: dar 16
+sa: @en:verb.possession:entail
+
+w: @en_excise
+d: @en_levy an excise tax on
+fs: 8 9
+hypo: taxar
+sa: @en:verb.possession:excise
+
+w: @en_export
+d: @en_transfer (electronic data) out of a database or document in a format that can be used by other programs
+fs: 8
+hypo: transferir 2
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.possession:export 1
+
+w: @en_extend
+w: @en_offer
+d: @en_make available; provide
+fs: 15 8
+hypo: abastecer
+sa: @en:verb.possession:extend 5
+vg: oferecer 5
+
+w: @en_extract
+d: @en_get despite difficulties or obstacles
+fs: 8
+hypo: obter 7
+sa: @en:verb.possession:extract
+
+w: @en_factor
+d: @en_be a contributing factor
+fs: 4
+hypo: adicionar
+sa: @en:verb.possession:factor
+
+w: @en_fall 2
+d: @en_to be given by right or inheritance
+fs: 4
+sa: @en:verb.possession:fall 12
+vg: cair 1
+
+w: @en_fall 3
+d: @en_be captured
+fs: 1
+hypo: verb.competition:aceitar
+sa: @en:verb.possession:fall 5
+vg: verb.stative:cair 2
+
+w: @en_farm
+d: @en_collect fees or profits
+fs: 8
+hypo: acumular 1
+sa: @en:verb.possession:farm
+
+w: @en_feather_one's_nest
+d: @en_enrich oneself by taking advantage of one's position
+fs: 9
+hypo: enriquecer
+sa: @en:verb.possession:feather_one's_nest
+
+w: @en_feed_back
+w: @en_resubmit
+d: @en_submit (information) again to a program or automatic system
+fs: 8 15 21
+hypo: dar 18
+sa: @en:verb.possession:feed_back
+
+w: @en_fence
+d: @en_receive stolen goods
+fs: 2
+hypo: receber 1
+sa: @en:verb.possession:fence
+
+w: @en_fettle
+d: @en_remove mold marks or sand from (a casting)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:fettle
+
+w: @en_fiddle
+d: @en_commit fraud and steal from one's employer
+fs: 2
+hypo: @en_defalcate
+sa: @en:verb.possession:fiddle
+
+w: @en_fin
+d: @en_equip (a car) with fins
+fs: 8
+hypo: aparelhar
+sa: @en:verb.possession:fin
+
+w: @en_fire
+w: @en_fuel
+d: @en_provide with fuel
+fs: 11
+hypo: abastecer
+sa: @en:verb.possession:fire
+
+w: @en_flense
+d: @en_strip the blubber or skin from (a whale or seal)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:flense
+
+w: @en_flesh
+d: @en_remove adhering flesh from (hides) when preparing leather manufacture
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:flesh
+
+w: @en_flood
+w: @en_glut
+w: @en_oversupply
+d: @en_supply with an excess of
+fs: 8 17 11
+hypo: abastecer
+sa: @en:verb.possession:flood
+
+w: @en_fob_off
+w: @en_foist_off
+w: @en_palm_off
+d: @en_sell as genuine, sell with the intention to deceive
+fs: 19
+hypo: vender
+mt: noun.act:comercialismo
+mt: noun.act:crime 2
+sa: @en:verb.possession:fob_off
+
+w: @en_forage
+w: @en_scrounge 1
+d: @en_collect or look around for (food)
+fs: 22 2 1
+hyper: @en_rustle
+hypo: verb.competition:caçar
+sa: @en:verb.possession:forage
+
+w: @en_foreclose
+d: @en_subject to foreclosing procedures; take away the right of mortgagors to redeem their mortgage
+fs: 8
+hypo: reaver
+sa: @en:verb.possession:foreclose
+
+w: @en_freeload
+d: @en_live off somebody's generosity
+fs: 2
+hypo: @en_bum
+sa: @en:verb.possession:freeload
+
+w: @en_fret
+d: @en_provide (a musical instrument) with frets
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:fret
+
+w: @en_fuel 1
+d: @en_take in fuel, as of a ship
+fs: 1 4
+hyper: reabastecer
+hypo: verb.contact:@en_take_in 1
+sa: @en:verb.possession:fuel 3
+
+w: @en_fund
+d: @en_invest money in government securities
+fs: 8
+hypo: investir
+sa: @en:verb.possession:fund 4
+
+w: @en_fund 1
+d: @en_provide a fund for the redemption of principal or payment of interest
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:fund 5
+
+w: @en_fund 2
+d: @en_convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds
+fs: 8
+hypo: financiar
+sa: @en:verb.possession:fund 2
+
+w: @en_fund 3
+d: @en_accumulate a fund for the discharge of a recurrent liability
+fs: 11 8
+hypo: acumular 2
+sa: @en:verb.possession:fund 3
+vg: financiar 3
+
+w: @en_fund 4
+d: @en_place or store up in a fund for accumulation
+fs: 8
+hypo: acumular 2
+sa: @en:verb.possession:fund 1
+
+w: @en_garage
+d: @en_keep or store in a garage
+fs: 8
+hypo: armazenar 2
+sa: @en:verb.possession:garage
+
+w: @en_gate
+d: @en_supply with a gate
+fs: 8
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:gate
+
+w: @en_gazump
+d: @en_raise the price of something after agreeing on a lower price
+fs: 9
+hypo: verb.social:calotear 1
+sa: @en:verb.possession:gazump 1
+
+w: @en_give 1
+w: @en_sacrifice
+d: @en_endure the loss of
+fs: 8 15
+hypo: abandonar 2
+sa: @en:verb.possession:give 10
+vg: verb.cognition:prestar
+vg: verb.communication:comprometer 3
+
+w: @en_give 2
+d: @en_deliver in exchange or recompense
+fs: 20
+hypo: compensar 1
+sa: @en:verb.possession:give 12
+
+w: @en_give_away
+d: @en_make a gift of
+fs: 8
+hypo: dar 14
+sa: @en:verb.possession:give_away
+
+w: @en_give_away 1
+d: @en_formally hand over to the bridegroom in marriage; of a bride by her father
+fs: 9
+hypo: alienar 1
+sa: @en:verb.possession:give_away 1
+
+w: @en_glom
+d: @en_seize upon or latch onto something
+fs: 22
+hypo: adquirir 1
+sa: @en:verb.possession:glom 13
+
+w: @en_go_Dutch
+d: @en_share expenses equally and split the cost of something
+fs: 2
+hypo: pagar 6
+sa: @en:verb.possession:go_Dutch
+
+w: @en_grab
+d: @en_obtain illegally or unscrupulously
+fs: 8
+hypo: obter 7
+sa: @en:verb.possession:grab 3
+
+w: @en_grate
+d: @en_furnish with a grate
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:grate
+
+w: @en_gross
+d: @en_earn before taxes, expenses, etc.
+fs: 8
+hypo: adquirir 8
+sa: @en:verb.possession:gross
+
+w: @en_grubstake
+d: @en_supply with funds in return for a promised share of profits
+fs: 9 8
+hypo: financiar 3
+sa: @en:verb.possession:grubstake
+
+w: @en_hand_down
+d: @en_passed on, as by inheritance
+fs: 15 8
+hypo: @en_pass_on
+sa: @en:verb.possession:hand_down
+
+w: @en_harbor
+w: @en_harbour
+d: @en_keep in one's possession; of animals
+fs: 8
+hypo: guardar 3
+sa: @en:verb.possession:harbor
+
+w: @en_hat
+d: @en_furnish with a hat
+fs: 8 9
+hypo: abastecer
+sa: @en:verb.possession:hat
+
+w: @en_have
+d: @en_have left
+fs: 8
+hyper: verb.stative:@en_leave
+sa: @en:verb.possession:have 1
+
+w: @en_headline
+d: @en_provide (a newspaper page or a story) with a headline
+fs: 8 11
+hypo: abastecer
+mt: noun.act:publicação 1
+sa: @en:verb.possession:headline
+
+w: @en_headquarter
+d: @en_provide with headquarters
+fs: 8 9
+hypo: abastecer
+sa: @en:verb.possession:headquarter
+
+w: @en_heap
+d: @en_bestow in large quantities
+fs: 19 17
+hypo: dar 15
+sa: @en:verb.possession:heap
+
+w: @en_hijack
+d: @en_seize control of
+fs: 8
+hypo: esbulhar
+sa: @en:verb.possession:hijack
+
+w: @en_hive
+d: @en_store, like bees
+fs: 8
+hypo: acumular
+sa: @en:verb.possession:hive 3
+
+w: @en_hobnail
+d: @en_supply with hobnails
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:hobnail
+
+w: @en_hog
+d: @en_take greedily; take more than one's share
+fs: 8
+hypo: arrebatar
+sa: @en:verb.possession:hog
+
+w: @en_hold_down
+d: @en_keep
+fs: 8
+hypo: deter
+sa: @en:verb.possession:hold_down
+
+w: @en_hold_open
+w: @en_keep
+w: @en_keep_open
+w: @en_save
+d: @en_retain rights to
+fs: 8
+hypo: verb.social:inscrever-se
+sa: @en:verb.possession:hold_open
+vg: guardar 3
+
+w: @en_hold_the_line
+d: @en_hold the line on prices; keep the price of something constant
+fs: 13
+hypo: acautelar
+sa: @en:verb.possession:hold_the_line
+
+w: @en_hold_up
+w: @en_stick_up
+d: @en_rob at gunpoint or by means of some other threat
+fs: 9
+entail: verb.competition:agredir
+hyper: @en_mug
+hypo: furtar 3
+mt: noun.act:crime 2
+sa: @en:verb.possession:hold_up
+
+w: @en_horseshoe
+d: @en_equip (a horse) with a horseshoe or horseshoes
+fs: 8
+hypo: aparelhar
+sa: @en:verb.possession:horseshoe
+
+w: @en_hustle
+d: @en_get by trying hard
+fs: 8
+hypo: receber 1
+sa: @en:verb.possession:hustle 1
+
+w: @en_impulse-buy
+d: @en_buy on impulse without proper reflection
+fs: 8
+hypo: adquirir 7
+mt: noun.act:comercialismo
+sa: @en:verb.possession:impulse-buy
+
+w: @en_index
+d: @en_provide with an index
+fs: 8
+hypo: abastecer
+mt: noun.act:publicação 1
+sa: @en:verb.possession:index
+
+w: @en_inherit
+d: @en_receive by genetic transmission
+fs: 8
+hypo: receber 1
+sa: @en:verb.possession:inherit 1
+vg: herdar 1
+
+w: @en_innervate
+d: @en_supply nerves to (some organ or body part)
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:innervate
+
+w: @en_instill
+w: @en_transfuse
+d: @en_impart gradually
+fs: 11 15 8 4
+hyper: @en_breathe
+hypo: adicionar
+sa: @en:verb.possession:instill
+
+w: @en_instrument
+d: @en_equip with instruments for measuring, recording, or controlling
+fs: 10 8
+hypo: aparelhar
+sa: @en:verb.possession:instrument
+
+w: @en_insufflate
+d: @en_breathe or blow onto as a ritual or sacramental act, especially so as to symbolize the action of the Holy Spirit
+fs: 8 9
+hypo: @en_administer
+sa: @en:verb.possession:insufflate
+
+w: @en_interleave
+d: @en_provide (books) with blank leaves
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:interleave
+
+w: @en_junk
+w: @en_scrap
+w: @en_trash
+d: @en_dispose of (something useless or old)
+fs: 8
+hypo: descartar
+sa: @en:verb.possession:junk
+
+w: @en_keep 1
+d: @en_look after; be the keeper of; have charge of
+fs: 9 8
+hyper: acautelar
+hypo: ter 1
+sa: @en:verb.possession:keep 1
+vg: verb.stative:defender
+
+w: @en_keep 2
+w: @en_maintain
+d: @en_maintain for use and service
+fs: 8
+hypo: ter 1
+sa: @en:verb.possession:keep 10
+
+w: @en_keep 3
+d: @en_have as a supply
+fs: 8
+hypo: ter 1
+sa: @en:verb.possession:keep 12
+vg: @en_keep 4
+
+w: @en_keep 4
+d: @en_store or keep customarily
+fs: 8
+hypo: armazenar 2
+sa: @en:verb.possession:keep 13
+vg: @en_keep 3
+
+w: @en_keep_to_oneself
+d: @en_withhold information
+fs: 8
+hypo: conter
+sa: @en:verb.possession:keep_to_oneself
+
+w: @en_kern
+d: @en_furnish with a kern
+fs: 8
+hypo: abastecer
+mt: noun.communication:Produção_gráfica
+sa: @en:verb.possession:kern 1
+
+w: @en_kern 1
+d: @en_remove a portion of space between (adjacent letters)
+fs: 8
+hypo: livrar 2
+mt: noun.communication:Produção_gráfica
+sa: @en:verb.possession:kern
+
+w: @en_key
+d: @en_provide with a key
+fs: 9
+hypo: abastecer
+sa: @en:verb.possession:key
+
+w: @en_kit
+w: @en_kit_out
+w: @en_kit_up
+d: @en_supply with a set of articles or tools
+fs: 17 8 9
+hypo: aparelhar
+sa: @en:verb.possession:kit
+
+w: @en_kite
+d: @en_get credit or money by using a bad check
+fs: 8 2
+hypo: obter 7
+sa: @en:verb.possession:kite
+
+w: @en_kite 1
+d: @en_increase the amount (of a check) fraudulently
+fs: 8
+hypo: verb.change:ampliar 1
+sa: @en:verb.possession:kite 1
+
+w: @en_knock_off
+w: @en_shave
+d: @en_cut the price of
+fs: 8
+hyper: @en_mark_down
+hypo: verb.change:diminuir 17
+sa: @en:verb.possession:knock_off 3
+
+w: @en_land
+d: @en_deliver (a blow)
+fs: 21
+hypo: dar 21
+sa: @en:verb.possession:land
+
+w: @en_lapse
+d: @en_let slip
+fs: 8
+hypo: deixar_passar
+sa: @en:verb.possession:lapse
+
+w: @en_lay
+d: @en_impose as a duty, burden, or punishment
+fs: 8 11 21
+hypo: arrecadar 1
+sa: @en:verb.possession:lay
+
+w: @en_lay_out
+d: @en_spend or invest
+fs: 8
+hypo: despender
+sa: @en:verb.possession:lay_out
+
+w: @en_letter
+d: @en_win an athletic letter
+fs: 8 2
+hypo: ganhar 2
+sa: @en:verb.possession:letter
+
+w: @en_leverage
+d: @en_supplement with leverage
+fs: 8 11
+hypo: @en_supplement
+sa: @en:verb.possession:leverage 1
+
+w: @en_leverage 1
+d: @en_provide with leverage
+fs: 8 9
+hypo: abastecer
+sa: @en:verb.possession:leverage
+
+w: @en_lift
+d: @en_pay off (a mortgage)
+fs: 8
+hypo: @en_liquidate
+sa: @en:verb.possession:lift 2
+
+w: @en_line_one's_pockets
+d: @en_make a lot of money
+fs: 2 22
+hypo: lucrar 2
+sa: @en:verb.possession:line_one's_pockets
+
+w: @en_liquidate
+w: @en_pay_off
+d: @en_eliminate by paying off (debts)
+fs: 8
+hyper: @en_lift
+hyper: amortizar
+hypo: custear
+sa: @en:verb.possession:liquidate
+
+w: @en_liquidate 1
+d: @en_convert into cash
+fs: 8
+hypo: descontar 2
+sa: @en:verb.possession:liquidate 2
+
+w: @en_liquidize
+w: @en_sell_out
+w: @en_sell_up
+d: @en_get rid of all one's merchandise
+fs: 8 2
+entail: vender
+hypo: descartar
+mt: noun.act:comercialismo
+sa: @en:verb.possession:liquidize
+
+w: @en_load
+d: @en_transfer from a storage device to a computer's memory
+fs: 8
+hypo: transferir 2
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.possession:load 12
+
+w: @en_locate
+w: @en_place
+w: @en_site
+d: @en_assign a location to
+fs: 11 8 10 9
+hypo: verb.competition:situar
+sa: @en:verb.possession:locate 1
+
+w: @en_loft
+d: @en_store in a loft
+fs: 8
+hypo: armazenar 2
+sa: @en:verb.possession:loft
+
+w: @en_lose
+d: @en_fail to keep or to maintain; cease to have, either physically or in an abstract sense
+fs: 8 11
+hyper: verb.change:@en_white-out
+hyper: @en_sleep_off
+sa: @en:verb.possession:lose 2
+
+w: @en_lose 1
+d: @en_fail to get or obtain
+fs: 15 8
+sa: @en:verb.possession:lose
+
+w: @en_machicolate
+d: @en_supply with projecting galleries
+fs: 8
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:machicolate
+
+w: @en_manipulate
+w: @en_rig
+d: @en_manipulate in a fraudulent manner
+fs: 8
+hypo: avaliar 1
+sa: @en:verb.possession:manipulate
+
+w: @en_mark_down
+d: @en_reduce the price of
+fs: 8
+hyper: descontar 1
+hypo: @en_knock_off
+sa: @en:verb.possession:mark_down
+
+w: @en_mark_up
+d: @en_increase the price of
+fs: 8
+hypo: avaliar 1
+sa: @en:verb.possession:mark_up
+
+w: @en_market
+d: @en_deal in a market
+fs: 2 22
+hypo: vender 1
+mt: noun.act:comercialismo
+sa: @en:verb.possession:market 1
+
+w: @en_market 1
+d: @en_engage in the commercial promotion, sale, or distribution of
+fs: 8
+hyper: oferecer 3
+hypo: @en_merchandise
+mt: noun.act:comercialismo
+sa: @en:verb.possession:market
+
+w: @en_market 2
+d: @en_buy household supplies
+fs: 2
+hypo: ir_às_compras
+mt: noun.act:comercialismo
+sa: @en:verb.possession:market 5
+
+w: @en_match
+d: @en_provide funds complementary to
+fs: 8 11 9
+hypo: abastecer
+sa: @en:verb.possession:match
+
+w: @en_merchandise
+w: @en_trade
+d: @en_engage in the trade of
+fs: 8
+entail: adquirir 7
+entail: vender
+hyper: @en_arbitrage
+hyper: @en_black_market
+hyper: @en_market 1
+hyper: exportar
+hyper: importar
+hyper: traficar 1
+hyper: traficar 2
+mt: noun.act:comercialismo
+sa: @en:verb.possession:merchandise
+
+w: @en_misdeal
+d: @en_deal cards wrongly
+fs: 8
+hypo: cartear
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.possession:misdeal
+
+w: @en_miter
+d: @en_confer a miter on (a bishop)
+fs: 10 9
+hypo: conceder 1
+sa: @en:verb.possession:miter
+
+w: @en_mothball
+d: @en_put into long-term storage
+fs: 8
+hypo: armazenar 2
+sa: @en:verb.possession:mothball
+
+w: @en_motorize
+d: @en_equip with a motor
+fs: 8
+hypo: aparelhar
+sa: @en:verb.possession:motorize 3
+
+w: @en_motorize 1
+d: @en_equip with a motor vehicle
+fs: 8
+hypo: aparelhar
+sa: @en:verb.possession:motorize 5
+
+w: @en_move
+d: @en_dispose of by selling
+fs: 8
+hypo: vender
+sa: @en:verb.possession:move
+
+w: @en_mug
+d: @en_rob at gunpoint or with the threat of violence
+fs: 9
+hypo: @en_hold_up
+mt: noun.act:crime 2
+sa: @en:verb.possession:mug
+
+w: @en_munition
+d: @en_supply with weapons
+fs: 9 8
+hypo: armar
+sa: @en:verb.possession:munition
+
+w: @en_nail
+w: @en_pinpoint
+d: @en_locate exactly
+fs: 21 8 20 11
+hypo: achar
+sa: @en:verb.possession:nail
+
+w: @en_negociate
+d: @en_transfer by endorsement to another in return for value received
+fs: 8
+hypo: transferir 1
+sa: @en:verb.possession:negociate
+
+w: @en_negociate 1
+d: @en_sell or discount
+fs: 8
+hypo: vender
+mt: noun.act:comercialismo
+sa: @en:verb.possession:negociate 2
+
+w: @en_nickel-and-dime
+w: @en_penny-pinch
+d: @en_spend money frugally; spend as little as possible
+fs: 2
+hypo: despender
+sa: @en:verb.possession:nickel-and-dime
+
+w: @en_obligate
+d: @en_commit in order to fulfill an obligation
+fs: 8
+hypo: comissionar
+sa: @en:verb.possession:obligate
+
+w: @en_offload
+d: @en_transfer to a peripheral device, of computer data
+fs: 8
+hypo: transferir 2
+sa: @en:verb.possession:offload
+
+w: @en_offset
+d: @en_cause (printed matter) to transfer or smear onto another surface
+fs: 8
+hypo: transferir 2
+sa: @en:verb.possession:offset 1
+
+w: @en_orphan
+d: @en_deprive of parents
+fs: 10 9
+hypo: privar
+sa: @en:verb.possession:orphan
+
+w: @en_outbid
+d: @en_bid higher than others
+fs: 9
+hypo: oferecer 6
+mt: noun.act:almoeda
+sa: @en:verb.possession:outbid
+
+w: @en_outbid 1
+d: @en_bid over an opponent's bid when one's partner has not bid or doubled
+fs: 2
+hypo: @en_bid
+mt: noun.act:@en_bridge
+sa: @en:verb.possession:outbid 1
+
+w: @en_outcall
+d: @en_make a higher bid than (the previous bid or player); in a card game
+fs: 9
+hypo: @en_bid
+sa: @en:verb.possession:outcall
+
+w: @en_overbalance
+d: @en_cause to be off balance
+fs: 8
+hypo: computar
+sa: @en:verb.possession:overbalance
+
+w: @en_overbid
+d: @en_bid more than the object is worth
+fs: 2
+hypo: oferecer 6
+mt: noun.act:almoeda
+sa: @en:verb.possession:overbid
+
+w: @en_overbid 1
+d: @en_to bid for more tricks than one can expect to win,
+fs: 2
+hypo: @en_bid
+mt: noun.act:@en_bridge
+sa: @en:verb.possession:overbid 1
+
+w: @en_overprice
+d: por um preço excessivamente alto
+fs: 8
+hypo: avaliar 1
+sa: @en:verb.possession:overprice
+
+w: @en_overspend
+d: @en_spend more than available of (a budget)
+fs: 8
+hypo: consumir
+sa: @en:verb.possession:overspend 1
+
+w: @en_overspend 1
+d: @en_spend at a high rate
+fs: 2
+hypo: verb.consumption:delapidar
+sa: @en:verb.possession:overspend
+
+w: @en_overstock
+d: @en_stock excessively
+fs: 2 8
+hypo: abastecer 2
+sa: @en:verb.possession:overstock
+
+w: @en_partake
+w: @en_partake_in
+w: @en_share 1
+d: @en_have, give, or receive a share of
+fs: 8
+hyper: @en_cut_in
+hypo: adquirir 1
+sa: @en:verb.possession:partake
+
+w: @en_pass 1
+d: @en_throw (a ball) to another player
+fs: 8 14 2 15
+hypo: verb.contact:atirar 5
+sa: @en:verb.possession:pass 1
+
+w: @en_pass_on
+d: @en_give to or transfer possession of
+fs: 8 15
+hyper: @en_hand_down
+hyper: @en_propagate
+hypo: dar 16
+sa: @en:verb.possession:pass_on
+
+w: @en_patch
+d: @en_provide with a patch; also used metaphorically
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:patch
+
+w: @en_patent
+d: @en_obtain a patent for
+fs: 8
+hypo: adquirir 3
+sa: @en:verb.possession:patent
+
+w: @en_pay 1
+d: @en_make a compensation for
+fs: 8
+hypo: pagar 4
+sa: @en:verb.possession:pay 13
+vg: verb.competition:@en_fix
+
+w: @en_pay 2
+d: @en_discharge or settle
+fs: 8
+hyper: custear
+hypo: alienar
+sa: @en:verb.possession:pay 14
+
+w: @en_pay_cash
+d: @en_pay (for something) with cash
+fs: 2
+hypo: pagar 6
+sa: @en:verb.possession:pay_cash
+
+w: @en_pay_off 1
+d: @en_yield a profit or result
+fs: 1
+hypo: @en_bear 1
+sa: @en:verb.possession:pay_off 2
+
+w: @en_pay_off 2
+w: @en_redeem
+d: @en_pay off (loans or promissory notes)
+fs: 8
+hypo: pagar 6
+sa: @en:verb.possession:pay_off 3
+
+w: @en_pension
+w: @en_pension_off
+d: @en_grant a pension to
+fs: 9
+hypo: adjudicar
+sa: @en:verb.possession:pension
+
+w: @en_pick
+d: @en_pilfer or rob
+fs: 8
+hypo: furtar 3
+sa: @en:verb.possession:pick 1
+
+w: @en_pick_up
+d: @en_get in addition, as an increase
+fs: 11 8
+hypo: adquirir 1
+sa: @en:verb.possession:pick_up 2
+
+w: @en_pick_up 1
+d: @en_buy casually or spontaneously
+fs: 8
+hypo: adquirir 7
+mt: noun.act:comercialismo
+sa: @en:verb.possession:pick_up
+
+w: @en_pith
+d: @en_remove the pith from (a plant)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:pith
+
+w: @en_plant
+d: @en_place into a river
+fs: 8
+hypo: @en_stock 2
+mt: noun.act:exploração_pecuária
+sa: @en:verb.possession:plant
+
+w: @en_plastinate
+d: @en_preserve (tissue) with plastics, as for teaching and research purposes
+fs: 8
+hypo: acautelar
+sa: @en:verb.possession:plastinate
+
+w: @en_pledge
+w: @en_subscribe
+d: @en_pay (an amount of money) as a contribution to a charity or service, especially at regular intervals
+fs: 8
+hypo: brindar
+sa: @en:verb.possession:pledge 4
+
+w: @en_preempt
+d: @en_make a preemptive bid in the game of bridge
+fs: 8
+hypo: @en_bid
+mt: noun.act:@en_bridge
+sa: @en:verb.possession:preempt 1
+
+w: @en_preempt 1
+d: @en_gain possession of by prior right or opportunity, especially so as to obtain the right to buy (land)
+fs: 8
+hypo: adquirir 1
+sa: @en:verb.possession:preempt 2
+
+w: @en_preoccupy
+d: @en_occupy or take possession of beforehand or before another or appropriate for use in advance
+fs: 8
+hypo: esbulhar
+sa: @en:verb.possession:preoccupy
+
+w: @en_prepossess
+d: @en_possess beforehand
+fs: 8
+hypo: fruir
+sa: @en:verb.possession:prepossess
+
+w: @en_profiteer
+d: @en_make an unreasonable profit, as on the sale of difficult to obtain goods
+fs: 2
+hypo: beneficiar
+sa: @en:verb.possession:profiteer
+
+w: @en_propagate
+d: @en_transmit from one generation to the next
+fs: 15 8
+hypo: @en_pass_on
+sa: @en:verb.possession:propagate
+
+w: @en_pump
+d: @en_supply in great quantities
+fs: 21
+hypo: abastecer
+sa: @en:verb.possession:pump
+
+w: @en_push
+d: @en_sell or promote the sale of (illegal goods such as drugs)
+fs: 8
+hypo: vender 1
+mt: noun.act:crime 2
+sa: @en:verb.possession:push
+
+w: @en_put_up
+d: @en_make available for sale at an auction
+fs: 8
+hypo: oferecer 3
+sa: @en:verb.possession:put_up
+
+w: @en_pyramid
+d: @en_enlarge one's holdings on an exchange on a continued rise by using paper profits as margin to buy additional amounts
+fs: 2
+hypo: beneficiar
+mt: noun.act:investimento
+sa: @en:verb.possession:pyramid
+
+w: @en_pyramid 1
+d: @en_use or deal in (as of stock or commercial transaction) in a pyramid deal
+fs: 8
+hypo: vender 1
+mt: noun.act:crime 2
+sa: @en:verb.possession:pyramid 1
+
+w: @en_raffle
+w: @en_raffle_off
+d: @en_dispose of in a lottery
+fs: 8
+hypo: dar 14
+sa: @en:verb.possession:raffle
+
+w: @en_rafter
+d: @en_provide (a ceiling) with rafters
+fs: 8
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:rafter
+
+w: @en_raid
+d: @en_take over (a company) by buying a controlling interest of its stock
+fs: 8
+hypo: esbulhar
+sa: @en:verb.possession:raid 2
+
+w: @en_rail
+d: @en_provide with rails
+fs: 8
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:rail
+
+w: @en_railroad
+d: @en_supply with railroad lines
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:railroad
+
+w: @en_rake_in
+w: @en_shovel_in
+d: @en_earn large sums of money
+fs: 8
+hypo: adquirir 8
+sa: @en:verb.possession:rake_in
+
+w: @en_rake_off
+d: @en_take money from an illegal transaction
+fs: 8
+hypo: adquirir 8
+mt: noun.act:crime 2
+sa: @en:verb.possession:rake_off
+
+w: @en_ramp
+d: @en_furnish with a ramp
+fs: 8
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:ramp
+
+w: @en_ration
+w: @en_ration_out
+d: @en_distribute in rations, as in the army
+fs: 8 15
+hypo: alocar
+sa: @en:verb.possession:ration
+
+w: @en_ration 1
+d: @en_restrict the consumption of a relatively scarce commodity, as during war
+fs: 8
+hypo: verb.change:limitar 2
+sa: @en:verb.possession:ration 1
+
+w: @en_reallot
+d: @en_allot again
+fs: 14 8 15
+hypo: conceder 4
+sa: @en:verb.possession:reallot
+
+w: @en_rearm
+d: @en_arm again
+fs: 9 8 10 11
+hypo: armar
+sa: @en:verb.possession:rearm
+
+w: @en_recapture
+w: @en_retake
+d: @en_take back by force, as after a battle
+fs: 8 16
+hyper: @en_reconquer
+hypo: apoderar-se
+sa: @en:verb.possession:recapture
+
+w: @en_reclaim
+w: @en_recover
+d: @en_reuse (materials from waste products)
+fs: 8
+entail: conservar
+hypo: verb.consumption:reaproveitar
+sa: @en:verb.possession:reclaim 3
+
+w: @en_recommit
+d: @en_commit again
+fs: 15 8
+hypo: comissionar
+sa: @en:verb.possession:recommit
+
+w: @en_reconquer
+d: @en_conquer anew
+fs: 8
+hypo: @en_recapture
+sa: @en:verb.possession:reconquer
+
+w: @en_redeem 1
+d: @en_convert into cash; of commercial papers
+fs: 9
+hypo: descontar 2
+sa: @en:verb.possession:redeem
+
+w: @en_redeposit
+d: @en_deposit once again
+fs: 8
+hypo: depositar 1
+sa: @en:verb.possession:redeposit
+
+w: @en_redispose
+d: @en_dispose anew
+fs: 8 11
+hypo: dispor 1
+sa: @en:verb.possession:redispose
+
+w: @en_reduce
+d: @en_simplify the form of a mathematical equation of expression by substituting one term for another
+fs: 8
+hypo: pôr_no_lugar_de
+mt: noun.cognition:Matematica
+sa: @en:verb.possession:reduce 4
+
+w: @en_reduce 1
+d: @en_lessen and make more modest
+fs: 11 10
+hypo: empobrecer 1
+sa: @en:verb.possession:reduce
+
+w: @en_reflectorise
+w: @en_reflectorize
+d: @en_provide with reflectors, such as chemicals
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:reflectorise
+
+w: @en_refuel
+d: @en_provide with additional fuel, as of aircraft, ships, and cars
+fs: 8
+hypo: abastecer 1
+sa: @en:verb.possession:refuel 1
+
+w: @en_refurnish
+d: @en_furnish with new or different furniture
+fs: 8
+hypo: fornecer 3
+sa: @en:verb.possession:refurnish
+
+w: @en_reimpose
+d: @en_impose anew
+fs: 8
+hypo: arrecadar 1
+sa: @en:verb.possession:reimpose
+
+w: @en_reinsure
+d: @en_provide additional insurance for
+fs: 8 10 11 9
+hypo: assegurar
+sa: @en:verb.possession:reinsure
+
+w: @en_relieve
+d: @en_take by stealing
+fs: 18
+hypo: apoderar-se
+sa: @en:verb.possession:relieve
+
+w: @en_reposit
+d: @en_put (something) in a place for storage
+fs: 8
+hypo: armazenar 2
+sa: @en:verb.possession:reposit
+
+w: @en_requisition
+d: @en_demand and take for use or service, especially by military or public authority for public service
+fs: 9
+hypo: reclamar
+sa: @en:verb.possession:requisition
+
+w: @en_reseat
+d: @en_provide with a new seat
+fs: 8
+hypo: @en_seat 1
+mt: noun.act:@en_cabinetry
+sa: @en:verb.possession:reseat 1
+
+w: @en_reseat 1
+d: @en_provide with new seats
+fs: 8
+hypo: @en_seat
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:reseat
+
+w: @en_restitute
+w: @en_restore
+d: @en_give or bring back
+fs: 15 8
+hypo: reintegrar
+sa: @en:verb.possession:restitute
+
+w: @en_retail
+d: @en_sell on the retail market
+fs: 8
+hypo: vender
+mt: noun.act:comercialismo
+sa: @en:verb.possession:retail
+vg: verb.stative:vender_a_varejo
+
+w: @en_retrench
+d: @en_tighten one's belt; use resources carefully
+fs: 2
+hypo: economizar 2
+sa: @en:verb.possession:retrench
+
+w: @en_return 1
+d: @en_return in kind
+fs: 8
+hyper: verb.perception:@en_redound
+hypo: verb.social:@en_reciprocate
+sa: @en:verb.possession:return 3
+
+w: @en_rim
+d: @en_furnish with a rim
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:rim
+
+w: @en_roll_over
+d: @en_negociate to repay a loan at a later date for an additional fee
+fs: 8
+hypo: verb.communication:renegociar 1
+sa: @en:verb.possession:roll_over 1
+
+w: @en_roll_over 1
+d: @en_re-invest (a previous investment) into a similar fund or security
+fs: 8
+hypo: investir
+sa: @en:verb.possession:roll_over
+
+w: @en_rout_out
+w: @en_rout_up
+d: @en_get or find by searching
+fs: 9 8
+entail: verb.perception:procurar
+hypo: achar 2
+sa: @en:verb.possession:rout_out
+
+w: @en_rustle
+d: procurar comida
+fs: 2
+hypo: @en_forage
+sa: @en:verb.possession:rustle 2
+
+w: @en_sacrifice 1
+d: @en_sell at a loss
+fs: 8
+hypo: vender
+sa: @en:verb.possession:sacrifice 2
+
+w: @en_sacrifice 2
+d: @en_make a sacrifice of; in religious rituals
+fs: 8 9 15
+hyper: imolar
+hypo: verb.stative:@en_offer
+sa: @en:verb.possession:sacrifice 1
+
+w: @en_sanitate
+d: @en_provide with sanitary facilities or appliances
+fs: 8
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:sanitate
+
+w: @en_save 1
+d: @en_spend less; buy at a reduced price
+fs: 8 19
+entail: adquirir 7
+hyper: @en_scrimp
+sa: @en:verb.possession:save 2
+
+w: @en_scale
+d: @en_take by attacking with scaling ladders
+fs: 11 8
+hypo: apoderar-se
+sa: @en:verb.possession:scale
+
+w: @en_scalp
+d: @en_sell illegally, as on the black market
+fs: 8
+hypo: vender
+mt: noun.act:crime 2
+sa: @en:verb.possession:scalp
+
+w: @en_scant
+w: @en_skimp
+w: @en_stint
+d: @en_supply sparingly and with restricted quantities
+fs: 2
+hypo: abastecer
+sa: @en:verb.possession:scant
+
+w: @en_scrimp
+w: @en_skimp 1
+w: @en_stint 1
+d: @en_subsist on a meager allowance
+fs: 13
+hypo: @en_save 1
+sa: @en:verb.possession:scrimp
+
+w: @en_scum
+d: @en_remove the scum from
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:scum
+
+w: @en_seat
+d: @en_provide with seats
+fs: 8
+hyper: @en_reseat 1
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:seat
+
+w: @en_seat 1
+d: @en_put a seat on a chair
+fs: 8
+hyper: @en_reseat
+hypo: abastecer
+mt: noun.act:@en_cabinetry
+sa: @en:verb.possession:seat 1
+
+w: @en_secure
+d: @en_assure payment of
+fs: 11 8
+hyper: certificar
+hypo: verb.communication:afiançar
+sa: @en:verb.possession:secure 1
+
+w: @en_see_through
+d: @en_support financially through a period of time
+fs: 8 9
+hypo: financiar 1
+sa: @en:verb.possession:see_through
+
+w: @en_seed
+d: @en_help (an enterprise) in its early stages of development by providing seed money
+fs: 9 8
+hypo: financiar
+sa: @en:verb.possession:seed
+
+w: @en_sell_off
+d: @en_get rid of by selling, usually at reduced prices
+fs: 8
+hypo: vender
+sa: @en:verb.possession:sell_off
+
+w: @en_sell_short
+d: @en_sell securities or commodities or foreign currency that is not actually owned by the seller, who hopes to cover (buy back) the sold items at a lower price and thus to earn a profit
+fs: 2 8
+hypo: vender
+mt: noun.act:comercialismo
+sa: @en:verb.possession:sell_short
+
+w: @en_sequester
+d: @en_requisition forcibly, as of enemy property
+fs: 8
+hypo: adoptar
+sa: @en:verb.possession:sequester 1
+vg: apreender
+
+w: @en_shaft
+d: @en_equip with a shaft
+fs: 8
+hypo: aparelhar
+sa: @en:verb.possession:shaft
+
+w: @en_shelter
+d: @en_invest (money) so that it is not taxable
+fs: 8
+hypo: investir
+sa: @en:verb.possession:shelter
+
+w: @en_shoplift
+d: @en_steal in a store
+fs: 2 8
+hypo: furtar 2
+mt: noun.act:crime 2
+sa: @en:verb.possession:shoplift
+
+w: @en_sign_away
+w: @en_sign_over
+d: @en_formally assign ownership of
+fs: 15 8
+hypo: ceder 2
+sa: @en:verb.possession:sign_away
+
+w: @en_signalise
+w: @en_signalize
+d: @en_provide with traffic signals
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:signalise
+
+w: @en_slat
+d: @en_equip or bar with slats
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:slat
+
+w: @en_sleep_off
+d: @en_get rid of by sleeping
+fs: 8
+hypo: @en_lose
+sa: @en:verb.possession:sleep_off
+
+w: @en_slough_off
+d: @en_discard as undesirable
+fs: 9
+hypo: livrar 2
+sa: @en:verb.possession:slough_off
+
+w: @en_smooth
+w: @en_smooth_out
+d: @en_free from obstructions
+fs: 11 8
+hypo: desimpedir
+sa: @en:verb.possession:smooth
+
+w: @en_snag
+d: @en_get by acting quickly and smartly
+fs: 8
+hypo: obter 7
+sa: @en:verb.possession:snag
+
+w: @en_sop
+d: @en_give a conciliatory gift or bribe to
+fs: 9
+hypo: corromper
+sa: @en:verb.possession:sop
+
+w: @en_source
+d: @en_get (a product) from another country or business
+fs: 1 8
+hyper: terceirizar
+hypo: obter 7
+sa: @en:verb.possession:source
+
+w: @en_spar
+d: @en_furnish with spars
+fs: 8
+hypo: aparelhar
+sa: @en:verb.possession:spar
+
+w: @en_spool
+d: @en_transfer data intended for a peripheral device (usually a printer) into temporary storage
+fs: 8
+hypo: transferir 2
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.possession:spool
+
+w: @en_square
+d: @en_pay someone and settle a debt
+fs: 22
+hypo: alienar
+sa: @en:verb.possession:square
+
+w: @en_stave
+d: @en_furnish with staves
+fs: 8
+hypo: aparelhar
+sa: @en:verb.possession:stave
+
+w: @en_steam-heat
+d: @en_heat by means of steam
+fs: 8
+hypo: aquecer
+sa: @en:verb.possession:steam-heat
+
+w: @en_step
+d: @en_furnish with steps
+fs: 8
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:step
+
+w: @en_stock 1
+d: @en_supply with fish
+fs: 8
+hypo: abastecer
+mt: noun.act:exploração_pecuária
+sa: @en:verb.possession:stock 6
+vg: @en_stock 3
+
+w: @en_stock 2
+d: @en_provide or furnish with a stock of something
+fs: 21
+hyper: @en_plant
+hyper: reestocar
+hypo: abastecer
+sa: @en:verb.possession:stock 2
+
+w: @en_stock 3
+d: @en_supply with livestock
+fs: 8
+hypo: abastecer
+mt: noun.act:exploração_pecuária
+sa: @en:verb.possession:stock 5
+vg: @en_stock 1
+
+w: @en_stock 4
+d: @en_equip with a stock
+fs: 8
+hypo: aparelhar
+sa: @en:verb.possession:stock 7
+
+w: @en_subrogate
+d: @en_substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured
+fs: 9
+hypo: pôr_no_lugar_de
+sa: @en:verb.possession:subrogate
+
+w: @en_subscribe 1
+d: @en_offer to buy, as of stocks and shares
+fs: 8
+hypo: oferecer 6
+mt: noun.act:investimento
+sa: @en:verb.possession:subscribe 1
+
+w: @en_supplement
+d: @en_add as a supplement to what seems insufficient
+fs: 31 8
+entail: abastecer
+hyper: @en_eke_out 2
+hyper: @en_leverage
+hyper: vitaminizar
+hypo: verb.change:acrescentar
+sa: @en:verb.possession:supplement
+vg: verb.stative:@en_supplement
+
+w: @en_surcharge
+d: @en_charge an extra fee, as for a special service
+fs: 9
+hypo: cobrar 1
+sa: @en:verb.possession:surcharge 1
+
+w: @en_surtax
+d: @en_levy an extra tax on
+fs: 9 8
+hypo: taxar
+sa: @en:verb.possession:surtax
+
+w: @en_syndicate
+d: @en_sell articles, television programs, or photos to several publications or independent broadcasting stations
+fs: 8
+hypo: vender
+sa: @en:verb.possession:syndicate
+
+w: @en_take 1
+d: @en_to get into a position of having, e.g., safety, comfort
+fs: 8
+sa: @en:verb.possession:take 8
+
+w: @en_take 2
+d: @en_buy, select
+fs: 8
+hypo: adquirir 7
+mt: noun.act:comercialismo
+sa: @en:verb.possession:take 2
+
+w: @en_tank
+d: @en_store in a tank by causing (something) to flow into it
+fs: 8
+hypo: armazenar 2
+sa: @en:verb.possession:tank
+
+w: @en_tap
+d: @en_furnish with a tap or spout, so as to be able to draw liquid from it
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:tap 4
+vg: verb.contact:@en_tap
+vg: verb.motion:@en_tap 1
+
+w: @en_tap 1
+d: @en_draw from or dip into to get something
+fs: 21 11 8
+hypo: sacar
+sa: @en:verb.possession:tap
+
+w: @en_tariff
+d: @en_charge a tariff
+fs: 8
+hypo: taxar
+sa: @en:verb.possession:tariff
+
+w: @en_terrace
+w: @en_terrasse
+d: @en_provide (a house) with a terrace
+fs: 8
+hypo: abastecer
+mt: noun.act:Arquitectura
+sa: @en:verb.possession:terrace
+
+w: @en_theme
+d: @en_provide with a particular theme or motive
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:theme
+
+w: @en_throw_in
+d: @en_add as an extra or as a gratuity
+fs: 8
+hypo: adicionar
+sa: @en:verb.possession:throw_in
+
+w: @en_ticket
+d: @en_provide with a ticket for passage or admission
+fs: 9
+hypo: abastecer
+sa: @en:verb.possession:ticket 1
+
+w: @en_tie_up
+d: @en_invest so as to make unavailable for other purposes
+fs: 8
+hypo: investir
+sa: @en:verb.possession:tie_up
+
+w: @en_tighten_one's_belt
+d: @en_live frugally and use less resources
+fs: 2
+hypo: amealhar
+sa: @en:verb.possession:tighten_one's_belt
+
+w: @en_tinsel
+d: @en_impart a cheap brightness to
+fs: 15 4
+hypo: adicionar
+sa: @en:verb.possession:tinsel
+
+w: @en_tithe
+d: @en_pay one tenth of; pay tithes on, especially to the church
+fs: 8
+sa: @en:verb.possession:tithe 3
+vg: @en_tithe 1
+
+w: @en_tithe 1
+d: @en_pay a tenth of one's income, especially to the church
+fs: 2
+hypo: pagar 6
+sa: @en:verb.possession:tithe 2
+vg: @en_tithe
+
+w: @en_tithe 2
+d: @en_levy a tithe on (produce or a crop)
+fs: 8
+hypo: arrecadar 1
+sa: @en:verb.possession:tithe
+vg: @en_tithe 3
+
+w: @en_tithe 3
+d: @en_exact a tithe from
+fs: 9 10
+hypo: cobrar 1
+sa: @en:verb.possession:tithe 1
+vg: @en_tithe 2
+
+w: @en_toggle
+d: @en_provide with a toggle or toggles
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:toggle
+
+w: @en_toll
+d: @en_charge a fee for using
+fs: 8
+hypo: arrecadar 1
+sa: @en:verb.possession:toll
+
+w: @en_tongue-tie
+d: @en_deprive of speech
+fs: 10 9
+hypo: privar 1
+sa: @en:verb.possession:tongue-tie
+
+w: @en_top
+w: @en_top_out
+d: @en_provide with a top or finish the top (of a structure)
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:top
+
+w: @en_trade 1
+w: @en_trade_in
+d: @en_turn in as payment or part payment for a purchase
+fs: 8 21
+hyper: @en_barter_away
+hypo: trocar 3
+mt: noun.act:comercialismo
+sa: @en:verb.possession:trade
+
+w: @en_transistorise
+w: @en_transistorize
+d: @en_equip (an electronic circuit or device) with transistors
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:transistorise
+
+w: @en_translocate
+d: @en_move from one place to another, especially of wild animals
+fs: 8
+hypo: transferir 2
+sa: @en:verb.possession:translocate
+
+w: @en_translocate 1
+d: @en_transfer (a chromosomal segment) to a new position
+fs: 8
+hypo: verb.motion:transladar
+sa: @en:verb.possession:translocate 1
+
+w: @en_tread
+d: @en_apply (the tread) to a tire
+fs: 8
+hypo: aplicar
+sa: @en:verb.possession:tread
+
+w: @en_treat
+d: @en_provide with a gift or entertainment
+fs: 9
+hypo: dar 14
+sa: @en:verb.possession:treat
+vg: verb.consumption:@en_regale
+
+w: @en_trifle_away
+w: @en_wanton
+w: @en_wanton_away
+d: @en_spend wastefully
+fs: 8
+hypo: despender
+sa: @en:verb.possession:trifle_away
+
+w: @en_truncate
+d: @en_replace a corner by a plane
+fs: 8
+hypo: pôr_no_lugar_de
+mt: noun.cognition:geometria
+sa: @en:verb.possession:truncate
+
+w: @en_trust
+d: @en_extend credit to
+fs: 9
+hypo: emprestar
+mt: noun.act:comercialismo
+sa: @en:verb.possession:trust 1
+
+w: @en_tube
+d: @en_provide with a tube or insert a tube into
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:tube
+
+w: @en_turn_a_nice_dime
+w: @en_turn_a_nice_dollar
+w: @en_turn_a_nice_penny
+d: @en_make a satisfactory profit
+fs: 2 1
+hypo: lucrar 2
+sa: @en:verb.possession:turn_a_nice_dime
+
+w: @en_turn_out
+d: @en_outfit or equip, as with accessories
+fs: 11 10 8 9
+hypo: aparelhar
+sa: @en:verb.possession:turn_out 3
+
+w: @en_turn_over
+d: @en_do business worth a certain amount of money
+fs: 8 11
+hypo: tramitar
+mt: noun.act:comercialismo
+sa: @en:verb.possession:turn_over 1
+
+w: @en_unbridle
+d: @en_remove the bridle from (a horse or mule)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:unbridle
+
+w: @en_unburden
+d: @en_free or relieve (someone) of a burden
+fs: 18
+hypo: adoptar
+sa: @en:verb.possession:unburden
+
+w: @en_underbid
+d: @en_bid too low
+fs: 2
+hypo: oferecer 6
+mt: noun.act:almoeda
+sa: @en:verb.possession:underbid
+
+w: @en_underbid 1
+d: @en_bid (a hand of cards) at less than the strength of the hand warrants
+fs: 8
+hypo: @en_bid
+sa: @en:verb.possession:underbid 2
+
+w: @en_underbid 2
+d: @en_bid lower than a competing bidder
+fs: 9
+hypo: oferecer 6
+mt: noun.act:almoeda
+sa: @en:verb.possession:underbid 1
+
+w: @en_undercharge
+d: @en_charge (someone) too little money
+fs: 9
+hypo: cobrar 1
+sa: @en:verb.possession:undercharge
+
+w: @en_undercut
+w: @en_undersell
+d: @en_sell cheaper than one's competition
+fs: 9
+entail: descontar 1
+hypo: vender
+sa: @en:verb.possession:undercut
+
+w: @en_underquote
+d: @en_offer for sale at a price lower than the market price
+fs: 8
+hypo: avaliar 1
+sa: @en:verb.possession:underquote
+
+w: @en_underspend
+d: @en_spend less than the whole of (a budget, for example)
+fs: 8
+hypo: consumir
+sa: @en:verb.possession:underspend 1
+
+w: @en_underspend 1
+d: @en_spend at less than the normal rate
+fs: 2
+hypo: despender
+sa: @en:verb.possession:underspend
+
+w: @en_understock
+d: @en_stock with less than the usual or desirable number or quantity
+fs: 2 8
+hypo: abastecer 2
+sa: @en:verb.possession:understock
+
+w: @en_uniform
+d: @en_provide with uniforms
+fs: 9
+hypo: abastecer
+sa: @en:verb.possession:uniform
+
+w: @en_unmuzzle
+d: @en_remove the muzzle from (a dog)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:unmuzzle
+
+w: @en_unsex
+d: @en_deprive of sex or sexual powers
+fs: 9 10
+hypo: privar
+sa: @en:verb.possession:unsex
+
+w: @en_upload
+d: @en_transfer a file or program to a central computer from a smaller computer or a computer at a remote location
+fs: 8
+hypo: transferir 2
+sa: @en:verb.possession:upload
+
+w: @en_vest
+d: @en_become legally vested
+fs: 4
+hypo: @en_change_hands
+sa: @en:verb.possession:vest 3
+vg: @en_vest 1
+
+w: @en_vest 1
+d: @en_place (authority, property, or rights) in the control of a person or group of persons
+fs: 8
+hypo: dar 15
+sa: @en:verb.possession:vest 2
+vg: @en_vest
+
+w: @en_victual
+d: @en_lay in provisions
+fs: 2 1
+hypo: acumular
+sa: @en:verb.possession:victual
+
+w: @en_walk_off
+d: @en_take without permission
+fs: 22
+hypo: furtar 2
+sa: @en:verb.possession:walk_off
+
+w: @en_warehouse
+d: @en_store in a warehouse
+fs: 8
+hypo: armazenar 2
+sa: @en:verb.possession:warehouse
+
+w: @en_welcome
+d: @en_accept gladly
+fs: 8 9
+hypo: aceitar 3
+sa: @en:verb.possession:welcome
+
+w: @en_wharf
+d: @en_provide with a wharf
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:wharf 1
+
+w: @en_wharf 1
+d: @en_store on a wharf
+fs: 8
+hypo: armazenar 2
+sa: @en:verb.possession:wharf
+
+w: @en_wholesale
+d: @en_sell in large quantities
+fs: 8
+hypo: vender
+mt: noun.act:comercialismo
+sa: @en:verb.possession:wholesale
+
+w: @en_window-shop
+d: @en_examine the shop windows; shop with the eyes only
+fs: 2 22
+hypo: ir_às_compras 1
+sa: @en:verb.possession:window-shop
+
+w: @en_wire
+d: @en_provide with electrical circuits
+fs: 8
+hyper: fazer_nova_fiação
+hypo: aparelhar
+sa: @en:verb.possession:wire
+
+w: @en_wive
+d: @en_provide with a wife; marry (someone) to a wife
+fs: 9
+hypo: abastecer
+sa: @en:verb.possession:wive
+
+w: @en_work_off
+d: @en_cause to go away through effort or work
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:work_off
+
+w: @en_yield_up
+d: @en_surrender, as a result of pressure or force
+fs: 9 8
+hypo: ceder 2
+sa: @en:verb.possession:yield_up
+
+w: _poupar
+w: economizar
+d: acumular dinheiro para uso futuro
+fs: 8
+hyper: @en_cache
+sa: @en:verb.possession:lay_aside
+
+w: abandonar
+d: abandonar
+fs: 9
+hypo: verb.cognition:abandonar 2
+sa: @en:verb.possession:ditch
+
+w: abandonar 1
+w: deixar
+w: renunciar
+d: sair de perto de, abandonar
+e: Eu estou abandonando as mulheres pra sempre.
+fs: 8 9
+hyper: verb.communication:@en_disclaim 1
+hypo: abandonar 5
+sa: @en:verb.possession:foreswear
+
+w: abandonar 2
+w: deixar 1
+w: desistir
+w: desobrigar
+w: liberar
+w: renunciar 1
+d: @en_part with a possession or right
+fs: 15 8
+hyper: @en_derequisition
+hyper: @en_give 1
+hypo: ceder 1
+sa: @en:verb.possession:free 1
+
+w: abandonar 3
+w: desfazer-se
+d: @en_throw away, of something encumbering
+fs: 8
+hypo: descartar
+sa: @en:verb.possession:jettison
+
+w: abandonar 4
+d: @en_forsake, leave behind
+fs: 9 8
+hyper: @en_chuck
+hyper: @en_consign
+hyper: deixar_passar
+hyper: prescindir
+hypo: descartar
+sa: @en:verb.possession:abandon
+
+w: abandonar 5
+w: desistir 1
+d: @en_give up with the intent of never claiming again
+fs: 9 8
+hyper: abandonar 1
+sa: @en:verb.possession:abandon 1
+
+w: abastecer
+w: fornecer
+w: prover
+w: suprir
+d: @en_give something useful or necessary to
+fs: 11 9 8 17 31 10
+hyper: verb.change:carregar
+hyper: verb.change:hidratar 2
+hyper: verb.cognition:datar 3
+hyper: verb.consumption:alimentar 3
+hyper: verb.contact:@en_calk
+hyper: @en_air-condition 1
+hyper: @en_alphabetize
+hyper: @en_articulate
+hyper: @en_bed
+hyper: @en_berth
+hyper: @en_bewhisker
+hyper: @en_border
+hyper: @en_bottom
+hyper: @en_brattice
+hyper: @en_bush
+hyper: @en_causeway
+hyper: @en_cleat
+hyper: @en_cloy
+hyper: @en_coal
+hyper: @en_constitutionalize
+hyper: @en_copper-bottom
+hyper: @en_corbel
+hyper: @en_cornice
+hyper: @en_costume
+hyper: @en_crenel
+hyper: @en_dado
+hyper: @en_extend
+hyper: @en_fire
+hyper: @en_flood
+hyper: @en_fret
+hyper: @en_fund 1
+hyper: @en_gate
+hyper: @en_grate
+hyper: @en_hat
+hyper: @en_headline
+hyper: @en_headquarter
+hyper: @en_hobnail
+hyper: @en_index
+hyper: @en_innervate
+hyper: @en_interleave
+hyper: @en_kern
+hyper: @en_key
+hyper: @en_leverage 1
+hyper: @en_machicolate
+hyper: @en_match
+hyper: @en_patch
+hyper: @en_pump
+hyper: @en_rafter
+hyper: @en_rail
+hyper: @en_railroad
+hyper: @en_ramp
+hyper: @en_reflectorise
+hyper: @en_rim
+hyper: @en_sanitate
+hyper: @en_scant
+hyper: @en_seat
+hyper: @en_seat 1
+hyper: @en_signalise
+hyper: @en_slat
+hyper: @en_step
+hyper: @en_stock 1
+hyper: @en_stock 2
+hyper: @en_stock 3
+hyper: @en_tap
+hyper: @en_terrace
+hyper: @en_theme
+hyper: @en_ticket
+hyper: @en_toggle
+hyper: @en_top
+hyper: @en_transistorise
+hyper: @en_tube
+hyper: @en_uniform
+hyper: @en_wharf
+hyper: @en_wive
+hyper: abastecer 1
+hyper: abastecer 2
+hyper: abastecer 3
+hyper: abastecer 4
+hyper: acortinar
+hyper: aparelhar
+hyper: aquecer
+hyper: armar
+hyper: associar-se
+hyper: canalizar
+hyper: capitalizar
+hyper: colocar_legendas
+hyper: colocar_um_título
+hyper: computadorizar
+hyper: dar 10
+hyper: dar 12
+hyper: derramar
+hyper: envidraçar
+hyper: equipar 1
+hyper: estofar
+hyper: fornecer 3
+hyper: oferecer 4
+hyper: renovar
+hyper: verb.stative:abrigar
+hypo: dar 15
+sa: @en:verb.possession:furnish
+
+w: abastecer 1
+d: fornecer com uma substância combustível que fornece energia
+fs: 8
+hyper: @en_bunker
+hyper: @en_refuel
+hyper: encher
+hypo: abastecer
+sa: @en:verb.possession:fuel
+
+w: abastecer 2
+w: armazenar
+w: estocar
+d: acumular a fim de manter para futuro uso ou venda, ou para uma ocasião especial
+fs: 8
+hyper: @en_overstock
+hyper: @en_understock
+hypo: abastecer
+mt: noun.act:comercialismo
+sa: @en:verb.possession:buy_in
+
+w: abastecer 3
+w: fornecer 1
+w: suprir 1
+d: @en_supply with provisions
+fs: 9 8
+hypo: abastecer
+sa: @en:verb.possession:provision
+
+w: abastecer 4
+w: fornecer 2
+w: suprir 2
+d: @en_supply with food
+fs: 8 9
+hypo: abastecer
+sa: @en:verb.possession:victual 2
+
+w: abençoar
+w: bendizer
+d: @en_confer prosperity or happiness on
+fs: 9 10
+hypo: conceder 1
+sa: @en:verb.possession:bless
+
+w: acautelar
+d: @en_keep in safety and protect from harm, decay, loss, or destruction
+fs: 8
+hyper: @en_hold_the_line
+hyper: @en_plastinate
+hyper: embalsamar
+hypo: @en_keep 1
+sa: @en:verb.possession:conserve 2
+
+w: aceitar
+w: admitir
+d: @en_admit into a group or community
+fs: 9 10
+hyper: verb.communication:@en_profess 3
+hypo: aceitar 3
+sa: @en:verb.possession:accept 3
+vg: verb.social:admitir
+
+w: aceitar 1
+d: @en_receive (a report) officially, as from a committee
+fs: 8
+hypo: receber 1
+sa: @en:verb.possession:accept 7
+
+w: aceitar 2
+d: @en_accept as pay
+fs: 8
+hypo: aceitar 3
+sa: @en:verb.possession:honor
+
+w: aceitar 3
+d: @en_receive willingly something given or offered
+fs: 8 16 9
+hyper: @en_welcome
+hyper: aceitar
+hyper: aceitar 2
+hyper: adoptar 1
+hypo: adquirir 1
+sa: @en:verb.possession:accept
+vg: receber 1
+
+w: achar
+w: descobrir
+w: localizar
+d: @en_discover the location of; determine the place of; find by searching or examining
+fs: 8 9 20 21
+hyper: @en_nail
+hyper: desenterrar
+hypo: achar 2
+sa: @en:verb.possession:locate
+vg: verb.contact:@en_dig_up
+
+w: achar 1
+w: encontrar
+d: @en_obtain through effort or management
+fs: 8
+hypo: adquirir 1
+sa: @en:verb.possession:find 3
+vg: achar 2
+
+w: achar 2
+w: encontrar 1
+w: reganhar
+d: @en_come upon after searching; find the location of something that was missed or lost
+fs: 9 8
+hyper: @en_rout_out
+hyper: achar
+hyper: achar 4
+hyper: sentir
+hypo: adquirir 1
+sa: @en:verb.possession:find
+vg: achar 1
+vg: re-adquirir
+
+w: achar 3
+w: atingir
+w: conseguir
+d: @en_get something or somebody for a specific purpose
+fs: 8 9
+hypo: adquirir 1
+sa: @en:verb.possession:come_up
+
+w: achar 4
+w: descobrir 1
+w: encontrar 2
+d: @en_find unexpectedly
+fs: 8
+hypo: achar 2
+sa: @en:verb.possession:attain 13
+
+w: achar 5
+w: encontrar 3
+w: trombar
+d: encontrar-se por acaso, reunir-se com
+fs: 8
+sa: @en:verb.possession:bump 12
+
+w: acontecer
+d: @en_transfer to another; of rights or property
+fs: 4 1
+hypo: verb.change:alterar 1
+sa: @en:verb.possession:pass 2
+
+w: acortinar
+w: encortinar
+d: @en_provide with drapery
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:curtain
+
+w: acumular
+w: armazenar 1
+w: guardar
+d: @en_keep or lay aside for future use
+fs: 8
+hyper: verb.contact:@en_bin
+hyper: @en_hive
+hyper: @en_victual
+hyper: acumular 2
+hyper: computarizar
+hypo: guardar 3
+sa: @en:verb.possession:hive_away
+
+w: acumular 1
+w: coletar
+w: recolher
+w: reunir
+d: @en_call for and obtain payment of
+fs: 16 8
+hyper: @en_farm
+hyper: arrecadar
+hypo: adoptar
+sa: @en:verb.possession:collect 1
+
+w: acumular 2
+w: amontoar
+w: colecionar
+w: empilhar
+w: juntar
+w: reunir 1
+d: juntar desordenadamente, acumular
+fs: 8
+hyper: verb.change:incorrer 1
+hyper: verb.contact:@en_catch 1
+hyper: verb.contact:@en_chunk
+hyper: verb.contact:@en_come_up
+hyper: verb.contact:@en_corral
+hyper: verb.contact:colecionar
+hyper: verb.contact:enfardar
+hyper: @en_fund 3
+hyper: @en_fund 4
+hypo: acumular
+sa: @en:verb.possession:accumulate
+
+w: adicionar
+w: contribuir
+d: @en_bestow a quality on
+fs: 4 15 11 8
+hyper: @en_factor
+hyper: @en_instill
+hyper: @en_throw_in
+hyper: @en_tinsel
+hypo: verb.change:alterar 2
+sa: @en:verb.possession:add
+
+w: adjudicar
+w: dar
+w: outorgar
+d: @en_give as judged due or on the basis of merit
+fs: 15 14
+hyper: @en_pension
+hypo: causar
+sa: @en:verb.possession:award 1
+
+w: admitir 1
+w: enviar
+w: institucionalizar
+w: internar
+d: @en_cause to be admitted; of persons to an institution
+fs: 20
+hyper: hospitalizar
+hypo: transferir 2
+sa: @en:verb.possession:charge 5
+
+w: adoptar
+w: tomar
+d: @en_take into one's possession
+fs: 16 8 9
+hyper: verb.change:adoptar
+hyper: @en_accept 1
+hyper: @en_sequester
+hyper: @en_unburden
+hyper: acumular 1
+hyper: apreender
+hyper: arrebatar
+hyper: encaçapar
+hyper: pegar_de_volta
+hyper: privar
+hyper: remover 1
+hyper: retirar 1
+sa: @en:verb.possession:take
+
+w: adoptar 1
+w: adotar
+d: @en_take up and practice as one's own
+fs: 8 16
+hypo: aceitar 3
+sa: @en:verb.possession:adopt
+
+w: adoptar 2
+w: levar_emprestado
+w: pedir_emprestado
+w: tomar_emprestado
+w: tomar_por_empréstimo
+d: @en_get temporarily
+fs: 8 16
+hypo: adquirir 1
+sa: @en:verb.possession:borrow
+
+w: adoptar 3
+w: adotar 1
+d: @en_choose and follow; as of theories, ideas, policies, strategies or plans
+fs: 8
+hyper: verb.stative:aderir
+hypo: verb.cognition:escolher 3
+sa: @en:verb.possession:adopt 2
+vg: verb.social:acatar
+
+w: adquirir
+w: atingir 1
+w: obter
+d: @en_acquire as a result of some effort or action
+fs: 8
+hypo: adquirir 1
+sa: @en:verb.possession:get 14
+vg: verb.cognition:comprender 2
+vg: verb.cognition:obter
+
+w: adquirir 1
+w: atingir 2
+w: comprar
+w: obter 1
+w: receber
+d: @en_come into the possession of something concrete or abstract
+fs: 16 9 8
+hyper: verb.change:isolar 4
+hyper: verb.competition:@en_get_back 1
+hyper: verb.contact:apanhar 2
+hyper: verb.contact:exprimir
+hyper: @en_come_by
+hyper: @en_come_upon
+hyper: @en_glom
+hyper: @en_partake
+hyper: @en_pick_up
+hyper: @en_preempt 1
+hyper: aceitar 3
+hyper: achar 1
+hyper: achar 2
+hyper: achar 3
+hyper: adoptar 2
+hyper: adquirir
+hyper: adquirir 2
+hyper: adquirir 5
+hyper: adquirir 7
+hyper: adquirir 8
+hyper: alugar 1
+hyper: atingir 8
+hyper: beneficiar
+hyper: coletar 1
+hyper: fazer 1
+hyper: ganhar 2
+hyper: herdar 1
+hyper: obter 7
+hyper: re-adquirir
+hyper: reaver
+hyper: receber 1
+hyper: recuperar 1
+hyper: ter_preferência
+hyper: verb.social:apurar
+sa: @en:verb.possession:acquire
+vg: verb.change:incorrer
+
+w: adquirir 2
+w: atingir 3
+w: ganhar
+w: vencer
+d: ganhar algo através de seus esforços
+fs: 16 8
+hyper: @en_cozen
+hypo: adquirir 1
+sa: @en:verb.possession:acquire 6
+
+w: adquirir 3
+w: atingir 4
+w: obter 2
+d: @en_get by special effort
+fs: 8 16
+hyper: verb.communication:@en_suborn
+hyper: @en_copyright
+hyper: @en_patent
+hyper: empregar
+hypo: obter 7
+sa: @en:verb.possession:procure
+
+w: adquirir 4
+w: atingir 5
+w: obter 3
+d: @en_obtain by legal or official process
+fs: 8
+hypo: obter 7
+sa: @en:verb.possession:take_out 2
+
+w: adquirir 5
+w: comprar 1
+d: @en_acquire by trade or sacrifice or exchange
+fs: 8
+hypo: adquirir 1
+sa: @en:verb.possession:buy 3
+
+w: adquirir 6
+w: comprar 2
+d: @en_purchase
+fs: 8
+hypo: adquirir 7
+mt: noun.act:comercialismo
+sa: @en:verb.possession:get 13
+
+w: adquirir 7
+w: atingir 6
+w: comprar 3
+w: obter 4
+d: @en_obtain by purchase; acquire by means of a financial transaction
+fs: 8 16 2
+entail: verb.cognition:escolher 3
+entail: pagar 6
+hyper: @en_buy_food
+hyper: @en_impulse-buy
+hyper: @en_pick_up 1
+hyper: @en_take 2
+hyper: adquirir 6
+hyper: assinar
+hyper: comprar 4
+hyper: readquirir
+hypo: adquirir 1
+mt: noun.act:comercialismo
+sa: @en:verb.possession:buy
+vg: verb.stative:@en_buy
+
+w: adquirir 8
+w: obter 5
+d: @en_earn on some commercial or business transaction; earn as salary or wages
+fs: 8
+hyper: @en_bear 1
+hyper: @en_bring_home
+hyper: @en_eke_out
+hyper: @en_gross
+hyper: @en_rake_in
+hyper: @en_rake_off
+hyper: lucrar 2
+hypo: adquirir 1
+sa: @en:verb.possession:bring_in 1
+vg: verb.body:adquirir 1
+vg: lucrar 1
+
+w: afanar
+w: furtar
+w: larapiar
+w: roubar
+w: surrupiar
+d: fugir com os pertences de outros
+fs: 8 16
+hypo: furtar 2
+sa: @en:verb.possession:abstract
+
+w: agregar
+w: combinar
+d: Combinar em um fundo comum
+fs: 8 2
+hypo: compartilhar
+sa: @en:verb.possession:pool
+
+w: alienar
+w: dispor
+d: @en_dispose of; make a financial settlement
+fs: 2 22
+hyper: verb.cognition:ratear
+hyper: @en_clean_up
+hyper: @en_pay 2
+hyper: @en_square
+hyper: compensar
+hyper: liquidar
+hypo: verb.communication:arranjar
+sa: @en:verb.possession:settle
+
+w: alienar 1
+w: dar 1
+w: entregar
+w: livrar
+w: transferir
+w: transmitir
+d: @en_to surrender someone or something to another
+fs: 8 9 15
+hyper: @en_bail
+hyper: @en_give_away 1
+hypo: ceder 1
+sa: @en:verb.possession:deliver 1
+
+w: alienar 2
+d: transferir propriedade ou posse
+fs: 8
+hypo: transferir 1
+sa: @en:verb.possession:alien
+
+w: aliviar
+d: livrar de um fardo, mal ou aflição
+fs: 18
+hypo: desimpedir
+sa: @en:verb.possession:relieve 1
+
+w: alocar
+d: @en_distribute according to a plan or set apart for a special purpose
+fs: 15 8
+hyper: @en_ration
+hyper: outorgar 7
+hyper: realocar
+hypo: atribuir
+sa: @en:verb.possession:allocate
+
+w: alugar
+w: arrendar
+d: @en_grant use or occupation of under a term of contract
+fs: 14 15 8
+hyper: sublocar
+hypo: dar 15
+sa: @en:verb.possession:lease 1
+
+w: alugar 1
+w: fretar
+d: @en_engage for service under a term of contract
+fs: 8 9 16
+hypo: adquirir 1
+sa: @en:verb.possession:charter
+
+w: alugar 2
+w: dar_de_aluguel
+d: @en_grant the services of or the temporary use of, for a fee
+fs: 8 15 9
+hypo: emprestar
+sa: @en:verb.possession:farm_out
+
+w: amealhar
+w: economizar 1
+w: poupar
+d: gastar com moderação, evitar o desperdício de
+fs: 11 2
+hyper: @en_tighten_one's_belt
+hypo: despender
+sa: @en:verb.possession:economise 2
+
+w: amordaçar
+d: @en_fit with a muzzle
+fs: 8
+hypo: aparelhar
+sa: @en:verb.possession:muzzle
+
+w: amortizar
+d: @en_liquidate gradually
+fs: 8
+hypo: @en_liquidate
+sa: @en:verb.possession:amortise
+
+w: angariar_fundos
+w: arrecadar_fundos
+d: arrecadar dinheiro para uma causa ou projeto
+e: Estamos angariando fundos para pesquisa da Aids
+fs: 2 28 22
+hypo: arrecadar
+sa: @en:verb.possession:fund-raise
+
+w: antecipar
+w: pagar_adiantadamente
+w: pagar_antecipadamente
+w: pré-pagar
+d: @en_pay for something before receiving it
+fs: 8 2
+hypo: pagar 6
+sa: @en:verb.possession:prepay
+
+w: apadrinhar
+w: patrocinar
+d: @en_assume responsibility for or leadership of
+fs: 8 11
+hypo: verb.social:ajudar 1
+sa: @en:verb.possession:sponsor 1
+
+w: aparelhar
+w: apetrechar
+w: equipar
+w: suprir 3
+d: @en_provide with (something) usually for a specific purpose
+fs: 8 17 9
+hyper: verb.change:@en_mechanise 2
+hyper: verb.change:@en_rig
+hyper: verb.competition:@en_fuse
+hyper: verb.contact:@en_collar
+hyper: verb.contact:@en_spur 2
+hyper: @en_accouter
+hyper: @en_appoint
+hyper: @en_fin
+hyper: @en_horseshoe
+hyper: @en_instrument
+hyper: @en_kit
+hyper: @en_motorize
+hyper: @en_motorize 1
+hyper: @en_shaft
+hyper: @en_spar
+hyper: @en_stave
+hyper: @en_stock 4
+hyper: @en_turn_out
+hyper: @en_wire
+hyper: amordaçar
+hyper: blindar
+hyper: re-equipar
+hyper: reaparelhar
+hyper: verb.social:armar
+hyper: verb.social:investir 2
+hypo: abastecer
+sa: @en:verb.possession:equip
+
+w: aplicar
+w: dar 2
+d: dar ou transmitir fisicamente
+e: Eu dei-lhe um soco no nariz
+e: Ela deu primeiros socorros
+fs: 15
+hyper: @en_administer
+hyper: @en_tread
+hypo: conceder 4
+sa: @en:verb.possession:apply
+vg: dar 19
+
+w: apoderar-se
+w: tomar 1
+d: @en_take by force
+fs: 8 16
+hyper: @en_recapture
+hyper: @en_relieve
+hyper: @en_scale
+hyper: esbulhar
+hyper: extorquir
+hyper: furtar 2
+hyper: pilhar 1
+hyper: resgatar 2
+hyper: saquear 1
+sa: @en:verb.possession:take 1
+
+w: apoiar
+d: @en_support financial backing for
+fs: 8
+hypo: financiar
+sa: @en:verb.possession:back
+
+w: apreciar
+w: valorizar
+d: @en_hold dear
+fs: 8
+hyper: verb.cognition:fazer_justiça
+hyper: verb.social:reconhecer 2
+hypo: verb.cognition:achar 9
+sa: @en:verb.possession:appreciate
+
+w: apreender
+w: confiscar
+d: @en_take temporary possession of as a security, by legal authority
+fs: 8
+hyper: @en_condemn
+hyper: @en_distrain
+hyper: guarnecer
+hypo: adoptar
+sa: @en:verb.possession:attach
+vg: @en_sequester
+
+w: apresentar
+w: dar 3
+w: entregar 1
+d: @en_make over as a return
+fs: 15 8
+hypo: dar 14
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.possession:render 1
+
+w: apropriar-se
+w: capturar
+w: conquistar
+d: @en_take possession of by force, as after an invasion
+e: Os invasores apropriaram-se da terra e dos pertences dos habitantes.
+e: A milicia capturou o castelo.
+fs: 8 16
+hyper: @en_carry 2
+hypo: esbulhar
+sa: @en:verb.possession:appropriate
+
+w: aquecer
+d: fornecer calor
+fs: 8
+hyper: @en_steam-heat
+hypo: abastecer
+sa: @en:verb.possession:heat
+
+w: armar
+d: @en_supply with arms
+fs: 8 9
+hyper: @en_munition
+hyper: @en_rearm
+hypo: abastecer
+sa: @en:verb.possession:arm
+
+w: armazenar 2
+d: @en_find a place for and put away for storage
+fs: 8
+hyper: verb.contact:@en_garner
+hyper: @en_ensile
+hyper: @en_garage
+hyper: @en_keep 4
+hyper: @en_loft
+hyper: @en_mothball
+hyper: @en_reposit
+hyper: @en_tank
+hyper: @en_warehouse
+hyper: @en_wharf 1
+hyper: engarrafar
+hypo: guardar 3
+sa: @en:verb.possession:store 2
+
+w: arrebatar
+w: comprar_rapidamente
+d: @en_get hold of or seize quickly and easily
+fs: 8
+hyper: @en_hog
+hypo: adoptar
+sa: @en:verb.possession:grab
+
+w: arrecadar
+d: @en_collect funds for a specific purpose
+fs: 8
+hyper: angariar_fundos
+hypo: acumular 1
+sa: @en:verb.possession:raise
+
+w: arrecadar 1
+d: @en_impose and collect
+fs: 8
+hyper: @en_distrain 2
+hyper: @en_lay
+hyper: @en_reimpose
+hyper: @en_tithe 2
+hyper: @en_toll
+hyper: multar
+hyper: taxar
+hypo: cobrar 1
+sa: @en:verb.possession:impose
+
+w: arruinar
+w: falir
+w: quebrar
+d: @en_reduce to bankruptcy
+fs: 9 10
+hypo: empobrecer 1
+sa: @en:verb.possession:bankrupt
+
+w: assegurar
+w: fazer_seguro
+w: segurar
+d: fazer seguro contra
+fs: 11 9 10 8
+hyper: verb.communication:@en_reinsure 1
+hyper: @en_coinsure
+hyper: @en_reinsure
+hypo: verb.competition:defender 3
+sa: @en:verb.possession:insure
+
+w: assinar
+d: @en_receive or obtain regularly
+fs: 8
+hypo: adquirir 7
+sa: @en:verb.possession:subscribe
+
+w: associar-se
+d: @en_provide with a partner
+fs: 9
+hypo: abastecer
+sa: @en:verb.possession:partner
+
+w: atingir 7
+w: obter 6
+d: @en_be sold for a certain price
+fs: 11
+entail: @en_change_hands
+sa: @en:verb.possession:bring
+
+w: atingir 8
+w: tomar 2
+d: @en_get or regain something necessary, usually quickly or briefly
+fs: 8
+hypo: adquirir 1
+sa: @en:verb.possession:catch
+
+w: atrair
+w: capturar 1
+d: @en_bring about the capture of an elementary particle or celestial body and causing it enter a new orbit
+fs: 11
+hypo: verb.change:alterar 2
+sa: @en:verb.possession:capture 1
+
+w: atribuir
+w: lotear
+d: @en_give out
+fs: 15 14
+hyper: verb.cognition:reservar 1
+hyper: alocar
+hypo: conceder 4
+sa: @en:verb.possession:allot 1
+
+w: avaliar
+d: @en_set or determine the amount of (a payment such as a fine)
+fs: 8
+hypo: verb.cognition:determinar 2
+sa: @en:verb.possession:assess
+vg: @en_assess
+
+w: avaliar 1
+w: cotar
+w: valorizar 1
+d: @en_determine the price of
+fs: 8
+hyper: @en_manipulate
+hyper: @en_mark_up
+hyper: @en_overprice
+hyper: @en_underquote
+hypo: verb.cognition:determinar 2
+sa: @en:verb.possession:price
+
+w: bacharelar
+w: formar
+w: formar_se
+w: graduar
+d: receber um grau académico após a conclusão de seus estudos
+e: Ela se formou em 1990
+fs: 2
+hypo: receber 1
+sa: @en:verb.possession:graduate
+
+w: baixar
+w: descarregar
+d: @en_transfer a file or program from a central computer to a smaller computer or to a computer at a remote location
+fs: 8
+hypo: transferir 2
+sa: @en:verb.possession:download
+
+w: barganhar
+d: @en_persuade the seller to accept a lower price
+fs: 9
+hypo: barganhar 1
+sa: @en:verb.possession:bargain_down
+
+w: barganhar 1
+w: pechinchar
+w: regatear
+d: @en_wrangle (over a price, terms of an agreement, etc.)
+fs: 22 2
+hyper: barganhar
+hypo: pechinchar 1
+sa: @en:verb.possession:chaffer
+
+w: beneficiar
+w: beneficiar-se
+w: ganhar 1
+w: lucrar
+d: obter benefício de
+e: ela beneficiou-se da sua larga experiência
+fs: 22 2
+hyper: @en_cash_in_on
+hyper: @en_profiteer
+hyper: @en_pyramid
+hyper: capitalizar 1
+hyper: lucrar 1
+hypo: adquirir 1
+sa: @en:verb.possession:benefit
+
+w: beneficiar 1
+w: fazer_bem
+d: ser benéfico para
+fs: 11 10
+hypo: verb.body:ajudar
+sa: @en:verb.possession:benefit 1
+
+w: blindar
+w: encouraçar
+d: @en_equip with armor
+fs: 9 8
+hypo: aparelhar
+sa: @en:verb.possession:armor
+
+w: brindar
+w: dar 4
+w: doar
+w: fazer_doação_de
+w: oferecer
+w: presentear
+d: @en_give to a charity or good cause
+fs: 8 15 22
+hyper: @en_pledge
+hypo: dar 14
+sa: @en:verb.possession:donate
+
+w: cair
+w: ficar
+w: terminar
+d: @en_fall to somebody by assignment or lot
+fs: 24 10
+hypo: @en_devolve
+sa: @en:verb.possession:fall 8
+vg: @en_accrue
+vg: cair 1
+
+w: cair 1
+d: @en_to be given by assignment or distribution
+fs: 4
+sa: @en:verb.possession:fall 3
+vg: @en_fall 2
+vg: cair
+
+w: cambiar
+w: trocar
+d: @en_exchange goods without involving money
+fs: 22 2
+hypo: trocar 3
+sa: @en:verb.possession:barter
+
+w: canalizar
+d: @en_provide (a city) with a canal
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:canal
+
+w: capitalizar
+d: @en_supply with capital, as of a business by using a combination of capital used by investors and debt capital provided by lenders
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:capitalise 2
+
+w: capitalizar 1
+d: @en_draw advantages from
+fs: 22
+hypo: beneficiar
+sa: @en:verb.possession:capitalise
+
+w: captar
+w: mendigar
+w: pedir
+d: @en_ask to obtain free
+fs: 2 20
+hyper: @en_cadge 1
+hyper: esmolar
+hypo: verb.communication:pedir 6
+sa: @en:verb.possession:beg
+
+w: cartear
+d: @en_distribute cards to the players in a game
+fs: 2
+hyper: @en_misdeal
+hypo: conceder 4
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.possession:deal 2
+vg: @en_deal 2
+
+w: causar
+w: dar 5
+w: provocar
+d: @en_cause to have, in the abstract sense or physical sense
+fs: 14
+hyper: verb.body:contagiar
+hyper: adjudicar
+hyper: dar 21
+sa: @en:verb.possession:give 3
+vg: dar 10
+
+w: ceder
+w: conceder
+w: entregar 2
+w: submeter-se
+w: sucumbir
+d: Entregar-se; render-se ou renunciar seu controle físico a outro
+fs: 8 15
+hypo: dar 15
+sa: @en:verb.possession:cede 1
+
+w: ceder 1
+w: dar 6
+w: entregar 3
+w: passar
+d: @en_place into the hands or custody of
+fs: 14 15 9
+hyper: @en_deal 2
+hyper: abandonar 2
+hyper: alienar 1
+hyper: comissionar
+hyper: dar 13
+hyper: entregar 17
+hyper: passar 2
+hypo: transferir 1
+sa: @en:verb.possession:give 6
+
+w: ceder 2
+w: dar 7
+w: entregar 4
+w: render-se
+d: @en_relinquish possession or control over
+fs: 15 8
+hyper: @en_sign_away
+hyper: @en_yield_up
+hyper: vender 2
+hypo: dar 14
+sa: @en:verb.possession:cede
+
+w: certificar
+d: garantir o pagamento de, de cheques
+fs: 8
+hypo: @en_secure
+sa: @en:verb.possession:certify 2
+
+w: chantagear
+d: @en_obtain through threats
+fs: 9
+hypo: extorquir
+mt: noun.act:crime 2
+sa: @en:verb.possession:blackmail
+
+w: chatinar
+w: mercadejar
+w: traficar
+d: @en_sell or offer for sale from place to place
+fs: 8
+hypo: vender 1
+sa: @en:verb.possession:hawk
+
+w: cobrar
+w: facturar
+w: faturar
+d: @en_send an bill to
+fs: 9
+hypo: cobrar 1
+sa: @en:verb.possession:invoice
+
+w: cobrar 1
+d: @en_demand payment
+fs: 8 9 14
+hyper: @en_assess
+hyper: @en_surcharge
+hyper: @en_tithe 3
+hyper: @en_undercharge
+hyper: arrecadar 1
+hyper: cobrar
+hypo: computar
+sa: @en:verb.possession:bill
+vg: @en_charge
+
+w: cobrir
+d: @en_be sufficient to meet, defray, or offset the charge or cost of
+fs: 22
+hypo: verb.stative:estar 2
+sa: @en:verb.possession:cover
+
+w: coletar 1
+w: pegar
+w: recolher 1
+w: reunir 2
+d: recolher ou coletar
+e: Você pode pegar os resultados na segunda
+e: Ela pegou os filhos na creche
+e: Eles recolhem o lixo duas vezes ao dia
+fs: 8 9
+hypo: adquirir 1
+sa: @en:verb.possession:call_for
+
+w: colocar_legendas
+w: legendar
+d: @en_supply (a movie) with subtitles
+fs: 8
+hypo: abastecer
+mt: noun.cognition:Artes_Cénicas
+sa: @en:verb.possession:subtitle
+
+w: colocar_no_cartão_de_crédito
+w: debitar
+w: pagar_com_cartão_de_crédito
+d: @en_pay with a credit card; pay with plastic money; postpone payment by recording a purchase as a debt
+fs: 21 8 15
+hypo: pagar 6
+sa: @en:verb.possession:charge 1
+
+w: colocar_um_título
+d: @en_provide with a caption, as of a photograph or a drawing
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:caption
+
+w: comissionar
+w: confiar
+w: confiar_algo_a_alguém
+w: encarregar
+w: entregar 5
+w: incumbir
+w: ter_confiança_em
+d: @en_confer a trust upon
+fs: 15
+hyper: verb.communication:encarregar
+hyper: @en_obligate
+hyper: @en_recommit
+hyper: consignar
+hypo: ceder 1
+sa: @en:verb.possession:commit
+
+w: compartilhar
+w: dividir
+w: partilhar
+d: @en_use jointly or in common
+fs: 8 2
+hyper: @en_communalise
+hyper: @en_double_up
+hyper: agregar
+hypo: verb.consumption:empregar 1
+sa: @en:verb.possession:share 2
+
+w: compensar
+d: @en_do or give something to somebody in return
+fs: 20
+hypo: alienar
+sa: @en:verb.possession:compensate 2
+
+w: compensar 1
+w: indemnizar
+w: indenizar
+w: pagar
+w: recompensar
+d: @en_make amends for; pay compensation for
+fs: 8 15
+hyper: @en_give 2
+hypo: pagar 6
+sa: @en:verb.possession:compensate 1
+
+w: compensar 2
+w: pagar 1
+w: recompensar 1
+w: remunerar
+d: @en_make payment to; compensate
+fs: 9
+hyper: reembolsar
+hypo: pagar 6
+sa: @en:verb.possession:compensate
+
+w: comprar 4
+d: @en_take over ownership of; of corporations and companies
+fs: 8 11
+hypo: adquirir 7
+sa: @en:verb.possession:buy_out
+
+w: computadorizar
+w: informatizar
+d: @en_provide with computers
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:computerise 1
+
+w: computar
+w: contabilizar
+w: contar
+d: @en_keep an account of
+fs: 22
+hyper: @en_balance
+hyper: @en_compound
+hyper: @en_overbalance
+hyper: cobrar 1
+hyper: creditar
+hyper: debitar 1
+sa: @en:verb.possession:account
+
+w: computarizar
+w: informatizar 1
+d: armazenar em um computador
+fs: 8
+hypo: acumular
+sa: @en:verb.possession:computerise
+
+w: conceder 1
+w: conferir
+w: outorgar 1
+d: @en_present
+fs: 19
+hyper: @en_miter
+hyper: abençoar
+hyper: graduar 1
+hypo: outorgar 7
+sa: @en:verb.possession:bestow
+
+w: conceder 2
+w: dar 8
+w: outorgar 2
+w: permitir
+d: deixar ter
+fs: 14
+hyper: @en_allowance
+hyper: permitir 1
+hypo: dar 15
+sa: @en:verb.possession:allow
+vg: verb.communication:consentir 3
+
+w: conceder 3
+w: entregar 6
+w: outorgar 3
+d: @en_give as a gift
+fs: 19
+hypo: dar 15
+sa: @en:verb.possession:bestow 2
+
+w: conceder 4
+w: entregar 7
+w: lidar
+d: @en_administer or bestow, as in small portions
+fs: 15 8
+hyper: @en_reallot
+hyper: aplicar
+hyper: atribuir
+hyper: cartear
+hypo: dar 15
+sa: @en:verb.possession:administer
+
+w: conceder 5
+w: contribuir 1
+w: dar 9
+w: entregar 8
+w: outorgar 4
+d: @en_contribute to some cause
+fs: 8 2 15
+hyper: @en_combine
+hypo: dar 15
+sa: @en:verb.possession:chip_in
+
+w: conceder 6
+w: entregar 9
+w: outorgar 5
+d: @en_allow to have
+fs: 14 15
+hyper: verb.communication:@en_give 6
+hyper: verb.social:@en_enfranchise 1
+hypo: dar 15
+sa: @en:verb.possession:accord
+
+w: conectar-se
+w: fazer_o_login
+w: logar
+d: @en_enter a computer
+fs: 2
+hypo: @en_access
+sa: @en:verb.possession:log-in
+
+w: conservar
+w: guardar 1
+w: manter
+w: poupar 1
+w: preservar
+d: @en_to keep up and reserve for personal or special use
+fs: 8
+hyper: verb.communication:registar
+hyper: economizar 2
+hypo: guardar 3
+sa: @en:verb.possession:preserve 1
+
+w: consignar
+d: @en_give over to another for care or safekeeping
+fs: 15
+hyper: verb.communication:@en_pledge
+hyper: @en_check
+hyper: @en_check 1
+hyper: empenhar
+hypo: comissionar
+sa: @en:verb.possession:charge 4
+
+w: consumir
+w: esgotar
+d: @en_spend completely
+fs: 19 8
+hyper: @en_overspend
+hyper: @en_underspend
+hypo: verb.consumption:consumir 1
+sa: @en:verb.possession:spend 1
+
+w: conter
+w: reter
+d: @en_hold back; refuse to hand over or share
+fs: 16
+hyper: verb.change:congelar 4
+hyper: @en_keep_to_oneself
+hyper: denegar
+hyper: guardar 2
+hyper: imobilizar
+hyper: privar 1
+hypo: negar 1
+sa: @en:verb.possession:keep_back
+
+w: contrabandear
+d: @en_import or export without paying customs duties
+fs: 2 8 20 9 21
+hypo: exportar
+hypo: importar
+mt: noun.act:comercialismo
+mt: noun.act:crime 2
+sa: @en:verb.possession:smuggle
+
+w: contribuir 2
+w: doar 1
+d: @en_provide
+fs: 8 11
+hypo: pagar 6
+sa: @en:verb.possession:contribute 2
+
+w: cooptar
+d: @en_take or assume for one's own use
+fs: 8
+hypo: @en_accept
+sa: @en:verb.possession:co-opt
+
+w: copatrocinar
+d: @en_sponsor together with another sponsor
+fs: 8 9
+hypo: fiar
+sa: @en:verb.possession:cosponsor
+
+w: corromper
+w: subornar
+d: @en_make illegal payments to in exchange for favors or influence
+fs: 9
+hyper: @en_sop
+hyper: pagar 3
+hypo: pagar 6
+mt: noun.act:crime 2
+sa: @en:verb.possession:bribe
+
+w: creditar ant debitar 1
+d: @en_accounting: enter as credit
+fs: 15 8 17
+hyper: financiar 2
+hypo: computar
+sa: @en:verb.possession:credit
+
+w: custear
+w: pagar 2
+d: @en_cancel or discharge a debt
+fs: 8 2
+hyper: @en_liquidate
+hypo: @en_pay 2
+sa: @en:verb.possession:ante_up
+
+w: dar 10
+w: prover 1
+d: ser a causa ou fonte de
+fs: 11
+hyper: verb.change:abrir 2
+hyper: verb.stative:deixar 2
+hypo: abastecer
+sa: @en:verb.possession:afford
+vg: causar
+
+w: dar 11
+w: transmitir 1
+d: transmitir (conhecimento ou habilidades)
+e: dar um segredo para os russos
+e: dê seu nome e endereço aqui
+e: transmitir uma nova habilidade para o estudantes 
+fs: 8 15
+hyper: verb.communication:transmitir 3
+hypo: verb.communication:contar 1
+sa: @en:verb.possession:give 9
+vg: dar 16
+vg: dar 22
+
+w: dar 12
+w: jogar_água_benta
+d: @en_provide with water
+fs: 8
+hypo: abastecer
+sa: @en:verb.possession:water
+
+w: dar 13
+w: entregar 10
+d: @en_leave with; give temporarily
+fs: 14
+hypo: ceder 1
+sa: @en:verb.possession:give 2
+
+w: dar 14
+w: dar_de_presente
+w: entregar 11
+w: oferecer 1
+w: regalar
+d: @en_give as a present; make a gift of
+fs: 15 14
+hyper: @en_give_away
+hyper: @en_raffle
+hyper: @en_treat
+hyper: apresentar
+hyper: brindar
+hyper: ceder 2
+hyper: dar 16
+hyper: distribuir
+hyper: dotar
+hyper: entregar 15
+hyper: gratificar
+hyper: oferecer 2
+sa: @en:verb.possession:gift
+
+w: dar 15
+w: entregar 12
+d: @en_transfer possession of something concrete or abstract to somebody
+fs: 14 15
+cause: ter 1
+hyper: verb.consumption:abastecer
+hyper: @en_enfeoff
+hyper: @en_heap
+hyper: @en_vest 1
+hyper: abastecer
+hyper: alugar
+hyper: ceder
+hyper: conceder 2
+hyper: conceder 3
+hyper: conceder 4
+hyper: conceder 5
+hyper: conceder 6
+hyper: dar 18
+hyper: depositar 1
+hyper: dispensar_
+hyper: emprestar
+hyper: engasgar
+hyper: entregar 16
+hyper: financiar 1
+hyper: oferecer 7
+hyper: pagar 4
+hyper: pagar 6
+hypo: transferir 1
+sa: @en:verb.possession:give
+
+w: dar 16
+w: deixar 2
+w: entregar 13
+w: legar
+w: passar 1
+d: @en_leave or give by will after one's death
+fs: 14 15
+hyper: @en_devise
+hyper: @en_entail
+hyper: @en_pass_on
+hyper: lembrar
+hypo: dar 14
+sa: @en:verb.possession:bequeath
+vg: verb.change:deixar 1
+vg: dar 11
+
+w: dar 17
+w: garantir
+w: outorgar 6
+d: conceder, especialmente oficialmente
+fs: 15 14
+sa: @en:verb.possession:give 11
+
+w: dar 18
+w: entregar 14
+w: retornar
+d: dar de volta
+fs: 15 14 8
+hyper: @en_feed_back
+hypo: dar 15
+sa: @en:verb.possession:render
+
+w: dar 19
+d: @en_give (as medicine)
+fs: 15
+hypo: verb.body:administrar
+sa: @en:verb.possession:give 13
+vg: verb.communication:@en_give 7
+vg: aplicar
+
+w: dar 20
+d: @en_grant as a discount or in exchange
+fs: 14
+hypo: descontar 1
+sa: @en:verb.possession:allow 1
+
+w: dar 21
+d: @en_carry out or perform
+fs: 8 15
+hyper: @en_land
+hypo: causar
+sa: @en:verb.possession:deliver 7
+
+w: dar 22
+w: revelar
+d: transmitir ou revelar informações
+fs: 8
+hyper: verb.communication:cotar
+hyper: depositar
+hypo: verb.communication:contar 4
+sa: @en:verb.possession:give 7
+vg: dar 11
+
+w: dar_garantias
+w: dar_segurança
+w: indenizar 1
+d: @en_secure against future loss, damage, or liability; give security for
+fs: 10 8 9 11
+hypo: verb.communication:cobrir 1
+sa: @en:verb.possession:indemnify 1
+
+w: debitar 1 ant creditar
+d: @en_enter as debit
+fs: 8 17 15
+hyper: @en_charge
+hypo: computar
+mt: noun.cognition:contabilidade
+sa: @en:verb.possession:debit
+
+w: declarar
+d: @en_designate (a trump suit or no-trump) with the final bid of a hand
+fs: 8
+hypo: verb.competition:jogar 4
+mt: noun.act:@en_bridge
+sa: @en:verb.possession:declare
+
+w: declinar
+w: recusar
+w: rejeitar
+d: @en_refuse to accept
+fs: 8 16
+hyper: @en_bounce 1
+hyper: @en_dishonor
+sa: @en:verb.possession:decline
+vg: verb.communication:desprezar
+
+w: deduzir
+w: reter 1
+w: segurar 1
+d: @en_retain and refrain from disbursing; of payments
+fs: 8 16
+hyper: @en_dock
+hypo: guardar 3
+sa: @en:verb.possession:deduct
+
+w: deixar_passar
+w: jogar_fora
+w: perder
+d: perder alguma coisa ou perder o direito a alguma coisa por algum erro, ofensa ou crime
+fs: 8
+hyper: @en_lapse
+hypo: abandonar 4
+sa: @en:verb.possession:forego
+
+w: denegar
+w: negar
+w: proibir
+w: recusar 1
+w: rejeitar 1
+d: @en_refuse to grant, as of a petition or request
+fs: 8 14
+hypo: conter
+sa: @en:verb.possession:deny 1
+
+w: depositar
+d: @en_deposit
+fs: 8
+hypo: dar 22
+sa: @en:verb.possession:cast 13
+
+w: depositar 1
+d: @en_put into a bank account
+fs: 8
+hyper: @en_redeposit
+hypo: dar 15
+sa: @en:verb.possession:bank
+
+w: derramar
+w: despejar
+d: fornecer em grandes quantidades
+fs: 21
+hypo: abastecer
+sa: @en:verb.possession:pour
+
+w: descartar
+w: jogar_fora 1
+d: atirar ou lançar fora
+fs: 8
+hyper: verb.cognition:desaprender 1
+hyper: @en_close_out
+hyper: @en_de-access
+hyper: @en_junk
+hyper: @en_liquidize
+hyper: abandonar 3
+hyper: abandonar 4
+hyper: descartar 1
+hyper: enterrar
+hyper: jogar_fora 2
+hyper: jogar_fora 4
+hypo: livrar 2
+sa: @en:verb.possession:cast_aside
+
+w: descartar 1
+d: @en_dispose of (something no longer useful or needed)
+fs: 8
+hypo: descartar
+sa: @en:verb.possession:retire
+
+w: desconectar
+w: sair
+d: sair de um computador
+fs: 2
+hypo: verb.motion:deixar
+sa: @en:verb.possession:log_off
+
+w: descontar
+d: dar uma redução no preço durante uma venda
+fs: 2
+hypo: descontar 1
+sa: @en:verb.possession:rebate
+
+w: descontar 1
+d: dar uma redução de preço em algo
+fs: 8
+hyper: dar 20
+hyper: descontar
+hypo: @en_mark_down
+sa: @en:verb.possession:discount
+
+w: descontar 2
+d: trocar por dinheiro
+fs: 8
+hyper: @en_liquidate 1
+hyper: @en_redeem 1
+hypo: trocar 3
+sa: @en:verb.possession:cash
+
+w: desembolsar
+w: gastar
+d: gastar, a partir de um fundo
+fs: 15 8
+hypo: pagar 6
+sa: @en:verb.possession:disburse
+
+w: desenterrar
+d: @en_bring to light
+fs: 8 9
+hypo: achar
+sa: @en:verb.possession:unearth 1
+
+w: deserdar
+d: @en_prevent deliberately (as by making a will) from inheriting
+fs: 9
+hypo: privar 1
+sa: @en:verb.possession:disinherit
+
+w: desimpedir
+w: livrar 1
+w: remover
+d: remover de
+fs: 18
+hyper: verb.change:@en_cleanse
+hyper: @en_disembody
+hyper: @en_disinfest
+hyper: @en_smooth
+hyper: aliviar
+hyper: limpar
+sa: @en:verb.possession:disembarrass
+
+w: desionizar
+d: @en_remove ions from
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:deionize
+
+w: desoxigenar
+d: @en_remove oxygen from (water)
+fs: 8
+hypo: livrar 2
+sa: @en:verb.possession:deoxygenate
+
+w: despender
+w: gastar 1
+d: @en_pay out
+fs: 8 19
+hyper: verb.consumption:consumir 1
+hyper: verb.consumption:delapidar
+hyper: verb.consumption:dispor
+hyper: @en_blow
+hyper: @en_lay_out
+hyper: @en_nickel-and-dime
+hyper: @en_trifle_away
+hyper: @en_underspend 1
+hyper: amealhar
+hyper: esbanjar 1
+hyper: investir
+hyper: verb.stative:desperdiçar
+hyper: verb.stative:gastar
+hypo: pagar 6
+sa: @en:verb.possession:drop
+
+w: desperdiçar ant economizar 2
+d: @en_spend thoughtlessly; throw away
+fs: 8
+hyper: @en_burn
+hypo: verb.consumption:despender
+sa: @en:verb.possession:blow 2
+vg: @en_blow
+
+w: despir
+d: @en_strip
+fs: 18
+hypo: privar
+sa: @en:verb.possession:unclothe
+
+w: deter
+w: reter 2
+d: @en_secure and keep for possible future use or application
+fs: 8
+hyper: @en_hold_down
+hypo: guardar 3
+sa: @en:verb.possession:hold 2
+
+w: dever
+d: @en_be in debt
+fs: 8 2 11
+hyper: hipotecar
+hypo: verb.stative:estar 2
+sa: @en:verb.possession:owe
+
+w: dever 1
+d: @en_be obliged to pay or repay
+fs: 15 8 14
+hyper: @en_chalk_up
+sa: @en:verb.possession:owe 1
+
+w: dispensar_
+d: doar o que não é estritamente necessário
+e: Ele perguntou se eles poderiam emprestar um dos cavalos deles para acelerar sua viagem
+fs: 8
+hypo: dar 15
+sa: @en:verb.possession:dispense_with 1
+
+w: dispor 1
+d: @en_give, sell, or transfer to another
+fs: 8 11
+hyper: @en_redispose
+hypo: vender
+sa: @en:verb.possession:dispose 11
+
+w: distribuir
+d: @en_give to several people
+fs: 8 14 15
+hyper: @en_apportion
+hypo: dar 14
+sa: @en:verb.possession:distribute 1
+
+w: dotar
+d: @en_furnish with an endowment
+fs: 9
+hyper: @en_benefice
+hypo: dar 14
+sa: @en:verb.possession:dower
+
+w: economizar 2 ant desperdiçar
+w: poupar 2
+d: usar com cautela e frugalidade
+fs: 8
+hyper: @en_retrench
+hypo: conservar
+sa: @en:verb.possession:conserve
+
+w: embalsamar
+d: @en_preserve a dead body
+fs: 8 9
+hyper: mumificar
+hypo: acautelar
+sa: @en:verb.possession:embalm
+
+w: embolsar
+w: ensacar
+w: furtar 1
+d: @en_take unlawfully
+fs: 8
+hypo: furtar 2
+sa: @en:verb.possession:bag 1
+
+w: empenhar
+d: @en_leave as a guarantee in return for money
+fs: 8
+hypo: consignar
+mt: noun.act:comercialismo
+sa: @en:verb.possession:hock
+
+w: empobrecer
+d: @en_reduce to beggary
+fs: 10
+hypo: empobrecer 1
+sa: @en:verb.possession:beggar
+
+w: empobrecer 1 ant enriquecer
+d: @en_make poor
+fs: 10 9
+hyper: @en_reduce 1
+hyper: arruinar
+hyper: empobrecer
+hypo: privar 1
+sa: @en:verb.possession:impoverish
+
+w: empregar
+w: engajar
+w: enlistar
+d: @en_hire for work or assistance
+fs: 8 16
+hyper: recrutar
+hypo: adquirir 3
+sa: @en:verb.possession:engage 1
+
+w: emprestar
+w: prestar
+d: @en_give temporarily; let have for a limited time
+fs: 15 14
+hyper: @en_advance
+hyper: @en_trust
+hyper: alugar 2
+hypo: dar 15
+sa: @en:verb.possession:lend
+
+w: encalhar
+d: @en_leave stranded or isolated with little hope of rescue
+fs: 9
+hypo: verb.cognition:abandonar 2
+sa: @en:verb.possession:maroon
+
+w: encaçapar
+d: @en_put in one's pocket
+fs: 16 8
+hypo: adoptar
+sa: @en:verb.possession:pocket
+
+w: encher
+d: encher o tanque com gasolina
+fs: 8
+hypo: abastecer 1
+sa: @en:verb.possession:gas_up
+
+w: encontrar 4
+w: topar
+d: encontrar por acaso
+fs: 22
+hypo: @en_come_by
+sa: @en:verb.possession:hit 5
+
+w: engarrafar
+d: @en_store (liquids or gases) in bottles
+fs: 8
+hypo: armazenar 2
+sa: @en:verb.possession:bottle
+
+w: engasgar
+d: @en_give reluctantly
+fs: 8
+hypo: dar 15
+sa: @en:verb.possession:cough_up
+
+w: enriquecer ant empobrecer 1
+d: @en_make wealthy or richer
+fs: 9 10
+hyper: @en_feather_one's_nest
+hypo: verb.change:acrescentar
+sa: @en:verb.possession:enrich
+
+w: enterrar
+d: @en_toss out; get rid of
+fs: 8
+hypo: descartar
+sa: @en:verb.possession:deep-six
+
+w: entrar
+d: @en_secure a place in a college, university, etc.
+fs: 2
+hypo: obter 7
+sa: @en:verb.possession:get_in 1
+
+w: entregar 15
+d: @en_transfer by deed
+fs: 8 15
+hypo: dar 14
+sa: @en:verb.possession:deed_over
+
+w: entregar 16
+d: @en_hand over formally
+fs: 15 8 17
+hyper: @en_bring_in
+hypo: dar 15
+sa: @en:verb.possession:present 1
+
+w: entregar 17
+d: @en_put into the care or protection of someone
+fs: 15
+hypo: ceder 1
+sa: @en:verb.possession:entrust 1
+
+w: enviar 1
+d: @en_send (money) in payment
+fs: 14 8 15
+entail: transferir 1
+hypo: pagar 6
+sa: @en:verb.possession:remit
+
+w: enviar 2
+d: @en_transfer to another
+fs: 15 8
+hyper: verb.communication:comunicar 2
+hypo: transferir 2
+sa: @en:verb.possession:communicate 10
+
+w: envidraçar
+d: @en_furnish with glass
+fs: 8
+hyper: @en_double-glaze
+hypo: abastecer
+sa: @en:verb.possession:glass
+
+w: equipar 1
+d: @en_furnish with tools
+fs: 8 9
+hypo: abastecer
+sa: @en:verb.possession:tool
+
+w: esbanjar
+d: @en_expend profusely; also used with abstract nouns
+fs: 19
+hypo: verb.consumption:delapidar
+sa: @en:verb.possession:lavish
+
+w: esbanjar 1
+w: malbaratar
+d: gastar (dinheiro ou outros recursos) imprudentemente
+fs: 8
+hypo: despender
+sa: @en:verb.possession:misspend
+
+w: esbulhar
+w: usurpar
+d: @en_seize and take control without authority and possibly with force; take as one's right or possession
+fs: 8
+hyper: @en_annex
+hyper: @en_hijack
+hyper: @en_preoccupy
+hyper: @en_raid
+hyper: apropriar-se
+hypo: apoderar-se
+sa: @en:verb.possession:arrogate
+
+w: esgotar 1
+w: exaurir
+d: gastar tudo
+fs: 8
+hypo: verb.consumption:consumir 1
+sa: @en:verb.possession:exhaust
+vg: verb.change:@en_play_out
+
+w: esmolar
+w: mendigar 1
+w: pedir_esmola
+d: abordar as pessoas na rua e pedir dinheiro
+fs: 9 2 8
+hypo: captar
+sa: @en:verb.possession:panhandle
+
+w: especular
+d: @en_invest at a risk
+fs: 22 2
+hyper: @en_bull
+hypo: investir
+sa: @en:verb.possession:job
+
+w: estofar
+d: @en_provide furniture with padding, springs, webbing, and covers
+fs: 8
+hypo: abastecer
+mt: noun.act:@en_cabinetry
+sa: @en:verb.possession:upholster
+
+w: exercer
+w: manter 1
+d: ter e exercer
+e: exercer poder e autoridade
+fs: 8
+hypo: ter 1
+sa: @en:verb.possession:exert
+
+w: exportar
+d: @en_sell or transfer abroad
+fs: 8 16 21
+hyper: contrabandear
+hypo: @en_merchandise
+mt: noun.act:comercialismo
+sa: @en:verb.possession:export
+
+w: extorquir
+d: @en_obtain through intimidation
+fs: 16
+hyper: chantagear
+hypo: apoderar-se
+mt: noun.act:crime 2
+sa: @en:verb.possession:extort 1
+
+w: extorquir 1
+d: @en_obtain by coercion or intimidation
+fs: 16
+hyper: @en_bleed
+hypo: roubar 5
+sa: @en:verb.possession:extort
+
+w: falir 1
+w: quebrar 1
+d: @en_become bankrupt or insolvent; fail financially and close
+fs: 2 1
+sa: @en:verb.possession:fail
+
+w: fazer
+d: @en_achieve a point or goal
+e: Ela fez 29 pontos naquele dia
+fs: 11 8
+hypo: verb.competition:@en_hit
+sa: @en:verb.possession:get 1
+vg: verb.body:adquirir 1
+
+w: fazer 1
+d: @en_get by buying and selling
+fs: 8
+hypo: adquirir 1
+mt: noun.act:comercialismo
+sa: @en:verb.possession:turn 13
+
+w: fazer_demais
+d: @en_draw more money from than is available
+fs: 8
+hypo: sacar
+sa: @en:verb.possession:overdraw
+
+w: fazer_ftp
+d: usar o protocolo de transferência de arquivos para transferir dados de um computador para outro
+fs: 8
+hypo: transferir 2
+sa: @en:verb.possession:FTP
+
+w: fazer_nova_fiação
+d: @en_provide with new wiring
+fs: 8
+hypo: @en_wire
+sa: @en:verb.possession:rewire
+
+w: fazer_substituir
+w: substituir
+d: @en_be a substitute
+fs: 2 22
+hypo: trocar 3
+sa: @en:verb.possession:fill_in
+
+w: fiar
+w: patrocinar 1
+d: @en_assume sponsorship of
+fs: 9 8
+hyper: copatrocinar
+hypo: financiar 1
+sa: @en:verb.possession:patronise
+
+w: financiar
+d: @en_obtain or provide money for
+fs: 8
+hyper: @en_fund 2
+hyper: @en_seed
+hyper: apoiar
+hyper: refinanciar
+hypo: pagar 6
+sa: @en:verb.possession:finance
+
+w: financiar 1
+w: manter 2
+d: @en_support materially or financially
+fs: 8 9
+hyper: @en_see_through
+hyper: fiar
+hyper: financiar 3
+hyper: prover 2
+hyper: subsidiar
+hypo: dar 15
+sa: @en:verb.possession:support
+
+w: financiar 2
+d: @en_sell or provide on credit
+fs: 8
+hypo: creditar
+sa: @en:verb.possession:finance 1
+
+w: financiar 3
+w: suportar
+d: @en_furnish money for
+fs: 9 8
+entail: financiar
+hyper: @en_absorb
+hyper: @en_bankroll
+hyper: @en_grubstake
+hypo: financiar 1
+sa: @en:verb.possession:fund
+vg: @en_fund 3
+
+w: fornecer 3
+w: mobiliar
+d: fornecer ou equipar com mobília
+fs: 8
+hyper: @en_refurnish
+hypo: abastecer
+sa: @en:verb.possession:furnish 1
+
+w: fruir
+w: possuir
+w: ter
+d: @en_have ownership or possession of
+fs: 8
+hyper: @en_prepossess
+sa: @en:verb.possession:have 4
+vg: verb.stative:apresenta
+
+w: furtar 2
+w: roubar 1
+d: @en_take without the owner's consent
+fs: 16 8
+hyper: @en_defalcate
+hyper: @en_shoplift
+hyper: @en_walk_off
+hyper: afanar
+hyper: embolsar
+hyper: furtar 3
+hyper: muambar
+hyper: piratear
+hyper: plagiar
+hyper: roubar 4
+hyper: roubar 6
+hyper: roubar 7
+hyper: verb.social:furtar
+hypo: apoderar-se
+sa: @en:verb.possession:steal
+
+w: furtar 3
+w: pilhar
+w: roubar 2
+d: @en_take something away by force or without the consent of the owner
+fs: 16 8 9
+hyper: @en_hold_up
+hyper: @en_pick
+hypo: furtar 2
+sa: @en:verb.possession:rob
+
+w: ganhar 2
+w: ganhar_dinheiro_com_seu_trabalho
+d: @en_acquire or deserve by one's efforts or actions
+fs: 8
+hyper: @en_letter
+hypo: adquirir 1
+sa: @en:verb.possession:earn 3
+
+w: gastar_em_demasia
+w: indulgir
+w: paparicar_se
+d: tratar bem de si mesmo
+fs: 2 22
+hypo: verb.consumption:delapidar
+sa: @en:verb.possession:fling 1
+
+w: graduar 1
+w: licenciar
+d: @en_confer an academic degree upon
+fs: 9
+cause: bacharelar
+hypo: conceder 1
+sa: @en:verb.possession:graduate 1
+
+w: gratificar
+d: @en_give a tip or gratuity to in return for a service, beyond the compensation agreed on
+fs: 9 14
+hypo: dar 14
+sa: @en:verb.possession:bung
+
+w: guardar 2
+d: @en_hold back or set aside, especially for future use or contingency
+fs: 8
+hyper: @en_devote
+hypo: conter
+sa: @en:verb.possession:reserve 3
+
+w: guardar 3
+w: manter 3
+w: reter 3
+w: segurar 2
+d: @en_retain possession of
+fs: 8
+hyper: @en_carry_over
+hyper: @en_harbor
+hyper: acumular
+hyper: armazenar 2
+hyper: conservar
+hyper: deduzir
+hyper: deter
+hyper: negar 1
+hypo: ter 1
+sa: @en:verb.possession:hold_on
+vg: @en_hold_open
+
+w: guarnecer
+d: @en_take a debtor's wages on legal orders, such as for child support
+fs: 8
+hypo: apreender
+sa: @en:verb.possession:garnish
+
+w: herdar
+d: @en_receive from a predecessor
+fs: 8
+sa: @en:verb.possession:inherit 2
+vg: herdar 1
+
+w: herdar 1
+d: @en_obtain from someone after their death
+fs: 8 16
+hypo: adquirir 1
+sa: @en:verb.possession:inherit
+vg: @en_inherit
+vg: herdar
+
+w: hipotecar
+d: @en_put up as security or collateral
+fs: 8
+hyper: @en_bond
+hypo: dever
+sa: @en:verb.possession:mortgage
+
+w: hospitalizar
+d: @en_admit into a hospital
+fs: 9
+hypo: admitir 1
+sa: @en:verb.possession:hospitalise
+
+w: imobilizar
+d: @en_hold as reserve or withdraw from circulation; of capital
+fs: 8
+hypo: conter
+sa: @en:verb.possession:immobilise
+
+w: imolar
+w: sacrificar
+d: @en_offer as a sacrifice by killing or by giving up to destruction
+fs: 8 9
+hypo: @en_sacrifice 2
+sa: @en:verb.possession:immolate
+
+w: importar
+d: @en_bring in from abroad
+fs: 21 8
+hyper: contrabandear
+hypo: @en_merchandise
+mt: noun.act:comercialismo
+sa: @en:verb.possession:import
+
+w: importar 1
+d: @en_transfer (electronic data) into a database or document
+fs: 8
+hypo: transferir 2
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.possession:import 1
+
+w: intermediar
+d: @en_act as a broker
+fs: 2 8
+hypo: verb.communication:agenciar
+mt: noun.act:comercialismo
+sa: @en:verb.possession:broker
+
+w: investir
+d: @en_make an investment
+fs: 21 8
+hyper: @en_buy_into
+hyper: @en_fund
+hyper: @en_roll_over 1
+hyper: @en_shelter
+hyper: @en_tie_up
+hyper: especular
+hypo: despender
+sa: @en:verb.possession:commit 5
+
+w: ir_às_compras
+d: @en_do one's shopping
+fs: 2 22
+entail: adquirir 7
+hyper: @en_market 2
+hypo: obter 7
+mt: noun.act:comercialismo
+sa: @en:verb.possession:shop
+
+w: ir_às_compras 1
+d: @en_shop around; not necessarily buying
+fs: 22 2
+hyper: @en_antique
+hyper: @en_comparison-shop
+hyper: @en_window-shop
+hypo: verb.contact:buscar
+mt: noun.act:comercialismo
+sa: @en:verb.possession:browse
+vg: verb.contact:navegar
+
+w: jogar_fora 2
+w: jogar_no_lixo
+w: livrar-se_de_
+d: @en_throw away as refuse
+fs: 11 8
+hypo: descartar
+sa: @en:verb.possession:dump
+
+w: jogar_fora 3
+w: mandar_embora
+d: cortar todos os laços com, geralmente sem a menor cerimônia ou irresponsavelmente
+fs: 9 8
+hypo: livrar 2
+sa: @en:verb.possession:ditch 3
+
+w: jogar_fora 4
+d: livrar-se de
+fs: 8
+hypo: descartar
+sa: @en:verb.possession:waste 1
+
+w: leiloar
+w: licitar
+d: @en_sell at an auction
+fs: 8
+hypo: vender
+mt: noun.act:comercialismo
+sa: @en:verb.possession:auction
+
+w: lembrar
+d: @en_show appreciation to
+fs: 9
+hypo: dar 16
+sa: @en:verb.possession:remember
+
+w: levar
+w: ocupar
+d: @en_require (time or space)
+fs: 8 11
+hyper: @en_be
+hypo: verb.consumption:despender
+sa: @en:verb.possession:occupy 8
+vg: verb.consumption:consumir 1
+
+w: limpar
+w: purificar
+d: limpar de impurezas, manchas, poluição, etc
+fs: 11 8
+hypo: desimpedir
+sa: @en:verb.possession:clear 12
+
+w: liquidar
+d: @en_settle the affairs of by determining the debts and applying the assets to pay them off
+fs: 8
+hypo: alienar
+sa: @en:verb.possession:liquidate 3
+
+w: livrar 2
+d: @en_dispose of
+fs: 10 11 9 8
+hyper: @en_cull
+hyper: @en_de-aerate
+hyper: @en_decaffeinate
+hyper: @en_decarbonate
+hyper: @en_decerebrate
+hyper: @en_dechlorinate
+hyper: @en_defat
+hyper: @en_defibrinate
+hyper: @en_degrease
+hyper: @en_delist
+hyper: @en_delocalize
+hyper: @en_destain
+hyper: @en_desulfurize
+hyper: @en_detick
+hyper: @en_devein
+hyper: @en_fettle
+hyper: @en_flense
+hyper: @en_flesh
+hyper: @en_kern 1
+hyper: @en_pith
+hyper: @en_scum
+hyper: @en_slough_off
+hyper: @en_unbridle
+hyper: @en_unmuzzle
+hyper: @en_work_off
+hyper: descartar
+hyper: desionizar
+hyper: desoxigenar
+hyper: jogar_fora 3
+hyper: remover_indesejáveis
+sa: @en:verb.possession:get_rid_of 1
+
+w: lucrar 1
+d: fazer um lucro líquido
+fs: 8
+hypo: beneficiar
+sa: @en:verb.possession:clear 4
+vg: adquirir 8
+vg: render
+
+w: lucrar 2
+w: rentabilizar
+d: fazer um lucro; ganhar dinheiro de algo
+fs: 2 22
+hyper: @en_clean_up 1
+hyper: @en_line_one's_pockets
+hyper: @en_turn_a_nice_dime
+hypo: adquirir 8
+sa: @en:verb.possession:profit
+
+w: monopolizar
+d: @en_have or exploit a monopoly of
+fs: 8
+hypo: ter 1
+sa: @en:verb.possession:monopolise
+
+w: muambar
+d: @en_sell something to or obtain something from by energetic and especially underhanded activity
+fs: 16 8
+hypo: furtar 2
+sa: @en:verb.possession:hustle
+
+w: multar
+d: @en_impose a fine on
+fs: 33 9
+hypo: arrecadar 1
+sa: @en:verb.possession:mulct
+
+w: mumificar
+d: @en_remove the organs and dry out (a dead body) in order to preserve it
+fs: 8 9
+hypo: embalsamar
+sa: @en:verb.possession:mummify
+vg: verb.change:mumificar
+
+w: negar 1
+d: @en_refuse to let have
+fs: 14
+hyper: conter
+hypo: guardar 3
+sa: @en:verb.possession:deny
+vg: @en_abnegate
+
+w: obter 7
+d: @en_come into possession of
+fs: 8 16
+hyper: verb.competition:passar
+hyper: verb.contact:@en_dig_up
+hyper: verb.creation:@en_extort
+hyper: @en_bum
+hyper: @en_derive
+hyper: @en_eke_out 1
+hyper: @en_extract
+hyper: @en_grab
+hyper: @en_kite
+hyper: @en_snag
+hyper: @en_source
+hyper: adquirir 3
+hyper: adquirir 4
+hyper: entrar
+hyper: ir_às_compras
+hypo: adquirir 1
+sa: @en:verb.possession:obtain
+
+w: oferecer 2
+d: @en_offer or present for acceptance
+fs: 8 14 15
+hypo: dar 14
+sa: @en:verb.possession:tender 1
+
+w: oferecer 3
+d: @en_make available for sale
+fs: 8
+hyper: @en_put_up
+hypo: @en_market 1
+sa: @en:verb.possession:offer 3
+
+w: oferecer 4
+d: @en_make available or accessible, provide or furnish
+fs: 8 14 15 11
+hyper: verb.communication:abordar
+hypo: abastecer
+sa: @en:verb.possession:offer 2
+
+w: oferecer 5
+d: @en_offer verbally
+fs: 15 8
+hypo: verb.communication:@en_give
+sa: @en:verb.possession:extend 4
+vg: @en_extend
+
+w: oferecer 6
+d: propor um pagamento
+fs: 2 8 21
+entail: pechinchar 1
+hyper: @en_by-bid
+hyper: @en_outbid
+hyper: @en_overbid
+hyper: @en_subscribe 1
+hyper: @en_underbid
+hyper: @en_underbid 2
+mt: noun.act:almoeda
+sa: @en:verb.possession:bid
+
+w: oferecer 7
+d: @en_present for acceptance or rejection
+fs: 14 15 8
+hyper: verb.body:@en_give
+hyper: pagar 7
+hypo: dar 15
+sa: @en:verb.possession:offer
+
+w: onerar
+d: @en_tax excessively
+fs: 9
+hypo: taxar
+sa: @en:verb.possession:overtax
+
+w: outorgar 7
+w: premiar
+w: presentear 1
+d: @en_give, especially as an honor or reward
+fs: 15 14
+hyper: @en_certificate
+hyper: conceder 1
+hypo: alocar
+sa: @en:verb.possession:award
+
+w: pagar 3
+d: @en_pay someone with influence in order to receive a favor
+fs: 9
+hypo: corromper
+mt: noun.act:crime 2
+sa: @en:verb.possession:buy_off
+
+w: pagar 4
+d: @en_make repayment for or return something
+fs: 8
+hyper: @en_pay 1
+hypo: dar 15
+sa: @en:verb.possession:repay 1
+
+w: pagar 5
+d: @en_pay for something
+fs: 2
+hypo: pagar 6
+sa: @en:verb.possession:foot
+
+w: pagar 6
+d: @en_give money, usually in exchange for goods or services
+fs: 8 14 15 17 9 2
+hyper: @en_defray
+hyper: @en_go_Dutch
+hyper: @en_pay_cash
+hyper: @en_pay_off 2
+hyper: @en_tithe 1
+hyper: antecipar
+hyper: colocar_no_cartão_de_crédito
+hyper: compensar 1
+hyper: compensar 2
+hyper: contribuir 2
+hyper: corromper
+hyper: desembolsar
+hyper: despender
+hyper: enviar 1
+hyper: financiar
+hyper: pagar 5
+hyper: pagar_demais
+hyper: pagar_mal
+hyper: reintegrar
+hyper: subornar 1
+hyper: subsidiar 1
+hyper: verb.social:preferir 1
+hypo: dar 15
+sa: @en:verb.possession:pay
+
+w: pagar 7
+d: pagar uma conta, em acordos legais
+fs: 8
+hypo: oferecer 7
+sa: @en:verb.possession:tender
+
+w: pagar_demais
+w: sobrepagar
+d: pagar demais
+fs: 9 22
+hypo: pagar 6
+sa: @en:verb.possession:overpay
+
+w: pagar_mal
+d: @en_pay too little
+fs: 9 22
+hypo: pagar 6
+sa: @en:verb.possession:underpay
+
+w: passar 2
+d: passar furtivamente
+fs: 15 14
+hypo: ceder 1
+sa: @en:verb.possession:slip 10
+
+w: pechinchar 1
+w: regatear 1
+d: @en_negotiate the terms of an exchange
+fs: 22 2
+hyper: barganhar 1
+hypo: verb.communication:agenciar
+sa: @en:verb.possession:bargain
+
+w: pedir 1
+d: @en_demand payment of (a loan)
+fs: 8
+hypo: verb.communication:exigir 3
+sa: @en:verb.possession:call 9
+vg: verb.communication:@en_call 2
+
+w: pegar_de_volta
+w: reapropriar
+d: @en_regain possession of something
+fs: 8
+hypo: adoptar
+sa: @en:verb.possession:repossess 3
+
+w: perder 1
+d: @en_fail to make money in a business; make a loss or fail to profit
+fs: 2 22
+sa: @en:verb.possession:lose 6
+
+w: perder 2
+d: @en_miss from one's possessions; lose sight of
+fs: 8
+hyper: verb.cognition:esquecer 4
+sa: @en:verb.possession:lose 1
+
+w: permitir 1
+d: @en_grant in a condescending manner
+fs: 8 14
+hypo: conceder 2
+sa: @en:verb.possession:vouchsafe
+
+w: permutar
+w: trocar 1
+d: @en_exchange or give (something) in exchange for
+fs: 2 8 21
+hypo: trocar 3
+sa: @en:verb.possession:swap
+
+w: perseguir
+w: procurar
+d: @en_try to get or reach
+fs: 8
+hyper: @en_bid 1
+hyper: procurar 1
+hypo: verb.emotion:ansiar
+sa: @en:verb.possession:seek
+
+w: pertencer
+d: @en_be owned by; be in the possession of
+fs: 10
+hypo: verb.stative:estar 2
+sa: @en:verb.possession:belong
+
+w: pilhar 1
+w: roubar 3
+w: saquear
+d: @en_steal goods; take as spoils
+fs: 8
+hyper: @en_deplume
+hypo: apoderar-se
+sa: @en:verb.possession:despoil
+
+w: piratear
+d: @en_copy illegally; of published material
+fs: 8 16
+hypo: furtar 2
+mt: noun.act:crime 2
+sa: @en:verb.possession:pirate
+
+w: plagiar
+d: @en_take without referencing from someone else's writing or speech; of intellectual property
+fs: 8 16 2
+hyper: @en_crib
+hypo: furtar 2
+mt: noun.act:crime 2
+sa: @en:verb.possession:lift 1
+
+w: premiar 1
+w: recompensar 2
+d: @en_act or give recompense in recognition of someone's behavior or actions
+fs: 17 9 8
+hypo: verb.social:agir
+sa: @en:verb.possession:pay_back
+
+w: prescindir
+d: @en_forgo or do or go without
+fs: 8
+hypo: abandonar 4
+sa: @en:verb.possession:dispense_with
+
+w: pretender
+d: @en_put forward a claim and assert right or possession of
+fs: 8
+hypo: reclamar
+sa: @en:verb.possession:pretend 3
+
+w: privar
+d: @en_take away possessions from someone
+fs: 18
+hyper: verb.competition:desarmar
+hyper: verb.contact:@en_clean 1
+hyper: verb.contact:apoderar
+hyper: @en_bereave
+hyper: @en_clean_out
+hyper: @en_dispossess
+hyper: @en_orphan
+hyper: @en_unsex
+hyper: despir
+hypo: adoptar
+sa: @en:verb.possession:deprive 1
+
+w: privar 1
+d: @en_keep from having, keeping, or obtaining
+fs: 9 18
+hyper: verb.consumption:@en_starve
+hyper: verb.consumption:desmamar
+hyper: verb.consumption:esfomear
+hyper: @en_bilk
+hyper: @en_dock 1
+hyper: @en_tongue-tie
+hyper: deserdar
+hyper: empobrecer 1
+hyper: verb.social:@en_disenfranchise
+hypo: conter
+sa: @en:verb.possession:deprive
+
+w: procurar 1
+d: @en_make a search (for)
+fs: 1 2
+hypo: perseguir
+sa: @en:verb.possession:quest
+
+w: prosperar
+d: @en_make steady progress; be at the high point in one's career or reach a high point in historical significance or importance
+fs: 2 1
+hypo: verb.change:revoltar
+sa: @en:verb.possession:flourish
+
+w: prover 2
+d: @en_supply means of subsistence; earn a living
+fs: 22
+hypo: financiar 1
+sa: @en:verb.possession:bring_home_the_bacon
+
+w: pôr_no_lugar_de
+w: substituir 1
+w: trocar 2
+d: @en_put in the place of another; switch seemingly equivalent items
+fs: 8 31 21
+hyper: verb.change:trocar 6
+hyper: @en_reduce
+hyper: @en_subrogate
+hyper: @en_truncate
+hyper: reequipar
+hypo: verb.change:alterar 2
+sa: @en:verb.possession:exchange 2
+
+w: racionalizar
+d: @en_structure and run according to rational or scientific principles in order to achieve desired results
+fs: 8
+hypo: verb.social:organizar 2
+sa: @en:verb.possession:rationalise
+
+w: re-adquirir
+w: reconquistar
+w: recuperar
+w: reganhar 1
+d: obter ou encontrar de volta
+fs: 16 8
+hyper: @en_access
+hypo: adquirir 1
+sa: @en:verb.possession:find 15
+vg: achar 2
+
+w: re-equipar
+d: @en_re-equip a factory or plant
+fs: 8
+hypo: aparelhar
+sa: @en:verb.possession:re-equip
+
+w: reabastecer
+d: @en_take on more fuel, as of a plane, ship, or car
+fs: 2 1
+hypo: @en_fuel 1
+sa: @en:verb.possession:refuel
+
+w: readquirir
+d: comprar o que tinha anteriormente sido vendido, perdido ou dado
+fs: 8
+hypo: adquirir 7
+sa: @en:verb.possession:buy_back
+
+w: realizar
+d: @en_convert into cash; of goods and property
+fs: 8
+hypo: vender
+mt: noun.act:comercialismo
+sa: @en:verb.possession:realise
+
+w: realocar
+d: @en_allocate, distribute, or apportion anew
+fs: 8 15
+hypo: alocar
+sa: @en:verb.possession:reallocate
+
+w: reaparelhar
+d: @en_fit out again
+fs: 9 17 8
+hypo: aparelhar
+sa: @en:verb.possession:refit
+
+w: reaver
+d: @en_claim back
+fs: 8 16
+hyper: @en_distrain 1
+hyper: @en_foreclose
+hypo: adquirir 1
+sa: @en:verb.possession:reclaim
+
+w: receber 1
+d: @en_get something; come into possession of
+fs: 9 16 8
+hyper: verb.contact:@en_take_in 1
+hyper: @en_fence
+hyper: @en_hustle
+hyper: @en_inherit
+hyper: aceitar 1
+hyper: bacharelar
+hypo: adquirir 1
+sa: @en:verb.possession:have 3
+vg: aceitar 3
+
+w: reclamar
+w: reivindicar
+d: demandar como sendo um direito ou propriedade sua; afirmar o seu direito ou título
+fs: 8
+hyper: @en_arrogate
+hyper: @en_requisition
+hyper: pretender
+hypo: verb.communication:pedir 6
+sa: @en:verb.possession:arrogate 2
+vg: verb.communication:afirmar 4
+
+w: recrutar
+d: @en_seek to employ
+fs: 8 9
+hypo: empregar
+sa: @en:verb.possession:recruit
+
+w: recuperar 1
+d: @en_regain or make up for
+fs: 8
+hyper: verb.social:@en_catch_up_with
+hypo: adquirir 1
+sa: @en:verb.possession:recoup
+
+w: redimir
+w: resgatar
+d: @en_to turn in (vouchers or coupons) and receive something in exchange
+fs: 8 9
+hypo: trocar 3
+sa: @en:verb.possession:redeem 4
+
+w: reembolsar
+w: ressarcir
+d: @en_reimburse or compensate (someone), as for a loss
+fs: 20 9
+hypo: compensar 2
+sa: @en:verb.possession:recoup 2
+
+w: reembolsar 1
+d: @en_pay back for some expense incurred
+fs: 8 14
+hypo: reintegrar
+sa: @en:verb.possession:reimburse
+
+w: reequipar
+d: @en_provide (a workshop or factory) with new tools
+fs: 9 8
+hypo: pôr_no_lugar_de
+sa: @en:verb.possession:retool
+
+w: reestocar
+d: @en_stock again
+fs: 8
+hypo: @en_stock 2
+mt: noun.act:exploração_pecuária
+sa: @en:verb.possession:restock
+
+w: refinanciar
+d: @en_renew the financing of
+fs: 8
+hypo: financiar
+sa: @en:verb.possession:refinance
+
+w: reintegrar
+w: retribuir
+d: @en_pay back
+fs: 8 15 14
+hyper: @en_restitute
+hyper: reembolsar 1
+hypo: pagar 6
+sa: @en:verb.possession:give_back
+
+w: remir
+w: resgatar 1
+d: @en_exchange or buy back for money; under threat
+fs: 9 8
+hypo: trocar 3
+mt: noun.act:crime 2
+sa: @en:verb.possession:ransom
+
+w: remover 1
+w: retirar
+w: tirar
+d: tirar de uma pessoa ou lugar
+e: Retiramos  a criança maltratada para longe de seus pais
+fs: 8 9 20 21
+hypo: adoptar
+sa: @en:verb.possession:take_away 1
+
+w: remover_indesejáveis
+d: @en_remove unwanted elements
+fs: 8 9 11
+hypo: livrar 2
+sa: @en:verb.possession:comb_out
+
+w: render
+d: @en_yield as a net profit
+fs: 11
+hypo: @en_bear 1
+sa: @en:verb.possession:clear 3
+vg: lucrar 1
+
+w: renovar
+d: @en_provide with parts, devices, or equipment not available or in use at the time of the original manufacture
+fs: 31 8
+hypo: abastecer
+sa: @en:verb.possession:retrofit
+vg: verb.contact:@en_retrofit
+
+w: resgatar 2
+d: @en_take forcibly from legal custody
+fs: 9
+hypo: apoderar-se
+sa: @en:verb.possession:rescue
+
+w: retirar 1
+d: @en_cause to be returned
+fs: 8
+hyper: @en_decommission
+hypo: adoptar
+sa: @en:verb.possession:call_back
+
+w: revender
+d: @en_sell (something) again after having bought it
+fs: 8
+hypo: vender
+mt: noun.act:comercialismo
+sa: @en:verb.possession:resell
+
+w: roubar 4
+d: tomar ilegalmente
+fs: 8
+hypo: furtar 2
+mt: noun.act:crime 2
+sa: @en:verb.possession:lift 3
+
+w: roubar 5
+d: @en_rip off; ask an unreasonable price
+fs: 9
+entail: cobrar 1
+hyper: extorquir 1
+hypo: verb.social:calotear 1
+sa: @en:verb.possession:fleece
+
+w: roubar 6
+d: @en_take by theft
+fs: 8
+hypo: furtar 2
+sa: @en:verb.possession:cop
+
+w: roubar 7
+w: saltear
+d: @en_take illegally; of intellectual property
+fs: 8 9 2
+hypo: furtar 2
+mt: noun.act:crime 2
+sa: @en:verb.possession:loot 1
+
+w: sacar
+w: tirar 1
+d: Remover (uma mercadoria) de (uma fonte de fornecimento)
+fs: 22 8
+hyper: @en_check_out
+hyper: @en_dip
+hyper: @en_disinvest
+hyper: @en_divert
+hyper: @en_tap 1
+hyper: fazer_demais
+hypo: verb.change:remover 5
+sa: @en:verb.possession:draw 1
+vg: verb.motion:extrair
+
+w: sair_de_cena
+d: @en_transmit a title or property
+fs: 12 14 8
+hypo: transferir 1
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.possession:convey
+
+w: saldar
+d: @en_sell cheaply as remainders
+fs: 8
+hypo: vender
+mt: noun.act:comercialismo
+sa: @en:verb.possession:remainder
+
+w: saquear 1
+d: @en_plunder (a town) after capture
+fs: 8
+entail: verb.contact:arruinar
+hypo: apoderar-se
+sa: @en:verb.possession:plunder 1
+
+w: sentir
+d: @en_find by testing or cautious exploration
+fs: 8
+hypo: achar 2
+sa: @en:verb.possession:feel
+
+w: sublocar
+d: arrendar ou alugar toda ou parte de uma propriedade alugada para outra pessoa
+fs: 8 15
+hypo: alugar
+sa: @en:verb.possession:sublease
+
+w: subornar 1
+d: @en_pay a kickback; make an illegal payment
+fs: 15 8
+hypo: pagar 6
+mt: noun.act:crime 2
+sa: @en:verb.possession:kick_back
+
+w: subsidiar
+w: subvencionar
+d: @en_support through subsidies
+fs: 8 9
+hypo: financiar 1
+sa: @en:verb.possession:subsidise
+
+w: subsidiar 1
+w: subvencionar 1
+d: @en_secure the assistance of by granting a subsidy, as of nations or military forces
+fs: 11 10 8 9
+hypo: pagar 6
+sa: @en:verb.possession:subsidise 1
+
+w: taxar
+d: onerar com imposto
+fs: 8 9
+hyper: @en_excise
+hyper: @en_surtax
+hyper: @en_tariff
+hyper: onerar
+hypo: arrecadar 1
+sa: @en:verb.possession:tax
+
+w: ter 1
+d: ter ou possuir num sentido concreto ou abstrato
+e: Ela tem dinheiro no banco.
+e: Ela tem mestrado em Economia.
+fs: 8 11 9
+hyper: verb.consumption:manter
+hyper: @en_bear 2
+hyper: @en_carry 3
+hyper: @en_keep 1
+hyper: @en_keep 2
+hyper: @en_keep 3
+hyper: exercer
+hyper: guardar 3
+hyper: monopolizar
+hyper: verb.stative:@en_carry
+sa: @en:verb.possession:have
+vg: verb.stative:apresenta
+
+w: ter_preferência
+w: ter_prioridade
+w: tomar_lugar
+d: @en_acquire for oneself before others can do so
+fs: 8
+hypo: adquirir 1
+sa: @en:verb.possession:preempt
+
+w: terceirizar
+d: obter bens ou serviços de um fornecedor externo
+fs: 2
+hypo: @en_source
+sa: @en:verb.possession:outsource
+
+w: traficar 1
+d: lidar ilegalmente
+fs: 8
+hypo: @en_merchandise
+mt: noun.act:crime 2
+sa: @en:verb.possession:traffic
+
+w: traficar 2
+d: comerciar ou lidar uma mercadoria
+fs: 2 21
+hypo: @en_merchandise
+mt: noun.act:comercialismo
+sa: @en:verb.possession:traffic 1
+
+w: tramitar
+w: transacionar
+d: conduzir negócios
+fs: 22
+hyper: @en_bank
+hyper: @en_turn_over
+hyper: vender 1
+hypo: verb.social:interagir
+mt: noun.act:comercialismo
+sa: @en:verb.possession:transact 14
+
+w: transferir 1
+d: @en_cause to change ownership
+fs: 15 16 8 12
+cause: @en_change_hands
+entail: verb.motion:deslocar 2
+hyper: @en_assign 1
+hyper: @en_demise
+hyper: @en_desacralize
+hyper: @en_negociate
+hyper: alienar 2
+hyper: ceder 1
+hyper: dar 15
+hyper: sair_de_cena
+hyper: trocar 3
+hyper: verb.social:@en_distribute
+sa: @en:verb.possession:transfer
+
+w: transferir 2
+w: transmitir 2
+w: trazer
+d: @en_move from one place to another
+fs: 8 9
+hyper: verb.communication:enviar
+hyper: verb.communication:enviar 1
+hyper: @en_carry 1
+hyper: @en_export
+hyper: @en_load
+hyper: @en_offload
+hyper: @en_offset
+hyper: @en_spool
+hyper: @en_translocate
+hyper: @en_upload
+hyper: admitir 1
+hyper: baixar
+hyper: enviar 2
+hyper: fazer_ftp
+hyper: importar 1
+hypo: verb.motion:deslocar 2
+sa: @en:verb.possession:transfer 1
+
+w: trocar 3
+d: @en_give to, and receive from, one another
+fs: 8 21
+hyper: @en_trade 1
+hyper: cambiar
+hyper: descontar 2
+hyper: fazer_substituir
+hyper: permutar
+hyper: redimir
+hyper: remir
+hyper: vender
+hypo: transferir 1
+sa: @en:verb.possession:change
+
+w: vender
+d: @en_exchange or deliver for money or its equivalent
+fs: 14 8 15
+entail: dar 15
+hyper: @en_bootleg
+hyper: @en_clear
+hyper: @en_deaccession
+hyper: @en_dump
+hyper: @en_fob_off
+hyper: @en_move
+hyper: @en_negociate 1
+hyper: @en_retail
+hyper: @en_sacrifice 1
+hyper: @en_scalp
+hyper: @en_sell_off
+hyper: @en_sell_short
+hyper: @en_syndicate
+hyper: @en_undercut
+hyper: @en_wholesale
+hyper: dispor 1
+hyper: leiloar
+hyper: realizar
+hyper: revender
+hyper: saldar
+hyper: verb.social:prostituir
+hypo: trocar 3
+mt: noun.act:comercialismo
+sa: @en:verb.possession:sell
+vg: verb.stative:@en_sell 1
+
+w: vender 1
+d: @en_do business; offer for sale as for one's livelihood
+fs: 22 8
+hyper: @en_black_marketeer
+hyper: @en_deal 1
+hyper: @en_market
+hyper: @en_push
+hyper: @en_pyramid 1
+hyper: chatinar
+hypo: tramitar
+mt: noun.act:comercialismo
+sa: @en:verb.possession:deal
+vg: @en_deal 1
+vg: verb.stative:@en_sell 1
+
+w: vender 2
+d: @en_give up for a price or reward
+fs: 15 8 14
+hypo: ceder 2
+sa: @en:verb.possession:sell 2
+vg: verb.social:atraiçoar
+
+w: vitaminizar
+d: @en_add vitamins as a supplement
+fs: 8
+hypo: @en_supplement
+sa: @en:verb.possession:vitaminise
+

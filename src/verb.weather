@@ -1,0 +1,594 @@
+verb.weather
+
+w: absorver
+d: @en_suck or take up or in
+fs: 11 8
+hyper: chupar
+sa: @en:verb.weather:absorb
+
+w: acender ant apagar
+d: @en_cause to start burning; subject to fire or great heat
+fs: 11 8
+cause: verb.change:carburar
+hyper: verb.consumption:acender_cigarro
+hyper: acender 1
+hyper: acender_de_maneira_súbita
+hyper: clarear 1
+hyper: reacender 1
+hypo: arder 1
+sa: @en:verb.weather:ignite
+
+w: acender 1
+w: conflagrar
+d: @en_cause to start burning
+fs: 11 8
+hyper: reacender
+hypo: acender
+sa: @en:verb.weather:conflagrate 1
+
+w: acender 2
+w: pegar
+d: @en_start burning
+fs: 1
+hypo: acender 3
+sa: @en:verb.weather:catch 4
+
+w: acender 3
+w: começar_a_queimar
+d: @en_start to burn or burst into flames
+fs: 1
+hyper: acender 2
+hyper: acender 4
+hyper: explodir
+hypo: verb.change:revoltar
+sa: @en:verb.weather:catch_fire
+vg: arder 1
+
+w: acender 4
+d: @en_start to burn with a bright flame
+fs: 1
+hypo: acender 3
+sa: @en:verb.weather:light_up 1
+
+w: acender_de_maneira_súbita
+w: incendiar
+d: @en_ignite quickly and suddenly, especially after having died down
+fs: 1
+hyper: suscitar
+hypo: acender
+sa: @en:verb.weather:flare_up
+
+w: afundar
+w: encharcar
+d: banhar ou submergir ou ser encharcado ou submerso
+fs: 11 1
+hypo: verb.change:inundar 1
+sa: @en:verb.weather:drench
+
+w: anuviar
+w: escurecer
+w: nublar
+d: @en_become covered with clouds
+fs: 1 3
+hypo: verb.change:escurecer
+sa: @en:verb.weather:cloud_over
+
+w: apagar
+d: @en_put out, as of fires, flames, or lights
+fs: 8 11
+hyper: verb.contact:@en_stub 1
+hyper: extinguir
+hyper: obliterar
+sa: @en:verb.weather:blow_out
+
+w: arder
+d: @en_burn brightly
+fs: 1
+hypo: verb.change:carburar
+sa: @en:verb.weather:blaze_up
+
+w: arder 1
+w: queimar
+d: @en_cause to burn or combust
+fs: 11 8
+cause: verb.change:carburar
+hyper: acender
+hyper: atear_fogo
+hyper: carbonizar
+hyper: deflagrar
+sa: @en:verb.weather:burn 2
+vg: acender 3
+
+w: arder 2
+d: @en_shine with a sudden light
+fs: 1
+hypo: brilhar
+sa: @en:verb.weather:flame 1
+
+w: arder 3
+d: @en_be in flames or aflame
+fs: 1
+hypo: verb.change:carburar
+sa: @en:verb.weather:flame
+
+w: atear_fogo
+w: incendiar 1
+w: queimar 1
+d: incendiar; iniciar a queima
+fs: 8 11
+entail: acender
+hypo: arder 1
+sa: @en:verb.weather:set_ablaze
+
+w: borrifar
+w: chuviscar
+d: @en_rain lightly
+fs: 3
+hypo: chover
+sa: @en:verb.weather:drizzle
+
+w: borrifar 1
+d: @en_rain gently
+fs: 3
+hypo: chover
+sa: @en:verb.weather:patter
+
+w: brilhar
+w: luzir
+w: resplandecer
+d: @en_emit light; be bright, as of the sun or a light
+fs: 1
+hyper: verb.perception:@en_beacon
+hyper: verb.perception:@en_beat_down
+hyper: verb.perception:brilhar_intensamente
+hyper: arder 2
+hyper: brilhar 1
+hyper: brilhar 2
+hyper: brilhar_mais_forte_do_que
+hyper: cintilar
+hyper: cintilar 1
+hyper: coriscar
+sa: @en:verb.weather:beam 3
+
+w: brilhar 1
+w: queimar 2
+d: brilhar intensamente, como se por fogo
+fs: 1
+hyper: cintilar 5
+hypo: brilhar
+sa: @en:verb.weather:burn 1
+
+w: brilhar 2
+d: @en_emit or reflect light in a flickering manner
+fs: 1
+hypo: brilhar
+mt: noun.object:astro
+sa: @en:verb.weather:scintillate
+vg: cintilar 2
+
+w: brilhar_mais_forte_do_que
+d: brilhar mais forte do que
+fs: 11
+hypo: brilhar
+sa: @en:verb.weather:outshine
+
+w: cair
+w: precipitar
+d: @en_fall from clouds
+fs: 8 1
+entail: verb.change:condensar 3
+hyper: chover
+hyper: cuspir
+hyper: gear
+hyper: granizar
+hyper: nevar
+sa: @en:verb.weather:come_down
+vg: verb.motion:cair 2
+
+w: carbonizar
+d: @en_burn to charcoal
+fs: 8
+hypo: arder 1
+sa: @en:verb.weather:char
+
+w: chover
+d: @en_precipitate as rain
+fs: 3 11
+hyper: borrifar
+hyper: borrifar 1
+hyper: chover 2
+hyper: chover_em_quantidade
+hypo: cair
+sa: @en:verb.weather:rain
+
+w: chover 1
+d: cair como um lençol
+fs: 3
+hypo: chover 2
+sa: @en:verb.weather:sheet
+
+w: chover 2
+w: chover_a_cântaros
+w: chover_a_potes
+w: chover_canivetes
+w: chover_fortemente
+d: chover fortemente
+fs: 3
+hyper: chover 1
+hyper: jorrar
+hypo: chover
+sa: @en:verb.weather:pelt
+
+w: chover_em_quantidade
+d: chover abundantemente
+fs: 3
+hypo: chover
+sa: @en:verb.weather:shower
+
+w: chover_forte
+d: @en_rain, hail, or snow hard and be very windy, often with thunder or lightning
+fs: 3
+entail: chover
+sa: @en:verb.weather:storm 1
+
+w: chover_fortemente 1
+w: ter_tempestade
+w: ventar_fortemente
+d: @en_blow hard
+fs: 3
+hypo: soprar 1
+sa: @en:verb.weather:storm
+
+w: chupar
+w: sugar
+d: @en_attract by using an inexorable force, inducement, etc.
+fs: 11
+hypo: absorver
+sa: @en:verb.weather:suck
+
+w: cintilar
+w: lucilar
+w: luzir 1
+w: tremeluzir
+d: brilhar com uma luz fraca ou descontínua
+fs: 1
+hypo: brilhar
+sa: @en:verb.weather:shimmer
+
+w: cintilar 1
+w: lucilar 1
+w: titilar
+d: brilhar  instavelmente
+fs: 1
+hypo: brilhar
+sa: @en:verb.weather:flick
+
+w: cintilar 2
+d: @en_give off
+fs: 11
+hypo: emita-se
+sa: @en:verb.weather:scintillate 1
+vg: brilhar 2
+
+w: cintilar 3
+w: coruscar
+d: @en_reflect brightly
+fs: 1
+hypo: luzir 2
+sa: @en:verb.weather:coruscate
+
+w: cintilar 4
+d: ser ou tornar-se luminescente
+fs: 1
+hypo: luzir 2
+sa: @en:verb.weather:luminesce
+
+w: cintilar 5
+d: queimar de forma instável ou fraca
+fs: 1
+hypo: brilhar 1
+sa: @en:verb.weather:gutter
+
+w: clarear
+d: tornar  mais claro
+fs: 3 1
+sa: @en:verb.weather:brighten
+
+w: clarear 1
+w: ignitar
+d: @en_ignite
+fs: 1
+hypo: acender
+sa: @en:verb.weather:light_up 2
+
+w: congelar
+d: @en_be very cold, below the freezing point
+fs: 3
+sa: @en:verb.weather:freeze 10
+
+w: congelar 1
+w: gelar
+d: @en_become covered with a layer of ice; of a surface such as a window
+fs: 1 3
+entail: congelar
+hypo: verb.change:alterar 1
+sa: @en:verb.weather:frost_over
+
+w: coriscar
+d: brilhar intensamente
+fs: 1
+hypo: brilhar
+sa: @en:verb.weather:blaze 1
+
+w: cuspir
+w: pingar
+d: cair como gotas de chuva
+fs: 1
+hypo: cair
+sa: @en:verb.weather:spat
+
+w: deflagrar
+d: @en_cause to burn rapidly and with great intensity
+fs: 8 11
+hypo: arder 1
+sa: @en:verb.weather:deflagrate
+
+w: direcionar_luz
+w: iluminar
+d: jogar luz sobre alguma coisa
+fs: 8 21
+cause: brilhar
+sa: @en:verb.weather:shine 3
+
+w: disparar
+w: expelir
+d: emitir (como luz, chama ou fumaça), de repente e com força
+fs: 11
+hypo: emita-se
+sa: @en:verb.weather:shoot
+
+w: embaçar
+d: @en_get foggy
+fs: 1 3
+hypo: nublar 1
+sa: @en:verb.weather:fog_up
+
+w: emita-se
+w: emitir
+d: @en_give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.
+fs: 8 11
+hyper: verb.change:desprender
+hyper: cintilar 2
+hyper: disparar
+hyper: emitir_vapor
+hyper: exalar_cheiro
+hyper: faiscar
+hyper: fumegar
+hyper: irradiar
+hyper: irradiar 1
+hyper: luzir 2
+sa: @en:verb.weather:emit
+
+w: emitir_vapor
+d: @en_emit steam
+fs: 1 2
+hypo: emita-se
+sa: @en:verb.weather:steam
+
+w: empestear
+d: causar uma peste
+fs: 11 10
+hypo: verb.change:afligir
+sa: @en:verb.weather:blight
+
+w: enevoar
+d: tornar-se confuso, escuro ou nublado
+fs: 1
+hypo: nublar 1
+sa: @en:verb.weather:haze
+
+w: espelhar
+w: refletir
+d: @en_reflect as if in a mirror
+fs: 11 10
+hypo: verb.perception:refletir
+sa: @en:verb.weather:mirror
+
+w: exalar_cheiro
+d: @en_give off smoke, fumes, warm vapour, steam, etc.
+fs: 1
+hypo: emita-se
+sa: @en:verb.weather:reek
+
+w: explodir
+d: @en_erupt in an uncontrolled manner
+fs: 1
+hypo: acender 3
+sa: @en:verb.weather:blow_out 1
+
+w: extinguir
+d: @en_put out, as of a candle or a light
+fs: 8
+hypo: apagar
+sa: @en:verb.weather:douse
+
+w: faiscar
+d: emitir ou produzir faíscas
+fs: 1
+hypo: emita-se
+sa: @en:verb.weather:spark
+
+w: fumegar
+d: @en_emit a cloud of fine particles
+fs: 1
+hypo: emita-se
+sa: @en:verb.weather:fume
+
+w: gear
+d: precipitar-se como uma mistura de chuva e neve
+fs: 3
+hypo: cair
+sa: @en:verb.weather:sleet
+
+w: granizar
+d: @en_precipitate as small ice particles
+fs: 3
+hypo: cair
+sa: @en:verb.weather:hail
+
+w: incendiar 2
+d: queimar brilhantemente e intensamente
+fs: 1
+hypo: verb.change:carburar
+sa: @en:verb.weather:blaze
+
+w: irradiar
+d: emitir como raios
+fs: 11
+hypo: emita-se
+sa: @en:verb.weather:ray
+
+w: irradiar 1
+w: radiar
+d: @en_send out rays or waves
+fs: 11 1
+hypo: emita-se
+sa: @en:verb.weather:radiate
+
+w: jorrar
+d: derramar em quantidade
+fs: 1 4
+hypo: chover 2
+sa: @en:verb.weather:sluice
+
+w: liquefazer
+d: @en_become liquid
+fs: 1
+hypo: verb.change:revoltar
+sa: @en:verb.weather:liquefy
+
+w: luzir 2
+w: refletir 1
+d: @en_be bright by reflecting or casting light
+fs: 1
+hyper: verb.stative:resplandecer
+hyper: cintilar 3
+hyper: cintilar 4
+hyper: opalescer
+hyper: reflectir_fortemente
+hypo: emita-se
+sa: @en:verb.weather:reflect
+
+w: nevar
+d: @en_fall as snow
+fs: 3
+hypo: cair
+sa: @en:verb.weather:snow
+
+w: nublar 1
+d: tornar nublado
+fs: 11
+hyper: embaçar
+hyper: enevoar
+hypo: verb.change:escurecer 1
+sa: @en:verb.weather:cloud
+
+w: obliterar
+d: @en_obliterate or extinguish
+fs: 11 8
+hypo: apagar
+sa: @en:verb.weather:black_out
+
+w: opalescer
+d: refletir a luz ou as cores como uma opala
+fs: 1
+hypo: luzir 2
+sa: @en:verb.weather:opalesce
+
+w: reacender
+w: reignitar
+d: @en_kindle anew, as of a fire
+fs: 8
+hypo: acender 1
+sa: @en:verb.weather:rekindle
+
+w: reacender 1
+d: acender novamente, diz-se de algo queimando
+fs: 8
+hypo: acender
+sa: @en:verb.weather:reignite
+
+w: reflectir_fortemente
+w: refletir_fortemente
+d: @en_be sharply reflected
+fs: 1
+hypo: luzir 2
+sa: @en:verb.weather:glare 1
+
+w: secar
+d: @en_become empty of water
+fs: 1
+hypo: verb.change:secar 1
+sa: @en:verb.weather:dry_out 1
+
+w: sombrear
+d: @en_cast a shadow over
+fs: 10 11 9
+hypo: verb.change:escurecer 1
+sa: @en:verb.weather:shade
+
+w: soprar
+d: soprar na direção da costa
+fs: 1
+hypo: soprar 1
+sa: @en:verb.weather:set_in
+
+w: soprar 1
+w: ventar
+d: @en_be blowing or storming
+fs: 1 3 4
+hyper: chover_fortemente 1
+hyper: soprar
+hyper: soprar_levemente
+hyper: ter_brisa
+hyper: ventar 1
+hyper: ventar_forte
+sa: @en:verb.weather:blow
+
+w: soprar_levemente
+d: soprar suavemente
+fs: 1 4
+hypo: soprar 1
+sa: @en:verb.weather:waft
+
+w: suscitar
+d: @en_catch fire
+fs: 1
+hypo: acender_de_maneira_súbita
+sa: @en:verb.weather:inflame 1
+
+w: ter_brisa
+d: soprar suavemente e levemente
+fs: 1 4 3
+hypo: soprar 1
+sa: @en:verb.weather:breeze
+
+w: trovejar
+w: trovoar
+d: @en_be the case that thunder is being heard
+fs: 3
+entail: chover_fortemente 1
+sa: @en:verb.weather:boom
+
+w: ventar 1
+d: explodir em uma rajada de vento
+fs: 1
+hypo: soprar 1
+sa: @en:verb.weather:squall
+
+w: ventar_forte
+d: soprar forte, diz-se do vento
+fs: 3
+hypo: soprar 1
+sa: @en:verb.weather:bluster
+

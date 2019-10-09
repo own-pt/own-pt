@@ -1,0 +1,3523 @@
+verb.competition
+
+w: @en_abnegate
+d: @en_surrender (power or a position)
+fs: 8 15
+hypo: render-se
+sa: @en:verb.competition:abnegate
+
+w: @en_ace
+d: @en_play (a hole) in one stroke
+fs: 8
+hypo: jogar 2
+mt: noun.act:golfe
+sa: @en:verb.competition:ace 2
+
+w: @en_ace 1
+d: @en_serve an ace against (someone)
+fs: 9
+hypo: @en_serve
+mt: noun.act:Tênis
+sa: @en:verb.competition:ace 1
+
+w: @en_ace 2
+d: @en_score an ace against
+fs: 9
+hypo: @en_hit
+sa: @en:verb.competition:ace
+
+w: @en_address
+d: @en_direct a question at someone
+fs: 21
+hypo: apontar
+sa: @en:verb.competition:address
+
+w: @en_aggroup
+w: @en_group
+d: @en_form a group or group together
+fs: 8
+hyper: @en_brigade
+hyper: @en_embed
+hyper: @en_gang
+hyper: @en_pool
+hyper: @en_team
+hypo: verb.social:reunir 1
+sa: @en:verb.competition:aggroup
+
+w: @en_angle
+d: @en_fish with a hook
+fs: 2
+hyper: @en_fly-fish
+hyper: @en_troll
+hypo: catar
+sa: @en:verb.competition:angle
+
+w: @en_ante
+d: @en_place one's stake
+fs: 8
+hypo: apostar
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:ante
+
+w: @en_atom-bomb
+w: @en_nuke
+d: @en_bomb with atomic weapons
+fs: 8
+hypo: bombardear
+sa: @en:verb.competition:atom-bomb
+
+w: @en_atomise
+w: @en_atomize
+w: @en_nuke 1
+w: @en_zap
+d: @en_strike at with firepower or bombs
+fs: 9 8
+hypo: bombardear
+sa: @en:verb.competition:atomise
+
+w: @en_backstop
+d: @en_act as a backstop
+fs: 2
+hypo: jogar 2
+mt: noun.act:basebol
+sa: @en:verb.competition:backstop
+
+w: @en_bait
+d: @en_attack with dogs or set dogs upon
+fs: 9
+hypo: agredir
+sa: @en:verb.competition:bait
+
+w: @en_bandy
+d: @en_exchange blows
+fs: 2
+hypo: brigar
+sa: @en:verb.competition:bandy
+
+w: @en_bandy 1
+d: @en_toss or strike a ball back and forth
+fs: 2
+hyper: @en_shuttlecock
+hypo: jogar 2
+mt: noun.act:esporte
+sa: @en:verb.competition:bandy 1
+
+w: @en_barnstorm
+d: @en_appear at county fairs and carnivals as a stunt flier and parachute jumper
+fs: 2 22
+hypo: verb.creation:apresentar
+sa: @en:verb.competition:barnstorm 1
+vg: @en_barnstorm 1
+
+w: @en_barnstorm 1
+d: @en_tour the country making political speeches, giving lectures, or presenting plays
+fs: 22 2
+hypo: verb.creation:apresentar
+sa: @en:verb.competition:barnstorm
+vg: @en_barnstorm
+
+w: @en_barricade
+d: @en_prevent access to by barricading
+fs: 8
+hypo: verb.contact:barrar
+sa: @en:verb.competition:barricade 1
+
+w: @en_bear_down
+w: @en_charge
+d: @en_to make a rush at or sudden attack upon, as in battle
+fs: 9 8
+hypo: arremeter
+sa: @en:verb.competition:bear_down 3
+
+w: @en_bear_down 1
+d: @en_exert full strength
+fs: 2
+hypo: brigar
+mt: noun.act:basebol
+sa: @en:verb.competition:bear_down
+
+w: @en_bias
+d: @en_influence in an unfair way
+fs: 9 10 8 11
+hyper: @en_handicap
+hypo: verb.cognition:prejulgar
+sa: @en:verb.competition:bias
+
+w: @en_bird
+w: @en_birdwatch
+d: @en_watch and study birds in their natural habitat
+fs: 22 2
+hypo: verb.perception:observar 2
+sa: @en:verb.competition:bird
+
+w: @en_blast
+w: @en_shell
+d: @en_use explosives on
+fs: 8
+hyper: @en_crump
+hypo: bombardear
+sa: @en:verb.competition:blast
+
+w: @en_blaze
+w: @en_blaze_away
+d: @en_shoot rapidly and repeatedly
+fs: 2
+hypo: atirar 2
+sa: @en:verb.competition:blaze
+
+w: @en_blindside
+d: @en_attack or hit on or from the side where the attacked person's view is obstructed
+fs: 9
+hypo: agredir
+sa: @en:verb.competition:blindside
+
+w: @en_blitz
+d: @en_attack suddenly and without warning
+fs: 8
+hypo: assaltar 1
+sa: @en:verb.competition:blitz
+
+w: @en_blitzkrieg
+d: @en_fight a quick and surprising war
+fs: 2
+hypo: aguerrir
+sa: @en:verb.competition:blitzkrieg
+
+w: @en_block_off
+w: @en_blockade
+d: @en_obstruct access to
+fs: 8
+hypo: verb.contact:barrar
+sa: @en:verb.competition:block_off
+
+w: @en_blockade 1
+w: @en_seal_off
+d: @en_impose a blockade on
+fs: 8
+hypo: cercar
+sa: @en:verb.competition:blockade
+
+w: @en_boat-race
+d: @en_participate in a boat race
+fs: 2
+entail: verb.motion:@en_boat
+hypo: correr
+sa: @en:verb.competition:boat-race
+
+w: @en_bomb_out
+d: @en_make somebody homeless by destroying their houses with bombs
+fs: 9
+hypo: bombardear
+sa: @en:verb.competition:bomb_out
+
+w: @en_bowl
+d: @en_engage in the sport of bowling
+fs: 2
+hyper: @en_skittle
+hypo: jogar 2
+sa: @en:verb.competition:bowl
+
+w: @en_brail
+d: @en_haul fish aboard with brails
+fs: 8
+hypo: catar
+sa: @en:verb.competition:brail
+
+w: @en_break_down
+w: @en_crush
+d: @en_make ineffective
+fs: 8 11
+hypo: verb.change:alterar 2
+sa: @en:verb.competition:break_down
+
+w: @en_breast
+w: @en_front
+d: @en_confront bodily
+fs: 9 11 10 8
+hypo: confrontar
+sa: @en:verb.competition:breast
+
+w: @en_brigade
+d: @en_form or unite into a brigade
+fs: 9 2
+hypo: @en_aggroup
+sa: @en:verb.competition:brigade
+
+w: @en_bulldog
+d: @en_throw a steer by seizing the horns and twisting the neck, as in a rodeo
+fs: 8
+hypo: derrotar 3
+sa: @en:verb.competition:bulldog 1
+
+w: @en_bulldog 1
+d: @en_attack viciously and ferociously
+fs: 11 8 9 10
+hypo: agredir
+sa: @en:verb.competition:bulldog
+
+w: @en_bully_off
+w: @en_face_off
+d: @en_start a game by a face-off
+fs: 2
+hypo: jogar 2
+sa: @en:verb.competition:bully_off
+
+w: @en_bulwark
+d: @en_defend with a bulwark
+fs: 8
+hypo: defender 2
+sa: @en:verb.competition:bulwark
+
+w: @en_caddie
+w: @en_caddy
+d: @en_act as a caddie and carry clubs for a player
+fs: 2
+hypo: exercer
+mt: noun.act:golfe
+sa: @en:verb.competition:caddie
+
+w: @en_campaign
+w: @en_take_the_field
+d: @en_go on a campaign; go off to war
+fs: 22 2
+entail: aguerrir
+hyper: @en_crusade
+sa: @en:verb.competition:campaign
+
+w: @en_cannon
+d: @en_make a cannon
+fs: 2
+hypo: verb.contact:bater 20
+mt: noun.act:bilhar
+sa: @en:verb.competition:cannon 1
+
+w: @en_cannon 1
+d: @en_fire a cannon
+fs: 2
+hypo: @en_discharge
+sa: @en:verb.competition:cannon
+
+w: @en_cannonade
+d: @en_attack with cannons or artillery
+fs: 2 9 8
+hypo: assaltar 1
+sa: @en:verb.competition:cannonade
+
+w: @en_carpet_bomb
+d: @en_bomb a large area systematically and extensively
+fs: 9 8
+hypo: bombardear
+sa: @en:verb.competition:carpet_bomb
+
+w: @en_carry
+d: @en_be successful in
+fs: 8
+hypo: ganhar 1
+sa: @en:verb.competition:carry 12
+vg: levar
+vg: passar
+
+w: @en_carry 1
+d: @en_have a certain range
+fs: 1
+hypo: verb.stative:apresenta
+sa: @en:verb.competition:carry 4
+vg: @en_carry 2
+
+w: @en_carry 2
+d: @en_cover a certain distance or advance beyond
+fs: 1
+hypo: verb.motion:andar 4
+mt: noun.act:golfe
+sa: @en:verb.competition:carry 3
+vg: @en_carry 1
+
+w: @en_check
+d: @en_place into check
+fs: 9 8
+entail: mover
+hypo: agredir 1
+mt: noun.act:xadrez
+sa: @en:verb.competition:check
+
+w: @en_chicken-fight
+w: @en_chickenfight
+d: @en_fight while sitting on somebody's shoulders
+fs: 2
+hypo: brigar
+sa: @en:verb.competition:chicken-fight
+
+w: @en_chop
+d: @en_hit sharply
+fs: 8
+hypo: atacar 3
+sa: @en:verb.competition:chop
+
+w: @en_circumvallate
+d: @en_surround with or as if with a rampart or other fortification
+fs: 8 11
+hypo: emparedar
+sa: @en:verb.competition:circumvallate
+
+w: @en_complete
+w: @en_nail
+d: @en_complete a pass
+fs: 8
+hypo: jogar 2
+mt: noun.act:futebol 1
+sa: @en:verb.competition:complete
+
+w: @en_convert
+d: @en_complete successfully
+fs: 8
+hypo: @en_hit
+sa: @en:verb.competition:convert 1
+vg: @en_convert 1
+
+w: @en_convert 1
+d: @en_score (a spare)
+fs: 8
+hypo: @en_hit
+mt: noun.act:Boliche
+sa: @en:verb.competition:convert
+vg: @en_convert
+vg: @en_convert 2
+
+w: @en_convert 2
+d: @en_score an extra point or points after touchdown by kicking the ball through the uprights or advancing the ball into the end zone
+fs: 2
+hypo: @en_hit
+sa: @en:verb.competition:convert 2
+vg: @en_convert 1
+
+w: @en_count_out
+d: @en_declare the loser
+fs: 9
+hypo: verb.communication:declarar 7
+mt: noun.act:boxe
+sa: @en:verb.competition:count_out
+
+w: @en_countermine
+d: @en_destroy enemy mines with one's own mines
+fs: 8
+hypo: minar
+sa: @en:verb.competition:countermine
+
+w: @en_course
+d: @en_hunt with hounds
+fs: 8 2
+hypo: caçar
+mt: noun.act:jogo 4
+sa: @en:verb.competition:course
+
+w: @en_cover
+d: @en_hold within range of an aimed firearm
+fs: 8
+hypo: defender 3
+sa: @en:verb.competition:cover 1
+vg: verb.stative:estender 1
+
+w: @en_cover 1
+d: @en_play a higher card than the one previously played
+fs: 2
+hypo: jogar 4
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:cover 7
+
+w: @en_cover 2
+d: @en_be responsible for guarding an opponent in a game
+fs: 8
+hypo: defender 3
+sa: @en:verb.competition:cover 13
+vg: cobrir
+
+w: @en_cricket
+d: @en_play cricket
+fs: 2
+hypo: jogar 2
+sa: @en:verb.competition:cricket
+
+w: @en_croquet
+d: @en_play a game in which players hit a wooden ball through a series of hoops
+fs: 2
+hypo: jogar 2
+sa: @en:verb.competition:croquet
+
+w: @en_crossruff
+d: @en_trump alternately in two hands
+fs: 2
+hypo: @en_ruff
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:crossruff
+
+w: @en_crump
+d: @en_bombard with heavy shells
+fs: 8
+hypo: @en_blast
+sa: @en:verb.competition:crump
+
+w: @en_crusade
+d: @en_go on a crusade; fight a holy war
+fs: 22 2
+hypo: @en_campaign
+sa: @en:verb.competition:crusade
+
+w: @en_curl
+d: @en_play the Scottish game of curling
+fs: 2
+hypo: jogar 2
+mt: noun.act:esporte
+sa: @en:verb.competition:curl
+
+w: @en_cut_down
+w: @en_cut_out
+d: @en_intercept (a player)
+fs: 9
+hypo: resistir 3
+mt: noun.act:basebol
+sa: @en:verb.competition:cut_down
+
+w: @en_cut_to_ribbons
+d: @en_defeat totally
+fs: 9
+hypo: demolir
+sa: @en:verb.competition:cut_to_ribbons
+
+w: @en_defuse
+d: @en_remove the triggering device from
+fs: 8
+hypo: verb.change:remover 5
+sa: @en:verb.competition:defuse
+
+w: @en_demilitarise
+w: @en_demilitarize
+d: @en_do away with the military organization and potential of
+fs: 8 11
+hyper: @en_neutralise
+hypo: desarmar
+sa: @en:verb.competition:demilitarise
+
+w: @en_develop
+d: @en_move into a strategically more advantageous position
+fs: 8
+hypo: jogar 2
+mt: noun.act:xadrez
+sa: @en:verb.competition:develop 2
+vg: @en_develop 1
+
+w: @en_develop 1
+d: @en_move one's pieces into strategically more advantageous positions
+fs: 2
+hypo: jogar 2
+mt: noun.act:xadrez
+sa: @en:verb.competition:develop 3
+vg: @en_develop
+
+w: @en_die
+d: @en_to be on base at the end of an inning, of a player
+fs: 2
+hypo: jogar 2
+mt: noun.act:basebol
+sa: @en:verb.competition:die
+
+w: @en_discharge
+w: @en_muster_out
+d: @en_release from military service
+fs: 9
+hyper: verb.change:@en_deactivate
+hyper: @en_cannon 1
+hyper: desmobilizar
+hyper: inactivar
+hypo: verb.contact:deixar
+sa: @en:verb.competition:discharge
+
+w: @en_discharge 1
+w: @en_fire
+w: @en_go_off
+d: @en_go off or discharge
+fs: 1
+sa: @en:verb.competition:discharge 2
+
+w: @en_dive-bomb
+d: @en_bomb from a diving airplane
+fs: 8
+hypo: bombardear
+sa: @en:verb.competition:dive-bomb
+
+w: @en_dogfight
+d: @en_engage in an aerial battle with another fighter plane
+fs: 2
+hypo: batalhar 1
+sa: @en:verb.competition:dogfight
+
+w: @en_double-team
+d: @en_cover with two defensive players
+fs: 9
+hypo: cobrir
+mt: noun.act:esporte
+sa: @en:verb.competition:double-team
+
+w: @en_down
+d: @en_bring down or defeat (an opponent)
+fs: 8 9
+hypo: derrotar 4
+mt: noun.act:esporte
+sa: @en:verb.competition:down
+
+w: @en_draft
+w: @en_enlist
+w: @en_muster_in
+d: @en_engage somebody to enter the army
+fs: 9
+hyper: aliciar
+hypo: verb.social:inscrever 1
+sa: @en:verb.competition:draft
+
+w: @en_draw_a_bead_on
+d: @en_aim with a gun
+fs: 8
+hypo: apontar 1
+sa: @en:verb.competition:draw_a_bead_on
+
+w: @en_drive
+d: @en_hunting: search for game
+fs: 8
+hypo: caçar
+sa: @en:verb.competition:drive 1
+vg: @en_drive 1
+
+w: @en_drive 1
+d: @en_hunting: chase from cover into more open ground
+fs: 8
+hypo: caçar
+sa: @en:verb.competition:drive
+vg: @en_drive
+
+w: @en_drive_in
+d: @en_cause a run or runner to be scored
+fs: 8 9
+cause: @en_hit
+mt: noun.act:basebol
+sa: @en:verb.competition:drive_in
+
+w: @en_drop
+d: @en_lose (a game)
+fs: 8
+hypo: perder
+mt: noun.act:esporte
+sa: @en:verb.competition:drop
+
+w: @en_drop_one's_serve
+d: @en_lose a game in which one is serving
+fs: 2
+hypo: perder
+mt: noun.act:Tênis
+sa: @en:verb.competition:drop_one's_serve
+
+w: @en_eagle
+d: @en_shoot in two strokes under par
+fs: 8
+hypo: @en_hit
+mt: noun.act:golfe
+sa: @en:verb.competition:eagle
+
+w: @en_ebb
+d: @en_hem in fish with stakes and nets so as to prevent them from going back into the sea with the ebb
+fs: 8
+hypo: cercar
+sa: @en:verb.competition:ebb
+
+w: @en_eliminate
+d: @en_remove from a contest or race
+fs: 9
+hypo: bater
+sa: @en:verb.competition:eliminate
+
+w: @en_embed
+d: @en_attach to, as a journalist to a military unit when reporting on a war
+fs: 22
+hypo: @en_aggroup
+sa: @en:verb.competition:embed
+
+w: @en_emulate
+d: @en_compete with successfully; approach or reach equality with
+fs: 9 11
+hypo: competir
+sa: @en:verb.competition:emulate
+
+w: @en_encounter
+w: @en_meet
+w: @en_play
+w: @en_take_on
+d: @en_contend against an opponent in a sport, game, or battle
+fs: 9
+entail: competir
+hyper: @en_replay
+hyper: confrontar
+sa: @en:verb.competition:encounter
+vg: colocar
+vg: jogar 2
+vg: jogar 3
+vg: usar
+
+w: @en_exit
+d: @en_lose the lead
+fs: 2
+hypo: jogar 2
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:exit
+
+w: @en_extend_oneself
+d: @en_strain to the utmost
+fs: 2
+hypo: batalhar_por_algo
+sa: @en:verb.competition:extend_oneself
+
+w: @en_falcon
+d: @en_hunt with falcons
+fs: 2
+hypo: caçar
+sa: @en:verb.competition:falcon
+
+w: @en_feather
+w: @en_square
+d: @en_turn the paddle; in canoeing
+fs: 2
+hypo: verb.motion:chapinhar
+sa: @en:verb.competition:feather 2
+
+w: @en_feather 1
+w: @en_square 1
+d: @en_turn the oar, while rowing
+fs: 2
+hypo: verb.motion:remar
+sa: @en:verb.competition:feather
+
+w: @en_ferret
+d: @en_hunt with ferrets
+fs: 2 8
+hypo: caçar
+sa: @en:verb.competition:ferret
+
+w: @en_feud
+d: @en_carry out a feud
+fs: 22 2
+hypo: brigar
+sa: @en:verb.competition:feud
+
+w: @en_field
+d: @en_catch or pick up (balls) in baseball or cricket
+fs: 8
+hypo: verb.contact:manusear 2
+sa: @en:verb.competition:field 1
+
+w: @en_field 1
+d: @en_play as a fielder
+fs: 2
+hypo: jogar 2
+mt: noun.act:esporte
+sa: @en:verb.competition:field
+
+w: @en_firebomb
+d: @en_attack with incendiary bombs
+fs: 8 9
+hypo: bombardear
+sa: @en:verb.competition:firebomb
+
+w: @en_fistfight
+d: @en_fight with the fists
+fs: 2
+hypo: brigar
+sa: @en:verb.competition:fistfight
+
+w: @en_fix
+w: @en_get
+w: @en_pay_back
+w: @en_pay_off
+d: @en_take vengeance on or get even
+fs: 9 20
+hypo: @en_get_back 2
+sa: @en:verb.competition:fix
+vg: verb.possession:@en_pay 1
+
+w: @en_fly-fish
+w: @en_flyfish
+d: @en_fish with flies as lures
+fs: 2 22
+hypo: @en_angle
+sa: @en:verb.competition:fly-fish
+
+w: @en_forearm
+d: @en_arm in advance of a confrontation
+fs: 2 9
+hypo: prover_de_armas
+sa: @en:verb.competition:forearm
+
+w: @en_fork
+d: @en_place under attack with one's own pieces, of two enemy pieces
+fs: 8
+hypo: agredir 1
+mt: noun.act:xadrez
+sa: @en:verb.competition:fork
+
+w: @en_fort
+d: @en_station (troops) in a fort
+fs: 9
+hypo: situar
+sa: @en:verb.competition:fort
+
+w: @en_foul
+d: @en_commit a foul; break the rules
+fs: 2
+hyper: @en_hack
+hyper: canelar
+hypo: jogar 2
+sa: @en:verb.competition:foul
+
+w: @en_foul 1
+d: @en_hit a foul ball
+fs: 2
+hyper: verb.contact:@en_foul_out
+hypo: verb.contact:bater 20
+mt: noun.act:basebol
+sa: @en:verb.competition:foul 1
+
+w: @en_fowl
+d: @en_hunt fowl in the forest
+fs: 22 2
+hyper: @en_grouse
+hypo: caçar
+sa: @en:verb.competition:fowl
+
+w: @en_fowl 1
+d: @en_hunt fowl
+fs: 2
+hypo: caçar
+sa: @en:verb.competition:fowl 1
+
+w: @en_foxhunt
+d: @en_hunt foxes, on horseback and with dogs
+fs: 2
+hypo: caçar
+sa: @en:verb.competition:foxhunt
+
+w: @en_fullback
+d: @en_play the fullback
+fs: 2
+hypo: jogar 2
+mt: noun.act:futebol 1
+sa: @en:verb.competition:fullback
+
+w: @en_fumble
+d: @en_drop or juggle or fail to play cleanly a grounder
+fs: 8
+hypo: jogar 2
+mt: noun.act:basebol
+sa: @en:verb.competition:fumble
+
+w: @en_fuse
+d: @en_equip with a fuse; provide with a fuse
+fs: 8
+hypo: verb.possession:aparelhar
+sa: @en:verb.competition:fuse
+
+w: @en_gang
+w: @en_gang_up
+d: @en_act as an organized group
+fs: 22 9
+hypo: @en_aggroup
+sa: @en:verb.competition:gang
+
+w: @en_garrison
+d: @en_station (troops) in a fort or garrison
+fs: 9 8
+hypo: situar
+sa: @en:verb.competition:garrison
+
+w: @en_gas
+d: @en_attack with gas; subject to gas fumes
+fs: 9 8
+hyper: @en_teargas
+hypo: assaltar 1
+sa: @en:verb.competition:gas
+
+w: @en_get_back
+w: @en_settle
+d: @en_get one's revenge for a wrong or an injury
+fs: 9
+hypo: brigar
+sa: @en:verb.competition:get_back 13
+
+w: @en_get_back 1
+w: @en_win_back
+d: @en_recover something or somebody that appeared to be lost
+fs: 8 9
+hypo: verb.possession:adquirir 1
+sa: @en:verb.competition:get_back 1
+
+w: @en_get_back 2
+w: @en_get_even
+d: @en_take revenge or even out a score
+fs: 2 22
+hyper: @en_fix
+hypo: desagravar
+sa: @en:verb.competition:get_back
+
+w: @en_get_the_jump
+d: @en_be there first
+fs: 22
+hypo: bater
+sa: @en:verb.competition:get_the_jump
+
+w: @en_glide-bomb
+d: @en_bomb by gliding
+fs: 9
+hypo: bombardear
+sa: @en:verb.competition:glide-bomb
+
+w: @en_go_down
+d: @en_be defeated
+fs: 1 2
+hypo: perder
+sa: @en:verb.competition:go_down
+
+w: @en_go_for
+w: @en_try_for
+d: @en_make an attempt at achieving something
+fs: 8
+hypo: competir
+sa: @en:verb.competition:go_for
+
+w: @en_go_to_war
+w: @en_take_arms
+w: @en_take_up_arms
+d: @en_commence hostilities
+fs: 2 22
+hypo: aguerrir
+sa: @en:verb.competition:go_to_war
+
+w: @en_grass
+d: @en_shoot down, of birds
+fs: 8
+hypo: atirar 3
+sa: @en:verb.competition:grass
+
+w: @en_grouse
+d: @en_hunt grouse
+fs: 2 22
+hypo: @en_fowl
+sa: @en:verb.competition:grouse
+
+w: @en_gun_down
+d: @en_strike down or shoot down
+fs: 9
+hypo: atirar 3
+sa: @en:verb.competition:gun_down
+
+w: @en_hack
+d: @en_kick on the arms
+fs: 9
+hypo: @en_foul
+mt: noun.act:Basquetebol
+sa: @en:verb.competition:hack 1
+
+w: @en_handicap
+d: @en_attempt to forecast the winner (especially in a horse race) and assign odds for or against a contestant
+fs: 11 8 9 10
+hypo: @en_bias
+sa: @en:verb.competition:handicap 1
+
+w: @en_harpoon
+d: @en_spear with a harpoon
+fs: 8
+hypo: verb.contact:agarrar 1
+sa: @en:verb.competition:harpoon
+
+w: @en_hawk
+d: @en_hunt with hawks
+fs: 2
+hypo: caçar
+sa: @en:verb.competition:hawk
+
+w: @en_hit
+w: @en_rack_up
+w: @en_score
+w: @en_tally
+d: @en_gain points in a game
+fs: 2 8
+entail: competir
+hyper: @en_ace 2
+hyper: @en_convert
+hyper: @en_convert 1
+hyper: @en_convert 2
+hyper: @en_eagle
+hyper: @en_hole_up
+hyper: @en_homer
+hyper: @en_kick
+hyper: @en_par
+hyper: @en_shoot
+hyper: @en_walk
+hyper: equalizar
+hyper: verb.possession:fazer
+hypo: avançar
+sa: @en:verb.competition:hit 2
+
+w: @en_hold_off
+d: @en_resist and fight to a standoff
+fs: 8 9
+hypo: resistir 4
+sa: @en:verb.competition:hold_off
+
+w: @en_hole_up
+d: @en_score a hole in one
+fs: 2
+hypo: @en_hit
+mt: noun.act:golfe
+sa: @en:verb.competition:hole_up
+
+w: @en_home_in
+w: @en_range_in
+w: @en_zero_in
+d: @en_direct onto a point or target, especially by automatic navigational aids
+fs: 22
+hypo: apontar
+sa: @en:verb.competition:home_in 12
+
+w: @en_homer
+d: @en_hit a home run
+fs: 2
+hypo: @en_hit
+sa: @en:verb.competition:homer
+
+w: @en_hook
+d: @en_secure with the foot
+fs: 8
+hypo: jogar 3
+mt: noun.act:râguebi
+sa: @en:verb.competition:hook
+
+w: @en_horse-race
+d: @en_compete in a horse race
+fs: 2
+hyper: @en_jockey 1
+hypo: correr
+sa: @en:verb.competition:horse-race
+
+w: @en_hydrogen-bomb
+d: @en_attack with a hydrogen bomb
+fs: 8
+hypo: bombardear
+sa: @en:verb.competition:hydrogen-bomb
+
+w: @en_immobilise
+w: @en_immobilize
+d: @en_make defenseless
+fs: 10 9 11
+hypo: bater
+sa: @en:verb.competition:immobilise
+
+w: @en_jack
+w: @en_jacklight
+d: @en_hunt with a jacklight
+fs: 2 8
+hypo: caçar
+sa: @en:verb.competition:jack
+
+w: @en_jockey
+d: @en_compete (for an advantage or a position)
+fs: 22
+hypo: @en_maneuver
+sa: @en:verb.competition:jockey 13
+
+w: @en_jockey 1
+d: @en_ride a racehorse as a professional jockey
+fs: 2
+hypo: @en_horse-race
+sa: @en:verb.competition:jockey 3
+
+w: @en_join_battle
+d: @en_engage in a conflict
+fs: 2
+hypo: brigar
+sa: @en:verb.competition:join_battle
+
+w: @en_joust
+d: @en_joust against somebody in a tournament by fighting on horseback
+fs: 2 22
+hyper: @en_tilt
+hypo: brigar
+sa: @en:verb.competition:joust
+
+w: @en_jump
+d: @en_make a sudden physical attack on
+fs: 9
+hypo: agredir
+sa: @en:verb.competition:jump
+
+w: @en_keep_pace
+w: @en_keep_step
+d: @en_maintain the same pace
+fs: 2 22
+hypo: @en_keep_up
+sa: @en:verb.competition:keep_pace
+
+w: @en_keep_up
+d: @en_maintain a required pace or level
+fs: 2
+entail: competir
+hyper: @en_keep_pace
+sa: @en:verb.competition:keep_up
+
+w: @en_kick
+d: @en_make a goal
+fs: 8
+hyper: @en_place-kick
+hypo: @en_hit
+mt: noun.act:futebol 1
+sa: @en:verb.competition:kick 5
+
+w: @en_kill_oneself
+w: @en_overexert_oneself
+d: @en_strain oneself more than is healthy
+fs: 2
+hypo: batalhar_por_algo
+sa: @en:verb.competition:kill_oneself
+
+w: @en_kneecap
+d: @en_shoot in the kneecap, often done by terrorist groups as a warning
+fs: 9
+hypo: atirar 3
+sa: @en:verb.competition:kneecap
+
+w: @en_letter_bomb
+d: @en_send an explosive to
+fs: 9
+hypo: bombardear
+sa: @en:verb.competition:letter_bomb
+
+w: @en_line_up
+d: @en_take one's position before a kick-off
+fs: 2
+hypo: jogar 2
+mt: noun.act:futebol 1
+sa: @en:verb.competition:line_up
+
+w: @en_lurch
+w: @en_skunk
+d: @en_defeat by a lurch
+fs: 9
+hypo: derrotar 4
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:lurch
+
+w: @en_make_peace
+d: @en_end hostilities
+fs: 2
+hypo: verb.communication:conciliar
+sa: @en:verb.competition:make_peace
+
+w: @en_man
+d: @en_provide with workers
+fs: 8
+hyper: tripular
+hypo: @en_staff
+sa: @en:verb.competition:man
+vg: verb.social:@en_man
+
+w: @en_maneuver
+w: @en_manoeuver
+w: @en_manoeuvre
+w: @en_operate
+d: @en_perform a movement in military or naval tactics in order to secure an advantage in attack or defense
+fs: 21 22
+hyper: @en_jockey
+hypo: mover
+sa: @en:verb.competition:maneuver
+
+w: @en_match
+w: @en_oppose
+w: @en_pit
+w: @en_play_off
+d: @en_set into opposition or rivalry
+fs: 9 10
+hypo: confrontar
+sa: @en:verb.competition:match
+
+w: @en_militarise
+w: @en_militarize
+d: @en_lend a military character to (a country), as by building up a military force
+fs: 8 11
+hyper: @en_remilitarise
+hyper: mobilizar 1
+hypo: verb.change:alterar 2
+sa: @en:verb.competition:militarise
+
+w: @en_misfire
+d: @en_fail to fire or detonate
+fs: 1
+hypo: verb.change:morrer 2
+sa: @en:verb.competition:misfire
+
+w: @en_mop_up
+w: @en_pip
+w: @en_rack_up 1
+w: @en_whip
+w: @en_worst
+d: @en_defeat thoroughly
+fs: 8 9
+hypo: bater
+sa: @en:verb.competition:mop_up
+
+w: @en_net_fish
+d: @en_fish with nets
+fs: 2 8
+hypo: catar
+sa: @en:verb.competition:net_fish
+
+w: @en_neutralise
+w: @en_neutralize
+d: @en_make incapable of military action
+fs: 8
+hypo: @en_demilitarise
+sa: @en:verb.competition:neutralise
+
+w: @en_nose
+d: @en_defeat by a narrow margin
+fs: 11 9 8 10
+hypo: derrotar 4
+sa: @en:verb.competition:nose
+
+w: @en_out-herod
+d: @en_surpass someone in cruelty or evil
+fs: 9
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:out-herod
+
+w: @en_outbrave
+d: @en_be braver than
+fs: 9
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outbrave
+
+w: @en_outbrave 1
+d: @en_resist bravely
+fs: 9
+hypo: resistir 4
+sa: @en:verb.competition:outbrave 1
+
+w: @en_outcry
+w: @en_outshout
+d: @en_shout louder than
+fs: 9
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outcry
+
+w: @en_outdraw
+d: @en_draw a gun faster, or best someone in a gunfight
+fs: 8
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outdraw
+
+w: @en_outfight
+d: @en_to fight better than; get the better of
+fs: 11 9 8 10
+hypo: bater
+sa: @en:verb.competition:outfight
+
+w: @en_outfox
+d: @en_outdo someone in trickery
+fs: 9
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outfox
+
+w: @en_outgeneral
+d: @en_surpass in generalship
+fs: 9
+hypo: @en_outmaneuver
+sa: @en:verb.competition:outgeneral
+
+w: @en_outgrow
+d: @en_grow faster than
+fs: 9 11
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outgrow
+
+w: @en_outmaneuver
+w: @en_outmanoeuvre
+w: @en_outsmart
+d: @en_defeat by more skillful maneuvering
+fs: 9
+hyper: @en_outgeneral
+hypo: derrotar 1
+sa: @en:verb.competition:outmaneuver
+
+w: @en_outmarch
+d: @en_march longer distances and for a longer time than
+fs: 9
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outmarch
+
+w: @en_outpace
+d: @en_surpass in speed
+fs: 9 8 11
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outpace
+
+w: @en_outpoint
+w: @en_outscore
+d: @en_score more points than one's opponents
+fs: 9
+hypo: bater
+sa: @en:verb.competition:outpoint
+
+w: @en_outrange
+d: @en_have a greater range than (another gun)
+fs: 11
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outrange
+
+w: @en_outrival
+w: @en_outvie
+d: @en_be more of a rival than
+fs: 11 9
+hypo: competir 1
+sa: @en:verb.competition:outrival
+
+w: @en_outroar
+d: @en_roar louder than
+fs: 11 9
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outroar
+
+w: @en_outsail
+d: @en_sail faster or better than
+fs: 11 9 8
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outsail
+
+w: @en_outsell
+d: @en_be sold more often than other, similar products
+fs: 11
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outsell 1
+
+w: @en_outsell 1
+d: @en_sell more than others
+fs: 9
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outsell
+
+w: @en_outshine
+d: @en_attract more attention and praise than others
+fs: 11 9
+hyper: @en_upstage
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outshine
+
+w: @en_overprotect
+d: @en_protect excessively
+fs: 8 9
+hypo: defender 3
+sa: @en:verb.competition:overprotect
+
+w: @en_overrun
+d: @en_seize the position of and defeat
+fs: 8
+hypo: derrotar 4
+sa: @en:verb.competition:overrun 4
+
+w: @en_overshoot
+d: @en_shoot beyond or over (a target)
+fs: 8
+entail: apontar 1
+hypo: atirar 2
+hypo: verb.contact:errar
+sa: @en:verb.competition:overshoot
+
+w: @en_overtrump
+d: @en_play a trump higher than (one previously played) to the trick
+fs: 2
+hypo: @en_ruff
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:overtrump
+
+w: @en_par
+d: @en_make a score (on a hole) equal to par
+fs: 8
+hypo: @en_hit
+mt: noun.act:golfe
+sa: @en:verb.competition:par
+
+w: @en_pattern-bomb
+d: @en_bomb in certain patterns
+fs: 8
+hypo: bombardear
+sa: @en:verb.competition:pattern-bomb
+
+w: @en_pelt
+w: @en_pepper
+d: @en_attack and bombard with or as if with missiles
+fs: 17
+entail: verb.contact:atirar 5
+hypo: assaltar 1
+sa: @en:verb.competition:pelt
+
+w: @en_pin
+d: @en_immobilize a piece
+fs: 8
+hypo: agredir 1
+mt: noun.act:xadrez
+sa: @en:verb.competition:pin
+
+w: @en_pitch
+d: @en_lead (a card) and establish the trump suit
+fs: 8
+hypo: jogar 4
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:pitch 4
+
+w: @en_place-kick
+d: @en_score (a goal) by making a place kick
+fs: 8
+hypo: @en_kick
+mt: noun.act:futebol 1
+sa: @en:verb.competition:place-kick
+
+w: @en_play_out
+d: @en_play to a finish
+fs: 8
+hypo: jogar 2
+mt: noun.act:jogo 4
+sa: @en:verb.competition:play_out
+vg: verb.creation:@en_play_out
+
+w: @en_poach
+d: @en_hunt illegally
+fs: 2
+hypo: caçar
+sa: @en:verb.competition:poach
+
+w: @en_point
+d: @en_be positionable in a specified manner
+fs: 6 4
+hypo: verb.stative:estar 2
+sa: @en:verb.competition:point 2
+vg: fazer_mira
+
+w: @en_pool
+d: @en_join or form a pool of people
+fs: 2
+hypo: @en_aggroup
+sa: @en:verb.competition:pool
+
+w: @en_press
+w: @en_weight-lift
+w: @en_weightlift
+d: @en_lift weights
+fs: 2
+hypo: verb.body:exercitar
+sa: @en:verb.competition:press
+
+w: @en_promote
+d: @en_change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent
+fs: 8
+hyper: verb.social:@en_queen
+hypo: usar
+mt: noun.act:xadrez
+sa: @en:verb.competition:promote
+vg: @en_promote 1
+
+w: @en_promote 1
+d: @en_be changed for a superior chess or checker piece
+fs: 1
+hyper: verb.motion:@en_queen
+hypo: verb.change:alterar 1
+mt: noun.act:jogo_de_tabuleiro
+sa: @en:verb.competition:promote 1
+vg: @en_promote
+
+w: @en_protect
+d: @en_use tariffs to favor domestic industry
+fs: 8 9
+hypo: verb.social:ajudar 4
+mt: noun.act:comércio 4
+sa: @en:verb.competition:protect 1
+
+w: @en_pump
+d: @en_deliver forth
+fs: 21 8
+hypo: atirar 2
+sa: @en:verb.competition:pump
+
+w: @en_put_in
+w: @en_submit
+d: @en_make an application as for a job or funding
+fs: 2
+hypo: verb.communication:aplicar 1
+sa: @en:verb.competition:put_in
+
+w: @en_put_out
+d: @en_retire
+fs: 2
+hypo: jogar 2
+mt: noun.act:basebol
+sa: @en:verb.competition:put_out
+
+w: @en_quarterback
+d: @en_play the quarterback
+fs: 2
+hypo: jogar 2
+mt: noun.act:futebol 1
+sa: @en:verb.competition:quarterback
+
+w: @en_rabbit
+d: @en_hunt rabbits
+fs: 2 22
+hypo: caçar
+sa: @en:verb.competition:rabbit
+
+w: @en_rail
+d: @en_fish with a handline over the rails of a boat
+fs: 2
+hypo: catar
+sa: @en:verb.competition:rail
+
+w: @en_raise
+d: @en_bet more than the previous player
+fs: 9
+hypo: apostar 4
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:raise 8
+
+w: @en_raise 1
+d: @en_bid (one's partner's suit) at a higher level
+fs: 8
+hypo: verb.possession:@en_bid
+mt: noun.act:@en_bridge
+sa: @en:verb.competition:raise 9
+
+w: @en_re-arm
+w: @en_rearm
+d: @en_arm anew
+fs: 1 2
+hypo: prover_de_armas
+sa: @en:verb.competition:re-arm
+
+w: @en_reassail
+d: @en_assail again
+fs: 8 9 10
+hypo: agredir
+sa: @en:verb.competition:reassail
+
+w: @en_referee
+w: @en_umpire
+d: @en_be a referee or umpire in a sports competition
+fs: 8 2
+hypo: verb.cognition:julgar 2
+mt: noun.act:esporte
+sa: @en:verb.competition:referee
+
+w: @en_remain_down
+w: @en_take_the_count
+d: @en_be counted out; remain down while the referee counts to ten
+fs: 2
+hypo: perder
+mt: noun.act:boxe
+sa: @en:verb.competition:remain_down
+
+w: @en_remilitarise
+w: @en_remilitarize
+d: @en_militarize anew
+fs: 8
+hypo: @en_militarise
+sa: @en:verb.competition:remilitarise
+
+w: @en_replay
+d: @en_repeat a game against the same opponent
+fs: 9
+hypo: @en_encounter
+sa: @en:verb.competition:replay 1
+
+w: @en_replay 1
+d: @en_play again
+fs: 8
+hypo: jogar 2
+sa: @en:verb.competition:replay
+
+w: @en_retire
+w: @en_strike_out
+d: @en_cause to get out
+fs: 9
+cause: verb.motion:@en_ease_up
+mt: noun.act:basebol
+sa: @en:verb.competition:retire
+
+w: @en_revoke
+d: @en_fail to follow suit when able and required to do so
+fs: 2
+hypo: jogar 2
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:revoke 4
+
+w: @en_rise
+d: @en_exert oneself to meet a challenge
+fs: 22
+hypo: verb.social:encarar
+sa: @en:verb.competition:rise
+
+w: @en_romp
+d: @en_win easily
+fs: 2
+hypo: ganhar 1
+sa: @en:verb.competition:romp
+
+w: @en_rout
+w: @en_spread-eagle
+w: @en_spreadeagle
+d: @en_defeat disastrously
+fs: 9
+hypo: bater
+sa: @en:verb.competition:rout 1
+
+w: @en_ruff
+w: @en_trump
+d: @en_play a trump
+fs: 2
+hyper: @en_crossruff
+hyper: @en_overtrump
+hypo: mover
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:ruff
+
+w: @en_rule_in
+w: @en_rule_out
+d: @en_include or exclude by determining judicially or in agreement with rules
+fs: 8
+hypo: verb.cognition:decretar
+sa: @en:verb.competition:rule_in
+
+w: @en_run_off
+d: @en_decide (a contest or competition) by a runoff
+fs: 8
+hypo: competir
+mt: noun.act:jogo 4
+sa: @en:verb.competition:run_off
+
+w: @en_safeguard
+d: @en_make safe
+fs: 9 8
+hypo: defender 3
+sa: @en:verb.competition:safeguard
+
+w: @en_savage
+d: @en_attack brutally and fiercely
+fs: 11 9 8 10
+hypo: agredir
+sa: @en:verb.competition:savage
+
+w: @en_score 1
+d: @en_get a certain number or letter indicating quality or performance
+fs: 7 8
+hyper: @en_test
+hypo: verb.social:atingir 1
+sa: @en:verb.competition:score 1
+
+w: @en_seal
+d: @en_hunt seals
+fs: 22 2
+hypo: caçar
+sa: @en:verb.competition:seal
+
+w: @en_see
+d: @en_match or meet
+fs: 9
+hypo: apostar 4
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:see
+
+w: @en_seine
+d: @en_fish with a seine; catch fish with a seine
+fs: 2 8
+hypo: catar
+sa: @en:verb.competition:seine
+
+w: @en_serve
+d: @en_put the ball into play
+fs: 2
+hyper: @en_ace 1
+hypo: mover
+mt: noun.act:@en_court_game
+sa: @en:verb.competition:serve 1
+
+w: @en_set
+w: @en_sic
+d: @en_urge to attack someone
+fs: 19
+hypo: agredir
+sa: @en:verb.competition:set
+
+w: @en_shame
+d: @en_surpass or beat by a wide margin
+fs: 9
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:shame
+
+w: @en_shark
+d: @en_hunt shark
+fs: 2 22
+hypo: catar
+sa: @en:verb.competition:shark
+
+w: @en_sharpshoot
+w: @en_snipe
+d: @en_aim and shoot with great precision
+fs: 2
+hypo: atirar 2
+sa: @en:verb.competition:sharpshoot
+
+w: @en_shoot
+d: @en_score
+fs: 8
+hypo: @en_hit
+mt: noun.act:esporte
+sa: @en:verb.competition:shoot 6
+
+w: @en_shoot_craps
+d: @en_play a game of craps
+fs: 2
+hypo: apostar 3
+sa: @en:verb.competition:shoot_craps
+
+w: @en_show
+d: @en_finish third or better in a horse or dog race
+fs: 1
+hypo: correr
+sa: @en:verb.competition:show
+
+w: @en_shrimp
+d: @en_fish for shrimp
+fs: 2
+hypo: catar
+sa: @en:verb.competition:shrimp
+
+w: @en_shuttlecock
+d: @en_send or toss to and fro, like a shuttlecock
+fs: 8
+hypo: @en_bandy 1
+sa: @en:verb.competition:shuttlecock
+
+w: @en_side
+d: @en_take sides for or against
+fs: 22
+hyper: torcer
+hypo: verb.cognition:alinhar-se
+sa: @en:verb.competition:side
+
+w: @en_sit
+d: @en_serve in a specific professional capacity
+fs: 2
+hypo: exercer
+sa: @en:verb.competition:sit
+
+w: @en_skip-bomb
+d: @en_attack with delayed release bombs
+fs: 8
+hypo: bombardear
+sa: @en:verb.competition:skip-bomb
+
+w: @en_skirmish
+d: @en_engage in a skirmish
+fs: 2
+hypo: brigar
+sa: @en:verb.competition:skirmish
+
+w: @en_skittle
+d: @en_play skittles
+fs: 2
+hypo: @en_bowl
+sa: @en:verb.competition:skittle
+
+w: @en_slice
+d: @en_hit a ball so that it causes a backspin
+fs: 2 8
+hypo: atacar 3
+sa: @en:verb.competition:slice
+
+w: @en_smash
+d: @en_overthrow or destroy (something considered evil or harmful)
+fs: 8 9
+hypo: demolir
+sa: @en:verb.competition:smash
+
+w: @en_snipe 1
+d: @en_hunt or shoot snipe
+fs: 2
+hypo: caçar
+sa: @en:verb.competition:snipe 1
+
+w: @en_snooker
+d: @en_leave one's opponent unable to take a direct shot
+fs: 2
+hypo: jogar 2
+mt: noun.act:sinuca
+sa: @en:verb.competition:snooker
+
+w: @en_staff
+d: @en_provide with staff
+fs: 8
+hyper: @en_man
+hypo: verb.consumption:abastecer
+sa: @en:verb.competition:staff
+
+w: @en_staff 1
+d: @en_serve on the staff of
+fs: 8
+hypo: exercer
+sa: @en:verb.competition:staff 1
+
+w: @en_stalemate
+d: @en_subject to a stalemate
+fs: 9
+hypo: mover
+mt: noun.act:xadrez
+sa: @en:verb.competition:stalemate
+
+w: @en_stand_out
+d: @en_be stubborn in resolution or resistance
+fs: 2
+hypo: resistir 4
+sa: @en:verb.competition:stand_out 1
+
+w: @en_stand_up
+d: @en_refuse to back down; remain solid under criticism or attack
+fs: 4 22
+hypo: resistir 4
+sa: @en:verb.competition:stand_up
+
+w: @en_start
+d: @en_play in the starting lineup
+fs: 2
+hypo: jogar 2
+mt: noun.act:esporte
+sa: @en:verb.competition:start
+
+w: @en_steamroll
+w: @en_steamroller
+d: @en_overwhelm by using great force
+fs: 10 8 11 9
+hypo: derrotar 2
+sa: @en:verb.competition:steamroll
+vg: verb.social:@en_steamroll
+
+w: @en_still-fish
+d: @en_fish with the line and bait resting still or stationary in the water
+fs: 8 2
+hypo: catar
+sa: @en:verb.competition:still-fish
+
+w: @en_stockade
+d: @en_surround with a stockade in order to fortify
+fs: 8
+hypo: emparedar
+sa: @en:verb.competition:stockade
+
+w: @en_strafe
+d: @en_attack with machine guns or cannon fire from a low-flying plane
+fs: 10 11 9
+hypo: assaltar 1
+sa: @en:verb.competition:strafe
+
+w: @en_stroke
+d: @en_strike a ball with a smooth blow
+fs: 8
+hypo: atacar 3
+sa: @en:verb.competition:stroke
+
+w: @en_stroke 1
+d: @en_row at a particular rate
+fs: 2
+hypo: verb.motion:remar
+sa: @en:verb.competition:stroke 1
+
+w: @en_stump
+d: @en_travel through a district and make political speeches
+fs: 8
+hypo: concorrer 1
+sa: @en:verb.competition:stump
+
+w: @en_subject
+d: @en_make accountable for
+fs: 9
+hypo: @en_submit 1
+sa: @en:verb.competition:subject
+
+w: @en_submarine
+d: @en_attack by submarine
+fs: 2 11 9 8
+hypo: assaltar 1
+sa: @en:verb.competition:submarine
+
+w: @en_submit 1
+d: @en_yield to the control of another
+fs: 22 2
+entail: render-se
+hyper: @en_subject
+sa: @en:verb.competition:submit
+
+w: @en_swallow
+d: @en_engulf and destroy
+fs: 8 11 9 10
+hypo: demolir
+sa: @en:verb.competition:swallow
+
+w: @en_sweep
+d: @en_win an overwhelming victory in or on
+fs: 11 8
+hypo: ganhar 1
+sa: @en:verb.competition:sweep
+
+w: @en_swing
+d: @en_hit or aim at with a sweeping arm movement
+fs: 22
+hypo: apontar 1
+sa: @en:verb.competition:swing
+
+w: @en_tackle
+d: @en_seize and throw down an opponent player, who usually carries the ball
+fs: 9
+hypo: agredir 1
+mt: noun.act:futebol 1
+sa: @en:verb.competition:tackle 1
+
+w: @en_take
+d: @en_obtain by winning
+fs: 8
+hypo: ganhar 1
+sa: @en:verb.competition:take 8
+
+w: @en_take_the_bull_by_the_horns
+d: @en_face a difficulty and grapple with it without avoiding it
+fs: 2
+hypo: confrontar
+sa: @en:verb.competition:take_the_bull_by_the_horns
+
+w: @en_take_the_cake
+d: @en_rank first; used often in a negative context
+fs: 2 1
+hypo: ganhar 1
+sa: @en:verb.competition:take_the_cake
+
+w: @en_take_the_field 1
+d: @en_go on the playing field, of a football team
+fs: 2
+hypo: verb.motion:entrar
+sa: @en:verb.competition:take_the_field
+
+w: @en_team
+w: @en_team_up
+d: @en_form a team
+fs: 22
+hypo: @en_aggroup
+sa: @en:verb.competition:team
+
+w: @en_teargas
+d: @en_attack with teargas; subject to teargas fumes
+fs: 9 8
+hypo: @en_gas
+sa: @en:verb.competition:teargas
+
+w: @en_tee_off
+d: @en_strike a ball from the teeing ground at the start of a hole
+fs: 2
+hypo: jogar 2
+mt: noun.act:golfe
+sa: @en:verb.competition:tee_off
+
+w: @en_test
+d: @en_achieve a certain score or rating on a test
+fs: 7
+hypo: @en_score 1
+sa: @en:verb.competition:test
+vg: verb.cognition:@en_test
+
+w: @en_tilt
+d: @en_charge with a tilt
+fs: 22 2
+hypo: @en_joust
+sa: @en:verb.competition:tilt
+
+w: @en_tourney
+d: @en_engage in a tourney
+fs: 2
+hypo: brigar
+sa: @en:verb.competition:tourney
+
+w: @en_trawl
+d: @en_fish with trawlers
+fs: 22 2
+hypo: catar
+sa: @en:verb.competition:trawl
+
+w: @en_tree
+d: @en_chase an animal up a tree
+fs: 11 8
+hypo: verb.motion:caçar
+sa: @en:verb.competition:tree
+
+w: @en_trigger
+d: @en_release or pull the trigger on
+fs: 8
+entail: atirar 1
+sa: @en:verb.competition:trigger
+
+w: @en_troll
+d: @en_angle with a hook and line drawn through the water
+fs: 2 8
+hypo: @en_angle
+sa: @en:verb.competition:troll
+
+w: @en_turn
+d: @en_direct at someone
+fs: 8
+hypo: apontar 1
+sa: @en:verb.competition:turn 13
+
+w: @en_turtle
+d: @en_hunt for turtles, especially as an occupation
+fs: 2
+hypo: caçar
+sa: @en:verb.competition:turtle
+
+w: @en_unblock
+d: @en_play the cards of (a suit) so that the last trick on which a hand can follow suit will be taken by a higher card in the hand of a partner who has the remaining cards of a combined holding
+fs: 8
+hypo: jogar 2
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:unblock
+
+w: @en_underplay
+d: @en_play a card lower than (a held high card)
+fs: 8
+hypo: apostar 1
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:underplay
+
+w: @en_undershoot
+d: @en_shoot short of or below (a target)
+fs: 8
+entail: atirar 2
+hypo: verb.contact:errar
+sa: @en:verb.competition:undershoot
+
+w: @en_upset
+d: @en_defeat suddenly and unexpectedly
+fs: 9
+hypo: derrotar 4
+sa: @en:verb.competition:upset
+
+w: @en_upstage
+d: @en_steal the show, draw attention to oneself away from someone else
+fs: 10 11 9 8
+hypo: @en_outshine
+sa: @en:verb.competition:upstage
+
+w: @en_volley
+d: @en_make a volley
+fs: 2
+hypo: jogar 2
+mt: noun.act:@en_court_game
+sa: @en:verb.competition:volley
+
+w: @en_walk
+d: @en_obtain a base on balls
+fs: 2 9
+hypo: @en_hit
+mt: noun.act:basebol
+sa: @en:verb.competition:walk
+vg: @en_walk 1
+
+w: @en_walk 1
+d: @en_give a base on balls to
+fs: 9
+hypo: jogar 2
+mt: noun.act:basebol
+sa: @en:verb.competition:walk 1
+vg: @en_walk
+
+w: @en_walk_over
+d: @en_beat easily
+fs: 9 8
+hypo: bater
+sa: @en:verb.competition:walk_over
+
+w: @en_wallop
+d: @en_defeat soundly and utterly
+fs: 9 8
+hypo: derrotar 4
+sa: @en:verb.competition:wallop
+
+w: @en_ward_off
+d: @en_avert, turn away, or repel
+fs: 9 8
+hypo: defender 2
+sa: @en:verb.competition:ward_off
+
+w: @en_whale
+d: @en_hunt for whales
+fs: 2
+hypo: caçar
+sa: @en:verb.competition:whale
+
+w: @en_whelk
+d: @en_gather whelk
+fs: 2 22
+hypo: verb.contact:@en_snail
+sa: @en:verb.competition:whelk
+
+w: @en_whistlestop
+d: @en_tour the country in order to solicit votes for an election
+fs: 2 22
+hypo: concorrer 1
+sa: @en:verb.competition:whistlestop
+
+w: @en_wrestle
+d: @en_combat to overcome an opposing tendency or force
+fs: 22
+hypo: batalhar 1
+sa: @en:verb.competition:wrestle 1
+
+w: abandonar
+w: desistir
+w: sair_fora
+d: desistir na cara da derrota de falta de esperança; admitir a derrota
+e: No segundo round, o desafiante desistiu
+fs: 22 2
+sa: @en:verb.competition:chuck_up_the_sponge
+
+w: abrir
+d: fazer o movimento de abertura
+fs: 2
+hypo: mover
+mt: noun.act:xadrez
+sa: @en:verb.competition:open
+
+w: abrir_fogo
+w: disparar
+d: @en_start firing a weapon
+fs: 2 22
+hypo: atirar 2
+sa: @en:verb.competition:fire 1
+
+w: aceitar
+w: desistir 1
+d: @en_cease opposition; stop fighting
+fs: 27 2
+hyper: render-se
+hyper: verb.possession:@en_fall 3
+sa: @en:verb.competition:yield
+
+w: agredir
+w: assaltar
+w: atacar
+w: violentar
+d: @en_attack someone physically or emotionally
+fs: 8 9 10
+hyper: @en_bait
+hyper: @en_blindside
+hyper: @en_bulldog 1
+hyper: @en_jump
+hyper: @en_reassail
+hyper: @en_savage
+hyper: @en_set
+hyper: arremeter
+hyper: atacar 4
+hyper: verb.social:assediar
+hyper: verb.social:atacar
+hyper: verb.social:dessacralizar
+sa: @en:verb.competition:assail
+
+w: agredir 1
+w: atacar 1
+d: @en_take the initiative and go on the offensive
+fs: 2 1
+hyper: @en_check
+hyper: @en_fork
+hyper: @en_pin
+hyper: @en_tackle
+hyper: molestar
+hypo: verb.social:agir
+sa: @en:verb.competition:aggress
+vg: assaltar 1
+
+w: aguerrir
+w: guerrear
+d: fazer ou promover uma guerra
+fs: 22 2
+hyper: @en_blitzkrieg
+hyper: @en_go_to_war
+hypo: brigar
+sa: @en:verb.competition:war
+
+w: aliciar
+w: angariar
+w: engajar
+w: recrutar
+d: @en_cause to assemble or enlist in the military
+fs: 9
+hypo: @en_draft
+sa: @en:verb.competition:levy
+
+w: alinhar
+d: alocar tropas ou armas em formação de batalha
+fs: 8
+hyper: jogar 4
+hypo: verb.motion:posicionar
+sa: @en:verb.competition:deploy
+
+w: alistar
+d: @en_enroll into service compulsorily
+fs: 9
+hypo: alistar-se
+sa: @en:verb.competition:conscript
+
+w: alistar-se
+w: engajar-se
+d: @en_join the military
+fs: 2
+hyper: alistar
+hypo: inscrever
+sa: @en:verb.competition:enlist
+
+w: andar_à_caça_de
+w: montear
+d: @en_search (an area) for prey
+fs: 8
+hypo: verb.perception:procurar
+sa: @en:verb.competition:hunt 2
+vg: caçar
+
+w: apanhar
+w: capturar
+d: ser o apanhador
+fs: 2
+hypo: jogar 2
+mt: noun.act:basebol
+sa: @en:verb.competition:catch
+vg: verb.contact:agarrar 1
+
+w: apontar
+w: direcionar
+w: dirigir
+d: ter a intenção de se mover em direção a um determinado objetivo
+e: críticas dirigidas ao seu superior
+e: Direcione sua raiva para os outros, não para si mesmo.
+fs: 9 8
+hyper: @en_address
+hyper: @en_home_in
+hypo: apontar 1
+sa: @en:verb.competition:aim 10
+
+w: apontar 1
+w: direcionar 1
+w: mirar
+d: apontar ou direcionar (golpes, armas ou objectos, tais como equipamento fotográfico) na direção de alguém
+fs: 2 21 22
+hyper: @en_draw_a_bead_on
+hyper: @en_swing
+hyper: @en_turn
+hyper: apontar
+hyper: direccionar
+hyper: fazer_mira
+hyper: manter
+hyper: verb.perception:mirar 2
+hypo: verb.motion:posicionar
+sa: @en:verb.competition:aim
+
+w: apostar
+d: @en_place a bet on
+fs: 13 8
+hyper: @en_ante
+hyper: dobrar
+hypo: apostar 4
+sa: @en:verb.competition:back
+
+w: apostar 1
+d: apostar (dinheiro)
+fs: 8
+hyper: @en_underplay
+hypo: apostar 3
+sa: @en:verb.competition:play 1
+vg: apostar 2
+
+w: apostar 2
+d: @en_make bets
+fs: 8
+hypo: apostar 4
+sa: @en:verb.competition:play 7
+vg: apostar 1
+vg: apostar 4
+
+w: apostar 3
+w: jogar
+d: jogar por dinheiro
+fs: 2
+hyper: @en_shoot_craps
+hyper: apostar 1
+hyper: apostar 4
+hyper: jogar_dados
+hypo: jogar 2
+sa: @en:verb.competition:gamble
+
+w: apostar 4
+w: jogar 1
+d: delimitar o resultado de uma questão
+e: Aposto cem reais no cavalo novo
+e: Ela jogou todo o seu dinheiro no cavalo escuro
+fs: 8 2
+hyper: @en_raise
+hyper: @en_see
+hyper: apostar
+hyper: apostar 2
+hypo: apostar 3
+sa: @en:verb.competition:bet
+vg: apostar 2
+
+w: apresentar_melhor_que
+w: ser_melhor_que
+w: superar
+w: ultrapassar
+d: Ser ou fazer algo muito bem
+fs: 11 9 10 8
+hyper: @en_out-herod
+hyper: @en_outbrave
+hyper: @en_outcry
+hyper: @en_outdraw
+hyper: @en_outfox
+hyper: @en_outgrow
+hyper: @en_outmarch
+hyper: @en_outpace
+hyper: @en_outrange
+hyper: @en_outroar
+hyper: @en_outsail
+hyper: @en_outsell
+hyper: @en_outsell 1
+hyper: @en_outshine
+hyper: @en_shame
+hyper: enganar
+hyper: pesar_mais
+hyper: superar 7
+hyper: verb.stative:@en_outwear
+hypo: bater
+sa: @en:verb.competition:exceed
+
+w: arremeter
+d: @en_attack suddenly
+fs: 9 11 8 10
+hyper: @en_bear_down
+hypo: agredir
+sa: @en:verb.competition:rush
+
+w: assaltar 1
+w: atacar 2 ant defender 2
+d: lançar um ataque ou assalto em algo ou alguém; destribuir hostilidades ou iniciar uma guerra com
+e: Hitler atacou a Polônia em 1 de setembro de 1939 e começou a Segunda Guerra Mundial 
+e: as forças sérvias atacavam as cidades bósnias toda a semana 
+fs: 8 9
+hyper: @en_blitz
+hyper: @en_cannonade
+hyper: @en_gas
+hyper: @en_pelt
+hyper: @en_strafe
+hyper: @en_submarine
+hyper: atacar 3
+hyper: bombardear
+hyper: cercar
+hyper: contra-atacar
+hyper: emboscar 2
+hyper: invadir
+hyper: torpedear
+hyper: verb.social:@en_bust
+hypo: brigar
+sa: @en:verb.competition:assail 1
+vg: agredir 1
+
+w: atacar 3
+d: @en_make a strategic, offensive, assault against an enemy, opponent, or a target
+fs: 9 11 8 10 2
+hyper: @en_chop
+hyper: @en_slice
+hyper: @en_stroke
+hyper: contra-atacar 1
+hypo: assaltar 1
+sa: @en:verb.competition:hit
+vg: atirar 3
+vg: verb.contact:afetar
+
+w: atacar 4
+d: @en_assail or attack on all sides: "The zebra was beset by leopards"
+fs: 10 9
+hypo: agredir
+sa: @en:verb.competition:beset
+
+w: atingir
+d: @en_hit the intended target or goal
+fs: 8 11
+entail: apontar 1
+hypo: verb.social:atingir 3
+sa: @en:verb.competition:hit 3
+
+w: atirar
+w: disparar 1
+d: @en_shoot with a gun
+fs: 2
+hyper: metralhar
+hypo: atirar 2
+sa: @en:verb.competition:gun
+
+w: atirar 1
+d: @en_cause to go off
+fs: 8
+cause: @en_discharge 1
+hyper: atirar 2
+hyper: disparar 3
+hyper: fuzilar
+hyper: pipocar
+sa: @en:verb.competition:discharge 1
+
+w: atirar 2
+w: disparar 2
+d: @en_fire a shot
+fs: 2 22 8
+hyper: @en_blaze
+hyper: @en_overshoot
+hyper: @en_pump
+hyper: @en_sharpshoot
+hyper: abrir_fogo
+hyper: atirar
+hypo: atirar 1
+sa: @en:verb.competition:blast 1
+vg: atirar 3
+
+w: atirar 3
+d: atingir com um projétil de uma arma
+fs: 9 8
+hyper: @en_grass
+hyper: @en_gun_down
+hyper: @en_kneecap
+hypo: verb.body:ferir 2
+sa: @en:verb.competition:hit 1
+vg: atacar 3
+vg: atirar 2
+vg: verb.social:@en_pip
+
+w: atuar
+d: @en_discharge one's duties
+fs: 22
+hyper: criticar
+hyper: verb.possession:@en_bank 1
+hypo: exercer
+sa: @en:verb.competition:act
+
+w: avançar
+w: ganhar
+d: @en_obtain advantages, such as points, etc.
+e: O time estava ganhando terreno.
+fs: 1 2
+hyper: @en_hit
+hyper: roubar
+sa: @en:verb.competition:advance
+
+w: avaçar
+d: @en_catch up with and possibly overtake
+fs: 9 11
+entail: competir
+sa: @en:verb.competition:catch 10
+vg: verb.motion:@en_catch
+
+w: barrar
+w: fazer_barricadas
+d: @en_block off with barricades
+fs: 8
+hypo: verb.contact:barrar
+sa: @en:verb.competition:barricade
+
+w: batalhar
+w: lutar
+d: @en_struggle in opposition
+fs: 2
+hypo: brigar
+sa: @en:verb.competition:tug
+
+w: batalhar 1
+w: combater
+w: lutar 1
+d: lutar ou brigar contra algo ou como em uma batalha
+e: Os curdos estão combatendo as tropas iraquianas no norte do Iraque
+fs: 2 8 9
+hyper: @en_dogfight
+hyper: @en_wrestle
+hypo: brigar
+sa: @en:verb.competition:battle
+
+w: batalhar_por_algo
+d: @en_to exert much effort or energy
+fs: 22 2
+hyper: @en_extend_oneself
+hyper: @en_kill_oneself
+hyper: verb.social:incomodar 1
+hypo: verb.social:esforçar 1
+sa: @en:verb.competition:reach
+
+w: bater
+w: derrotar
+w: superar 1
+w: ultrapassar 1
+w: vencer
+d: @en_come out better in a competition, race, or conflict
+fs: 10 9 8
+entail: ganhar 1
+hyper: @en_eliminate
+hyper: @en_get_the_jump
+hyper: @en_immobilise
+hyper: @en_mop_up
+hyper: @en_outfight
+hyper: @en_outpoint
+hyper: @en_rout
+hyper: @en_walk_over
+hyper: apresentar_melhor_que
+hyper: dar_xeque-mate
+hyper: derrotar 1
+hyper: derrotar 2
+hyper: derrotar 3
+hyper: derrotar 5
+hyper: destruir 1
+hyper: roubar 1
+hyper: superar 6
+hyper: verb.contact:destruir 4
+hypo: derrotar 4
+sa: @en:verb.competition:beat
+vg: enganar
+
+w: blefar
+d: @en_deceive an opponent by a bold bet on an inferior hand with the result that the opponent withdraws a winning hand
+fs: 2 9
+hypo: mover
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:bluff
+
+w: bloquear
+w: defletir
+w: impedir
+d: impedir o movimento de (um adversário ou uma bola)
+fs: 8
+hypo: esgrimir
+sa: @en:verb.competition:block
+
+w: bombardear
+w: bombear
+d: @en_throw bombs at or attack with bombs
+fs: 8 9
+hyper: @en_atom-bomb
+hyper: @en_atomise
+hyper: @en_blast
+hyper: @en_bomb_out
+hyper: @en_carpet_bomb
+hyper: @en_dive-bomb
+hyper: @en_firebomb
+hyper: @en_glide-bomb
+hyper: @en_hydrogen-bomb
+hyper: @en_letter_bomb
+hyper: @en_pattern-bomb
+hyper: @en_skip-bomb
+hypo: assaltar 1
+sa: @en:verb.competition:bomb
+
+w: brigar
+w: debater-se
+w: lutar 2
+d: estar envolvido em uma briga; continuar uma luta
+e: os homens da tribo lutaram entre si
+e: Os irmãos estão sempre brigando
+e: Grupos militantes estão lutando pelo controle do país 
+fs: 22 2 9
+entail: competir
+hyper: @en_bandy
+hyper: @en_bear_down 1
+hyper: @en_chicken-fight
+hyper: @en_feud
+hyper: @en_fistfight
+hyper: @en_get_back
+hyper: @en_join_battle
+hyper: @en_joust
+hyper: @en_skirmish
+hyper: @en_tourney
+hyper: aguerrir
+hyper: assaltar 1
+hyper: batalhar
+hyper: batalhar 1
+hyper: brigar 1
+hyper: duelar
+hyper: esgrimir
+hyper: resistir 2
+hyper: verb.contact:@en_spar
+hyper: verb.contact:batalhar_uns_contra_os_outros
+hyper: verb.contact:boxar
+hyper: verb.contact:lutar 2
+hyper: verb.social:conduzir 4
+sa: @en:verb.competition:contend 1
+
+w: brigar 1
+w: lutar 3
+w: opor-se
+w: resistir
+d: combater ou resistir fortemente
+e: Não brigue contra isso!
+e: O senador disse que ele ia opor-se ao projeto de lei.
+fs: 2 9 8
+hyper: recalcitrar
+hyper: repelir
+hyper: resistir 1
+hyper: resistir 4
+hypo: brigar
+sa: @en:verb.competition:defend 5
+
+w: canelar
+d: pontapé nas canelas
+fs: 9
+hypo: @en_foul
+mt: noun.act:râguebi
+sa: @en:verb.competition:hack
+
+w: capitulação
+w: desistir 2
+w: rendição
+d: @en_surrender under agreed conditions
+fs: 2
+hypo: render-se
+sa: @en:verb.competition:capitulate
+
+w: catar
+w: pescar
+d: @en_catch or try to catch fish or shellfish
+fs: 2 8 22
+hyper: @en_angle
+hyper: @en_brail
+hyper: @en_net_fish
+hyper: @en_rail
+hyper: @en_seine
+hyper: @en_shark
+hyper: @en_shrimp
+hyper: @en_still-fish
+hyper: @en_trawl
+hyper: pescar_caranguejo
+hyper: pescar_vieiras
+hyper: verb.contact:@en_prawn
+hypo: verb.contact:agarrar 1
+sa: @en:verb.competition:fish
+
+w: caçar
+d: @en_pursue for food or sport (as of wild animals)
+fs: 2 8 9
+hyper: @en_course
+hyper: @en_drive
+hyper: @en_drive 1
+hyper: @en_falcon
+hyper: @en_ferret
+hyper: @en_fowl
+hyper: @en_fowl 1
+hyper: @en_foxhunt
+hyper: @en_hawk
+hyper: @en_jack
+hyper: @en_poach
+hyper: @en_rabbit
+hyper: @en_seal
+hyper: @en_snipe 1
+hyper: @en_turtle
+hyper: @en_whale
+hyper: emboscar 1
+hyper: verb.possession:@en_forage
+hypo: verb.contact:apanhar 2
+sa: @en:verb.competition:hunt
+vg: andar_à_caça_de
+vg: verb.motion:@en_run 2
+
+w: cercar
+w: sitiar
+d: cercar de modo a forçar uma desistência;
+e: Os turcos cercaram Viena.
+fs: 8
+hyper: @en_blockade 1
+hyper: @en_ebb
+hypo: assaltar 1
+sa: @en:verb.competition:beleaguer
+
+w: classificar-se
+w: colocar-se
+d: @en_finish second or better in a horse or dog race
+fs: 1
+hypo: correr
+sa: @en:verb.competition:place 2
+
+w: cobrir
+d: @en_protect or defend (a position in a game)
+fs: 8
+hyper: @en_double-team
+hypo: defender 3
+sa: @en:verb.competition:cover
+vg: @en_cover 2
+
+w: colocar
+w: utilizar
+d: @en_employ in a game or in a specific position
+e: Eles o colocaram na primeira base.
+fs: 9
+hypo: verb.consumption:empregar 1
+sa: @en:verb.competition:play 12
+vg: @en_encounter
+vg: jogar 4
+
+w: competir
+w: concorrer
+d: competir por alguma coisa; se envolver em uma competição; medir-se em relação aos outros
+fs: 22
+hyper: @en_emulate
+hyper: @en_go_for
+hyper: @en_run_off
+hyper: competir 1
+hyper: correr
+hyper: jogar 2
+hyper: verb.stative:competir
+sa: @en:verb.competition:compete
+
+w: competir 1
+d: @en_be the rival of, be in competition with
+fs: 9 11
+hyper: @en_outrival
+hypo: competir
+sa: @en:verb.competition:rival
+
+w: concorrer 1
+w: disputar
+w: fazer_campanha
+d: @en_run, stand, or compete for an office or a position
+fs: 22 2
+hyper: @en_stump
+hyper: @en_whistlestop
+hyper: concorrer_à_reeleição
+hyper: verb.social:@en_cross-file
+hypo: correr
+sa: @en:verb.competition:campaign 1
+
+w: concorrer_à_reeleição
+d: @en_run again for office
+fs: 2 22
+hypo: concorrer 1
+sa: @en:verb.competition:rerun
+
+w: confrontar
+w: defrontar
+w: encarar
+d: opor-se, como em hostilidades ou em uma competição
+fs: 8 11 9 10
+hyper: @en_breast
+hyper: @en_match
+hyper: @en_take_the_bull_by_the_horns
+hypo: @en_encounter
+sa: @en:verb.competition:confront
+
+w: conquistar
+d: @en_overcome by conquest
+fs: 8 9
+hypo: derrotar 4
+sa: @en:verb.competition:conquer
+
+w: conter
+w: conter-se
+w: refrear
+w: refrear-se
+d: recusar-se a iniciar apostas
+fs: 2
+hypo: mover
+mt: noun.act:jogo_de_cartas
+sa: @en:verb.competition:check 2
+
+w: contra-atacar
+d: fazer um contra-ataque
+fs: 2
+hypo: assaltar 1
+sa: @en:verb.competition:counterattack
+
+w: contra-atacar 1
+d: @en_make a counterattack and return like for like, especially evil for evil
+e: O exército israelense retaliou ao  atentado do Hamas.
+e: Os Giants contra-atacaram e venceram o jogo de abertura.
+e: O Império Contra-Ataca
+fs: 22 2
+hypo: atacar 3
+sa: @en:verb.competition:retaliate
+
+w: convocar
+w: mobilizar
+d: @en_call to arms; of military personnel
+fs: 9 8
+hypo: verb.communication:chamar 1
+sa: @en:verb.competition:call_up
+
+w: correr
+d: @en_compete in a race
+fs: 2 22
+hyper: @en_boat-race
+hyper: @en_horse-race
+hyper: @en_show
+hyper: classificar-se
+hyper: concorrer 1
+hyper: verb.motion:@en_speed_skate
+hypo: competir
+sa: @en:verb.competition:race
+
+w: correr_com_vara
+d: @en_run with the stick
+fs: 2
+hypo: jogar 2
+mt: noun.act:lacrosse
+sa: @en:verb.competition:cradle
+
+w: criticar
+d: @en_act as a critic
+fs: 2
+hypo: atuar
+sa: @en:verb.competition:criticise
+
+w: dar_xeque-mate
+d: @en_place an opponent's king under an attack from which it cannot escape and thus ending the game
+fs: 8 9
+hypo: bater
+mt: noun.act:xadrez
+sa: @en:verb.competition:checkmate
+
+w: dedetizar
+w: desinsetizar
+d: @en_protect from moths
+fs: 8
+hypo: defender 3
+sa: @en:verb.competition:mothproof
+
+w: defender
+d: @en_protect or fight for as a champion
+fs: 9 8
+hypo: verb.social:aprovar 2
+sa: @en:verb.competition:champion
+
+w: defender 1
+w: proteger
+d: @en_to protect someone's interests
+fs: 9
+hypo: defender 3
+sa: @en:verb.competition:look_out 10
+
+w: defender 2 ant atacar 2
+d: estar na defensiva; agir comtra um ataque
+fs: 8 9
+entail: brigar
+hyper: @en_bulwark
+hyper: @en_ward_off
+hyper: defender 3
+hyper: resistir 3
+hypo: verb.social:atrapalhar 1
+sa: @en:verb.competition:defend
+
+w: defender 3
+w: proteger 1
+d: defender do perigo, lesão, destruição ou dano;  "Weatherbeater protege o telhado da chuva"
+fs: 8 10 11 9
+hyper: verb.communication:@en_cover_for
+hyper: @en_cover
+hyper: @en_cover 2
+hyper: @en_overprotect
+hyper: @en_safeguard
+hyper: cobrir
+hyper: dedetizar
+hyper: defender 1
+hyper: defender 4
+hyper: defender 5
+hyper: emparedar
+hyper: enfeitiçar
+hyper: imunizar
+hyper: proteger 2
+hyper: verb.motion:@en_body_guard
+hyper: verb.possession:assegurar
+hyper: verb.social:cobrir
+hyper: verb.stative:defender
+hypo: defender 2
+sa: @en:verb.competition:protect
+
+w: defender 4
+d: @en_protect against a challenge or attack
+fs: 8
+hypo: defender 3
+sa: @en:verb.competition:defend 2
+vg: verb.social:@en_hold 1
+
+w: defender 5
+w: guardar
+w: salvaguardar
+w: salvar
+d: @en_watch over or shield from danger or harm; protect
+fs: 8 10 11 9
+hyper: verb.social:conduzir 5
+hypo: defender 3
+sa: @en:verb.competition:guard
+
+w: demolir
+w: destruir
+d: @en_defeat soundly
+fs: 9
+hyper: @en_cut_to_ribbons
+hyper: @en_smash
+hyper: @en_swallow
+hypo: derrotar 4
+sa: @en:verb.competition:demolish
+
+w: derrotar 1
+w: superar 2
+w: triunfar
+w: vencer 1
+d: @en_get the better of
+fs: 9
+hyper: @en_outmaneuver
+hypo: bater
+sa: @en:verb.competition:best
+
+w: derrotar 2
+w: superar_pela_força
+d: @en_overcome by superior force
+fs: 10 9
+hyper: @en_steamroll
+hypo: bater
+sa: @en:verb.competition:overmaster
+
+w: derrotar 3
+w: subjugar
+w: superar 3
+w: ultrapassar 2
+w: vencer 2
+d: @en_get on top of; deal with successfully
+fs: 8
+hyper: @en_bulldog
+hypo: bater
+sa: @en:verb.competition:get_over
+
+w: derrotar 4
+w: superar 4
+w: vencer 3
+d: @en_win a victory over
+fs: 8
+hyper: @en_down
+hyper: @en_lurch
+hyper: @en_nose
+hyper: @en_overrun
+hyper: @en_upset
+hyper: @en_wallop
+hyper: bater
+hyper: conquistar
+hyper: demolir
+hyper: expelir
+hyper: verb.stative:sobreviver 3
+sa: @en:verb.competition:defeat
+
+w: derrotar 5
+w: superar 5
+w: ultrapassar 3
+w: vencer 4
+d: @en_overcome, usually through no fault or weakness of the person that is overcome
+fs: 10
+hypo: bater
+sa: @en:verb.competition:get_the_best 2
+
+w: desagravar
+w: desforrar
+w: retaliar
+w: revidar
+w: vingar
+d: @en_take revenge for a perceived wrong
+e: Ele quer vingar o assassinato de seu irmão.
+e: se vingar de alguma coisa errada que foi feita contra você
+fs: 8
+hyper: @en_get_back 2
+hypo: verb.social:castigar 1
+sa: @en:verb.competition:avenge
+
+w: desarmar
+d: @en_take away the weapons from; render harmless
+fs: 9
+hyper: @en_demilitarise
+hypo: verb.possession:privar
+sa: @en:verb.competition:disarm 1
+
+w: desarmar 1
+d: @en_remove offensive capability from
+fs: 8 9
+sa: @en:verb.competition:demilitarise 2
+
+w: desistir 3
+d: @en_acknowledge defeat
+fs: 2
+hypo: render-se
+sa: @en:verb.competition:concede
+
+w: desmobilizar ant mobilizar 1
+d: @en_retire from military service
+fs: 2
+hypo: @en_discharge
+sa: @en:verb.competition:demob
+
+w: destruir 1
+d: @en_beat overwhelmingly
+fs: 8 9
+hypo: bater
+sa: @en:verb.competition:whomp
+
+w: dificultar
+d: @en_put at a disadvantage
+fs: 8 9
+hypo: verb.social:desavantajar
+sa: @en:verb.competition:hamper
+
+w: direccionar
+d: @en_aim at
+fs: 21
+hypo: apontar 1
+sa: @en:verb.competition:level 2
+
+w: disparar 3
+d: @en_fire as from a gun
+fs: 8
+hypo: atirar 1
+sa: @en:verb.competition:let_drive
+
+w: dobrar
+d: @en_stake winnings from one bet on a subsequent wager
+fs: 13 8
+hypo: apostar
+sa: @en:verb.competition:double_up
+
+w: duelar
+d: @en_fight a duel, as over one's honor or a woman
+fs: 2 9
+hypo: brigar
+sa: @en:verb.competition:duel
+
+w: emboscar
+w: estar_em_uma_emboscada
+d: @en_wait in hiding to attack
+fs: 9
+hypo: verb.stative:aguardar 1
+sa: @en:verb.competition:ambuscade
+
+w: emboscar 1
+d: @en_hunt (quarry) by stalking and ambushing
+fs: 8 2
+hypo: caçar
+sa: @en:verb.competition:ambush 1
+
+w: emboscar 2
+d: atacar repentinamente; atacar de surpresa
+fs: 8 9
+hypo: assaltar 1
+sa: @en:verb.competition:storm
+
+w: emparedar
+d: @en_surround with a wall in order to fortify
+fs: 8
+hyper: @en_circumvallate
+hyper: @en_stockade
+hypo: defender 3
+sa: @en:verb.competition:fence
+
+w: empatar
+d: @en_finish a game with an equal number of points, goals, etc.
+fs: 2
+entail: jogar 2
+hypo: verb.change:equiparar
+sa: @en:verb.competition:draw
+
+w: enfeitiçar
+d: proteger através de poderes sobrenaturais ou encantos
+fs: 10 9
+hypo: defender 3
+sa: @en:verb.competition:charm
+
+w: enganar
+d: vencer através de esperteza e sagacidade
+fs: 8 9
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:beat 14
+vg: bater
+
+w: entrar
+d: tornar-se um participante; estar envolvido em
+fs: 2 8 22
+hyper: jogar_se
+sa: @en:verb.competition:enter
+
+w: equalizar
+d: @en_compensate; make the score equal
+fs: 2
+hypo: @en_hit
+sa: @en:verb.competition:equalise
+
+w: escolher_ao_acaso
+w: sortear
+d: @en_choose at random
+fs: 2
+hypo: mover
+sa: @en:verb.competition:cast
+
+w: esgrimir
+d: @en_fight with fencing swords
+fs: 2
+hyper: bloquear
+hypo: brigar
+sa: @en:verb.competition:fence 1
+
+w: exercer
+w: servir
+d: cumprir as obrigações ou ocupar um cargo; servir em uma função especifica
+e: ele serviu como chefe do departamento por três anos
+e: ela exerceu em um congresso por dois mandatos 
+fs: 2 22
+hyper: @en_caddie
+hyper: @en_sit
+hyper: @en_staff 1
+hyper: atuar
+hyper: funcionar
+hyper: rotacionar
+hyper: verb.social:representar 2
+hypo: verb.social:trabalhar 3
+sa: @en:verb.competition:serve
+vg: verb.social:@en_serve
+
+w: expelir
+d: @en_cause to flee
+fs: 9
+hypo: derrotar 4
+sa: @en:verb.competition:expel
+
+w: fazer_mira
+d: @en_direct into a position for use
+fs: 22 2
+hypo: apontar 1
+sa: @en:verb.competition:charge 1
+vg: @en_point
+
+w: funcionar
+w: oficiar
+d: realizar deveres ligados a um serviço, lugar ou função particular
+e: Sua mulher funciona como sua secretária particular.
+fs: 2 22
+hypo: exercer
+sa: @en:verb.competition:function
+
+w: fuzilar
+d: @en_attack with fusillade
+fs: 9 8
+hypo: atirar 1
+sa: @en:verb.competition:fusillade
+
+w: ganhar 1
+w: vencer 5
+d: @en_be the winner in a contest or competition; be victorious
+fs: 2 22 8
+entail: competir
+hyper: @en_carry
+hyper: @en_romp
+hyper: @en_sweep
+hyper: @en_take
+hyper: @en_take_the_cake
+hyper: levar
+hyper: triunfar 1
+sa: @en:verb.competition:win
+
+w: imunizar
+d: @en_law: grant immunity from prosecution
+fs: 9 10
+hypo: defender 3
+sa: @en:verb.competition:immunise
+
+w: inactivar
+w: inativar
+d: liberar do serviço militar ou remover da lista ativa do serviço militar
+fs: 9
+hypo: @en_discharge
+sa: @en:verb.competition:demobilise 3
+
+w: inscrever
+d: aderir a um clube, uma atividade, etc., com a intenção de aderir ou participar
+e: Inscreva-se para aulas de ioga.
+fs: 22 2
+hyper: alistar-se
+hypo: verb.social:afiliar-se 1
+sa: @en:verb.competition:sign_up
+
+w: invadir
+w: ocupar
+d: marchar agressivamente na direção de outro território utilizando de força militar para efeitos de conquista e ocupação
+e: Hitler invadiu a Polônia em 01 de setembro de 1939 
+fs: 8 11
+hyper: verb.motion:@en_infest
+hypo: assaltar 1
+sa: @en:verb.competition:invade
+
+w: jogar 2
+d: participar de jogos ou desportos
+e: Nós jogamos hockey durante toda a tarde
+e: jogar cartas
+e: Pelé jogou para o time brasileiro em muitos jogos importantes 
+fs: 2 8
+hyper: @en_ace
+hyper: @en_backstop
+hyper: @en_bandy 1
+hyper: @en_bowl
+hyper: @en_bully_off
+hyper: @en_complete
+hyper: @en_cricket
+hyper: @en_croquet
+hyper: @en_curl
+hyper: @en_develop
+hyper: @en_develop 1
+hyper: @en_die
+hyper: @en_exit
+hyper: @en_field 1
+hyper: @en_foul
+hyper: @en_fullback
+hyper: @en_fumble
+hyper: @en_line_up
+hyper: @en_play_out
+hyper: @en_put_out
+hyper: @en_quarterback
+hyper: @en_replay 1
+hyper: @en_revoke
+hyper: @en_snooker
+hyper: @en_start
+hyper: @en_tee_off
+hyper: @en_unblock
+hyper: @en_volley
+hyper: @en_walk 1
+hyper: apanhar
+hyper: apostar 3
+hyper: correr_com_vara
+hyper: jogar_golfe
+hyper: jogar_mal
+hyper: verb.contact:@en_putt 1
+hyper: verb.motion:@en_seesaw
+hyper: verb.possession:@en_bid
+hypo: competir
+sa: @en:verb.competition:play
+vg: @en_encounter
+
+w: jogar 3
+d: atirar ou bater de uma forma especial
+fs: 8
+hyper: @en_hook
+hypo: verb.contact:bater 20
+sa: @en:verb.competition:play 9
+vg: @en_encounter
+
+w: jogar 4
+d: introduzir (uma carta ou uma peça) em jogo durante um jogo, ou agir estrategicamente como se estivesse em um jogo de cartas;
+fs: 8
+hyper: @en_cover 1
+hyper: @en_pitch
+hyper: verb.possession:declarar
+hypo: alinhar
+sa: @en:verb.competition:play 3
+vg: colocar
+vg: usar
+
+w: jogar_dados
+w: jogar_os_dados
+d: @en_play dice
+fs: 2
+hypo: apostar 3
+sa: @en:verb.competition:dice
+
+w: jogar_golfe
+d: @en_play golf
+fs: 2
+hypo: jogar 2
+sa: @en:verb.competition:golf
+
+w: jogar_mal
+d: jogar mal ou de forma inábil
+fs: 2
+hypo: jogar 2
+sa: @en:verb.competition:misplay
+
+w: jogar_se
+w: lançar
+w: lançar-se
+d: entrar com gosto em alguma coisa
+e: Ele se lançou no jogo
+fs: 22
+hypo: entrar
+sa: @en:verb.competition:jump 3
+
+w: levar
+d: @en_win in an election
+fs: 8
+hypo: ganhar 1
+sa: @en:verb.competition:carry 1
+vg: @en_carry
+vg: verb.social:convencer
+
+w: manter
+d: @en_aim, point, or direct
+fs: 20
+hypo: apontar 1
+sa: @en:verb.competition:hold
+
+w: metralhar
+d: @en_shoot with a machine gun
+fs: 9
+entail: atirar 3
+hypo: atirar
+sa: @en:verb.competition:machine_gun
+
+w: minar
+d: @en_lay mines
+fs: 8
+hyper: @en_countermine
+hypo: verb.change:reforçar
+sa: @en:verb.competition:mine
+
+w: mobilizar 1 ant desmobilizar
+d: @en_get ready for war
+fs: 2
+hypo: @en_militarise
+sa: @en:verb.competition:mobilise
+
+w: molestar
+d: @en_exhaust by attacking repeatedly
+fs: 8 9
+hypo: agredir 1
+sa: @en:verb.competition:harass
+
+w: mover
+d: ter um turno ou vez; fazer um movimento em um jogo
+fs: 2
+entail: jogar 2
+hyper: @en_maneuver
+hyper: @en_ruff
+hyper: @en_serve
+hyper: @en_stalemate
+hyper: abrir
+hyper: blefar
+hyper: conter
+hyper: escolher_ao_acaso
+hyper: rocar
+sa: @en:verb.competition:go
+vg: verb.communication:fazer_uma_moção
+
+w: passar
+d: @en_secure the passage or adoption (of bills and motions)
+fs: 8
+hypo: verb.possession:obter 7
+sa: @en:verb.competition:carry 2
+vg: @en_carry
+
+w: perder
+d: @en_fail to win
+fs: 8 2 27
+entail: competir
+hyper: @en_drop
+hyper: @en_drop_one's_serve
+hyper: @en_go_down
+hyper: @en_remain_down
+sa: @en:verb.competition:lose
+
+w: pesar_mais
+d: ser mais pesado ​​do que
+fs: 8
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:outweigh
+
+w: pescar_caranguejo
+d: @en_fish for crab
+fs: 2 22
+hypo: catar
+sa: @en:verb.competition:crab
+
+w: pescar_vieiras
+d: @en_fish for scallops
+fs: 2
+hypo: catar
+sa: @en:verb.competition:scallop
+
+w: pipocar
+d: @en_fire a weapon with a loud explosive noise
+fs: 2
+hypo: atirar 1
+sa: @en:verb.competition:pop
+
+w: proteger 2
+d: proteger, ocultar ou esconder do perigo ou dano
+fs: 8 9 11 10
+hypo: defender 3
+sa: @en:verb.competition:screen
+
+w: prover_de_armas
+d: @en_prepare oneself for a military confrontation
+fs: 2
+hyper: @en_forearm
+hyper: @en_re-arm
+sa: @en:verb.competition:arm
+
+w: recalcitrar
+d: @en_show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient
+fs: 22
+hypo: brigar 1
+sa: @en:verb.competition:recalcitrate
+
+w: receder
+d: @en_retreat
+fs: 2
+hypo: verb.change:@en_regress
+sa: @en:verb.competition:drop_off
+
+w: render-se ant resistir 4
+d: @en_give up or agree to forgo to the power or possession of another
+fs: 2 15 8
+hyper: @en_abnegate
+hyper: capitulação
+hyper: desistir 3
+hypo: aceitar
+sa: @en:verb.competition:give_up 1
+
+w: repelir
+d: @en_force or drive back
+fs: 8 9
+hypo: brigar 1
+sa: @en:verb.competition:drive_back
+
+w: resistir 1
+d: @en_withstand the force of something
+fs: 11 8
+hypo: brigar 1
+sa: @en:verb.competition:fend
+vg: verb.stative:@en_remain_firm
+
+w: resistir 2
+d: @en_defend oneself
+fs: 2
+hypo: brigar
+sa: @en:verb.competition:fight_back 1
+
+w: resistir 3
+d: @en_hold back, as of a danger or an enemy; check the expansion or influence of
+fs: 10 11 9 8
+hyper: @en_cut_down
+hypo: defender 2
+sa: @en:verb.competition:arrest
+
+w: resistir 4 ant render-se
+d: oferecer resistência para alguém ou alguma coisa
+fs: 8 9
+hyper: @en_hold_off
+hyper: @en_outbrave 1
+hyper: @en_stand_out
+hyper: @en_stand_up
+hyper: verb.stative:@en_remain_firm
+hyper: verb.stative:afrontar
+hypo: brigar 1
+sa: @en:verb.competition:hold_out
+
+w: rocar
+d: @en_move the king two squares toward a rook and in the same move the rook to the square next past the king
+fs: 8
+hypo: mover
+mt: noun.act:xadrez
+sa: @en:verb.competition:castle
+
+w: rotacionar
+d: @en_perform a job or duty on a rotating basis
+fs: 22 2
+hypo: exercer
+sa: @en:verb.competition:rotate
+vg: verb.social:@en_rotate
+
+w: roubar
+d: roubar uma base em baseball
+fs: 8
+hypo: avançar
+mt: noun.act:basebol
+sa: @en:verb.competition:steal
+
+w: roubar 1
+w: sacanear
+w: trapacear
+d: @en_defeat someone through trickery or deceit
+fs: 11 9
+hypo: bater
+sa: @en:verb.competition:cheat
+
+w: servir 1
+d: @en_serve as a soldier in the military
+fs: 2 22
+hypo: verb.stative:fazer_passar
+sa: @en:verb.competition:soldier
+
+w: situar
+d: chegar em um estação
+fs: 20
+hyper: @en_fort
+hyper: @en_garrison
+hyper: verb.possession:@en_locate
+hypo: verb.motion:deslocar 2
+sa: @en:verb.competition:place
+
+w: superar 6
+d: @en_excel or defeat in a game
+fs: 9 11
+hypo: bater
+sa: @en:verb.competition:outplay
+
+w: superar 7
+d: @en_surpass in excellence
+fs: 8
+hypo: apresentar_melhor_que
+sa: @en:verb.competition:better
+
+w: torcer
+d: @en_take sides with; align oneself with; show strong sympathy for
+fs: 22
+hypo: @en_side
+sa: @en:verb.competition:pull 13
+
+w: torpedear
+d: @en_attack or hit with torpedoes
+fs: 9 8
+hypo: assaltar 1
+sa: @en:verb.competition:torpedo
+
+w: tripular
+d: @en_serve as a crew member on
+fs: 8
+hypo: @en_man
+sa: @en:verb.competition:crew
+
+w: triunfar 1
+w: vencer 6
+d: @en_prove superior
+fs: 2
+hypo: ganhar 1
+sa: @en:verb.competition:prevail
+
+w: usar
+d: @en_use or move
+fs: 8
+hyper: @en_promote
+hypo: verb.consumption:empregar 1
+sa: @en:verb.competition:play 13
+vg: @en_encounter
+vg: jogar 4
+

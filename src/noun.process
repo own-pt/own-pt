@@ -1,0 +1,5168 @@
+noun.process
+
+w: @en_ADP
+w: @en_automatic_data_processing
+d: @en_data processing by a computer
+hyper: @en_EDP
+hyper: @en_IDP
+hypo: processamento_de_dados
+sa: @en:noun.process:ADP
+
+w: @en_Acheson_process
+d: @en_an industrial process for making graphite by heating a mixture of coke and clay
+hypo: processos_industriais
+sa: @en:noun.process:Acheson_process
+
+w: @en_Anglicisation
+w: @en_Anglicization
+d: @en_the act of anglicizing; making English in appearance
+hypo: assimilação
+sa: @en:noun.process:Anglicisation
+
+w: @en_Bradley_method
+w: @en_Bradley_method_of_childbirth
+d: @en_a method that prepares a mother for natural childbirth by providing education and exercises and nutrition and techniques of breathing and relaxation (with the assistance of the father)
+hypo: @en_natural_childbirth
+sa: @en:noun.process:Bradley_method
+
+w: @en_EDP
+w: @en_electronic_data_processing
+d: @en_automatic data processing by electronic means without the use of tabulating cards or punched tapes
+hypo: @en_ADP
+sa: @en:noun.process:EDP
+
+w: @en_Europeanisation
+w: @en_Europeanization
+d: @en_assimilation into European culture
+hypo: assimilação
+sa: @en:noun.process:Europeanisation
+
+w: @en_IDP
+w: @en_integrated_data_processing
+d: @en_automatic data processing in which data acquisition and other stages or processing are integrated into a coherent system
+hypo: @en_ADP
+sa: @en:noun.process:IDP
+
+w: @en_Lamaze_method
+w: @en_Lamaze_method_of_childbirth
+d: @en_a method that prepares a mother for natural childbirth; the pregnant woman (in classes and at home) practices (usually with the help of a coach) and learns about the physiology of childbirth and techniques of relaxation, concentration, and breathing
+hypo: @en_natural_childbirth
+mp: noun.act:@en_effleurage
+sa: @en:noun.process:Lamaze_method
+
+w: @en_Leboyer_method
+w: @en_Leboyer_method_of_childbirth
+d: @en_a method of childbirth that tries to minimize the trauma for the newborn; delivery occurs in a quiet dimly lit room and the infant's head is not pulled and immediate bonding between mother and child is encouraged
+hypo: @en_natural_childbirth
+sa: @en:noun.process:Leboyer_method
+
+w: @en_Markoff_process
+w: @en_Markov_process
+d: @en_a simple stochastic process in which the distribution of future states depends only on the present state and not on how it arrived in the present state
+hyper: Cadeias_de_markov
+hypo: Processos_estocásticos
+sa: @en:noun.process:Markoff_process
+
+w: @en_Nazification
+d: @en_social process of adopting (or being forced to adopt) Nazism
+hypo: @en_social_process
+sa: @en:noun.process:Nazification
+
+w: @en_Read_method
+w: @en_Read_method_of_childbirth
+d: @en_a method of natural childbirth that assumes it is a normal process and that the pain is largely psychological; involves education and breathing exercises to foster relaxation and other exercises
+hypo: @en_natural_childbirth
+sa: @en:noun.process:Read_method
+
+w: @en_Riss_glaciation
+d: @en_the next-to-last Pleistocene glaciation in the Alps and the deposits laid down at that time
+hypo: @en_glaciation
+sa: @en:noun.process:Riss_glaciation
+
+w: @en_Saale_glaciation
+d: @en_the next-to-last Pleistocene glaciation in northern Europe and the deposits laid down at that time
+hypo: @en_glaciation
+sa: @en:noun.process:Saale_glaciation
+
+w: @en_Stalinisation
+w: @en_Stalinization
+d: @en_social process of adopting (or being forced to adopt) the policies and practices of Joseph Stalin
+hypo: @en_social_process
+sa: @en:noun.process:Stalinisation
+
+w: @en_Wolstonian_glaciation
+d: @en_the next-to-last Pleistocene glaciation in Britain and the deposits laid down at that time
+hypo: @en_glaciation
+sa: @en:noun.process:Wolstonian_glaciation
+
+w: @en_ablactation
+d: @en_the cessation of lactation
+hypo: @en_activity
+sa: @en:noun.process:ablactation
+
+w: @en_accession
+d: @en_a process of increasing by addition (as to a collection or group)
+hypo: acréscimo
+sa: @en:noun.process:accession
+
+w: @en_accretion
+d: @en_(astronomy) the formation of a celestial object by the effect of gravity pulling together surrounding objects and gases
+hypo: acréscimo
+mt: noun.cognition:Astronomia
+sa: @en:noun.process:accretion 3
+
+w: @en_accretion 1
+d: @en_(geology) an increase in land resulting from alluvial deposits or waterborne sediment
+hypo: acréscimo
+mt: noun.cognition:geologia
+sa: @en:noun.process:accretion 1
+
+w: @en_accretion 2
+d: @en_(biology) growth by addition as by the adhesion of parts or particles
+hypo: acréscimo
+mt: noun.cognition:biologia
+sa: @en:noun.process:accretion 2
+
+w: @en_acid-base_balance
+w: @en_acid-base_equilibrium
+d: @en_(physiology) the normal equilibrium between acids and alkalis in the body
+hypo: Equilibrio_quimico
+mt: noun.cognition:Fisiologia
+sa: @en:noun.process:acid-base_balance
+
+w: @en_activation
+d: @en_stimulation of activity in an organism or chemical
+hyper: @en_indweller
+hypo: @en_stimulation
+sa: @en:noun.process:activation
+
+w: @en_active_birth
+d: @en_childbirth during which the mother is encouraged to be an active participant
+hypo: parto
+sa: @en:noun.process:active_birth
+
+w: @en_active_transport
+d: @en_transport of a substance (as a protein or drug) across a cell membrane against the concentration gradient; requires an expenditure of energy
+hypo: @en_transport
+mt: noun.artifact:droga
+sa: @en:noun.process:active_transport
+
+w: @en_activity
+w: @en_bodily_function
+w: @en_bodily_process
+w: @en_body_process
+d: @en_an organic process that takes place in the body
+hyper: noun.act:@en_control
+hyper: noun.act:@en_insemination 1
+hyper: noun.act:@en_sleeping
+hyper: noun.act:choro
+hyper: noun.act:ingestão
+hyper: noun.act:reação 1
+hyper: noun.act:respiração
+hyper: noun.act:respiração 2
+hyper: noun.act:respiração 4
+hyper: noun.act:sexo 1
+hyper: @en_ablactation
+hyper: @en_anastalsis
+hyper: @en_hypostasis
+hyper: @en_lactation
+hyper: @en_opsonisation
+hyper: @en_placentation
+hyper: @en_psilosis
+hyper: @en_tanning
+hyper: @en_transpiration
+hyper: atividade_em_excesso
+hyper: curação
+hyper: expectoração
+hyper: expulsão
+hyper: fagocitose
+hyper: lacrimejamento
+hyper: peristalse
+hyper: pinocitose
+hyper: suor
+hyper: supuração
+hypo: processos_biológicos
+sa: @en:noun.process:activity
+
+w: @en_administrative_data_processing
+w: @en_business_data_processing
+d: @en_data processing in accounting or business management
+hypo: processamento_de_dados
+sa: @en:noun.process:administrative_data_processing
+
+w: @en_agenesia
+w: @en_agenesis
+d: @en_imperfect development; nondevelopment of a part
+hypo: @en_nondevelopment
+sa: @en:noun.process:agenesia
+
+w: @en_agglutination
+d: @en_a clumping of bacteria or red cells when held together by antibodies (agglutinins)
+hyper: @en_isoagglutination
+hyper: hemaglutinação
+hypo: processos_biológicos
+sa: @en:noun.process:agglutination 1
+
+w: @en_alluvion
+d: @en_gradual formation of new land, by recession of the sea or deposit of sediment
+hypo: @en_geologic_process
+sa: @en:noun.process:alluvion
+
+w: @en_alternative_birth
+w: @en_alternative_birthing
+d: @en_a method of childbirth that avoids intrusive high-tech medicine in favor of more natural and homely settings
+hypo: parto
+sa: @en:noun.process:alternative_birth
+
+w: @en_amelogenesis
+d: @en_the developmental process of forming tooth enamel
+hypo: crescimento 2
+sa: @en:noun.process:amelogenesis
+
+w: @en_amitosis
+d: @en_the direct method of cell division characterized by simple division of the nucleus without formation of chromosomes
+hypo: Divisão_celular
+sa: @en:noun.process:amitosis
+
+w: @en_amylolysis
+d: @en_conversion of starch to sugar
+hypo: @en_chemical_action
+sa: @en:noun.process:amylolysis
+
+w: @en_anaglyphy
+d: @en_the process of producing pictures in contrasting colors that appear three-dimensional when superimposed and viewed through spectacles with one red and one green lens
+hypo: fotografia
+sa: @en:noun.process:anaglyphy
+
+w: @en_anamorphism
+w: @en_anamorphosis
+d: @en_the evolution of one type of organism from another by a long series of gradual changes
+hypo: Evolução
+sa: @en:noun.process:anamorphism 1
+
+w: @en_anamorphism 1
+d: @en_metamorphism that occurs deep under the earth's surface; changes simple minerals into complex minerals
+hypo: Metamorfismo
+sa: @en:noun.process:anamorphism
+
+w: @en_anastalsis
+d: @en_muscular action of the alimentary tract in a direction opposite to peristalsis
+hypo: @en_activity
+sa: @en:noun.process:anastalsis
+
+w: @en_anisogamy
+d: @en_(biology) reproduction by the union or fusion of two differing gametes (especially differing in size)
+hypo: Reproducao_sexuada
+mt: noun.cognition:biologia
+sa: @en:noun.process:anisogamy
+
+w: @en_anovulation
+d: @en_the absence of ovulation due to immaturity or post-maturity or pregnancy or oral contraceptive pills or dysfunction of the ovary
+hypo: processos_biológicos
+sa: @en:noun.process:anovulation
+
+w: @en_anthropogenesis
+w: @en_anthropogeny
+d: @en_the evolution or genesis of the human race
+hypo: Evolução
+sa: @en:noun.process:anthropogenesis
+
+w: @en_antiredeposition
+d: @en_the process of preventing redeposition
+hypo: atividade
+sa: @en:noun.process:antiredeposition
+
+w: @en_antisepsis
+w: @en_asepsis
+d: @en_the process of inhibiting the growth and multiplication of microorganisms
+hypo: processos_biológicos
+sa: @en:noun.process:antisepsis
+
+w: @en_aphesis
+d: @en_the gradual disappearance of an initial (usually unstressed) vowel or syllable as in `squire' for `esquire'
+hypo: @en_deletion
+sa: @en:noun.process:aphesis
+
+w: @en_apogamy
+d: @en_(botany) development of an embryo without fertilization; especially the development in some ferns of a sporophyte from the gametophyte without fertilization
+hypo: apomixia
+mt: noun.cognition:Botanica
+sa: @en:noun.process:apogamy
+
+w: @en_apposition
+d: @en_(biology) growth in the thickness of a cell wall by the deposit of successive layers of material
+hypo: crescimento 2
+mt: noun.cognition:biologia
+sa: @en:noun.process:apposition
+
+w: @en_assibilation
+d: @en_the development of a consonant phoneme into a sibilant
+hypo: evolução 2
+sa: @en:noun.process:assibilation
+
+w: @en_association
+d: @en_(chemistry) any process of combination (especially in solution) that depends on relatively weak chemical bonding
+hyper: hidratação
+hyper: solvatação
+hypo: @en_chemical_action
+mt: noun.cognition:Quimica
+sa: @en:noun.process:association
+
+w: @en_asynchronous_operation
+d: @en_operations that occur without a regular or predictable time relation to other events
+hypo: operação 1
+sa: @en:noun.process:asynchronous_operation
+
+w: @en_attack
+d: @en_the onset of a corrosive or destructive process (as by a chemical agent)
+hypo: @en_degeneration
+sa: @en:noun.process:attack
+
+w: @en_autocatalysis
+d: @en_catalysis in which the catalyst is one of the products of the reaction
+hypo: catálise
+sa: @en:noun.process:autocatalysis
+
+w: @en_autoradiography
+d: @en_producing a radiograph by means of the radiation emitted from the specimen being photographed
+hypo: @en_radiography
+sa: @en:noun.process:autoradiography
+
+w: @en_autoregulation
+d: @en_(physiology) processes that maintain a generally constant physiological state in a cell or organism
+hypo: processos_biológicos
+mt: noun.cognition:Fisiologia
+sa: @en:noun.process:autoregulation
+
+w: @en_autotype
+w: @en_autotypy
+d: @en_process for producing permanent prints in a carbon pigment
+hypo: fotografia
+sa: @en:noun.process:autotype
+
+w: @en_auxesis
+d: @en_growth from increase in cell size without cell division
+hypo: crescimento 2
+sa: @en:noun.process:auxesis
+
+w: @en_auxiliary_operation
+w: @en_off-line_operation
+d: @en_a operation performed by off-line equipment not under the control of the central processing unit
+hypo: operação 1
+sa: @en:noun.process:auxiliary_operation
+
+w: @en_background_processing
+w: @en_backgrounding
+d: @en_the execution of low priority programs while higher priority programs are not using the processing system
+hypo: @en_priority_processing
+sa: @en:noun.process:background_processing
+
+w: @en_backup
+d: @en_an accumulation caused by clogging or a stoppage
+hypo: acréscimo 1
+sa: @en:noun.process:backup
+
+w: @en_bacteriolysis
+d: @en_dissolution or destruction of bacteria
+hypo: lise
+sa: @en:noun.process:bacteriolysis
+
+w: @en_bacteriostasis
+d: @en_inhibition of the growth of bacteria
+hypo: processos_biológicos
+sa: @en:noun.process:bacteriostasis
+
+w: @en_basal_metabolism
+d: @en_the amount of energy required to maintain the body of an individual in a resting state
+hypo: Metabolismo
+sa: @en:noun.process:basal_metabolism
+
+w: @en_beach_erosion
+d: @en_the erosion of beaches
+hypo: erosão 1
+sa: @en:noun.process:beach_erosion
+
+w: @en_biochemical_mechanism
+d: @en_a chemical mechanism involved in vital processes occurring in living organisms
+hypo: mecanismo
+sa: @en:noun.process:biochemical_mechanism
+
+w: @en_blastogenesis
+d: @en_asexual reproduction by budding
+hypo: Reprodução_Assexuada
+sa: @en:noun.process:blastogenesis
+
+w: @en_blistering
+w: @en_vesication
+w: @en_vesiculation
+d: @en_the formation of vesicles in or beneath the skin
+hypo: processos_biológicos
+sa: @en:noun.process:blistering
+
+w: @en_blood_clotting
+w: @en_blood_coagulation
+d: @en_a process in which liquid blood is changed into a semisolid mass (a blood clot)
+hypo: coagulação
+sa: @en:noun.process:blood_clotting
+
+w: @en_blueing
+w: @en_bluing
+d: @en_a process that makes something blue (or bluish)
+hypo: @en_chemical_action
+sa: @en:noun.process:blueing
+
+w: @en_bm
+w: @en_bowel_movement
+w: @en_movement
+d: @en_a euphemism for defecation
+hypo: defecação
+mu: noun.communication:eufemismo
+sa: @en:noun.process:bm
+
+w: @en_bottom_fermentation
+d: @en_a slow kind of alcoholic fermentation at a temperature low enough that the yeast cells can sink to the bottom of the fermenting liquid; used in the production of lager
+hypo: Fermentacao
+sa: @en:noun.process:bottom_fermentation
+
+w: @en_broadening
+w: @en_widening
+d: @en_an increase in width
+hypo: acréscimo
+sa: @en:noun.process:broadening
+
+w: @en_buildup
+d: @en_the result of the process of accumulation
+hypo: acréscimo 1
+sa: @en:noun.process:buildup
+
+w: @en_caenogenesis
+w: @en_cainogenesis
+w: @en_cenogenesis
+w: @en_kainogenesis
+w: @en_kenogenesis
+d: @en_introduction during embryonic development of characters or structure not present in the earlier evolutionary history of the strain or species (such as the addition of the placenta in mammalian evolution)
+hypo: crescimento 2
+sa: @en:noun.process:caenogenesis
+
+w: @en_calving
+d: @en_giving birth to a calf
+hypo: nascimento
+sa: @en:noun.process:calving
+
+w: @en_capture
+d: @en_a process whereby a star or planet holds an object in its gravitational field
+hypo: atividade
+sa: @en:noun.process:capture 1
+
+w: @en_capture 1
+d: @en_any process in which an atomic or nuclear system acquires an additional particle
+hypo: atividade
+sa: @en:noun.process:capture
+
+w: @en_carrier_electrophoresis
+w: @en_paper_electrophoresis
+d: @en_electrophoresis carried out on filter paper
+hypo: Eletroforese
+sa: @en:noun.process:carrier_electrophoresis
+
+w: @en_catabiosis
+d: @en_normal aging of cells
+hypo: Envelhecimento
+sa: @en:noun.process:catabiosis
+
+w: @en_chemical_action
+w: @en_chemical_change
+w: @en_chemical_process
+d: @en_(chemistry) any process determined by the atomic and molecular composition and structure of the substances involved
+hyper: @en_amylolysis
+hyper: @en_association
+hyper: @en_blueing
+hyper: @en_cleavage
+hyper: @en_de-iodination
+hyper: @en_deamination
+hyper: @en_demineralisation
+hyper: @en_gassing
+hyper: @en_intumescence
+hyper: @en_inversion
+hyper: @en_iodination
+hyper: @en_nitrification
+hyper: @en_peptisation
+hyper: @en_proteolysis
+hyper: @en_pyrochemical_process
+hyper: @en_sequestration
+hyper: @en_synaeresis
+hyper: @en_transamination
+hyper: @en_transamination 1
+hyper: Descar-boxilação
+hyper: Dissociação_Química
+hyper: Fermentacao
+hyper: Fotossintese
+hyper: Gasificação
+hyper: Polimerização
+hyper: Reação_Química
+hyper: acilação
+hyper: calcificação
+hyper: catálise
+hyper: cloragem
+hyper: corrosão
+hyper: craqueamento
+hyper: descalcificação
+hyper: dessalinização
+hyper: digestão
+hyper: hidrogenação
+hyper: mecanismo
+hyper: precipitação
+hyper: quelato
+hyper: sinterização
+hyper: síntese
+hypo: atividade
+mt: noun.cognition:Quimica
+sa: @en:noun.process:chemical_action
+
+w: @en_chemical_decomposition_reaction
+w: @en_decomposition
+w: @en_decomposition_reaction
+d: @en_(chemistry) separation of a substance into two or more substances that may differ from each other and from the original substance
+hyper: Eletrólise
+hypo: Reação_Química
+mt: noun.cognition:Quimica
+sa: @en:noun.process:chemical_decomposition_reaction
+
+w: @en_chilling
+w: @en_cooling
+w: @en_temperature_reduction
+d: @en_the process of becoming cooler; a falling temperature
+hyper: @en_freeze
+hyper: @en_heat_dissipation
+hyper: arrefecimento
+hypo: @en_temperature_change
+sa: @en:noun.process:chilling
+
+w: @en_cleavage
+d: @en_the breaking of a chemical bond in a molecule resulting in smaller molecules
+hypo: @en_chemical_action
+sa: @en:noun.process:cleavage 1
+
+w: @en_clouding
+w: @en_clouding_up
+d: @en_the process whereby water particles become visible in the sky
+hypo: evaporação
+sa: @en:noun.process:clouding
+
+w: @en_cohesion
+d: @en_(botany) the process in some plants of parts growing together that are usually separate (such as petals)
+hypo: crescimento 2
+mt: noun.cognition:Botanica
+sa: @en:noun.process:cohesion
+
+w: @en_column_chromatography
+d: @en_chromatography that uses selective adsorption by a column of powders
+hypo: cromatografia
+sa: @en:noun.process:column_chromatography
+
+w: @en_compensation
+d: @en_(psychiatry) a defense mechanism that conceals your undesirable shortcomings by exaggerating desirable behaviors
+hyper: @en_overcompensation
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:compensation
+
+w: @en_concretion
+d: @en_the formation of stonelike objects within a body organ (e.g., the kidneys)
+hypo: atividade
+sa: @en:noun.process:concretion
+
+w: @en_concurrent_execution
+w: @en_multiprogramming
+d: @en_the execution of two or more computer programs by a single computer
+hypo: execução
+sa: @en:noun.process:concurrent_execution
+
+w: @en_concurrent_operation
+d: @en_two or more operations performed at the same time (or within a give interval)
+hypo: operação 1
+sa: @en:noun.process:concurrent_operation
+
+w: @en_congealment
+w: @en_congelation
+d: @en_the process of congealing; solidification by (or as if by) freezing
+hypo: endurecimento
+sa: @en:noun.process:congealment
+
+w: @en_conglutination
+w: @en_union
+d: @en_healing process involving the growing together of the edges of a wound or the growing together of broken bones
+hypo: curação
+sa: @en:noun.process:conglutination
+
+w: @en_consecutive_operation
+w: @en_sequential_operation
+w: @en_serial_operation
+d: @en_the sequential execution of operations one after another
+hypo: operação 1
+sa: @en:noun.process:consecutive_operation
+
+w: @en_conspicuous_consumption
+d: @en_buying expensive services and products in order to flaunt your wealth
+hypo: consumo
+sa: @en:noun.process:conspicuous_consumption
+
+w: @en_control_function
+w: @en_control_operation
+d: @en_an operation that controls the recording or processing or transmission of interpretation of data
+hypo: operação 1
+sa: @en:noun.process:control_function
+
+w: @en_conversion
+d: @en_(psychiatry) a defense mechanism represses emotional conflicts which are then converted into physical symptoms that have no organic basis
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:conversion
+
+w: @en_cost-pull_inflation
+d: @en_inflation caused by an increase in the costs of production
+hypo: inflação
+sa: @en:noun.process:cost-pull_inflation
+
+w: @en_crossing_over
+w: @en_crossover
+d: @en_the interchange of sections between pairing homologous chromosomes during the prophase of meiosis
+hp: @en_diplotene
+hypo: processos_biológicos
+sa: @en:noun.process:crossing_over
+
+w: @en_cultivation
+d: @en_the process of fostering the growth of something
+hypo: crescimento 2
+sa: @en:noun.process:cultivation
+
+w: @en_cyanide_process
+d: @en_an industrial process for extracting gold and silver by treating ore with a sodium cyanide solution
+hypo: processos_industriais
+sa: @en:noun.process:cyanide_process
+
+w: @en_cytogenesis
+w: @en_cytogeny
+d: @en_the origin and development and variation of cells
+hypo: crescimento 2
+sa: @en:noun.process:cytogenesis
+
+w: @en_cytolysis
+d: @en_pathological breakdown of cells by the destruction of their outer membrane
+hypo: lise
+sa: @en:noun.process:cytolysis
+
+w: @en_de-iodination
+d: @en_the removal of iodine atoms from organic compounds
+hypo: @en_chemical_action
+sa: @en:noun.process:de-iodination
+
+w: @en_dealignment
+d: @en_a process whereby voters are moved toward nonpartisanship thus weakening the structure of political parties
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:dealignment
+
+w: @en_deamination
+w: @en_deaminization
+d: @en_removal of the amino radical from an amino acid or other amino compound
+hypo: @en_chemical_action
+sa: @en:noun.process:deamination
+
+w: @en_decentalisation
+w: @en_decentralization
+d: @en_the social process in which population and industry moves from urban centers to outlying districts
+hypo: @en_social_process
+sa: @en:noun.process:decentalisation
+
+w: @en_decoction_mashing
+w: @en_decoction_process
+d: @en_(brewing) a process in which part of the mash is removed and boiled and then returned
+hypo: ebulição
+mt: noun.act:@en_brewing
+sa: @en:noun.process:decoction_mashing
+
+w: @en_deepening
+d: @en_a process of becoming deeper and more profound
+hypo: evolução 2
+sa: @en:noun.process:deepening
+
+w: @en_defining
+w: @en_shaping
+d: @en_any process serving to define the shape of something
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:defining
+
+w: @en_deflation
+d: @en_(geology) the erosion of soil as a consequence of sand and dust and loose rocks being removed by the wind
+hypo: erosão 1
+mt: noun.cognition:geologia
+sa: @en:noun.process:deflation 1
+
+w: @en_deflationary_spiral
+d: @en_an episode of deflation in which prices and wages decrease at an increasing rate and currency gains in value
+hypo: @en_spiral
+sa: @en:noun.process:deflationary_spiral
+
+w: @en_degaussing
+d: @en_the process of making a (steel) ship's hull nonmagnetic by producing an opposing magnetic field
+hypo: desmagnetização
+sa: @en:noun.process:degaussing
+
+w: @en_degeneration
+w: @en_devolution
+d: @en_the process of declining from a higher to a lower level of effective power or vitality or essential quality
+hyper: @en_attack
+hyper: obsolescência
+hyper: noun.state:Degeneração_macular
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:degeneration
+
+w: @en_deletion
+w: @en_omission
+d: @en_any process whereby sounds or words are left out of spoken words or phrases
+hyper: @en_aphesis
+hyper: Elipse
+hyper: aférese
+hyper: elisão
+hypo: @en_linguistic_process
+sa: @en:noun.process:deletion
+
+w: @en_demand-pull_inflation
+d: @en_inflation caused by an increase in demand or in the supply of money
+hypo: inflação
+sa: @en:noun.process:demand-pull_inflation
+
+w: @en_demineralisation
+w: @en_demineralization
+d: @en_the removal of minerals and mineral salts from a liquid (especially from water)
+hypo: @en_chemical_action
+sa: @en:noun.process:demineralisation
+
+w: @en_dentition
+w: @en_odontiasis
+w: @en_teething
+d: @en_the eruption through the gums of baby teeth
+hyper: @en_precocious_dentition
+hypo: crescimento 2
+sa: @en:noun.process:dentition
+
+w: @en_deossification
+d: @en_the loss of the mineral content of bone tissue
+hypo: processos_biológicos
+sa: @en:noun.process:deossification
+
+w: @en_deposit
+w: @en_deposition
+d: @en_the natural process of laying down a deposit of something
+hyper: @en_electrodeposition
+hyper: @en_pigmentation
+hyper: @en_redeposition
+hyper: @en_superposition
+hypo: acréscimo 1
+sa: @en:noun.process:deposit
+
+w: @en_destructive_distillation
+d: @en_heating a solid substance in a closed container and collecting the volatile products
+hyper: carbonização
+hypo: @en_fractional_process
+sa: @en:noun.process:destructive_distillation
+
+w: @en_detumescence
+d: @en_diminution of swelling; the subsidence of anything swollen
+hypo: declínio
+sa: @en:noun.process:detumescence
+
+w: @en_developing
+w: @en_development
+d: @en_processing a photosensitive material in order to make an image visible
+hyper: subdesenvolvimento
+hypo: processamento
+sa: @en:noun.process:developing
+
+w: @en_diakinesis
+d: @en_the final stage of the prophase of meiosis
+hp: @en_prophase
+hypo: noun.time:fase 1
+sa: @en:noun.process:diakinesis
+
+w: @en_diastrophism
+d: @en_the process of deformation that produces continents and ocean basins in the earth's crust
+hypo: @en_geologic_process
+sa: @en:noun.process:diastrophism
+
+w: @en_diplotene
+d: @en_the fourth stage of the prophase of meiosis
+hp: @en_prophase
+hypo: noun.time:fase 1
+mp: @en_crossing_over
+sa: @en:noun.process:diplotene
+
+w: @en_disinflation
+d: @en_a reduction of prices intended to improve the balance of payments
+hypo: @en_economic_process
+sa: @en:noun.process:disinflation
+
+w: @en_displacement
+d: @en_(psychiatry) a defense mechanism that transfers affect or reaction from the original object to some more acceptable one
+hyper: noun.cognition:transferência
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:displacement
+
+w: @en_displacement 1
+w: @en_displacement_reaction
+d: @en_(chemistry) a reaction in which an elementary substance displaces and sets free a constituent element from a compound
+hypo: Reação_Química
+mt: noun.cognition:Quimica
+sa: @en:noun.process:displacement 1
+
+w: @en_dissimilation
+d: @en_a linguistic process by which one of two similar sounds in a word becomes less like the other
+hypo: @en_linguistic_process
+sa: @en:noun.process:dissimilation 1
+
+w: @en_dissolution
+w: @en_dissolving
+d: @en_the process of going into solution
+hypo: @en_liquefaction
+sa: @en:noun.process:dissolution 1
+
+w: @en_distributed_data_processing
+w: @en_remote-access_data_processing
+w: @en_teleprocessing
+d: @en_data processing in which some of the functions are performed in different places and connected by transmission facilities
+hypo: processamento_de_dados
+sa: @en:noun.process:distributed_data_processing
+
+w: @en_dithering
+d: @en_the process of representing intermediate colors by patterns of tiny colored dots that simulate the desired color
+hypo: @en_video_digitizing
+sa: @en:noun.process:dithering
+
+w: @en_double_decomposition
+w: @en_double_decomposition_reaction
+w: @en_metathesis
+d: @en_a chemical reaction between two compounds in which parts of each are interchanged to form two new compounds (AB+CD=AD+CB)
+hyper: @en_double_replacement_reaction
+hypo: Reação_Química
+sa: @en:noun.process:double_decomposition
+
+w: @en_double_replacement_reaction
+d: @en_a chemical reaction between two compounds where the positive ion of one compound is exchanged with the positive ion of another compound
+hypo: @en_double_decomposition
+sa: @en:noun.process:double_replacement_reaction
+
+w: @en_doubling
+d: @en_increase by a factor of two
+hypo: multiplicação
+sa: @en:noun.process:doubling
+
+w: @en_drift
+d: @en_a process of linguistic change over a period of time
+hyper: melhoramento
+hypo: @en_linguistic_process
+sa: @en:noun.process:drift 2
+
+w: @en_drop-off
+w: @en_falling_off
+w: @en_falloff
+w: @en_slack
+w: @en_slump
+d: @en_a noticeable deterioration in performance or quality
+hypo: deterioração 1
+sa: @en:noun.process:drop-off
+
+w: @en_dry_plate
+w: @en_dry_plate_process
+d: @en_a former photographic method that used a glass plate coated with a light-sensitive gelatinous emulsion
+hypo: fotografia
+sa: @en:noun.process:dry_plate
+
+w: @en_dyadic_operation
+d: @en_an operation on exactly two operands
+hypo: operação 1
+sa: @en:noun.process:dyadic_operation
+
+w: @en_eburnation
+d: @en_a change that occurs in degenerative joint disease in which bone is converted into a dense smooth substance resembling ivory
+hypo: processos_biológicos
+sa: @en:noun.process:eburnation
+
+w: @en_ecesis
+w: @en_establishment
+d: @en_(ecology) the process by which a plant or animal becomes established in a new habitat
+hypo: atividade
+mt: noun.cognition:Ecologia
+sa: @en:noun.process:ecesis
+
+w: @en_economic_process
+d: @en_any process affecting the production and development and management of material wealth
+hyper: @en_disinflation
+hyper: @en_market_forces
+hyper: @en_spiral
+hyper: Crescimento_economico
+hyper: Globalizacão
+hyper: deflação
+hyper: demanda
+hyper: fornecimento
+hyper: inflação
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:economic_process
+
+w: @en_effacement
+d: @en_shortening of the uterine cervix and thinning of its walls as it is dilated during labor
+hp: noun.state:@en_childbed
+hypo: processos_biológicos
+sa: @en:noun.process:effacement
+
+w: @en_electrodeposition
+d: @en_the deposition of a substance on an electrode by the action of electricity (especially by electrolysis)
+hypo: @en_deposit
+sa: @en:noun.process:electrodeposition
+
+w: @en_electrostatic_precipitation
+d: @en_a process that removes suspended dust particles from a gas by applying a high voltage electrostatic charge to the particles and collecting them on charged plates
+hypo: processos_industriais
+sa: @en:noun.process:electrostatic_precipitation
+
+w: @en_elution
+d: @en_the process of extracting one material from another by washing with a solvent to remove adsorbed material from an adsorbent (as in washing of loaded ion-exchange resins to remove captured ions); used to obtain uranium ions
+hypo: extracção
+sa: @en:noun.process:elution
+
+w: @en_emergent_evolution
+d: @en_the appearance of entirely new properties at certain critical stages in the course of evolution
+hypo: Evolução
+sa: @en:noun.process:emergent_evolution
+
+w: @en_encapsulation
+d: @en_the process of enclosing (as in a capsule)
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:encapsulation
+
+w: @en_encrustation
+w: @en_incrustation
+d: @en_the formation of a crust
+hypo: formação
+sa: @en:noun.process:encrustation
+
+w: @en_endoergic_reaction
+d: @en_a nuclear reaction occurring with absorption of energy
+hypo: reacção_nuclear
+sa: @en:noun.process:endoergic_reaction
+
+w: @en_endothermic_reaction
+d: @en_a chemical reaction accompanied by the absorption of heat
+hypo: Reação_Química
+sa: @en:noun.process:endothermic_reaction
+
+w: @en_epigenesis
+d: @en_a geological change in the mineral content of rock after the rock has formed
+hypo: Metamorfismo
+sa: @en:noun.process:epigenesis
+
+w: @en_epilation
+d: @en_loss of hair; the result of removing hair
+hyper: @en_psilosis
+hypo: @en_loss
+sa: @en:noun.process:epilation
+
+w: @en_eponymy
+d: @en_the derivation of a general name from that of a famous person
+hypo: derivação
+sa: @en:noun.process:eponymy
+
+w: @en_erosion
+d: @en_a gradual decline of something
+hypo: declínio
+sa: @en:noun.process:erosion 2
+
+w: @en_exoergic_reaction
+d: @en_a nuclear reaction accompanied by the evolution of energy
+hypo: reacção_nuclear
+sa: @en:noun.process:exoergic_reaction
+
+w: @en_expression
+d: @en_(genetics) the process of expressing a gene
+hypo: processos_biológicos
+mt: noun.cognition:Genetica
+sa: @en:noun.process:expression
+
+w: @en_extravasation
+d: @en_the process of exuding or passing out of a vessel into surrounding tissues; said of blood or lymph or urine
+hyper: noun.state:@en_blood_extravasation
+hyper: noun.state:@en_urocele
+hypo: processos_biológicos
+sa: @en:noun.process:extravasation
+
+w: @en_farrow
+w: @en_farrowing
+d: @en_the production of a litter of pigs
+hypo: nascimento
+sa: @en:noun.process:farrow
+
+w: @en_fat_metabolism
+d: @en_a metabolic process that breaks down ingested fats into fatty acids and glycerol and then into simpler compounds that can be used by cells of the body
+hypo: Metabolismo
+sa: @en:noun.process:fat_metabolism
+
+w: @en_feminisation
+w: @en_feminization
+d: @en_the process of becoming feminized; the development of female characteristics (loss of facial hair or breast enlargement) in a male because of hormonal disorders or castration
+hypo: @en_pathologic_process
+sa: @en:noun.process:feminisation
+
+w: @en_field_emission
+d: @en_the emission of electrons that are stripped from parent atoms by a high electric field
+hypo: emissão
+sa: @en:noun.process:field_emission
+
+w: @en_filling
+d: @en_flow into something (as a container)
+hyper: substituição
+hypo: fluxos
+sa: @en:noun.process:filling
+
+w: @en_fission
+d: @en_reproduction of some unicellular organisms by division of the cell into two more or less equal parts
+hyper: @en_schizogony
+hypo: Reprodução_Assexuada
+sa: @en:noun.process:fission 1
+
+w: @en_fissiparity
+d: @en_reproduction of some multicellular organisms by division, as in the case of some starfish
+hypo: Reprodução_Assexuada
+sa: @en:noun.process:fissiparity
+
+w: @en_fixed-cycle_operation
+d: @en_an operation that is completed in a specified number of regularly timed execution cycles
+hypo: operação 1
+sa: @en:noun.process:fixed-cycle_operation
+
+w: @en_flare
+d: @en_a sudden burst of flame
+hypo: chama
+sa: @en:noun.process:flare
+
+w: @en_floating-point_operation
+w: @en_flop
+d: @en_an arithmetic operation performed on floating-point numbers
+hypo: operação_informática
+sa: @en:noun.process:floating-point_operation
+
+w: @en_flowage
+d: @en_gradual internal motion or deformation of a solid body (as by heat)
+hypo: fluxos
+sa: @en:noun.process:flowage
+
+w: @en_focalisation
+w: @en_focalization
+d: @en_the confinement of an infection to a limited area
+hypo: patogênese
+sa: @en:noun.process:focalisation
+
+w: @en_foliation
+w: @en_leafing
+d: @en_(botany) the process of forming leaves
+hypo: crescimento 2
+mt: noun.cognition:Botanica
+sa: @en:noun.process:foliation 1
+
+w: @en_foliation 1
+d: @en_(geology) the arrangement of leaflike layers in a rock
+hypo: estratificação
+mt: noun.cognition:geologia
+sa: @en:noun.process:foliation
+
+w: @en_foreground_processing
+w: @en_foregrounding
+d: @en_the execution of a program that preempts the use of the processing system
+hypo: @en_priority_processing
+sa: @en:noun.process:foreground_processing
+
+w: @en_fossilisation
+w: @en_fossilization
+d: @en_the process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone
+hyper: @en_petrifaction
+hypo: atividade
+sa: @en:noun.process:fossilisation
+
+w: @en_fractional_process
+w: @en_fractionation
+d: @en_a process that uses heat to separate a substance into its components
+hyper: @en_destructive_distillation
+hyper: Destilação_Fracionada
+hypo: processos_industriais
+sa: @en:noun.process:fractional_process
+
+w: @en_freeze
+w: @en_freezing
+d: @en_the withdrawal of heat to change something from a liquid to a solid
+hyper: @en_freeze-drying
+hyper: geada
+hypo: @en_chilling
+hypo: Mudanças_de_fase
+sa: @en:noun.process:freeze 1
+
+w: @en_freeze-drying
+w: @en_lyophilisation
+w: @en_lyophilization
+d: @en_a method of drying food or blood plasma or pharmaceuticals or tissue without destroying their physical structure; material is frozen and then warmed in a vacuum so that the ice sublimes
+hypo: @en_freeze
+hypo: desidratação
+sa: @en:noun.process:freeze-drying
+
+w: @en_fructification
+d: @en_the bearing of fruit
+hypo: crescimento 2
+sa: @en:noun.process:fructification
+
+w: @en_galactosis
+d: @en_the secretion of milk
+hypo: secreção
+sa: @en:noun.process:galactosis
+
+w: @en_gassing
+d: @en_the process of interacting with gas
+hypo: @en_chemical_action
+sa: @en:noun.process:gassing
+
+w: @en_gastric_digestion
+d: @en_the process of breaking down proteins by the action of the gastric juice in the stomach
+hypo: digestão 1
+sa: @en:noun.process:gastric_digestion
+
+w: @en_gemmation
+w: @en_pullulation
+d: @en_asexual reproduction in which a local growth on the surface or in the body of the parent becomes a separate individual
+hypo: Reprodução_Assexuada
+sa: @en:noun.process:gemmation
+
+w: @en_geologic_process
+w: @en_geological_process
+d: @en_(geology) a natural process whereby geological features are modified
+hyper: @en_alluvion
+hyper: @en_diastrophism
+hyper: @en_glaciation
+hyper: @en_intrusion
+hyper: Desertificação
+hyper: Metamorfismo
+hyper: Orogenias
+hyper: dobra
+hyper: erosão 1
+hyper: estratificação
+hyper: zona_de_subducção
+hypo: atividade
+mt: noun.cognition:geologia
+sa: @en:noun.process:geologic_process
+
+w: @en_glaciation
+d: @en_the process of covering the earth with glaciers or masses of ice
+hyper: @en_Riss_glaciation
+hyper: @en_Saale_glaciation
+hyper: @en_Wolstonian_glaciation
+hypo: @en_geologic_process
+sa: @en:noun.process:glaciation
+
+w: @en_glycogenesis
+d: @en_the formation in animals of glycogen from glucose
+hypo: processos_biológicos
+sa: @en:noun.process:glycogenesis
+
+w: @en_growing
+d: @en_(electronics) the production of (semiconductor) crystals by slow crystallization from the molten state
+hyper: epitaxia
+hypo: noun.act:actividades_de_produção
+mt: noun.cognition:Eletronica
+sa: @en:noun.process:growing 1
+
+w: @en_gynogenesis
+d: @en_female parthenogenesis in which the embryo contains only maternal chromosomes due to the failure of the sperm to fuse with the egg nucleus
+hypo: Partenogenese
+sa: @en:noun.process:gynogenesis
+
+w: @en_habit
+d: @en_the general form or mode of growth (especially of a plant or crystal)
+hypo: crescimento 2
+sa: @en:noun.process:habit
+
+w: @en_heat_dissipation
+d: @en_dissipation of heat
+hypo: @en_chilling
+sa: @en:noun.process:heat_dissipation
+
+w: @en_hemimetabolism
+w: @en_hemimetaboly
+w: @en_hemimetamorphosis
+d: @en_incomplete or partial metamorphosis in insects
+hypo: metabolismo 1
+sa: @en:noun.process:hemimetabolism
+
+w: @en_heterometabolism
+w: @en_heterometaboly
+d: @en_development of insects with incomplete metamorphosis in which no pupal stage precedes maturity
+hypo: metabolismo 1
+sa: @en:noun.process:heterometabolism
+
+w: @en_heterospory
+d: @en_the development of both microspores and megaspores
+hypo: @en_monogenesis
+sa: @en:noun.process:heterospory
+
+w: @en_homospory
+d: @en_the development of a single kind of asexual spores
+hypo: @en_monogenesis
+sa: @en:noun.process:homospory
+
+w: @en_human_process
+d: @en_a process in which human beings are involved
+hyper: @en_linguistic_process
+hyper: @en_ossification
+hyper: @en_psychoanalytic_process
+hyper: @en_social_process
+hyper: @en_uptake
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:human_process
+
+w: @en_humification
+d: @en_the process of the formation of humus from plant remains
+hypo: processos_biológicos
+sa: @en:noun.process:humification
+
+w: @en_hydrocracking
+d: @en_the process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst
+hypo: craqueamento
+sa: @en:noun.process:hydrocracking
+
+w: @en_hypostasis
+d: @en_the accumulation of blood in an organ
+hypo: @en_activity
+sa: @en:noun.process:hypostasis
+
+w: @en_idealisation
+w: @en_idealization
+d: @en_(psychiatry) a defense mechanism that splits something you are ambivalent about into two representations--one good and one bad
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:idealisation
+
+w: @en_imbibition
+d: @en_(chemistry) the absorption of a liquid by a solid or gel
+hypo: absorção 1
+mt: noun.cognition:Quimica
+sa: @en:noun.process:imbibition
+
+w: @en_immunoelectrophoresis
+d: @en_electrophoresis to separate antigens and antibodies
+hypo: Eletroforese
+sa: @en:noun.process:immunoelectrophoresis
+
+w: @en_implantation
+w: @en_nidation
+d: @en_(embryology) the organic process whereby a fertilized egg becomes implanted in the lining of the uterus of placental mammals
+hypo: processos_biológicos
+mt: noun.cognition:Embriologia
+sa: @en:noun.process:implantation
+
+w: @en_impregnation
+w: @en_saturation
+d: @en_the process of totally saturating something with a substance
+hp: plastinação
+hypo: osmose
+sa: @en:noun.process:impregnation
+
+w: @en_inactivation
+d: @en_the process of rendering inactive
+hypo: atividade
+sa: @en:noun.process:inactivation
+
+w: @en_indentation
+w: @en_pitting
+w: @en_roughness
+d: @en_the formation of small pits in a surface as a consequence of corrosion
+hypo: corrosão
+sa: @en:noun.process:indentation
+
+w: @en_induction_heating
+d: @en_the heating of a conducting material caused by an electric current induced in it
+hypo: aquecimento
+sa: @en:noun.process:induction_heating
+
+w: @en_indweller
+d: @en_activation by an inner spirit or force or principle
+hypo: @en_activation
+sa: @en:noun.process:indweller
+
+w: @en_infection
+d: @en_(phonetics) the alteration of a speech sound under the influence of a neighboring sound
+hypo: @en_linguistic_process
+mt: noun.cognition:Fonética
+sa: @en:noun.process:infection 1
+
+w: @en_inflationary_spiral
+d: @en_an episode of inflation in which prices and wages increase at an increasing rate and currency rapidly loses value
+hypo: @en_spiral
+sa: @en:noun.process:inflationary_spiral
+
+w: @en_infolding
+w: @en_introversion
+w: @en_intussusception
+w: @en_invagination
+d: @en_the folding in of an outer layer so as to form a pocket in the surface
+hypo: processos_biológicos
+sa: @en:noun.process:infolding
+
+w: @en_infructescence
+d: @en_the fruiting stage of the inflorescence
+hypo: crescimento 2
+sa: @en:noun.process:infructescence
+
+w: @en_inhibition
+d: @en_(physiology) the process whereby nerves can retard or prevent the functioning of an organ or part
+hypo: processos_biológicos
+mt: noun.cognition:Fisiologia
+sa: @en:noun.process:inhibition
+
+w: @en_inpour
+w: @en_inpouring
+w: @en_inrush
+d: @en_an inflow
+hypo: afluxo
+sa: @en:noun.process:inpour
+
+w: @en_inspissation
+d: @en_the process of thickening by dehydration
+hypo: desidratação
+sa: @en:noun.process:inspissation
+
+w: @en_insufflation
+d: @en_(medicine) blowing air or medicated powder into the lungs (or into some other body cavity)
+hypo: sopro
+mt: noun.cognition:@en_medical_specialty
+sa: @en:noun.process:insufflation
+
+w: @en_intellectualisation
+w: @en_intellectualization
+d: @en_(psychiatry) a defense mechanism that uses reasoning to block out emotional stress and conflict
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:intellectualisation
+
+w: @en_internal_combustion
+d: @en_the combustion of fuel inside a cylinder (as in an internal-combustion engine)
+hypo: combustão
+sa: @en:noun.process:internal_combustion
+
+w: @en_intrusion
+d: @en_the forcing of molten rock into fissures or between strata of an earlier rock formation
+hypo: @en_geologic_process
+sa: @en:noun.process:intrusion
+
+w: @en_intumescence
+w: @en_intumescency
+w: @en_swelling
+d: @en_the increase in volume of certain substances when they are heated (often accompanied by release of water)
+hypo: @en_chemical_action
+sa: @en:noun.process:intumescence
+
+w: @en_intussusception 1
+d: @en_(biology) growth in the surface area of a cell by the deposit of new particles between existing particles in the cell wall
+hypo: crescimento 2
+mt: noun.cognition:biologia
+sa: @en:noun.process:intussusception
+
+w: @en_inversion
+d: @en_a chemical process in which the direction of optical rotation of a substance is reversed from dextrorotatory to levorotary or vice versa
+hypo: @en_chemical_action
+sa: @en:noun.process:inversion
+
+w: @en_involution
+d: @en_reduction in size of an organ or part (as in the return of the uterus to normal size after childbirth)
+hypo: processos_biológicos
+sa: @en:noun.process:involution
+
+w: @en_iodination
+d: @en_the substitution or addition of iodine atoms in organic compounds
+hypo: @en_chemical_action
+sa: @en:noun.process:iodination
+
+w: @en_irreversible_process
+d: @en_any process that is not reversible
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:irreversible_process
+
+w: @en_irruption
+d: @en_a sudden sharp increase in the relative numbers of a population
+hypo: crescimento_demográfico
+sa: @en:noun.process:irruption
+
+w: @en_isoagglutination
+d: @en_agglutination of an agglutinogen of one individual by a serum from another individual of the same species
+hypo: @en_agglutination
+sa: @en:noun.process:isoagglutination
+
+w: @en_isolation
+d: @en_(psychiatry) a defense mechanism in which memory of an unacceptable act or impulse is separated from the emotion originally associated with it
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:isolation
+
+w: @en_iteration
+w: @en_looping
+d: @en_(computer science) executing the same set of instructions a given number of times or until a specified result is obtained
+hypo: noun.Tops:processos_físicos
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.process:iteration
+
+w: @en_juvenescence
+d: @en_the process of growing into a youth
+hypo: crescimento 2
+sa: @en:noun.process:juvenescence
+
+w: @en_karyokinesis
+d: @en_organic process consisting of the division of the nucleus of a cell during mitosis or meiosis
+hp: meiose
+hp: mitose
+hypo: processos_biológicos
+sa: @en:noun.process:karyokinesis
+
+w: @en_karyolysis
+d: @en_disintegration and dissolution of a cell nucleus when a cell dies
+hypo: lise
+sa: @en:noun.process:karyolysis
+
+w: @en_katamorphism
+d: @en_metamorphism that occurs at or near the earth's surface; breaks down complex minerals into simpler ones
+hypo: Metamorfismo
+sa: @en:noun.process:katamorphism
+
+w: @en_keratinisation
+w: @en_keratinization
+d: @en_organic process by which keratin is deposited in cells and the cells become horny (as in nails and hair)
+hypo: processos_biológicos
+sa: @en:noun.process:keratinisation
+
+w: @en_lactation
+d: @en_the production and secretion of milk by the mammary glands
+hypo: @en_activity
+sa: @en:noun.process:lactation
+
+w: @en_leak
+w: @en_making_water
+w: @en_passing_water
+w: @en_wetting
+d: @en_a euphemism for urination
+hypo: Micção
+mu: noun.communication:eufemismo
+sa: @en:noun.process:leak
+
+w: @en_leeway
+d: @en_(of a ship or plane) sideways drift
+hypo: desvio
+mt: noun.artifact:aeronaves 1
+mt: noun.artifact:barco 2
+sa: @en:noun.process:leeway
+
+w: @en_leptotene
+d: @en_the first stage of the prophase of meiosis
+hp: @en_prophase
+hypo: noun.time:fase 1
+mp: Synapsis
+sa: @en:noun.process:leptotene
+
+w: @en_light_reaction
+d: @en_the first stage of photosynthesis during which energy from light is used for the production of ATP
+hp: Fotossintese
+hypo: reacções_fotoquímicas
+sa: @en:noun.process:light_reaction
+
+w: @en_line_feed
+d: @en_the operation that prepares for the next character to be printed or displayed on the next line
+hypo: @en_printing_operation
+sa: @en:noun.process:line_feed
+
+w: @en_linguistic_process
+d: @en_a process involved in human language
+hyper: @en_deletion
+hyper: @en_dissimilation
+hyper: @en_drift
+hyper: @en_infection
+hyper: @en_metathesis 1
+hyper: aglutinação
+hyper: assimilação 2
+hyper: derivação
+hyper: fusão 2
+hyper: lexicalização
+hyper: sinérese
+hypo: @en_human_process
+mt: noun.cognition:Linguistica
+sa: @en:noun.process:linguistic_process
+
+w: @en_liquefaction
+d: @en_the conversion of a solid or a gas into a liquid
+hyper: @en_dissolution
+hypo: Mudanças_de_fase
+sa: @en:noun.process:liquefaction
+
+w: @en_list_processing
+d: @en_processing data that is given in the form of chained lists
+hypo: processamento_de_dados
+sa: @en:noun.process:list_processing
+
+w: @en_lithuresis
+d: @en_passing small stones with the urine
+hypo: Micção
+sa: @en:noun.process:lithuresis
+
+w: @en_logic_operation
+w: @en_logical_operation
+d: @en_an operation that follows the rules of symbolic logic
+hypo: operação 1
+mt: noun.cognition:lógica 1
+sa: @en:noun.process:logic_operation
+
+w: @en_lookup
+w: @en_search
+d: @en_an operation that determines whether one or more of a set of items has a specified property
+hypo: operação 1
+sa: @en:noun.process:lookup
+
+w: @en_loss
+d: @en_gradual decline in amount or activity
+hyper: @en_epilation
+hyper: @en_reducing
+hypo: declínio
+sa: @en:noun.process:loss
+
+w: @en_lymphopoiesis
+d: @en_the formation of lymphocytes in the bone marrow and lymph nodes and thymus and spleen
+hypo: processos_biológicos
+sa: @en:noun.process:lymphopoiesis
+
+w: @en_lysis
+d: @en_recuperation in which the symptoms of an acute disease gradually subside
+hypo: convalescência
+sa: @en:noun.process:lysis 1
+
+w: @en_lysogenisation
+w: @en_lysogenization
+d: @en_the process by which a bacterium acquires a phage that becomes integrated into its genome
+hypo: processos_biológicos
+sa: @en:noun.process:lysogenisation
+
+w: @en_magnetic_induction
+w: @en_magnetisation
+w: @en_magnetization
+d: @en_the process that makes a substance magnetic (temporarily or permanently)
+hypo: atividade
+sa: @en:noun.process:magnetic_induction
+
+w: @en_majority_operation
+d: @en_a threshold operation in which each operand is 0 or 1; output is 1 if and only if more than half the operands have the value 1
+hypo: @en_threshold_operation
+sa: @en:noun.process:majority_operation
+
+w: @en_malabsorption
+d: @en_abnormal absorption of nutrients from the digestive tract
+hypo: assimilação 1
+sa: @en:noun.process:malabsorption
+
+w: @en_market_forces
+d: @en_the interaction of supply and demand that shapes a market economy
+hypo: @en_economic_process
+sa: @en:noun.process:market_forces
+
+w: @en_materialisation
+w: @en_materialization
+d: @en_the process of coming into being; becoming reality
+hypo: atividade
+sa: @en:noun.process:materialisation
+
+w: @en_mellowing
+d: @en_the process of becoming mellow
+hypo: envelhecimento 1
+sa: @en:noun.process:mellowing
+
+w: @en_metaphase
+d: @en_the second stage of meiosis
+hp: meiose
+hypo: @en_phase_of_cell_division
+sa: @en:noun.process:metaphase 2
+
+w: @en_metathesis 1
+d: @en_a linguistic process of transposition of sounds or syllables within a word or words within a sentence
+hypo: @en_linguistic_process
+sa: @en:noun.process:metathesis 1
+
+w: @en_microphoning
+d: @en_the transduction of sound waves into electrical waves (by a microphone)
+hypo: @en_transduction 1
+sa: @en:noun.process:microphoning
+
+w: @en_mildew
+w: @en_mold
+w: @en_mould
+d: @en_the process of becoming mildewed
+hypo: @en_spoilage
+sa: @en:noun.process:mildew
+
+w: @en_monogenesis
+w: @en_sporulation
+d: @en_asexual reproduction by the production and release of spores
+hyper: @en_heterospory
+hyper: @en_homospory
+hypo: Reprodução_Assexuada
+sa: @en:noun.process:monogenesis
+
+w: @en_morphallaxis
+d: @en_regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters
+hypo: regeneração
+sa: @en:noun.process:morphallaxis
+
+w: @en_multiplex_operation
+d: @en_an operation in which two or more activities are interleaved
+hypo: operação 1
+sa: @en:noun.process:multiplex_operation
+
+w: @en_multiprocessing
+w: @en_parallel_processing
+d: @en_simultaneous processing by two or more processing units
+hypo: processamento_de_dados
+sa: @en:noun.process:multiprocessing
+
+w: @en_myelinisation
+w: @en_myelinization
+d: @en_the development of a myelin sheath around a nerve fiber
+hypo: crescimento 2
+sa: @en:noun.process:myelinisation
+
+w: @en_narrowing
+d: @en_a decrease in width
+hypo: abatimento
+sa: @en:noun.process:narrowing
+
+w: @en_natural_childbirth
+d: @en_labor and childbirth without medical intervention; no drugs are given to relieve pain or aid the birth process
+hyper: @en_Bradley_method
+hyper: @en_Lamaze_method
+hyper: @en_Leboyer_method
+hyper: @en_Read_method
+hypo: parto
+sa: @en:noun.process:natural_childbirth
+
+w: @en_necrolysis
+d: @en_disintegration and dissolution of dead tissue
+hypo: lise
+sa: @en:noun.process:necrolysis
+
+w: @en_negative_feedback
+d: @en_feedback in opposite phase with (decreasing) the input
+hypo: retorno
+sa: @en:noun.process:negative_feedback
+
+w: @en_neoplasia
+d: @en_the pathological process that results in the formation and growth of a tumor
+hypo: @en_pathologic_process
+sa: @en:noun.process:neoplasia
+
+w: @en_nitrification
+d: @en_the chemical process in which a nitro group is added to an organic compound (or substituted for another group in an organic compound)
+hypo: @en_chemical_action
+sa: @en:noun.process:nitrification 1
+
+w: @en_nocturia
+w: @en_nycturia
+d: @en_excessive urination at night; especially common in older men
+hypo: Micção
+sa: @en:noun.process:nocturia
+
+w: @en_nondevelopment
+d: @en_failure of normal development to occur
+hyper: @en_agenesia
+hypo: processos_biológicos
+sa: @en:noun.process:nondevelopment
+
+w: @en_nondisjunction
+d: @en_meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells
+hypo: meiose
+sa: @en:noun.process:nondisjunction
+
+w: @en_nosedive
+d: @en_a sudden sharp drop or rapid decline
+hypo: declínio
+sa: @en:noun.process:nosedive
+
+w: @en_oligomenorrhea
+d: @en_abnormally light or infrequent menstruation
+hypo: Menstruacao
+sa: @en:noun.process:oligomenorrhea
+
+w: @en_opacification
+d: @en_the process of becoming cloudy or opaque
+hypo: atividade
+sa: @en:noun.process:opacification
+
+w: @en_open-hearth_process
+d: @en_a process for making steel using an open-hearth furnace
+hypo: @en_steel_production
+sa: @en:noun.process:open-hearth_process
+
+w: @en_opsonisation
+w: @en_opsonization
+d: @en_process whereby opsonins make an invading microorganism more susceptible to phagocytosis
+hypo: @en_activity
+sa: @en:noun.process:opsonisation
+
+w: @en_organification
+d: @en_the process of organ formation
+hypo: processos_biológicos
+sa: @en:noun.process:organification
+
+w: @en_origin
+d: @en_the source of something's existence or from which it derives or is derived
+hypo: código-fonte
+sa: @en:noun.process:origin
+
+w: @en_ossification
+d: @en_the process of becoming rigidly fixed in a conventional pattern of thought or behavior
+hypo: @en_human_process
+sa: @en:noun.process:ossification 1
+
+w: @en_ossification 1
+d: @en_the developmental process of bone formation
+hypo: processos_biológicos
+sa: @en:noun.process:ossification
+
+w: @en_ossification 2
+d: @en_the calcification of soft tissue into a bonelike material
+hypo: calcificação
+sa: @en:noun.process:ossification 2
+
+w: @en_osteolysis
+d: @en_lysis of bone caused by disease or infection or inadequate blood supply
+hypo: lise
+sa: @en:noun.process:osteolysis
+
+w: @en_overcompensation
+d: @en_(psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite
+hypo: @en_compensation
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:overcompensation
+
+w: @en_overflow_incontinence
+d: @en_urinary incontinence that occurs when the bladder is so full that it continually leaks urine; often attributable to a blocked urethra (e.g., due to prostate enlargement) or weak bladder muscles or nerve damage
+hypo: Incontinência_Urinária
+sa: @en:noun.process:overflow_incontinence
+
+w: @en_pachytene
+d: @en_the third stage of the prophase of meiosis
+hp: @en_prophase
+hypo: noun.time:fase 1
+sa: @en:noun.process:pachytene
+
+w: @en_paper_chromatography
+d: @en_chromatography that uses selective adsorption on a strip of paper
+hypo: cromatografia
+sa: @en:noun.process:paper_chromatography
+
+w: @en_parallel_operation
+w: @en_simultaneous_operation
+d: @en_the simultaneous execution of two or more operations
+hypo: operação 1
+sa: @en:noun.process:parallel_operation
+
+w: @en_parthenogenesis
+w: @en_parthenogeny
+w: @en_virgin_birth
+d: @en_human conception without fertilization by a man
+hypo: Reprodução_Assexuada
+sa: @en:noun.process:parthenogenesis 1
+
+w: @en_passive_transport
+d: @en_transport of a substance across a cell membrane by diffusion; expenditure of energy is not required
+hypo: @en_transport
+sa: @en:noun.process:passive_transport
+
+w: @en_pathologic_process
+w: @en_pathological_process
+d: @en_an organic process occurring as a consequence of disease
+hyper: @en_feminisation
+hyper: @en_neoplasia
+hyper: infecção
+hyper: metástase
+hyper: patogênese
+hypo: processos_biológicos
+sa: @en:noun.process:pathologic_process
+
+w: @en_peace_process
+d: @en_any social process undertaken by governments who want their citizens to believe they are trying to avoid armed hostilities
+hypo: @en_social_process
+sa: @en:noun.process:peace_process
+
+w: @en_peptisation
+w: @en_peptization
+d: @en_the process of converting to a sol; bringing to a colloidal solution
+hypo: @en_chemical_action
+sa: @en:noun.process:peptisation
+
+w: @en_perennation
+d: @en_the process of living through a number of years (as a perennial plant)
+hypo: processos_biológicos
+mt: noun.Tops:flora
+sa: @en:noun.process:perennation
+
+w: @en_petrifaction
+w: @en_petrification
+d: @en_the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape
+hypo: @en_fossilisation
+sa: @en:noun.process:petrifaction
+
+w: @en_phase_of_cell_division
+d: @en_a stage in meiosis or mitosis
+hyper: @en_metaphase
+hyper: @en_prophase
+hyper: @en_telophase
+hyper: Anafase
+hyper: Metafase
+hyper: prófase
+hyper: telófase
+hypo: noun.time:fase 1
+sa: @en:noun.process:phase_of_cell_division
+
+w: @en_photoelectric_emission
+d: @en_the release or absorption of quanta above a certain energy level
+hypo: emissão
+sa: @en:noun.process:photoelectric_emission
+
+w: @en_photomechanics
+w: @en_photoplate_making
+d: @en_the process whereby printing surfaces (plates or cylinders) are produced by photographic methods
+hypo: fotografia
+sa: @en:noun.process:photomechanics
+
+w: @en_pigmentation
+d: @en_the deposition of pigment in animals or plants or human beings
+hypo: @en_deposit
+sa: @en:noun.process:pigmentation
+
+w: @en_placentation
+d: @en_the formation of the placenta in the uterus
+hypo: @en_activity
+sa: @en:noun.process:placentation
+
+w: @en_planation
+d: @en_the process of erosion whereby a level surface is produced
+hypo: erosão 1
+sa: @en:noun.process:planation
+
+w: @en_positive_feedback
+w: @en_regeneration
+d: @en_feedback in phase with (augmenting) the input
+hyper: círculo_vicioso
+hypo: retorno
+sa: @en:noun.process:positive_feedback
+
+w: @en_potentiation
+d: @en_(medicine) the synergistic effect of two drugs given simultaneously
+hypo: sinergia
+mt: noun.cognition:@en_medical_specialty
+sa: @en:noun.process:potentiation
+
+w: @en_powder_method
+w: @en_powder_photography
+w: @en_powder_technique
+d: @en_a process for identifying minerals or crystals; a small rod is coated with a powdered form of the substance and subjected to suitably modified X-rays; the pattern of diffracted rings is used for identification
+hypo: fotografia
+sa: @en:noun.process:powder_method
+
+w: @en_precession_of_the_equinoxes
+d: @en_a slow westward shift of the equinoxes along the plane of the ecliptic caused by precession of the Earth's axis of rotation
+hypo: atividade
+sa: @en:noun.process:precession_of_the_equinoxes
+
+w: @en_prechlorination
+d: @en_chlorination prior to another chemical process
+hypo: cloragem
+sa: @en:noun.process:prechlorination
+
+w: @en_precocious_dentition
+d: @en_teething at an earlier age than expected
+hypo: @en_dentition
+sa: @en:noun.process:precocious_dentition
+
+w: @en_preservation
+d: @en_a process that saves organic substances from decay
+hyper: noun.act:@en_embalmment
+hyper: noun.act:fixação
+hyper: arrefecimento
+hyper: plastinação
+hypo: processos_biológicos
+sa: @en:noun.process:preservation
+
+w: @en_printing_operation
+d: @en_an operation that controls the printing or display of information
+hyper: @en_line_feed
+hyper: carriage_return
+hyper: mudança_de_linha
+hypo: operação 1
+sa: @en:noun.process:printing_operation
+
+w: @en_priority_processing
+d: @en_data processing in which the operations performed are determined by a system of priorities
+hyper: @en_background_processing
+hyper: @en_foreground_processing
+hypo: processamento_de_dados
+sa: @en:noun.process:priority_processing
+
+w: @en_professionalisation
+w: @en_professionalization
+d: @en_the social process whereby people come to engage in an activity for pay or as a means of livelihood
+hypo: @en_social_process
+sa: @en:noun.process:professionalisation
+
+w: @en_projection
+d: @en_(psychiatry) a defense mechanism by which your own traits and emotions are attributed to someone else
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:projection
+
+w: @en_prophase
+d: @en_the first stage of meiosis
+hp: meiose
+hypo: @en_phase_of_cell_division
+mp: @en_diakinesis
+mp: @en_diplotene
+mp: @en_leptotene
+mp: @en_pachytene
+mp: @en_synezesis
+mp: @en_zygotene
+sa: @en:noun.process:prophase 2
+
+w: @en_proteolysis
+d: @en_the hydrolysis of proteins into peptides and amino acids by cleavage of their peptide bonds
+hypo: @en_chemical_action
+sa: @en:noun.process:proteolysis
+
+w: @en_psilosis
+d: @en_falling out of hair
+hypo: @en_activity
+hypo: @en_epilation
+sa: @en:noun.process:psilosis
+
+w: @en_psychoanalytic_process
+d: @en_a process that is assumed to occur in psychoanalytic theory
+hyper: Ajustamentos
+hypo: @en_human_process
+sa: @en:noun.process:psychoanalytic_process
+
+w: @en_psychogenesis
+d: @en_the development in the life of an individual of some disorder that is caused by psychological rather than physiological factors
+hypo: crescimento 2
+sa: @en:noun.process:psychogenesis 1
+
+w: @en_psychogenesis 1
+d: @en_a general term for the origin and development of almost any aspect of the mind
+hypo: crescimento 2
+sa: @en:noun.process:psychogenesis
+
+w: @en_psychomotor_development
+d: @en_progressive acquisition of skills involving both mental and motor activities
+hypo: crescimento 2
+sa: @en:noun.process:psychomotor_development
+
+w: @en_ptyalism
+d: @en_excessive flow of saliva
+hypo: salivação
+sa: @en:noun.process:ptyalism
+
+w: @en_pullulation 1
+d: @en_a rapid and abundant increase
+hypo: acréscimo
+sa: @en:noun.process:pullulation
+
+w: @en_pyrochemical_process
+w: @en_pyrochemistry
+d: @en_processes for chemical reactions at high temperatures
+hypo: @en_chemical_action
+sa: @en:noun.process:pyrochemical_process
+
+w: @en_quadrupling
+d: @en_increase by a factor of four
+hypo: multiplicação
+sa: @en:noun.process:quadrupling
+
+w: @en_quellung
+w: @en_quellung_reaction
+d: @en_the swelling of the capsule surrounding a microorganism after reaction with an antibody; the basis of certain tests for identifying microorganisms
+hypo: processos_biológicos
+sa: @en:noun.process:quellung
+
+w: @en_quickening
+d: @en_the process of showing signs of life
+hypo: processos_biológicos
+sa: @en:noun.process:quickening
+
+w: @en_quintupling
+d: @en_increasing by a factor of five
+hypo: multiplicação
+sa: @en:noun.process:quintupling
+
+w: @en_radiant_heating
+d: @en_heating a building by radiation from panels containing hot water or electrical heaters
+hypo: aquecimento
+sa: @en:noun.process:radiant_heating
+
+w: @en_radiography
+w: @en_skiagraphy
+d: @en_the process of making a radiograph; producing an image on a radiosensitive surface by radiation other than visible light
+hyper: @en_autoradiography
+hypo: fotografia
+sa: @en:noun.process:radiography
+
+w: @en_rain-wash
+d: @en_the washing away of soil or other loose material by rain
+hypo: @en_wash
+sa: @en:noun.process:rain-wash
+
+w: @en_rally
+d: @en_a marked recovery of strength or spirits during an illness
+hypo: convalescência
+sa: @en:noun.process:rally
+
+w: @en_rationalisation
+w: @en_rationalization
+d: @en_(psychiatry) a defense mechanism by which your true motivation is concealed by explaining your actions and feelings in a way that is not threatening
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:rationalisation
+
+w: @en_reaction_formation
+d: @en_(psychiatry) a defense mechanism in which a person unconsciously develops attitudes and behavior that are the opposite of unacceptable repressed desires and impulses and serve to conceal them
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:reaction_formation
+
+w: @en_real-time_operation
+w: @en_real-time_processing
+d: @en_data processing fast enough to keep up with an outside process
+hypo: processamento_de_dados
+sa: @en:noun.process:real-time_operation
+
+w: @en_rectification
+d: @en_(chemistry) the process of refinement or purification of a substance by distillation
+hypo: refinação
+mt: noun.cognition:Quimica
+sa: @en:noun.process:rectification
+
+w: @en_redeposition
+d: @en_deposition from one deposit to another
+hypo: @en_deposit
+sa: @en:noun.process:redeposition
+
+w: @en_reducing
+d: @en_loss of excess weight (as by dieting); becoming slimmer
+hypo: @en_loss
+sa: @en:noun.process:reducing 1
+
+w: @en_reflation
+d: @en_inflation of currency after a period of deflation; restore the system to a previous state
+hypo: inflação
+sa: @en:noun.process:reflation
+
+w: @en_regulation
+d: @en_(embryology) the ability of an early embryo to continue normal development after its structure has been somehow damaged or altered
+hypo: processos_biológicos
+mt: noun.cognition:Embriologia
+sa: @en:noun.process:regulation
+
+w: @en_relaxation
+w: @en_relaxation_behavior
+d: @en_(physics) the exponential return of a system to equilibrium after a disturbance
+hypo: decaimento_exponencial
+mt: noun.cognition:Fisica
+sa: @en:noun.process:relaxation
+
+w: @en_relaxation 1
+d: @en_(physiology) the gradual lengthening of inactive muscle or muscle fibers
+hypo: acréscimo
+mt: noun.cognition:Fisiologia
+sa: @en:noun.process:relaxation 1
+
+w: @en_release
+d: @en_a process that liberates or discharges something
+hyper: emissão
+hypo: atividade
+sa: @en:noun.process:release
+
+w: @en_replication
+d: @en_(genetics) the process whereby DNA makes a copy of itself before cell division
+hypo: processos_biológicos
+mt: noun.cognition:Genetica
+sa: @en:noun.process:replication
+
+w: @en_reticulation
+d: @en_(photography) the formation of a network of cracks or wrinkles in a photographic emulsion
+hypo: formação
+mt: noun.act:fotografia 1
+sa: @en:noun.process:reticulation
+
+w: @en_retrieval
+d: @en_(computer science) the operation of accessing information from the computer's memory
+hyper: @en_stovepiping
+hypo: operação_informática
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.process:retrieval
+
+w: @en_rigidification
+w: @en_rigidifying
+w: @en_stiffening
+d: @en_the process of becoming stiff or rigid
+hyper: Rigor_Mortis
+hypo: atividade
+sa: @en:noun.process:rigidification
+
+w: @en_rooting
+d: @en_the process of putting forth roots and beginning to grow
+hypo: crescimento 2
+sa: @en:noun.process:rooting
+
+w: @en_saltation
+d: @en_(geology) the leaping movement of sand or soil particles as they are transported in a fluid medium over an uneven surface
+hypo: atividade
+mt: noun.cognition:geologia
+sa: @en:noun.process:saltation
+
+w: @en_scanning
+d: @en_the process of translating photographs into a digital form that can be recognized by a computer
+hypo: fotografia
+sa: @en:noun.process:scanning
+
+w: @en_schizogony
+d: @en_asexual reproduction by multiple fission; characteristic of many sporozoan protozoans
+hypo: @en_fission
+sa: @en:noun.process:schizogony
+
+w: @en_secondary_emission
+d: @en_the emission of electrons from a surface that is bombarded by higher energy primary electrons
+hypo: emissão
+sa: @en:noun.process:secondary_emission
+
+w: @en_segregation
+d: @en_(genetics) the separation of paired alleles during meiosis so that members of each pair of alleles appear in different gametes
+hp: meiose
+hypo: processos_biológicos
+mt: noun.cognition:Genetica
+sa: @en:noun.process:segregation
+
+w: @en_sensitisation
+w: @en_sensitization
+d: @en_(psychology) the process of becoming highly sensitive to specific events or situations (especially emotional events or situations)
+hypo: noun.Tops:processos_físicos
+mt: noun.cognition:Psicólogos_por_nacionalidade
+sa: @en:noun.process:sensitisation
+
+w: @en_sequestration
+d: @en_the action of forming a chelate or other stable compound with an ion or atom or molecule so that it is no longer available for reactions
+hypo: @en_chemical_action
+sa: @en:noun.process:sequestration
+
+w: @en_serial_processing
+d: @en_sequential processing by two or more processing units
+hypo: processamento_de_dados
+sa: @en:noun.process:serial_processing
+
+w: @en_sericulture
+d: @en_raising silkworms in order to obtain raw silk
+hypo: atividade
+sa: @en:noun.process:sericulture
+
+w: @en_shedding
+w: @en_sloughing
+d: @en_the process whereby something is shed
+hyper: Abscisão
+hyper: muda
+hypo: processos_biológicos
+sa: @en:noun.process:shedding
+
+w: @en_sink
+d: @en_(technology) a process that acts to absorb or remove energy or a substance from a system
+hyper: noun.artifact:@en_heat_sink
+hypo: atividade
+mt: noun.cognition:Ciências_aplicadas
+sa: @en:noun.process:sink
+
+w: @en_sinking_spell
+d: @en_a temporary decline in health or value
+hypo: declínio
+sa: @en:noun.process:sinking_spell
+
+w: @en_slippage
+d: @en_decline from a standard level of performance or achievement
+hypo: declínio
+sa: @en:noun.process:slippage 1
+
+w: @en_slippage 1
+d: @en_a decrease of transmitted power in a mechanical system caused by slipping
+hypo: abatimento
+sa: @en:noun.process:slippage
+
+w: @en_social_process
+d: @en_a process involved in the formation of groups of persons
+hyper: @en_Nazification
+hyper: @en_Stalinisation
+hyper: @en_decentalisation
+hyper: @en_peace_process
+hyper: @en_professionalisation
+hyper: Civilização
+hyper: Desnazificação
+hyper: Marginalização
+hyper: assimilação
+hyper: desestalinização
+hyper: urbanização
+hypo: @en_human_process
+sa: @en:noun.process:social_process
+
+w: @en_souring
+d: @en_the process of becoming sour
+hypo: @en_spoilage
+sa: @en:noun.process:souring
+
+w: @en_spiral
+d: @en_a continuously accelerating change in the economy
+hyper: @en_deflationary_spiral
+hyper: @en_inflationary_spiral
+hypo: @en_economic_process
+sa: @en:noun.process:spiral
+
+w: @en_spoilage
+w: @en_spoiling
+d: @en_the process of becoming spoiled
+hyper: @en_mildew
+hyper: @en_souring
+hypo: apodrecimento
+sa: @en:noun.process:spoilage
+
+w: @en_stationary_stochastic_process
+d: @en_a stochastic process in which the distribution of the random variables is the same for any value of the variable parameter
+hypo: Processos_estocásticos
+sa: @en:noun.process:stationary_stochastic_process
+
+w: @en_steel_production
+d: @en_making steel from pig iron
+hyper: @en_open-hearth_process
+hyper: Processo_de_bessemer
+hypo: noun.act:actividades_de_produção
+sa: @en:noun.process:steel_production
+
+w: @en_stimulation
+d: @en_(physiology) the effect of a stimulus (on nerves or organs etc.)
+hyper: @en_activation
+hyper: galvanização
+hypo: atividade
+mt: noun.cognition:Fisiologia
+sa: @en:noun.process:stimulation
+
+w: @en_stovepiping
+d: @en_retrieval of information from unconnected databases; the situation that exists when it is necessary to climb out of one database in order to climb down into another; sometimes used for protection against wandering hackers
+hypo: @en_retrieval
+sa: @en:noun.process:stovepiping
+
+w: @en_stress_incontinence
+d: @en_urinary incontinence that occurs when involuntary pressure is put on the bladder by coughing or laughing or sneezing or lifting or straining
+hypo: Incontinência_Urinária
+sa: @en:noun.process:stress_incontinence
+
+w: @en_superposition
+d: @en_(geology) the deposition of one geological stratum on another
+hypo: @en_deposit
+mt: noun.cognition:geologia
+sa: @en:noun.process:superposition
+
+w: @en_suppression
+d: @en_the failure to develop some part or organ
+hypo: crescimento 2
+sa: @en:noun.process:suppression
+
+w: @en_symphysis
+d: @en_a growing together of parts or structures
+hypo: processos_biológicos
+sa: @en:noun.process:symphysis
+
+w: @en_synaeresis
+w: @en_syneresis
+d: @en_the separation of liquid from a gel that is caused by contraction (as in cheese making)
+hypo: @en_chemical_action
+sa: @en:noun.process:synaeresis
+
+w: @en_synchronous_operation
+d: @en_operations that are initiated predictably by a clock
+hypo: operação 1
+sa: @en:noun.process:synchronous_operation
+
+w: @en_synezesis
+w: @en_synizesis
+d: @en_the contraction of chromatin towards one side of the nucleus during the prophase of meiosis
+hp: @en_prophase
+hypo: processos_biológicos
+sa: @en:noun.process:synezesis
+
+w: @en_tanning
+d: @en_process in which skin pigmentation darkens as a result of exposure to ultraviolet light
+hypo: @en_activity
+sa: @en:noun.process:tanning
+
+w: @en_telophase
+d: @en_the final stage of meiosis when the chromosomes move toward opposite ends of the nuclear spindle
+hp: meiose
+hypo: @en_phase_of_cell_division
+sa: @en:noun.process:telophase 2
+
+w: @en_temperature_change
+d: @en_a process whereby the degree of hotness of a body (or medium) changes
+hyper: @en_chilling
+hyper: Mudanças_climáticas
+hyper: advecção
+hyper: aquecimento
+hyper: convecção
+hypo: atividade
+sa: @en:noun.process:temperature_change
+
+w: @en_thermocoagulation
+d: @en_congealing tissue by heat (as by electric current)
+hypo: coagulação
+sa: @en:noun.process:thermocoagulation
+
+w: @en_thermonuclear_reaction
+d: @en_a nuclear fusion reaction taking place at very high temperatures (as in the sun)
+hyper: ciclo_do_carbono
+hypo: Fusão_nuclear
+sa: @en:noun.process:thermonuclear_reaction
+
+w: @en_threshold_operation
+d: @en_an operation performed on operands in order to obtain the value of a threshold function
+hyper: @en_majority_operation
+hypo: operação 1
+sa: @en:noun.process:threshold_operation
+
+w: @en_top_fermentation
+d: @en_a violent kind of alcoholic fermentation at a temperature high enough to carry the yeast cells to the top of the fermenting liquid; used in the production of ale
+hypo: Fermentacao
+sa: @en:noun.process:top_fermentation
+
+w: @en_transamination
+d: @en_the process of transfering an amino group from one compound to another
+hypo: @en_chemical_action
+sa: @en:noun.process:transamination
+
+w: @en_transamination 1
+d: @en_the process of transposing an amino group within a chemical compound
+hypo: @en_chemical_action
+sa: @en:noun.process:transamination 1
+
+w: @en_transduction
+d: @en_(genetics) the process of transfering genetic material from one cell to another by a plasmid or bacteriophage
+hypo: processos_biológicos
+mt: noun.cognition:Genetica
+sa: @en:noun.process:transduction 1
+
+w: @en_transduction 1
+d: @en_the process whereby a transducer accepts energy in one form and gives back related energy in a different form
+hyper: @en_microphoning
+hypo: atividade
+sa: @en:noun.process:transduction
+
+w: @en_translocation
+d: @en_(genetics) an exchange of chromosome parts
+hypo: processos_biológicos
+mt: noun.cognition:Genetica
+sa: @en:noun.process:translocation
+
+w: @en_translocation 1
+d: @en_the transport of dissolved material within a plant
+hypo: processos_biológicos
+sa: @en:noun.process:translocation 1
+
+w: @en_transpiration
+d: @en_the process of giving off or exhaling water vapor through the skin or mucous membranes
+hypo: @en_activity
+sa: @en:noun.process:transpiration 2
+
+w: @en_transport
+d: @en_an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes
+hyper: @en_active_transport
+hyper: @en_passive_transport
+hypo: difusão
+sa: @en:noun.process:transport
+
+w: @en_tripling
+d: @en_increase by a factor of three
+hypo: multiplicação
+sa: @en:noun.process:tripling
+
+w: @en_ultracentrifugation
+d: @en_centrifugation at very high speeds
+hypo: centrifugação
+sa: @en:noun.process:ultracentrifugation
+
+w: @en_uptake
+d: @en_a process of taking up or using up or consuming
+hyper: Recaptação_neuronal
+hypo: @en_human_process
+sa: @en:noun.process:uptake
+
+w: @en_urge_incontinence
+d: @en_urinary incontinence that is generally attributable to involuntary contracts of the bladder muscle resulting in an urgent need to urinate accompanied by a sudden loss of urine; most common in people over 60 years of age
+hypo: Incontinência_Urinária
+sa: @en:noun.process:urge_incontinence
+
+w: @en_urochesia
+w: @en_urochezia
+d: @en_passage of urine from the anus
+hypo: defecação
+sa: @en:noun.process:urochesia
+
+w: @en_variation
+d: @en_the process of varying or being varied
+hyper: noun.cognition:@en_covariation
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:variation
+
+w: @en_vascularisation
+w: @en_vascularization
+d: @en_the organic process whereby body tissue becomes vascular and develops capillaries
+hypo: processos_biológicos
+sa: @en:noun.process:vascularisation
+
+w: @en_video_digitizing
+d: @en_the process of capturing and converting and storing video images for use by a computer
+hyper: @en_dithering
+hypo: fotografia
+sa: @en:noun.process:video_digitizing
+
+w: @en_vinification
+d: @en_the process whereby fermentation changes grape juice into wine
+hypo: Fermentacao
+sa: @en:noun.process:vinification
+
+w: @en_vitrification
+d: @en_the process of becoming vitreous
+hypo: atividade
+sa: @en:noun.process:vitrification
+
+w: @en_wash
+w: @en_washout
+d: @en_the erosive process of washing away soil or gravel by water (as from a roadway)
+hyper: @en_rain-wash
+hypo: erosão_do_solo
+sa: @en:noun.process:wash
+
+w: @en_zygotene
+d: @en_the second stage of the prophase of meiosis
+hp: @en_prophase
+hypo: noun.time:fase 1
+sa: @en:noun.process:zygotene
+
+w: @en_zymosis
+d: @en_(medicine) the development and spread of an infectious disease (especially one caused by a fungus)
+hyper: noun.state:Micoses
+hypo: infecção
+mt: noun.cognition:@en_medical_specialty
+sa: @en:noun.process:zymosis
+
+w: Ablação
+d: @en_the erosive process that reduces the size of glaciers
+hypo: erosão 1
+sa: @en:noun.process:ablation
+
+w: Abscisão
+d: @en_shedding of flowers and leaves and fruit following formation of scar tissue in a plant
+hypo: @en_shedding
+sa: @en:noun.process:abscission
+
+w: Absorção
+w: absorção
+d: @en_(physics) the process in which incident radiated energy is retained without reflection or transmission on passing through a medium
+hp: extinção
+hypo: atividade
+mt: noun.cognition:Fisica
+sa: @en:noun.process:absorption 2
+
+w: Aeração
+w: arejamento
+d: @en_the process of exposing to air (so as to purify)
+hypo: atividade
+sa: @en:noun.process:aeration
+
+w: Ajustamentos
+d: @en_(psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires
+hyper: @en_compensation
+hyper: @en_conversion
+hyper: @en_displacement
+hyper: @en_idealisation
+hyper: @en_intellectualisation
+hyper: @en_isolation
+hyper: @en_projection
+hyper: @en_rationalisation
+hyper: @en_reaction_formation
+hyper: negação
+hyper: regressão
+hyper: repressão
+hypo: noun.cognition:@en_process 1
+hypo: @en_psychoanalytic_process
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:defence
+
+w: Anafase
+w: Anáfase
+d: @en_the stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle
+hp: meiose
+hypo: @en_phase_of_cell_division
+sa: @en:noun.process:anaphase
+
+w: Angiogenese
+w: Angiogénese
+w: angiogênese
+d: @en_the formation of new blood vessels
+hypo: crescimento 2
+sa: @en:noun.process:angiogenesis
+
+w: Aquecimento_Global
+w: aquecimento_global
+d: @en_an increase in the average temperature of the earth's atmosphere (especially a sustained increase that causes climatic changes)
+hypo: aquecimento
+sa: @en:noun.process:global_warming
+
+w: Cadeias_de_markov
+w: cadeia_de_Markov
+w: cadeias_de_Markov
+d: @en_a Markov process for which the parameter is discrete time values
+hypo: @en_Markoff_process
+sa: @en:noun.process:Markoff_chain
+
+w: Calcinação
+w: calcinação
+d: @en_the conversion of metals into their oxides as a result of heating to a high temperature
+hypo: oxidação 1
+sa: @en:noun.process:calcination
+
+w: Catabolismo
+w: catabolismo
+d: @en_breakdown in living organisms of more complex substances into simpler ones together with release of energy
+hp: Metabolismo
+hypo: processos_biológicos
+sa: @en:noun.process:catabolism
+
+w: Civilização
+w: Civilizações
+w: civilização
+d: @en_the social process whereby societies achieve an advanced stage of development and organization
+hypo: @en_social_process
+sa: @en:noun.process:civilisation
+
+w: Crescimento_economico
+w: Crescimento_económico
+w: crescimento_económico
+w: crescimento_econômico
+d: @en_steady growth in the productive capacity of the economy (and so a growth of national income)
+hypo: @en_economic_process
+sa: @en:noun.process:economic_growth
+
+w: Decocção
+w: decocção
+d: @en_(pharmacology) the extraction of water-soluble drug substances by boiling
+hypo: extracção
+mt: noun.cognition:Farmacologia
+sa: @en:noun.process:decoction
+
+w: Deflagração
+d: @en_combustion that propagates through a gas or along the surface of an explosive at a rapid rate driven by the transfer of heat
+hypo: combustão
+sa: @en:noun.process:deflagration
+
+w: Descar-boxilação
+w: descarboxilação
+d: @en_the process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen)
+hypo: @en_chemical_action
+sa: @en:noun.process:decarboxylation
+
+w: Desenvolvimento_psicossexual
+d: @en_(psychoanalysis) the process during which personality and sexual behavior mature through a series of stages: first oral stage and then anal stage and then phallic stage and then latency stage and finally genital stage
+hypo: crescimento 2
+mt: noun.act:psicanálise
+sa: @en:noun.process:psychosexual_development
+
+w: Desertificação
+w: desertificação
+d: @en_the gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land
+hypo: @en_geologic_process
+sa: @en:noun.process:desertification
+
+w: Desintegração_radioativa
+w: Radioatividade
+w: radioactividade
+d: @en_the spontaneous disintegration of a radioactive substance along with the emission of ionizing radiation
+hyper: Emissão_alfa
+hyper: Emissão_beta
+hypo: reacção_nuclear
+sa: @en:noun.process:decay 3
+
+w: Desnazificação
+d: @en_social process of removing Nazis from official positions and giving up any allegiance to Nazism
+hypo: @en_social_process
+sa: @en:noun.process:de-Nazification
+
+w: Destilação_Fracionada
+w: destilação_fracionada
+d: @en_fractionation of a liquid by distillation
+hypo: @en_fractional_process
+sa: @en:noun.process:fractional_distillation
+
+w: Dispersão
+d: @en_the physical process in which particles are deflected haphazardly as a result of collisions
+hp: extinção
+hypo: atividade
+sa: @en:noun.process:scattering
+
+w: Dissociação_Química
+w: Dissociação_química
+w: dissociação
+d: @en_(chemistry) the temporary or reversible process in which a molecule or ion is broken down into smaller molecules or ions
+hypo: @en_chemical_action
+mt: noun.cognition:Quimica
+sa: @en:noun.process:dissociation
+
+w: Divisão_celular
+d: @en_the process in reproduction and growth by which a cell divides to form daughter cells
+hyper: @en_amitosis
+hyper: meiose
+hyper: mitose
+hyper: segmentação
+hypo: processos_biológicos
+sa: @en:noun.process:cell_division
+
+w: Efeito_Termiônico
+w: efeito_termiônico
+d: @en_the emission of electrons from very hot substances
+hypo: emissão
+sa: @en:noun.process:thermal_emission
+
+w: Eletroforese
+d: @en_the motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode
+hyper: @en_carrier_electrophoresis
+hyper: @en_immunoelectrophoresis
+hypo: atividade
+sa: @en:noun.process:cataphoresis
+
+w: Eletrólise
+w: electrólise
+w: eletrólise
+d: @en_(chemistry) a chemical decomposition reaction produced by passing an electric current through a solution containing ions
+hypo: @en_chemical_decomposition_reaction
+mt: noun.cognition:Quimica
+sa: @en:noun.process:electrolysis
+
+w: Elipse
+w: elipse
+d: @en_omission or suppression of parts of words or sentences
+hypo: @en_deletion
+sa: @en:noun.process:eclipsis
+
+w: Emissão_alfa
+d: @en_radioactive decay of an atomic nucleus that is accompanied by the emission of an alpha particle
+hypo: Desintegração_radioativa
+sa: @en:noun.process:alpha_decay
+
+w: Emissão_beta
+d: @en_radioactive decay of an atomic nucleus that is accompanied by the emission of a beta particle
+hypo: Desintegração_radioativa
+sa: @en:noun.process:beta_decay
+
+w: Enovelamento_de_proteínas
+d: @en_the process whereby a protein molecule assumes its intricate three-dimensional shape
+hypo: processos_biológicos
+sa: @en:noun.process:folding
+
+w: Envelhecimento
+w: envelhecimento
+d: @en_the organic process of growing older and showing the effects of increasing age
+hyper: @en_catabiosis
+hypo: processos_biológicos
+sa: @en:noun.process:ageing
+
+w: Equilibrio_quimico
+w: Equilíbrio_Químico
+w: equilíbrio
+w: equilíbrio_químico
+d: @en_a chemical reaction and its reverse proceed at equal rates
+hyper: @en_acid-base_balance
+hypo: Reação_Química
+sa: @en:noun.process:chemical_equilibrium
+
+w: Especiação
+w: especiação
+d: @en_the evolution of a biological species
+hypo: Evolução
+sa: @en:noun.process:speciation
+
+w: Espermatogenese
+w: Espermatogénese
+w: Espermatogênese
+d: @en_development of spermatozoa
+hypo: Gametogénese
+sa: @en:noun.process:spermatogenesis
+
+w: Estagflação
+d: @en_a period of slow economic growth and high unemployment (stagnation) while prices rise (inflation)
+hypo: inflação
+sa: @en:noun.process:stagflation
+
+w: Eutrofizacao
+w: Eutrófico
+w: eutrofização
+d: @en_excessive nutrients in a lake or other body of water, usually caused by runoff of nutrients (animal waste, fertilizers, sewage) from the land, which causes a dense growth of plant life; the decomposition of the plants depletes the supply of oxygen, leading to the death of animal life
+hypo: processos_biológicos
+sa: @en:noun.process:eutrophication
+
+w: Evolução
+w: evolução
+w: evolução_das_espécies
+w: filogenia
+w: filogênese
+d: @en_(biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms
+dt: noun.act:@en_Scopes_trial
+hyper: @en_anamorphism
+hyper: @en_anthropogenesis
+hyper: @en_emergent_evolution
+hyper: Especiação
+hyper: macroevolução
+hyper: microevolução
+hypo: processos_biológicos
+mt: noun.cognition:biologia
+sa: @en:noun.process:evolution
+
+w: Excreção
+w: evacuação
+w: excreção
+d: @en_the bodily process of discharging waste matter
+hyper: Micção
+hyper: defecação
+hyper: incontinência
+hypo: expulsão
+sa: @en:noun.process:elimination
+
+w: Fermentacao
+w: fermentação
+d: @en_a process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol
+hyper: @en_bottom_fermentation
+hyper: @en_top_fermentation
+hyper: @en_vinification
+hypo: @en_chemical_action
+sa: @en:noun.process:ferment
+
+w: Fixação_de_nitrogénio
+w: Fixação_de_nitrogênio
+w: fixação_de_azoto
+d: @en_the assimilation of atmospheric nitrogen by soil bacteria and its release for plant use on the death of the bacteria
+hypo: processos_biológicos
+sa: @en:noun.process:nitrogen_fixation
+
+w: Fotografia_digital
+w: fotografia_digital
+d: @en_a photographic method that stores the image digitally for later reproduction
+hypo: fotografia
+sa: @en:noun.process:digital_photography
+
+w: Fotossintese
+w: Fotossíntese
+w: fotossíntese
+d: @en_synthesis of compounds with the aid of radiant energy (especially in plants)
+hypo: @en_chemical_action
+mp: @en_light_reaction
+mt: noun.Tops:flora
+sa: @en:noun.process:photosynthesis
+
+w: Fusão_nuclear
+w: fusão
+w: fusão_do_núcleo
+w: fusão_nuclear
+d: @en_a nuclear reaction in which nuclei combine to form more massive nuclei with the simultaneous release of energy
+hyper: @en_thermonuclear_reaction
+hyper: fusão_a_frio
+hypo: reacção_nuclear
+sa: @en:noun.process:fusion
+
+w: Gametogénese
+w: Gametogênese
+d: @en_the development and maturation of sex cells through meiosis
+hyper: Espermatogenese
+hyper: ovulogênese
+hypo: crescimento 2
+sa: @en:noun.process:gametogenesis
+
+w: Gasificação
+w: gaseificação
+d: @en_the process of changing into gas
+hypo: @en_chemical_action
+sa: @en:noun.process:gasification
+
+w: Gemulação
+d: @en_reproduction of some unicellular organisms (such as yeasts) by growth and specialization followed by the separation by constriction of a part of the parent
+hypo: Reprodução_Assexuada
+sa: @en:noun.process:budding
+
+w: Globalizacão
+w: Globalizaçao
+w: Globalização
+w: globalização
+d: @en_growth to a global or worldwide scale
+hypo: @en_economic_process
+sa: @en:noun.process:globalisation
+
+w: Hematoquezia
+d: @en_passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer)
+hypo: defecação
+sa: @en:noun.process:haematochezia
+
+w: Incontinência_Urinária
+w: enurese
+w: enuresia
+w: incontinência_urinária
+d: @en_inability to control the flow of urine and involuntary urination
+hyper: @en_overflow_incontinence
+hyper: @en_stress_incontinence
+hyper: @en_urge_incontinence
+hyper: enurese 1
+hypo: incontinência
+sa: @en:noun.process:enuresis
+
+w: Infusão
+d: @en_the process of extracting certain active properties (as a drug from a plant) by steeping or soaking (usually in water)
+hypo: extracção
+sa: @en:noun.process:infusion
+
+w: Libração
+d: @en_(astronomy) a real or apparent slow oscillation of a moon or satellite
+hypo: noun.phenomenon:@en_variation
+hypo: oscilação
+mt: noun.cognition:Astronomia
+sa: @en:noun.process:libration
+
+w: Marginalização
+w: marginalização
+d: @en_the social process of becoming or being made marginal (especially as a group within the larger society)
+hypo: @en_social_process
+sa: @en:noun.process:marginalisation
+
+w: Menorragia
+d: @en_abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged
+hypo: Menstruacao
+hypo: noun.state:sintoma
+sa: @en:noun.process:hypermenorrhea
+
+w: Menstruacao
+w: Menstruação
+w: menstruação
+w: regras
+d: @en_the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause
+hyper: @en_oligomenorrhea
+hyper: Menorragia
+hypo: expulsão
+sa: @en:noun.process:catamenia
+
+w: Metabolismo
+w: metabolismo
+d: @en_the organic processes (in a cell or organism) that are necessary for life
+hyper: noun.act:respiração 3
+hyper: @en_basal_metabolism
+hyper: @en_fat_metabolism
+hyper: glicólise
+hypo: processos_biológicos
+mp: Catabolismo
+mp: anabolismo
+mp: ciclo_de_Krebs
+mt: noun.Tops:criatura 1
+sa: @en:noun.process:metabolic_process
+
+w: Metabolismo_basal
+d: @en_the rate at which heat is produced by an individual in a resting state
+hypo: noun.time:@en_metabolic_rate
+sa: @en:noun.process:BMR
+
+w: Metafase
+w: Metáfase
+d: @en_the second stage of mitosis
+hp: mitose
+hypo: @en_phase_of_cell_division
+sa: @en:noun.process:metaphase 1
+
+w: Metamorfismo
+d: @en_change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances
+hyper: @en_anamorphism 1
+hyper: @en_epigenesis
+hyper: @en_katamorphism
+hypo: @en_geologic_process
+sa: @en:noun.process:metamorphism
+
+w: Micção
+w: micção
+w: urina
+d: @en_the discharge of urine
+hyper: @en_leak
+hyper: @en_lithuresis
+hyper: @en_nocturia
+hyper: mijo
+hyper: oligúria
+hypo: Excreção
+sa: @en:noun.process:micturition
+
+w: Morfogénese
+w: Morfogênese
+d: @en_differentiation and growth of the structure of an organism (or a part of an organism)
+hypo: crescimento 2
+mt: noun.Tops:criatura 1
+sa: @en:noun.process:morphogenesis
+
+w: Mudanças_climáticas
+w: mudança_do_clima
+w: variação_climática
+d: @en_a change in the world's climate
+hypo: @en_temperature_change
+sa: @en:noun.process:climate_change
+
+w: Mudanças_de_fase
+w: transição_de_fase
+d: @en_a change from one state (solid or liquid or gas) to another without a change in chemical composition
+hyper: @en_freeze
+hyper: @en_liquefaction
+hyper: degelo
+hyper: evaporação
+hypo: atividade
+sa: @en:noun.process:phase_change
+
+w: Orogenias
+w: Orogénese
+w: Orogênese
+w: orogénese
+d: @en_the process of mountain formation (especially by the upward displacement of the earth's crust)
+hypo: @en_geologic_process
+sa: @en:noun.process:orogeny
+
+w: Partenocárpico
+d: @en_(botany) the development of a fruit without fertilization or seeds
+hypo: apomixia
+mt: noun.cognition:Botanica
+sa: @en:noun.process:parthenocarpy
+
+w: Partenogenese
+w: Partenogênese
+w: partenogénese
+w: partenogênese
+d: @en_process in which an unfertilized egg develops into a new individual; common among insects and some other arthropods
+hyper: @en_gynogenesis
+hyper: androgênese
+hypo: apomixia
+sa: @en:noun.process:parthenogenesis
+
+w: Polimerização
+w: polimerização
+d: @en_a chemical process that combines several monomers to form a polymer or polymeric compound
+hypo: @en_chemical_action
+sa: @en:noun.process:polymerisation
+
+w: Processo_de_bessemer
+w: processo_de_Bessemer
+d: @en_an industrial process for making steel using a Bessemer converter to blast air through molten iron and thus burning the excess carbon and impurities; the first successful method of making steel in quantity at low cost
+hypo: @en_steel_production
+hypo: processos_industriais
+sa: @en:noun.process:Bessemer_process
+
+w: Processo_de_haber
+w: processo_de_Haber
+d: @en_an industrial process for producing ammonia from nitrogen and hydrogen by combining them under high pressure in the presence of an iron catalyst
+hypo: processos_industriais
+sa: @en:noun.process:Haber-Bosch_process
+
+w: Processo_solvay
+w: processo_Solvay
+d: @en_an industrial process for producing sodium carbonate from sodium chloride and ammonia and carbon dioxide
+hypo: processos_industriais
+sa: @en:noun.process:Solvay_process
+
+w: Processos_estocásticos
+w: processo_estocástico
+d: @en_a statistical process involving a number of random variables depending on a variable parameter (which is usually time)
+hyper: @en_Markoff_process
+hyper: @en_stationary_stochastic_process
+hyper: passeio_aleatório
+hypo: noun.cognition:teoria 3
+sa: @en:noun.process:stochastic_process
+
+w: Radiolise
+d: @en_molecular disintegration resulting from radiation
+hypo: lise
+sa: @en:noun.process:radiolysis
+
+w: Reacção_em_cadeia
+w: reacção_em_cadeia
+w: reação_em_cadeia
+d: @en_a self-sustaining nuclear reaction; a series of nuclear fissions in which neutrons released by splitting one atom leads to the splitting of others
+hypo: reacção_nuclear
+sa: @en:noun.process:chain_reaction 2
+
+w: Reação_Química
+w: Reações_químicas
+w: reacções_químicas
+w: reação_química
+d: @en_(chemistry) a process in which one or more substances are changed into others
+hyper: @en_chemical_decomposition_reaction
+hyper: @en_displacement 1
+hyper: @en_double_decomposition
+hyper: @en_endothermic_reaction
+hyper: Equilibrio_quimico
+hyper: Reação_exotérmica
+hyper: Salificação
+hyper: eliminação
+hyper: hidrólise
+hyper: oxidantes/redução
+hyper: oxidação 1
+hyper: reacção_em_cadeia 1
+hyper: reacções_fotoquímicas
+hyper: reação_aldólica
+hyper: reação_de_adição
+hyper: redução_(química)
+hyper: saponificação
+hypo: @en_chemical_action
+mt: noun.cognition:Quimica
+sa: @en:noun.process:chemical_reaction
+
+w: Reação_exotérmica
+d: @en_a chemical reaction accompanied by the evolution of heat
+hypo: Reação_Química
+sa: @en:noun.process:exothermic_reaction
+
+w: Recaptação_neuronal
+d: @en_a process of using up or consuming again
+hypo: @en_uptake
+sa: @en:noun.process:re-uptake
+
+w: Reproducao_sexuada
+w: reprodução_sexuada
+d: @en_reproduction involving the union or fusion of a male and a female gamete
+hyper: @en_anisogamy
+hyper: isogamia
+hypo: reprodução
+mm: noun.event:@en_amphimixis
+sa: @en:noun.process:amphimixis
+
+w: Reprodução_Assexuada
+w: reprodução_assexuada
+d: @en_reproduction without the fusion of gametes
+hyper: @en_blastogenesis
+hyper: @en_fission
+hyper: @en_fissiparity
+hyper: @en_gemmation
+hyper: @en_monogenesis
+hyper: @en_parthenogenesis
+hyper: Gemulação
+hyper: apomixia
+hypo: reprodução
+sa: @en:noun.process:agamogenesis
+
+w: Rigor_Mortis
+w: rigor_mortis
+d: @en_muscular stiffening that begins 2 to 4 hours after death and lasts for about 4 days
+hypo: @en_rigidification
+sa: @en:noun.process:rigor_mortis
+
+w: Salificação
+w: neutralização
+d: @en_a chemical reaction in which an acid and a base interact with the formation of a salt; with strong acids and bases the essential reaction is the combination of hydrogen ions with hydroxyl ions to form water
+hypo: Reação_Química
+sa: @en:noun.process:neutralisation
+
+w: Sucessão_ecológica
+w: sucessão
+d: @en_(ecology) the gradual and orderly process of change in an ecosystem brought about by the progressive replacement of one community by another until a stable climax is established
+hypo: atividade
+mt: noun.cognition:Ecologia
+sa: @en:noun.process:ecological_succession
+
+w: Synapsis
+d: @en_the side by side pairing of homologous maternal and paternal chromosomes at the start of meiosis
+hp: @en_leptotene
+hypo: processos_biológicos
+sa: @en:noun.process:synapsis
+
+w: Tradução
+w: tradução
+d: @en_(genetics) the process whereby genetic information coded in messenger RNA directs the formation of a specific protein at a ribosome in the cytoplasm
+hypo: processos_biológicos
+mt: noun.cognition:Genetica
+sa: @en:noun.process:translation
+
+w: Troca_iônica
+w: permuta_de_iões
+d: @en_a process in which ions are exchanged between a solution and an insoluble (usually resinous) solid; widely used in industrial processing
+hypo: atividade
+sa: @en:noun.process:ion_exchange
+
+w: abatimento
+w: diminuição
+d: @en_a process of becoming smaller or shorter
+hyper: @en_narrowing
+hyper: @en_slippage 1
+hyper: abatimento 2
+hyper: decadência
+hyper: declínio
+hyper: dessensibilização
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:decrease
+
+w: abatimento 1
+w: diminuição 1
+d: @en_a gradual decline (in size or strength or power or number)
+hypo: declínio
+sa: @en:noun.process:ebb 1
+
+w: abatimento 2
+w: diminuição 2
+d: @en_the process of wasting
+hypo: abatimento
+sa: @en:noun.process:wastage
+
+w: abrasão
+d: @en_erosion by friction
+hypo: erosão 1
+sa: @en:noun.process:abrasion
+
+w: absorção 1
+d: @en_(chemistry) a process in which one substance permeates another; a fluid permeates or is dissolved by a liquid or solid
+hyper: @en_imbibition
+hypo: adsorção
+mt: noun.cognition:Quimica
+sa: @en:noun.process:absorption
+
+w: acetilação
+d: @en_the process of introducing an acetyl group into a compound
+hypo: acilação
+sa: @en:noun.process:acetylation
+
+w: acidificação
+d: @en_the process of becoming acid or being converted into an acid
+hypo: atividade
+sa: @en:noun.process:acidification
+
+w: acilação
+d: @en_the process of introducing an acyl group into a compound
+hyper: acetilação
+hypo: @en_chemical_action
+sa: @en:noun.process:acylation
+
+w: aclimatação
+w: aclimação
+d: @en_adaptation to a new climate (a new temperature or altitude or environment)
+hypo: adaptação
+sa: @en:noun.process:acclimation
+
+w: acréscimo
+w: aumento
+w: crescimento
+w: incremento
+d: @en_a process of becoming larger or longer or more numerous or more important
+hyper: @en_accession
+hyper: @en_accretion
+hyper: @en_accretion 1
+hyper: @en_accretion 2
+hyper: @en_broadening
+hyper: @en_pullulation 1
+hyper: @en_relaxation 1
+hyper: acréscimo 1
+hyper: crescimento_demográfico
+hyper: multiplicação
+hyper: proliferação 1
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:growth 2
+
+w: acréscimo 1
+w: acumulação
+d: @en_an increase by natural growth or addition
+hyper: @en_backup
+hyper: @en_buildup
+hyper: @en_deposit
+hypo: acréscimo
+sa: @en:noun.process:accretion
+
+w: adaptação
+d: @en_the process of adapting to something (such as environmental conditions)
+hyper: aclimatação
+hyper: desdiferenciação
+hyper: domesticação
+hyper: especialização
+hypo: processos_biológicos
+sa: @en:noun.process:adaptation
+
+w: adiabático
+d: @en_(thermodynamics) any process that occurs without gain or loss of heat
+hypo: atividade
+mt: noun.cognition:Termodinâmica
+sa: @en:noun.process:adiabatic_process
+
+w: adsorpção_química
+d: @en_adsorption (especially when irreversible) by means of chemical instead of physical forces
+hypo: adsorção 1
+sa: @en:noun.process:chemisorption
+
+w: adsorção
+w: sorção
+w: sorção_(processos_químicos)
+d: @en_the process in which one substance takes up or holds another (by either absorption or adsorption)
+hyper: absorção 1
+hyper: adsorção 1
+hypo: atividade
+sa: @en:noun.process:sorption
+
+w: adsorção 1
+d: @en_the accumulation of molecules of a gas to form a thin film on the surface of a solid
+hyper: adsorpção_química
+hypo: adsorção
+sa: @en:noun.process:adsorption
+
+w: advecção
+d: @en_(meteorology) the horizontal transfer of heat or other atmospheric properties
+hypo: @en_temperature_change
+mt: noun.cognition:Meteorologia
+sa: @en:noun.process:advection
+
+w: afluxo
+w: afluência
+w: influxo
+d: @en_the process of flowing in
+hyper: @en_inpour
+hypo: fluxos
+sa: @en:noun.process:inflow
+
+w: aférese
+d: @en_(linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'
+hypo: @en_deletion
+mt: noun.cognition:Linguistica
+sa: @en:noun.process:aphaeresis
+
+w: aglutinação
+d: @en_the building of words from component morphemes that retain their form and meaning in the process of combining
+hypo: @en_linguistic_process
+sa: @en:noun.process:agglutination
+
+w: amaciamento
+d: @en_the process of becoming softer
+hyper: maceração
+hypo: atividade
+sa: @en:noun.process:softening
+
+w: amadurecimento
+w: maturação
+d: @en_coming to full development; becoming mature
+hypo: processos_biológicos
+sa: @en:noun.process:maturation 1
+
+w: americanização
+d: @en_assimilation into American culture
+hypo: assimilação
+sa: @en:noun.process:Americanisation
+
+w: amonificação
+d: @en_impregnation with ammonia or a compound of ammonia
+hypo: osmose
+sa: @en:noun.process:ammonification
+
+w: anabolismo
+d: @en_the synthesis in living organisms of more complex substances (e.g., living tissue) from simpler ones together with the storage of energy
+hp: Metabolismo
+hypo: assimilação 1
+sa: @en:noun.process:anabolism
+
+w: androgênese
+d: @en_male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization
+hypo: Partenogenese
+sa: @en:noun.process:androgenesis
+
+w: apodrecimento
+w: decomposição
+w: deterioração
+w: putrefação
+d: @en_the process of gradually becoming inferior
+hyper: @en_spoilage
+hyper: corrupção
+hyper: cárie
+hyper: decomposição 1
+hyper: ruína
+hypo: atividade
+sa: @en:noun.process:decay 2
+
+w: apomixia
+d: @en_any of several kinds of reproduction without fertilization
+hyper: @en_apogamy
+hyper: Partenocárpico
+hyper: Partenogenese
+hypo: Reprodução_Assexuada
+sa: @en:noun.process:apomixis
+
+w: aquecimento
+w: esquentamento
+d: @en_the process of becoming warmer; a rising temperature
+hyper: @en_induction_heating
+hyper: @en_radiant_heating
+hyper: Aquecimento_Global
+hyper: degelo
+hyper: ebulição
+hyper: reaquecimento
+hypo: @en_temperature_change
+sa: @en:noun.process:heating
+
+w: armazenamento
+d: @en_(computer science) the process of storing information in a computer memory or on a magnetic tape or disk
+hyper: fragmentação
+hypo: operação_informática
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.process:storage
+
+w: arrefecimento
+w: esfriamento
+w: referigeração
+w: refrigeração
+d: @en_the process of cooling or freezing (e.g., food) for preservative purposes
+hypo: @en_chilling
+hypo: @en_preservation
+sa: @en:noun.process:infrigidation
+
+w: assimilação
+d: @en_the social process of absorbing one cultural group into harmony with another
+hyper: @en_Anglicisation
+hyper: @en_Europeanisation
+hyper: americanização
+hyper: ocidentalização
+hypo: @en_social_process
+sa: @en:noun.process:absorption 3
+
+w: assimilação 1
+d: @en_the process of absorbing nutrients into the body after digestion
+hyper: @en_malabsorption
+hyper: anabolismo
+hypo: processos_biológicos
+sa: @en:noun.process:absorption 1
+
+w: assimilação 2
+d: @en_a linguistic process by which a sound becomes similar to an adjacent sound
+hypo: @en_linguistic_process
+sa: @en:noun.process:assimilation
+
+w: atividade
+d: @en_a process existing in or produced by nature (rather than by the intent of human beings)
+hyper: noun.event:@en_radiation
+hyper: @en_antiredeposition
+hyper: @en_capture
+hyper: @en_capture 1
+hyper: @en_chemical_action
+hyper: @en_concretion
+hyper: @en_ecesis
+hyper: @en_fossilisation
+hyper: @en_geologic_process
+hyper: @en_inactivation
+hyper: @en_magnetic_induction
+hyper: @en_materialisation
+hyper: @en_opacification
+hyper: @en_precession_of_the_equinoxes
+hyper: @en_release
+hyper: @en_rigidification
+hyper: @en_saltation
+hyper: @en_sericulture
+hyper: @en_sink
+hyper: @en_stimulation
+hyper: @en_temperature_change
+hyper: @en_transduction 1
+hyper: @en_vitrification
+hyper: Absorção
+hyper: Aeração
+hyper: Dispersão
+hyper: Eletroforese
+hyper: Mudanças_de_fase
+hyper: Sucessão_ecológica
+hyper: Troca_iônica
+hyper: acidificação
+hyper: adiabático
+hyper: adsorção
+hyper: amaciamento
+hyper: apodrecimento
+hyper: centrifugação
+hyper: coagulação
+hyper: coagulação-floculação
+hyper: condensação
+hyper: convecção 1
+hyper: cromatografia
+hyper: código-fonte
+hyper: desintegração
+hyper: desmagnetização
+hyper: dessorção
+hyper: destilação
+hyper: desvio
+hyper: difusão
+hyper: efervescência
+hyper: endurecimento
+hyper: extinção
+hyper: extracção
+hyper: filtração
+hyper: fluxos
+hyper: formação
+hyper: imersão
+hyper: ionização
+hyper: lixiviação
+hyper: oscilação
+hyper: oxigenação
+hyper: produção_de_par
+hyper: reacção_nuclear
+hyper: retorno
+hyper: seleção_natural
+hyper: sinergia
+hyper: transpiração_(flora) 1
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:action
+
+w: atividade_em_excesso
+w: hiperatividade
+d: @en_excessive activity
+hypo: @en_activity
+sa: @en:noun.process:overactivity
+
+w: autólise
+d: @en_lysis of plant or animal tissue by an internal process
+hypo: lise
+sa: @en:noun.process:autolysis
+
+w: batch
+d: @en_the serial execution of computer programs
+hypo: execução
+sa: @en:noun.process:batch_processing
+
+w: biogênese
+w: biossíntese
+d: @en_production of a chemical compound by a living organism
+hypo: síntese
+sa: @en:noun.process:biogenesis
+
+w: brotação
+w: germinação
+d: @en_the process whereby seeds or spores sprout and begin to grow
+hypo: crescimento 2
+sa: @en:noun.process:germination
+
+w: calcetar
+d: @en_the production of eggs (especially in birds)
+hypo: nascimento
+sa: @en:noun.process:egg_laying
+
+w: calcificação
+d: @en_a process that impregnates something with calcium (or calcium salts)
+hyper: @en_ossification 2
+hypo: @en_chemical_action
+sa: @en:noun.process:calcification
+
+w: carbonação
+d: @en_saturation with carbon dioxide (as soda water)
+hypo: osmose
+sa: @en:noun.process:carbonation
+
+w: carbonização
+d: @en_the destructive distillation of coal (as in coke ovens)
+hypo: @en_destructive_distillation
+sa: @en:noun.process:carbonisation
+
+w: carriage_return
+d: @en_the operation that prepares for the next character to be printed or displayed as the first character on a line
+hypo: @en_printing_operation
+sa: @en:noun.process:carriage_return
+
+w: catálise
+d: @en_acceleration of a chemical reaction induced the presence of material that is chemically unchanged at the end of the reaction
+hyper: @en_autocatalysis
+hypo: @en_chemical_action
+sa: @en:noun.process:catalysis
+
+w: centrifugação
+d: @en_the process of separating substances of different densities by the use of a centrifuge
+hyper: @en_ultracentrifugation
+hypo: atividade
+sa: @en:noun.process:centrifugation
+
+w: chama
+w: flama
+w: fogo
+w: labareda
+d: @en_the process of combustion of inflammable materials producing heat and light and (often) smoke
+hyper: @en_flare
+hyper: ignição
+hyper: labareda 1
+hypo: combustão
+sa: @en:noun.process:fire
+
+w: ciclo_de_Krebs
+d: @en_in all plants and animals: a series of enzymatic reactions in mitochondria involving oxidative metabolism of acetyl compounds to produce high-energy phosphate compounds that are the source of cellular energy
+hp: Metabolismo
+hypo: processos_biológicos
+mp: fosforilação_oxidativa
+sa: @en:noun.process:Krebs_citric_acid_cycle
+
+w: ciclo_de_carbono
+d: @en_the organic circulation of carbon from the atmosphere into organisms and back again
+hypo: processos_biológicos
+sa: @en:noun.process:carbon_cycle 1
+
+w: ciclo_do_azoto
+w: ciclo_do_nitrogênio
+d: @en_the circulation of nitrogen; nitrates from the soil are absorbed by plants which are eaten by animals that die and decay returning the nitrogen back to the soil
+hypo: processos_biológicos
+sa: @en:noun.process:nitrogen_cycle
+
+w: ciclo_do_carbono
+d: @en_a thermonuclear reaction in the interior of stars
+hypo: @en_thermonuclear_reaction
+sa: @en:noun.process:carbon_cycle
+
+w: ciclos_de_vida
+d: @en_the course of developmental changes in an organism from fertilized zygote to maturity when another zygote can be produced
+hypo: crescimento 2
+sa: @en:noun.process:life_cycle
+
+w: citocinese
+d: @en_organic process consisting of the division of the cytoplasm of a cell following karyokinesis bringing about the separation into two daughter cells
+hp: meiose
+hp: mitose
+hypo: processos_biológicos
+sa: @en:noun.process:cytokinesis
+
+w: classificação
+d: @en_an operation that segregates items into groups according to a specified criterion
+hypo: operação 1
+sa: @en:noun.process:sort
+
+w: cloragem
+d: @en_the addition or substitution of chlorine in organic compounds
+hyper: @en_prechlorination
+hypo: @en_chemical_action
+sa: @en:noun.process:chlorination
+
+w: coagulação
+d: @en_the process of forming semisolid lumps in a liquid
+hyper: @en_blood_clotting
+hyper: @en_thermocoagulation
+hypo: atividade
+sa: @en:noun.process:clotting
+
+w: coagulação-floculação
+w: floculação
+d: @en_the process of flocculating; forming woolly cloudlike aggregations
+hypo: atividade
+sa: @en:noun.process:flocculation
+
+w: combustão
+d: @en_a process in which a substance reacts with oxygen to give heat and light
+hyper: @en_internal_combustion
+hyper: Deflagração
+hyper: chama
+hypo: oxidação 1
+sa: @en:noun.process:burning
+
+w: combustão_espontânea
+d: @en_ignition of a substance (as oily rags) resulting from an internal oxidation process
+hypo: ignição
+sa: @en:noun.process:spontaneous_combustion
+
+w: condensação
+d: @en_the process of changing from a gaseous to a liquid or solid state
+hypo: atividade
+sa: @en:noun.process:condensation
+
+w: consumo
+d: @en_(economics) the utilization of economic goods to satisfy needs or in manufacturing
+hyper: @en_conspicuous_consumption
+hypo: demanda
+mt: noun.cognition:economia
+sa: @en:noun.process:consumption
+
+w: convalescência
+w: recuperação
+d: @en_gradual healing (through rest) after sickness or injury
+hyper: @en_lysis
+hyper: @en_rally
+hypo: curação
+sa: @en:noun.process:convalescence
+
+w: convecção
+d: @en_the transfer of heat through a fluid (liquid or gas) caused by molecular motion
+hypo: @en_temperature_change
+sa: @en:noun.process:convection 1
+
+w: convecção 1
+d: @en_(meteorology) the vertical movement of heat or other properties by massive motion within the atmosphere
+hypo: atividade
+mt: noun.cognition:Meteorologia
+sa: @en:noun.process:convection 2
+
+w: corrosão
+w: erosão
+d: @en_erosion by chemical action
+hyper: @en_indentation
+hyper: ferrugem
+hypo: @en_chemical_action
+sa: @en:noun.process:corroding
+
+w: corrupção
+d: @en_decay of matter (as by rot or oxidation)
+hypo: apodrecimento
+sa: @en:noun.process:corruption
+
+w: craqueamento
+d: @en_the process whereby heavy molecules of naphtha or petroleum are broken down into hydrocarbons of lower molecular weight (especially in the oil-refining process)
+hyper: @en_hydrocracking
+hypo: @en_chemical_action
+sa: @en:noun.process:cracking
+
+w: crescimento 1
+w: evolução 1
+w: progresso
+d: @en_a progression from simpler to more complex forms
+hypo: evolução 2
+sa: @en:noun.process:growth 1
+
+w: crescimento 2
+w: ontogenia
+w: ontogénese
+d: @en_(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level
+dt: noun.time:isometria
+hyper: noun.act:cultura 1
+hyper: @en_amelogenesis
+hyper: @en_apposition
+hyper: @en_auxesis
+hyper: @en_caenogenesis
+hyper: @en_cohesion
+hyper: @en_cultivation
+hyper: @en_cytogenesis
+hyper: @en_dentition
+hyper: @en_foliation
+hyper: @en_fructification
+hyper: @en_habit
+hyper: @en_infructescence
+hyper: @en_intussusception 1
+hyper: @en_juvenescence
+hyper: @en_myelinisation
+hyper: @en_psychogenesis
+hyper: @en_psychogenesis 1
+hyper: @en_psychomotor_development
+hyper: @en_rooting
+hyper: @en_suppression
+hyper: Angiogenese
+hyper: Desenvolvimento_psicossexual
+hyper: Gametogénese
+hyper: Morfogénese
+hyper: brotação
+hyper: ciclos_de_vida
+hyper: floração
+hyper: neurogénese
+hyper: palingenesia
+hyper: proliferação
+hyper: teratogénese
+hyper: vida_das_plantas
+hyper: virilização
+hypo: processos_biológicos
+mp: gastrulação
+mt: noun.cognition:biologia
+sa: @en:noun.process:development 1
+
+w: crescimento_demográfico
+w: crescimento_populacional
+d: @en_increase in the number of people who inhabit a territory or state
+hyper: @en_irruption
+hypo: acréscimo
+sa: @en:noun.process:population_growth
+
+w: cromatografia
+d: @en_a process used for separating mixtures by virtue of differences in absorbency
+hyper: @en_column_chromatography
+hyper: @en_paper_chromatography
+hypo: atividade
+sa: @en:noun.process:chromatography
+
+w: curação
+d: @en_the natural process by which the body repairs itself
+hyper: @en_conglutination
+hyper: convalescência
+hypo: @en_activity
+sa: @en:noun.process:healing
+
+w: cárie
+d: @en_soft decayed area in a tooth; progressive decay can lead to the death of a tooth
+hypo: apodrecimento
+sa: @en:noun.process:caries
+
+w: círculo_vicioso
+d: @en_one trouble leads to another that aggravates the first
+hypo: @en_positive_feedback
+sa: @en:noun.process:vicious_circle
+
+w: código-fonte
+w: fonte
+d: @en_(technology) a process by which energy or a substance enters a system
+hyper: @en_origin
+hypo: atividade
+mt: noun.cognition:Ciências_aplicadas
+sa: @en:noun.process:source
+
+w: decadência
+d: @en_a gradual decrease; as of stored charge or current
+hyper: decaimento_exponencial
+hypo: abatimento
+sa: @en:noun.process:decay 1
+
+w: decaimento_exponencial
+d: @en_a decrease that follows an exponential function
+hyper: @en_relaxation
+hypo: decadência
+sa: @en:noun.process:exponential_decay
+
+w: declínio
+w: diminuição 3
+d: @en_change toward something smaller or lower
+hyper: @en_detumescence
+hyper: @en_erosion
+hyper: @en_loss
+hyper: @en_nosedive
+hyper: @en_sinking_spell
+hyper: @en_slippage
+hyper: abatimento 1
+hyper: deterioração 1
+hypo: abatimento
+sa: @en:noun.process:decline 2
+
+w: decomposição 1
+w: putrefação 1
+d: @en_(biology) the process of decay caused by bacterial or fungal action
+hypo: apodrecimento
+mt: noun.cognition:biologia
+sa: @en:noun.process:decomposition
+
+w: defecação
+w: merda
+d: @en_the elimination of fecal waste through the anus
+hyper: @en_bm
+hyper: @en_urochesia
+hyper: Hematoquezia
+hyper: merda 1
+hypo: Excreção
+sa: @en:noun.process:defecation
+
+w: deflação ant inflação
+d: @en_a contraction of economic activity resulting in a decline of prices
+hypo: @en_economic_process
+sa: @en:noun.process:deflation
+
+w: degelo
+w: derretimento
+w: fusão 1
+d: @en_the process whereby heat changes something from a solid to a liquid
+hypo: Mudanças_de_fase
+hypo: aquecimento
+sa: @en:noun.process:melt
+
+w: demanda
+w: pedido
+d: @en_the ability and desire to purchase goods and services
+hyper: consumo
+hypo: @en_economic_process
+sa: @en:noun.process:demand
+
+w: derivação
+d: @en_(descriptive linguistics) the process whereby new words are formed from existing words or bases by affixation
+hyper: @en_eponymy
+hypo: @en_linguistic_process
+mt: noun.cognition:@en_descriptive_linguistics
+sa: @en:noun.process:derivation
+
+w: derretimento_nuclear
+d: @en_severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping
+hypo: reaquecimento
+sa: @en:noun.process:meltdown
+
+w: descalcificação
+d: @en_loss of calcium from bones or teeth
+hypo: @en_chemical_action
+sa: @en:noun.process:decalcification
+
+w: desdiferenciação
+w: desdiferenciação_celular
+d: @en_the loss of specialization in form or function
+hypo: adaptação
+sa: @en:noun.process:dedifferentiation
+
+w: desestalinização
+d: @en_social process of neutralizing the influence of Joseph Stalin by revising his policies and removing monuments dedicated to him and renaming places named in his honor
+hypo: @en_social_process
+sa: @en:noun.process:de-Stalinisation
+
+w: desfoliação
+d: @en_the loss of foliage
+hypo: processos_biológicos
+sa: @en:noun.process:defoliation
+
+w: desidratação
+w: ressecação
+d: @en_the process of extracting moisture
+hp: plastinação
+hyper: @en_freeze-drying
+hyper: @en_inspissation
+hypo: extracção
+sa: @en:noun.process:dehydration
+
+w: desintegração
+d: @en_separation into component parts
+hyper: fibrinolítico
+hyper: lise
+hypo: atividade
+sa: @en:noun.process:disintegration 1
+
+w: desmagnetização
+d: @en_the process of removing magnetization
+hyper: @en_degaussing
+hypo: atividade
+sa: @en:noun.process:demagnetisation
+
+w: dessalinização
+d: @en_the removal of salt (especially from sea water)
+hypo: @en_chemical_action
+sa: @en:noun.process:desalination
+
+w: dessensibilização
+d: @en_the process of reducing sensitivity
+hypo: abatimento
+sa: @en:noun.process:desensitisation
+
+w: dessorção
+d: @en_changing from an adsorbed state on a surface to a gaseous or liquid state
+hypo: atividade
+sa: @en:noun.process:desorption
+
+w: destilação
+w: purificação
+d: @en_the process of purifying a liquid by boiling it and condensing its vapors
+hypo: atividade
+sa: @en:noun.process:distillation
+
+w: desvio
+d: a saída gradual de um curso planejado devido a influências externas (como um navio ou avião)
+hyper: @en_leeway
+hypo: atividade
+mt: noun.artifact:aeronaves 1
+mt: noun.artifact:barco 2
+sa: @en:noun.process:drift 1
+
+w: deterioração 1
+d: @en_process of changing to an inferior state
+hyper: @en_drop-off
+hypo: declínio
+sa: @en:noun.process:declension
+
+w: difusão
+d: @en_(physics) the process in which there is movement of a substance from an area of high concentration of that substance to an area of lower concentration
+hyper: @en_transport
+hyper: osmose
+hyper: osmose 1
+hypo: atividade
+mt: noun.cognition:Fisica
+sa: @en:noun.process:diffusion
+
+w: digestão
+w: digestão_anaeróbia
+d: @en_the process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat
+hypo: @en_chemical_action
+sa: @en:noun.process:digestion 1
+
+w: digestão 1
+w: digestão_anaeróbia 1
+d: @en_the organic process by which food is converted into substances that can be absorbed into the body
+hyper: @en_gastric_digestion
+hypo: processos_biológicos
+sa: @en:noun.process:digestion
+
+w: dobra
+d: @en_a geological process that causes a bend in a stratum of rock
+hypo: @en_geologic_process
+sa: @en:noun.process:fold
+
+w: domesticação
+d: @en_adaptation to intimate association with human beings
+hypo: adaptação
+sa: @en:noun.process:domestication
+
+w: ebulição
+w: fervura
+d: @en_the application of heat to change something from a liquid to a gas
+hyper: @en_decoction_mashing
+hypo: aquecimento
+hypo: evaporação
+sa: @en:noun.process:boiling
+
+w: efervescência
+d: @en_the process of bubbling as gas escapes
+hypo: atividade
+sa: @en:noun.process:effervescence
+
+w: efluxo
+d: @en_the process of flowing out
+hypo: fluxos
+sa: @en:noun.process:effluence
+
+w: ejaculação
+d: @en_the discharge of semen in males
+hyper: ejaculação_precoce
+hyper: polução_noturna
+hypo: expulsão
+sa: @en:noun.process:ejaculation
+
+w: ejaculação_precoce
+d: @en_ejaculation during the early stages of sexual excitement or soon after the insertion of the penis into the vagina
+hypo: ejaculação
+sa: @en:noun.process:premature_ejaculation
+
+w: eliminação
+d: @en_a chemical reaction in which a molecule decomposes to two different molecules
+hypo: Reação_Química
+sa: @en:noun.process:elimination_reaction
+
+w: elisão
+d: @en_omission of a sound between two words (usually a vowel and the end of one word or the beginning of the next)
+hypo: @en_deletion
+sa: @en:noun.process:elision
+
+w: emissão
+w: emissões
+d: @en_the release of electrons from parent atoms
+hyper: noun.phenomenon:@en_photoemission
+hyper: @en_field_emission
+hyper: @en_photoelectric_emission
+hyper: @en_secondary_emission
+hyper: Efeito_Termiônico
+hyper: radiações
+hypo: @en_release
+sa: @en:noun.process:emission
+
+w: endurecimento
+d: @en_the process of becoming hard or solid by cooling or drying or crystallization
+hp: plastinação
+hyper: @en_congealment
+hypo: atividade
+sa: @en:noun.process:curing
+
+w: enurese 1
+w: enuresia 1
+d: @en_enuresis during sleep; especially common in children (who usually outgrow it)
+hypo: Incontinência_Urinária
+sa: @en:noun.process:bed-wetting
+
+w: envelhecimento 1
+d: @en_acquiring desirable qualities by being left undisturbed for some time
+hyper: @en_mellowing
+hypo: processos_biológicos
+sa: @en:noun.process:ageing 1
+
+w: epistasia
+d: @en_the suppression of a gene by the effect of an unrelated gene
+hypo: processos_biológicos
+sa: @en:noun.process:epistasis
+
+w: epitaxia
+d: @en_growing a crystal layer of one mineral on the crystal base of another mineral in such a manner that its crystalline orientation is the same as that of the substrate
+hypo: @en_growing
+sa: @en:noun.process:epitaxy
+
+w: equimose
+d: @en_the escape of blood from ruptured blood vessels into the surrounding tissue to form a purple or black-and-blue spot on the skin
+hypo: processos_biológicos
+sa: @en:noun.process:ecchymosis
+
+w: eritropoiese
+d: @en_the process of producing red blood cells by the stem cells in the bone marrow
+hypo: processos_biológicos
+sa: @en:noun.process:erythropoiesis
+
+w: erosão 1
+d: @en_(geology) the mechanical process of wearing or grinding something down (as by particles washing over it)
+hyper: noun.phenomenon:@en_chatter_mark
+hyper: @en_beach_erosion
+hyper: @en_deflation
+hyper: @en_planation
+hyper: Ablação
+hyper: abrasão
+hyper: erosão_do_solo
+hypo: @en_geologic_process
+mt: noun.cognition:geologia
+sa: @en:noun.process:eating_away
+
+w: erosão_do_solo
+d: @en_the washing away of soil by the flow of water
+hyper: @en_wash
+hypo: erosão 1
+sa: @en:noun.process:soil_erosion
+
+w: escotilha
+d: @en_the production of young from an egg
+hypo: nascimento
+sa: @en:noun.process:hatch
+
+w: espalação
+d: @en_(physics) a nuclear reaction in which a bombarded nucleus breaks up into many particles
+hypo: reacção_nuclear
+mt: noun.cognition:Fisica
+sa: @en:noun.process:spallation
+
+w: especialização
+d: @en_(biology) the structural adaptation of some body part for a particular function
+hypo: adaptação
+mt: noun.cognition:biologia
+sa: @en:noun.process:differentiation
+
+w: estratificação
+d: @en_forming or depositing in layers
+hyper: @en_foliation 1
+hypo: @en_geologic_process
+sa: @en:noun.process:stratification
+
+w: evaporação
+w: vapor
+d: @en_the process of becoming a vapor
+hyper: @en_clouding
+hyper: ebulição
+hyper: fumaça
+hypo: Mudanças_de_fase
+sa: @en:noun.process:evaporation
+
+w: evolução 2
+d: @en_a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+hyper: @en_assibilation
+hyper: @en_deepening
+hyper: crescimento 1
+hyper: floração 1
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:development 2
+
+w: execução
+d: @en_(computer science) the process of carrying out an instruction by a computer
+hp: processamento_de_dados
+hyper: @en_concurrent_execution
+hyper: batch
+hypo: noun.Tops:processos_físicos
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.process:execution
+
+w: expectoração
+d: @en_the process of coughing up and spitting out
+hypo: @en_activity
+sa: @en:noun.process:expectoration
+
+w: expulsão
+d: @en_any of several bodily processes by which substances go out of the body
+hyper: Excreção
+hyper: Menstruacao
+hyper: ejaculação
+hypo: @en_activity
+sa: @en:noun.process:discharge
+
+w: extinção
+d: @en_the reduction of the intensity of radiation as a consequence of absorption and radiation
+hypo: atividade
+mp: Absorção
+mp: Dispersão
+sa: @en:noun.process:extinction
+
+w: extracção
+d: @en_the process of obtaining something from a mixture or compound by chemical or physical or mechanical means
+hyper: @en_elution
+hyper: Decocção
+hyper: Infusão
+hyper: desidratação
+hyper: extracção_mineira
+hypo: atividade
+sa: @en:noun.process:extraction
+
+w: extracção_mineira
+d: @en_crushing and separating ore into valuable substances or waste by any of a variety of techniques
+dt: noun.substance:@en_activating_agent
+hypo: extracção
+sa: @en:noun.process:beneficiation
+
+w: fagocitose
+d: @en_process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection
+hypo: @en_activity
+sa: @en:noun.process:phagocytosis
+
+w: ferrugem
+w: oxidação
+d: @en_the formation of reddish-brown ferric oxides on iron by low-temperature oxidation in the presence of water
+hypo: corrosão
+hypo: oxidação 1
+ms: noun.substance:@en_ferric_oxide
+sa: @en:noun.process:rust
+
+w: fibrinolítico
+w: fibrinólise
+d: @en_a normal ongoing process that dissolves fibrin and results in the removal of small blood clots
+hypo: desintegração
+sa: @en:noun.process:fibrinolysis
+
+w: filtração
+d: @en_the process whereby fluids pass through a filter or a filtering medium
+hyper: infiltração
+hypo: atividade
+sa: @en:noun.process:filtration
+
+w: fissão
+w: fissão_nuclear
+d: @en_a nuclear reaction in which a massive nucleus splits into smaller nuclei with the simultaneous release of energy
+hypo: reacção_nuclear
+sa: @en:noun.process:fission
+
+w: floração
+d: @en_the time and process of budding and unfolding of blossoms
+hypo: crescimento 2
+sa: @en:noun.process:anthesis
+
+w: floração 1
+d: @en_a developmental process
+hypo: evolução 2
+sa: @en:noun.process:flowering 1
+
+w: floração 2
+d: @en_the organic process of bearing flowers
+hypo: processos_biológicos
+sa: @en:noun.process:bloom
+
+w: fluxos
+d: @en_any uninterrupted stream or discharge
+hyper: noun.phenomenon:@en_airstream 1
+hyper: noun.phenomenon:@en_streamline_flow
+hyper: noun.phenomenon:@en_turbulent_flow
+hyper: @en_filling
+hyper: @en_flowage
+hyper: afluxo
+hyper: efluxo
+hypo: atividade
+sa: @en:noun.process:flow
+
+w: formação
+d: processo natural que faz com que algo se forme
+e: a formação de pseudópodos
+e: a formação de gás no intestino
+e: a formação de cristais
+hyper: @en_encrustation
+hyper: @en_reticulation
+hypo: atividade
+sa: @en:noun.process:formation
+
+w: fornecimento
+d: @en_offering goods and services for sale
+hypo: @en_economic_process
+sa: @en:noun.process:supply
+
+w: fosforilação_oxidativa
+d: @en_an enzymatic process in cell metabolism that synthesizes ATP from ADP
+hp: ciclo_de_Krebs
+hypo: processos_biológicos
+sa: @en:noun.process:oxidative_phosphorylation
+
+w: fotografia
+d: @en_the process of producing images of objects on photosensitive surfaces
+dt: verb.perception:@en_redevelop
+dt: verb.perception:@en_underdevelop
+dt: verb.perception:revelar 4
+hyper: @en_anaglyphy
+hyper: @en_autotype
+hyper: @en_dry_plate
+hyper: @en_photomechanics
+hyper: @en_powder_method
+hyper: @en_radiography
+hyper: @en_scanning
+hyper: @en_video_digitizing
+hyper: Fotografia_digital
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:photography
+
+w: fragmentação
+d: @en_(computer science) the condition of a file that is broken up and stored in many different locations on a magnetic disk
+hypo: armazenamento
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.process:fragmentation
+
+w: fumaça
+w: fumo
+w: gás_de_fornalha
+d: @en_a hot vapor containing fine particles of carbon being produced by combustion
+hypo: evaporação
+sa: @en:noun.process:smoke
+
+w: funcionamento
+w: operação
+d: @en_process or manner of functioning or operating
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:functioning
+
+w: fusão 2
+d: @en_the merging of adjacent sounds or syllables or words
+hyper: sincretismo
+hypo: @en_linguistic_process
+sa: @en:noun.process:fusion 1
+
+w: fusão_a_frio
+d: @en_nuclear fusion at or near room temperatures; claims to have discovered it are generally considered to have been mistaken
+hypo: Fusão_nuclear
+sa: @en:noun.process:cold_fusion
+
+w: galvanização
+d: @en_stimulation with a galvanic current
+hypo: @en_stimulation
+sa: @en:noun.process:galvanisation
+
+w: gastrulação
+d: @en_the process in which a gastrula develops from a blastula by the inward migration of cells
+hp: crescimento 2
+hypo: processos_biológicos
+sa: @en:noun.process:gastrulation
+
+w: geada
+w: rime
+d: @en_the formation of frost or ice on a surface
+hypo: @en_freeze
+sa: @en:noun.process:frost 1
+
+w: glicólise
+d: @en_a metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of ATP
+hypo: Metabolismo
+sa: @en:noun.process:glycolysis
+
+w: hemaglutinação
+d: @en_agglutination of red blood cells
+hypo: @en_agglutination
+sa: @en:noun.process:haemagglutination
+
+w: hematopoiese
+d: @en_the formation of blood cells in the living body (especially in the bone marrow)
+hypo: processos_biológicos
+sa: @en:noun.process:haematogenesis
+
+w: hemólise
+d: @en_lysis of erythrocytes with the release of hemoglobin
+hypo: lise
+sa: @en:noun.process:haematolysis
+
+w: herança
+d: @en_the biological process whereby genetic factors are transmitted from one generation to the next
+hypo: processos_biológicos
+sa: @en:noun.process:heredity
+
+w: hidratação
+d: o processo de combinar com a água; geralmente reversível
+hypo: @en_association
+sa: @en:noun.process:hydration
+
+w: hidrogenação
+d: @en_a chemical process that adds hydrogen atoms to an unsaturated oil
+hypo: @en_chemical_action
+sa: @en:noun.process:hydrogenation
+
+w: hidrólise
+d: @en_a chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water
+hypo: Reação_Química
+sa: @en:noun.process:hydrolysis
+
+w: hiperidrose
+d: @en_excessive and profuse perspiration
+hypo: suor
+sa: @en:noun.process:hyperhidrosis
+
+w: hipersecreção
+d: @en_excessive secretion
+hypo: secreção
+sa: @en:noun.process:hypersecretion
+
+w: holometabolismo
+d: @en_complete metamorphosis in insects
+hypo: metabolismo 1
+mt: noun.animal:Insectos
+sa: @en:noun.process:holometabolism
+
+w: ignição
+d: @en_the process of initiating combustion or catching fire
+hyper: combustão_espontânea
+hypo: chama
+sa: @en:noun.process:ignition
+
+w: imersão
+d: @en_the process of becoming softened and saturated as a consequence of being immersed in water (or other liquid)
+hypo: atividade
+sa: @en:noun.process:soak
+
+w: incontinência
+d: @en_involuntary urination or defecation
+hyper: Incontinência_Urinária
+hypo: Excreção
+sa: @en:noun.process:incontinence
+
+w: incubação
+d: @en_sitting on eggs so as to hatch them by the warmth of the body
+hypo: nascimento
+sa: @en:noun.process:brooding
+
+w: infecção
+d: @en_(medicine) the invasion of the body by pathogenic microorganisms and their multiplication which can lead to tissue damage and disease
+hyper: @en_zymosis
+hypo: @en_pathologic_process
+mt: noun.cognition:@en_medical_specialty
+sa: @en:noun.process:infection
+
+w: infiltração
+d: @en_the slow passage of a liquid through a filtering medium
+hypo: filtração
+sa: @en:noun.process:infiltration
+
+w: inflação ant deflação
+d: @en_a general and progressive increase in prices
+hyper: @en_cost-pull_inflation
+hyper: @en_demand-pull_inflation
+hyper: @en_reflation
+hyper: Estagflação
+hypo: @en_economic_process
+sa: @en:noun.process:inflation
+
+w: ionização
+d: @en_the process of ionizing; the formation of ions by separating atoms or molecules or radicals or by adding or subtracting electrons from atoms by strong electric fields in a gas
+hypo: atividade
+sa: @en:noun.process:ionisation
+
+w: isogamia
+d: @en_(biology) reproduction by the union or fusion of gametes of the same size and structure
+hypo: Reproducao_sexuada
+mt: noun.cognition:biologia
+sa: @en:noun.process:isogamy
+
+w: iteração
+d: @en_(computer science) a single execution of a set of instructions that are to be repeated
+hypo: noun.Tops:processos_físicos
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.process:iteration 1
+
+w: labareda 1
+d: @en_a strong flame that burns brightly
+hypo: chama
+sa: @en:noun.process:blaze
+
+w: lacrimejamento
+d: @en_shedding tears
+hypo: @en_activity
+sa: @en:noun.process:lachrymation
+
+w: lexicalização
+d: @en_the process of making a word to express a concept
+hypo: @en_linguistic_process
+sa: @en:noun.process:lexicalisation
+
+w: lise
+d: @en_(biochemistry) dissolution or destruction of cells such as blood cells or bacteria
+hyper: @en_bacteriolysis
+hyper: @en_cytolysis
+hyper: @en_karyolysis
+hyper: @en_necrolysis
+hyper: @en_osteolysis
+hyper: Radiolise
+hyper: autólise
+hyper: hemólise
+hyper: trombólise
+hypo: desintegração
+mt: noun.cognition:Bioquimica
+sa: @en:noun.process:lysis
+
+w: lixiviação
+d: @en_the process of leaching
+hypo: atividade
+sa: @en:noun.process:leach
+
+w: maceração
+d: @en_softening due to soaking or steeping
+hypo: amaciamento
+sa: @en:noun.process:maceration
+
+w: macroevolução
+d: @en_evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups
+hypo: Evolução
+sa: @en:noun.process:macroevolution
+
+w: mecanismo
+d: @en_the atomic process that occurs during a chemical reaction
+hyper: @en_biochemical_mechanism
+hypo: @en_chemical_action
+sa: @en:noun.process:chemical_mechanism
+
+w: meiose
+w: miose
+d: @en_(genetics) cell division that produces reproductive cells in sexually reproducing organisms; the nucleus divides into four nuclei each containing half the chromosome number (leading to gametes in animals and spores in plants)
+hyper: @en_nondisjunction
+hypo: Divisão_celular
+mp: @en_karyokinesis
+mp: @en_metaphase
+mp: @en_prophase
+mp: @en_segregation
+mp: @en_telophase
+mp: Anafase
+mp: citocinese
+mt: noun.cognition:Genetica
+sa: @en:noun.process:meiosis
+
+w: melhoramento
+d: @en_the linguistic process in which over a period of time a word grows more positive in connotation or more elevated in meaning
+hypo: @en_drift
+sa: @en:noun.process:melioration
+
+w: merda 1
+d: @en_a coarse term for defecation
+hypo: defecação
+sa: @en:noun.process:dump
+
+w: metabolismo 1
+w: metamorfose
+d: @en_the marked and rapid transformation of a larva into an adult that occurs in some animals
+hyper: @en_hemimetabolism
+hyper: @en_heterometabolism
+hyper: holometabolismo
+hypo: processos_biológicos
+sa: @en:noun.process:metabolism 2
+
+w: metástase
+d: @en_the spreading of a disease (especially cancer) to another part of the body
+hypo: @en_pathologic_process
+sa: @en:noun.process:metastasis 1
+
+w: microevolução
+d: @en_evolution resulting from small specific genetic changes that can lead to a new subspecies
+hypo: Evolução
+sa: @en:noun.process:microevolution
+
+w: mijo
+w: pipi
+w: pê
+w: urina 1
+w: xixi
+d: @en_informal terms for urination
+hypo: Micção
+mu: noun.communication:indecência
+sa: @en:noun.process:pee
+
+w: mineração_de_dados
+d: @en_data processing using sophisticated data search capabilities and statistical algorithms to discover patterns and correlations in large preexisting databases; a way to discover new meaning in data
+hypo: processamento_de_dados
+sa: @en:noun.process:data_mining
+
+w: mitose
+d: @en_cell division in which the nucleus divides into nuclei containing the same number of chromosomes
+hypo: Divisão_celular
+mp: @en_karyokinesis
+mp: Metafase
+mp: citocinese
+mp: prófase
+mp: telófase
+sa: @en:noun.process:mitosis
+
+w: muda
+d: @en_periodic shedding of the cuticle in arthropods or the outer skin in reptiles
+hypo: @en_shedding
+sa: @en:noun.process:ecdysis
+
+w: mudança_de_linha
+w: newline
+d: @en_the operation that prepares for the next character to be printed or displayed as the first character on the next line
+hypo: @en_printing_operation
+sa: @en:noun.process:new_line
+
+w: multiplicação
+d: @en_a multiplicative increase
+hyper: @en_doubling
+hyper: @en_quadrupling
+hyper: @en_quintupling
+hyper: @en_tripling
+hypo: acréscimo
+sa: @en:noun.process:multiplication
+
+w: nascimento
+d: @en_the process of giving birth
+hp: reprodução
+hyper: @en_calving
+hyper: @en_farrow
+hyper: calcetar
+hyper: escotilha
+hyper: incubação
+hyper: parto
+hyper: noun.state:@en_childbed
+hypo: processos_biológicos
+sa: @en:noun.process:birth
+
+w: negação
+d: @en_(psychiatry) a defense mechanism that denies painful thoughts
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:denial
+
+w: neurogénese
+d: @en_the development of nerve tissues
+hypo: crescimento 2
+sa: @en:noun.process:neurogenesis
+
+w: nitrificação
+d: @en_the oxidation of ammonium compounds in dead organic material into nitrates and nitrites by soil bacteria (making nitrogen available to plants)
+hypo: oxidação 1
+mt: noun.Tops:flora
+sa: @en:noun.process:nitrification
+
+w: nucleossíntese
+d: @en_(astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom
+hypo: síntese
+mt: noun.cognition:Astronomia
+sa: @en:noun.process:nucleosynthesis
+
+w: nutrição
+d: @en_(physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance
+hypo: processos_biológicos
+mt: noun.cognition:Fisiologia
+sa: @en:noun.process:nutrition
+
+w: obsolescência
+d: @en_the process of becoming obsolete; falling into disuse or becoming out of date
+hypo: @en_degeneration
+sa: @en:noun.process:obsolescence
+
+w: ocidentalização
+d: @en_assimilation of Western culture; the social process of becoming familiar with or converting to the customs and practices of Western civilization
+hypo: assimilação
+sa: @en:noun.process:Westernisation
+
+w: oligúria
+d: @en_production of an abnormally small amount of urine
+hypo: Micção
+sa: @en:noun.process:oliguria
+
+w: operação 1
+d: @en_(computer science) data processing in which the result is completely specified by a rule (especially the processing that results from a single instruction)
+hyper: noun.artifact:@en_access
+hyper: @en_asynchronous_operation
+hyper: @en_auxiliary_operation
+hyper: @en_concurrent_operation
+hyper: @en_consecutive_operation
+hyper: @en_control_function
+hyper: @en_dyadic_operation
+hyper: @en_fixed-cycle_operation
+hyper: @en_logic_operation
+hyper: @en_lookup
+hyper: @en_multiplex_operation
+hyper: @en_parallel_operation
+hyper: @en_printing_operation
+hyper: @en_synchronous_operation
+hyper: @en_threshold_operation
+hyper: classificação
+hyper: operação_binária
+hyper: operação_informática
+hyper: operação_unária
+hypo: processamento_de_dados
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.process:operation
+
+w: operação_binária
+d: @en_an operation that follows the rules of Boolean algebra; each operand and the result take one of two values
+hypo: operação 1
+sa: @en:noun.process:binary_arithmetic_operation
+
+w: operação_informática
+d: @en_an elementary operation that a computer is designed and built to perform
+hyper: @en_floating-point_operation
+hyper: @en_retrieval
+hyper: armazenamento
+hypo: operação 1
+sa: @en:noun.process:computer_operation
+
+w: operação_unária
+d: @en_an operation with exactly one operand
+hypo: operação 1
+sa: @en:noun.process:monadic_operation
+
+w: oscilação
+d: @en_the process of oscillating between states
+hyper: Libração
+hypo: atividade
+sa: @en:noun.process:oscillation
+
+w: osmose
+d: @en_the process of permeating or infusing something with a substance
+hyper: @en_impregnation
+hyper: amonificação
+hyper: carbonação
+hypo: difusão
+sa: @en:noun.process:permeation
+
+w: osmose 1
+d: @en_(biology, chemistry) diffusion of molecules through a semipermeable membrane from a place of higher concentration to a place of lower concentration until the concentration on both sides is equal
+hp: noun.act:diálise 1
+hyper: osmose_inversa
+hypo: difusão
+mt: noun.cognition:Quimica
+mt: noun.cognition:biologia
+sa: @en:noun.process:osmosis
+
+w: osmose_inversa
+d: @en_(chemistry) a method of producing pure water; a solvent passes through a semipermeable membrane in a direction opposite to that for natural osmosis when it is subjected to a hydrostatic pressure greater than the osmotic pressure
+hypo: osmose 1
+mt: noun.cognition:Quimica
+sa: @en:noun.process:reverse_osmosis
+
+w: ovulação
+d: @en_the expulsion of an ovum from the ovary (usually midway in the menstrual cycle)
+hypo: processos_biológicos
+sa: @en:noun.process:ovulation
+
+w: ovulogênese
+d: @en_development of ova
+hypo: Gametogénese
+sa: @en:noun.process:oogenesis
+
+w: oxidantes/redução
+w: reação_redox
+d: @en_a reversible chemical reaction in which one reaction is an oxidation and the reverse is a reduction
+hypo: Reação_Química
+sa: @en:noun.process:oxidation-reduction
+
+w: oxidação 1
+d: @en_the process of oxidizing; the addition of oxygen to a compound with a loss of electrons; always occurs accompanied by reduction
+hyper: Calcinação
+hyper: combustão
+hyper: ferrugem
+hyper: nitrificação
+hypo: Reação_Química
+sa: @en:noun.process:oxidation
+
+w: oxigenação
+d: @en_the process of providing or combining or treating with oxygen
+hypo: atividade
+sa: @en:noun.process:oxygenation
+
+w: palingenesia
+d: @en_emergence during embryonic development of various characters or structures that appeared during the evolutionary history of the strain or species
+hypo: crescimento 2
+sa: @en:noun.process:palingenesis
+
+w: parto
+d: @en_the parturition process in human beings; having a baby; the process of giving birth to a child
+hyper: @en_active_birth
+hyper: @en_alternative_birth
+hyper: @en_natural_childbirth
+hypo: nascimento
+mp: noun.act:parto
+sa: @en:noun.process:accouchement
+
+w: passeio_aleatório
+d: @en_a stochastic process consisting of a sequence of changes each of whose characteristics (as magnitude or direction) is determined by chance
+hypo: Processos_estocásticos
+sa: @en:noun.process:random_walk
+
+w: patogênese
+d: @en_the origination and development of a disease
+hyper: @en_focalisation
+hypo: @en_pathologic_process
+sa: @en:noun.process:pathogenesis
+
+w: peristalse
+w: peristaltismo
+d: @en_the process of wavelike muscle contractions of the alimentary tract that moves food along
+hypo: @en_activity
+sa: @en:noun.process:peristalsis
+
+w: pinocitose
+d: @en_process by which certain cells can engulf and incorporate droplets of fluid
+hypo: @en_activity
+sa: @en:noun.process:pinocytosis
+
+w: plastinação
+d: @en_a process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened
+hypo: @en_preservation
+mp: noun.act:fixação
+mp: @en_impregnation
+mp: desidratação
+mp: endurecimento
+sa: @en:noun.process:plastination
+
+w: polução_noturna
+d: @en_ejaculation during sleep (usually during a dream)
+hp: noun.cognition:@en_wet_dream
+hypo: ejaculação
+sa: @en:noun.process:nocturnal_emission
+
+w: precipitação
+d: @en_the process of forming a chemical precipitate
+hypo: @en_chemical_action
+sa: @en:noun.process:precipitation
+
+w: processamento
+d: @en_preparing or putting through a prescribed procedure
+hyper: @en_developing
+hyper: processamento_de_dados
+hyper: refinação
+hyper: sopro
+hyper: vulcanização
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:processing
+
+w: processamento_de_dados
+d: @en_(computer science) a series of operations on data by a computer in order to retrieve or transform or classify information
+hyper: @en_ADP
+hyper: @en_administrative_data_processing
+hyper: @en_distributed_data_processing
+hyper: @en_list_processing
+hyper: @en_multiprocessing
+hyper: @en_priority_processing
+hyper: @en_real-time_operation
+hyper: @en_serial_processing
+hyper: mineração_de_dados
+hyper: operação 1
+hyper: processamento_de_texto
+hypo: processamento
+mp: execução
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.process:data_processing
+
+w: processamento_de_texto
+d: @en_rapid and efficient processing (storage and printing) of linguistic data for composition and editing
+hypo: processamento_de_dados
+mt: noun.communication:Produção_gráfica
+sa: @en:noun.process:word_processing
+
+w: processos_biológicos
+d: @en_a process occurring in living organisms
+hyper: @en_activity
+hyper: @en_agglutination
+hyper: @en_anovulation
+hyper: @en_antisepsis
+hyper: @en_autoregulation
+hyper: @en_bacteriostasis
+hyper: @en_blistering
+hyper: @en_crossing_over
+hyper: @en_deossification
+hyper: @en_eburnation
+hyper: @en_effacement
+hyper: @en_expression
+hyper: @en_extravasation
+hyper: @en_glycogenesis
+hyper: @en_humification
+hyper: @en_implantation
+hyper: @en_infolding
+hyper: @en_inhibition
+hyper: @en_involution
+hyper: @en_karyokinesis
+hyper: @en_keratinisation
+hyper: @en_lymphopoiesis
+hyper: @en_lysogenisation
+hyper: @en_nondevelopment
+hyper: @en_organification
+hyper: @en_ossification 1
+hyper: @en_pathologic_process
+hyper: @en_perennation
+hyper: @en_preservation
+hyper: @en_quellung
+hyper: @en_quickening
+hyper: @en_regulation
+hyper: @en_replication
+hyper: @en_segregation
+hyper: @en_shedding
+hyper: @en_symphysis
+hyper: @en_synezesis
+hyper: @en_transduction
+hyper: @en_translocation
+hyper: @en_translocation 1
+hyper: @en_vascularisation
+hyper: Catabolismo
+hyper: Divisão_celular
+hyper: Enovelamento_de_proteínas
+hyper: Envelhecimento
+hyper: Eutrofizacao
+hyper: Evolução
+hyper: Fixação_de_nitrogénio
+hyper: Metabolismo
+hyper: Synapsis
+hyper: Tradução
+hyper: adaptação
+hyper: amadurecimento
+hyper: assimilação 1
+hyper: ciclo_de_Krebs
+hyper: ciclo_de_carbono
+hyper: ciclo_do_azoto
+hyper: citocinese
+hyper: crescimento 2
+hyper: desfoliação
+hyper: digestão 1
+hyper: envelhecimento 1
+hyper: epistasia
+hyper: equimose
+hyper: eritropoiese
+hyper: floração 2
+hyper: fosforilação_oxidativa
+hyper: gastrulação
+hyper: hematopoiese
+hyper: herança
+hyper: metabolismo 1
+hyper: nascimento
+hyper: nutrição
+hyper: ovulação
+hyper: regeneração
+hyper: reprodução
+hyper: ressorção
+hyper: secreção
+hyper: somatório
+hyper: transcrição
+hyper: transpiração 1
+hyper: tumefação
+hyper: ulceração
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:biological_process
+
+w: processos_industriais
+d: @en_a systematic series of mechanical or chemical operations that produce or manufacture something
+hyper: @en_Acheson_process
+hyper: @en_cyanide_process
+hyper: @en_electrostatic_precipitation
+hyper: @en_fractional_process
+hyper: Processo_de_bessemer
+hyper: Processo_de_haber
+hyper: Processo_solvay
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:industrial_process
+
+w: produção_de_par
+d: @en_the transformation of a gamma-ray photon into an electron and a positron when the photon passes close to an atomic nucleus
+hypo: atividade
+sa: @en:noun.process:pair_creation
+
+w: proliferação
+d: @en_growth by the rapid multiplication of parts
+hypo: crescimento 2
+sa: @en:noun.process:proliferation
+
+w: proliferação 1
+d: @en_a rapid increase in number (especially a rapid increase in the number of deadly weapons)
+hypo: acréscimo
+sa: @en:noun.process:proliferation 1
+
+w: prófase
+d: @en_the first stage of mitosis
+hp: mitose
+hypo: @en_phase_of_cell_division
+sa: @en:noun.process:prophase 1
+
+w: quelato
+d: @en_the process of forming a ring by forming one or more hydrogen bonds
+hypo: @en_chemical_action
+sa: @en:noun.process:chelation 1
+
+w: quelação
+d: @en_(medicine) the process of removing a heavy metal from the bloodstream by means of a chelate as in treating lead or mercury poisoning
+hypo: noun.Tops:processos_físicos
+mt: noun.cognition:@en_medical_specialty
+sa: @en:noun.process:chelation 2
+
+w: quimiossíntese
+d: @en_synthesis of carbohydrate from carbon dioxide and water; limited to certain bacteria and fungi
+hypo: síntese
+sa: @en:noun.process:chemosynthesis
+
+w: radiações
+w: radioactividade 1
+d: @en_the spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay
+hyper: noun.phenomenon:@en_corpuscular_radiation
+hypo: emissão
+sa: @en:noun.process:radiation
+
+w: reacção_em_cadeia 1
+w: reação_em_cadeia 1
+d: @en_a series of chemical reactions in which the product of one is a reactant in the next
+hypo: Reação_Química
+sa: @en:noun.process:chain_reaction 1
+
+w: reacção_nuclear
+w: reacções_nucleares
+w: reação_nuclear
+d: @en_(physics) a process that alters the energy or structure or composition of atomic nuclei
+hyper: @en_endoergic_reaction
+hyper: @en_exoergic_reaction
+hyper: Desintegração_radioativa
+hyper: Fusão_nuclear
+hyper: Reacção_em_cadeia
+hyper: espalação
+hyper: fissão
+hypo: atividade
+mt: noun.cognition:Fisica
+sa: @en:noun.process:nuclear_reaction
+
+w: reacções_fotoquímicas
+w: reação_fotoquímica
+d: @en_a chemical reaction produced by the action of light
+hyper: @en_light_reaction
+hypo: Reação_Química
+sa: @en:noun.process:photochemical_reaction
+
+w: reaquecimento
+w: sobre-aquecimento
+d: @en_excessive heating
+hyper: derretimento_nuclear
+hypo: aquecimento
+sa: @en:noun.process:overheating
+
+w: reação_aldólica
+d: @en_a reaction of aldehydes resulting in an aldol
+hypo: Reação_Química
+sa: @en:noun.process:aldol_reaction
+
+w: reação_de_adição
+d: @en_a chemical reaction in which one molecule is added to another
+hypo: Reação_Química
+sa: @en:noun.process:addition_reaction
+
+w: redução_(química)
+d: @en_any process in which electrons are added to an atom or ion (as by removing oxygen or adding hydrogen); always occurs accompanied by oxidation of the reducing agent
+hypo: Reação_Química
+sa: @en:noun.process:reducing
+
+w: refinação
+d: @en_the process of removing impurities (as from oil or metals or sugar etc.)
+hyper: @en_rectification
+hypo: processamento
+sa: @en:noun.process:purification
+
+w: regeneração
+d: @en_(biology) growth anew of lost tissue or destroyed parts or organs
+hyper: @en_morphallaxis
+hypo: processos_biológicos
+mt: noun.cognition:biologia
+sa: @en:noun.process:regeneration
+
+w: regressão
+d: @en_(psychiatry) a defense mechanism in which you flee from reality by assuming a more infantile state
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:regression
+
+w: repressão
+d: @en_(psychiatry) the classical defense mechanism that protects you from impulses or ideas that would cause anxiety by preventing them from becoming conscious
+hypo: Ajustamentos
+mt: noun.cognition:Psicopatologias
+sa: @en:noun.process:repression
+
+w: reprodução
+w: reprodução_(biologia)
+d: @en_the process of generating offspring
+hyper: Reproducao_sexuada
+hyper: Reprodução_Assexuada
+hypo: processos_biológicos
+mp: nascimento
+mt: noun.cognition:biologia
+sa: @en:noun.process:reproduction
+
+w: ressorção
+d: @en_the organic process in which the substance of some differentiated structure that has been produced by the body undergoes lysis and assimilation
+hypo: processos_biológicos
+sa: @en:noun.process:reabsorption
+
+w: retorno
+w: retroalimentação
+d: @en_the process in which part of the output of a system is returned to its input in order to regulate its further output
+hyper: @en_negative_feedback
+hyper: @en_positive_feedback
+hypo: atividade
+sa: @en:noun.process:feedback
+
+w: reversibilidade
+d: @en_any process in which a system can be made to pass through the same states in the reverse order when the process is reversed
+hypo: noun.Tops:processos_físicos
+sa: @en:noun.process:reversible_process
+
+w: ruína
+d: @en_the process of becoming dilapidated
+hypo: apodrecimento
+sa: @en:noun.process:dilapidation
+
+w: salivação
+d: @en_the secretion of saliva
+hyper: @en_ptyalism
+hypo: secreção
+sa: @en:noun.process:salivation
+
+w: saponificação
+d: @en_a chemical reaction in which an ester is heated with an alkali (especially the alkaline hydrolysis of a fat or oil to make soap)
+hypo: Reação_Química
+sa: @en:noun.process:saponification
+
+w: secreção
+d: @en_the organic process of synthesizing and releasing some substance
+hyper: @en_galactosis
+hyper: hipersecreção
+hyper: salivação
+hypo: processos_biológicos
+sa: @en:noun.process:secernment
+
+w: segmentação
+d: @en_(embryology) the repeated division of a fertilised ovum
+hp: noun.state:embaraço 1
+hypo: Divisão_celular
+mt: noun.cognition:Embriologia
+sa: @en:noun.process:cleavage
+
+w: seleção_natural
+d: @en_a natural process resulting in the evolution of organisms best adapted to the environment
+hypo: atividade
+sa: @en:noun.process:natural_selection
+
+w: sincretismo
+d: @en_the fusion of originally different inflected forms (resulting in a reduction in the use of inflections)
+hypo: fusão 2
+sa: @en:noun.process:syncretism
+
+w: sinergia
+d: @en_the working together of two things (muscles or drugs for example) to produce an effect greater than the sum of their individual effects
+hyper: @en_potentiation
+hypo: atividade
+sa: @en:noun.process:synergism
+
+w: sinterização
+d: @en_the coalescing of small particles that are suspended in solution; these larger masses are then (usually) precipitated
+hypo: @en_chemical_action
+sa: @en:noun.process:agglutinating_activity
+
+w: sinérese
+d: @en_the contraction of two vowels into a diphthong
+hypo: @en_linguistic_process
+sa: @en:noun.process:synaeresis 1
+
+w: solvatação
+d: @en_a chemical process in which solvent molecules and molecules or ions of the solute combine to form a compound
+hypo: @en_association
+sa: @en:noun.process:solvation
+
+w: somatório
+d: @en_(physiology) the process whereby multiple stimuli can produce a response (in a muscle or nerve or other part) that one stimulus alone does not produce
+hypo: processos_biológicos
+mt: noun.cognition:Fisiologia
+sa: @en:noun.process:summation
+
+w: sopro
+d: @en_processing that involves blowing a gas
+hyper: @en_insufflation
+hypo: processamento
+sa: @en:noun.process:blowing
+
+w: subdesenvolvimento
+d: @en_(photography) inadequate processing of film resulting in inadequate contrast
+hypo: @en_developing
+mt: noun.act:fotografia 1
+sa: @en:noun.process:underdevelopment
+
+w: substituição
+d: @en_filling again by supplying what has been used up
+hypo: @en_filling
+sa: @en:noun.process:refilling
+
+w: suor
+w: transpiração
+d: @en_the process of the sweat glands of the skin secreting a salty fluid
+hyper: hiperidrose
+hypo: @en_activity
+sa: @en:noun.process:diaphoresis
+
+w: supuração
+d: @en_(medicine) the formation of morbific matter in an abscess or a vesicle and the discharge of pus
+hypo: @en_activity
+mt: noun.cognition:@en_medical_specialty
+sa: @en:noun.process:festering
+
+w: síntese
+d: @en_the process of producing a chemical compound (usually by the union of simpler chemical compounds)
+hyper: biogênese
+hyper: nucleossíntese
+hyper: quimiossíntese
+hypo: @en_chemical_action
+sa: @en:noun.process:synthesis
+
+w: telófase
+d: @en_the final stage of mitosis
+hp: mitose
+hypo: @en_phase_of_cell_division
+sa: @en:noun.process:telophase 1
+
+w: teratogénese
+d: @en_the development of defects in an embryo
+hypo: crescimento 2
+sa: @en:noun.process:teratogenesis
+
+w: transcrição
+d: @en_(genetics) the organic process whereby the DNA sequence in a gene is copied into mRNA; the process whereby a base sequence of messenger RNA is synthesized on a template of complementary DNA
+hypo: processos_biológicos
+mt: noun.cognition:Genetica
+sa: @en:noun.process:transcription
+
+w: transpiração 1
+w: transpiração_(flora)
+d: @en_the emission of water vapor from the leaves of plants
+hypo: processos_biológicos
+sa: @en:noun.process:transpiration
+
+w: transpiração_(flora) 1
+d: @en_the passage of gases through fine tubes because of differences in pressure or temperature
+hypo: atividade
+sa: @en:noun.process:transpiration 1
+
+w: trombólise
+d: @en_the process of breaking up and dissolving blood clots
+hypo: lise
+sa: @en:noun.process:thrombolysis
+
+w: tumefação
+d: @en_the process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it
+hypo: processos_biológicos
+sa: @en:noun.process:tumefaction
+
+w: ulceração
+d: @en_the process of ulcer formation; the process of becoming ulcerated
+hypo: processos_biológicos
+sa: @en:noun.process:ulceration
+
+w: urbanização
+w: urbanizações
+d: @en_the social process whereby cities grow and societies become more urban
+hypo: @en_social_process
+sa: @en:noun.process:urbanisation
+
+w: vida_das_plantas
+d: @en_the process of growth in plants
+hypo: crescimento 2
+sa: @en:noun.process:vegetation
+
+w: virilização
+d: @en_the abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction)
+hypo: crescimento 2
+sa: @en:noun.process:masculinisation
+
+w: vulcanização
+d: @en_process of treating rubber or rubberlike materials with sulphur at great heat to improve elasticity and strength or to harden them
+hypo: processamento
+sa: @en:noun.process:vulcanisation
+
+w: zona_de_subducção
+d: @en_a geological process in which one edge of a crustal plate is forced sideways and downward into the mantle below another plate
+hypo: @en_geologic_process
+sa: @en:noun.process:subduction
+

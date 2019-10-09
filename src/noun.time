@@ -1,0 +1,7552 @@
+noun.time
+
+w: 11_de_setembro
+d: @en_the day in 2001 when Arab suicide bombers hijacked United States airliners and used them as bombs
+hp: Setembro
+ihyper: noun.act:@en_terrorist_attack
+mt: noun.act:Terrorismo
+sa: @en:noun.time:9-11
+
+w: 12_de_Fevereiro
+w: 12_de_fevereiro
+d: @en_the day on which President Abraham Lincoln is remembered
+hp: Fevereiro
+hypo: dia 6
+mr: noun.location:América
+sa: @en:noun.time:February_12
+
+w: 14_de_Abril
+w: 14_de_abril
+d: @en_a day celebrating political and economic unity among American countries
+hp: Abril
+hypo: dia 6
+sa: @en:noun.time:April_14
+
+w: 15_de_agosto
+d: @en_celebration in the Roman Catholic Church of the Virgin Mary's being taken up into heaven when her earthly life ended; corresponds to the Dormition in the Eastern Orthodox Church
+hp: Agosto
+hypo: @en_holy_day_of_obligation
+sa: @en:noun.time:Assumption
+
+w: 15_minutos
+w: quarto_de_hora
+d: @en_a unit of time equal to 15 minutes or a quarter of an hour
+e: um quarto pras 4
+hp: hora 4
+hypo: Unidades_de_tempo
+sa: @en:noun.time:quarter 3
+
+w: 17_de_Setembro
+w: 17_de_setembro
+d: @en_celebrated in the United States
+hp: Setembro
+hypo: dia 6
+sa: @en:noun.time:Citizenship_Day
+
+w: 19_de_Janeiro
+w: 19_de_janeiro
+d: @en_celebrated in southern United States
+hypo: dia 6
+sa: @en:noun.time:January_19
+
+w: 19_de_Março
+w: 19_de_março
+d: @en_a Christian holy day
+hp: mar
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:March_19
+
+w: 1_de_Julho
+w: 1_de_julho
+d: @en_a legal holiday in Canada commemorating receiving Dominion status in 1867
+hp: Julho
+hypo: feriado_nacional
+mr: noun.location:Canada
+sa: @en:noun.time:Dominion_Day
+
+w: 1_de_janeiro
+d: @en_(Roman Catholic Church) a holy day of obligation
+hp: Janeiro
+hypo: @en_holy_day_of_obligation
+mt: noun.group:Igreja_Católica
+sa: @en:noun.time:January_1 1
+
+w: 20_de_Janeiro
+w: 20_de_janeiro
+d: @en_a Christian holy day
+hp: Janeiro
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:January_20 1
+
+w: 21_de_junho
+d: @en_June 21, when the sun is at its northernmost point
+hp: Jun
+hp: estio
+hypo: solstício
+sa: @en:noun.time:June_21
+
+w: 22_de_Fevereiro
+w: 22_de_fevereiro
+d: @en_the day on which George Washington is remembered
+hp: Fevereiro
+hypo: dia 6
+mr: noun.location:América
+sa: @en:noun.time:February_22
+
+w: 24/7
+d: @en_uptime is 24 hours a day 7 days a week
+hypo: Uptime
+sa: @en:noun.time:24/7
+
+w: 24_de_Outubro
+w: 24_de_outubro
+d: @en_a day for celebrating the founding of the United Nations
+hp: Outubro
+hypo: dia 6
+sa: @en:noun.time:October_24
+
+w: 24_de_junho
+w: Dia_de_São_João
+w: o_meio_do_verão_no_hemisferio_norte
+d: @en_a quarter day in England, Wales, and Ireland
+hp: Jun
+hypo: @en_quarter_day
+sa: @en:noun.time:June_24
+
+w: 29_de_Fevereiro
+w: 29_de_fevereiro
+d: @en_the name of the day that is added during a leap year
+hp: Fevereiro
+hypo: dia 6
+sa: @en:noun.time:February_29
+
+w: 2_de_Março
+w: 2_de_março
+d: @en_Texans celebrate the anniversary of Texas' declaration of independence from Mexico in 1836
+hp: mar
+hypo: dia 6
+sa: @en:noun.time:March_2
+
+w: 2_de_novembro
+w: Dia_de_Finados
+w: Dia_dos_Mortos
+d: @en_a day of supplication for all the souls in purgatory
+hp: Nazaré
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:All_Souls'_Day
+
+w: 365_dias
+w: ano
+d: @en_a year that is not a leap year
+hypo: ano 3
+sa: @en:noun.time:365_days
+
+w: 3_de_Junho
+w: 3_de_junho
+d: @en_celebrated in southern United States
+hp: Jun
+hypo: dia 6
+sa: @en:noun.time:Davis'_Birthday
+
+w: 5_de_Novembro
+w: 5_de_novembro
+d: @en_anniversary of the discovery of the Gunpowder Plot
+hp: Nazaré
+hyper: @en_Bonfire_Night
+hyper: @en_Guy_Fawkes_Day
+hypo: dia 6
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:November_5
+
+w: 6_de_agosto
+w: Transfiguração
+d: @en_(Christianity) a church festival held in commemoration of the Transfiguration of Jesus
+hypo: feriado_religioso_cristão
+mt: noun.cognition:cristianismo
+sa: @en:noun.time:August_6
+
+w: 8_de_dezembro
+d: @en_Roman Catholic holy day first celebrated in 1854
+hypo: @en_holy_day_of_obligation
+sa: @en:noun.time:December_8
+
+w: @en_11_November
+w: @en_Martinmas
+w: @en_St_Martin's_Day
+d: @en_the feast of Saint Martin; a quarter day in Scotland
+hp: Nazaré
+hypo: @en_quarter_day
+sa: @en:noun.time:11_November
+
+w: @en_14_July
+w: @en_Bastille_Day
+d: @en_a legal holiday in France celebrating the storming of the Paris bastille in 1789
+hp: Julho
+hypo: feriado_nacional
+sa: @en:noun.time:14_July
+
+w: @en_15_August_1945
+w: @en_V-J_Day
+d: @en_the date of Allied victory over Japan, World War II
+ihyper: @en_V-day
+sa: @en:noun.time:15_August_1945
+
+w: @en_15_minutes
+w: @en_quarter-hour
+d: @en_a quarter of an hour
+hp: hora 4
+hypo: Unidades_de_tempo
+sa: @en:noun.time:15_minutes
+
+w: @en_8_May_1945
+w: @en_V-E_Day
+d: @en_the date of Allied victory in Europe, World War II
+ihyper: @en_V-day
+sa: @en:noun.time:8_May_1945
+
+w: @en_Adar_Sheni
+w: @en_Veadar
+d: @en_included seven times in every 19 years
+hp: Calendário_Judaico
+hypo: mês__judaico
+sa: @en:noun.time:Adar_Sheni
+
+w: @en_Admission_Day
+d: @en_in some states of the United States: a legal holiday commemorating the day the state was admitted to the Union
+hypo: dia 6
+sa: @en:noun.time:Admission_Day
+
+w: @en_Advent_Sunday
+d: @en_the first of the four Sundays during Advent
+hp: Advento
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Advent_Sunday
+
+w: @en_Aghan
+w: @en_Margasivsa
+d: @en_the ninth month of the Hindu calendar
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+sa: @en:noun.time:Aghan
+
+w: @en_Alaska_Standard_Time
+w: @en_Yukon_Time
+d: @en_standard time in the 9th time zone west of Greenwich, reckoned at the 135th meridian west; used in Hawaii and most of Alaska
+hypo: Horário_padrão
+sa: @en:noun.time:Alaska_Standard_Time
+
+w: @en_Allhallowtide
+d: @en_the season of All Saints' Day
+hypo: estação 2
+sa: @en:noun.time:Allhallowtide
+
+w: @en_American_Indian_Day
+d: @en_US: the 4th Friday in September
+hp: Setembro
+hypo: dia 6
+sa: @en:noun.time:American_Indian_Day
+
+w: @en_Arbor_Day
+d: @en_a day designated for planting trees
+hypo: dia 6
+sa: @en:noun.time:Arbor_Day
+
+w: @en_Armed_Forces_Day
+d: @en_the 3rd Saturday in May
+hp: maio
+hypo: dia 6
+sa: @en:noun.time:Armed_Forces_Day
+
+w: @en_Armistice_Day
+w: @en_November_11
+w: @en_Veterans'_Day
+w: @en_Veterans_Day
+d: @en_a legal holiday in the United States; formerly Armistice Day but called Veterans' Day since 1954
+hp: Nazaré
+hypo: feriado_nacional
+sa: @en:noun.time:Armistice_Day
+
+w: @en_Asadha
+w: @en_Asarh
+d: @en_the fourth month of the Hindu calendar
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+sa: @en:noun.time:Asadha
+
+w: @en_Atlantic_Standard_Time
+w: @en_Atlantic_Time
+d: @en_standard time in the 4th time zone west of Greenwich, reckoned at the 60th meridian; used in Puerto Rico and the Virgin Islands and Bermuda and the Canadian Maritime Provinces
+hypo: Horário_padrão
+sa: @en:noun.time:Atlantic_Standard_Time
+
+w: @en_August_1
+w: @en_Lammas
+w: @en_Lammas_Day
+d: @en_commemorates Saint Peter's miraculous deliverance from prison; a quarter day in Scotland; a harvest festival in England
+hypo: @en_quarter_day
+sa: @en:noun.time:August_1
+
+w: @en_Bering_Standard_Time
+w: @en_Bering_Time
+d: @en_standard time in the 11th time zone west of Greenwich, reckoned at the 165th meridian west; used in the Midway Islands
+hypo: Horário_padrão
+sa: @en:noun.time:Bering_Standard_Time
+
+w: @en_Bhadon
+w: @en_Bhadrapada
+d: @en_the sixth month of the Hindu calendar
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+sa: @en:noun.time:Bhadon
+
+w: @en_Bonfire_Night
+w: @en_Guy_Fawkes_Night
+d: @en_effigies of Guy Fawkes are burned on this night
+hypo: 5_de_Novembro
+sa: @en:noun.time:Bonfire_Night
+
+w: @en_CST
+w: @en_Central_Standard_Time
+w: @en_Central_Time
+d: @en_standard time in the 6th time zone west of Greenwich, reckoned at the 90th meridian; used in the central United States
+hypo: Horário_padrão
+sa: @en:noun.time:CST
+
+w: @en_Caitra
+w: @en_Chait
+d: @en_the first Hindu calendar month (corresponding to March in the Gregorian calendar)
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+mp: Ramnavami
+sa: @en:noun.time:Caitra
+
+w: @en_Candlemas
+w: @en_Candlemas_Day
+w: @en_Feb_2
+d: @en_feast day commemorating the presentation of Christ in the temple; a quarter day in Scotland
+hp: Fevereiro
+hypo: @en_quarter_day
+sa: @en:noun.time:Candlemas
+
+w: @en_Circumcision
+w: @en_Feast_of_the_Circumcision
+w: @en_January_1
+d: @en_(Roman Catholic Church and Anglican Church) feast day celebrating the circumcision of Jesus; celebrated on January 1st
+hypo: festividade
+mt: noun.group:Comunhão_Anglicana
+mt: noun.group:Igreja_Católica
+sa: @en:noun.time:Circumcision
+
+w: @en_Columbus_Day
+w: @en_Discovery_Day
+w: @en_October_12
+d: @en_a legal holiday commemorating the discovery of America by Christopher Columbus
+hp: Outubro
+hypo: feriado_nacional
+sa: @en:noun.time:Columbus_Day
+
+w: @en_Commonwealth_Day
+w: @en_Empire_day
+w: @en_May_24
+d: @en_British, anniversary of Queen Victoria's birth
+hp: maio
+hypo: feriado_nacional
+sa: @en:noun.time:Commonwealth_Day
+
+w: @en_Corpus_Christi
+d: @en_Thursday after Trinity Sunday; first celebrated in 1246
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Corpus_Christi
+
+w: @en_Dhu'l-Qa'dah
+w: @en_Dhu_al-Qadah
+d: @en_the eleventh month of the Islamic calendar
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Dhu'l-Qa'dah
+
+w: @en_ERT
+w: @en_Earth-received_time
+d: @en_the coordinated universal time when an event is received on Earth
+hypo: @en_UTC
+sa: @en:noun.time:ERT
+
+w: @en_EST
+w: @en_Eastern_Standard_Time
+w: @en_Eastern_Time
+d: @en_standard time in the 5th time zone west of Greenwich, reckoned at the 75th meridian; used in the eastern United States
+hypo: Horário_padrão
+sa: @en:noun.time:EST
+
+w: @en_Eolithic
+w: @en_Eolithic_Age
+d: @en_the earliest part of the Stone Age marked by the earliest signs of human culture
+hp: Idade_da_Pedra
+ihyper: etapa
+sa: @en:noun.time:Eolithic
+
+w: @en_Fast_of_Tammuz
+d: @en_(Judaism) a minor fast day on Tammuz 17 when the walls of Jerusalem were breached
+hypo: @en_minor_fast_day
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Fast_of_Tammuz
+
+w: @en_Fast_of_Tevet
+d: @en_(Judaism) a minor fast day on Tevet 10 commemorates the beginning of the siege of Jerusalem and has also been proclaimed a memorial day for the six million Jews who died in the Holocaust
+hypo: @en_minor_fast_day
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Fast_of_Tevet
+
+w: @en_Father's_Day
+d: @en_US: third Sunday in June
+hp: Jun
+hypo: dia 6
+sa: @en:noun.time:Father's_Day
+
+w: @en_Feast_of_Booths
+w: @en_Feast_of_Tabernacles
+w: @en_Succos
+w: @en_Succoth
+w: @en_Sukkoth
+w: @en_Tabernacles
+d: @en_a major Jewish festival beginning on the eve of the 15th of Tishri and commemorating the shelter of the Israelites during their 40 years in the wilderness
+hp: @en_Tishri
+hypo: Festividades_religiosas
+hypo: festas_judaicas
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Feast_of_Booths
+
+w: @en_Flag_Day
+w: @en_June_14
+d: @en_commemorating the adoption of the United States flag in 1777
+hp: Jun
+hypo: dia 6
+sa: @en:noun.time:Flag_Day
+
+w: @en_Floreal
+d: @en_eighth month of the Revolutionary calendar (April and May); the month of flowers
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Floreal
+
+w: @en_Fourth_of_July
+w: @en_Independence_Day
+w: @en_July_4
+d: @en_a legal holiday in the United States
+hp: Julho
+hypo: feriado_nacional
+sa: @en:noun.time:Fourth_of_July
+
+w: @en_Guy_Fawkes_Day
+d: @en_day for the celebration of the discovery of the Gunpowder Plot
+hypo: 5_de_Novembro
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:Guy_Fawkes_Day
+
+w: @en_Hawaii_Standard_Time
+w: @en_Hawaii_Time
+d: @en_standard time in the 10th time zone west of Greenwich, reckoned at the 150th meridian west; used in Hawaii and the western Aleutian Islands
+hypo: Horário_padrão
+sa: @en:noun.time:Hawaii_Standard_Time
+
+w: @en_Hindu_calendar_month
+d: @en_any lunisolar month in the Hindu calendar
+hp: Calendário_hindu
+hyper: @en_Aghan
+hyper: @en_Asadha
+hyper: @en_Bhadon
+hyper: @en_Caitra
+hyper: @en_Jeth
+hyper: @en_Phagun
+hyper: Asvina
+hyper: Baishakh
+hyper: Karttika
+hyper: Magha
+hyper: Pansa
+hyper: Sravana
+hypo: mês 1
+sa: @en:noun.time:Hindu_calendar_month
+
+w: @en_Hogmanay
+d: @en_New Year's Eve in Scotland
+hypo: Véspera_de_Ano-Novo
+sa: @en:noun.time:Hogmanay
+
+w: @en_Holy_Innocents'_Day
+w: @en_Innocents'_Day
+d: @en_December 28, commemorating Herod's slaughter of the children of Bethlehem
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Holy_Innocents'_Day
+
+w: @en_Id_al-Fitr
+d: @en_a Muslim day of feasting at the end of Ramadan
+hypo: festividade
+sa: @en:noun.time:Id_al-Fitr
+
+w: @en_Inauguration_Day
+w: @en_January_20
+d: @en_the day designated for inauguration of the United States President
+hp: Janeiro
+hypo: dia 6
+sa: @en:noun.time:Inauguration_Day
+
+w: @en_Islamic_calendar_month
+d: @en_any lunar month in the Muslim calendar
+hp: Calendário_Islâmico
+hyper: @en_Dhu'l-Qa'dah
+hyper: @en_Rabi_II
+hyper: Dhu_al-Hija
+hyper: Jumada_Al-awwal
+hyper: Jumada_al-Thani
+hyper: Muharram
+hyper: Rabi_al-Awwal
+hyper: Rajab
+hyper: Ramadão
+hyper: Safar
+hyper: Sha'aban
+hyper: Shawwal
+hypo: mês 1
+sa: @en:noun.time:Islamic_calendar_month
+
+w: @en_Jazz_Age
+d: @en_the 1920s in the United States characterized in the novels of F. Scott Fitzgerald as a period of wealth, youthful exuberance, and carefree hedonism
+hypo: era 4
+sa: @en:noun.time:Jazz_Age
+
+w: @en_Jeth
+w: @en_Jyaistha
+d: @en_the third month of the Hindu calendar
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+sa: @en:noun.time:Jeth
+
+w: @en_June_23
+w: @en_Midsummer_Eve
+w: @en_Midsummer_Night
+w: @en_St_John's_Eve
+w: @en_St_John's_Night
+d: @en_the night before Midsummer Day
+hp: Jun
+hypo: dia 6
+sa: @en:noun.time:June_23
+
+w: @en_Labor_Day
+d: @en_first Monday in September in the United States and Canada
+hp: Setembro
+hypo: feriado_nacional
+sa: @en:noun.time:Labor_Day
+
+w: @en_Lag_b'Omer
+d: @en_(Judaism) Jewish holy day; the 33rd day after the 2nd day of Passover; the 18th day of Iyar
+hp: Iyar
+hypo: festas_judaicas
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Lag_b'Omer
+
+w: @en_Lammastide
+d: @en_the season of Lammas
+hypo: estação 2
+mr: noun.location:Escocia
+sa: @en:noun.time:Lammastide
+
+w: @en_M.M.
+w: @en_beats_per_minute
+w: @en_bpm
+w: @en_metronome_marking
+d: @en_the pace of music measured by the number of beats occurring in 60 seconds
+hp: noun.act:música
+hypo: ritmo 1
+mt: noun.communication:música
+sa: @en:noun.time:M.M.
+
+w: @en_March_equinox
+w: @en_spring_equinox
+w: @en_vernal_equinox
+d: @en_March 21
+hp: mar
+hp: primavera
+hyper: Noruz
+hypo: equinócio
+sa: @en:noun.time:March_equinox
+
+w: @en_Mardi_Gras
+w: @en_Shrove_Tuesday
+w: @en_pancake_day
+d: @en_the last day before Lent
+hp: Tempo_da_Septuagésima
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Mardi_Gras
+
+w: @en_Mesasamkranti
+d: @en_Hindu solar holiday at the beginning of the new astrological year when the sun enters the constellation Aries
+hp: Magha
+hypo: Efeméride
+sa: @en:noun.time:Mesasamkranti
+
+w: @en_Michaelmastide
+d: @en_the season of Michaelmas
+hypo: estação 2
+sa: @en:noun.time:Michaelmastide
+
+w: @en_Nyquist_rate
+d: @en_(telecommunication) the lowest sampling rate that will permit accurate reconstruction of a sampled analog signal
+hypo: taxa_de_amostragem
+mt: noun.communication:telecomunicação
+sa: @en:noun.time:Nyquist_rate
+
+w: @en_OWLT
+w: @en_one-way_light_time
+d: @en_the elapsed time it takes for light (or radio signals) to travel between the Earth and a celestial object
+hypo: tempo_decorrido
+sa: @en:noun.time:OWLT
+
+w: @en_PST
+w: @en_Pacific_Standard_Time
+w: @en_Pacific_Time
+d: @en_standard time in the 8th time zone west of Greenwich, reckoned at the 120th meridian west; used in far western states of the United States
+hypo: Horário_padrão
+sa: @en:noun.time:PST
+
+w: @en_Passion_Sunday
+d: @en_second Sunday before Easter
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Passion_Sunday
+
+w: @en_Patriot's_Day
+d: @en_the 3rd Monday in April; Massachusetts and Maine celebrate the battle of Lexington and Concord in 1775
+hp: Abril
+hypo: dia 6
+sa: @en:noun.time:Patriot's_Day
+
+w: @en_Phagun
+w: @en_Phalguna
+d: @en_the twelfth month of the Hindu calendar
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+sa: @en:noun.time:Phagun
+
+w: @en_Poppy_Day
+w: @en_Remembrance_Day
+w: @en_Remembrance_Sunday
+d: @en_the Sunday nearest to November 11 when those who died in World War I and World War II are commemorated
+hypo: Efeméride
+mr: noun.location:Canada
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:Poppy_Day
+
+w: @en_Quadragesima
+w: @en_Quadrigesima_Sunday
+d: @en_the first Sunday in Lent
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Quadragesima
+
+w: @en_ROI
+w: @en_return_on_invested_capital
+w: @en_return_on_investment
+d: @en_(corporate finance) the amount, expressed as a percentage, that is earned on a company's total capital calculated by dividing the total capital into earnings before interest, taxes, or dividends are paid
+hypo: Retorno_sobre_investimento
+mt: noun.act:Taxa_mínima_de_atratividade
+sa: @en:noun.time:ROI
+
+w: @en_RTLT
+w: @en_round-trip_light_time
+d: @en_the elapsed time it takes for a signal to travel from Earth to a spacecraft (or other body) and back to the starting point
+hypo: tempo_decorrido
+sa: @en:noun.time:RTLT
+
+w: @en_Rabi_II
+d: @en_the fourth month of the Islamic calendar
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Rabi_II
+
+w: @en_Regency
+d: @en_the period from 1811-1820 when the Prince of Wales was regent during George III's periods of insanity
+ihyper: reinado
+mr: noun.location:Inglaterra
+sa: @en:noun.time:Regency
+
+w: @en_Restoration
+d: @en_the reign of Charles II in England; 1660-1685
+ihyper: era 4
+sa: @en:noun.time:Restoration
+
+w: @en_Revolutionary_calendar
+d: @en_the calendar adopted by the first French Republic in 1793 and abandoned in 1805; dates were calculated from Sept. 22, 1792
+hypo: @en_solar_calendar
+mp: @en_Floreal
+mp: @en_Revolutionary_calendar_month
+mp: Brumário
+mp: Frimário
+mp: Fructidor
+mp: Germinal
+mp: Messidor
+mp: Nivoso
+mp: Pluvioso
+mp: Pradial
+mp: Termidor
+mp: Ventoso
+mp: Vindimiário
+sa: @en:noun.time:Revolutionary_calendar
+
+w: @en_Revolutionary_calendar_month
+d: @en_a month in the Revolutionary calendar
+hp: @en_Revolutionary_calendar
+hyper: @en_Floreal
+hyper: Brumário
+hyper: Frimário
+hyper: Fructidor
+hyper: Germinal
+hyper: Messidor
+hyper: Nivoso
+hyper: Pluvioso
+hyper: Pradial
+hyper: Termidor
+hyper: Ventoso
+hyper: Vindimiário
+hypo: mês 1
+sa: @en:noun.time:Revolutionary_calendar_month
+
+w: @en_Rogation_Day
+d: @en_one of the three days before Ascension Day; observed by some Christians as days of supplication
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Rogation_Day
+
+w: @en_SCET
+w: @en_spacecraft_event_time
+d: @en_the coordinated universal time on board the spacecraft
+hypo: @en_UTC
+sa: @en:noun.time:SCET
+
+w: @en_SCLK
+w: @en_spacecraft_clock_time
+d: @en_the clock time given by a clock carried on board a spacecraft
+hypo: hora 7
+sa: @en:noun.time:SCLK
+
+w: @en_September_equinox
+w: @en_autumnal_equinox
+w: @en_fall_equinox
+d: @en_September 22
+hp: Setembro
+hp: outono
+hypo: equinócio
+sa: @en:noun.time:September_equinox
+
+w: @en_Shebat
+w: @en_Shevat
+d: @en_the fifth month of the civil year: the eleventh month of the ecclesiastical year in the Jewish calendar (in January and February)
+hp: Calendário_Judaico
+hypo: mês__judaico
+sa: @en:noun.time:Shebat
+
+w: @en_THz
+w: @en_terahertz
+d: @en_one trillion periods per second
+hypo: ritmo
+sa: @en:noun.time:THz
+
+w: @en_TRM
+w: @en_transmission_time
+d: @en_the coordinated universal time when a transmission is sent from Earth to a spacecraft or other celestial body
+hypo: @en_UTC
+sa: @en:noun.time:TRM
+
+w: @en_Tammuz
+w: @en_Thammuz
+d: @en_the tenth month of the civil year; the fourth month of the ecclesiastic year (in June and July)
+hp: Calendário_Judaico
+hypo: mês__judaico
+sa: @en:noun.time:Tammuz
+
+w: @en_Tet
+d: @en_the New Year in Vietnam; observed for three days after the first full moon after January 20th
+hp: Janeiro
+hypo: dia 6
+sa: @en:noun.time:Tet
+
+w: @en_Tishri
+d: @en_the first month of the civil year; the seventh month of the ecclesiastical year in the Jewish calendar (in September and October)
+hp: Calendário_Judaico
+hypo: mês__judaico
+mp: @en_Feast_of_Booths
+sa: @en:noun.time:Tishri
+
+w: @en_Twelfthtide
+d: @en_the season of Epiphany
+hypo: estação 2
+sa: @en:noun.time:Twelfthtide
+
+w: @en_UTC
+w: @en_coordinated_universal_time
+d: @en_Greenwich Mean Time updated with leap seconds
+hyper: @en_ERT
+hyper: @en_SCET
+hyper: @en_TRM
+hypo: GMT
+sa: @en:noun.time:UTC
+
+w: @en_V-day
+w: @en_Victory_Day
+d: @en_the day of a victory
+hypo: dia 6
+ihypo: @en_15_August_1945
+ihypo: @en_8_May_1945
+sa: @en:noun.time:V-day
+
+w: @en_Victoria_Day
+d: @en_a public holiday in Canada on the Monday on or before May 24th
+hypo: feriado_nacional
+sa: @en:noun.time:Victoria_Day
+
+w: @en_Victorian_age
+d: @en_a period in British history during the reign of Queen Victoria in the 19th century; her character and moral standards restored the prestige of the British monarchy but gave the era a prudish reputation
+ihyper: era 4
+sa: @en:noun.time:Victorian_age
+
+w: @en_airspeed
+d: @en_the speed of an aircraft relative to the air in which it is flying
+hypo: velocidade 1
+sa: @en:noun.time:airspeed
+
+w: @en_allegretto
+d: @en_a quicker tempo than andante but not as fast as allegro
+hypo: andamento
+sa: @en:noun.time:allegretto
+
+w: @en_allegro
+d: @en_a brisk and lively tempo
+hyper: @en_allegro_con_spirito
+hypo: andamento
+sa: @en:noun.time:allegro
+
+w: @en_allegro_con_spirito
+d: @en_lively with spirit
+hypo: @en_allegro
+sa: @en:noun.time:allegro_con_spirito
+
+w: @en_andante
+d: @en_a moderately slow tempo (a walking pace)
+hypo: andamento
+sa: @en:noun.time:andante
+
+w: @en_annum
+d: @en_(Latin) year
+hypo: ano 3
+mt: noun.communication:latim
+sa: @en:noun.time:annum
+
+w: @en_anomalistic_year
+d: @en_time of the earth's revolution from perihelion to perihelion again; 365 days and 6 hr and 13 min and 53.1 sec
+hypo: ano 6
+sa: @en:noun.time:anomalistic_year
+
+w: @en_arrival_time
+w: @en_time_of_arrival
+d: @en_the time at which a public conveyance is scheduled to arrive at a given destination
+hypo: instante 2
+sa: @en:noun.time:arrival_time
+
+w: @en_attosecond
+d: @en_one quintillionth (10^-18) of a second; one thousandth of a femtosecond
+hp: Femtossegundo
+hypo: Unidades_de_tempo
+sa: @en:noun.time:attosecond
+
+w: @en_auld_langsyne
+w: @en_good_old_days
+w: @en_langsyne
+w: @en_old_times
+d: @en_past times remembered with nostalgia
+hypo: passado
+sa: @en:noun.time:auld_langsyne
+
+w: @en_bachelorhood
+d: @en_the time of a man's life prior to marriage
+hypo: período 12
+sa: @en:noun.time:bachelorhood
+
+w: @en_baseball_season
+d: @en_the season when baseball is played
+hyper: @en_triple-crown_season
+hypo: estação 1
+sa: @en:noun.time:baseball_season
+
+w: @en_beauty_sleep
+d: @en_sleep before midnight
+hypo: sesta 1
+sa: @en:noun.time:beauty_sleep
+
+w: @en_bicentenary
+w: @en_bicentennial
+d: @en_the 200th anniversary (or the celebration of it)
+hypo: aniversário 1
+sa: @en:noun.time:bicentenary
+
+w: @en_bimillenary
+w: @en_bimillennium
+d: @en_the 2000th anniversary (or the celebration of it)
+hypo: aniversário 1
+sa: @en:noun.time:bimillenary 1
+
+w: @en_biological_clock
+d: @en_an innate mechanism in living organisms that controls the periodicity of many physiological functions
+hypo: noun.object:mecanismo
+sa: @en:noun.time:biological_clock
+
+w: @en_biological_time
+d: @en_the time of various biological processes
+hyper: @en_refractory_period
+hyper: Ritmo_circadiano
+hyper: gestação
+hyper: menopausa
+hyper: menopausa 1
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:biological_time
+
+w: @en_blackout
+d: @en_a suspension of radio or tv broadcasting
+hypo: fazerumapausa
+sa: @en:noun.time:blackout
+
+w: @en_bloom
+w: @en_bloom_of_youth
+w: @en_salad_days
+d: @en_the best time of youth
+hp: infância
+hypo: período 12
+sa: @en:noun.time:bloom
+
+w: @en_bottom
+w: @en_bottom_of_the_inning
+d: @en_the second half of an inning; while the home team is at bat
+hp: turno 4
+hypo: jogo 1
+sa: @en:noun.time:bottom
+
+w: @en_bout
+d: @en_a period of illness
+hypo: etapa
+sa: @en:noun.time:bout 1
+
+w: @en_boyhood
+d: @en_the childhood of a boy
+hypo: infância 1
+sa: @en:noun.time:boyhood
+
+w: @en_by-and-by
+d: @en_an indefinite time in the future
+hypo: futuro 1
+sa: @en:noun.time:by-and-by
+
+w: @en_bygone
+w: @en_water_under_the_bridge
+d: @en_past events to be put aside
+e: Deixar o passado ser passado
+hypo: passado
+sa: @en:noun.time:bygone
+
+w: @en_centripetal_acceleration
+d: @en_the acceleration toward the center that holds a satellite in elliptical orbit
+hypo: aceleração
+sa: @en:noun.time:centripetal_acceleration
+
+w: @en_channel_capacity
+d: @en_the maximum data rate that can be attained over a given channel
+hypo: taxa_de_transferência_de_dados
+sa: @en:noun.time:channel_capacity
+
+w: @en_checkout
+w: @en_checkout_time
+d: @en_the latest time for vacating a hotel room
+hypo: @en_departure_time
+sa: @en:noun.time:checkout
+
+w: @en_chukka
+w: @en_chukker
+d: @en_(polo) one of six divisions into which a polo match is divided
+hp: jogo
+hypo: noun.cognition:componente 1
+mt: noun.act:Polo
+sa: @en:noun.time:chukka
+
+w: @en_church_calendar
+w: @en_ecclesiastical_calendar
+d: @en_a calendar of the Christian year indicating the dates of fasts and festivals
+hypo: Calendario_gregoriano
+mp: Advento
+mp: Quaresma
+mp: Semana_Santa
+mp: Tempo_da_Septuagésima
+mp: pentecostes
+sa: @en:noun.time:church_calendar
+
+w: @en_clocking
+d: @en_the time taken to traverse a measured course
+hypo: continuidade
+sa: @en:noun.time:clocking
+
+w: @en_cold_snap
+w: @en_cold_spell
+d: @en_a spell of cold weather
+hypo: instante
+sa: @en:noun.time:cold_snap
+
+w: @en_commencement_day
+w: @en_degree_day
+d: @en_the day on which university degrees are conferred
+hypo: dia 6
+sa: @en:noun.time:commencement_day
+
+w: @en_common_measure
+w: @en_common_time
+w: @en_four-four_time
+w: @en_quadruple_time
+d: @en_a time signature indicating four beats to the bar
+hypo: tacto
+sa: @en:noun.time:common_measure
+
+w: @en_compassionate_leave
+d: @en_(military) leave granted in an emergency such as family sickness or death
+hypo: licença 1
+mt: noun.group:exército 3
+sa: @en:noun.time:compassionate_leave
+
+w: @en_compensatory_time
+d: @en_time off that is granted to a worker as compensation for working overtime
+hypo: férias 4
+sa: @en:noun.time:compensatory_time
+
+w: @en_count_per_minute
+w: @en_counts/minute
+d: @en_frequency per minute
+hypo: Frequencia
+sa: @en:noun.time:count_per_minute
+
+w: @en_cradle
+d: @en_birth of a person
+hypo: nascimento
+sa: @en:noun.time:cradle
+
+w: @en_dawn
+d: @en_an opening time period
+hypo: etapa
+mu: noun.communication:figura_de_linguagem
+sa: @en:noun.time:dawn 1
+
+w: @en_daylight-saving_time
+w: @en_daylight-savings_time
+w: @en_daylight_saving
+w: @en_daylight_savings
+d: @en_time during which clocks are set one hour ahead of local standard time; widely adopted during summer to provide extra daylight in the evenings
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:daylight-saving_time
+
+w: @en_dead
+d: @en_a time when coldness (or some other quality associated with death) is intense
+e: no auge do inverno
+hypo: era 3
+sa: @en:noun.time:dead
+
+w: @en_dead_air
+d: @en_an inadvertent interruption in a broadcast during which there is no sound
+hypo: fazerumapausa
+sa: @en:noun.time:dead_air
+
+w: @en_deep
+d: @en_the central and most intense or profound part
+hypo: meio
+sa: @en:noun.time:deep
+
+w: @en_departure_time
+w: @en_time_of_departure
+d: @en_the time at which a public conveyance is scheduled to depart from a given point of origin
+hyper: @en_checkout
+hypo: instante 2
+sa: @en:noun.time:departure_time
+
+w: @en_diamond_jubilee
+d: @en_an anniversary celebrating the passage of 60 years
+hypo: jubileu 1
+sa: @en:noun.time:diamond_jubilee
+
+w: @en_distance
+d: @en_a remote point in time
+hypo: instante 2
+sa: @en:noun.time:distance 1
+
+w: @en_distance 1
+w: @en_space
+d: @en_the interval between two times
+hypo: intervalo 2
+sa: @en:noun.time:distance
+
+w: @en_dogwatch
+d: @en_either of two short watches: from 4-6 pm or 6-8 pm
+hypo: @en_watch
+sa: @en:noun.time:dogwatch
+
+w: @en_dose_rate
+d: @en_the quantity of radiation absorbed per unit time
+hypo: ritmo
+sa: @en:noun.time:dose_rate
+
+w: @en_downtime
+d: @en_a period of time when something (as a machine or factory) is not operating (especially as a result of malfunctions)
+hypo: etapa
+sa: @en:noun.time:downtime
+
+w: @en_drinking_age
+d: @en_the age at which is legal for a person to buy alcoholic beverages
+hp: maturidade
+hypo: idade 4
+sa: @en:noun.time:drinking_age
+
+w: @en_duty_tour
+w: @en_enlistment
+w: @en_hitch
+w: @en_term_of_enlistment
+w: @en_tour
+w: @en_tour_of_duty
+d: @en_a period of time spent in military service
+hypo: etapa
+sa: @en:noun.time:duty_tour
+
+w: @en_early-morning_hour
+d: @en_an hour early in the morning
+hp: madrugada 1
+hypo: hora 6
+sa: @en:noun.time:early-morning_hour
+
+w: @en_eleventh_hour
+w: @en_last_minute
+d: @en_the latest possible moment
+hypo: instante 1
+sa: @en:noun.time:eleventh_hour
+
+w: @en_evensong
+w: @en_vespers
+d: @en_the sixth of the seven canonical hours of the divine office; early evening; now often made a public service on Sundays
+hypo: Horas_Canônicas
+sa: @en:noun.time:evensong
+
+w: @en_exhibition_season
+d: @en_the time before the regular games begin when football or baseball teams play practice games
+hypo: estação 1
+sa: @en:noun.time:exhibition_season
+
+w: @en_extended_time_scale
+w: @en_slow_time_scale
+d: @en_(simulation) the time scale used in data processing when the time-scale factor is greater than one
+hypo: @en_time_scale
+mt: noun.cognition:Modelagem_Computacional
+sa: @en:noun.time:extended_time_scale
+
+w: @en_extra_innings
+d: @en_overtime play until one team is ahead at the end of an inning; e.g. baseball
+hypo: prorrogação
+sa: @en:noun.time:extra_innings
+
+w: @en_face_time
+d: @en_work time spent at the location of or in the presence of other people
+hypo: horas_de_trabalho
+sa: @en:noun.time:face_time
+
+w: @en_femoral_pulse
+d: @en_pulse of the femoral artery (felt in the groin)
+hypo: Frequência_cardíaca
+sa: @en:noun.time:femoral_pulse
+
+w: @en_field_day
+d: @en_(military) a day for military exercises and display
+hypo: dia 6
+mt: noun.group:exército 3
+sa: @en:noun.time:field_day 2
+
+w: @en_field_day 1
+d: @en_a day for outdoor athletic competition
+hypo: dia 6
+sa: @en:noun.time:field_day
+
+w: @en_field_day 2
+d: @en_a time of unusual pleasure and success
+hypo: etapa
+sa: @en:noun.time:field_day 3
+
+w: @en_fifties
+w: @en_mid-fifties
+d: @en_the time of life between 50 and 60
+hp: maturidade
+hypo: período 12
+sa: @en:noun.time:fifties
+
+w: @en_final_period
+d: @en_the final division into which the play of a game is divided
+hp: jogo
+hypo: noun.cognition:componente 1
+sa: @en:noun.time:final_period
+
+w: @en_first_quarter
+d: @en_the first fourth of the Moon's period of revolution around the Earth
+hypo: meia-lua
+sa: @en:noun.time:first_quarter
+
+w: @en_first_trimester
+d: @en_time period extending from the first day of the last menstrual period through 12 weeks of gestation
+hypo: trimestre 1
+sa: @en:noun.time:first_trimester
+
+w: @en_fishing_season
+d: @en_the season during which it is legal to catch fish
+hypo: estação 1
+sa: @en:noun.time:fishing_season
+
+w: @en_float
+d: @en_the time interval between the deposit of a check in a bank and its payment
+hypo: intervalo 2
+sa: @en:noun.time:float
+
+w: @en_football_season
+d: @en_the season when football is played
+hypo: estação 1
+sa: @en:noun.time:football_season
+
+w: @en_full_term
+w: @en_term
+d: @en_the end of gestation or point at which birth is imminent
+hp: gestação
+hypo: instante 2
+sa: @en:noun.time:full_term
+
+w: @en_future_date
+d: @en_a particular day in the future that is specified as the time something will happen
+hypo: data 1
+sa: @en:noun.time:future_date
+
+w: @en_genital_phase
+w: @en_genital_stage
+d: @en_(psychoanalysis) the fifth sexual and social stage in a person's development occurring during adolescence; interest focuses on sexual activity
+hp: Adolescência
+hypo: fase 1
+mt: noun.act:psicanálise
+sa: @en:noun.time:genital_phase
+
+w: @en_girlhood
+w: @en_maidenhood
+w: @en_maidhood
+d: @en_the childhood of a girl
+hypo: infância 1
+sa: @en:noun.time:girlhood
+
+w: @en_golden_age
+d: @en_a time period when some activity or skill was at its peak
+hypo: auge
+sa: @en:noun.time:golden_age 2
+
+w: @en_grave
+d: @en_death of a person
+hypo: fim 2
+sa: @en:noun.time:grave
+
+w: @en_groundspeed
+d: @en_the speed of an aircraft relative to the ground
+hypo: velocidade 1
+sa: @en:noun.time:groundspeed
+
+w: @en_guest_night
+d: @en_an evening when members of a club or college can bring their friends as guests
+hypo: anoitecer 1
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:guest_night
+
+w: @en_half-holiday
+d: @en_a day on which half is free from work or duty
+hypo: Efeméride
+sa: @en:noun.time:half-holiday
+
+w: @en_half-term
+d: @en_a short vacation about halfway through a school term
+hypo: dia_de_folga
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:half-term
+
+w: @en_hard_time
+d: @en_a term served in a maximum security prison
+hypo: condenação
+sa: @en:noun.time:hard_time
+
+w: @en_harvest_moon
+d: @en_the full moon nearest the September equinox
+hypo: lua_cheia
+sa: @en:noun.time:harvest_moon
+
+w: @en_high_season
+w: @en_peak_season
+d: @en_the season when travel is most active and rates are highest
+hypo: estação 1
+sa: @en:noun.time:high_season
+
+w: @en_high_time
+d: o último momento possível
+hypo: hora 2
+sa: @en:noun.time:high_time
+
+w: @en_holy_day_of_obligation
+d: @en_a day when Catholics must attend Mass and refrain from servile work, and Episcopalians must take Communion
+hyper: 15_de_agosto
+hyper: 1_de_janeiro
+hyper: 8_de_dezembro
+hyper: Ascensão
+hyper: Dia_de_Todos-os-Santos
+hyper: Natal 1
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:holy_day_of_obligation
+
+w: @en_hospitalization
+d: @en_a period of time when you are confined to a hospital
+hypo: etapa
+sa: @en:noun.time:hospitalization
+
+w: @en_hot_spell
+d: @en_a spell of hot weather
+hypo: instante
+sa: @en:noun.time:hot_spell
+
+w: @en_hunting_season
+d: @en_the season during which it is legal to kill a particular species
+hypo: estação 1
+sa: @en:noun.time:hunting_season
+
+w: @en_incubation
+d: @en_(pathology) the phase in the development of an infection between the time a pathogen enters the body and the time the first symptoms appear
+hp: noun.state:infecção
+hypo: fase 1
+mt: noun.cognition:patologia
+sa: @en:noun.time:incubation
+
+w: @en_inflation_rate
+w: @en_rate_of_inflation
+d: @en_the rate of change of prices (as indicated by a price index) calculated on a monthly or annual basis
+hypo: ritmo
+sa: @en:noun.time:inflation_rate
+
+w: @en_interlude
+d: @en_an intervening period or episode
+hyper: entreato
+hypo: intervalo 2
+sa: @en:noun.time:interlude
+
+w: @en_iron_age
+d: @en_(classical mythology) the last and worst age of the world
+hypo: etapa
+mt: noun.group:@en_classical_mythology
+sa: @en:noun.time:iron_age
+
+w: @en_jerk
+d: @en_(mechanics) the rate of change of acceleration
+hypo: ritmo
+mt: noun.cognition:Mecânica
+sa: @en:noun.time:jerk
+
+w: @en_kingdom_come
+d: @en_the end of time
+hypo: futuro 1
+sa: @en:noun.time:kingdom_come
+
+w: @en_kingdom_come 1
+d: @en_the next world
+hypo: além
+sa: @en:noun.time:kingdom_come 1
+
+w: @en_lactation
+d: @en_the period following birth during which milk is secreted
+hypo: etapa
+sa: @en:noun.time:lactation
+
+w: @en_last_half
+w: @en_second_half
+d: @en_the second of two halves of play
+hypo: metade
+sa: @en:noun.time:last_half
+
+w: @en_last_quarter
+d: @en_the last fourth of the Moon's period of revolution around the Earth
+hypo: meia-lua
+sa: @en:noun.time:last_quarter
+
+w: @en_latency_period
+w: @en_latency_phase
+w: @en_latency_stage
+d: @en_(psychoanalysis) the fourth period (from about age 5 or 6 until puberty) during which sexual interests are supposed to be sublimated into other activities
+hp: infância 1
+hypo: fase 1
+mt: noun.act:psicanálise
+sa: @en:noun.time:latency_period
+
+w: @en_latent_period
+d: @en_the time that elapses before the presence of a disease is manifested by symptoms
+hypo: intervalo 2
+sa: @en:noun.time:latent_period
+
+w: @en_liberty
+w: @en_shore_leave
+d: @en_leave granted to a sailor or naval officer
+hypo: licença 1
+sa: @en:noun.time:liberty
+
+w: @en_long_haul
+w: @en_long_run
+d: @en_a period of time sufficient for factors to work themselves out
+hypo: etapa
+sa: @en:noun.time:long_haul
+
+w: @en_longueur
+d: @en_a period of dullness or boredom (especially in a work of literature or performing art)
+hypo: continuidade
+mt: noun.act:arte
+mt: noun.communication:literatura 2
+sa: @en:noun.time:longueur
+
+w: @en_lunar_day
+d: @en_the period of time taken for the moon to make one full rotation on its axis (about 27.3 sidereal days)
+hypo: dia 1
+sa: @en:noun.time:lunar_day
+
+w: @en_lunar_time_period
+w: @en_tide
+d: @en_there are usually two high and two low tides each day
+hypo: etapa
+sa: @en:noun.time:lunar_time_period
+
+w: @en_lunar_year
+d: @en_a period of 12 lunar months
+hypo: ano 6
+mp: lua
+sa: @en:noun.time:lunar_year
+
+w: @en_lunitidal_interval
+d: @en_interval between the moon's transit of a particular meridian and the next high tide at that meridian
+hypo: intervalo 2
+sa: @en:noun.time:lunitidal_interval
+
+w: @en_lustrum
+d: @en_a period of five years
+hypo: etapa
+sa: @en:noun.time:lustrum
+
+w: @en_luteal_phase
+w: @en_secretory_phase
+d: @en_the second half of the menstrual cycle after ovulation; the corpus luteum secretes progesterone which prepares the endometrium for the implantation of an embryo; if fertilization does not occur then menstrual flow begins
+hp: Ciclo_Menstrual
+hypo: fase 1
+sa: @en:noun.time:luteal_phase
+
+w: @en_maiden
+w: @en_maiden_over
+d: @en_(cricket) an over in which no runs are scored
+hypo: @en_over
+mt: noun.act:Criquete
+sa: @en:noun.time:maiden
+
+w: @en_man_hour
+w: @en_person_hour
+d: @en_a time unit used in industry for measuring work
+hp: dia 9
+hypo: hora 4
+sa: @en:noun.time:man_hour
+
+w: @en_manana
+d: @en_an indefinite time in the future
+hypo: futuro 1
+sa: @en:noun.time:manana
+
+w: @en_matins
+w: @en_morning_prayer
+d: @en_the first canonical hour; at daybreak
+hypo: Horas_Canônicas
+sa: @en:noun.time:matins
+
+w: @en_mealtime
+d: @en_the hour at which a meal is habitually or customarily eaten
+hyper: café_da_manhã
+hyper: hora_do_almoço
+hyper: hora_do_jantar
+hypo: hora 6
+sa: @en:noun.time:mealtime
+
+w: @en_mean_solar_time
+w: @en_mean_time
+d: @en_(astronomy) time based on the motion of the mean sun (an imaginary sun moving uniformly along the celestial equator)
+hypo: Unidades_de_tempo
+mt: noun.cognition:Astronomia
+sa: @en:noun.time:mean_solar_time
+
+w: @en_meno_mosso
+d: @en_played at reduced speed; less rapid
+hypo: andamento
+sa: @en:noun.time:meno_mosso
+
+w: @en_metabolic_rate
+d: @en_rate of metabolism; the amount of energy expended in a give period
+hyper: noun.process:Metabolismo_basal
+hypo: ritmo
+sa: @en:noun.time:metabolic_rate
+
+w: @en_mid-April
+d: @en_the middle part of April
+hp: Abril
+hypo: etapa
+sa: @en:noun.time:mid-April
+
+w: @en_mid-January
+d: @en_the middle part of January
+hp: Janeiro
+hypo: etapa
+sa: @en:noun.time:mid-January
+
+w: @en_mid-June
+d: @en_the middle part of June
+hp: Jun
+hypo: etapa
+sa: @en:noun.time:mid-June
+
+w: @en_mid-March
+d: @en_the middle part of March
+hp: mar
+hypo: etapa
+sa: @en:noun.time:mid-March
+
+w: @en_mid-November
+d: @en_the middle part of November
+hp: Nazaré
+hypo: etapa
+sa: @en:noun.time:mid-November
+
+w: @en_mid-October
+d: @en_the middle part of October
+hp: Outubro
+hypo: etapa
+sa: @en:noun.time:mid-October
+
+w: @en_mid-September
+d: @en_the middle part of September
+hp: Setembro
+hypo: etapa
+sa: @en:noun.time:mid-September
+
+w: @en_mid-nineties
+w: @en_nineties
+d: @en_the time of life between 90 and 100
+hp: idade 2
+hypo: período 12
+sa: @en:noun.time:mid-nineties
+
+w: @en_mid-thirties
+w: @en_thirties
+w: @en_thirty-something
+d: @en_the time of life between 30 and 40
+hp: maturidade
+hypo: período 12
+sa: @en:noun.time:mid-thirties
+
+w: @en_mid-twenties
+w: @en_twenties
+d: @en_the time of life between 20 and 30
+hp: maturidade
+hypo: período 12
+sa: @en:noun.time:mid-twenties
+
+w: @en_middle_age
+d: @en_the time of life between youth and old age (e.g., between 40 and 60 years of age)
+hp: maturidade
+hypo: período 12
+mp: menopausa
+mp: menopausa 1
+sa: @en:noun.time:middle_age
+
+w: @en_midterm
+d: @en_the middle of the gestation period
+hp: gestação
+hypo: instante 2
+sa: @en:noun.time:midterm 1
+
+w: @en_midweek
+d: @en_the middle of a week
+hp: semana
+hypo: etapa
+sa: @en:noun.time:midweek
+
+w: @en_miles_per_hour
+w: @en_mph
+d: @en_a speedometer reading for the momentary rate of travel
+hypo: noun.cognition:dado 1
+sa: @en:noun.time:miles_per_hour
+
+w: @en_millenary
+w: @en_millennium
+d: @en_the 1000th anniversary (or the celebration of it)
+hypo: aniversário 1
+sa: @en:noun.time:millenary 2
+
+w: @en_minor_fast_day
+d: @en_one of five minor fast days on the Jewish calendar
+hyper: @en_Fast_of_Tammuz
+hyper: @en_Fast_of_Tevet
+hyper: Jejum_de_Ester
+hyper: Jejum_de_Gedalias
+hyper: jejum_dos_primogênitos
+hypo: dia_de_jejum
+sa: @en:noun.time:minor_fast_day
+
+w: @en_minority
+w: @en_nonage
+d: @en_any age prior to the legal age
+hypo: noun.state:situação_legal
+hypo: idade 4
+sa: @en:noun.time:minority
+
+w: @en_modern_era
+d: @en_the present or recent times
+hyper: era_da_informação
+hypo: Escala_de_tempo_geológico
+sa: @en:noun.time:modern_era
+
+w: @en_moment_of_truth
+d: @en_a crucial moment on which much depends
+hypo: instante 1
+sa: @en:noun.time:moment_of_truth
+
+w: @en_month_of_Sundays
+d: @en_a time perceived as long
+hypo: idade 3
+mu: noun.communication:@en_colloquialism
+sa: @en:noun.time:month_of_Sundays
+
+w: @en_muzzle_velocity
+d: @en_the velocity of a projectile as it leaves the muzzle of a gun
+hypo: velocidade 1
+sa: @en:noun.time:muzzle_velocity
+
+w: @en_name_day
+d: @en_the feast day of a saint whose name one bears
+hypo: @en_saint's_day
+sa: @en:noun.time:name_day
+
+w: @en_neonatal_mortality
+w: @en_neonatal_mortality_rate
+d: @en_the death rate during the first 28 days of life
+hypo: mortalidade
+sa: @en:noun.time:neonatal_mortality
+
+w: @en_none
+d: @en_a canonical hour that is the ninth hour of the day counting from sunrise
+hypo: hora 6
+sa: @en:noun.time:none
+
+w: @en_off-season
+d: @en_the season when travel is least active and rates are lowest
+hypo: estação 1
+sa: @en:noun.time:off-season
+
+w: @en_off_year
+d: @en_a year in which productivity is low or inferior
+hypo: ano 3
+sa: @en:noun.time:off_year 1
+
+w: @en_off_year 1
+d: @en_a year in which no major political elections are held
+hypo: ano 3
+sa: @en:noun.time:off_year
+
+w: @en_offing
+d: @en_the near or foreseeable future
+hypo: futuro 1
+sa: @en:noun.time:offing
+
+w: @en_old
+d: @en_past times (especially in the phrase `in days of old')
+hypo: passado
+sa: @en:noun.time:old
+
+w: @en_orbit_period
+d: @en_the time it takes to complete one full orbit around a celestial body
+hypo: período 10
+sa: @en:noun.time:orbit_period
+
+w: @en_over
+d: @en_(cricket) the division of play during which six balls are bowled at the batsman by one player from the other team from the same end of the pitch
+hp: jogo
+hyper: @en_maiden
+hypo: noun.cognition:componente 1
+mt: noun.act:Criquete
+sa: @en:noun.time:over
+
+w: @en_overtime_period
+d: @en_a period of overtime play to resolve a tie; e.g. basketball
+hypo: prorrogação
+sa: @en:noun.time:overtime_period
+
+w: @en_paid_vacation
+d: @en_a vacation from work by an employee with pay granted
+hypo: dia_de_folga
+sa: @en:noun.time:paid_vacation
+
+w: @en_pass
+d: @en_(military) a written leave of absence
+hypo: licença 1
+mt: noun.group:exército 3
+sa: @en:noun.time:pass
+
+w: @en_past
+d: @en_a earlier period in someone's life (especially one that they have reason to keep secret)
+hp: vida 3
+hypo: etapa
+sa: @en:noun.time:past 1
+
+w: @en_payday
+d: @en_the day on which you receive pay for your work
+hypo: dia 6
+sa: @en:noun.time:payday
+
+w: @en_peacetime
+d: @en_a period of time during which there is no war
+hypo: etapa
+sa: @en:noun.time:peacetime
+
+w: @en_peculiar_velocity
+d: @en_velocity with respect to the local standard of rest
+hypo: velocidade 1
+sa: @en:noun.time:peculiar_velocity
+
+w: @en_period
+d: @en_(ice hockey) one of three divisions into which play is divided in hockey games
+hp: jogo
+hypo: noun.cognition:componente 1
+mt: noun.act:Hóquei
+sa: @en:noun.time:period 7
+
+w: @en_picosecond
+d: @en_one trillionth (10^-12) of a second; one thousandth of a nanosecond
+hp: nanosegundo
+hypo: Unidades_de_tempo
+mp: Femtossegundo
+sa: @en:noun.time:picosecond
+
+w: @en_prepuberty
+d: @en_a period of two years immediately prior to the onset of puberty when growth and changes leading to sexual maturity occur
+hp: infância 1
+hypo: período 12
+sa: @en:noun.time:prepuberty
+
+w: @en_preseason
+d: @en_a period prior to the beginning of the regular season which is devoted to training and preparation
+hyper: treinamento_de_primavera
+hypo: estação 1
+sa: @en:noun.time:preseason
+
+w: @en_press_run
+w: @en_print_run
+d: @en_the period that presses run to produce an issue of a newspaper
+hyper: @en_split_run
+hypo: @en_run
+sa: @en:noun.time:press_run
+
+w: @en_prime
+d: @en_the second canonical hour; about 6 a.m.
+hypo: Horas_Canônicas
+sa: @en:noun.time:prime 1
+
+w: @en_psychological_moment
+d: o momento mais adequado para obter um efeito desejado
+hypo: instante 1
+sa: @en:noun.time:psychological_moment
+
+w: @en_puerperium
+d: @en_time period following childbirth when the mother's uterus shrinks and the other functional and anatomic changes of pregnancy are resolved
+hypo: etapa
+sa: @en:noun.time:puerperium
+
+w: @en_quarter
+d: @en_(football, professional basketball) one of four divisions into which some games are divided
+hp: jogo
+hypo: noun.cognition:componente 1
+mt: noun.act:@en_professional_basketball
+mt: noun.act:futebol 1
+sa: @en:noun.time:quarter 1
+
+w: @en_quarter-century
+d: @en_a period of 25 years
+hp: Século
+hypo: etapa
+sa: @en:noun.time:quarter-century
+
+w: @en_quarter_day
+d: @en_a Christian holy day; one of four specified days when certain payments are due
+hyper: 24_de_junho
+hyper: @en_11_November
+hyper: @en_August_1
+hyper: @en_Candlemas
+hyper: Anunciação
+hyper: Natal 1
+hyper: Pentecostes
+hyper: dia_de_São_Miguel_Arcanjo
+hypo: feriado_religioso_cristão
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:quarter_day
+
+w: @en_quatercentenary
+w: @en_quatercentennial
+d: @en_the 400th anniversary (or the celebration of it)
+hypo: aniversário 1
+sa: @en:noun.time:quatercentenary
+
+w: @en_quattrocento
+d: @en_the 15th century in Italian art and literature
+hp: Renascentismo
+hypo: Século
+sa: @en:noun.time:quattrocento
+
+w: @en_question_time
+d: @en_a period during a parliamentary session when members of British Parliament may ask questions of the ministers
+hypo: etapa
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:question_time
+
+w: @en_radiant_flux
+d: @en_the rate of flow of radiant energy (electromagnetic waves)
+hyper: Fluxo_Luminoso
+hypo: fluxo 1
+sa: @en:noun.time:radiant_flux
+
+w: @en_rag
+w: @en_rag_week
+d: @en_a week at British universities during which side-shows and processions of floats are organized to raise money for charities
+hypo: semana 1
+mp: @en_rag_day
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:rag
+
+w: @en_rag_day
+d: @en_a day on which university students hold a rag
+hp: @en_rag
+hypo: dia 6
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:rag_day
+
+w: @en_rain_date
+d: @en_an alternative date set for some outdoor event in case it rains on the appointed date
+hypo: data 1
+sa: @en:noun.time:rain_date
+
+w: @en_rate_of_respiration
+w: @en_respiratory_rate
+d: @en_the rate at which a person inhales and exhales; usually measured to obtain a quick evaluation of a person's health
+hypo: noun.state:sinais_vitais
+hypo: ritmo
+sa: @en:noun.time:rate_of_respiration
+
+w: @en_real_time
+d: @en_(computer science) the time it takes for a process under computer control to occur
+hypo: etapa
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.time:real_time
+
+w: @en_red-letter_day
+d: @en_a memorably happy or noteworthy day (from the custom of marking holy days in red on church calendars)
+hypo: dia 6
+sa: @en:noun.time:red-letter_day
+
+w: @en_refractory_period
+d: @en_(neurology) the time after a neuron fires or a muscle fiber contracts during which a stimulus will not evoke a response
+hypo: @en_biological_time
+mt: noun.cognition:neurologia 2
+sa: @en:noun.time:refractory_period
+
+w: @en_regulation_time
+d: @en_(sports) the normal prescribed duration of a game
+hp: noun.act:esporte 1
+hypo: etapa
+mt: noun.act:esporte
+sa: @en:noun.time:regulation_time
+
+w: @en_relaxation_time
+d: @en_the time constant of an exponential return of a system to equilibrium after a disturbance
+hypo: constante_de_tempo
+sa: @en:noun.time:relaxation_time
+
+w: @en_residence_time
+d: @en_the period of time spent in a particular place
+hypo: continuidade
+sa: @en:noun.time:residence_time
+
+w: @en_rev
+w: @en_revolutions_per_minute
+w: @en_rpm
+d: @en_rate of revolution of a motor
+hypo: ritmo
+sa: @en:noun.time:rev
+
+w: @en_run
+d: @en_the continuous period of time during which something (a machine or a factory) operates or continues in operation
+hyper: @en_press_run
+hyper: @en_run-time
+hypo: etapa
+sa: @en:noun.time:run
+
+w: @en_run-time
+d: @en_(computer science) the length of time it takes to execute a software program
+hypo: @en_run
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.time:run-time
+
+w: @en_sabbatical
+w: @en_sabbatical_leave
+d: @en_a leave usually taken every seventh year
+hyper: ano_sabático
+hypo: licença 1
+sa: @en:noun.time:sabbatical
+
+w: @en_saint's_day
+d: @en_a day commemorating a saint
+hp: ano_litúrgico
+hyper: @en_name_day
+hypo: dia 6
+sa: @en:noun.time:saint's_day
+
+w: @en_sampling_frequency
+d: @en_(telecommunication) the frequency of sampling a continuously varying signal
+hyper: frequência_Nyquista
+hypo: Frequencia
+mt: noun.communication:telecomunicação
+sa: @en:noun.time:sampling_frequency
+
+w: @en_school_day
+d: @en_any day on which school is in session
+hypo: dia 6
+sa: @en:noun.time:school_day
+
+w: @en_seedtime
+d: @en_any time of new development
+hypo: fase 1
+sa: @en:noun.time:seedtime 1
+
+w: @en_seedtime 1
+d: @en_the time during which seeds should be planted
+hypo: estação 1
+sa: @en:noun.time:seedtime
+
+w: @en_sell-by_date
+d: @en_a date stamped on perishable produce indicating the date by which it should be sold
+hypo: data 1
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:sell-by_date
+
+w: @en_semester
+d: @en_half a year; a period of 6 months
+hypo: etapa
+sa: @en:noun.time:semester 2
+
+w: @en_semicentenary
+w: @en_semicentennial
+d: @en_the 50th anniversary (or the celebration of it)
+hypo: aniversário 1
+sa: @en:noun.time:semicentenary
+
+w: @en_sext
+d: @en_the fourth of the seven canonical hours; about noon
+hypo: Horas_Canônicas
+sa: @en:noun.time:sext
+
+w: @en_sheepshearing
+d: @en_the time or season when sheep are sheared
+hypo: estação 1
+sa: @en:noun.time:sheepshearing
+
+w: @en_silly_season
+d: @en_a time usually late summer characterized by exaggerated news stories about frivolous matters for want of real news
+hypo: etapa
+sa: @en:noun.time:silly_season
+
+w: @en_silver_jubilee
+d: @en_an anniversary celebrating the passage of 25 years
+hypo: jubileu 1
+sa: @en:noun.time:silver_jubilee
+
+w: @en_silver_wedding_anniversary
+d: @en_the 25th wedding anniversary
+hypo: aniversário_de_casamento
+sa: @en:noun.time:silver_wedding_anniversary
+
+w: @en_small_hours
+d: @en_the hours just after midnight
+hp: fim_de_tarde 1
+hypo: hora 6
+sa: @en:noun.time:small_hours
+
+w: @en_social_season
+d: @en_the season for major social events
+hypo: estação 1
+sa: @en:noun.time:social_season
+
+w: @en_solar_calendar
+d: @en_a calendar based on solar cycles
+hyper: @en_Revolutionary_calendar
+hyper: Calendario_gregoriano
+hyper: calendário_juliano
+hypo: calendário
+sa: @en:noun.time:solar_calendar
+
+w: @en_solar_month
+d: @en_one-twelfth of a solar or tropical year
+hypo: mês
+sa: @en:noun.time:solar_month
+
+w: @en_speech_day
+d: @en_an annual day in the schools when speeches are made and prizes are distributed
+hypo: dia 6
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:speech_day
+
+w: @en_split_run
+d: @en_a print run of a newspaper during which some articles or advertisements are changed to produce a different edition
+hypo: @en_press_run
+sa: @en:noun.time:split_run
+
+w: @en_starting_point
+w: @en_terminus_a_quo
+d: @en_earliest limiting point
+hypo: começo
+sa: @en:noun.time:starting_point
+
+w: @en_steerageway
+d: @en_(nautical) the minimum rate of motion needed for a vessel to be maneuvered
+hypo: velocidade 1
+mt: noun.act:Navegacão
+sa: @en:noun.time:steerageway
+
+w: @en_study_hall
+d: um período de tempo durante o dia na escola que é reservado para o estudo
+hp: ano 5
+hypo: etapa
+sa: @en:noun.time:study_hall
+
+w: @en_tercentenary
+w: @en_tercentennial
+w: @en_triennial
+d: @en_the 300th anniversary (or the celebration of it)
+hypo: aniversário 1
+sa: @en:noun.time:tercentenary
+
+w: @en_terminal_leave
+d: @en_final leave before discharge from military service
+hypo: licença 1
+sa: @en:noun.time:terminal_leave
+
+w: @en_threshold
+d: @en_the starting point for a new state or experience
+hypo: começo
+sa: @en:noun.time:threshold
+
+w: @en_time-out
+d: @en_a brief suspension of play
+hp: noun.act:esporte 1
+hypo: fazerumapausa
+sa: @en:noun.time:time-out
+
+w: @en_time_immemorial
+w: @en_time_out_of_mind
+d: @en_the distant past beyond memory
+hypo: passado
+sa: @en:noun.time:time_immemorial
+
+w: @en_time_scale
+d: @en_an arrangement of events used as a measure of duration
+hyper: @en_extended_time_scale
+hyper: escala_de_tempo_rápida
+hypo: continuidade
+sa: @en:noun.time:time_scale
+
+w: @en_timekeeping
+d: @en_the act or process of determining the time
+hyper: anacronismo
+hypo: noun.act:atividade 1
+sa: @en:noun.time:timekeeping
+
+w: @en_top
+w: @en_top_of_the_inning
+d: @en_the first half of an inning; while the visiting team is at bat
+hp: turno 4
+hypo: jogo 1
+sa: @en:noun.time:top
+
+w: @en_trick
+d: @en_a period of work or duty
+hypo: turno 2
+sa: @en:noun.time:trick
+
+w: @en_triple-crown_season
+d: @en_a season of baseball during which a player wins the triple crown
+hypo: @en_baseball_season
+sa: @en:noun.time:triple-crown_season
+
+w: @en_turn_of_the_century
+d: @en_the period from about ten years before to ten years after a new century
+hypo: era 4
+sa: @en:noun.time:turn_of_the_century
+
+w: @en_turnaround
+w: @en_turnaround_time
+d: @en_time need to prepare a vessel or ship for a return trip
+hypo: horas_de_trabalho
+sa: @en:noun.time:turnaround
+
+w: @en_twentieth_century
+d: @en_the century from 1901 to 2000
+hypo: Século
+sa: @en:noun.time:twentieth_century
+
+w: @en_usance
+d: @en_the period of time permitted by commercial usage for the payment of a bill of exchange (especially a foreign bill of exchange)
+hypo: etapa
+mt: noun.act:comercialismo
+sa: @en:noun.time:usance
+
+w: @en_vac
+d: @en_informal term for vacation
+hypo: dia_de_folga
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:vac
+
+w: @en_vice-presidency
+w: @en_vice-presidential_term
+d: @en_the tenure of a vice president
+hypo: legislatura
+sa: @en:noun.time:vice-presidency
+
+w: @en_voting_age
+d: @en_the age at which a person is old enough to vote in public elections
+hp: maturidade
+hypo: idade 4
+sa: @en:noun.time:voting_age
+
+w: @en_washday
+w: @en_washing_day
+d: @en_a day set aside for doing household laundry
+hypo: dia 6
+sa: @en:noun.time:washday
+
+w: @en_watch
+d: @en_a period of time (4 or 2 hours) during which some of a ship's crew are on duty
+hyper: @en_dogwatch
+hyper: ronda_noturna
+hypo: turno 2
+sa: @en:noun.time:watch
+
+w: @en_watch 1
+d: @en_the period during which someone (especially a guard) is on duty
+hypo: etapa
+sa: @en:noun.time:watch 1
+
+w: @en_wedding_day
+d: @en_the day of a wedding
+hypo: dia 6
+mp: noite_de_núpcias
+sa: @en:noun.time:wedding_day
+
+w: @en_weeknight
+d: @en_any night of the week except Saturday or Sunday
+hypo: fim_de_tarde 1
+sa: @en:noun.time:weeknight
+
+w: @en_window
+d: @en_the time period that is considered best for starting or finishing something
+hypo: etapa
+sa: @en:noun.time:window
+
+w: @en_year_dot
+d: @en_as long ago as anyone can remember
+hypo: idade 3
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:year_dot
+
+w: @en_year_of_grace
+d: @en_any year of the Christian era
+hypo: ano 3
+sa: @en:noun.time:year_of_grace
+
+w: @en_zero_hour
+d: @en_the time set for the start of an action or operation
+hypo: hora 6
+sa: @en:noun.time:zero_hour
+
+w: Abril
+w: abril
+d: @en_the month following March and preceding May
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: 14_de_Abril
+mp: @en_Patriot's_Day
+mp: @en_mid-April
+mp: Dia_da_Mentira
+sa: @en:noun.time:Apr
+
+w: Adar
+d: @en_the sixth month of the civil year; the twelfth month of the ecclesiastic year in the Jewish calendar (in February and March)
+hp: Calendário_Judaico
+hypo: mês__judaico
+mp: Purim
+sa: @en:noun.time:Adar
+
+w: Adolescência
+w: adolescência
+d: @en_the time period between the beginning of puberty and adulthood
+hp: infância
+hypo: período 12
+mp: @en_genital_phase
+mp: puberdade
+sa: @en:noun.time:adolescence
+
+w: Advento
+d: @en_the season including the four Sundays preceding Christmas
+hp: @en_church_calendar
+hypo: estação 2
+mp: @en_Advent_Sunday
+sa: @en:noun.time:Advent 1
+
+w: Agosto
+w: agosto
+d: @en_the month following July and preceding September
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: 15_de_agosto
+mp: Dormição_de_Maria
+mp: meados_de_agosto
+sa: @en:noun.time:Aug
+
+w: Alfa_e_Ômega
+d: @en_the first and last; signifies God's eternity
+hypo: eternidade 1
+sa: @en:noun.time:alpha_and_omega
+
+w: Aniversario
+w: aniversário
+w: data_de_nascimento
+d: @en_an anniversary of the day on which a person was born (or the celebration of it)
+hypo: aniversário 1
+sa: @en:noun.time:birthday
+
+w: Ano_Novo
+d: @en_the calendar year just begun
+hypo: ano 3
+sa: @en:noun.time:New_Year
+
+w: Ano_Platônico
+w: Ano_Vernal
+d: @en_time required for one complete cycle of the precession of the equinoxes, about 25,800 years
+hypo: etapa
+sa: @en:noun.time:Platonic_year
+
+w: Anunciação
+d: @en_a festival commemorating the announcement of the Incarnation by the angel Gabriel to the Virgin Mary; a quarter day in England, Wales, and Ireland
+hp: mar
+hypo: @en_quarter_day
+sa: @en:noun.time:Annunciation
+
+w: Arqueano
+d: @en_the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life
+hp: Precambriano
+ihyper: éon
+sa: @en:noun.time:Archaeozoic
+
+w: Ascensão
+d: @en_(Christianity) celebration of the Ascension of Christ into heaven; observed on the 40th day after Easter
+hypo: @en_holy_day_of_obligation
+mt: noun.cognition:cristianismo
+sa: @en:noun.time:Ascension
+
+w: Asvina
+d: o sétimo mês do calendário hindu
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+sa: @en:noun.time:Asin
+
+w: Av
+d: @en_the eleventh month of the civil year; the fifth month of the ecclesiastical year in the Jewish calendar (in July and August)
+hp: Calendário_Judaico
+hypo: mês__judaico
+sa: @en:noun.time:Ab
+
+w: Ação_de_Graças
+w: Ação_de_graças
+d: @en_fourth Thursday in November in the United States; second Monday in October in Canada; commemorates a feast held in 1621 by the Pilgrims and the Wampanoag
+hp: Nazaré
+hypo: feriado_nacional
+hypo: festividade
+sa: @en:noun.time:Thanksgiving
+
+w: Baishakh
+d: @en_the second month of the Hindu calendar
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+sa: @en:noun.time:Baisakh
+
+w: Barroco
+d: @en_the historic period from about 1600 until 1750 when the baroque style of art, architecture, and music flourished in Europe
+ihyper: era 4
+sa: @en:noun.time:Baroque
+
+w: Boxing_Day
+w: Boxing_day
+d: @en_first weekday after Christmas
+hp: Ciclo_do_Natal
+hypo: feriado_nacional
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:Boxing_Day
+
+w: Brumário
+w: brumário
+d: @en_second month of the Revolutionary calendar (October and November); the month of mist
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Brumaire
+
+w: Calendario_gregoriano
+w: Calendário_Gregoriano
+w: calendário_gregoriano
+d: @en_the solar calendar now in general use, introduced by Gregory XIII in 1582 to correct an error in the Julian calendar by suppressing 10 days, making Oct 5 be called Oct 15, and providing that only centenary years divisible by 400 should be leap years; it was adopted by Great Britain and the American colonies in 1752
+hyper: @en_church_calendar
+hypo: @en_solar_calendar
+mp: Abril
+mp: Agosto
+mp: Dezembro
+mp: Fevereiro
+mp: Janeiro
+mp: Julho
+mp: Jun
+mp: Nazaré
+mp: Outubro
+mp: Setembro
+mp: maio
+mp: mar
+mp: mês_no_calendário_gregoriano
+sa: @en:noun.time:Gregorian_calendar
+
+w: Calendário_Islâmico
+w: Calendário_islâmico
+d: @en_the lunar calendar used by Muslims; dates from 622 AD (the year of the Hegira); the beginning of the Muslim year retrogresses through the solar year completing the cycle every 32 years
+hypo: calendário_lunar
+mp: @en_Dhu'l-Qa'dah
+mp: @en_Islamic_calendar_month
+mp: @en_Rabi_II
+mp: Dhu_al-Hija
+mp: Jumada_Al-awwal
+mp: Jumada_al-Thani
+mp: Muharram
+mp: Rabi_al-Awwal
+mp: Rajab
+mp: Ramadão
+mp: Safar
+mp: Sha'aban
+mp: Shawwal
+sa: @en:noun.time:Islamic_calendar
+
+w: Calendário_Judaico
+w: Calendário_judaico
+d: @en_(Judaism) the calendar used by the Jews; dates from 3761 BC (the assumed date of the Creation of the world); a lunar year of 354 days is adjusted to the solar year by periodic leap years
+hypo: calendário_lunissolar
+mp: @en_Adar_Sheni
+mp: @en_Shebat
+mp: @en_Tammuz
+mp: @en_Tishri
+mp: Adar
+mp: Av
+mp: Cheshvan
+mp: Elul
+mp: Iyar
+mp: Kislev
+mp: Nissan
+mp: Sivan
+mp: Tevet
+mp: mês__judaico
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Hebrew_calendar
+
+w: Calendário_hindu
+w: Calendário_hindú
+d: @en_the lunisolar calendar governing the religious life of Hindus; an extra month is inserted after every month in which there are two new moons (once every three years)
+hypo: calendário_lunissolar
+mp: @en_Aghan
+mp: @en_Asadha
+mp: @en_Bhadon
+mp: @en_Caitra
+mp: @en_Hindu_calendar_month
+mp: @en_Jeth
+mp: @en_Phagun
+mp: Asvina
+mp: Baishakh
+mp: Karttika
+mp: Magha
+mp: Pansa
+mp: Sravana
+sa: @en:noun.time:Hindu_calendar
+
+w: Califados
+w: califado
+d: @en_the era of Islam's ascendancy from the death of Mohammed until the 13th century; some Moslems still maintain that the Moslem world must always have a calif as head of the community
+ihyper: Escala_de_tempo_geológico
+sa: @en:noun.time:Caliphate
+
+w: Cambriano
+d: @en_from 544 million to about 500 million years ago; marine invertebrates
+hp: Paleozoico
+ihyper: período 11
+sa: @en:noun.time:Cambrian
+
+w: Carbonífero
+d: @en_from 345 million to 280 million years ago
+hp: Paleozoico
+ihyper: período 11
+mp: Mississippiano
+mp: Pennsylvaniano
+sa: @en:noun.time:Carboniferous
+
+w: Cenozoico
+w: Cenozóico
+d: @en_approximately the last 63 million years
+hp: Fanerozoico
+ihyper: era 1
+mp: Quaternário
+mp: Terciário
+sa: @en:noun.time:Age_of_Mammals
+
+w: Chanuca
+w: Chanucá
+d: @en_(Judaism) an eight-day Jewish holiday commemorating the rededication of the Temple of Jerusalem in 165 BC
+hp: Kislev
+hp: Tevet
+hypo: festas_judaicas
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Channukah
+
+w: Cheshvan
+d: o segundo mês do ano civil; o oitavo mês do ano eclesiástico do calendário judaico (em outubro e novembro)
+hp: Calendário_Judaico
+hypo: mês__judaico
+sa: @en:noun.time:Heshvan
+
+w: Ciclo_Menstrual
+w: Ciclo_menstrual
+d: @en_a recurring cycle (beginning at menarche and ending at menopause) in which the endometrial lining of the uterus prepares for pregnancy; if pregnancy does not occur the lining is shed at menstruation
+hypo: noun.event:@en_cycle
+mp: @en_luteal_phase
+mp: ciclo_menstrual
+mp: período_fértil
+mp: período_seguro
+sa: @en:noun.time:menstrual_cycle
+
+w: Ciclo_do_Natal
+w: Natal
+d: @en_period extending from Dec. 24 to Jan. 6
+hp: Dezembro
+hp: Janeiro
+hypo: estação 2
+mp: Boxing_Day
+sa: @en:noun.time:Christmas 1
+
+w: Cinco_de_Maio
+d: @en_the fifth of May which is observed in Mexico and Mexican-American communities in the United States to commemorate the Mexican victory over the French in the Battle of Puebla in 1862
+hypo: dia 6
+sa: @en:noun.time:Cinco_de_Mayo
+
+w: Completas
+w: Oração_da_Noite
+d: @en_last of the seven canonical hours just before retiring
+hypo: Horas_Canônicas
+sa: @en:noun.time:complin
+
+w: Cretáceo
+d: @en_from 135 million to 63 million years ago; end of the age of reptiles; appearance of modern insects and flowering plants
+hp: Mesozoico
+ihyper: período 11
+sa: @en:noun.time:Cretaceous
+
+w: Devoniano
+w: Devónico
+d: @en_from 405 million to 345 million years ago; preponderance of fishes and appearance of amphibians and ammonites
+hp: Paleozoico
+ihyper: período 11
+sa: @en:noun.time:Age_of_Fishes
+
+w: Dezembro
+w: dez
+w: dezembro
+d: o último (12º) mês do ano
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: Ciclo_do_Natal
+mp: Natal 1
+mp: Véspera_de_Ano-Novo
+mp: meados_de_dezembro
+sa: @en:noun.time:Dec
+
+w: Dhu_al-Hija
+d: @en_the twelfth month of the Islamic calendar and the season of the hajj; has one extra day in leap years
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Dhu'l-Hijja
+
+w: Dia_da_Mentira
+w: dia_da_mentira
+d: @en_the first day of April which is celebrated by playing practical jokes
+hp: Abril
+hypo: dia 6
+sa: @en:noun.time:All_Fools'_day
+
+w: Dia_das_Bruxas
+w: Dia_das_bruxas
+d: @en_the evening before All Saints' Day; often devoted to pranks played by young people
+hypo: dia 6
+sa: @en:noun.time:Allhallows_Eve
+
+w: Dia_das_Mães
+d: @en_second Sunday in May
+hp: maio
+hypo: dia 6
+sa: @en:noun.time:Mother's_Day
+
+w: Dia_de_São_Patrício
+d: @en_a day observed by the Irish to commemorate the patron saint of Ireland
+hypo: dia 6
+sa: @en:noun.time:March_17
+
+w: Dia_de_São_Valentim
+w: Dia_dos_Namorados
+w: Dia_dos_namorados
+d: @en_a day for the exchange of tokens of affection
+hp: Fevereiro
+hypo: dia 6
+sa: @en:noun.time:February_14
+
+w: Dia_de_Todos-os-Santos
+d: @en_a Christian feast day honoring all the saints; first observed in 835
+hp: Nazaré
+hypo: @en_holy_day_of_obligation
+sa: @en:noun.time:All_Saints'_Day
+
+w: Dia_do_Trabalho
+w: primeiro_de_maio
+d: dia observado em muitos países para celebrar a chegada da primavera; observado na Rússia e países relacionados,  em honra dos trabalho
+hp: maio
+hypo: dia 6
+sa: @en:noun.time:First_of_May
+
+w: Dia_dos_Presidentes
+d: @en_the third Monday in February; commemorates both presidents Lincoln and Washington
+hp: Fevereiro
+hypo: feriado_nacional
+mr: noun.location:América
+sa: @en:noun.time:Presidents'_Day
+
+w: Domingo_de_Ramos
+w: Domingo_de_ramos
+d: @en_Sunday before Easter
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Palm_Sunday
+
+w: Dormição_de_Maria
+d: @en_celebration in the Eastern Orthodox Church of the Virgin Mary's being taken up into heaven when her earthly life ended; corresponds to the Assumption in the Roman Catholic Church and is also celebrated on August 15th
+hp: Agosto
+hypo: dia_santo
+sa: @en:noun.time:Dormition
+
+w: Débito_Cardíaco
+w: débito_cardíaco
+d: @en_the amount of blood pumped out by the ventricles in a given period of time
+hypo: caudal
+sa: @en:noun.time:cardiac_output
+
+w: Década_de_1530
+d: @en_the decade from 1530 to 1539
+hypo: decênio
+sa: @en:noun.time:1530s
+
+w: Década_de_1750
+d: @en_the decade from 1750 to 1759
+hypo: decênio
+sa: @en:noun.time:1750s
+
+w: Década_de_1760
+d: @en_the decade from 1760 to 1769
+hypo: decênio
+sa: @en:noun.time:1760s
+
+w: Década_de_1770
+d: @en_the decade from 1770 to 1779
+hypo: decênio
+sa: @en:noun.time:1770s
+
+w: Década_de_1780
+d: @en_the decade from 1780 to 1789
+hypo: decênio
+sa: @en:noun.time:1780s
+
+w: Década_de_1790
+d: @en_the decade from 1790 to 1799
+hypo: decênio
+sa: @en:noun.time:1790s
+
+w: Década_de_1820
+d: @en_the decade from 1820 to 1829
+hypo: decênio
+sa: @en:noun.time:1820s
+
+w: Década_de_1830
+d: @en_the decade from 1830 to 1839
+hypo: decênio
+sa: @en:noun.time:1830s
+
+w: Década_de_1840
+d: @en_the decade from 1840 to 1849
+hypo: decênio
+sa: @en:noun.time:1840s
+
+w: Década_de_1850
+d: @en_the decade from 1850 to 1859
+hypo: decênio
+sa: @en:noun.time:1850s
+
+w: Década_de_1860
+d: @en_the decade from 1860 to 1869
+hypo: decênio
+sa: @en:noun.time:1860s
+
+w: Década_de_1870
+d: @en_the decade from 1870 to 1879
+hypo: decênio
+sa: @en:noun.time:1870s
+
+w: Década_de_1880
+d: @en_the decade from 1880 to 1889
+hypo: decênio
+sa: @en:noun.time:1880s
+
+w: Década_de_1890
+d: @en_the decade from 1890 to 1899
+hypo: decênio
+sa: @en:noun.time:1890s
+
+w: Década_de_1900
+d: @en_the decade from 1900 to 1909
+hypo: decênio
+sa: @en:noun.time:1900s
+
+w: Década_de_1920
+d: @en_the decade from 1920 to 1929
+hypo: decênio
+sa: @en:noun.time:1920s
+
+w: Década_de_1930
+d: @en_the decade from 1930 to 1939
+hypo: decênio
+sa: @en:noun.time:1930s
+
+w: Década_de_1940
+w: década_de_1940
+d: @en_the decade from 1940 to 1949
+hypo: decênio
+sa: @en:noun.time:1940s
+
+w: Década_de_1950
+d: @en_the decade from 1950 to 1959
+hypo: decênio
+sa: @en:noun.time:1950s
+
+w: Década_de_1960
+d: @en_the decade from 1960 to 1969
+hypo: decênio
+sa: @en:noun.time:1960s
+
+w: Década_de_1970
+w: anos_setenta
+w: década_de_1970
+d: a década 1970-1979
+hypo: decênio
+sa: @en:noun.time:1970s
+
+w: Década_de_1980
+w: anos_80
+w: década_de_1980
+d: @en_the decade from 1980 to 1989
+hypo: decênio
+sa: @en:noun.time:1980s
+
+w: Década_de_1990
+d: @en_the decade from 1990 to 1999
+hypo: decênio
+sa: @en:noun.time:1990s
+
+w: Edade_de_bronço
+w: Idade_do_Bronze
+w: Idade_do_bronze
+d: @en_(archeology) a period between the Stone and Iron Ages, characterized by the manufacture and use of bronze tools and weapons
+hp: pré-história
+ihyper: etapa
+mt: noun.cognition:Arqueologia
+sa: @en:noun.time:Bronze_Age 1
+
+w: Efeméride
+w: efeméride
+w: feriado
+d: @en_a day on which work is suspended by law or custom
+hyper: @en_Mesasamkranti
+hyper: @en_Poppy_Day
+hyper: @en_half-holiday
+hyper: Missa_do_galo
+hyper: Ramnavami
+hyper: dia_santo
+hyper: feriado_nacional
+hyper: festividade
+hypo: dia 6
+sa: @en:noun.time:holiday 1
+
+w: Eid_al-Adha
+w: Festa_do_Sacrifício
+d: @en_the 10th day of Dhu'l-Hijja; all Muslims attend a service in the mosques and those who are not pilgrims perform a ritual slaughter of a sheep (commemorating God's ransom of Abraham's son from sacrifice) and give at least a third of the meat to charity
+hypo: festividade
+sa: @en:noun.time:Feast_of_Sacrifice
+
+w: Elul
+d: @en_the twelfth month of the civil year; the sixth month of the ecclesiastical year in the Jewish calendar (in August and September)
+hp: Calendário_Judaico
+hypo: mês__judaico
+sa: @en:noun.time:Ellul
+
+w: Eoceno
+w: eoceno
+d: @en_from 58 million to 40 million years ago; presence of modern mammals
+hp: Terciário
+ihyper: período 15
+sa: @en:noun.time:Eocene
+
+w: Epifania
+w: Epifania_do_Senhor
+d: @en_twelve days after Christmas; celebrates the visit of the three wise men to the infant Jesus
+hp: Janeiro
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Epiphany
+
+w: Era_Comum
+w: Era_Cristã
+d: o período de tempo que se inicia com o suposto ano do nascimento de Cristo
+ihyper: Escala_de_tempo_geológico
+sa: @en:noun.time:Christian_era
+
+w: Era_da_Prata
+w: idade_da_prata
+d: @en_(classical mythology) the second age of the world, characterized by opulence and irreligion; by extension, a period secondary in achievement to a golden age
+hypo: etapa
+mt: noun.group:@en_classical_mythology
+sa: @en:noun.time:silver_age
+
+w: Escala_de_tempo_geológico
+w: era
+w: idade
+w: período
+w: século
+w: tempo
+w: época
+d: @en_a period marked by distinctive character or reckoned from a fixed point or event
+hyper: @en_modern_era
+hyper: era 4
+hyper: era 5
+hypo: etapa
+ihypo: Califados
+ihypo: Era_Comum
+sa: @en:noun.time:epoch
+
+w: Esperança_de_vida
+w: expectativa_de_vida
+d: @en_an expected time to live as calculated on the basis of statistical probabilities
+hypo: noun.cognition:expectativa 1
+sa: @en:noun.time:life_expectancy
+
+w: Estação_do_ano
+w: Estações_do_ano
+w: estação
+w: período 1
+w: sazão
+w: tempo 1
+d: @en_one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions
+hp: ano 6
+hyper: noun.act:@en_haying 1
+hyper: noun.act:colheita 1
+hyper: Inverno
+hyper: estação_de_chuvas
+hyper: estação_seca
+hyper: estio
+hyper: outono
+hyper: primavera
+hypo: etapa
+sa: @en:noun.time:season
+
+w: Eternidade
+w: eternidade
+d: @en_a seemingly endless time interval (waiting)
+hypo: intervalo 2
+sa: @en:noun.time:eternity 1
+
+w: Fanerozoico
+w: Fanerozóico
+d: @en_the period from about 5,400 million years ago until the present
+ihyper: éon
+mp: Cenozoico
+sa: @en:noun.time:Phanerozoic
+
+w: Femtossegundo
+w: femtossegundo
+d: @en_one quadrillionth (10^-15) of a second; one thousandth of a picosecond
+hp: @en_picosecond
+hypo: Unidades_de_tempo
+mp: @en_attosecond
+sa: @en:noun.time:femtosecond
+
+w: Festa_da_Misericórdia
+d: o domingo seguinte a Páscoa
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Low_Sunday
+
+w: Festa_de_São_Pedro_e_São_Paulo
+w: São_Pedro_e_São_Paulo
+d: @en_first celebrated in the 3rd century
+hp: Jun
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:June_29
+
+w: Festa_móvel
+d: @en_a religious holiday that falls on different dates in different years
+hyper: Pascoa
+hyper: Pessach
+hypo: festividade
+sa: @en:noun.time:movable_feast
+
+w: Festividades_religiosas
+d: @en_a festival having religious significance
+hyper: @en_Feast_of_Booths
+hyper: oitavo
+hypo: festividade 1
+mp: festividade
+sa: @en:noun.time:church_festival
+
+w: Fevereiro
+w: fev
+w: fevereiro
+d: @en_the month following January and preceding March
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: 12_de_Fevereiro
+mp: 22_de_Fevereiro
+mp: 29_de_Fevereiro
+mp: @en_Candlemas
+mp: Dia_de_São_Valentim
+mp: Dia_dos_Presidentes
+mp: Groundhog_Day
+mp: meados_de_fevereiro
+sa: @en:noun.time:Feb
+
+w: Fim-de-semana
+w: Fim_de_Semana
+w: fim_de_semana
+w: final_de_semana
+d: @en_a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday
+hp: semana 1
+hypo: etapa
+mp: Sabado
+mp: domingo
+sa: @en:noun.time:weekend
+
+w: Fluxo_Luminoso
+w: Fluxo_luminoso
+d: @en_the rate of flow of light energy
+hypo: @en_radiant_flux
+sa: @en:noun.time:luminous_flux
+
+w: Frequencia
+w: frequência
+w: freqüência
+d: @en_the number of occurrences within a given time period
+hyper: noun.attribute:@en_infrared
+hyper: noun.attribute:audio
+hyper: noun.attribute:radiofrequência
+hyper: noun.quantity:@en_wave_number
+hyper: @en_count_per_minute
+hyper: @en_sampling_frequency
+hyper: frequência 1
+hypo: ritmo
+sa: @en:noun.time:frequence
+
+w: Frequência_cardíaca
+w: Freqüência_cardiaca
+w: Freqüência_cardíaca
+d: @en_the rate at which the heart beats; usually measured to obtain a quick evaluation of a person's health
+hyper: @en_femoral_pulse
+hyper: pulso_radial
+hypo: noun.state:sinais_vitais
+hypo: ritmo
+sa: @en:noun.time:heart_rate
+
+w: Frimário
+d: @en_third month of the Revolutionary calendar (November and December); the frosty month
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Frimaire
+
+w: Fructidor
+w: fructidor
+d: @en_twelfth month of the Revolutionary calendar (August and September); the month of fruit
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Fructidor
+
+w: GMT
+w: Greenwich_Mean_Time
+w: TMG
+d: @en_the local time at the 0 meridian passing through Greenwich, England; it is the same everywhere
+hyper: @en_UTC
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:GMT
+
+w: Germinal
+w: germinal
+d: @en_seventh month of the Revolutionary calendar (March and April); the month of buds
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Germinal
+
+w: Grande_Cisma_do_Oriente
+w: Grande_cisma_do_oriente
+d: @en_the period from 1378 to 1417 during which there were two papacies in the Roman Catholic Church, one in Rome and one in Avignon
+ihyper: noun.event:@en_schism
+ihyper: etapa
+mt: noun.group:Igreja_Católica
+sa: @en:noun.time:Great_Schism
+
+w: Grande_Depressão
+d: um período durante a década de 1930, quando houve uma depressão econômica mundial e desemprego em massa
+ihyper: era 4
+sa: @en:noun.time:Depression
+
+w: Grandes_festas_no_judaísmo
+d: @en_Jewish holy days observed with particular solemnity
+hyper: Rosh_Hashaná
+hyper: Yom_Kipur
+hypo: festas_judaicas
+sa: @en:noun.time:High_Holiday
+
+w: Groundhog_Day
+d: @en_if the ground hog emerges and sees his shadow on this day, there will be 6 more weeks of winter
+hp: Fevereiro
+hypo: dia 6
+mr: noun.location:América
+sa: @en:noun.time:February_2
+
+w: Hadeano
+d: @en_the earliest eon in the history of the Earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life
+ihyper: éon
+sa: @en:noun.time:Hadean
+
+w: Happy_Hour
+d: @en_the time of day when a bar sells alcoholic drinks at a reduced price
+hypo: hora 6
+sa: @en:noun.time:happy_hour
+
+w: Holoceno
+w: Holocénico
+d: @en_approximately the last 10,000 years
+hp: Quaternário
+ihyper: período 15
+sa: @en:noun.time:Holocene
+
+w: Hora-de-ponta
+w: Hora_de_ponta
+d: @en_the times at the beginning and end of the working day when many people are traveling to or from work
+hypo: hora 6
+sa: @en:noun.time:rush_hour
+
+w: Horas_Canônicas
+w: Horas_canónicas
+d: @en_(Roman Catholic Church) one of seven specified times for prayer
+hyper: @en_evensong
+hyper: @en_matins
+hyper: @en_prime
+hyper: @en_sext
+hyper: Completas
+hyper: Terça
+hyper: nona
+hypo: hora 6
+mt: noun.group:Igreja_Católica
+sa: @en:noun.time:canonical_hour
+
+w: Horário_Nobre
+w: Horário_nobre
+d: @en_the hours between 7 and 11 p.m. when the largest tv audience is available
+hypo: hora 7
+sa: @en:noun.time:prime_time
+
+w: Horário_padrão
+w: hora
+d: @en_the official time in a local region (adjusted for location around the Earth); established by law or custom
+hyper: @en_Alaska_Standard_Time
+hyper: @en_Atlantic_Standard_Time
+hyper: @en_Bering_Standard_Time
+hyper: @en_CST
+hyper: @en_EST
+hyper: @en_Hawaii_Standard_Time
+hyper: @en_PST
+hyper: MST
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:civil_time
+
+w: Idade-Média
+w: Idade_Média
+d: @en_the period of history between classical antiquity and the Italian Renaissance
+dt: noun.act:Flebotomia
+dt: noun.artifact:@en_cannon 2
+dt: noun.artifact:@en_habergeon
+dt: noun.artifact:@en_pavis
+dt: noun.artifact:Cota_de_malha
+dt: noun.artifact:Iluminura
+dt: noun.body:@en_humor
+dt: noun.cognition:@en_knight_errantry
+dt: noun.cognition:Cocanha
+dt: noun.cognition:amor_cortês
+dt: noun.cognition:quadrivium
+dt: noun.cognition:trivium
+dt: noun.person:@en_Oberson
+dt: noun.person:@en_esquire
+dt: noun.person:@en_palatine
+dt: noun.person:Isolda
+dt: noun.person:Titania
+dt: noun.person:Tristão
+dt: noun.person:escravo 3
+hp: história
+ihyper: era 4
+sa: @en:noun.time:Dark_Ages
+
+w: Idade_da_Pedra
+w: Idade_da_pedra
+d: @en_(archeology) the earliest known period of human culture, characterized by the use of stone implements
+hp: pré-história
+ihyper: etapa
+mp: @en_Eolithic
+mp: Mesolítico
+mp: Neolítico
+mp: Paleolítico
+mt: noun.cognition:Arqueologia
+sa: @en:noun.time:Stone_Age
+
+w: Idade_de_Consentimento
+w: idade_de_consentimento
+d: @en_the minimum age for marrying without parental consent or the minimum age for consensual sexual relations; intercourse at an earlier age can result in a charge of assault or statutory rape; the age differs in different states of the Union
+hypo: idade 4
+sa: @en:noun.time:age_of_consent
+
+w: Idade_do_Ferro
+w: Idade_do_ferro
+d: @en_(archeology) the period following the Bronze Age; characterized by rapid spread of iron tools and weapons
+hp: pré-história
+ihyper: etapa
+mt: noun.cognition:Arqueologia
+sa: @en:noun.time:Iron_Age 1
+
+w: Inverno
+w: inverno
+d: @en_the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox
+hypo: Estação_do_ano
+mp: Solstício_de_Inverno
+mp: meio_do_inverno
+sa: @en:noun.time:winter
+
+w: Iyar
+d: @en_the eighth month of the civil year; the second month of the ecclesiastical year (in April and May)
+hp: Calendário_Judaico
+hypo: mês__judaico
+mp: @en_Lag_b'Omer
+sa: @en:noun.time:Iyar
+
+w: Janeiro
+w: jan
+w: janeiro
+d: @en_the first month of the year; begins 10 days after the winter solstice
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: 1_de_janeiro
+mp: 20_de_Janeiro
+mp: @en_Inauguration_Day
+mp: @en_Tet
+mp: @en_mid-January
+mp: Ciclo_do_Natal
+mp: Epifania
+mp: Noite_de_Reis
+mp: ano_novo
+mp: dia_de_Martin_Luther_King
+sa: @en:noun.time:Jan
+
+w: Jejum_de_Ester
+w: Jejum_de_Esther
+d: @en_(Judaism) a minor fast day on Adar 13 commemorates three days that Esther fasted before approaching the Persian king on behalf of the Jewish people; the fast is connected with Purim
+hypo: @en_minor_fast_day
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Fast_of_Esther
+
+w: Jejum_de_Gedalias
+w: Jejum_de_Guedaliá
+w: Tzom_Gedaliah
+d: @en_(Judaism) a minor fast day on Tishri 3 that commemorates the killing of the Jewish governor of Judah
+hypo: @en_minor_fast_day
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Fast_of_Gedaliah
+
+w: Jogo_decisivo
+w: Tiebreaker
+d: @en_overtime play in order to break a tie; e.g. tennis and soccer
+hypo: prorrogação
+sa: @en:noun.time:tiebreaker
+
+w: Julho
+w: julho
+d: @en_the month following June and preceding August
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: 1_de_Julho
+mp: @en_14_July
+mp: @en_Fourth_of_July
+mp: meados_de_julho
+sa: @en:noun.time:July
+
+w: Jumada_Al-awwal
+w: Jumada_al-awwal
+d: O quinto mês do calendário islâmico
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Jomada_I
+
+w: Jumada_al-Thani
+d: @en_the sixth month of the Islamic calendar
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Jomada_II
+
+w: Jun
+w: Junho
+w: junho
+d: @en_the month following May and preceding July
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: 21_de_junho
+mp: 24_de_junho
+mp: 3_de_Junho
+mp: @en_Father's_Day
+mp: @en_Flag_Day
+mp: @en_June_23
+mp: @en_mid-June
+mp: Festa_de_São_Pedro_e_São_Paulo
+sa: @en:noun.time:June
+
+w: Jurássico
+d: @en_from 190 million to 135 million years ago; dinosaurs; conifers
+hp: Mesozoico
+ihyper: período 11
+sa: @en:noun.time:Jurassic
+
+w: Karttika
+d: @en_the eighth month of the Hindu calendar
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+sa: @en:noun.time:Kartik
+
+w: Kislev
+d: @en_the third month of the civil year; the ninth month of the ecclesiastical year in the Jewish calendar (in November and December)
+hp: Calendário_Judaico
+hypo: mês__judaico
+mp: Chanuca
+sa: @en:noun.time:Chislev
+
+w: Lead_Time
+w: lead_time
+d: @en_the time interval between the initiation and the completion of a production process
+hypo: intervalo 2
+sa: @en:noun.time:lead_time
+
+w: MHz
+w: megahertz
+d: um milhão de períodos por segundo
+hypo: ritmo
+mp: quilohertz
+sa: @en:noun.time:MHz
+
+w: MST
+w: tempo_standard_das_montanhas
+d: O tempo padrão no fuso horário ocidental, de Greenwich, contada no oeste do meridiano 105º; utilizado nos estados de montanha dos Estados Unidos
+hypo: Horário_padrão
+sa: @en:noun.time:MST
+
+w: Magha
+d: @en_the eleventh month of the Hindu calendar; corresponds to January in the Gregorian calendar
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+mp: @en_Mesasamkranti
+sa: @en:noun.time:Magh
+
+w: Meia-noite
+w: Meia_noite
+w: meia-noite
+d: @en_12 o'clock at night; the middle of the night
+hp: fim_de_tarde 1
+hypo: hora 6
+sa: @en:noun.time:midnight
+
+w: Meia_vida
+w: meia-vida
+w: período_de_semidesintegração
+w: semivida
+d: @en_the time required for something to fall to half its initial value (in particular, the time for half the atoms in a radioactive substance to disintegrate)
+hypo: etapa
+sa: @en:noun.time:half-life
+
+w: Memorial_Day
+d: @en_legal holiday in the United States, last Monday in May; commemorates the members of the United States armed forces who were killed in war
+hp: maio
+hypo: feriado_nacional
+sa: @en:noun.time:Decoration_Day
+
+w: Mesolítico
+d: @en_middle part of the Stone Age beginning about 15,000 years ago
+hp: Idade_da_Pedra
+ihyper: etapa
+sa: @en:noun.time:Epipaleolithic
+
+w: Mesozoico
+w: Mesozóico
+d: @en_from 230 million to 63 million years ago
+ihyper: era 1
+mp: Cretáceo
+mp: Jurássico
+mp: Triássico
+sa: @en:noun.time:Age_of_Reptiles
+
+w: Messidor
+w: messidor
+d: @en_tenth month of the Revolutionary calendar (June and July); the month of harvest
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Messidor
+
+w: Microssegundo
+d: @en_one millionth (10^-6) of a second; one thousandth of a millisecond
+hp: milissegundo
+hypo: Unidades_de_tempo
+mp: nanosegundo
+sa: @en:noun.time:microsecond
+
+w: Milha_por_hora
+d: @en_the ratio of the distance traveled (in miles) to the time spent traveling (in hours)
+hypo: ritmo
+sa: @en:noun.time:miles_per_hour 1
+
+w: Mioceno
+d: @en_from 25 million to 13 million years ago; appearance of grazing mammals
+hp: Terciário
+ihyper: período 15
+sa: @en:noun.time:Miocene
+
+w: Missa_do_galo
+w: Véspera_de_Natal
+w: Véspera_de_natal
+w: consoada
+d: @en_the day before Christmas
+hypo: Efeméride
+sa: @en:noun.time:Christmas_Eve
+
+w: Mississippiano
+d: @en_from 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects
+hp: Carbonífero
+ihyper: período 11
+sa: @en:noun.time:Lower_Carboniferous
+
+w: Morte_subita
+w: Morte_súbita
+w: morte_súbita
+d: @en_(sports) overtime in which play is stopped as soon as one contestant scores; e.g. football and golf
+hypo: prorrogação
+mt: noun.act:esporte
+sa: @en:noun.time:sudden_death
+
+w: Muharram
+d: @en_the first month of the Islamic calendar
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Moharram
+
+w: Natal 1
+d: @en_a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland
+hp: Dezembro
+hypo: @en_holy_day_of_obligation
+hypo: @en_quarter_day
+hypo: feriado_nacional
+hypo: festividade
+sa: @en:noun.time:Christmas
+
+w: Nazaré
+w: Novembro
+w: nov
+w: novembro
+d: @en_the month following October and preceding December
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: 2_de_novembro
+mp: 5_de_Novembro
+mp: @en_11_November
+mp: @en_Armistice_Day
+mp: @en_mid-November
+mp: Ação_de_Graças
+mp: Dia_de_Todos-os-Santos
+sa: @en:noun.time:Nov
+
+w: Neolítico
+w: neolítico
+d: última parte da Idade da Pedra começando por volta de 10.000 a.C. no Oriente Médio (mas mais tarde em outros lugares)
+hp: Idade_da_Pedra
+ihyper: etapa
+sa: @en:noun.time:Neolithic
+
+w: New_Deal
+d: @en_the historic period (1933-1940) in the United States during which President Franklin Roosevelt's economic policies were implemented
+ihyper: era 4
+sa: @en:noun.time:New_Deal
+
+w: Nissan
+d: @en_the seventh month of the civil year; the first month of the ecclesiastic year (in March and April)
+hp: Calendário_Judaico
+hypo: mês__judaico
+sa: @en:noun.time:Nisan
+
+w: Nivoso
+d: @en_fourth month of the Revolutionary calendar (December and January); the snowy month
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Nivose
+
+w: Noite_de_Reis
+w: Noite_de_reis
+w: Twelfth_Night
+d: @en_eve of Twelfth day; evening of January 5
+hp: Janeiro
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Twelfth_night
+
+w: Noite_de_Santa_Valburga
+d: @en_eve of May Day
+hypo: dia 6
+sa: @en:noun.time:Walpurgis_Night
+
+w: Noruz
+d: @en_(Persian) the new year holiday in Iran and Azerbaijan and Afghanistan and Pakistan and parts of India and among the Kurds; comes at the vernal equinox
+hypo: @en_March_equinox
+mt: noun.communication:Língua_Persa
+sa: @en:noun.time:Noruz
+
+w: Oligoceno
+d: @en_from 40 million to 25 million years ago; appearance of sabertoothed cats
+hp: Terciário
+ihyper: período 15
+sa: @en:noun.time:Oligocene
+
+w: Olimpíada
+w: olimpíada
+d: @en_one of the four-year intervals between Olympic Games; used to reckon time in ancient Greece for twelve centuries beginning in 776 BC
+hypo: etapa
+sa: @en:noun.time:Olympiad
+
+w: Ordoviciano
+d: @en_from 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds
+hp: Paleozoico
+ihyper: período 11
+sa: @en:noun.time:Ordovician
+
+w: Outubro
+w: out
+w: outubro
+d: @en_the month following September and preceding November
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: 24_de_Outubro
+mp: @en_Columbus_Day
+mp: @en_mid-October
+sa: @en:noun.time:Oct
+
+w: Paleoceno
+d: @en_from 63 million to 58 million years ago; appearance of birds and earliest mammals
+hp: Terciário
+ihyper: período 15
+sa: @en:noun.time:Paleocene
+
+w: Paleolítico
+w: paleolítico
+d: @en_second part of the Stone Age beginning about 750,00 to 500,000 years BC and lasting until the end of the last ice age about 8,500 years BC
+hp: Idade_da_Pedra
+ihyper: etapa
+mp: Paleolítico_Inferior
+mp: Paleolítico_Médio
+mp: Paleolítico_Superior
+sa: @en:noun.time:Palaeolithic
+
+w: Paleolítico_Inferior
+w: Paleolítico_inferior
+d: @en_the oldest part of the Paleolithic Age with the emergence of the hand ax; ended about 120,000 years ago
+hp: Paleolítico
+ihyper: etapa
+sa: @en:noun.time:Lower_Paleolithic
+
+w: Paleolítico_Médio
+w: Paleolítico_médio
+d: @en_the time period of Neanderthal man; ended about 35,000 years BC
+hp: Paleolítico
+ihyper: etapa
+sa: @en:noun.time:Middle_Paleolithic
+
+w: Paleolítico_Superior
+w: Paleolítico_superior
+d: @en_the time period during which only modern Homo sapiens was known to have existed; ended about 10,000 years BC
+hp: Paleolítico
+ihyper: etapa
+sa: @en:noun.time:Upper_Paleolithic
+
+w: Paleozoico
+w: Paleozóico
+w: paleozóico
+d: @en_from 544 million to about 230 million years ago
+ihyper: era 1
+mp: Cambriano
+mp: Carbonífero
+mp: Devoniano
+mp: Ordoviciano
+mp: Permiano
+mp: Siluriano
+sa: @en:noun.time:Paleozoic
+
+w: Pansa
+d: @en_the tenth month of the Hindu calendar
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+sa: @en:noun.time:Pansa
+
+w: Pascoa
+w: Páscoa
+d: @en_a Christian celebration of the Resurrection of Christ; celebrated on the Sunday following the first full moon after the vernal equinox
+hyper: Páscoa 4
+hypo: Festa_móvel
+sa: @en:noun.time:Easter
+
+w: Pennsylvaniano
+d: @en_from 310 million to 280 million years ago; warm climate; swampy land
+hp: Carbonífero
+ihyper: período 11
+sa: @en:noun.time:Pennsylvanian
+
+w: Pentecostes
+d: @en_seventh Sunday after Easter; commemorates the emanation of the Holy Spirit to the Apostles; a quarter day in Scotland
+hp: pentecostes
+hypo: @en_quarter_day
+sa: @en:noun.time:Pentecost 1
+
+w: Permiano
+d: @en_from 280 million to 230 million years ago; reptiles
+hp: Paleozoico
+ihyper: período 11
+sa: @en:noun.time:Permian
+
+w: Período_de_incubação
+d: @en_the period between infection and the appearance of symptoms of the disease
+hypo: etapa
+sa: @en:noun.time:incubation_period
+
+w: Pessach
+w: Páscoa 1
+w: Páscoa_judaica
+d: @en_(Judaism) a Jewish festival (traditionally 8 days from Nissan 15) celebrating the exodus of the Israelites from Egypt
+hyper: Páscoa_judaica 1
+hypo: Festa_móvel
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Feast_of_the_Unleavened_Bread
+
+w: Pleistoceno
+w: Pleistocénico
+d: @en_from two million to 11 thousand years ago; extensive glaciation of the northern hemisphere; the time of human evolution
+hp: Quaternário
+ihyper: período 15
+sa: @en:noun.time:Glacial_epoch
+
+w: Plioceno
+d: @en_from 13 million to 2 million years ago; growth of mountains; cooling of climate; more and larger mammals
+hp: Terciário
+ihyper: período 15
+sa: @en:noun.time:Pliocene
+
+w: Pluvioso
+d: @en_fifth month of the Revolutionary calendar (January and February); the rainy month
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Pluviose
+
+w: Pradial
+d: @en_ninth month of the Revolutionary calendar (May and June); the month of meadows
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Prairial
+
+w: Prazo_de_validade
+w: duração
+w: validade
+d: @en_the length of time a packaged food or drug will last without deteriorating
+hypo: etapa
+sa: @en:noun.time:shelf_life
+
+w: Precambriano
+w: Precâmbrico
+w: Pré-Câmbrico
+w: Pré-cambriano
+w: Pré_Cambriano
+d: @en_the eon following the Hadean time and preceding the Phanerozoic eon; from about 3,800 million years ago until 544 million years ago
+ihyper: éon
+mp: Arqueano
+mp: Proterozoico
+sa: @en:noun.time:Precambrian
+
+w: Problema_do_ano_2000
+d: @en_the year 2000 in the Gregorian calendar
+hypo: ano 3
+sa: @en:noun.time:Y2K
+
+w: Proterozoico
+w: Proterozóico
+d: @en_from 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms
+hp: Precambriano
+ihyper: éon
+sa: @en:noun.time:Proterozoic
+
+w: Purim
+d: @en_(Judaism) a Jewish holy day commemorating their deliverance from massacre by Haman
+hp: Adar
+hypo: festas_judaicas
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Purim
+
+w: Páscoa 2
+d: a época da Páscoa
+hypo: estação 2
+sa: @en:noun.time:Eastertide
+
+w: Páscoa 3
+w: domingo_de_Páscoa
+d: @en_the day (in March or April) on which the festival of Easter is celebrated
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Easter_Day
+
+w: Páscoa 4
+d: o festival cristão da Páscoa
+hypo: Pascoa
+sa: @en:noun.time:Pasch
+
+w: Páscoa_judaica 1
+d: @en_the Jewish feast of the Passover
+hypo: Pessach
+sa: @en:noun.time:Pasch 1
+
+w: Quaresma
+w: quaresma
+d: @en_a period of 40 weekdays from Ash Wednesday to Holy Saturday
+hp: @en_church_calendar
+hypo: estação 2
+mp: Quarta-Feira_de_Cinzas
+mp: Sexta-feira_Santa
+sa: @en:noun.time:Lent
+
+w: Quarta-Feira_de_Cinzas
+d: @en_the 7th Wednesday before Easter; the first day of Lent; the day following Mardi Gras (`Fat Tuesday'); a day of fasting and repentance
+hp: Quaresma
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Ash_Wednesday
+
+w: Quarta_Dimensão
+w: quarta_dimensão
+d: @en_the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event
+hypo: noun.attribute:amplidão
+sa: @en:noun.time:fourth_dimension
+
+w: Quaternário
+d: @en_last 2 million years
+hp: Cenozoico
+ihyper: período 11
+mp: Holoceno
+mp: Pleistoceno
+sa: @en:noun.time:Age_of_Man
+
+w: Quinquagésima
+d: @en_the Sunday before Ash Wednesday (the beginning of Lent)
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Quinquagesima
+
+w: Quinta-feira_Santa
+d: @en_the Thursday before Easter; commemorates the Last Supper
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Holy_Thursday
+
+w: Rabi_al-Awwal
+d: @en_the third month of the Islamic calendar
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Rabi_I
+
+w: Rajab
+d: @en_the seventh month of the Islamic calendar
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Rajab
+
+w: Ramadão
+d: @en_the ninth month of the Islamic calendar; the month of fasting; the holiest period for the Islamic faith
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Ramadan
+
+w: Ramnavami
+d: @en_Hindu lunar holiday (on the 9th day of Caitra) to celebrate the birth of Rama
+hp: @en_Caitra
+hypo: Efeméride
+sa: @en:noun.time:Ramanavami
+
+w: Reconstrução_dos_Estados_Unidos
+d: @en_the period after the American Civil War when the southern states were reorganized and reintegrated into the Union; 1865-1877
+ihyper: era 4
+sa: @en:noun.time:Reconstruction
+
+w: Renascentismo
+w: Renascimento
+d: @en_the period of European history at the close of the Middle Ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries
+hp: história
+ihyper: era 4
+mp: noun.attribute:@en_High_Renaissance
+mp: @en_quattrocento
+mp: Renascença_Italiana
+sa: @en:noun.time:Renaissance
+
+w: Renascença_Italiana
+w: Renascença_italiana
+d: @en_the early period when Italy was the center of the Renaissance
+hp: Renascentismo
+ihyper: era 4
+sa: @en:noun.time:Italian_Renaissance
+
+w: Renascença_do_Harlem
+w: Renascimento_do_Harlem
+d: @en_a period in the 1920s when African-American achievements in art and music and literature flourished
+ihyper: era 4
+sa: @en:noun.time:Harlem_Renaissance
+
+w: Retorno_sobre_investimento
+d: @en_the amount returned per unit of time expressed as a percentage of the cost
+hyper: @en_ROI
+hypo: ritmo
+sa: @en:noun.time:rate_of_return
+
+w: Revolução_Industrial
+w: Revolução_industrial
+d: @en_the transformation from an agricultural to an industrial nation
+ihyper: era 4
+sa: @en:noun.time:Industrial_Revolution
+
+w: Ritmo_circadiano
+d: @en_a daily cycle of activity observed in many living organisms
+hypo: @en_biological_time
+sa: @en:noun.time:circadian_rhythm
+
+w: Rosh_Chodesh
+d: @en_(Judaism) the beginning of each month in the Jewish calendar; marked by a special liturgy
+hypo: festas_judaicas
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Rosh_Chodesh
+
+w: Rosh_Hashaná
+d: @en_(Judaism) a solemn Jewish feast day celebrated on the 1st or 1st and 2nd of Tishri; noted for the blowing of the shofar
+hypo: Grandes_festas_no_judaísmo
+hypo: festividade
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Jewish_New_Year
+
+w: Sabado
+w: sábado
+d: @en_the seventh and last day of the week; observed as the Sabbath by Jews and some Christians
+hp: Fim-de-semana
+hypo: dia_útil
+sa: @en:noun.time:Sabbatum
+
+w: Safar
+d: @en_the second month of the Islamic calendar
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Safar
+
+w: Santíssima_Trindade
+w: Santíssima_trindade
+d: @en_eighth Sunday after Easter
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Trinity_Sunday
+
+w: Secas
+w: seca
+w: secas
+d: @en_a prolonged shortage
+hypo: etapa
+sa: @en:noun.time:drought
+
+w: Semana_Santa
+w: Semana_santa
+d: @en_the week before Easter
+hp: @en_church_calendar
+hypo: semana 1
+sa: @en:noun.time:Holy_Week
+
+w: Septuagésima
+d: @en_the 3rd Sunday before Lent (or the 9th before Easter)
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Septuagesima
+
+w: Setembro
+w: setembro
+d: @en_the month following August and preceding October
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: 11_de_setembro
+mp: 17_de_Setembro
+mp: @en_American_Indian_Day
+mp: @en_Labor_Day
+mp: @en_September_equinox
+mp: @en_mid-September
+mp: dia_de_São_Miguel_Arcanjo
+sa: @en:noun.time:Sep
+
+w: Sexta-feira_Santa
+d: @en_Friday before Easter
+hp: Quaresma
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Good_Friday
+
+w: Sha'aban
+d: @en_the eighth month of the Islamic calendar
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Sha'ban
+
+w: Shavuot
+w: Shavuót
+d: @en_(Judaism) Jewish holy day celebrated on the sixth of Sivan to celebrate Moses receiving the Ten Commandments
+hypo: festas_judaicas
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Feast_of_Weeks
+
+w: Shawwal
+d: @en_the tenth month of the Islamic calendar
+hp: Calendário_Islâmico
+hypo: @en_Islamic_calendar_month
+sa: @en:noun.time:Shawwal
+
+w: Shiv'ah
+w: Shivá
+d: (Judaismo) um período de sete dias de luto após a morte de parente próximo
+hypo: semana 1
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:shibah
+
+w: Siluriano
+d: @en_from 425 million to 405 million years ago; first air-breathing animals
+hp: Paleozoico
+ihyper: período 11
+sa: @en:noun.time:Silurian
+
+w: Simchat_Torá
+w: Simchat_torá
+d: @en_(Judaism) a Jewish holy day celebrated on the 22nd or 23rd of Tishri to celebrate the completion of the annual cycle of readings of the Torah
+hypo: festas_judaicas
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Rejoicing_in_the_Law
+
+w: Sivan
+d: @en_the ninth month of the civil year; the third month of the ecclesiastical year in the Jewish calendar (in May and June)
+hp: Calendário_Judaico
+hypo: mês__judaico
+sa: @en:noun.time:Sivan
+
+w: Solstício_de_Inverno
+w: Solstício_de_inverno
+d: @en_December 22, when the sun is at its southernmost point
+hp: Inverno
+hypo: solstício
+sa: @en:noun.time:winter_solstice
+
+w: Sravana
+d: @en_the fifth month of the Hindu calendar
+hp: Calendário_hindu
+hypo: @en_Hindu_calendar_month
+sa: @en:noun.time:Sawan
+
+w: Sábado_Santo
+w: Sábado_de_Aleluia
+d: @en_the Saturday before Easter; the last day of Lent
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Holy_Saturday
+
+w: Século
+w: Séculos
+w: centúria
+w: século 1
+d: @en_a period of 100 years
+hp: milénio
+hyper: @en_quattrocento
+hyper: @en_twentieth_century
+hypo: etapa
+mp: @en_quarter-century
+mp: decênio
+mp: meio_século
+sa: @en:noun.time:century
+
+w: TDT
+w: Tempo_Dinâmico_Terrestre
+w: tempo_das_efemérides
+d: @en_(astronomy) a measure of time defined by Earth's orbital motion; terrestrial time is mean solar time corrected for the irregularities of the Earth's motions
+hypo: Unidades_de_tempo
+mt: noun.cognition:Astronomia
+sa: @en:noun.time:TDT
+
+w: Ta'anit
+d: @en_one of two major fast days on the Jewish calendar
+hyper: Tisha_BeAv
+hyper: Yom_Kipur
+hypo: dia_de_jejum
+sa: @en:noun.time:major_fast_day
+
+w: Tempo_da_Septuagésima
+d: @en_immediately preceding Lent
+hp: @en_church_calendar
+hypo: estação 2
+mp: @en_Mardi_Gras
+sa: @en:noun.time:Shrovetide
+
+w: Temporas
+w: Têmporas
+d: @en_a day set aside for fasting and prayer
+hypo: feriado_religioso_cristão
+sa: @en:noun.time:Ember_Day
+
+w: Terciário
+d: @en_from 63 million to 2 million years ago
+hp: Cenozoico
+ihyper: período 11
+mp: Eoceno
+mp: Mioceno
+mp: Oligoceno
+mp: Paleoceno
+mp: Plioceno
+sa: @en:noun.time:Tertiary
+
+w: Termidor
+d: @en_eleventh month of the Revolutionary calendar (July and August); the month of heat
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Thermidor
+
+w: Terror
+d: @en_the historic period (1793-94) during the French Revolution when thousands were executed
+ihyper: era 4
+sa: @en:noun.time:Reign_of_Terror
+
+w: Terça
+w: Tércia
+d: @en_the third canonical hour; about 9 a.m.
+hypo: Horas_Canônicas
+sa: @en:noun.time:terce
+
+w: Tevet
+d: @en_the fourth month of the civil year; the tenth month of the ecclesiastical year (in December and January)
+hp: Calendário_Judaico
+hypo: mês__judaico
+mp: Chanuca
+sa: @en:noun.time:Tebet
+
+w: Tisha_BeAv
+w: Tishá_BeAv
+w: Tishá_Be_Av
+d: @en_(Judaism) a major fast day on the Jewish calendar commemorating the destruction of the temples in Jerusalem
+hypo: Ta'anit
+hypo: festas_judaicas
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Fast_of_Ab
+
+w: Triássico
+d: @en_from 230 million to 190 million years ago; dinosaurs, marine reptiles; volcanic activity
+hp: Mesozoico
+ihyper: período 11
+sa: @en:noun.time:Triassic
+
+w: Uma_semana_a_partir_de_segunda-feira
+d: @en_a time period of a week or more
+e: Uma semana a partir de segunda-feira será muito cedo!
+hypo: semana 1
+mu: noun.communication:@en_colloquialism
+sa: @en:noun.time:week_from_Monday
+
+w: Unidades_de_tempo
+w: unidade_de_tempo
+d: @en_a unit for measuring time periods
+hyper: 15_minutos
+hyper: @en_15_minutes
+hyper: @en_attosecond
+hyper: @en_mean_solar_time
+hyper: @en_picosecond
+hyper: Femtossegundo
+hyper: Microssegundo
+hyper: TDT
+hyper: batida_do_sino
+hyper: dia 4
+hyper: dia 7
+hyper: hora 4
+hyper: meia_hora
+hyper: milissegundo
+hyper: minuto 1
+hyper: mês
+hyper: nanosegundo
+hyper: noite 6
+hyper: s
+hypo: noun.Tops:magnitude
+sa: @en:noun.time:time_unit
+
+w: Uptime
+d: @en_a period of time when something (as a machine or factory) is functioning and available for use
+hyper: 24/7
+hypo: etapa
+mt: noun.artifact:casademoinho
+sa: @en:noun.time:uptime
+
+w: Ventoso
+d: @en_sixth month of the Revolutionary calendar (February and March); the windy month
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Ventose
+
+w: Vindimiário
+d: @en_first month of the Revolutionary calendar (September and October); the month of the grape harvest
+hp: @en_Revolutionary_calendar
+hypo: @en_Revolutionary_calendar_month
+sa: @en:noun.time:Vendemiaire
+
+w: Véspera_de_Ano-Novo
+w: Véspera_de_Ano_Novo
+d: @en_the last day of the year
+hp: Dezembro
+hyper: @en_Hogmanay
+hypo: dia 6
+sa: @en:noun.time:December_31
+
+w: Yom_Kipur
+w: Yom_kipur
+d: @en_(Judaism) a solemn and major fast day on the Jewish calendar; 10th of Tishri; its observance is one of the requirements of the Mosaic law
+hypo: Grandes_festas_no_judaísmo
+hypo: Ta'anit
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Day_of_Atonement
+
+w: a_tempo
+w: no_tempo
+d: no ritmo correto
+e: Os bailarinos moviam-se no tempo da música.
+hypo: tacto
+sa: @en:noun.time:in_time
+
+w: acabamento
+w: conclusão
+w: fim
+w: final
+d: @en_the temporal end; the concluding time
+hypo: cabo
+sa: @en:noun.time:close
+
+w: accel
+w: accelerando
+d: @en_a gradually increasing tempo of music
+hypo: andamento
+sa: @en:noun.time:accelerando
+
+w: aceleração
+d: @en_(physics) a rate of increase of velocity
+hyper: noun.phenomenon:Aceleração_angular
+hyper: @en_centripetal_acceleration
+hypo: ritmo
+mt: noun.cognition:Fisica
+sa: @en:noun.time:acceleration
+
+w: actualidade
+w: hoje
+d: @en_the period of time that is happening now; any continuous stretch of time including the moment of speech
+hyper: agora
+hyper: agora 1
+hyper: aqui_e_agora
+hyper: esta_noite
+hyper: hoje 1
+hyper: hoje 3
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:nowadays
+
+w: adiamento
+w: demora
+w: pausa
+d: @en_time during which some action is awaited
+hyper: atraso
+hyper: extensão
+hyper: moratória
+hypo: fazerumapausa
+sa: @en:noun.time:delay
+
+w: adolescentes
+w: teens
+d: O tempo de vida entre as idades de 12 e 20
+hp: maturidade
+hypo: período 12
+sa: @en:noun.time:teens
+
+w: agora
+d: A ocasião atual
+e: para o agora
+hypo: actualidade
+sa: @en:noun.time:nonce
+
+w: agora 1
+d: @en_the momentary present
+hypo: actualidade
+sa: @en:noun.time:now
+
+w: alerta_aéreo
+d: @en_the time period during which military and civilian agencies are prepared for an enemy air attack
+hypo: etapa
+sa: @en:noun.time:air_alert
+
+w: além
+w: além-túmulo
+w: vida_após_a_morte
+d: vida após a morte
+hyper: @en_kingdom_come 1
+hyper: imortalidade
+hypo: duração_de_uma_vida
+sa: @en:noun.time:afterlife
+
+w: amanhã
+d: @en_the day after today
+hypo: dia 7
+sa: @en:noun.time:tomorrow 1
+
+w: amanhã 1
+w: manhã
+d: @en_the next day
+hypo: dia 7
+sa: @en:noun.time:morrow
+
+w: amanhã 2
+w: futuro
+d: @en_the near future
+hypo: futuro 1
+sa: @en:noun.time:tomorrow
+
+w: anacronismo
+d: @en_something located at a time when it could not have existed or occurred
+hypo: @en_timekeeping
+sa: @en:noun.time:anachronism
+
+w: andamento
+d: @en_(music) the speed at which a composition is to be played
+hyper: @en_allegretto
+hyper: @en_allegro
+hyper: @en_andante
+hyper: @en_meno_mosso
+hyper: accel
+hyper: rubato
+hypo: tacto
+mt: noun.communication:música
+sa: @en:noun.time:pacing
+
+w: aniversário 1
+d: @en_the date on which an event occurred in some previous year (or the celebration of it)
+hyper: @en_bicentenary
+hyper: @en_bimillenary
+hyper: @en_millenary
+hyper: @en_quatercentenary
+hyper: @en_semicentenary
+hyper: @en_tercentenary
+hyper: Aniversario
+hyper: aniversário_de_casamento
+hyper: centenário
+hyper: jubileu 1
+hyper: quincentenário
+hyper: sesquicentenário
+hypo: dia 6
+sa: @en:noun.time:anniversary
+
+w: aniversário 2
+w: data_de_nascimento 1
+d: @en_the date on which a person was born
+hypo: data
+sa: @en:noun.time:birthday 1
+
+w: aniversário_de_casamento
+d: o aniversário do dia em que você se casou (ou a celebração do mesmo)
+hyper: @en_silver_wedding_anniversary
+hyper: bodas_de_diamante
+hyper: bodas_de_ouro
+hypo: aniversário 1
+sa: @en:noun.time:wedding_anniversary
+
+w: ano 1
+d: @en_the period of time each year when the school is open and people are studying
+hypo: ano 2
+mp: hora 3
+mp: semestre 1
+mp: trimestre
+mp: trimestre 2
+sa: @en:noun.time:academic_year
+
+w: ano 2
+d: @en_a period of time occupying a regular part of a calendar year that is used for some particular activity
+hyper: ano 1
+hypo: etapa
+sa: @en:noun.time:year 2
+
+w: ano 3
+d: @en_a period of time containing 365 (or 366) days
+hp: decênio
+hyper: 365_dias
+hyper: @en_annum
+hyper: @en_off_year
+hyper: @en_off_year 1
+hyper: @en_year_of_grace
+hyper: Ano_Novo
+hyper: Problema_do_ano_2000
+hyper: ano 4
+hyper: ano_bissexto
+hyper: ano_litúrgico
+hyper: exercício
+hyper: jubileu
+hypo: etapa
+sa: @en:noun.time:twelvemonth
+
+w: ano 4
+d: @en_the year (reckoned from January 1 to December 31) according to Gregorian calendar
+hyper: data 2
+hypo: ano 3
+sa: @en:noun.time:calendar_year
+
+w: ano 5
+d: @en_the period of instruction in a school; the time period when school is in session
+hypo: etapa
+mp: @en_study_hall
+sa: @en:noun.time:school
+
+w: ano 6
+d: @en_the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun
+hyper: @en_anomalistic_year
+hyper: @en_lunar_year
+hyper: ano 7
+hyper: ano_sideral
+hypo: etapa
+mp: Estação_do_ano
+mp: mês
+sa: @en:noun.time:year
+
+w: ano 7
+w: ano_trópico
+d: @en_the time for the earth to make one revolution around the sun, measured between two vernal equinoxes
+hypo: ano 6
+sa: @en:noun.time:astronomical_year
+
+w: ano-novo
+d: @en_the end of a calendar year
+hypo: cabo
+sa: @en:noun.time:year-end
+
+w: ano_bissexto
+d: @en_in the Gregorian calendar: any year divisible by 4 except centenary years divisible by 400
+hypo: ano 3
+sa: @en:noun.time:366_days
+
+w: ano_litúrgico
+d: o ano no calendário eclesiástico; especialmente dias de festa e épocas especiais
+hypo: ano 3
+mp: @en_saint's_day
+mp: dia_santo
+sa: @en:noun.time:Christian_year
+
+w: ano_novo
+d: @en_the first day of the year
+hp: Janeiro
+hypo: feriado_nacional
+sa: @en:noun.time:January_1
+
+w: ano_sabático
+d: Uma licença sabática que  dura um ano
+hypo: @en_sabbatical
+sa: @en:noun.time:sabbatical_year
+
+w: ano_sideral
+d: o tempo que leva para a Terra para dar uma volta completa em torno do Sol, em relação às estrelas fixas
+hypo: ano 6
+hypo: período_sideral
+sa: @en:noun.time:sidereal_year
+
+w: anoitecer
+w: crepúsculo
+w: pôr_do_sol
+d: @en_the time of day immediately following sunset
+hp: anoitecer 1
+hyper: noite 5
+hypo: hora 6
+sa: @en:noun.time:crepuscle
+
+w: anoitecer 1
+w: fim_de_tarde
+w: noite
+w: tarde
+w: véspera
+d: @en_the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)
+hyper: @en_guest_night
+hypo: dia 3
+mp: anoitecer
+mp: crepúsculo 1
+sa: @en:noun.time:eve
+
+w: antanho
+d: @en_time long past
+hypo: passado
+sa: @en:noun.time:yore
+
+w: antiguidade
+d: @en_the historic period preceding the Middle Ages in Europe
+dt: adj.pert:romano 1
+dt: noun.act:@en_lustrum
+dt: noun.artifact:@en_bay_wreath
+dt: noun.artifact:@en_galley 2
+dt: noun.artifact:@en_toga_virilis
+dt: noun.artifact:Panteão
+dt: noun.artifact:catacumba
+dt: noun.artifact:cruzamento 1
+dt: noun.body:@en_humor
+dt: noun.communication:ditirambo
+dt: noun.communication:peã
+dt: noun.event:@en_torch_race
+dt: noun.person:@en_Ana
+dt: noun.person:@en_Chinese_deity
+dt: noun.person:@en_Egyptian_deity
+dt: noun.person:@en_Greek_deity
+dt: noun.person:@en_Persian_deity
+dt: noun.person:@en_Phrygian_deity
+dt: noun.person:@en_Roman_deity
+dt: noun.person:@en_Semitic_deity
+dt: noun.person:@en_choragus
+dt: noun.person:@en_pontifex
+dt: noun.person:@en_sibyl
+dt: noun.person:@en_tribune
+dt: noun.person:Baco
+dt: noun.person:Deuses_nórdicos
+dt: noun.person:Lug
+dt: noun.person:Ré
+dt: noun.person:Tipos_de_gladiador
+dt: noun.person:agoureiro
+dt: noun.person:centurião
+dt: noun.person:solicitador
+hp: história
+hypo: era 4
+sa: @en:noun.time:antiquity
+
+w: aqui_e_agora
+w: neste_momento
+d: no momento presente
+hypo: actualidade
+sa: @en:noun.time:here_and_now
+
+w: arrendamento
+w: escrituras_de_arrendamento
+d: @en_the period of time during which a contract conveying property to a person is in effect
+hypo: etapa
+sa: @en:noun.time:lease
+
+w: atraso
+d: @en_the extent to which something is delayed or held back
+hypo: adiamento
+sa: @en:noun.time:retardation
+
+w: auge
+w: flor
+w: floração
+d: @en_the period of greatest prosperity or productivity
+hyper: @en_golden_age
+hypo: etapa
+sa: @en:noun.time:bloom 1
+
+w: aurora
+w: folga
+w: madrugada
+w: romper_do_dia
+d: @en_the first light of day
+hypo: hora 6
+sa: @en:noun.time:aurora
+
+w: ausência
+d: @en_the time interval during which something or somebody is away
+e: Ele visitou durante minha ausência
+hypo: intervalo 2
+sa: @en:noun.time:absence
+
+w: batida_do_sino
+w: batidas_do_Sino_de_Bordo
+d: @en_(nautical) each of the eight half-hour units of nautical time signaled by strokes of a ship's bell; eight bells signals 4:00, 8:00, or 12:00 o'clock, either a.m. or p.m.
+hypo: Unidades_de_tempo
+mt: noun.act:Navegacão
+sa: @en:noun.time:bell
+
+w: bimestre
+d: @en_a period of 2 months
+hypo: etapa
+sa: @en:noun.time:bimester
+
+w: bimilenio
+d: @en_a span of 2000 years
+hypo: etapa
+sa: @en:noun.time:bimillenary
+
+w: bispado
+d: a duração do mandato de um bispo
+hypo: legislatura
+sa: @en:noun.time:episcopate
+
+w: bits_por_segundo
+d: @en_(computer science) the rate at which data is transferred (as by a modem)
+hypo: ritmo
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.time:bits_per_second
+
+w: bodas_de_diamante
+d: @en_the 60th wedding anniversary
+hypo: aniversário_de_casamento
+sa: @en:noun.time:diamond_wedding
+
+w: bodas_de_ouro
+d: o 50º aniversário de casamento
+hypo: aniversário_de_casamento
+sa: @en:noun.time:golden_wedding_anniversary
+
+w: cabo
+w: conclusão 1
+w: fim 1
+w: término
+d: o momento em que algo termina
+hyper: acabamento
+hyper: ano-novo
+hyper: cessação
+hyper: decurso
+hyper: fim 2
+hyper: morte 1
+hyper: ponto_final
+hyper: ponto_final 1
+hyper: rabo
+hyper: último_suspiro
+hypo: instante 2
+sa: @en:noun.time:end
+
+w: café_da_manhã
+d: @en_the customary or habitual hour for eating breakfast
+hypo: @en_mealtime
+sa: @en:noun.time:breakfast_time
+
+w: calendário
+d: @en_a system of timekeeping that defines the beginning and length and divisions of the year
+hyper: @en_solar_calendar
+hyper: calendário_lunar
+hyper: calendário_lunissolar
+hypo: noun.cognition:estrutura
+mp: intercalação
+sa: @en:noun.time:calendar
+
+w: calendário_juliano
+d: @en_the solar calendar introduced in Rome in 46 b.c. by Julius Caesar and slightly modified by Augustus, establishing the 12-month year of 365 days with each 4th year having 366 days and the months having 31 or 30 days except for February
+hypo: @en_solar_calendar
+sa: @en:noun.time:Julian_calendar
+
+w: calendário_lunar
+d: @en_a calendar based on lunar cycles
+hyper: Calendário_Islâmico
+hyper: calendário_romano
+hypo: calendário
+sa: @en:noun.time:lunar_calendar
+
+w: calendário_lunissolar
+d: um calendário com base em ambos os ciclos lunares e solares
+hyper: Calendário_Judaico
+hyper: Calendário_hindu
+hypo: calendário
+sa: @en:noun.time:lunisolar_calendar
+
+w: calendário_romano
+d: @en_the lunar calendar in use in ancient Rome; replaced by the Julian calendar in 46 BC
+hypo: calendário_lunar
+sa: @en:noun.time:Roman_calendar
+
+w: caminhada_fitness
+d: Um ritmo de marcha normal de 120 passos por minuto
+hypo: ritmo 2
+sa: @en:noun.time:quick_time
+
+w: canícula
+d: @en_the hot period between early July and early September; a period of inactivity
+hp: estio
+hypo: etapa
+sa: @en:noun.time:canicular_days
+
+w: capítulo
+d: qualquer período distinto na história ou na vida de uma pessoa
+e: O divórcio foi um capítulo feio no relacionamento deles
+e: A revolução industrial abriu um novo capítulo na história britânica
+hypo: fase 1
+sa: @en:noun.time:chapter
+
+w: caudal
+w: fluxo
+d: @en_the amount of fluid that flows in a given time
+hyper: Débito_Cardíaco
+hypo: ritmo
+sa: @en:noun.time:flow
+
+w: centenário
+d: @en_the 100th anniversary (or the celebration of it)
+hypo: aniversário 1
+sa: @en:noun.time:centenary
+
+w: cessação
+d: @en_(`cease' is a noun only in the phrase `without cease') end
+hypo: cabo
+sa: @en:noun.time:cease
+
+w: cesura
+d: @en_a pause or interruption (as in a conversation)
+hypo: fazerumapausa
+sa: @en:noun.time:caesura
+
+w: ciclo
+d: @en_an interval during which a recurring sequence of events occurs
+hypo: intervalo 2
+mp: fase 2
+sa: @en:noun.time:cycle
+
+w: ciclo_menstrual
+d: @en_the phase of the menstrual cycle during which the lining of the uterus is shed (the first day of menstrual flow is considered day 1 of the menstrual cycle)
+hp: Ciclo_Menstrual
+hypo: fase 1
+sa: @en:noun.time:menstrual_phase
+
+w: começo
+w: início
+w: princípio
+d: @en_the time at which something is supposed to begin
+hyper: @en_starting_point
+hyper: @en_threshold
+hyper: incipiência
+hyper: nascimento
+hypo: instante 2
+sa: @en:noun.time:beginning
+
+w: command_processing_overhead_time
+d: @en_(computer science) the processing time required by a device prior to the execution of a command
+hp: tempo_de_acesso
+hypo: tempo_de_processamento
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.time:command_overhead
+
+w: condenação
+d: @en_the period of time a prisoner is imprisoned
+hyper: @en_hard_time
+hyper: prisão_perpétua
+hypo: período 14
+sa: @en:noun.time:prison_term
+
+w: constante_de_tempo
+d: @en_(electronics) the time required for the current or voltage in a circuit to rise or fall exponentially through approximately 63 per cent of its amplitude
+hyper: @en_relaxation_time
+hypo: intervalo 2
+mt: noun.cognition:Eletronica
+sa: @en:noun.time:time_constant
+
+w: constante_solar
+d: @en_the rate at which radiant solar energy is received at the outer layer of the earth's atmosphere
+hypo: ritmo
+sa: @en:noun.time:solar_constant
+
+w: continuidade
+w: duração 1
+d: @en_the period of time during which something continues
+hyper: @en_clocking
+hyper: @en_longueur
+hyper: @en_residence_time
+hyper: @en_time_scale
+hyper: duração 4
+hyper: período 13
+hyper: reinado
+hyper: valor_da_nota
+hypo: etapa
+sa: @en:noun.time:continuance 2
+
+w: continuidade 1
+w: duração 2
+w: permanência
+d: @en_the property of enduring or continuing in time
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:continuance
+
+w: contrato_de_experiência
+w: período_de_experiência
+d: @en_a trial period during which an offender has time to redeem himself or herself
+hypo: período_de_teste
+sa: @en:noun.time:probation
+
+w: contínuo
+d: @en_a continuous nonspatial whole or extent or succession in which no part or portion is distinct or distinguishable from adjacent parts
+hyper: história 1
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:continuum
+
+w: crepúsculo 1
+w: poente
+w: pôr-do-sol
+d: @en_the time in the evening at which the sun begins to fall below the horizon
+hp: anoitecer 1
+hypo: hora 6
+sa: @en:noun.time:sundown
+
+w: culminação
+w: culminância
+d: @en_a final climactic stage
+hypo: fase 1
+sa: @en:noun.time:apogee
+
+w: data
+w: dia
+d: @en_the specified day of the month
+e: qual é a data hoje?
+hyper: aniversário 2
+hyper: prazo 2
+hypo: dia 7
+ihypo: dia_D
+sa: @en:noun.time:date
+
+w: data 1
+d: @en_a particular day specified as the time something happens
+hyper: @en_future_date
+hyper: @en_rain_date
+hyper: @en_sell-by_date
+hypo: dia 7
+sa: @en:noun.time:date 5
+
+w: data 2
+d: o determinado dia, mês ou ano (geralmente de acordo com o calendário gregoriano) que um evento ocorreu
+hyper: data_de_referência
+hypo: ano 4
+hypo: dia 2
+hypo: mês 1
+sa: @en:noun.time:date 3
+
+w: data 3
+d: um determinado ponto, mas não especificado no tempo
+e: Eles esperavam se encontrar em uma data mais cedo
+hypo: instante 2
+sa: @en:noun.time:date 4
+
+w: data_de_referência
+d: @en_(astronomy) an arbitrarily fixed date that is the point in time relative to which information (as coordinates of a celestial body) is recorded
+hypo: data 2
+mt: noun.cognition:Astronomia
+sa: @en:noun.time:date_of_reference
+
+w: data_final
+w: data_limite
+w: prazo
+w: prazo_final
+d: @en_the point in time at which something must be completed
+hyper: toque_de_recolher
+hypo: instante 2
+sa: @en:noun.time:deadline
+
+w: de_dois_turnos
+d: @en_a working shift divided into two periods of time with several hours in between
+e: trabalho de dois turnos
+hypo: turno 2
+sa: @en:noun.time:split_shift
+
+w: decurso
+w: desinência
+w: expiração
+w: término 1
+w: vencimento
+d: @en_a coming to an end of a contract period
+hypo: cabo
+sa: @en:noun.time:expiration
+
+w: decênio
+w: década
+d: espaço de dez anos, década. período de dez anos
+hp: Século
+hyper: Década_de_1530
+hyper: Década_de_1750
+hyper: Década_de_1760
+hyper: Década_de_1770
+hyper: Década_de_1780
+hyper: Década_de_1790
+hyper: Década_de_1820
+hyper: Década_de_1830
+hyper: Década_de_1840
+hyper: Década_de_1850
+hyper: Década_de_1860
+hyper: Década_de_1870
+hyper: Década_de_1880
+hyper: Década_de_1890
+hyper: Década_de_1900
+hyper: Década_de_1920
+hyper: Década_de_1930
+hyper: Década_de_1940
+hyper: Década_de_1950
+hyper: Década_de_1960
+hyper: Década_de_1970
+hyper: Década_de_1980
+hyper: Década_de_1990
+hypo: etapa
+mp: ano 3
+sa: @en:noun.time:decade
+
+w: desaceleração
+d: @en_(physics) a rate of decrease in velocity
+hypo: ritmo
+mt: noun.cognition:Fisica
+sa: @en:noun.time:deceleration
+
+w: descanso
+w: pausa 1
+w: repouso
+d: @en_a pause for relaxation
+hyper: respiradouro
+hypo: fazerumapausa
+sa: @en:noun.time:relief
+
+w: dia 1
+d: @en_the period of time taken by a particular planet (e.g. Mars) to make a complete rotation on its axis
+hyper: @en_lunar_day
+hypo: etapa
+sa: @en:noun.time:day 7
+
+w: dia 2
+d: @en_a day reckoned from midnight to midnight
+hp: semana 1
+hyper: data 2
+hyper: dia 6
+hyper: dia_da_semana
+hypo: etapa
+sa: @en:noun.time:calendar_day
+
+w: dia 3
+w: jornada
+d: @en_the time after sunrise and before sunset while it is light outside
+hp: dia 7
+hyper: anoitecer 1
+hyper: meio_da_tarde
+hyper: tarde 3
+hypo: etapa
+mp: madrugada 1
+sa: @en:noun.time:day 2
+
+w: dia 4
+d: @en_the time for one complete rotation of the earth relative to a particular star, about 4 minutes shorter than a mean solar day
+hypo: Unidades_de_tempo
+hypo: período_sideral
+sa: @en:noun.time:day 6
+
+w: dia 5
+d: @en_some point or period in time
+hyper: dia_de_azar
+hyper: dia_do_juizo
+hypo: era 3
+sa: @en:noun.time:day 3
+
+w: dia 6
+d: @en_a day assigned to a particular purpose or observance
+hyper: 12_de_Fevereiro
+hyper: 14_de_Abril
+hyper: 17_de_Setembro
+hyper: 19_de_Janeiro
+hyper: 22_de_Fevereiro
+hyper: 24_de_Outubro
+hyper: 29_de_Fevereiro
+hyper: 2_de_Março
+hyper: 3_de_Junho
+hyper: 5_de_Novembro
+hyper: @en_Admission_Day
+hyper: @en_American_Indian_Day
+hyper: @en_Arbor_Day
+hyper: @en_Armed_Forces_Day
+hyper: @en_Father's_Day
+hyper: @en_Flag_Day
+hyper: @en_Inauguration_Day
+hyper: @en_June_23
+hyper: @en_Patriot's_Day
+hyper: @en_Tet
+hyper: @en_V-day
+hyper: @en_commencement_day
+hyper: @en_field_day
+hyper: @en_field_day 1
+hyper: @en_payday
+hyper: @en_rag_day
+hyper: @en_red-letter_day
+hyper: @en_saint's_day
+hyper: @en_school_day
+hyper: @en_speech_day
+hyper: @en_washday
+hyper: @en_wedding_day
+hyper: Cinco_de_Maio
+hyper: Dia_da_Mentira
+hyper: Dia_das_Bruxas
+hyper: Dia_das_Mães
+hyper: Dia_de_São_Patrício
+hyper: Dia_de_São_Valentim
+hyper: Dia_do_Trabalho
+hyper: Efeméride
+hyper: Groundhog_Day
+hyper: Noite_de_Santa_Valburga
+hyper: Véspera_de_Ano-Novo
+hyper: aniversário 1
+hyper: dia_de_eleição
+hyper: dia_do_mercado
+hyper: idos
+hypo: dia 2
+sa: @en:noun.time:day 1
+
+w: dia 7
+d: @en_time for Earth to make a complete rotation on its axis
+hyper: amanhã
+hyper: amanhã 1
+hyper: data
+hyper: data 1
+hyper: hoje 2
+hyper: ontem 1
+hyper: véspera 1
+hypo: Unidades_de_tempo
+mp: dia 3
+mp: fim_de_tarde 1
+mp: hora 4
+mp: meio-dia
+sa: @en:noun.time:24-hour_interval
+
+w: dia 8
+d: @en_the recurring hours when you are not sleeping (especially those when you are working)
+hyper: dia 9
+hypo: horas_de_trabalho
+sa: @en:noun.time:day 4
+
+w: dia 9
+d: @en_the amount of time that a worker must work for an agreed daily wage
+hypo: dia 8
+mp: @en_man_hour
+mp: turno 2
+sa: @en:noun.time:workday
+
+w: dia-a-dia
+w: dias
+w: vida
+d: @en_the time during which someone's life continues
+hypo: vida 2
+sa: @en:noun.time:days
+
+w: dia_D
+d: @en_date of the Allied landing in France, World War II
+ihyper: data
+sa: @en:noun.time:6_June_1944
+
+w: dia_ao_ar_livre
+w: passeio_ao_ar_livre
+w: picnic
+d: um dia dedicado a uma reunião social ao ar livre
+hypo: dia_de_folga
+sa: @en:noun.time:field_day 1
+
+w: dia_da_semana
+d: @en_any one of the seven days in a week
+hp: semana 1
+hyper: dia_útil
+hyper: feriado 1
+hypo: dia 2
+sa: @en:noun.time:day_of_the_week
+
+w: dia_de_Martin_Luther_King
+d: Observado na segunda-feira mais  próxima de 15 de janeiro
+hp: Janeiro
+hypo: feriado_nacional
+sa: @en:noun.time:Martin_Luther_King_Day
+
+w: dia_de_São_Miguel_Arcanjo
+d: @en_honoring the archangel Michael; a quarter day in England, Wales, and Ireland
+hp: Setembro
+hypo: @en_quarter_day
+sa: @en:noun.time:Michaelmas
+
+w: dia_de_azar
+d: @en_a day when things go poorly
+hypo: dia 5
+sa: @en:noun.time:off-day
+
+w: dia_de_eleição
+d: dia designado para as eleições; nos Estados Unidos é a primeira terça-feira após a primeira segunda-feira de novembro
+hypo: dia 6
+sa: @en:noun.time:election_day
+
+w: dia_de_folga
+w: feria
+w: féria
+w: férias
+w: sueto
+d: @en_leisure time away from work devoted to rest or pleasure
+hyper: @en_half-term
+hyper: @en_paid_vacation
+hyper: @en_vac
+hyper: dia_ao_ar_livre
+hyper: lua_de_mel
+hypo: lazer
+sa: @en:noun.time:holiday
+
+w: dia_de_jejum
+d: @en_a day designated for fasting
+hyper: @en_minor_fast_day
+hyper: Ta'anit
+hypo: dia_santo
+sa: @en:noun.time:fast_day
+
+w: dia_do_juizo
+w: dia_do_juízo_final
+d: @en_(New Testament) day at the end of time following Armageddon when God will decree the fates of all individual humans according to the good and evil of their earthly lives
+hypo: dia 5
+mt: noun.communication:Novo_Testamento
+sa: @en:noun.time:Day_of_Judgement
+
+w: dia_do_mercado
+d: @en_a fixed day for holding a public market
+hypo: dia 6
+sa: @en:noun.time:market_day
+
+w: dia_santo
+d: @en_a day specified for religious observance
+hp: ano_litúrgico
+hyper: Dormição_de_Maria
+hyper: dia_de_jejum
+hyper: feriado_religioso_cristão
+hyper: festas_judaicas
+hypo: Efeméride
+sa: @en:noun.time:holy_day 1
+
+w: dia_útil
+d: @en_any day except Sunday (and sometimes except Saturday)
+hyper: Sabado
+hyper: dia_útil 1
+hyper: feira
+hyper: quarta-feira
+hyper: quinta-feira
+hyper: seg
+hyper: sexta-feira
+hyper: terça-feira
+hypo: dia_da_semana
+sa: @en:noun.time:weekday
+
+w: dia_útil 1
+d: @en_a day on which work is done
+hypo: dia_útil
+sa: @en:noun.time:work_day 1
+
+w: dificuldade
+w: tempos_difíceis
+d: @en_a time of difficulty
+hypo: era 3
+sa: @en:noun.time:hard_times
+
+w: domingo
+d: @en_first day of the week; observed as a day of rest and worship by most Christians
+hp: Fim-de-semana
+hypo: feriado 1
+sa: @en:noun.time:Dominicus
+
+w: duração 3
+d: @en_the length of time that a movie or tv show runs
+hypo: etapa
+sa: @en:noun.time:running_time
+
+w: duração 4
+w: período 2
+w: prazo 1
+d: A duração completa de algo
+e: O trabalho foi concluído no período de uma hora
+hyper: noun.cognition:Limiar_de_atenção
+hypo: continuidade
+sa: @en:noun.time:span
+
+w: duração_de_uma_vida
+w: vida 1
+d: @en_the period during which something is functional (as between birth and death)
+hyper: além
+hypo: etapa
+mp: fim 2
+mp: idade 4
+mp: nascimento
+mp: período 12
+sa: @en:noun.time:life
+
+w: década_de_80
+d: @en_the time of life between 80 and 90
+hp: idade 2
+hypo: período 12
+sa: @en:noun.time:eighties
+
+w: efêmera
+d: @en_something transitory; lasting a day
+hypo: era 3
+sa: @en:noun.time:ephemera
+
+w: encarnação
+d: o tempo passado em forma corpórea especial
+e: Ele acredita que sua vida será melhor em sua próxima encarnação
+hypo: era 3
+sa: @en:noun.time:incarnation
+
+w: entreato
+w: intervalo
+d: o interlúdio entre dois atos de uma peça de teatro
+hypo: @en_interlude
+sa: @en:noun.time:entr'acte
+
+w: então
+d: Esse tempo; esse momento
+e: éramos amigos desde então
+hypo: instante 2
+sa: @en:noun.time:then
+
+w: equinócio
+d: @en_either of two times of the year when the sun crosses the plane of the earth's equator and day and night are of equal length
+hyper: @en_March_equinox
+hyper: @en_September_equinox
+hypo: tempo_cósmico
+sa: @en:noun.time:equinox
+
+w: era 1
+w: período 3
+d: @en_a major division of geological time; an era is usually divided into two or more periods
+hp: éon
+hypo: era_geológica
+ihypo: Cenozoico
+ihypo: Mesozoico
+ihypo: Paleozoico
+mp: período 11
+sa: @en:noun.time:era 1
+
+w: era 2
+w: período 4
+d: @en_a more or less definite period of time now or previously present
+hyper: mundo_contemporâneo
+hyper: período_Romano
+hypo: etapa
+sa: @en:noun.time:times 1
+
+w: era 3
+w: momento
+w: período 5
+w: tempo 2
+w: época 1
+d: @en_an indefinite period (usually marked by specific attributes or activities)
+hyper: @en_dead
+hyper: dia 5
+hyper: dificuldade
+hyper: efêmera
+hyper: encarnação
+hyper: era_espacial
+hyper: instante
+hyper: instante 4
+hyper: pouquinho
+hypo: etapa
+sa: @en:noun.time:time
+
+w: era 4
+w: idade 1
+w: período 6
+w: época 2
+d: @en_an era of history having some distinctive feature
+hp: história
+hyper: @en_Jazz_Age
+hyper: @en_turn_of_the_century
+hyper: antiguidade
+hyper: idade_de_ouro
+hyper: reinado 1
+hypo: Escala_de_tempo_geológico
+ihypo: noun.group:iluminismo
+ihypo: @en_Restoration
+ihypo: @en_Victorian_age
+ihypo: Barroco
+ihypo: Grande_Depressão
+ihypo: Idade-Média
+ihypo: New_Deal
+ihypo: Reconstrução_dos_Estados_Unidos
+ihypo: Renascentismo
+ihypo: Renascença_Italiana
+ihypo: Renascença_do_Harlem
+ihypo: Revolução_Industrial
+ihypo: Terror
+ihypo: era_elizabetana
+sa: @en:noun.time:age 2
+
+w: era 5
+w: período 7
+d: @en_an era of existence or influence
+hypo: Escala_de_tempo_geológico
+sa: @en:noun.time:day 5
+
+w: era_da_informação
+d: um período com início no último quarto do século 20, quando a informação se tornou facilmente acessível através de publicações e através da manipulação da informação por computadores e redes de computadores
+hypo: @en_modern_era
+sa: @en:noun.time:information_age
+
+w: era_do_gelo
+w: era_glacial
+w: período_glacial
+d: @en_any period of time during which glaciers covered a large part of the earth's surface
+hp: pré-história
+hypo: período 11
+sa: @en:noun.time:glacial_epoch 1
+
+w: era_dourada
+d: @en_(classical mythology) the first and best age of the world, a time of ideal happiness, prosperity, and innocence; by extension, any flourishing and outstanding period
+hypo: etapa
+mt: noun.group:@en_classical_mythology
+sa: @en:noun.time:Golden_Age
+
+w: era_elizabetana
+w: período_elisabetano
+d: @en_a period in British history during the reign of Elizabeth I in the 16th century; an age marked by literary achievement and domestic prosperity
+ihyper: era 4
+sa: @en:noun.time:Elizabethan_age
+
+w: era_espacial
+d: a idade a partir da primeira viagem espacial; de 1957 até o presente
+hypo: era 3
+sa: @en:noun.time:space_age
+
+w: era_geológica
+w: período_geológico
+d: @en_the time of the physical formation and development of the earth (especially prior to human history)
+hyper: era 1
+hyper: período 11
+hyper: período 15
+hyper: éon
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:geologic_time
+
+w: escala_de_tempo_rápida
+d: @en_(simulation) the time scale used in data processing when the time-scale factor is less than one
+hypo: @en_time_scale
+mt: noun.cognition:Modelagem_Computacional
+sa: @en:noun.time:fast_time_scale
+
+w: escola_de_verão
+d: @en_an academic session during the summer; usually for remedial or supplementary study
+hypo: hora 3
+sa: @en:noun.time:summer_school
+
+w: espaçamento
+d: @en_the time between occurrences of a repeating event
+hypo: ritmo
+sa: @en:noun.time:spacing
+
+w: esta_noite
+w: nesta_noite
+d: @en_the present or immediately coming night
+hypo: actualidade
+sa: @en:noun.time:tonight
+
+w: estação 1
+w: estações_(clima)
+w: tempo 3
+w: temporada
+d: @en_a period of the year marked by special events or activities in some field
+hyper: @en_baseball_season
+hyper: @en_exhibition_season
+hyper: @en_fishing_season
+hyper: @en_football_season
+hyper: @en_high_season
+hyper: @en_hunting_season
+hyper: @en_off-season
+hyper: @en_preseason
+hyper: @en_seedtime 1
+hyper: @en_sheepshearing
+hyper: @en_social_season
+hyper: férias 2
+hyper: pentecostes
+hyper: temporada_de_basquete
+hyper: temporada_de_crescimento
+hyper: temporada_de_hóquei
+hyper: temporada_teatral
+hypo: etapa
+sa: @en:noun.time:season 2
+
+w: estação 2
+w: tempo 4
+w: temporada 1
+d: @en_a recurrent time marked by major holidays
+hyper: @en_Allhallowtide
+hyper: @en_Lammastide
+hyper: @en_Michaelmastide
+hyper: @en_Twelfthtide
+hyper: Advento
+hyper: Ciclo_do_Natal
+hyper: Páscoa 2
+hyper: Quaresma
+hyper: Tempo_da_Septuagésima
+hypo: etapa
+sa: @en:noun.time:season 1
+
+w: estação_de_chuvas
+w: temporada_de_chuvas
+d: @en_one of the two seasons in tropical climates
+hyper: monção
+hypo: Estação_do_ano
+sa: @en:noun.time:rainy_season
+
+w: estação_seca
+d: @en_one of the two seasons in tropical climates
+hypo: Estação_do_ano
+sa: @en:noun.time:dry_season
+
+w: estio
+w: verão
+d: a estação mais quente do ano;
+e: Eles passaram um verão relaxado na praia.
+hypo: Estação_do_ano
+mp: 21_de_junho
+mp: canícula
+sa: @en:noun.time:summer
+
+w: estágio_anal
+w: fase_anal
+d: @en_(psychoanalysis) the second sexual and social stage of a child's development during which bowel control is learned
+hp: infância 1
+hypo: fase 1
+mt: noun.act:psicanálise
+sa: @en:noun.time:anal_phase
+
+w: estágio_fálico
+w: fase_fálica
+d: @en_(psychoanalysis) the third stage in a child's development when awareness of and manipulation of the genitals is supposed to be a primary source of pleasure
+hp: infância 1
+hypo: fase 1
+mt: noun.act:psicanálise
+sa: @en:noun.time:phallic_phase
+
+w: estágio_oral
+w: fase_oral
+d: @en_(psychoanalysis) the first sexual and social stage of an infant's development; the mouth is the focus of the libido and satisfaction comes from suckling and chewing and biting
+hp: infância 2
+hypo: fase 1
+mt: noun.act:psicanálise
+sa: @en:noun.time:oral_phase
+
+w: estágio_probatório
+w: período_probatório
+d: @en_a trial period during which your character and abilities are tested to see whether you are suitable for work or for membership
+hypo: período_de_teste
+sa: @en:noun.time:probation 1
+
+w: etapa
+w: período 8
+w: tempo 5
+d: @en_an amount of time
+hyper: @en_bout
+hyper: @en_dawn
+hyper: @en_downtime
+hyper: @en_duty_tour
+hyper: @en_field_day 2
+hyper: @en_hospitalization
+hyper: @en_iron_age
+hyper: @en_lactation
+hyper: @en_long_haul
+hyper: @en_lunar_time_period
+hyper: @en_lustrum
+hyper: @en_mid-April
+hyper: @en_mid-January
+hyper: @en_mid-June
+hyper: @en_mid-March
+hyper: @en_mid-November
+hyper: @en_mid-October
+hyper: @en_mid-September
+hyper: @en_midweek
+hyper: @en_past
+hyper: @en_peacetime
+hyper: @en_puerperium
+hyper: @en_quarter-century
+hyper: @en_question_time
+hyper: @en_real_time
+hyper: @en_regulation_time
+hyper: @en_run
+hyper: @en_semester
+hyper: @en_silly_season
+hyper: @en_study_hall
+hyper: @en_usance
+hyper: @en_watch 1
+hyper: @en_window
+hyper: Ano_Platônico
+hyper: Era_da_Prata
+hyper: Escala_de_tempo_geológico
+hyper: Estação_do_ano
+hyper: Fim-de-semana
+hyper: Meia_vida
+hyper: Olimpíada
+hyper: Período_de_incubação
+hyper: Prazo_de_validade
+hyper: Secas
+hyper: Século
+hyper: Uptime
+hyper: alerta_aéreo
+hyper: ano 2
+hyper: ano 3
+hyper: ano 5
+hyper: ano 6
+hyper: arrendamento
+hyper: auge
+hyper: bimestre
+hyper: bimilenio
+hyper: canícula
+hyper: continuidade
+hyper: decênio
+hyper: dia 1
+hyper: dia 2
+hyper: dia 3
+hyper: duração 3
+hyper: duração_de_uma_vida
+hyper: era 2
+hyper: era 3
+hyper: era_dourada
+hyper: estação 1
+hyper: estação 2
+hyper: fase
+hyper: fase 1
+hyper: festividade 1
+hyper: fim_de_tarde 1
+hyper: férias 4
+hyper: geração
+hyper: hora 1
+hyper: hora 5
+hyper: horas 1
+hyper: horas_de_trabalho
+hyper: idade 3
+hyper: idade_do_bronze
+hyper: indicção
+hyper: juventude 1
+hyper: lei_seca
+hyper: lua_de_mel 1
+hyper: lustro
+hyper: madrugada 1
+hyper: meados_de_agosto
+hyper: meados_de_dezembro
+hyper: meados_de_fevereiro
+hyper: meados_de_julho
+hyper: meados_de_maio
+hyper: meio_do_inverno
+hyper: meio_século
+hyper: milénio
+hyper: multiestágio
+hyper: mês 1
+hyper: noitada 1
+hyper: noite 3
+hyper: noite 4
+hyper: noite 7
+hyper: noite 8
+hyper: noviciado
+hyper: ocupação
+hyper: período 12
+hyper: período 14
+hyper: período_de_teste
+hyper: prazo 3
+hyper: prazo 4
+hyper: prorrogação
+hyper: pré-história
+hyper: quadriênio
+hyper: quinzena
+hyper: reinado 2
+hyper: semana
+hyper: semana 1
+hyper: sesta 1
+hyper: tempo_de_coagulação
+hyper: tempo_de_guerra
+hyper: tempo_de_viagem
+hyper: tempo_decorrido
+hyper: tempo_real
+hyper: trimestre 1
+hyper: trimestre 3
+hyper: vacas_magras
+hyper: veranico
+hyper: vida 2
+hyper: vida 3
+hyper: vésperas 1
+hypo: noun.quantity:@en_fundamental_measure
+ihypo: @en_Eolithic
+ihypo: Edade_de_bronço
+ihypo: Grande_Cisma_do_Oriente
+ihypo: Idade_da_Pedra
+ihypo: Idade_do_Ferro
+ihypo: Mesolítico
+ihypo: Neolítico
+ihypo: Paleolítico
+ihypo: Paleolítico_Inferior
+ihypo: Paleolítico_Médio
+ihypo: Paleolítico_Superior
+sa: @en:noun.time:period
+
+w: eternidade 1
+d: @en_time without end
+hyper: Alfa_e_Ômega
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:eternity
+
+w: exercício
+d: @en_any accounting period of 12 months
+hypo: ano 3
+sa: @en:noun.time:financial_year
+
+w: extensão
+d: @en_a mutually agreed delay in the date set for the completion of a job or payment of a debt
+hypo: adiamento
+sa: @en:noun.time:extension
+
+w: fase
+d: @en_a time when the Moon presents a particular recurring appearance
+hyper: lua_cheia
+hyper: lua_nova
+hyper: meia-lua
+hypo: noun.attribute:@en_phase
+hypo: etapa
+sa: @en:noun.time:phase_of_the_moon
+
+w: fase 1
+w: período 9
+d: @en_any distinct time period in a sequence of events
+hyper: noun.process:@en_diakinesis
+hyper: noun.process:@en_diplotene
+hyper: noun.process:@en_leptotene
+hyper: noun.process:@en_pachytene
+hyper: noun.process:@en_phase_of_cell_division
+hyper: noun.process:@en_zygotene
+hyper: @en_genital_phase
+hyper: @en_incubation
+hyper: @en_latency_period
+hyper: @en_luteal_phase
+hyper: @en_seedtime
+hyper: capítulo
+hyper: ciclo_menstrual
+hyper: culminação
+hyper: estágio_anal
+hyper: estágio_fálico
+hyper: estágio_oral
+hyper: geração 1
+hyper: musth
+hyper: período_fértil
+hyper: período_seguro
+hypo: etapa
+sa: @en:noun.time:phase
+
+w: fase 2
+d: @en_a particular point in the time of a cycle; measured from some arbitrary zero and expressed as an angle
+hp: ciclo
+hypo: instante 2
+sa: @en:noun.time:phase 1
+
+w: fazerumapausa
+w: interrupção
+w: pausa 2
+w: suspensão
+d: @en_a time interval during which there is a temporary cessation of something
+hyper: @en_blackout
+hyper: @en_dead_air
+hyper: @en_time-out
+hyper: adiamento
+hyper: cesura
+hyper: descanso
+hyper: intervalo 3
+hyper: lapso
+hyper: pausa 3
+hypo: intervalo 2
+sa: @en:noun.time:break
+
+w: feira
+d: Um dia no qual nenhum festival ou feriado é comemorado
+hypo: dia_útil
+sa: @en:noun.time:feria
+
+w: feita
+d: @en_the time of a particular event
+hyper: refeição
+hypo: hora 2
+sa: @en:noun.time:occasion
+
+w: feriado 1 ant dia_útil 1
+d: @en_a day set aside for rest
+hyper: domingo
+hyper: sabá
+hypo: dia_da_semana
+sa: @en:noun.time:day_of_rest
+
+w: feriado_bancário
+d: @en_any of several weekdays when banks are closed; a legal holiday in Britain
+hypo: feriado_nacional
+sa: @en:noun.time:bank_holiday
+
+w: feriado_nacional
+d: @en_authorized by law and limiting work or official business
+hyper: 1_de_Julho
+hyper: @en_14_July
+hyper: @en_Armistice_Day
+hyper: @en_Columbus_Day
+hyper: @en_Commonwealth_Day
+hyper: @en_Fourth_of_July
+hyper: @en_Labor_Day
+hyper: @en_Victoria_Day
+hyper: Ação_de_Graças
+hyper: Boxing_Day
+hyper: Dia_dos_Presidentes
+hyper: Memorial_Day
+hyper: Natal 1
+hyper: ano_novo
+hyper: dia_de_Martin_Luther_King
+hyper: feriado_bancário
+hypo: Efeméride
+sa: @en:noun.time:legal_holiday
+
+w: feriado_religioso_cristão
+d: um feriado religioso para os cristãos
+hyper: 19_de_Março
+hyper: 20_de_Janeiro
+hyper: 2_de_novembro
+hyper: 6_de_agosto
+hyper: @en_Advent_Sunday
+hyper: @en_Corpus_Christi
+hyper: @en_Holy_Innocents'_Day
+hyper: @en_Mardi_Gras
+hyper: @en_Passion_Sunday
+hyper: @en_Quadragesima
+hyper: @en_Rogation_Day
+hyper: @en_holy_day_of_obligation
+hyper: @en_quarter_day
+hyper: Domingo_de_Ramos
+hyper: Epifania
+hyper: Festa_da_Misericórdia
+hyper: Festa_de_São_Pedro_e_São_Paulo
+hyper: Noite_de_Reis
+hyper: Páscoa 3
+hyper: Quarta-Feira_de_Cinzas
+hyper: Quinquagésima
+hyper: Quinta-feira_Santa
+hyper: Santíssima_Trindade
+hyper: Septuagésima
+hyper: Sexta-feira_Santa
+hyper: Sábado_Santo
+hyper: Temporas
+hypo: dia_santo
+sa: @en:noun.time:Christian_holy_day
+
+w: festas_judaicas
+d: @en_a religious holiday for Jews
+hyper: @en_Feast_of_Booths
+hyper: @en_Lag_b'Omer
+hyper: Chanuca
+hyper: Grandes_festas_no_judaísmo
+hyper: Purim
+hyper: Rosh_Chodesh
+hyper: Shavuot
+hyper: Simchat_Torá
+hyper: Tisha_BeAv
+hypo: dia_santo
+sa: @en:noun.time:Jewish_holy_day
+
+w: festividade
+d: @en_a day designated for feasting
+hp: Festividades_religiosas
+hyper: @en_Circumcision
+hyper: @en_Id_al-Fitr
+hyper: Ação_de_Graças
+hyper: Eid_al-Adha
+hyper: Festa_móvel
+hyper: Natal 1
+hyper: Rosh_Hashaná
+hypo: Efeméride
+sa: @en:noun.time:feast_day
+
+w: festividade 1
+d: @en_a day or period of time set aside for feasting and celebration
+hyper: Festividades_religiosas
+hypo: etapa
+sa: @en:noun.time:festival
+
+w: fim 2
+w: morte
+w: queda
+d: @en_the time when something ends
+hp: duração_de_uma_vida
+hyper: @en_grave
+hypo: cabo
+sa: @en:noun.time:death
+
+w: fim_de_tarde 1
+w: noitada
+w: noite 1
+w: tarde 1
+d: @en_the time after sunset and before sunrise while it is dark outside
+hp: dia 7
+hyper: @en_weeknight
+hyper: noite_de_núpcias
+hypo: etapa
+mp: @en_small_hours
+mp: Meia-noite
+mp: hora_de_dormir 1
+mp: madrugada 2
+mp: noite 3
+sa: @en:noun.time:dark
+
+w: fluxo 1
+d: @en_the rate of flow of energy or particles across a given surface
+hyper: @en_radiant_flux
+hyper: fluxo_de_nêutrons
+hypo: ritmo
+sa: @en:noun.time:flux
+
+w: fluxo_de_nêutrons
+d: @en_the rate of flow of neutrons; the number of neutrons passing through a unit area in unit time
+hypo: fluxo 1
+sa: @en:noun.time:neutron_flux
+
+w: frente_fria
+d: um período de tempo frio
+e: uma frente fria no meio de maio
+hypo: instante
+sa: @en:noun.time:snap
+
+w: frequência 1
+w: presença
+d: @en_the frequency with which a person is present
+hypo: Frequencia
+sa: @en:noun.time:attendance
+
+w: frequência_Nyquista
+w: frequência_de_Nyquist
+d: @en_(telecommunication) twice the maximum frequency occurring in the transmitted signal
+hypo: @en_sampling_frequency
+mt: noun.communication:telecomunicação
+sa: @en:noun.time:Nyquist_frequency
+
+w: futuro 1
+w: porvir
+w: vindouro
+d: o tempo que ainda está por vir
+hyper: @en_by-and-by
+hyper: @en_kingdom_come
+hyper: @en_manana
+hyper: @en_offing
+hyper: amanhã 2
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:future
+
+w: férias 1
+d: @en_a day when you are not required to work
+hypo: férias 4
+sa: @en:noun.time:day_off
+
+w: férias 2
+w: época_de_festas
+d: um momento em que muitas pessoas tiram férias
+hypo: estação 1
+sa: @en:noun.time:holiday_season
+
+w: férias 3
+d: @en_time available for hobbies and other activities that you enjoy
+hypo: férias 4
+sa: @en:noun.time:free_time
+
+w: férias 4
+d: @en_a time period when you are not required to work
+hyper: @en_compensatory_time
+hyper: férias 1
+hyper: férias 3
+hyper: lazer
+hyper: licença 1
+hypo: etapa
+sa: @en:noun.time:time_off
+
+w: game
+d: @en_(tennis) a division of play during which one player serves
+hp: partida
+hypo: noun.cognition:componente 1
+mt: noun.act:Tênis
+sa: @en:noun.time:game
+
+w: geração
+d: @en_the normal time between successive generations
+hypo: etapa
+sa: @en:noun.time:generation
+
+w: geração 1
+d: um estágio de desenvolvimento tecnológico ou inovação
+e: A terceira geração de computadores
+hypo: fase 1
+sa: @en:noun.time:generation 1
+
+w: gestação
+d: @en_the period during which an embryo develops (about 266 days in humans)
+hypo: @en_biological_time
+mp: @en_full_term
+mp: @en_midterm
+mp: trimestre 1
+sa: @en:noun.time:gestation
+
+w: gigahertz
+d: @en_1,000,000,000 periods per second
+hypo: ritmo
+sa: @en:noun.time:GHz
+
+w: hertz
+d: @en_the unit of frequency; one hertz has a periodic interval of one second
+hp: quilohertz
+hypo: ritmo
+sa: @en:noun.time:Hz
+
+w: hipervelocidade
+d: @en_excessive velocity
+hypo: velocidade 1
+sa: @en:noun.time:hypervelocity
+
+w: história
+w: histórico
+d: @en_the aggregate of past events
+hypo: passado
+mp: Idade-Média
+mp: Renascentismo
+mp: antiguidade
+mp: era 4
+sa: @en:noun.time:history
+
+w: história 1
+d: @en_the continuum of events occurring in succession leading from the past to the present and even into the future
+hypo: contínuo
+sa: @en:noun.time:history 2
+
+w: hoje 1
+w: hoje_em_dia
+d: @en_the present time or age
+hypo: actualidade
+sa: @en:noun.time:today
+
+w: hoje 2
+d: @en_the day that includes the present moment (as opposed to yesterday or tomorrow)
+hypo: dia 7
+sa: @en:noun.time:today 1
+
+w: hoje 3
+d: o presente
+e: não temos notícias deles até hoje
+hypo: actualidade
+sa: @en:noun.time:date 2
+
+w: hora 1
+w: momento 1
+d: @en_a special and memorable period
+hypo: etapa
+sa: @en:noun.time:hour 2
+
+w: hora 2
+d: @en_a suitable moment
+hyper: @en_high_time
+hyper: feita
+hypo: instante 1
+sa: @en:noun.time:time 6
+
+w: hora 3
+w: semestre
+d: @en_the time during which a school holds classes
+hp: ano 1
+hyper: escola_de_verão
+hyper: semestre 1
+hyper: trimestre
+hyper: trimestre 2
+hypo: período 14
+sa: @en:noun.time:academic_session
+
+w: hora 4
+d: @en_a period of time equal to 1/24th of a day
+hp: dia 7
+hyper: @en_man_hour
+hyper: hora_sideral
+hypo: Unidades_de_tempo
+mp: 15_minutos
+mp: @en_15_minutes
+mp: meia_hora
+mp: minuto 1
+sa: @en:noun.time:60_minutes
+
+w: hora 5
+w: tempo 6
+d: @en_a period of time considered as a resource under your control and sufficient to accomplish something
+hypo: etapa
+sa: @en:noun.time:time 5
+
+w: hora 6
+d: @en_clock time
+hyper: @en_early-morning_hour
+hyper: @en_mealtime
+hyper: @en_none
+hyper: @en_small_hours
+hyper: @en_zero_hour
+hyper: Happy_Hour
+hyper: Hora-de-ponta
+hyper: Horas_Canônicas
+hyper: Meia-noite
+hyper: anoitecer
+hyper: aurora
+hyper: crepúsculo 1
+hyper: hora_de_dormir
+hyper: hora_de_fechar
+hyper: madrugada 2
+hyper: meio-dia
+hypo: hora 7
+sa: @en:noun.time:hour 1
+
+w: hora 7
+d: @en_a reading of a point in time as given by a clock
+attr: adj.all:@en_antemeridian
+attr: adj.all:@en_postmeridian
+hyper: @en_SCLK
+hyper: Horário_Nobre
+hyper: hora 6
+hypo: noun.cognition:dado 1
+sa: @en:noun.time:clock_time
+
+w: hora_da_verdade
+d: o momento em uma tourada quando o matador mata o touro
+hp: noun.act:Tauromaquia
+hypo: instante 1
+sa: @en:noun.time:moment_of_truth 1
+
+w: hora_de_brincar
+d: @en_time for play or diversion
+hypo: lazer
+sa: @en:noun.time:playday
+
+w: hora_de_dormir
+w: hora_de_ir_para_a_cama
+d: @en_the time you go to bed
+hyper: hora_de_dormir 1
+hypo: hora 6
+sa: @en:noun.time:bedtime
+
+w: hora_de_dormir 1
+d: uma hora de dormir prevista e prescrita
+hp: fim_de_tarde 1
+hypo: hora_de_dormir
+sa: @en:noun.time:lights-out
+
+w: hora_de_fechar
+d: o hora regular de dia, quando um estabelecimento fecha ao público
+hypo: hora 6
+sa: @en:noun.time:closing_time
+
+w: hora_do_almoço
+d: a hora costumeira ou  habitual para almoçar
+e: Ele mantinha uma hora normal  de almoço
+hypo: @en_mealtime
+sa: @en:noun.time:lunch_period
+
+w: hora_do_jantar
+d: @en_the customary or habitual hour for the evening meal
+hypo: @en_mealtime
+sa: @en:noun.time:dinnertime
+
+w: hora_do_show
+d: @en_the point in time at which an entertainment (a movie or television show etc.) is scheduled to begin
+hypo: instante 2
+sa: @en:noun.time:show_time 1
+
+w: hora_extra
+d: @en_work done in addition to regular working hours
+hypo: horas_de_trabalho
+sa: @en:noun.time:overtime 1
+
+w: hora_sideral
+d: 1/24 de um dia sideral
+hypo: hora 4
+hypo: período_sideral
+sa: @en:noun.time:sidereal_hour
+
+w: horas
+d: @en_a period of time assigned for work
+hyper: turno 2
+hypo: horas_de_trabalho
+sa: @en:noun.time:hours
+
+w: horas 1
+d: um período de tempo indefinido
+e: Eles conversaram por horas
+hypo: etapa
+sa: @en:noun.time:hours 1
+
+w: horas_de_trabalho
+d: @en_a time period when you are required to work
+hyper: @en_face_time
+hyper: @en_turnaround
+hyper: dia 8
+hyper: hora_extra
+hyper: horas
+hyper: semana 2
+hypo: etapa
+sa: @en:noun.time:work_time
+
+w: horário
+d: @en_a time assigned on a schedule or agenda
+hypo: intervalo 2
+sa: @en:noun.time:slot
+
+w: idade 2
+w: velhice
+d: @en_a late time of life
+hyper: senilidade
+hypo: período 12
+mp: @en_mid-nineties
+mp: década_de_80
+mp: sessenta
+mp: setentas
+sa: @en:noun.time:age 1
+
+w: idade 3
+d: @en_a prolonged period of time
+hyper: @en_month_of_Sundays
+hyper: @en_year_dot
+hyper: lua_azul
+hyper: éon 1
+hypo: etapa
+sa: @en:noun.time:age 3
+
+w: idade 4
+d: @en_a time of life (usually defined in years) at which some particular qualification or power arises
+hp: duração_de_uma_vida
+hyper: @en_drinking_age
+hyper: @en_minority
+hyper: @en_voting_age
+hyper: Idade_de_Consentimento
+hyper: maioria
+hypo: período 12
+sa: @en:noun.time:age
+
+w: idade_de_ouro
+d: Qualquer período (por vezes imaginário) de grande paz e prosperidade e felicidade
+hypo: era 4
+sa: @en:noun.time:golden_age 1
+
+w: idade_do_bronze
+d: (Mitologia clássica) a terceira idade do mundo, marcada pela guerra e violência
+hypo: etapa
+mt: noun.group:@en_classical_mythology
+sa: @en:noun.time:bronze_age
+
+w: idos
+d: @en_in the Roman calendar: the 15th of March or May or July or October or the 13th of any other month
+hypo: dia 6
+sa: @en:noun.time:ides
+
+w: imortalidade
+d: @en_perpetual life after death
+hypo: além
+sa: @en:noun.time:immortality 1
+
+w: incipiência
+d: começando a existir ou ser aparente
+hypo: começo
+sa: @en:noun.time:incipience
+
+w: indicção
+w: indicção_romana
+d: um ciclo de 15 anos usado como uma unidade cronológica na Roma antiga e adotado em alguns reinos medievais
+hypo: etapa
+sa: @en:noun.time:indiction
+
+w: infância
+w: juventude
+d: @en_the time of life between childhood and maturity
+hypo: período 12
+mp: @en_bloom
+mp: Adolescência
+sa: @en:noun.time:youth
+
+w: infância 1
+d: @en_the time of person's life when they are a child
+hyper: @en_boyhood
+hyper: @en_girlhood
+hypo: período 12
+mp: @en_latency_period
+mp: @en_prepuberty
+mp: estágio_anal
+mp: estágio_fálico
+sa: @en:noun.time:childhood
+
+w: infância 2
+w: primeira_infância
+d: @en_the early stage of growth or development
+hypo: período 12
+mp: estágio_oral
+sa: @en:noun.time:babyhood
+
+w: instante
+w: momento 2
+w: quando
+w: segundo
+w: tempo 7
+d: @en_a period of indeterminate length (usually short) marked by some action or condition
+hyper: @en_cold_snap
+hyper: @en_hot_spell
+hyper: frente_fria
+hypo: era 3
+sa: @en:noun.time:patch
+
+w: instante 1
+w: momento 3
+w: segundo 1
+d: @en_a particular point in time
+hyper: noun.communication:climax
+hyper: @en_eleventh_hour
+hyper: @en_moment_of_truth
+hyper: @en_psychological_moment
+hyper: hora 2
+hyper: hora_da_verdade
+hyper: instante 3
+hypo: instante 2
+sa: @en:noun.time:instant
+
+w: instante 2
+w: momento 4
+d: @en_an instant of time
+hyper: @en_arrival_time
+hyper: @en_departure_time
+hyper: @en_distance
+hyper: @en_full_term
+hyper: @en_midterm
+hyper: cabo
+hyper: começo
+hyper: data 3
+hyper: data_final
+hyper: então
+hyper: fase 2
+hyper: hora_do_show
+hyper: instante 1
+hyper: meio
+hyper: meio-termo
+hyper: tempo_de_execução
+hypo: noun.Tops:magnitude
+sa: @en:noun.time:point
+
+w: instante 3
+w: segundo 2
+d: @en_a very brief moment
+hypo: instante 1
+sa: @en:noun.time:pinpoint
+
+w: instante 4
+w: minuto
+w: momento 5
+w: segundo 3
+d: @en_an indefinitely short time
+hyper: instante 5
+hypo: era 3
+sa: @en:noun.time:bit
+
+w: instante 5
+w: momento 6
+w: segundo 4
+d: @en_a very short time (as the time it takes the eye to blink or the heart to beat)
+hypo: instante 4
+sa: @en:noun.time:New_York_minute
+
+w: intercalação
+d: @en_an insertion into a calendar
+hp: calendário
+hypo: intervalo 2
+sa: @en:noun.time:embolism
+
+w: interregno
+d: @en_the time between two reigns, governments, etc.
+hypo: intervalo 1
+sa: @en:noun.time:interregnum
+
+w: intervalo 1
+d: @en_the time between one event, process, or period and another
+hyper: interregno
+hypo: intervalo 2
+sa: @en:noun.time:interim
+
+w: intervalo 2
+w: intervalo_de_tempo
+w: tempo 8
+d: @en_a definite length of time marked off by two instants
+hyper: @en_distance 1
+hyper: @en_float
+hyper: @en_interlude
+hyper: @en_latent_period
+hyper: @en_lunitidal_interval
+hyper: Eternidade
+hyper: Lead_Time
+hyper: ausência
+hyper: ciclo
+hyper: constante_de_tempo
+hyper: fazerumapausa
+hyper: horário
+hyper: intercalação
+hyper: intervalo 1
+hyper: latência
+hyper: período 10
+hyper: tempo_de_acesso
+hyper: tempo_de_busca
+hyper: tempo_de_processamento
+hyper: tempo_de_rotação
+hypo: noun.Tops:magnitude
+sa: @en:noun.time:interval
+
+w: intervalo 3
+w: meio_tempo
+d: um intervalo entre a primeira e a segunda metade de um jogo
+hypo: fazerumapausa
+sa: @en:noun.time:halftime
+
+w: isometria
+d: @en_the growth rates in different parts of a growing organism are the same
+hypo: taxa_de_crescimento
+mt: noun.process:crescimento 2
+sa: @en:noun.time:isometry
+
+w: jejum_dos_primogênitos
+d: @en_(Judaism) a minor fast day on Nissan 14 that is observed only by firstborn males; it is observed on the day before Passover
+hypo: @en_minor_fast_day
+mt: noun.cognition:judaísmo
+sa: @en:noun.time:Fast_of_the_Firstborn
+
+w: jogo
+w: rodada
+w: turno
+d: @en_(in games or plays or other performances) the time during which play proceeds
+hp: noun.act:esporte 1
+hyper: noun.artifact:@en_golf_hole
+hyper: partida
+hypo: noun.Tops:magnitude
+mp: @en_chukka
+mp: @en_final_period
+mp: @en_over
+mp: @en_period
+mp: @en_quarter
+mp: jogo 1
+mp: metade
+mp: primeiro_tempo 1
+mp: segundo_tempo
+mp: turno 4
+mt: noun.act:jogo 4
+sa: @en:noun.time:period_of_play
+
+w: jogo 1
+d: @en_(sports) a division during which one team is on the offensive
+hp: jogo
+hyper: @en_bottom
+hyper: @en_top
+hypo: noun.cognition:componente 1
+mt: noun.act:esporte
+sa: @en:noun.time:bout
+
+w: jornada_de_trabalho
+w: turno 1
+d: @en_the work shift during the day (as 8 a.m. to 4 p.m.)
+hypo: turno 2
+sa: @en:noun.time:day_shift
+
+w: jubileu
+d: (Igreja Católica Romana) um período de remissão do pecado (geralmente concedido a cada 25 anos)
+hypo: ano 3
+mt: noun.group:Igreja_Católica
+sa: @en:noun.time:Holy_Year
+
+w: jubileu 1
+d: um aniversário especial (ou a celebração do mesmo)
+hyper: @en_diamond_jubilee
+hyper: @en_silver_jubilee
+hypo: aniversário 1
+sa: @en:noun.time:jubilee
+
+w: juventude 1
+d: @en_an early period of development
+hypo: etapa
+sa: @en:noun.time:early_days
+
+w: km/h
+w: quilômetros_por_hora
+d: @en_the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours)
+hypo: ritmo
+sa: @en:noun.time:kilometers_per_hour
+
+w: lapso
+d: uma pausa ou interrupção na ocorrência de algo
+e: Um lapso de três semanas entre as cartas
+hypo: fazerumapausa
+sa: @en:noun.time:lapse
+
+w: latência
+d: @en_the time that elapses between a stimulus and the response to it
+hypo: intervalo 2
+sa: @en:noun.time:latency
+
+w: lazer
+w: tempos_livres
+w: ócio
+d: @en_time available for ease and relaxation
+hyper: noun.act:férias
+hyper: dia_de_folga
+hyper: hora_de_brincar
+hypo: férias 4
+sa: @en:noun.time:leisure
+
+w: legislatura
+w: titularidade
+d: @en_the term during which some position is held
+hyper: @en_vice-presidency
+hyper: bispado
+hyper: presidência
+hypo: período 14
+sa: @en:noun.time:incumbency
+
+w: lei_seca
+d: o período 1920-1933 quando a venda de bebidas alcoólicas foi proibida nos Estados Unidos por uma emenda constitucional
+hypo: etapa
+sa: @en:noun.time:prohibition
+
+w: leito_de_morte
+d: @en_the last few hours before death
+hypo: período 12
+sa: @en:noun.time:deathbed
+
+w: licença
+w: licença_sem_vencimento
+d: @en_a temporary leave of absence from military duty
+hypo: licença 1
+sa: @en:noun.time:furlough
+
+w: licença 1
+d: o período de tempo durante o qual você está ausente do trabalho ou dever
+hyper: @en_compassionate_leave
+hyper: @en_liberty
+hyper: @en_pass
+hyper: @en_sabbatical
+hyper: @en_terminal_leave
+hyper: licença
+hyper: licença_médica
+hypo: férias 4
+sa: @en:noun.time:leave
+
+w: licença_médica
+d: uma licença de ausência do trabalho por motivo de doença
+hypo: licença 1
+sa: @en:noun.time:sick_leave
+
+w: limitação
+d: @en_(law) a time period after which suits cannot be brought
+hypo: prazo 4
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.time:limitation
+
+w: lua
+w: mês_lunar
+d: @en_the period between successive new moons (29.531 days)
+hp: @en_lunar_year
+hypo: mês
+sa: @en:noun.time:lunar_month
+
+w: lua_azul
+d: @en_a long time
+hypo: idade 3
+mu: noun.communication:@en_colloquialism
+sa: @en:noun.time:blue_moon
+
+w: lua_cheia
+w: plenilúnio
+d: @en_the time when the Moon is fully illuminated
+hp: mês
+hyper: @en_harvest_moon
+hypo: fase
+sa: @en:noun.time:full
+
+w: lua_de_mel
+d: @en_a holiday taken by a newly married couple
+hypo: dia_de_folga
+sa: @en:noun.time:honeymoon
+
+w: lua_de_mel 1
+d: @en_the early (usually calm and harmonious) period of a relationship; business or political
+hypo: etapa
+sa: @en:noun.time:honeymoon 1
+
+w: lua_nova
+d: @en_the time at which the Moon appears as a narrow waxing crescent
+hp: mês
+hypo: fase
+sa: @en:noun.time:new_moon
+
+w: lustro
+w: quinquênio
+d: um período de cinco anos
+hypo: etapa
+sa: @en:noun.time:quinquennium
+
+w: madrugada 1
+w: manhã 1
+d: @en_the time period between dawn and noon
+hp: dia 3
+hypo: etapa
+mp: @en_early-morning_hour
+sa: @en:noun.time:forenoon
+
+w: madrugada 2
+d: a última parte da noite
+hp: fim_de_tarde 1
+hypo: hora 6
+sa: @en:noun.time:late-night_hour
+
+w: maio
+d: O mês seguinte a abril e anterior a  junho
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: @en_Armed_Forces_Day
+mp: @en_Commonwealth_Day
+mp: Dia_das_Mães
+mp: Dia_do_Trabalho
+mp: Memorial_Day
+mp: meados_de_maio
+sa: @en:noun.time:May
+
+w: maioria
+d: @en_the age at which persons are considered competent to manage their own affairs
+hp: maturidade
+hypo: idade 4
+sa: @en:noun.time:legal_age
+
+w: mar
+w: março
+d: @en_the month following February and preceding April
+hp: Calendario_gregoriano
+hypo: mês_no_calendário_gregoriano
+mp: 19_de_Março
+mp: 2_de_Março
+mp: @en_March_equinox
+mp: @en_mid-March
+mp: Anunciação
+sa: @en:noun.time:Mar
+
+w: maturidade
+d: @en_the period of time in your life after your physical growth has stopped and you are fully developed
+hyper: primor
+hypo: período 12
+mp: @en_drinking_age
+mp: @en_fifties
+mp: @en_mid-thirties
+mp: @en_mid-twenties
+mp: @en_middle_age
+mp: @en_voting_age
+mp: adolescentes
+mp: maioria
+mp: quarenta
+sa: @en:noun.time:adulthood
+
+w: meados_de_agosto
+d: @en_the middle part of August
+hp: Agosto
+hypo: etapa
+sa: @en:noun.time:mid-August
+
+w: meados_de_dezembro
+d: a parte do meio do mês de Dezembro
+hp: Dezembro
+hypo: etapa
+sa: @en:noun.time:mid-December
+
+w: meados_de_fevereiro
+d: a parte do meio do mês de Fevereiro
+hp: Fevereiro
+hypo: etapa
+sa: @en:noun.time:mid-February
+
+w: meados_de_julho
+d: @en_the middle part of July
+hp: Julho
+hypo: etapa
+sa: @en:noun.time:mid-July
+
+w: meados_de_maio
+d: @en_the middle part of May
+hp: maio
+hypo: etapa
+sa: @en:noun.time:mid-May
+
+w: meia-lua
+d: @en_the time at which the Moon is at first or last quarter when half its face is illuminated
+hp: mês
+hyper: @en_first_quarter
+hyper: @en_last_quarter
+hypo: fase
+sa: @en:noun.time:half-moon
+
+w: meia_hora
+d: @en_a half of an hour
+hp: hora 4
+hypo: Unidades_de_tempo
+sa: @en:noun.time:30_minutes
+
+w: meio
+d: @en_time between the beginning and the end of a temporal period
+hyper: @en_deep
+hypo: instante 2
+sa: @en:noun.time:middle
+
+w: meio-dia
+d: @en_the middle of the day
+hp: dia 7
+hypo: hora 6
+sa: @en:noun.time:high_noon
+
+w: meio-termo
+d: @en_middle of an academic term or a political term in office
+hp: período 14
+hypo: instante 2
+sa: @en:noun.time:midterm
+
+w: meio_da_tarde
+d: a parte do meio da tarde
+hp: tarde 3
+hypo: dia 3
+sa: @en:noun.time:midafternoon
+
+w: meio_do_inverno
+d: no meio do inverno
+hp: Inverno
+hypo: etapa
+sa: @en:noun.time:midwinter
+
+w: meio_século
+d: @en_a period of 50 years
+hp: Século
+hypo: etapa
+sa: @en:noun.time:half-century
+
+w: melhor_idade
+d: @en_the time of life after retirement from active work
+hypo: período 12
+sa: @en:noun.time:golden_years
+
+w: menopausa
+d: @en_a period in a man's life corresponding to menopause
+hp: @en_middle_age
+hypo: @en_biological_time
+sa: @en:noun.time:climacteric 2
+
+w: menopausa 1
+d: @en_the time in a woman's life in which the menstrual cycle ends
+hp: @en_middle_age
+hypo: @en_biological_time
+sa: @en:noun.time:change_of_life
+
+w: metade
+d: @en_one of two divisions into which some games or performances are divided: the two divisions are separated by an interval
+hp: noun.act:Basquetebol
+hp: noun.act:futebol 1
+hp: jogo
+hyper: @en_last_half
+hyper: primeiro_tempo
+hypo: noun.cognition:componente 1
+sa: @en:noun.time:half
+
+w: milissegundo
+d: @en_one thousandth (10^-3) of a second
+hp: s
+hypo: Unidades_de_tempo
+mp: Microssegundo
+sa: @en:noun.time:millisecond
+
+w: milénio
+w: milênio
+d: @en_a span of 1000 years
+hypo: etapa
+mp: Século
+sa: @en:noun.time:millenary
+
+w: milênio 1
+d: @en_(New Testament) in Revelations it is foretold that those faithful to Jesus will reign with Jesus over the earth for a thousand years; the meaning of these words have been much debated; some denominations (e.g. Jehovah's Witnesses) expect it to be a thousand years of justice and peace and happiness
+hypo: noun.cognition:doutrina
+mt: noun.communication:Novo_Testamento
+sa: @en:noun.time:millennium 1
+
+w: minuto 1
+d: @en_a unit of time equal to 60 seconds or 1/60th of an hour
+hp: hora 4
+hypo: Unidades_de_tempo
+mp: s
+sa: @en:noun.time:min
+
+w: monção
+d: @en_rainy season in southern Asia when the southwestern monsoon blows, bringing heavy rains
+hypo: estação_de_chuvas
+sa: @en:noun.time:monsoon
+
+w: moratória
+d: @en_a legally authorized postponement before some obligation must be discharged
+hypo: adiamento
+sa: @en:noun.time:moratorium
+
+w: mortalidade
+w: taxa_de_mortalidade
+d: @en_the ratio of deaths in an area to the population of that area; expressed per 1000 per year
+hyper: @en_neonatal_mortality
+hyper: mortalidade_infantil
+hypo: ritmo
+sa: @en:noun.time:death_rate
+
+w: mortalidade_infantil
+d: @en_the death rate during the first year of life
+hypo: mortalidade
+sa: @en:noun.time:infant_deathrate
+
+w: morte 1
+d: @en_the time at which life ends; continuing until dead
+hypo: cabo
+sa: @en:noun.time:death 1
+
+w: multiestágio
+d: @en_occurring in more than one stage
+hypo: etapa
+sa: @en:noun.time:multistage
+
+w: mundo_contemporâneo
+w: mundo_moderno
+w: tempos_atuais
+w: tempos_modernos
+d: as circunstâncias e as idéias da época presente
+e: Em tempos modernos como estes
+hypo: era 2
+sa: @en:noun.time:contemporary_world
+
+w: musth
+d: @en_an annual phase of heightened sexual excitement in the males of certain large mammals (especially elephants); is associated with discharge from a gland between the eye and ear
+hypo: fase 1
+sa: @en:noun.time:musth
+
+w: mês
+d: @en_a time unit of approximately 30 days
+hp: ano 6
+hyper: @en_solar_month
+hyper: lua
+hyper: mês_anomalístico
+hyper: mês_sideral
+hypo: Unidades_de_tempo
+mp: lua_cheia
+mp: lua_nova
+mp: meia-lua
+sa: @en:noun.time:month
+
+w: mês 1
+d: @en_one of the twelve divisions of the calendar year
+hyper: @en_Hindu_calendar_month
+hyper: @en_Islamic_calendar_month
+hyper: @en_Revolutionary_calendar_month
+hyper: data 2
+hyper: mês__judaico
+hyper: mês_no_calendário_gregoriano
+hypo: etapa
+mp: semana
+sa: @en:noun.time:calendar_month
+
+w: mês__judaico
+w: mês_no_calendário_judaico
+d: um mês no calendário judaico
+hp: Calendário_Judaico
+hyper: @en_Adar_Sheni
+hyper: @en_Shebat
+hyper: @en_Tammuz
+hyper: @en_Tishri
+hyper: Adar
+hyper: Av
+hyper: Cheshvan
+hyper: Elul
+hyper: Iyar
+hyper: Kislev
+hyper: Nissan
+hyper: Sivan
+hyper: Tevet
+hypo: mês 1
+sa: @en:noun.time:Jewish_calendar_month
+
+w: mês_anomalístico
+d: @en_period between successive perigees; approximately 27.5546 days
+hypo: mês
+sa: @en:noun.time:anomalistic_month
+
+w: mês_no_calendário_gregoriano
+d: um mês no calendário gregoriano
+hp: Calendario_gregoriano
+hyper: Abril
+hyper: Agosto
+hyper: Dezembro
+hyper: Fevereiro
+hyper: Janeiro
+hyper: Julho
+hyper: Jun
+hyper: Nazaré
+hyper: Outubro
+hyper: Setembro
+hyper: maio
+hyper: mar
+hypo: mês 1
+sa: @en:noun.time:Gregorian_calendar_month
+
+w: mês_sideral
+d: @en_period between successive conjunctions with a star, 27.322 days
+hypo: mês
+hypo: período_sideral
+sa: @en:noun.time:sidereal_month
+
+w: nanosegundo
+d: @en_one billionth (10^-9) of a second; one thousandth of a microsecond
+hp: Microssegundo
+hypo: Unidades_de_tempo
+mp: @en_picosecond
+sa: @en:noun.time:nanosecond
+
+w: nascimento
+d: @en_the time when something begins (especially life)
+hp: duração_de_uma_vida
+hyper: @en_cradle
+hypo: começo
+sa: @en:noun.time:birth
+
+w: noitada 1
+w: noite 2
+d: @en_the time between sunset and midnight
+hypo: etapa
+sa: @en:noun.time:night 3
+
+w: noite 3
+d: A parte inicial da noite (do jantar até dormir) gasto em uma maneira especial
+e: Uma noite na ópera
+hp: fim_de_tarde 1
+hypo: etapa
+sa: @en:noun.time:evening 2
+
+w: noite 4
+w: tarde 2
+d: @en_a later concluding time period
+hypo: etapa
+mu: noun.communication:figura_de_linguagem
+sa: @en:noun.time:evening 1
+
+w: noite 5
+d: @en_a shortening of nightfall
+hypo: anoitecer
+sa: @en:noun.time:night 5
+
+w: noite 6
+d: @en_the dark part of the diurnal cycle considered a time unit
+hypo: Unidades_de_tempo
+sa: @en:noun.time:night 2
+
+w: noite 7
+d: @en_a period of ignorance or backwardness or gloom
+hypo: etapa
+sa: @en:noun.time:night 1
+
+w: noite 8
+d: @en_the period spent sleeping
+hypo: etapa
+sa: @en:noun.time:night 4
+
+w: noite_de_núpcias
+w: núpcias
+d: a noite após o casamento, quando noiva e do noivo dormem juntos
+hp: @en_wedding_day
+hypo: fim_de_tarde 1
+sa: @en:noun.time:wedding_night
+
+w: nona
+w: nona_hora
+w: nonas
+d: a quinta das sete horas canônicas; cerca de três horas
+hypo: Horas_Canônicas
+sa: @en:noun.time:nones
+
+w: noviciado
+d: @en_the period during which you are a novice (especially in a religious order)
+hypo: etapa
+mt: noun.cognition:Crença_religiosa
+sa: @en:noun.time:noviciate
+
+w: ocupação
+d: @en_the period of time during which a place or position or nation is occupied
+hypo: etapa
+sa: @en:noun.time:occupation
+
+w: oitavo
+d: @en_a feast day and the seven days following it
+hypo: Festividades_religiosas
+sa: @en:noun.time:octave
+
+w: ontem
+d: @en_the recent past
+hypo: passado
+sa: @en:noun.time:yesterday
+
+w: ontem 1
+d: o dia imediatamente antes de hoje
+e: Saiu no jornal de ontem.
+hypo: dia 7
+sa: @en:noun.time:yesterday 1
+
+w: outono
+d: @en_the season when the leaves fall from the trees
+hypo: Estação_do_ano
+mp: @en_September_equinox
+mp: veranico
+sa: @en:noun.time:autumn
+
+w: palavras_por_minuto
+w: ppm
+d: @en_the rate at which words are produced (as in speaking or typing)
+hypo: ritmo
+sa: @en:noun.time:words_per_minute
+
+w: partida
+d: @en_a unit of play in tennis or squash
+hypo: jogo
+mp: game
+sa: @en:noun.time:set
+
+w: passado
+d: @en_the time that has elapsed
+hyper: @en_auld_langsyne
+hyper: @en_bygone
+hyper: @en_old
+hyper: @en_time_immemorial
+hyper: antanho
+hyper: história
+hyper: ontem
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:past
+
+w: pausa 3
+d: @en_a pause during which things are calm or activities are diminished
+hypo: fazerumapausa
+sa: @en:noun.time:letup
+
+w: pentecostes
+d: Feriado cristão; a semana que se inicia no Domingo de Pentecostes (especialmente os primeiros 3 dias)
+hp: @en_church_calendar
+hypo: estação 1
+mp: Pentecostes
+mp: segunda_de_Pentecostes
+mp: terça_de_Pentecostes
+sa: @en:noun.time:Whitsun
+
+w: período 10
+d: @en_the interval taken to complete one cycle of a regularly repeating phenomenon
+hyper: @en_orbit_period
+hypo: intervalo 2
+sa: @en:noun.time:period 2
+
+w: período 11
+w: período_geológico 1
+d: @en_a unit of geological time during which a system of rocks formed
+hp: era 1
+hyper: era_do_gelo
+hypo: era_geológica
+ihypo: Cambriano
+ihypo: Carbonífero
+ihypo: Cretáceo
+ihypo: Devoniano
+ihypo: Jurássico
+ihypo: Mississippiano
+ihypo: Ordoviciano
+ihypo: Pennsylvaniano
+ihypo: Permiano
+ihypo: Quaternário
+ihypo: Siluriano
+ihypo: Terciário
+ihypo: Triássico
+mp: período 15
+sa: @en:noun.time:geological_period
+
+w: período 12
+w: época 3
+d: @en_a period of time during which a person is normally in a particular life state
+hp: duração_de_uma_vida
+hyper: @en_bachelorhood
+hyper: @en_bloom
+hyper: @en_fifties
+hyper: @en_mid-nineties
+hyper: @en_mid-thirties
+hyper: @en_mid-twenties
+hyper: @en_middle_age
+hyper: @en_prepuberty
+hyper: Adolescência
+hyper: adolescentes
+hyper: década_de_80
+hyper: idade 2
+hyper: idade 4
+hyper: infância
+hyper: infância 1
+hyper: infância 2
+hyper: leito_de_morte
+hyper: maturidade
+hyper: melhor_idade
+hyper: período_neonatal
+hyper: puberdade
+hyper: quarenta
+hyper: sessenta
+hyper: setentas
+hyper: tempo_de_escola
+hyper: verão 1
+hyper: viuvez
+hypo: etapa
+sa: @en:noun.time:time_of_life
+
+w: período 13
+d: @en_an unbroken period of time during which you do something
+hypo: continuidade
+sa: @en:noun.time:stint
+
+w: período 14
+d: @en_a limited period of time
+hyper: condenação
+hyper: hora 3
+hyper: legislatura
+hypo: etapa
+mp: meio-termo
+sa: @en:noun.time:term
+
+w: período 15
+w: época 4
+d: @en_a unit of geological time that is a subdivision of a period and is itself divided into ages
+hp: período 11
+hypo: era_geológica
+ihypo: Eoceno
+ihypo: Holoceno
+ihypo: Mioceno
+ihypo: Oligoceno
+ihypo: Paleoceno
+ihypo: Pleistoceno
+ihypo: Plioceno
+sa: @en:noun.time:epoch 1
+
+w: período_Romano
+w: tempos_Romanos
+d: @en_the time period during which Rome dominated Europe
+hypo: era 2
+sa: @en:noun.time:Roman_times
+
+w: período_de_teste
+d: @en_a period of time during which someone or something is tested
+hyper: contrato_de_experiência
+hyper: estágio_probatório
+hypo: etapa
+sa: @en:noun.time:test_period
+
+w: período_fértil
+d: @en_the time in the menstrual cycle when fertilization is most likely to be possible (7 days before to 7 days after ovulation)
+hp: Ciclo_Menstrual
+hypo: fase 1
+sa: @en:noun.time:fertile_period
+
+w: período_neonatal
+d: @en_the first 28 days of life
+hypo: período 12
+sa: @en:noun.time:neonatal_period
+
+w: período_seguro
+d: tempo durante o ciclo menstrual de uma mulher durante o qual a concepção é menos provável de ocorrer (geralmente imediatamente antes ou depois da menstruação)
+hp: Ciclo_Menstrual
+hypo: fase 1
+sa: @en:noun.time:safe_period
+
+w: período_sideral
+d: @en_measured by the diurnal motion of stars
+hyper: ano_sideral
+hyper: dia 4
+hyper: hora_sideral
+hyper: mês_sideral
+hypo: tempo_cósmico
+sa: @en:noun.time:sidereal_time
+
+w: ponto_final
+d: @en_the end or completion of something
+hypo: cabo
+mu: noun.communication:figura_de_linguagem
+sa: @en:noun.time:period 4
+
+w: ponto_final 1
+d: @en_final or latest limiting point
+hypo: cabo
+sa: @en:noun.time:limit
+
+w: pouquinho
+d: @en_a short time
+hypo: era 3
+mr: noun.location:Escocia
+sa: @en:noun.time:wee
+
+w: prazo 2
+d: @en_the date on which an obligation must be repaid
+hypo: data
+sa: @en:noun.time:due_date
+
+w: prazo 3
+d: um período de tempo durante o qual ocorre algo ou algo está previsto para ocorrer
+hypo: etapa
+sa: @en:noun.time:time_frame
+
+w: prazo 4
+d: @en_a time period within which something must be done or completed
+hyper: limitação
+hypo: etapa
+sa: @en:noun.time:time_limit
+
+w: presidência
+d: @en_the tenure of a president
+hypo: legislatura
+sa: @en:noun.time:administration
+
+w: primavera
+d: @en_the season of growth
+hypo: Estação_do_ano
+mp: @en_March_equinox
+sa: @en:noun.time:spring
+
+w: primeiro_tempo
+d: @en_the first of two halves of play
+hypo: metade
+sa: @en:noun.time:first_half
+
+w: primeiro_tempo 1
+d: a primeira divisão em que a execução de um jogo é dividido
+hp: jogo
+hypo: noun.cognition:componente 1
+sa: @en:noun.time:first_period
+
+w: primor
+d: o tempo de maturidade quando a energia e vigor são maiores
+hypo: maturidade
+sa: @en:noun.time:prime
+
+w: prisão_perpétua
+d: @en_a prison term lasting as long as the prisoner lives
+hypo: condenação
+sa: @en:noun.time:life 3
+
+w: prorrogação
+d: @en_playing time beyond regulation, to break a tie
+hp: noun.act:esporte 1
+hyper: @en_extra_innings
+hyper: @en_overtime_period
+hyper: Jogo_decisivo
+hyper: Morte_subita
+hypo: etapa
+sa: @en:noun.time:extra_time
+
+w: pré-história
+d: @en_the time during the development of human culture before the appearance of the written word
+hypo: etapa
+mp: Edade_de_bronço
+mp: Idade_da_Pedra
+mp: Idade_do_Ferro
+mp: era_do_gelo
+sa: @en:noun.time:prehistoric_culture
+
+w: puberdade
+d: @en_the time of life when sex glands become functional
+hp: Adolescência
+hypo: período 12
+sa: @en:noun.time:puberty
+
+w: pulso_radial
+d: pulsação da artéria radial (sentido no punho)
+hypo: Frequência_cardíaca
+sa: @en:noun.time:radial_pulse
+
+w: quadriênio
+d: um período de quatro anos
+hypo: etapa
+sa: @en:noun.time:quadrennium
+
+w: quarenta
+d: o tempo de vida entre 40 e 50
+hp: maturidade
+hypo: período 12
+sa: @en:noun.time:forties
+
+w: quarta-feira
+d: @en_the fourth day of the week; the third working day
+hypo: dia_útil
+sa: @en:noun.time:Midweek 1
+
+w: quilohertz
+d: @en_one thousand periods per second
+hp: MHz
+hypo: ritmo
+mp: hertz
+sa: @en:noun.time:kHz
+
+w: quincentenário
+d: os 500 anos (ou a celebração do mesmo)
+hypo: aniversário 1
+sa: @en:noun.time:quincentenary
+
+w: quinta-feira
+d: @en_the fifth day of the week; the fourth working day
+hypo: dia_útil
+sa: @en:noun.time:Th
+
+w: quinzena
+d: @en_a period of fourteen consecutive days
+hypo: etapa
+sa: @en:noun.time:fortnight
+
+w: rabo
+w: traseiro
+d: @en_the time of the last part of something
+hypo: cabo
+sa: @en:noun.time:fag_end
+
+w: refeição
+d: qualquer uma das ocasiões para comer alimentos que ocorrem por costume ou hábito em horários fixos, mais ou menos
+hypo: feita
+sa: @en:noun.time:meal
+
+w: regência
+d: o período de tempo durante o qual um Regente governa
+hypo: reinado
+sa: @en:noun.time:regency 1
+
+w: reinado
+d: a duração do poder de um monarca ou o governo de
+hyper: regência
+hypo: continuidade
+ihypo: @en_Regency
+sa: @en:noun.time:rule
+
+w: reinado 1
+d: período durante o qual um monarca é soberano
+hypo: era 4
+sa: @en:noun.time:reign
+
+w: reinado 2
+d: @en_a period during which something or somebody is dominant or powerful
+hyper: reino_do_terror
+hypo: etapa
+sa: @en:noun.time:reign 1
+
+w: reino_do_terror
+d: @en_any period of brutal suppression thought to resemble the Reign of Terror in France
+hypo: reinado 2
+mt: noun.act:Terrorismo
+sa: @en:noun.time:reign_of_terror 1
+
+w: respiradouro
+d: @en_a short respite
+hypo: descanso
+sa: @en:noun.time:breath
+
+w: ritmo
+w: velocidade
+d: @en_a magnitude or frequency relative to a time unit
+hyper: @en_THz
+hyper: @en_dose_rate
+hyper: @en_inflation_rate
+hyper: @en_jerk
+hyper: @en_metabolic_rate
+hyper: @en_rate_of_respiration
+hyper: @en_rev
+hyper: Frequencia
+hyper: Frequência_cardíaca
+hyper: MHz
+hyper: Milha_por_hora
+hyper: Retorno_sobre_investimento
+hyper: aceleração
+hyper: bits_por_segundo
+hyper: caudal
+hyper: constante_solar
+hyper: desaceleração
+hyper: espaçamento
+hyper: fluxo 1
+hyper: gigahertz
+hyper: hertz
+hyper: km/h
+hyper: mortalidade
+hyper: palavras_por_minuto
+hyper: quilohertz
+hyper: ritmo 1
+hyper: ritmo 2
+hyper: taxa_de_amostragem
+hyper: taxa_de_cancelamento
+hyper: taxa_de_crescimento
+hyper: taxa_de_criminalidade
+hyper: taxa_de_natalidade
+hyper: taxa_de_transferência_de_dados
+hyper: velocidade 1
+hyper: velocidade_de_hemossedimentação
+hypo: noun.relation:relação_de_grandeza
+sa: @en:noun.time:rate
+
+w: ritmo 1
+w: taxas
+d: @en_the rate of some repeating event
+hyper: @en_M.M.
+hypo: ritmo
+sa: @en:noun.time:pace 1
+
+w: ritmo 2
+d: @en_the rate of moving (especially walking or running)
+hyper: caminhada_fitness
+hyper: tempo_duplo 1
+hypo: ritmo
+sa: @en:noun.time:gait
+
+w: ronda_noturna
+d: @en_a watch during the night (as from midnight to 8 a.m.)
+hypo: @en_watch
+sa: @en:noun.time:graveyard_watch
+
+w: rubato
+w: tempo_rubato
+d: @en_a flexible tempo; not strictly on the beat
+hypo: andamento
+sa: @en:noun.time:rubato
+
+w: s
+w: segundo 5
+d: @en_1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites
+hp: minuto 1
+hyper: segundo_bissexto
+hypo: Unidades_de_tempo
+mp: milissegundo
+sa: @en:noun.time:s
+
+w: sabá
+w: sábado 1
+d: @en_a day of rest and worship: Sunday for most Christians; Saturday for the Jews and a few Christians; Friday for Muslims
+hypo: feriado 1
+sa: @en:noun.time:Sabbath
+
+w: seg
+w: segunda-feira
+d: @en_the second day of the week; the first working day
+hyper: segunda_de_Pentecostes
+hypo: dia_útil
+sa: @en:noun.time:Mon
+
+w: segunda_de_Pentecostes
+d: O dia depois de Pentecoste; um feriado legal na Inglaterra e País de Gales e Irlanda
+hp: pentecostes
+hypo: seg
+sa: @en:noun.time:Whitmonday
+
+w: segundo_bissexto
+d: @en_a second (as measured by an atomic clock) added to or subtracted from Greenwich Mean Time in order to compensate for slowing in the Earth's rotation
+hypo: s
+sa: @en:noun.time:leap_second
+
+w: segundo_tempo
+d: @en_the second division into which the play of a game is divided
+hp: jogo
+hypo: noun.cognition:componente 1
+sa: @en:noun.time:second_period
+
+w: segundo_trimestre
+d: período de tempo compreendido entre 13 a 27ª semana de gestação
+hypo: trimestre 1
+sa: @en:noun.time:second_trimester
+
+w: semana
+d: @en_a period of seven consecutive days starting on Sunday
+hp: mês 1
+hypo: etapa
+mp: @en_midweek
+mp: semana 2
+sa: @en:noun.time:calendar_week
+
+w: semana 1
+d: @en_any period of seven consecutive days
+hyper: @en_rag
+hyper: Semana_Santa
+hyper: Shiv'ah
+hyper: Uma_semana_a_partir_de_segunda-feira
+hypo: etapa
+mp: Fim-de-semana
+mp: dia 2
+mp: dia_da_semana
+sa: @en:noun.time:hebdomad
+
+w: semana 2
+d: @en_hours or days of work in a calendar week
+hp: semana
+hypo: horas_de_trabalho
+sa: @en:noun.time:week 1
+
+w: semestre 1
+d: @en_one of two divisions of an academic year
+hp: ano 1
+hypo: hora 3
+sa: @en:noun.time:semester 1
+
+w: senilidade
+d: doença mental, como consequência da velhice; às vezes demonstrado por paixões tolas
+hypo: idade 2
+sa: @en:noun.time:dotage
+
+w: sesquicentenário
+d: @en_the 150th anniversary (or the celebration of it)
+hypo: aniversário 1
+sa: @en:noun.time:sesquicentennial
+
+w: sessenta
+d: o tempo de vida entre 60 e 70
+hp: idade 2
+hypo: período 12
+sa: @en:noun.time:mid-sixties
+
+w: sesta
+d: @en_sleep
+hypo: sesta 1
+mr: noun.location:Grã-Bretanha
+sa: @en:noun.time:kip
+
+w: sesta 1
+w: sono
+d: @en_a period of time spent sleeping
+hyper: @en_beauty_sleep
+hyper: sesta
+hypo: etapa
+sa: @en:noun.time:nap
+
+w: setentas
+d: o tempo de vida entre 70 e 80
+hp: idade 2
+hypo: período 12
+sa: @en:noun.time:mid-seventies
+
+w: sexta-feira
+d: @en_the sixth day of the week; the fifth working day
+hypo: dia_útil
+sa: @en:noun.time:Fri
+
+w: solstício
+d: @en_either of the two times of the year when the sun is at its greatest distance from the celestial equator
+hyper: 21_de_junho
+hyper: Solstício_de_Inverno
+hypo: tempo_cósmico
+sa: @en:noun.time:solstice
+
+w: tacto
+d: @en_(music) the beat of musical rhythm
+hyper: noun.communication:ritmo
+hyper: @en_common_measure
+hyper: a_tempo
+hyper: andamento
+hyper: tempo_duplo
+hyper: tempo_triplo
+hypo: noun.Tops:espaço_temporal
+mt: noun.communication:música
+sa: @en:noun.time:musical_time
+
+w: tarde 3
+d: @en_the part of the day between noon and evening
+hypo: dia 3
+mp: meio_da_tarde
+sa: @en:noun.time:afternoon
+
+w: taxa_de_amostragem
+d: @en_(telecommunication) the frequency of sampling per unit time
+hyper: @en_Nyquist_rate
+hypo: ritmo
+mt: noun.communication:telecomunicação
+sa: @en:noun.time:sampling_rate
+
+w: taxa_de_cancelamento
+d: @en_the rate of shrinkage in size or number
+hypo: ritmo
+sa: @en:noun.time:attrition_rate
+
+w: taxa_de_crescimento
+d: A taxa de aumento em tamanho por unidade de tempo
+hyper: isometria
+hypo: ritmo
+sa: @en:noun.time:growth_rate
+
+w: taxa_de_criminalidade
+d: @en_the ratio of crimes in an area to the population of that area; expressed per 1000 population per year
+hypo: ritmo
+sa: @en:noun.time:crime_rate
+
+w: taxa_de_natalidade
+d: @en_the ratio of live births in an area to the population of that area; expressed per 1000 population per year
+hypo: ritmo
+sa: @en:noun.time:birth_rate
+
+w: taxa_de_transferência_de_dados
+d: @en_the rate at which circuits or other devices operate when handling digital information
+hyper: @en_channel_capacity
+hypo: ritmo
+sa: @en:noun.time:data_rate
+
+w: tempo_cósmico
+d: o tempo coberto pela formação física e desenvolvimento do universo
+hyper: equinócio
+hyper: período_sideral
+hyper: solstício
+hypo: noun.Tops:espaço_temporal
+sa: @en:noun.time:cosmic_time
+
+w: tempo_de_acesso
+d: @en_(computer science) the interval between the time data is requested by the system and the time the data is provided by the drive
+hypo: intervalo 2
+mp: command_processing_overhead_time
+mp: tempo_de_busca
+mp: tempo_de_rotação
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.time:access_time
+
+w: tempo_de_busca
+w: tempo_de_posicionamento
+d: @en_(computer science) the time it takes for a read/write head to move to a specific data track
+hp: tempo_de_acesso
+hyper: track_to_track_seek_time
+hypo: intervalo 2
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.time:seek_time
+
+w: tempo_de_coagulação
+d: o tempo que leva para coagular uma amostra de sangue; utilizado para diagnosticar algumas doenças de coagulação
+hypo: etapa
+sa: @en:noun.time:clotting_time
+
+w: tempo_de_escola
+d: o tempo de vida quando você está indo para a escola
+hypo: período 12
+sa: @en:noun.time:schooldays
+
+w: tempo_de_execução
+d: @en_the time at which a (software or multimedia) program is run
+hypo: instante 2
+sa: @en:noun.time:run-time 1
+
+w: tempo_de_guerra
+d: Um período de tempo durante o qual há conflitos armados
+hypo: etapa
+sa: @en:noun.time:wartime
+
+w: tempo_de_processamento
+d: @en_the time it takes to complete a prescribed procedure
+hyper: command_processing_overhead_time
+hypo: intervalo 2
+sa: @en:noun.time:processing_time
+
+w: tempo_de_rotação
+d: @en_(computer science) the time it takes for a specific block of data on a data track to rotate around to the read/write head
+hp: tempo_de_acesso
+hypo: intervalo 2
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.time:latency 1
+
+w: tempo_de_viagem
+d: @en_a period of time spent traveling
+e: Os trabalhadores não foram pagos pelo seu tempo de viagem entre a casa e o trabalho
+hypo: etapa
+sa: @en:noun.time:travel_time
+
+w: tempo_decorrido
+d: @en_the time that elapses while some event is occurring
+hyper: @en_OWLT
+hyper: @en_RTLT
+hypo: etapa
+sa: @en:noun.time:elapsed_time
+
+w: tempo_duplo
+d: @en_musical time with two beats in each bar
+hypo: tacto
+sa: @en:noun.time:duple_time
+
+w: tempo_duplo 1
+d: um ritmo de marcha rápida (180 passos / min) ou corrida lenta
+hypo: ritmo 2
+sa: @en:noun.time:double_time
+
+w: tempo_real
+d: @en_the actual time that it takes a process to occur
+hypo: etapa
+sa: @en:noun.time:real_time 1
+
+w: tempo_triplo
+d: @en_musical time with three beats in each bar
+hypo: tacto
+sa: @en:noun.time:triple_time
+
+w: temporada_de_basquete
+d: a época em que o basquetebol é jogado
+hypo: estação 1
+sa: @en:noun.time:basketball_season
+
+w: temporada_de_crescimento
+d: @en_the season during which a crop grows best
+hypo: estação 1
+sa: @en:noun.time:growing_season
+
+w: temporada_de_hóquei
+d: a época em que o hóquei é jogado
+hypo: estação 1
+sa: @en:noun.time:hockey_season
+
+w: temporada_teatral
+d: A temporada quando novas peças são produzidas
+hypo: estação 1
+sa: @en:noun.time:theatrical_season
+
+w: terceiro_trimestre
+d: período de tempo que se estende desde a 28ª semana de gestação até o parto
+hypo: trimestre 1
+sa: @en:noun.time:third_trimester
+
+w: terça-feira
+d: @en_the third day of the week; the second working day
+hyper: terça_de_Pentecostes
+hypo: dia_útil
+sa: @en:noun.time:Tues
+
+w: terça_de_Pentecostes
+d: @en_the day after Whitmonday
+hp: pentecostes
+hypo: terça-feira
+sa: @en:noun.time:Whit-Tuesday
+
+w: toque_de_recolher
+d: @en_the time that the curfew signal is sounded
+hypo: data_final
+sa: @en:noun.time:curfew
+
+w: track_to_track_seek_time
+d: @en_(computer science) the time it takes for a read/write head to move to an adjacent data track
+hypo: tempo_de_busca
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.time:track-to-track_seek_time
+
+w: treinamento_de_primavera
+d: @en_preseason training during the spring
+hypo: @en_preseason
+sa: @en:noun.time:spring_training
+
+w: trimestre
+d: @en_one of four periods into which the school year is divided
+hp: ano 1
+hypo: hora 3
+sa: @en:noun.time:quarter
+
+w: trimestre 1
+d: @en_a period of three months; especially one of the three three-month periods into which human pregnancy is divided
+hp: gestação
+hyper: @en_first_trimester
+hyper: segundo_trimestre
+hyper: terceiro_trimestre
+hypo: etapa
+sa: @en:noun.time:trimester
+
+w: trimestre 2
+d: @en_one of three divisions of an academic year
+hp: ano 1
+hypo: hora 3
+sa: @en:noun.time:trimester 1
+
+w: trimestre 3
+d: @en_a fourth part of a year; three months
+hypo: etapa
+sa: @en:noun.time:quarter 2
+
+w: turno 2
+d: o período de tempo durante o qual você está no trabalho
+hp: dia 9
+hyper: @en_trick
+hyper: @en_watch
+hyper: de_dois_turnos
+hyper: jornada_de_trabalho
+hyper: turno 3
+hyper: turno_noturno
+hyper: turno_noturno 1
+hypo: horas
+sa: @en:noun.time:duty_period
+
+w: turno 3
+w: vez
+d: @en_a time for working (after which you will be relieved by someone else)
+hypo: turno 2
+sa: @en:noun.time:go
+
+w: turno 4
+d: @en_(baseball) one of nine divisions of play during which each team has a turn at bat
+hp: jogo
+hypo: noun.cognition:componente 1
+mp: @en_bottom
+mp: @en_top
+mt: noun.act:basebol
+sa: @en:noun.time:frame
+
+w: turno_noturno
+d: @en_the work shift during the night (as midnight to 8 a.m.)
+hypo: turno 2
+sa: @en:noun.time:graveyard_shift
+
+w: turno_noturno 1
+d: O turno de trabalho durante a noite (como 4 p.m.  à meia-noite)
+hypo: turno 2
+sa: @en:noun.time:evening_shift
+
+w: vacas_magras
+d: @en_a (future) time of financial need
+hypo: etapa
+mu: noun.communication:figura_de_linguagem
+sa: @en:noun.time:rainy_day
+
+w: valor_da_nota
+d: (Música) a duração relativa de uma nota musical
+hypo: continuidade
+mt: noun.communication:música
+sa: @en:noun.time:note_value
+
+w: velocidade 1
+d: @en_distance travelled per unit time
+hyper: noun.phenomenon:velocidade_angular
+hyper: @en_airspeed
+hyper: @en_groundspeed
+hyper: @en_muzzle_velocity
+hyper: @en_peculiar_velocity
+hyper: @en_steerageway
+hyper: hipervelocidade
+hyper: velocidade_da_luz
+hyper: velocidade_de_escape
+hyper: velocidade_radial
+hyper: velocidade_terminal
+hypo: ritmo
+sa: @en:noun.time:speed
+
+w: velocidade_da_luz
+d: @en_the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second
+hypo: noun.quantity:constante
+hypo: velocidade 1
+sa: @en:noun.time:c
+
+w: velocidade_de_escape
+d: @en_the minimum velocity needed to escape a gravitational field
+hypo: velocidade 1
+sa: @en:noun.time:escape_velocity
+
+w: velocidade_de_hemossedimentação
+d: @en_the rate at which red blood cells settle out in a tube of blood under standardized conditions; a high rate usually indicates the presence of inflammation
+hypo: ritmo
+sa: @en:noun.time:ESR
+
+w: velocidade_radial
+d: @en_velocity along the line of sight toward or away from the observer
+hypo: velocidade 1
+sa: @en:noun.time:radial_velocity
+
+w: velocidade_terminal
+d: @en_the constant maximum velocity reached by a body falling through the atmosphere under the attraction of gravity
+hypo: velocidade 1
+sa: @en:noun.time:terminal_velocity
+
+w: veranico
+d: @en_a period of unusually warm weather in the autumn
+hp: outono
+hypo: etapa
+sa: @en:noun.time:Indian_summer
+
+w: verão 1
+d: @en_the period of finest development, happiness, or beauty
+hypo: período 12
+mu: noun.communication:figura_de_linguagem
+sa: @en:noun.time:summer 1
+
+w: vida 2
+d: @en_the period from the present until death
+hyper: dia-a-dia
+hypo: etapa
+sa: @en:noun.time:life 2
+
+w: vida 3
+d: @en_the period between birth and the present time
+hypo: etapa
+mp: @en_past
+sa: @en:noun.time:life 1
+
+w: viuvez
+d: o tempo de vida de uma mulher quando ela é uma viúva
+hypo: período 12
+sa: @en:noun.time:widowhood
+
+w: véspera 1
+w: vésperas
+d: @en_the day before
+hypo: dia 7
+sa: @en:noun.time:eve 1
+
+w: vésperas 1
+d: @en_the period immediately before something
+hypo: etapa
+sa: @en:noun.time:eve 2
+
+w: éon
+d: @en_the longest division of geological time
+hypo: era_geológica
+ihypo: Arqueano
+ihypo: Fanerozoico
+ihypo: Hadeano
+ihypo: Precambriano
+ihypo: Proterozoico
+mp: era 1
+sa: @en:noun.time:aeon 1
+
+w: éon 1
+d: @en_an immeasurably long period of time
+hypo: idade 3
+sa: @en:noun.time:aeon
+
+w: último_suspiro
+d: @en_the point of death or exhaustion or completion
+hypo: cabo
+sa: @en:noun.time:last_gasp
+

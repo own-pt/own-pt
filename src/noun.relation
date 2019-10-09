@@ -1,0 +1,2872 @@
+noun.relation
+
+w: @en_Beaufort_scale
+w: @en_wind_scale
+d: @en_an international scale of wind force from 0 (calm air) to 12 (hurricane)
+hypo: escala
+mp: noun.phenomenon:@en_calm
+mp: noun.phenomenon:@en_fresh_breeze
+mp: noun.phenomenon:@en_fresh_gale
+mp: noun.phenomenon:@en_gentle_breeze
+mp: noun.phenomenon:@en_light_air
+mp: noun.phenomenon:@en_light_breeze
+mp: noun.phenomenon:@en_moderate_breeze
+mp: noun.phenomenon:@en_moderate_gale
+mp: noun.phenomenon:@en_strong_breeze
+mp: noun.phenomenon:@en_strong_gale
+mp: noun.phenomenon:@en_whole_gale
+mp: noun.phenomenon:borrasca 1
+mp: noun.phenomenon:furacão
+sa: @en:noun.relation:Beaufort_scale
+
+w: @en_Celsius_scale
+w: @en_centigrade_scale
+w: @en_international_scale
+d: @en_a temperature scale that defines the freezing point of water as 0 degrees and the boiling point of water as 100 degrees
+hypo: @en_temperature_scale
+sa: @en:noun.relation:Celsius_scale
+
+w: @en_ENE
+w: @en_east_northeast
+d: @en_the compass point midway between northeast and east
+hypo: @en_compass_point
+sa: @en:noun.relation:ENE
+
+w: @en_EbN
+w: @en_east_by_north
+d: @en_the compass point that is one point north of due east
+hypo: @en_compass_point
+sa: @en:noun.relation:EbN
+
+w: @en_EbS
+w: @en_east_by_south
+d: @en_the compass point that is one point south of due east
+hypo: @en_compass_point
+sa: @en:noun.relation:EbS
+
+w: @en_Fahrenheit_scale
+d: @en_a temperature scale that defines the freezing point of water as 32 degrees and the boiling point of water a 212 degrees
+hypo: @en_temperature_scale
+sa: @en:noun.relation:Fahrenheit_scale
+
+w: @en_Kelvin_scale
+w: @en_absolute_scale
+d: @en_a temperature scale that defines absolute zero as 0 degrees; water freezes at 273.16 degrees and boils at 373.16 degrees
+hypo: @en_temperature_scale
+sa: @en:noun.relation:Kelvin_scale
+
+w: @en_Mercalli_scale
+d: @en_a scale formerly used to describe the magnitude of an earthquake; an earthquake detected only by seismographs is a I and an earthquake that destroys all buildings is a XII
+hypo: escala
+mt: noun.cognition:geologia
+sa: @en:noun.relation:Mercalli_scale
+
+w: @en_Mohs_scale
+d: @en_a scale of hardness of solids; talc is 0 and diamond is 10; ordering is determined by which substance can scratch another substance
+hypo: escala
+sa: @en:noun.relation:Mohs_scale
+
+w: @en_NEbE
+w: @en_northeast_by_east
+d: @en_the compass point that is one point east of northeast
+hypo: @en_compass_point
+sa: @en:noun.relation:NEbE
+
+w: @en_NEbN
+w: @en_northeast_by_north
+d: @en_the compass point that is one point north of northeast
+hypo: @en_compass_point
+sa: @en:noun.relation:NEbN
+
+w: @en_NNE
+w: @en_nor'-nor'-east
+w: @en_north_northeast
+d: @en_the compass point that is midway between north and northeast
+hypo: @en_compass_point
+sa: @en:noun.relation:NNE
+
+w: @en_NNW
+w: @en_nor'-nor'-west
+w: @en_north_northwest
+d: @en_the compass point that is midway between north and northwest
+hypo: @en_compass_point
+sa: @en:noun.relation:NNW
+
+w: @en_NWbN
+w: @en_northwest_by_north
+d: @en_the compass point that is one point north of northwest
+hypo: @en_compass_point
+sa: @en:noun.relation:NWbN
+
+w: @en_NWbW
+w: @en_northwest_by_west
+d: @en_the compass point that is one point west of northwest
+hypo: @en_compass_point
+sa: @en:noun.relation:NWbW
+
+w: @en_NbE
+w: @en_north_by_east
+d: @en_the compass point that is one point east (clockwise) of due north
+hypo: @en_compass_point
+sa: @en:noun.relation:NbE
+
+w: @en_NbW
+w: @en_north_by_west
+d: @en_the compass point that is one point west of due north
+hypo: @en_compass_point
+sa: @en:noun.relation:NbW
+
+w: @en_SEbE
+w: @en_southeast_by_east
+d: @en_the compass point that is one point east of southeast
+hypo: @en_compass_point
+sa: @en:noun.relation:SEbE
+
+w: @en_SEbS
+w: @en_southeast_by_south
+d: @en_the compass point that is one point south of southeast
+hypo: @en_compass_point
+sa: @en:noun.relation:SEbS
+
+w: @en_SSE
+w: @en_sou'-sou'-east
+w: @en_south_southeast
+d: @en_the compass point midway between south and southeast
+hypo: @en_compass_point
+sa: @en:noun.relation:SSE
+
+w: @en_SSW
+w: @en_sou'-sou'-west
+w: @en_south_southwest
+d: @en_the compass point midway between south and southwest
+hypo: @en_compass_point
+sa: @en:noun.relation:SSW
+
+w: @en_SWbS
+w: @en_southwest_by_south
+d: @en_the compass point that is one point south of southwest
+hypo: @en_compass_point
+sa: @en:noun.relation:SWbS
+
+w: @en_SWbW
+w: @en_southwest_by_west
+d: @en_the compass point that is one point west of southwest
+hypo: @en_compass_point
+sa: @en:noun.relation:SWbW
+
+w: @en_SbE
+w: @en_south_by_east
+d: @en_the compass point that is one point east of due south
+hypo: @en_compass_point
+sa: @en:noun.relation:SbE
+
+w: @en_SbW
+w: @en_south_by_west
+d: @en_the compass point that is one point west of due south
+hypo: @en_compass_point
+sa: @en:noun.relation:SbW
+
+w: @en_WNW
+w: @en_west_northwest
+d: @en_the compass point midway between west and northwest
+hypo: @en_compass_point
+sa: @en:noun.relation:WNW
+
+w: @en_WSW
+w: @en_west_southwest
+d: @en_the compass point midway between west and southwest
+hypo: @en_compass_point
+sa: @en:noun.relation:WSW
+
+w: @en_WbN
+w: @en_west_by_north
+d: @en_the compass point that is one point north of due west
+hypo: @en_compass_point
+sa: @en:noun.relation:WbN
+
+w: @en_WbS
+w: @en_west_by_south
+d: @en_the compass point that is one point south of due west
+hypo: @en_compass_point
+sa: @en:noun.relation:WbS
+
+w: @en_absentee_rate
+d: @en_the percentage of workers who do not report to work
+hypo: percentagem
+sa: @en:noun.relation:absentee_rate
+
+w: @en_abundance
+d: @en_(physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present
+hypo: Taxa
+mt: noun.cognition:Fisica
+sa: @en:noun.relation:abundance 1
+
+w: @en_abundance 1
+d: @en_(chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a percentage or in parts per million
+hypo: Taxa
+mt: noun.cognition:Quimica
+sa: @en:noun.relation:abundance
+
+w: @en_academic_relation
+d: @en_a professional relation between instructors and those they instruct
+hyper: @en_teacher-student_relation
+hypo: @en_professional_relation
+sa: @en:noun.relation:academic_relation
+
+w: @en_active
+w: @en_active_voice
+d: @en_the voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb
+hypo: Voz_verbal
+sa: @en:noun.relation:active
+
+w: @en_additive_inverse
+d: @en_(mathematics) one of a pair of numbers whose sum is zero; the additive inverse of -5 is +5
+hypo: inversão_térmica
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:additive_inverse
+
+w: @en_adult_intelligence
+d: @en_the average IQ of the adults in a given population
+hypo: Q.I.
+sa: @en:noun.relation:adult_intelligence
+
+w: @en_adversative_conjunction
+d: @en_the conjunctive relation of units that expresses the opposition of their meanings
+hypo: conjunção
+sa: @en:noun.relation:adversative_conjunction
+
+w: @en_affinity
+d: @en_(anthropology) kinship by marriage or adoption; not a blood relationship
+hyper: @en_steprelationship
+hypo: parentesco 2
+mt: noun.cognition:Antropologia
+sa: @en:noun.relation:affinity 1
+
+w: @en_affinity 1
+w: @en_phylogenetic_relation
+d: @en_(biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts
+hypo: parentesco 2
+mt: noun.cognition:biologia
+sa: @en:noun.relation:affinity 2
+
+w: @en_agnation
+w: @en_patrilineage
+d: @en_line of descent traced through the paternal side of the family
+hypo: @en_unilateral_descent
+sa: @en:noun.relation:agnation
+
+w: @en_anaphoric_relation
+d: @en_the relation between an anaphor and its antecedent
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:anaphoric_relation
+
+w: @en_angular_position
+d: @en_relation by which any position with respect to any other position is established
+hyper: @en_depression
+hyper: altitude
+hypo: noun.attribute:colocação
+sa: @en:noun.relation:angular_position
+
+w: @en_antecedent
+w: @en_forerunner
+d: @en_anything that precedes something similar in time
+hypo: @en_temporal_relation
+sa: @en:noun.relation:antecedent
+
+w: @en_antipodal
+w: @en_antipodal_opposition
+w: @en_diametrical_opposition
+d: @en_the relation of opposition along a diameter
+hypo: oposição 1
+sa: @en:noun.relation:antipodal
+
+w: @en_antonymy
+d: @en_the semantic relation that holds between two words that can (in a given context) express opposite meanings
+hypo: relação_semântica
+sa: @en:noun.relation:antonymy
+
+w: @en_apposition
+d: @en_a grammatical relation between a word and a noun phrase that follows
+hypo: @en_limiting
+sa: @en:noun.relation:apposition
+
+w: @en_arc_cosecant
+w: @en_arccosecant
+w: @en_inverse_cosecant
+d: @en_the angle that has a cosecant equal to a given number
+hypo: função_trigonométrica
+sa: @en:noun.relation:arc_cosecant
+
+w: @en_arc_cotangent
+w: @en_arccotangent
+w: @en_inverse_cotangent
+d: @en_the inverse function of the cotangent; the angle that has a cotangent equal to a given number
+hypo: função_trigonométrica
+sa: @en:noun.relation:arc_cotangent
+
+w: @en_arc_secant
+w: @en_arcsec
+w: @en_arcsecant
+w: @en_inverse_secant
+d: @en_the inverse function of the secant; the angle that has a secant equal to a given number
+hypo: função_trigonométrica
+sa: @en:noun.relation:arc_secant
+
+w: @en_arc_tangent
+w: @en_arctan
+w: @en_arctangent
+w: @en_inverse_tangent
+d: @en_the inverse function of the tangent; the angle that has a tangent equal to a given number
+hypo: função_trigonométrica
+sa: @en:noun.relation:arc_tangent
+
+w: @en_association
+d: @en_a relation resulting from interaction or dependence
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:association
+
+w: @en_attitude
+d: @en_position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)
+hyper: @en_trim
+hypo: Orientação
+sa: @en:noun.relation:attitude
+
+w: @en_attorney-client_relation
+w: @en_lawyer-client_relation
+d: @en_the responsibility of a lawyer to act in the best interests of the client
+hypo: @en_fiduciary_relation
+mm: noun.person:advogada
+mm: noun.person:cliente
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:attorney-client_relation
+
+w: @en_average
+d: @en_(sports) the ratio of successful performances to opportunities
+hyper: @en_batting_average 1
+hyper: @en_fielding_average
+hypo: Taxa
+mt: noun.act:esporte
+sa: @en:noun.relation:average
+
+w: @en_bank-depositor_relation
+d: @en_the responsibility of a bank to act in the best interests of the depositors
+hypo: @en_fiduciary_relation
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:bank-depositor_relation
+
+w: @en_base
+w: @en_basis
+d: @en_the most important or necessary part of something
+hypo: categoria
+sa: @en:noun.relation:base
+
+w: @en_batting_average
+d: @en_(an extension of the baseball term) the proportion of times some effort succeeds
+hypo: proporção 1
+mt: noun.act:basebol
+sa: @en:noun.relation:batting_average 1
+
+w: @en_batting_average 1
+w: @en_hitting_average
+d: @en_(baseball) a measure of a batter's performance; the number of base hits divided by the number of official times at bat
+hypo: @en_average
+mt: noun.act:basebol
+sa: @en:noun.relation:batting_average
+
+w: @en_betting_odds
+w: @en_odds
+d: @en_the ratio by which one better's wager is greater than that of another
+hypo: Taxa
+sa: @en:noun.relation:betting_odds
+
+w: @en_bilateral_descent
+d: @en_line of descent traced through both the maternal and paternal sides of the family
+hypo: descendência
+sa: @en:noun.relation:bilateral_descent
+
+w: @en_billionth
+d: @en_position 1,000,000,000 in a countable series of things
+hypo: noun.state:classe 1
+mr: noun.location:América
+sa: @en:noun.relation:billionth
+
+w: @en_bonding
+d: @en_a close personal relationship that forms between people (as between husband and wife or parent and child)
+hyper: @en_female_bonding
+hyper: @en_male_bonding
+hyper: @en_maternal-infant_bonding
+hypo: @en_personal_relation
+sa: @en:noun.relation:bonding
+
+w: @en_borderline_intelligence
+d: @en_the minimal IQ required for someone to function normally and independently in the world (without some form of institutional assistance)
+hypo: Q.I.
+sa: @en:noun.relation:borderline_intelligence
+
+w: @en_breadth_index
+w: @en_cephalic_index
+w: @en_cranial_index
+d: @en_ratio (in percent) of the maximum breadth to the maximum length of a skull
+hypo: Taxa
+sa: @en:noun.relation:breadth_index
+
+w: @en_bridge
+d: @en_something resembling a bridge in form or function
+hypo: ligação 2
+sa: @en:noun.relation:bridge
+
+w: @en_brotherhood
+d: @en_the kinship relation between a male offspring and the siblings
+hypo: parentesco 2
+sa: @en:noun.relation:brotherhood
+
+w: @en_business_relation
+d: @en_a relation between different business enterprises
+hyper: @en_clientage
+hyper: competição_biológica
+hypo: noun.Tops:conexão
+mm: noun.person:cliente 1
+sa: @en:noun.relation:business_relation
+
+w: @en_cardinal_compass_point
+d: @en_one of the four main compass points
+hyper: L
+hyper: Norte
+hyper: Sul
+hyper: ocidente
+hypo: @en_compass_point
+sa: @en:noun.relation:cardinal_compass_point
+
+w: @en_case-fatality_proportion
+d: @en_the number of cases of a disease ending in death divided by the number of cases of the disease; usually expressed as a percentage or as the number of deaths per 1000 cases
+hypo: proporção 1
+sa: @en:noun.relation:case-fatality_proportion
+
+w: @en_case-to-infection_proportion
+w: @en_case-to-infection_ratio
+d: @en_the number of cases of a disease divided by the number of infections with the agent that causes the disease
+hypo: proporção 1
+sa: @en:noun.relation:case-to-infection_proportion
+
+w: @en_case_agreement
+d: @en_agreement in grammatical case between words in the same construction
+hypo: concordância
+sa: @en:noun.relation:case_agreement
+
+w: @en_clientage
+d: @en_relation of a client to a patron
+hypo: @en_business_relation
+sa: @en:noun.relation:clientage
+
+w: @en_cogency
+d: @en_persuasive relevance
+hypo: pertinência
+sa: @en:noun.relation:cogency
+
+w: @en_cognation
+w: @en_enation
+w: @en_matrilineage
+d: @en_line of descent traced through the maternal side of the family
+hypo: @en_unilateral_descent
+sa: @en:noun.relation:cognation 1
+
+w: @en_commensurateness
+w: @en_correspondence
+w: @en_proportionateness
+d: @en_the relation of corresponding in degree or size or amount
+hypo: Proporcionalidade
+sa: @en:noun.relation:commensurateness
+
+w: @en_common_ground
+d: @en_a basis agreed to by all parties for reaching a mutual understanding
+hypo: base
+sa: @en:noun.relation:common_ground
+
+w: @en_compass_point
+w: @en_point
+d: @en_any of 32 horizontal directions indicated on the card of a compass
+hyper: @en_ENE
+hyper: @en_EbN
+hyper: @en_EbS
+hyper: @en_NEbE
+hyper: @en_NEbN
+hyper: @en_NNE
+hyper: @en_NNW
+hyper: @en_NWbN
+hyper: @en_NWbW
+hyper: @en_NbE
+hyper: @en_NbW
+hyper: @en_SEbE
+hyper: @en_SEbS
+hyper: @en_SSE
+hyper: @en_SSW
+hyper: @en_SWbS
+hyper: @en_SWbW
+hyper: @en_SbE
+hyper: @en_SbW
+hyper: @en_WNW
+hyper: @en_WSW
+hyper: @en_WbN
+hyper: @en_WbS
+hyper: @en_cardinal_compass_point
+hyper: ESE
+hyper: nordeste
+hyper: noroeste
+hyper: sudeste
+hyper: sudoeste
+hypo: curso
+sa: @en:noun.relation:compass_point
+
+w: @en_complementarity
+d: @en_a relation between two opposite states or principles that together exhaust the possibilities
+hypo: @en_ungradable_opposition
+sa: @en:noun.relation:complementarity 1
+
+w: @en_complementarity 1
+d: @en_the interrelation of reciprocity whereby one thing supplements or depends on the other
+hypo: reciprocidade
+sa: @en:noun.relation:complementarity 2
+
+w: @en_complementation
+d: @en_the grammatical relation of a word or phrase to a predicate
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:complementation
+
+w: @en_concatenation
+d: @en_the linking together of a consecutive series of symbols or events or ideas etc
+hypo: ligação 2
+sa: @en:noun.relation:concatenation
+
+w: @en_concentration_gradient
+d: @en_a gradient in concentration of a solute as a function of distance through a solution
+hypo: gradiente
+sa: @en:noun.relation:concentration_gradient
+
+w: @en_confidential_adviser-advisee_relation
+d: @en_the responsibility of a confidential adviser to act in the best interest of the advisee
+hypo: @en_fiduciary_relation
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:confidential_adviser-advisee_relation
+
+w: @en_conflict
+d: @en_opposition in a work of drama or fiction between characters or forces (especially an opposition that motivates the development of the plot)
+hypo: oposição
+sa: @en:noun.relation:conflict
+
+w: @en_conservator-ward_relation
+d: @en_the responsibility of a conservator to act in the best interests of the ward
+hypo: @en_fiduciary_relation
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:conservator-ward_relation
+
+w: @en_content
+d: @en_the proportion of a substance that is contained in a mixture or alloy etc.
+hypo: proporção 1
+sa: @en:noun.relation:content
+
+w: @en_contradictoriness
+d: @en_the relation that exists when opposites cannot coexist
+hyper: incompatibilidade
+hypo: oposição
+sa: @en:noun.relation:contradictoriness
+
+w: @en_contradictory
+d: @en_two propositions are contradictories if both cannot be true (or both cannot be false) at the same time
+hypo: @en_logical_relation
+sa: @en:noun.relation:contradictory
+
+w: @en_contrariety
+d: @en_the relation between contraries
+hypo: oposição
+sa: @en:noun.relation:contrariety
+
+w: @en_contrary
+d: @en_a logical relation such that two propositions are contraries if both cannot be true but both can be false
+hypo: @en_logical_relation
+sa: @en:noun.relation:contrary 2
+
+w: @en_control
+d: @en_a relation of constraint of one entity (thing or person or group) by another
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:control
+
+w: @en_coordinating_conjunction
+d: @en_the coordination by conjunction of linguistic units of the same status
+hypo: conjunção
+sa: @en:noun.relation:coordinating_conjunction
+
+w: @en_copulative_conjunction
+d: @en_the conjunctive relation of units that expresses the addition of their meanings
+hypo: conjunção
+sa: @en:noun.relation:copulative_conjunction
+
+w: @en_coreference
+d: @en_the grammatical relation between two words that have a common referent
+hyper: @en_reflexiveness
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:coreference
+
+w: @en_depression
+d: @en_angular distance below the horizon (especially of a celestial object)
+hypo: @en_angular_position
+sa: @en:noun.relation:depression
+
+w: @en_dialectic
+d: @en_a contradiction of ideas that serves as the determining factor in their interaction
+hypo: contradição
+sa: @en:noun.relation:dialectic
+
+w: @en_director-stockholder_relation
+d: @en_the responsibility of corporate directors to act in the best interests of stockholders
+hypo: @en_fiduciary_relation
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:director-stockholder_relation
+
+w: @en_disjunctive_conjunction
+d: @en_the conjunctive relation of units that expresses the disjunction of their meanings
+hypo: conjunção
+sa: @en:noun.relation:disjunctive_conjunction
+
+w: @en_doctor-patient_relation
+d: @en_the responsibility of a physician to act in the best interests of the patient
+hypo: @en_medical_relation
+mm: noun.person:Paciente
+mm: noun.person:doutor 2
+sa: @en:noun.relation:doctor-patient_relation
+
+w: @en_durative
+w: @en_durative_aspect
+d: @en_the aspect of a verb that expresses its duration
+hyper: @en_progressive_aspect
+hyper: imperfeito 1
+hypo: aspecto
+sa: @en:noun.relation:durative
+
+w: @en_east
+d: @en_the direction corresponding to the eastward cardinal compass point
+hypo: curso
+sa: @en:noun.relation:east 2
+
+w: @en_enantiomorphism
+w: @en_mirror-image_relation
+d: @en_the relation of opposition between crystals or molecules that are reflections of one another
+hypo: oposição 1
+sa: @en:noun.relation:enantiomorphism
+
+w: @en_evenness
+d: @en_the parity of even numbers (divisible by two)
+hypo: Números_pares_e_ímpares
+sa: @en:noun.relation:evenness
+
+w: @en_executor-heir_relation
+d: @en_the responsibility of an executor (or administrator) of an estate to act in the best interests of the heir
+hypo: @en_fiduciary_relation
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:executor-heir_relation
+
+w: @en_expansion
+d: @en_a function expressed as a sum or product of terms
+hypo: função 1
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:expansion
+
+w: @en_exponential_curve
+d: @en_a graph of an exponential function
+hypo: noun.communication:grafo
+sa: @en:noun.relation:exponential_curve
+
+w: @en_exponential_equation
+d: @en_an equation involving exponential functions of a variable
+hypo: noun.communication:Equaçao
+sa: @en:noun.relation:exponential_equation
+
+w: @en_exponential_expression
+d: @en_a mathematical expression consisting of a constant (especially e) raised to some power
+hypo: noun.communication:Expressão
+sa: @en:noun.relation:exponential_expression
+
+w: @en_exponential_series
+d: @en_a series derived from the expansion of an exponential expression
+hypo: noun.cognition:série
+sa: @en:noun.relation:exponential_series
+
+w: @en_extraneousness
+d: @en_unrelatedness by virtue of falling outside the matter at hand
+hypo: @en_unrelatedness
+sa: @en:noun.relation:extraneousness
+
+w: @en_f_number
+w: @en_focal_ratio
+w: @en_speed
+w: @en_stop_number
+d: @en_the ratio of the focal length to the diameter of a (camera) lens system
+hypo: Taxa
+sa: @en:noun.relation:f_number
+
+w: @en_facial_index
+d: @en_the ratio (in percent) of the maximum width to the maximum height of the face
+hypo: Taxa
+sa: @en:noun.relation:facial_index
+
+w: @en_factor_of_safety
+w: @en_safety_factor
+d: @en_the ratio of the breaking stress of a structure to the estimated maximum stress in ordinary use
+hypo: Taxa
+sa: @en:noun.relation:factor_of_safety
+
+w: @en_female_bonding
+d: @en_the formation of a close personal relationship between women
+hypo: @en_bonding
+sa: @en:noun.relation:female_bonding
+
+w: @en_fiduciary_relation
+d: @en_the legal relation that exists when one person justifiably places reliance on another whose aid or protection is sought in some matter
+hyper: @en_attorney-client_relation
+hyper: @en_bank-depositor_relation
+hyper: @en_confidential_adviser-advisee_relation
+hyper: @en_conservator-ward_relation
+hyper: @en_director-stockholder_relation
+hyper: @en_executor-heir_relation
+hyper: @en_partner_relation
+hyper: @en_receiver-creditor_relation
+hyper: @en_trustee-beneficiary_relation
+hypo: @en_legal_relation
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:fiduciary_relation
+
+w: @en_fielding_average
+d: @en_(baseball) a measure of a fielder's performance; the number of assists and putouts divided by the number of chances
+hypo: @en_average
+mt: noun.act:basebol
+sa: @en:noun.relation:fielding_average
+
+w: @en_fiftieth
+d: @en_position 50 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:fiftieth
+
+w: @en_figure_of_merit
+d: @en_a numerical expression representing the efficiency of a given system, material, or procedure
+hypo: níveis_de_eficácia
+sa: @en:noun.relation:figure_of_merit
+
+w: @en_first
+w: @en_number_one
+d: @en_the first or highest in an ordering or series
+hyper: @en_former
+hypo: noun.state:classe 1
+sa: @en:noun.relation:first
+
+w: @en_flip_side
+d: @en_a different aspect of something (especially the opposite aspect)
+hypo: oposição
+mu: noun.communication:figura_de_linguagem
+sa: @en:noun.relation:flip_side
+
+w: @en_former
+d: @en_the first of two or the first mentioned of two
+hypo: @en_first
+sa: @en:noun.relation:former
+
+w: @en_fourteenth
+d: @en_position 14 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:fourteenth
+
+w: @en_frontage
+d: @en_the direction in which something (such as a building) faces
+hypo: curso
+sa: @en:noun.relation:frontage
+
+w: @en_fuel_consumption_rate
+w: @en_gas_mileage
+w: @en_gasoline_mileage
+w: @en_mileage
+d: @en_the ratio of the number of miles traveled to the number of gallons of gasoline burned
+hypo: Taxa
+sa: @en:noun.relation:fuel_consumption_rate
+
+w: @en_future_perfect
+w: @en_future_perfect_tense
+d: @en_a perfective tense used to describe action that will be completed in the future
+hypo: @en_perfect
+sa: @en:noun.relation:future_perfect
+
+w: @en_future_progressive
+w: @en_future_progressive_tense
+d: @en_a progressive tense used to express action that will be on-going in the future
+hypo: imperfeito
+sa: @en:noun.relation:future_progressive
+
+w: @en_gauge
+w: @en_standard_of_measurement
+d: @en_accepted or approved instance or example of a quantity or quality against which others are judged or measured or compared
+hypo: noun.communication:critério
+sa: @en:noun.relation:gauge
+
+w: @en_gender_agreement
+d: @en_agreement in grammatical gender between words in the same construction
+hypo: concordância
+sa: @en:noun.relation:gender_agreement
+
+w: @en_germaneness
+d: @en_pertinence by virtue of a close relation to the matter at hand
+hypo: aplicabilidade
+sa: @en:noun.relation:germaneness
+
+w: @en_golden_mean
+w: @en_golden_section
+d: @en_the proportional relation between two divisions of line or two dimension of a plane figure such that short : long :: long : (short + long)
+hypo: proporção 1
+sa: @en:noun.relation:golden_mean
+
+w: @en_gradable_opposition
+d: @en_an opposition that is capable of being graded
+hyper: @en_polar_opposition
+hypo: oposição
+sa: @en:noun.relation:gradable_opposition
+
+w: @en_grammatical_relation
+d: @en_a linguistic relation established by grammar
+hyper: @en_anaphoric_relation
+hyper: @en_complementation
+hyper: @en_coreference
+hyper: @en_intransitiveness
+hyper: @en_limiting
+hyper: Coordenação
+hyper: Voz_verbal
+hyper: aspecto
+hyper: concordância
+hyper: conjunção
+hyper: inflexão
+hyper: modalidade 1
+hyper: subordinação
+hyper: transitividade
+hypo: relação_linguística
+sa: @en:noun.relation:grammatical_relation
+
+w: @en_grass_roots
+d: @en_the essential foundation or source
+hypo: fundação
+sa: @en:noun.relation:grass_roots
+
+w: @en_gravity_gradient
+d: @en_a gradient in the gravitational forces acting on different parts of a nonspherical object
+hypo: gradiente
+sa: @en:noun.relation:gravity_gradient
+
+w: @en_holonymy
+w: @en_whole_to_part_relation
+d: @en_the semantic relation that holds between a whole and its parts
+hypo: relação_semântica
+sa: @en:noun.relation:holonymy
+
+w: @en_hospital_occupancy
+d: @en_occupancy rate for hospitals
+hypo: @en_occupancy_rate
+sa: @en:noun.relation:hospital_occupancy
+
+w: @en_hotel_occupancy
+d: @en_occupancy rate for hotels
+hypo: @en_occupancy_rate
+sa: @en:noun.relation:hotel_occupancy
+
+w: @en_hypernymy
+w: @en_superordination
+d: @en_the semantic relation of being superordinate or belonging to a higher rank or class
+hypo: relação_semântica
+sa: @en:noun.relation:hypernymy
+
+w: @en_hyponymy
+w: @en_subordination
+d: @en_the semantic relation of being subordinate or belonging to a lower rank or class
+hypo: relação_semântica
+sa: @en:noun.relation:hyponymy
+
+w: @en_imaginative_comparison
+d: @en_the kind of mental comparison that is expressed in similes or metaphors or allegories
+hypo: comparação
+sa: @en:noun.relation:imaginative_comparison
+
+w: @en_immateriality
+d: @en_complete irrelevance requiring no further consideration
+hypo: irrelevância
+sa: @en:noun.relation:immateriality
+
+w: @en_inapplicability
+d: @en_irrelevance by virtue of being inapplicable to the matter at hand
+hypo: irrelevância
+sa: @en:noun.relation:inapplicability
+
+w: @en_inchoative
+w: @en_inchoative_aspect
+d: @en_aspect with regard to the beginning of the action of the verb
+hypo: aspecto
+sa: @en:noun.relation:inchoative
+
+w: @en_indebtedness
+w: @en_obligation
+d: @en_a personal relation in which one is indebted for a service or favor
+hypo: @en_personal_relation
+sa: @en:noun.relation:indebtedness
+
+w: @en_index
+d: @en_a numerical scale used to compare variables with one another or with some reference number
+hyper: noun.attribute:@en_margin_of_error
+hypo: escala
+sa: @en:noun.relation:index
+
+w: @en_interrogative
+w: @en_interrogative_mood
+d: @en_some linguists consider interrogative sentences to constitute a mood
+hypo: modalidade 1
+sa: @en:noun.relation:interrogative
+
+w: @en_intransitiveness
+w: @en_intransitivity
+d: @en_the grammatical relation created by an intransitive verb
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:intransitiveness
+
+w: @en_iterative
+w: @en_iterative_aspect
+d: @en_the aspect of the verb that expresses the repetition of an action
+hypo: aspecto
+sa: @en:noun.relation:iterative
+
+w: @en_latter
+d: @en_the second of two or the second mentioned of two
+hypo: segundo
+sa: @en:noun.relation:latter
+
+w: @en_leeward
+d: @en_the direction in which the wind is blowing
+hyper: @en_leeward_side
+hypo: curso
+sa: @en:noun.relation:leeward
+
+w: @en_leeward_side
+w: @en_to_leeward
+d: @en_the side sheltered from the wind
+hypo: @en_leeward
+sa: @en:noun.relation:leeward_side
+
+w: @en_legal_relation
+d: @en_a professional relation that is regulated by law (as between a lawyer and a client)
+hyper: @en_fiduciary_relation
+hypo: @en_professional_relation
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:legal_relation
+
+w: @en_limiting
+w: @en_modification
+w: @en_qualifying
+d: @en_the grammatical relation that exists when a word qualifies the meaning of the phrase
+hyper: @en_apposition
+hyper: @en_restrictiveness
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:limiting
+
+w: @en_linear_operator
+d: @en_an operator that obeys the distributive law: A(f+g) = Af + Ag (where f and g are functions)
+hypo: operador
+sa: @en:noun.relation:linear_operator
+
+w: @en_load_factor
+d: @en_(aeronautics) the ratio of an external load to the weight of the aircraft (measured in g)
+hypo: Taxa
+mt: noun.cognition:Aeronáutica
+sa: @en:noun.relation:load_factor
+
+w: @en_loading
+d: @en_the ratio of the gross weight of an airplane to some factor determining its lift
+hyper: @en_power_loading
+hyper: @en_span_loading
+hyper: carga_alar
+hypo: Taxa
+sa: @en:noun.relation:loading
+
+w: @en_logical_relation
+d: @en_a relation between propositions
+hyper: @en_contradictory
+hyper: @en_contrary
+hyper: implicação
+hyper: modalidade
+hyper: reflexiva
+hyper: transitiva
+hypo: noun.Tops:conexão
+mt: noun.cognition:lógica 1
+sa: @en:noun.relation:logical_relation
+
+w: @en_loss_ratio
+d: @en_the ratio of the annual claims paid by an insurance company to the premiums received
+hypo: Taxa
+sa: @en:noun.relation:loss_ratio
+
+w: @en_magnification
+d: @en_the ratio of the size of an image to the size of the object
+hypo: Taxa
+sa: @en:noun.relation:magnification
+
+w: @en_male_bonding
+d: @en_the formation of a close personal relationship between men
+hypo: @en_bonding
+sa: @en:noun.relation:male_bonding
+
+w: @en_marital_bed
+w: @en_marital_relationship
+d: @en_the relationship between wife and husband
+hypo: parentesco 2
+sa: @en:noun.relation:marital_bed
+
+w: @en_materiality
+d: @en_relevance requiring careful consideration
+hypo: pertinência
+sa: @en:noun.relation:materiality
+
+w: @en_maternal-infant_bonding
+d: @en_the attachment that forms between an infant and its mother beginning at birth
+hypo: @en_bonding
+sa: @en:noun.relation:maternal-infant_bonding
+
+w: @en_mathematical_relation
+d: @en_a relation between mathematical expressions (such as equality or inequality)
+hyper: Números_pares_e_ímpares
+hyper: função 1
+hyper: reflexiva
+hyper: transitiva
+hypo: noun.Tops:conexão
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:mathematical_relation
+
+w: @en_mechanical_advantage
+d: @en_the ratio of the force exerted by a machine to the force applied to it
+hypo: Taxa
+sa: @en:noun.relation:mechanical_advantage
+
+w: @en_medical_relation
+d: @en_the professional relation between a health care professional and a patient
+hyper: @en_doctor-patient_relation
+hyper: @en_nurse-patient_relation
+hypo: @en_professional_relation
+sa: @en:noun.relation:medical_relation
+
+w: @en_meronymy
+w: @en_part_to_whole_relation
+d: @en_the semantic relation that holds between a part and the whole
+hypo: relação_semântica
+mp: categoria
+sa: @en:noun.relation:meronymy
+
+w: @en_morbidity
+d: @en_the relative incidence of a particular disease
+hypo: Incidência
+sa: @en:noun.relation:morbidity
+
+w: @en_mutual_affection
+w: @en_mutual_understanding
+d: @en_sympathy of each person for the other
+hypo: afinidade 2
+sa: @en:noun.relation:mutual_affection
+
+w: @en_mutual_opposition
+w: @en_polarity
+d: @en_a relation between two opposite attributes or tendencies
+hypo: oposição
+sa: @en:noun.relation:mutual_opposition
+
+w: @en_negativeness
+w: @en_negativity
+d: @en_the character of the negative electric pole
+hypo: @en_polarity 1
+sa: @en:noun.relation:negativeness
+
+w: @en_nineteenth
+d: @en_position 19 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:nineteenth
+
+w: @en_north
+d: @en_the direction corresponding to the northward cardinal compass point
+hypo: curso
+sa: @en:noun.relation:north 2
+
+w: @en_northeast
+d: @en_the direction corresponding to the northeastward compass point
+hypo: curso
+sa: @en:noun.relation:northeast 2
+
+w: @en_northwest
+d: @en_the direction corresponding to the northwestward compass point
+hypo: curso
+sa: @en:noun.relation:northwest 2
+
+w: @en_number_agreement
+d: @en_agreement in number between words in the same grammatical construction (e.g., between adjectives and the nouns they modify)
+hypo: concordância
+sa: @en:noun.relation:number_agreement
+
+w: @en_nurse-patient_relation
+d: @en_the responsibility of a nurse to act in the best interests of the patient
+hypo: @en_medical_relation
+mm: noun.person:Enfermeiros
+mm: noun.person:Paciente
+sa: @en:noun.relation:nurse-patient_relation
+
+w: @en_occupancy_rate
+d: @en_the percentage of all rental units (as in hotels) are occupied or rented at a given time
+hyper: @en_hospital_occupancy
+hyper: @en_hotel_occupancy
+hypo: percentagem
+sa: @en:noun.relation:occupancy_rate
+
+w: @en_oddness
+d: @en_the parity of odd numbers (not divisible by two)
+hypo: Números_pares_e_ímpares
+sa: @en:noun.relation:oddness
+
+w: @en_optative
+w: @en_optative_mood
+d: @en_a mood (as in Greek or Sanskrit) that expresses a wish or hope; expressed in English by modal verbs
+hypo: modalidade 1
+mr: noun.location:Grécia 1
+mt: noun.communication:língua_sânscrita
+sa: @en:noun.relation:optative
+
+w: @en_orthogonal_opposition
+w: @en_orthogonality
+w: @en_perpendicularity
+d: @en_the relation of opposition between things at right angles
+hypo: oposição 1
+sa: @en:noun.relation:orthogonal_opposition
+
+w: @en_output-to-input_ratio
+d: @en_the output power of a transducer divided by the input power
+hp: noun.attribute:Resposta_em_freqüência
+hypo: Taxa
+sa: @en:noun.relation:output-to-input_ratio
+
+w: @en_parasitism
+d: @en_the relation between two different kinds of organisms in which one receives benefits from the other by causing damage to it (usually not fatal damage)
+hypo: Interdependência
+sa: @en:noun.relation:parasitism
+
+w: @en_partner_relation
+d: @en_the responsibility of partners to act in one another's best interests
+hypo: @en_fiduciary_relation
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:partner_relation
+
+w: @en_partnership
+d: @en_a cooperative relationship between people or groups who agree to share responsibility for achieving some specific goal
+hypo: ligação 3
+sa: @en:noun.relation:partnership
+
+w: @en_passive
+w: @en_passive_voice
+d: @en_the voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb
+hypo: Voz_verbal
+sa: @en:noun.relation:passive
+
+w: @en_past_progressive
+w: @en_past_progressive_tense
+d: @en_a progressive tense used to describe on-going action in the past
+hypo: imperfeito
+sa: @en:noun.relation:past_progressive
+
+w: @en_perfect
+w: @en_perfect_tense
+w: @en_perfective
+w: @en_perfective_tense
+d: @en_a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)
+hyper: @en_future_perfect
+hyper: @en_present_perfect
+hyper: mais_que_perfeito
+hypo: noun.communication:@en_tense
+sa: @en:noun.relation:perfect
+
+w: @en_person_agreement
+d: @en_agreement in person between pronouns and verbs
+hypo: concordância
+sa: @en:noun.relation:person_agreement
+
+w: @en_personal_relation
+w: @en_personal_relationship
+d: @en_a relation between persons
+hyper: @en_bonding
+hyper: @en_indebtedness
+hypo: ligação 3
+sa: @en:noun.relation:personal_relation
+
+w: @en_pluralisation
+w: @en_pluralization
+d: @en_the act of pluralizing or attributing plurality to
+hypo: inflexão
+sa: @en:noun.relation:pluralisation
+
+w: @en_point 1
+d: @en_a style in speech or writing that arrests attention and has a penetrating or convincing quality or effect
+hypo: pertinência
+sa: @en:noun.relation:point 4
+
+w: @en_polar_opposition
+d: @en_an opposition that can be graded between two extremes or poles
+hypo: @en_gradable_opposition
+sa: @en:noun.relation:polar_opposition
+
+w: @en_polarity 1
+w: @en_sign
+d: @en_having an indicated pole (as the distinction between positive and negative electric charges)
+hyper: @en_negativeness
+hyper: @en_positiveness
+hypo: oposição
+sa: @en:noun.relation:polarity
+
+w: @en_positiveness
+w: @en_positivity
+d: @en_the character of the positive electric pole
+hypo: @en_polarity 1
+sa: @en:noun.relation:positiveness
+
+w: @en_power_loading
+d: @en_the ratio of the weight of an airplane to its engine power
+hypo: @en_loading
+sa: @en:noun.relation:power_loading
+
+w: @en_present_perfect
+w: @en_present_perfect_tense
+d: @en_a perfective tense used to express action completed in the present
+hypo: @en_perfect
+sa: @en:noun.relation:present_perfect
+
+w: @en_present_progressive
+w: @en_present_progressive_tense
+d: @en_a tense used to express action that is on-going at the time of utterance
+hypo: imperfeito
+sa: @en:noun.relation:present_progressive
+
+w: @en_price_competition
+w: @en_price_war
+d: @en_intense competition in which competitors cut retail prices to gain business
+hypo: competição_biológica
+sa: @en:noun.relation:price_competition
+
+w: @en_productivity
+d: @en_(economics) the ratio of the quantity and quality of units produced to the labor per unit of time
+hypo: Taxa
+mt: noun.cognition:economia
+sa: @en:noun.relation:productivity
+
+w: @en_professional_relation
+d: @en_the relation that exists when one person requests and is granted professional help from a qualified source
+hyper: @en_academic_relation
+hyper: @en_legal_relation
+hyper: @en_medical_relation
+hypo: noun.Tops:relação_social
+sa: @en:noun.relation:professional_relation
+
+w: @en_progressive_aspect
+d: @en_the aspect of a verb that expresses its on-going action
+hypo: @en_durative
+sa: @en:noun.relation:progressive_aspect
+
+w: @en_proportion
+w: @en_ratio
+d: @en_the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree
+hypo: relação_de_grandeza
+sa: @en:noun.relation:proportion 1
+
+w: @en_psychodynamics
+d: @en_the interrelation of conscious and unconscious processes and emotions that determine personality and motivation
+hypo: interrelacionamento
+sa: @en:noun.relation:psychodynamics
+
+w: @en_quarter
+d: @en_one of the four major division of the compass
+hypo: Orientação
+sa: @en:noun.relation:quarter
+
+w: @en_rate
+d: @en_a quantity or amount or measure considered as a proportion of another quantity or amount or measure
+hypo: proporção 1
+sa: @en:noun.relation:rate
+
+w: @en_receiver-creditor_relation
+d: @en_the responsibility of receiver or trustee in bankruptcy to act in the best interests of the creditor
+hypo: @en_fiduciary_relation
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:receiver-creditor_relation
+
+w: @en_reciprocal
+d: @en_something (a term or expression or concept) that has a reciprocal relation to something else
+hypo: reciprocidade
+sa: @en:noun.relation:reciprocal 1
+
+w: @en_reflection
+d: @en_(mathematics) a transformation in which the direction of one axis is reversed
+hypo: Transformação_geométrica
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:reflection
+
+w: @en_reflexiveness
+w: @en_reflexivity
+d: @en_the coreferential relation between a reflexive pronoun and its antecedent
+hypo: @en_coreference
+sa: @en:noun.relation:reflexiveness
+
+w: @en_respiratory_quotient
+d: @en_the ratio of the volume of carbon dioxide expired to the volume of oxygen consumed by an organism or cell in a given period of time
+hypo: Taxa
+sa: @en:noun.relation:respiratory_quotient
+
+w: @en_restrictiveness
+d: @en_a grammatical qualification that makes the meaning more specific (`red hat' has a more specific meaning than `hat')
+hypo: @en_limiting
+sa: @en:noun.relation:restrictiveness
+
+w: @en_rotation
+d: @en_(mathematics) a transformation in which the coordinate axes are rotated by a fixed angle about the origin
+hypo: Transformação_geométrica
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:rotation
+
+w: @en_seaward
+d: @en_the direction toward the sea
+hypo: curso
+sa: @en:noun.relation:seaward
+
+w: @en_series
+d: @en_(electronics) connection of components in such a manner that current flows first through one and then through the other
+hypo: ligação 2
+mt: noun.cognition:Eletronica
+sa: @en:noun.relation:series
+
+w: @en_seventeenth
+d: @en_position 17 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:seventeenth
+
+w: @en_sharing
+d: @en_using or enjoying something jointly with others
+hyper: tempo_partilhado
+hypo: Interdependência
+sa: @en:noun.relation:sharing 1
+
+w: @en_sharing 1
+d: @en_having in common
+hypo: Interdependência
+sa: @en:noun.relation:sharing
+
+w: @en_sisterhood
+w: @en_sistership
+d: @en_the kinship relation between a female offspring and the siblings
+hypo: parentesco 2
+sa: @en:noun.relation:sisterhood
+
+w: @en_sixteenth
+d: @en_position 16 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:sixteenth
+
+w: @en_sliding_scale
+d: @en_a wage scale that fluctuates in response to the cost-of-living index
+hypo: @en_wage_scale
+sa: @en:noun.relation:sliding_scale
+
+w: @en_southeast
+d: @en_the direction corresponding to the southeastward compass point
+hypo: curso
+sa: @en:noun.relation:southeast 2
+
+w: @en_southwest
+d: @en_the direction corresponding to the southwestward compass point
+hypo: curso
+sa: @en:noun.relation:southwest 2
+
+w: @en_span_loading
+d: @en_the ratio of the weight of an airplane to its wingspan
+hypo: @en_loading
+sa: @en:noun.relation:span_loading
+
+w: @en_steprelationship
+d: @en_a family relationship by virtue of remarriage
+hypo: @en_affinity
+sa: @en:noun.relation:steprelationship
+
+w: @en_subordinating_conjunction
+d: @en_the subordination that occurs when a conjunction makes one linguistic unit a constituent of another
+hypo: conjunção
+sa: @en:noun.relation:subordinating_conjunction
+
+w: @en_subpart
+d: @en_a part of a part
+hypo: categoria
+sa: @en:noun.relation:subpart
+
+w: @en_teacher-student_relation
+d: @en_the academic relation between teachers and their students
+hypo: @en_academic_relation
+mm: noun.person:aluno 3
+mm: noun.person:docente
+sa: @en:noun.relation:teacher-student_relation
+
+w: @en_temperature_scale
+d: @en_a system of measuring temperature
+hyper: @en_Celsius_scale
+hyper: @en_Fahrenheit_scale
+hyper: @en_Kelvin_scale
+hyper: Rankine
+hyper: Réaumur
+hypo: noun.quantity:@en_metric
+hypo: escala
+sa: @en:noun.relation:temperature_scale
+
+w: @en_temporal_relation
+d: @en_a relation involving time
+attr: adj.all:@en_anterograde
+attr: adj.all:@en_preceding
+attr: adj.all:@en_retrograde
+attr: adj.all:@en_succeeding
+hyper: @en_antecedent
+hyper: Sincronicidade
+hyper: assincronia
+hyper: cronologia
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:temporal_relation
+
+w: @en_tertium_quid
+d: @en_some third thing similar to two opposites but distinct from both
+hypo: oposição
+sa: @en:noun.relation:tertium_quid
+
+w: @en_thirteenth
+d: @en_position 13 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:thirteenth
+
+w: @en_thirtieth
+d: @en_position 30 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:thirtieth
+
+w: @en_threshold_function
+d: @en_a function that takes the value 1 if a specified function of the arguments exceeds a given threshold and 0 otherwise
+hypo: função 1
+sa: @en:noun.relation:threshold_function
+
+w: @en_time_constant
+d: @en_the ratio of the inductance of a circuit in henries to its resistance in ohms
+hypo: Taxa
+sa: @en:noun.relation:time_constant
+
+w: @en_to_windward
+w: @en_weather_side
+w: @en_weatherboard
+w: @en_windward_side
+d: @en_the side toward the wind
+hypo: @en_windward
+sa: @en:noun.relation:to_windward
+
+w: @en_translation
+d: @en_(mathematics) a transformation in which the origin of the coordinate system is moved to another position but the direction of each axis remains the same
+hypo: Transformação_geométrica
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:translation
+
+w: @en_trim
+d: @en_attitude of an aircraft in flight when allowed to take its own orientation
+hypo: @en_attitude
+sa: @en:noun.relation:trim
+
+w: @en_trophobiosis
+d: @en_a symbiotic relation in which one organism protects the other in return for some kind of food product
+hypo: mutualismo
+sa: @en:noun.relation:trophobiosis
+
+w: @en_troponymy
+d: @en_the semantic relation of being a manner of does something
+hypo: relação_semântica
+sa: @en:noun.relation:troponymy
+
+w: @en_trustee-beneficiary_relation
+d: @en_the responsibility of a trustee to act in the best interests of the beneficiary
+hypo: @en_fiduciary_relation
+mt: noun.group:ciências_jurídicas
+sa: @en:noun.relation:trustee-beneficiary_relation
+
+w: @en_twentieth
+d: @en_position 20 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:twentieth
+
+w: @en_unconnectedness
+d: @en_the lack of a connection between things
+hyper: @en_unrelatedness
+hyper: irrelevância
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:unconnectedness
+
+w: @en_unemployment_rate
+d: @en_the percentage of the work force that is unemployed at any given date
+hypo: percentagem
+sa: @en:noun.relation:unemployment_rate
+
+w: @en_ungradable_opposition
+d: @en_an opposition that has no intermediate grade; either one or the other
+hyper: @en_complementarity
+hypo: oposição
+sa: @en:noun.relation:ungradable_opposition
+
+w: @en_unilateral_descent
+d: @en_line of descent traced through one side of the family
+hyper: @en_agnation
+hyper: @en_cognation
+hypo: descendência
+sa: @en:noun.relation:unilateral_descent
+
+w: @en_unrelatedness
+d: @en_the lack of any particular manner of connectedness
+hyper: @en_extraneousness
+hypo: @en_unconnectedness
+sa: @en:noun.relation:unrelatedness
+
+w: @en_vacancy_rate
+d: @en_the percentage of all rental units (as in hotels) that are unoccupied or not rented at a given time
+hypo: percentagem
+sa: @en:noun.relation:vacancy_rate
+
+w: @en_vertical
+d: @en_something that is oriented vertically
+hypo: Orientação
+sa: @en:noun.relation:vertical
+
+w: @en_wage_scale
+w: @en_wage_schedule
+d: @en_a schedule of wages paid for different jobs
+hyper: @en_sliding_scale
+hypo: escala
+sa: @en:noun.relation:wage_scale
+
+w: @en_west
+d: @en_the direction corresponding to the westward cardinal compass point
+hypo: curso
+sa: @en:noun.relation:west 2
+
+w: @en_windward
+d: @en_the direction from which the wind is coming
+hyper: @en_to_windward
+hypo: curso
+sa: @en:noun.relation:windward
+
+w: Antitese
+w: antítese
+d: @en_exact opposite
+hypo: oposição
+sa: @en:noun.relation:antithesis
+
+w: Coordenação
+w: coordenação
+d: @en_the grammatical relation of two constituents having the same grammatical form
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:coordination
+
+w: Cordão_de_prata
+d: @en_the emotional bond between a mother and her offspring
+hypo: ligação
+sa: @en:noun.relation:silver_cord
+
+w: Delta_de_kronecker
+w: delta_de_Kronecker
+d: @en_a function of two variables i and j that equals 1 when i=j and equals 0 otherwise
+hypo: função 1
+sa: @en:noun.relation:Kronecker_delta
+
+w: ESE
+w: és-sudeste
+d: @en_the compass point midway between east and southeast
+hypo: @en_compass_point
+sa: @en:noun.relation:ESE
+
+w: Escala
+d: @en_the ratio between the size of something and a representation of it
+hypo: proporção 1
+sa: @en:noun.relation:scale 1
+
+w: Escala_de_magnitude_de_momento
+d: @en_a logarithmic scale of 1 to 10 (a successor to the Richter scale) that enables seismologists to compare the energy released by different earthquakes on the basis of the area of the geological fault that ruptured in the quake
+hypo: escala
+mt: noun.cognition:geologia
+sa: @en:noun.relation:moment_magnitude_scale
+
+w: Escala_de_richter
+w: escala_Richter
+w: escala_de_Richter
+d: @en_a logarithmic scale of 1 to 10 formerly used to express the magnitude of an earthquake on the basis of the size of seismograph oscillations
+hypo: escala
+mt: noun.cognition:geologia
+sa: @en:noun.relation:Richter_scale
+
+w: Função_Exponencial
+w: função_exponencial
+d: @en_a function in which an independent variable appears as an exponent
+hypo: função 1
+sa: @en:noun.relation:exponential
+
+w: Geometria_métrica
+w: métrica
+d: @en_a function of a topological space that gives, for any two points in the space, a value equal to the distance between them
+hypo: função 1
+mt: noun.cognition:Fisica
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:metric
+
+w: Gradiente_de_temperatura
+d: @en_change in temperature as a function of distance (especially altitude)
+hypo: gradiente
+sa: @en:noun.relation:temperature_gradient
+
+w: Horizontal
+d: @en_something that is oriented horizontally
+hypo: Orientação
+sa: @en:noun.relation:horizontal
+
+w: Incidência
+w: incidência
+d: @en_the relative frequency of occurrence of something
+hyper: @en_morbidity
+hypo: frequência
+sa: @en:noun.relation:incidence
+
+w: Interdependência
+w: interdependência
+d: @en_a reciprocal relation between interdependent entities (objects or individuals or groups)
+hyper: @en_parasitism
+hyper: @en_sharing
+hyper: @en_sharing 1
+hyper: comensalismo
+hyper: mutualismo
+hypo: reciprocidade
+sa: @en:noun.relation:interdependence
+
+w: L
+w: este
+w: leste
+d: @en_the cardinal compass point that is at 90 degrees
+hypo: @en_cardinal_compass_point
+sa: @en:noun.relation:E
+
+w: Modo_Imperativo
+w: Modo_imperativo
+w: imperativo
+d: @en_a mood that expresses an intention to influence the listener's behavior
+hypo: modalidade 1
+sa: @en:noun.relation:imperative
+
+w: Modo_Subjuntivo
+w: conjuntivo
+w: modo_subjuntivo
+w: subjuntivo
+d: @en_a mood that represents an act or state (not as a fact but) as contingent or possible
+hypo: modalidade 1
+sa: @en:noun.relation:subjunctive
+
+w: Norte
+w: norte
+d: @en_the cardinal compass point that is at 0 or 360 degrees
+hypo: @en_cardinal_compass_point
+sa: @en:noun.relation:N
+
+w: Número_de_Mach
+w: Número_de_mach
+d: @en_the ratio of the speed of a moving body to the speed of sound
+hypo: Taxa
+sa: @en:noun.relation:Mach_number
+
+w: Números_pares_e_ímpares
+d: @en_(mathematics) a relation between a pair of integers: if both integers are odd or both are even they have the same parity; if one is odd and the other is even they have different parity
+hyper: @en_evenness
+hyper: @en_oddness
+hypo: @en_mathematical_relation
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:parity
+
+w: Orientação
+w: orientação
+d: @en_position or alignment relative to points of the compass or other specific directions
+attr: adj.all:fio_de_prumo
+attr: adj.all:horizontal
+attr: adj.all:inclinado
+hyper: @en_attitude
+hyper: @en_quarter
+hyper: @en_vertical
+hyper: Horizontal
+hypo: curso
+sa: @en:noun.relation:orientation
+
+w: Proporcionalidade
+w: proporcionalidade
+d: @en_a ratio of two quantities that is constant
+hyper: @en_commensurateness
+hypo: Taxa
+sa: @en:noun.relation:proportionality
+
+w: Proporção_de_tela
+d: @en_the ratio of the width to the height of a tv picture
+hypo: Taxa
+sa: @en:noun.relation:aspect_ratio
+
+w: Q.I.
+w: QI
+w: quociente_de_inteligência
+d: @en_a measure of a person's intelligence as indicated by an intelligence test; the ratio of a person's mental age to their chronological age (multiplied by 100)
+hyper: @en_adult_intelligence
+hyper: @en_borderline_intelligence
+hypo: Taxa
+sa: @en:noun.relation:I.Q.
+
+w: Rankine
+d: @en_a scale of absolute temperature in Fahrenheit degrees; the freezing point of water is 491.69 degrees and the boiling point of water is 671.69 degrees
+hypo: @en_temperature_scale
+sa: @en:noun.relation:Rankine_scale
+
+w: Réaumur
+d: @en_a temperature scale on which water freezes at 0 degrees and boils at 80 degrees
+hypo: @en_temperature_scale
+sa: @en:noun.relation:Reaumur_scale
+
+w: Sincronicidade
+w: sincronia
+w: sincronismo
+w: sincronização
+d: @en_the relation that exists when things occur at the same time
+hypo: @en_temporal_relation
+sa: @en:noun.relation:synchroneity
+
+w: Sul
+w: sul
+d: @en_the cardinal compass point that is at 180 degrees
+hypo: @en_cardinal_compass_point
+sa: @en:noun.relation:S
+
+w: Taxa
+w: proporção
+w: razão
+d: @en_the relative magnitudes of two quantities (usually expressed as a quotient)
+hyper: noun.possession:@en_gross_margin
+hyper: @en_abundance
+hyper: @en_abundance 1
+hyper: @en_average
+hyper: @en_betting_odds
+hyper: @en_breadth_index
+hyper: @en_f_number
+hyper: @en_facial_index
+hyper: @en_factor_of_safety
+hyper: @en_fuel_consumption_rate
+hyper: @en_load_factor
+hyper: @en_loading
+hyper: @en_loss_ratio
+hyper: @en_magnification
+hyper: @en_mechanical_advantage
+hyper: @en_output-to-input_ratio
+hyper: @en_productivity
+hyper: @en_respiratory_quotient
+hyper: @en_time_constant
+hyper: Número_de_Mach
+hyper: Proporcionalidade
+hyper: Proporção_de_tela
+hyper: Q.I.
+hyper: albedo
+hyper: estequiometria
+hyper: frequência
+hyper: grandeza
+hyper: hematócrito
+hyper: níveis_de_eficácia
+hyper: prevalência
+hyper: quociente
+hyper: relação_sinal-ruído
+hyper: rotatividade
+hyper: umidade_relativa
+hyper: Índice_Preço/Lucro
+hyper: Índice_refrativo
+hyper: noun.shape:@en_eccentricity
+hypo: relação_de_grandeza
+sa: @en:noun.relation:ratio 1
+
+w: Transformação_geométrica
+w: transformação
+d: @en_(mathematics) a function that changes the position or direction of the axes of a coordinate system
+hyper: @en_reflection
+hyper: @en_rotation
+hyper: @en_translation
+hyper: transformação_afim
+hypo: função 1
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:transformation
+
+w: Voz_verbal
+d: @en_(linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes
+hyper: @en_active
+hyper: @en_passive
+hypo: @en_grammatical_relation
+mt: noun.cognition:Linguistica
+sa: @en:noun.relation:voice
+
+w: _reverso
+w: contrário
+w: oposto
+d: uma relação de oposição direta
+hypo: oposição
+sa: @en:noun.relation:contrary 1
+
+w: afinidade
+w: parentesco
+w: relação
+d: @en_a close connection marked by community of interests or similarity in nature or character
+hyper: afinidade 1
+hyper: afinidade 2
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:affinity 3
+
+w: afinidade 1
+d: @en_a relationship of mutual understanding or trust and agreement between people
+hypo: afinidade
+sa: @en:noun.relation:rapport
+
+w: afinidade 2
+w: simpatia
+d: @en_a relation of affinity or harmony between people; whatever affects one correspondingly affects the other
+hyper: @en_mutual_affection
+hypo: afinidade
+sa: @en:noun.relation:sympathy
+
+w: albedo
+d: @en_the ratio of reflected to incident light
+hypo: Taxa
+sa: @en:noun.relation:albedo
+
+w: alquimia
+w: química
+d: @en_the way two individuals relate to each other
+hypo: noun.Tops:relação_social
+sa: @en:noun.relation:alchemy
+
+w: altitude
+d: @en_angular distance above the horizon (especially of a celestial object)
+hypo: @en_angular_position
+sa: @en:noun.relation:ALT
+
+w: antagonismo
+d: @en_the relation between opposing principles or forces or factors
+hypo: oposição
+sa: @en:noun.relation:antagonism
+
+w: antípoda
+d: @en_direct opposite
+hypo: oposição
+sa: @en:noun.relation:antipode
+
+w: aplicabilidade
+d: @en_relevance by virtue of being applicable to the matter at hand
+hyper: @en_germaneness
+hypo: pertinência
+sa: @en:noun.relation:applicability
+
+w: arco_co-seno
+d: @en_the inverse function of the cosine; the angle that has a cosine equal to a given number
+hypo: função_trigonométrica
+sa: @en:noun.relation:arc_cosine
+
+w: arco_seno
+d: @en_the inverse function of the sine; the angle that has a sine equal to a given number
+hypo: função_trigonométrica
+sa: @en:noun.relation:arc_sine
+
+w: aspecto
+d: @en_the beginning or duration or completion or repetition of the action of a verb
+hyper: @en_durative
+hyper: @en_inchoative
+hyper: @en_iterative
+hyper: perfeito
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:aspect
+
+w: assincronia
+w: assincronismo
+d: @en_the relation that exists when things occur at unrelated times
+hypo: @en_temporal_relation
+sa: @en:noun.relation:asynchronism
+
+w: base
+d: @en_a relation that provides the foundation for something
+hyper: @en_common_ground
+hypo: fundação
+sa: @en:noun.relation:basis
+
+w: carga_alar
+d: @en_the ratio of the weight of an airplane to its wing area
+hypo: @en_loading
+sa: @en:noun.relation:wing_loading
+
+w: categoria
+w: componente
+w: parte
+w: porção
+d: @en_something determined in relation to something that includes it
+hp: @en_meronymy
+hyper: noun.Tops:substância 1
+hyper: noun.communication:item
+hyper: noun.communication:unidade_da_linguagem
+hyper: noun.plant:@en_butt
+hyper: @en_base
+hyper: @en_subpart
+hyper: componente 1
+hyper: componente 2
+hyper: excedente
+hyper: membro
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:component
+
+w: causalidade
+d: @en_the relation between causes and effects
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:causality
+
+w: centésima
+w: centésimo
+d: @en_position 100 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:hundredth
+
+w: co-secante
+w: cossecante
+d: @en_ratio of the hypotenuse to the opposite side of a right-angled triangle
+hypo: função_trigonométrica
+sa: @en:noun.relation:cosec
+
+w: co-seno
+w: coseno
+w: cosseno
+d: @en_ratio of the adjacent side to the hypotenuse of a right-angled triangle
+hypo: função_trigonométrica
+sa: @en:noun.relation:cos
+
+w: co-tangente
+w: cotangente
+d: @en_ratio of the adjacent to the opposite side of a right-angled triangle
+hypo: função_trigonométrica
+sa: @en:noun.relation:cotan
+
+w: comensalismo
+d: @en_the relation between two different kinds of organisms when one receives benefits from the other without damaging it
+hypo: Interdependência
+sa: @en:noun.relation:commensalism
+
+w: comparação
+d: @en_relation based on similarities and differences
+hyper: @en_imaginative_comparison
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:comparison
+
+w: competição_biológica
+d: @en_a business relation in which two parties compete to gain customers
+hyper: @en_price_competition
+hypo: @en_business_relation
+sa: @en:noun.relation:competition 1
+
+w: componente 1
+w: unidade
+d: @en_an individual or group or structure or other entity regarded as a structural or functional constituent of a whole
+hypo: categoria
+sa: @en:noun.relation:unit
+
+w: componente 2
+w: elemento
+d: @en_a small part that can be considered separately from the whole
+hyper: destaque
+hypo: categoria
+sa: @en:noun.relation:detail
+
+w: concordância
+d: @en_the determination of grammatical inflection on the basis of word relations
+hyper: @en_case_agreement
+hyper: @en_gender_agreement
+hyper: @en_number_agreement
+hyper: @en_person_agreement
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:agreement 3
+
+w: conexão
+d: @en_a connection allowing access between persons or places
+hypo: ligação 2
+sa: @en:noun.relation:communication
+
+w: conjugação
+d: @en_the inflection of verbs
+hypo: inflexão
+mm: noun.communication:verbo 2
+sa: @en:noun.relation:conjugation
+
+w: conjunção
+d: @en_the grammatical relation between linguistic units (words or phrases or clauses) that are connected by a conjunction
+hyper: @en_adversative_conjunction
+hyper: @en_coordinating_conjunction
+hyper: @en_copulative_conjunction
+hyper: @en_disjunctive_conjunction
+hyper: @en_subordinating_conjunction
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:conjunction 2
+
+w: consanguinidade
+d: @en_(anthropology) related by blood
+hypo: parentesco 2
+mt: noun.cognition:Antropologia
+sa: @en:noun.relation:blood_kinship
+
+w: contradição
+d: @en_opposition between two conflicting forces or ideas
+hyper: @en_dialectic
+hypo: oposição
+sa: @en:noun.relation:contradiction
+
+w: contraposição
+w: contraste
+d: @en_the opposition or dissimilarity of things that are compared
+hypo: oposição
+sa: @en:noun.relation:contrast
+
+w: contrário 1
+d: oposição exata
+hypo: oposição
+sa: @en:noun.relation:contrary
+
+w: correlação
+d: @en_a reciprocal relation between two or more things
+hypo: reciprocidade
+sa: @en:noun.relation:correlation
+
+w: cronologia
+d: @en_an arrangement of events in time
+hypo: @en_temporal_relation
+sa: @en:noun.relation:chronology
+
+w: curso
+d: @en_the spatial relation between something and the course along which it points or moves
+attr: adj.all:@en_incoming
+attr: adj.all:extrovertido
+hyper: @en_compass_point
+hyper: @en_east
+hyper: @en_frontage
+hyper: @en_leeward
+hyper: @en_north
+hyper: @en_northeast
+hyper: @en_northwest
+hyper: @en_seaward
+hyper: @en_southeast
+hyper: @en_southwest
+hyper: @en_west
+hyper: @en_windward
+hyper: Orientação
+hyper: norte 1
+hyper: oposição 1
+hyper: sul 1
+hypo: noun.attribute:colocação
+sa: @en:noun.relation:direction
+
+w: declinação
+d: @en_the inflection of nouns and pronouns and adjectives in Indo-European languages
+hypo: inflexão
+mm: noun.communication:nominal
+sa: @en:noun.relation:declension
+
+w: descendência
+w: linhagem
+d: @en_the kinship relation between an individual and the individual's progenitors
+hyper: @en_bilateral_descent
+hyper: @en_unilateral_descent
+hypo: parentesco 2
+sa: @en:noun.relation:descent
+
+w: destaque
+w: realçe
+d: @en_the most interesting or memorable part
+hypo: componente 2
+sa: @en:noun.relation:high_spot
+
+w: diferença
+d: @en_a significant change
+hypo: mudança
+sa: @en:noun.relation:difference
+
+w: duodécimo
+d: @en_position 12 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:twelfth
+
+w: décima
+w: décimo
+d: @en_position ten in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:tenth
+
+w: décimo-primeiro
+w: undécimo
+d: @en_position 11 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:eleventh
+
+w: décimo_oitavo
+d: @en_position 18 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:eighteenth
+
+w: décimo_quinto
+d: @en_position 15 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:fifteenth
+
+w: elemento_neutro
+w: identidade
+d: @en_an operator that leaves unchanged the element on which it operates
+hypo: operador
+sa: @en:noun.relation:identity 1
+
+w: envolvimento
+d: @en_a relation implicated by virtue of involvement or close connection (especially an incriminating involvement)
+hypo: envolvimento 1
+sa: @en:noun.relation:implication
+
+w: envolvimento 1
+w: participação
+d: @en_a connection of inclusion or containment
+hyper: envolvimento
+hyper: inclusão
+hypo: ligação 2
+sa: @en:noun.relation:involvement
+
+w: escala
+d: @en_an ordered reference standard
+hyper: @en_Beaufort_scale
+hyper: @en_Mercalli_scale
+hyper: @en_Mohs_scale
+hyper: @en_index
+hyper: @en_temperature_scale
+hyper: @en_wage_scale
+hyper: Escala_de_magnitude_de_momento
+hyper: Escala_de_richter
+hyper: escala_logarítmica
+hypo: noun.communication:critério
+sa: @en:noun.relation:graduated_table
+
+w: escala_logarítmica
+d: @en_scale on which actual distances from the origin are proportional to the logarithms of the corresponding scale numbers
+hypo: escala
+sa: @en:noun.relation:logarithmic_scale
+
+w: escale
+d: @en_relative magnitude
+hypo: relação_de_grandeza
+sa: @en:noun.relation:scale
+
+w: estequiometria
+d: @en_(chemistry) the relation between the quantities of substances that take part in a reaction or form a compound (typically a ratio of whole integers)
+hypo: Taxa
+mt: noun.cognition:Quimica
+sa: @en:noun.relation:stoichiometry
+
+w: excedente
+w: restante
+w: resto
+w: resto_da_divisão_inteira
+w: resíduo
+w: sobra
+d: @en_something left after other parts have been taken away
+hyper: sobra 1
+hypo: categoria
+sa: @en:noun.relation:balance
+
+w: frequência
+w: freqüência
+d: @en_the ratio of the number of observations in a statistical category to the total number of observations
+hyper: Incidência
+hypo: Taxa
+sa: @en:noun.relation:frequency
+
+w: fundação
+d: @en_the basis on which something is grounded
+hyper: @en_grass_roots
+hyper: base
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:foundation
+
+w: função
+d: @en_a relation such that one thing is dependent on another
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:function 1
+
+w: função 1
+d: @en_(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)
+hyper: noun.cognition:Polinómios
+hyper: @en_expansion
+hyper: @en_threshold_function
+hyper: Delta_de_kronecker
+hyper: Função_Exponencial
+hyper: Geometria_métrica
+hyper: Transformação_geométrica
+hyper: função_inversa
+hyper: função_trigonométrica
+hyper: isometria
+hyper: operador
+hypo: @en_mathematical_relation
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:function
+
+w: função_inversa
+d: @en_a function obtained by expressing the dependent variable of one function as the independent variable of another; f and g are inverse functions if f(x)=y and g(y)=x
+hypo: função 1
+sa: @en:noun.relation:inverse_function
+
+w: função_trigonométrica
+d: @en_function of an angle expressed as a ratio of the length of the sides of right-angled triangle containing the angle
+hyper: @en_arc_cosecant
+hyper: @en_arc_cotangent
+hyper: @en_arc_secant
+hyper: @en_arc_tangent
+hyper: arco_co-seno
+hyper: arco_seno
+hyper: co-secante
+hyper: co-seno
+hyper: co-tangente
+hyper: secante
+hyper: seno
+hyper: tangente
+hypo: função 1
+sa: @en:noun.relation:circular_function
+
+w: gradiente
+d: @en_a graded change in the magnitude of some physical quantity or dimension
+hyper: @en_concentration_gradient
+hyper: @en_gravity_gradient
+hyper: Gradiente_de_temperatura
+hypo: mudança
+sa: @en:noun.relation:gradient
+
+w: grandeza
+w: magnitude
+w: ordem_de_grandeza
+w: ordem_de_magnitude
+d: @en_a number assigned to the ratio of two quantities; two quantities are of the same order of magnitude if one is less than 10 times as large as the other; the number of magnitudes that the quantities differ is specified to within a power of 10
+hypo: Taxa
+sa: @en:noun.relation:magnitude
+
+w: hematócrito
+d: @en_the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit
+hypo: Taxa
+sa: @en:noun.relation:haematocrit
+
+w: homonímia
+d: @en_the relation between two words that are spelled the same way but differ in meaning or the relation between two words that are pronounced the same way but differ in meaning
+hypo: relação_linguística
+sa: @en:noun.relation:homonymy
+
+w: imperfeito
+d: @en_a tense of verbs used in describing action that is on-going
+hyper: @en_future_progressive
+hyper: @en_past_progressive
+hyper: @en_present_progressive
+hypo: noun.communication:@en_tense
+sa: @en:noun.relation:continuous_tense
+
+w: imperfeito 1
+d: @en_aspect without regard to the beginning or completion of the action of the verb
+hypo: @en_durative
+sa: @en:noun.relation:imperfective
+
+w: implicação
+d: @en_a logical relation between propositions p and q of the form `if p then q'; if p is true then q cannot be false
+hypo: @en_logical_relation
+sa: @en:noun.relation:conditional_relation
+
+w: inclusão
+d: @en_the relation of comprising something
+hypo: envolvimento 1
+sa: @en:noun.relation:comprehension
+
+w: incompatibilidade
+d: @en_the relation between propositions that cannot both be true at the same time
+hypo: @en_contradictoriness
+sa: @en:noun.relation:incompatibility 2
+
+w: indicativo
+w: modo_indicativo
+d: @en_a mood (grammatically unmarked) that represents the act or state as an objective fact
+hypo: modalidade 1
+sa: @en:noun.relation:common_mood
+
+w: inflexão
+d: @en_a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function
+hyper: @en_pluralisation
+hyper: conjugação
+hyper: declinação
+hyper: paradigma
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:inflection
+
+w: interdependência 1
+d: @en_a reciprocality of sentiments
+hypo: reciprocidade
+sa: @en:noun.relation:mutuality 1
+
+w: interrelacionamento
+w: interrelação
+d: @en_mutual or reciprocal relation or relatedness
+hyper: @en_psychodynamics
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:interrelatedness
+
+w: inverso_multiplicativo
+d: @en_(mathematics) one of a pair of numbers whose product is 1: the reciprocal of 2/3 is 3/2; the multiplicative inverse of 7 is 1/7
+hypo: inversão_térmica
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:multiplicative_inverse
+
+w: inversão_térmica
+d: @en_something inverted in sequence or character or effect
+hyper: @en_additive_inverse
+hyper: inverso_multiplicativo
+hypo: oposição
+sa: @en:noun.relation:inverse 2
+
+w: irrelevância
+d: @en_the lack of a relation of something to the matter at hand
+hyper: @en_immateriality
+hyper: @en_inapplicability
+hypo: @en_unconnectedness
+sa: @en:noun.relation:irrelevance
+
+w: isometria
+d: @en_a one-to-one mapping of one metric space into another metric space that preserves the distances between each pair of points
+hypo: função 1
+sa: @en:noun.relation:isometry
+
+w: ligação
+d: @en_a connection based on kinship or marriage or common interest
+hyper: Cordão_de_prata
+hypo: ligação 2
+sa: @en:noun.relation:alliance
+
+w: ligação 1
+d: @en_an associative relation
+hyper: nexo
+hypo: ligação 2
+sa: @en:noun.relation:linkage
+
+w: ligação 2
+w: relação 1
+d: @en_a relation between things or events (as in the case of one causing the other or sharing features with it)
+attr: adj.all:@en_connected
+attr: adj.all:@en_unconnected
+hyper: @en_bridge
+hyper: @en_concatenation
+hyper: @en_series
+hyper: conexão
+hyper: envolvimento 1
+hyper: ligação
+hyper: ligação 1
+hyper: pertinência
+hyper: relação 5
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:connectedness
+
+w: ligação 3
+w: parentesco 1
+w: relacionamento
+w: relação 2
+d: @en_a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness)
+hyper: @en_partnership
+hyper: @en_personal_relation
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:human_relationship
+
+w: linha_de_base
+d: @en_an imaginary line or standard by which things are measured or compared
+hypo: noun.communication:critério
+sa: @en:noun.relation:baseline
+
+w: mais_que_perfeito
+w: pretérito_mais-que-perfeito
+w: pretérito_perfeito
+d: @en_a perfective tense used to express action completed in the past
+hypo: @en_perfect
+sa: @en:noun.relation:past_perfect
+
+w: maternidade
+d: @en_the kinship relation between an offspring and the mother
+hypo: parentesco 2
+sa: @en:noun.relation:maternity
+
+w: membro
+d: @en_anything that belongs to a set or class
+hypo: categoria
+sa: @en:noun.relation:member
+
+w: milionésimo
+d: @en_position 1,000,000 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:millionth
+
+w: milésima
+w: milésimo
+d: @en_position 1,000 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:thousandth
+
+w: modalidade
+d: @en_a classification of propositions on the basis of whether they claim necessity or possibility or impossibility
+hypo: @en_logical_relation
+sa: @en:noun.relation:modality
+
+w: modalidade 1
+w: modo
+d: @en_verb inflections that express how the action or state is conceived by the speaker
+hyper: @en_interrogative
+hyper: @en_optative
+hyper: Modo_Imperativo
+hyper: Modo_Subjuntivo
+hyper: indicativo
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:modality 1
+
+w: mudança
+d: @en_a relational difference between states; especially between states before and after some event
+hyper: diferença
+hyper: gradiente
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:change
+
+w: mutualismo
+w: simbiose
+d: @en_the relation between two different species of organisms that are interdependent; each gains benefits from the other
+hyper: @en_trophobiosis
+hypo: Interdependência
+sa: @en:noun.relation:mutualism
+
+w: nexo
+d: @en_the means of connection between things linked in series
+hypo: ligação 1
+sa: @en:noun.relation:link
+
+w: nona
+w: nono
+d: @en_position nine in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:ninth
+
+w: nonagésimo
+d: @en_position 90 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:ninetieth
+
+w: nordeste
+d: @en_the compass point midway between north and east; at 45 degrees
+hypo: @en_compass_point
+sa: @en:noun.relation:NE
+
+w: norma
+w: norma_social
+w: normas
+w: padrão
+w: padrões
+d: @en_a standard or model or pattern regarded as typical
+hypo: noun.communication:critério
+sa: @en:noun.relation:norm
+
+w: noroeste
+d: @en_the compass point midway between north and west; at 315 degrees
+hypo: @en_compass_point
+sa: @en:noun.relation:NW
+
+w: norte 1
+d: @en_the direction in which a compass needle points
+hypo: curso
+sa: @en:noun.relation:compass_north
+
+w: níveis_de_eficácia
+d: @en_the ratio of the output to the input of any system
+hyper: @en_figure_of_merit
+hypo: Taxa
+sa: @en:noun.relation:efficiency
+
+w: ocidente
+w: oeste
+w: poente
+d: @en_the cardinal compass point that is a 270 degrees
+hypo: @en_cardinal_compass_point
+sa: @en:noun.relation:W
+
+w: octagésimo
+w: octogésima
+w: octogésimo
+d: @en_position 80 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:eightieth
+
+w: oitava
+w: oitavo
+d: @en_position eight in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:eighth
+
+w: operador
+d: @en_(mathematics) a symbol or function representing a mathematical operation
+hyper: @en_linear_operator
+hyper: elemento_neutro
+hypo: função 1
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:operator
+
+w: oposição
+d: @en_the relation between opposed entities
+hyper: @en_conflict
+hyper: @en_contradictoriness
+hyper: @en_contrariety
+hyper: @en_flip_side
+hyper: @en_gradable_opposition
+hyper: @en_mutual_opposition
+hyper: @en_polarity 1
+hyper: @en_tertium_quid
+hyper: @en_ungradable_opposition
+hyper: Antitese
+hyper: _reverso
+hyper: antagonismo
+hyper: antípoda
+hyper: contradição
+hyper: contraposição
+hyper: contrário 1
+hyper: inversão_térmica
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:oppositeness
+
+w: oposição 1
+d: @en_a direction opposite to another
+hyper: @en_antipodal
+hyper: @en_enantiomorphism
+hyper: @en_orthogonal_opposition
+hypo: curso
+sa: @en:noun.relation:opposition
+
+w: paradigma
+d: @en_systematic arrangement of all the inflected forms of a word
+hypo: inflexão
+sa: @en:noun.relation:paradigm
+
+w: parentesco 2
+w: relação 3
+d: @en_(anthropology) relatedness or connection by blood or marriage or adoption
+hyper: @en_affinity
+hyper: @en_affinity 1
+hyper: @en_brotherhood
+hyper: @en_marital_bed
+hyper: @en_sisterhood
+hyper: consanguinidade
+hyper: descendência
+hyper: maternidade
+hyper: paternidade
+hyper: paternidade 1
+hypo: noun.Tops:conexão
+mt: noun.cognition:Antropologia
+sa: @en:noun.relation:family_relationship
+
+w: paternidade
+d: @en_the kinship relation of an offspring to the parents
+hypo: parentesco 2
+sa: @en:noun.relation:birth
+
+w: paternidade 1
+d: @en_the kinship relation between an offspring and the father
+hypo: parentesco 2
+sa: @en:noun.relation:fatherhood
+
+w: percentagem
+w: percento
+w: por_cento
+w: porcentagem
+d: uma proporção em relação um todo (que é geralmente o montante por cem)
+hyper: @en_absentee_rate
+hyper: @en_occupancy_rate
+hyper: @en_unemployment_rate
+hyper: @en_vacancy_rate
+hypo: proporção 1
+sa: @en:noun.relation:pct
+
+w: perfeito
+d: @en_the aspect of a verb that expresses a completed action
+hypo: aspecto
+sa: @en:noun.relation:perfective
+
+w: pertinência
+w: relação 4
+w: relevância
+d: @en_the relation of something to the matter at hand
+hyper: @en_cogency
+hyper: @en_materiality
+hyper: @en_point 1
+hyper: aplicabilidade
+hypo: ligação 2
+sa: @en:noun.relation:relevance
+
+w: política
+d: @en_social relations involving intrigue to gain authority or power
+dt: noun.state:@en_wilderness
+hypo: noun.Tops:relação_social
+sa: @en:noun.relation:political_relation
+
+w: preterito
+w: pretérito
+d: @en_a term formerly used to refer to the simple past tense
+hypo: noun.communication:pretérito
+sa: @en:noun.relation:preterit
+
+w: prevalência
+d: @en_(epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in the population
+hypo: Taxa
+mt: noun.cognition:Epidemiologia
+sa: @en:noun.relation:prevalence
+
+w: proporção 1
+d: @en_the quotient obtained when the magnitude of a part is divided by the magnitude of the whole
+hyper: @en_batting_average
+hyper: @en_case-fatality_proportion
+hyper: @en_case-to-infection_proportion
+hyper: @en_content
+hyper: @en_golden_mean
+hyper: @en_rate
+hyper: Escala
+hyper: percentagem
+hypo: quociente
+mp: noun.cognition:@en_proportional
+sa: @en:noun.relation:proportion
+
+w: quadragésima
+w: quadragésimo
+d: @en_position 40 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:fortieth
+
+w: quarto
+d: após a terceira posição; número quatro em uma série contável
+hypo: noun.state:classe 1
+sa: @en:noun.relation:fourth
+
+w: quinta
+w: quinto
+d: @en_position five in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:fifth
+
+w: quociente
+d: @en_the ratio of two quantities to be divided
+hyper: proporção 1
+hypo: Taxa
+sa: @en:noun.relation:quotient
+
+w: reciprocidade
+d: @en_a relation of mutual dependence or action or influence
+hyper: @en_complementarity 1
+hyper: @en_reciprocal
+hyper: Interdependência
+hyper: correlação
+hyper: interdependência 1
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:reciprocality
+
+w: reflexiva
+d: @en_(logic and mathematics) a relation such that it holds between an element and itself
+hypo: @en_logical_relation
+hypo: @en_mathematical_relation
+mt: noun.cognition:Matematica
+mt: noun.cognition:lógica 1
+sa: @en:noun.relation:reflexiveness 1
+
+w: relação 5
+d: @en_a particular manner of connectedness
+hyper: relação 6
+hypo: ligação 2
+sa: @en:noun.relation:relatedness
+
+w: relação 6
+d: @en_relevant relation or interconnection
+hypo: relação 5
+sa: @en:noun.relation:bearing 1
+
+w: relação 7
+d: @en_mutual dealings or connections or communications among persons or groups
+hypo: noun.Tops:relação_social
+sa: @en:noun.relation:dealings
+
+w: relação_de_grandeza
+d: @en_a relation between magnitudes
+hyper: @en_proportion
+hyper: Taxa
+hyper: escale
+hyper: noun.time:ritmo
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:magnitude_relation
+
+w: relação_linguística
+d: @en_a relation between linguistic forms or constituents
+hyper: @en_grammatical_relation
+hyper: homonímia
+hyper: relação_semântica
+hypo: noun.Tops:conexão
+sa: @en:noun.relation:linguistic_relation
+
+w: relação_semântica
+d: @en_a relation between meanings
+hyper: @en_antonymy
+hyper: @en_holonymy
+hyper: @en_hypernymy
+hyper: @en_hyponymy
+hyper: @en_meronymy
+hyper: @en_troponymy
+hyper: sinonímia
+hypo: relação_linguística
+sa: @en:noun.relation:semantic_relation
+
+w: relação_sinal-ruído
+d: @en_the ratio of signal intensity to noise intensity
+hypo: Taxa
+sa: @en:noun.relation:S/N
+
+w: rotatividade
+w: turnover
+d: @en_the ratio of the number of workers that had to be replaced in a given time period to the average number of workers
+hypo: Taxa
+sa: @en:noun.relation:employee_turnover
+
+w: secante
+d: @en_ratio of the hypotenuse to the adjacent side of a right-angled triangle
+hypo: função_trigonométrica
+sa: @en:noun.relation:sec
+
+w: segundo
+d: @en_following the first in an ordering or series
+hyper: @en_latter
+hypo: noun.state:classe 1
+sa: @en:noun.relation:second
+
+w: seno
+d: @en_ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle
+hypo: função_trigonométrica
+sa: @en:noun.relation:sin
+
+w: setuagésimo
+d: @en_position 70 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:seventieth
+
+w: sexagésimo
+d: @en_position 60 in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:sixtieth
+
+w: sexta
+w: sexto
+d: @en_position six in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:sixth
+
+w: sinonímia
+d: @en_the semantic relation that holds between two words that can (in a given context) express the same meaning
+hypo: relação_semântica
+sa: @en:noun.relation:synonymity
+
+w: sobra 1
+d: @en_a small part or portion that remains after the main part no longer exists
+hypo: excedente
+sa: @en:noun.relation:leftover
+
+w: subordinação
+d: @en_the grammatical relation of a modifying word or phrase to its head
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:subordination 1
+
+w: sudeste
+d: @en_the compass point midway between south and east; at 135 degrees
+hypo: @en_compass_point
+sa: @en:noun.relation:SE
+
+w: sudoeste
+d: @en_the compass point midway between south and west; at 225 degrees
+hypo: @en_compass_point
+sa: @en:noun.relation:SW
+
+w: sul 1
+d: a direção correspondente ao ponto de bússola cardeal sul
+hypo: curso
+sa: @en:noun.relation:south 2
+
+w: sétima
+w: sétimo
+d: @en_position seven in a countable series of things
+hypo: noun.state:classe 1
+sa: @en:noun.relation:seventh
+
+w: tangente
+d: @en_ratio of the opposite to the adjacent side of a right-angled triangle
+hypo: função_trigonométrica
+sa: @en:noun.relation:tan
+
+w: tempo_partilhado
+d: @en_(computer science) the use of a central computer by many users simultaneously
+hypo: @en_sharing
+mt: noun.cognition:ciência_da_computação
+sa: @en:noun.relation:time_sharing
+
+w: terceiro
+d: @en_following the second position in an ordering or series
+hypo: noun.state:classe 1
+sa: @en:noun.relation:third
+
+w: transformação_afim
+d: @en_(mathematics) a transformation that is a combination of single transformations such as translation or rotation or reflection on an axis
+hypo: Transformação_geométrica
+mt: noun.cognition:Matematica
+sa: @en:noun.relation:affine_transformation
+
+w: transitiva
+d: @en_(logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third
+hypo: @en_logical_relation
+hypo: @en_mathematical_relation
+mt: noun.cognition:Matematica
+mt: noun.cognition:lógica 1
+sa: @en:noun.relation:transitivity 1
+
+w: transitividade
+d: @en_the grammatical relation created by a transitive verb
+hypo: @en_grammatical_relation
+sa: @en:noun.relation:transitiveness
+
+w: umidade_relativa
+d: @en_the ratio of the amount of water in the air at a give temperature to the maximum amount it could hold at that temperature; expressed as a percentage
+hypo: Taxa
+sa: @en:noun.relation:relative_humidity
+
+w: Índice_Preço/Lucro
+w: Índice_preço/lucro
+d: @en_(stock market) the price of a stock divided by its earnings
+hypo: Taxa
+mt: noun.artifact:Mercado_de_ações
+sa: @en:noun.relation:P/E_ratio
+
+w: Índice_refrativo
+d: @en_the ratio of the velocity of light in a vacuum to that in a medium
+hypo: Taxa
+sa: @en:noun.relation:index_of_refraction
+
+w: último
+d: @en_the last or lowest in an ordering or series
+e: Ele foi o último a sair
+e: Ele terminou num vergonhoso último lugar
+hypo: noun.state:classe 1
+sa: @en:noun.relation:last
+

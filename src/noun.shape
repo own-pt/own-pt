@@ -1,0 +1,2332 @@
+noun.shape
+
+w: @en_Cartesian_plane
+d: @en_a plane in which all points can be described in Cartesian coordinates
+hypo: Plano
+sa: @en:noun.shape:Cartesian_plane
+
+w: @en_Cupid's_bow
+d: @en_the double curve of the upper lip when considered to resemble Cupid's bow
+hypo: arco
+sa: @en:noun.shape:Cupid's_bow
+
+w: @en_Jordan_curve
+w: @en_simple_closed_curve
+d: @en_a closed curve that does not intersect itself
+hyper: laço
+hypo: @en_closed_curve
+sa: @en:noun.shape:Jordan_curve
+
+w: @en_S-shape
+d: @en_a double curve resembling the letter S
+hypo: arco
+sa: @en:noun.shape:S-shape
+
+w: @en_acantha
+w: @en_spine
+w: @en_spur
+d: @en_any sharply pointed projection
+hypo: @en_projection
+sa: @en:noun.shape:acantha
+
+w: @en_acute-angled_triangle
+w: @en_acute_triangle
+d: @en_a triangle whose interior angles are all acute
+hypo: Triangulo
+sa: @en:noun.shape:acute-angled_triangle
+
+w: @en_acute_angle
+d: @en_an angle less than 90 degrees but more than 0 degrees
+hypo: @en_oblique_angle
+sa: @en:noun.shape:acute_angle
+
+w: @en_amorphous_shape
+d: @en_an ill-defined or arbitrary shape
+hyper: @en_blob
+hyper: @en_shapelessness
+hyper: espaço
+hypo: noun.Tops:forma
+sa: @en:noun.shape:amorphous_shape
+
+w: @en_angle_of_dip
+w: @en_dip
+w: @en_inclination
+w: @en_magnetic_dip
+w: @en_magnetic_inclination
+d: @en_(physics) the angle that a magnetic needle makes with the plane of the horizon
+hypo: Ângulos
+mt: noun.cognition:Fisica
+sa: @en:noun.shape:angle_of_dip
+
+w: @en_angle_of_extinction
+w: @en_extinction_angle
+d: @en_the angle from its axis that a crystal must be rotated before appearing maximally dark when viewed in polarized light
+hypo: Ângulos
+sa: @en:noun.shape:angle_of_extinction
+
+w: @en_angle_of_incidence
+w: @en_incidence_angle
+d: @en_the angle that a line makes with a line perpendicular to the surface at the point of incidence
+hyper: @en_critical_angle
+hyper: ângulo_de_ataque
+hypo: Ângulos
+sa: @en:noun.shape:angle_of_incidence
+
+w: @en_angle_of_reflection
+d: @en_the angle between a reflected ray and a line perpendicular to the reflecting surface at the point of incidence
+hypo: Ângulos
+sa: @en:noun.shape:angle_of_reflection
+
+w: @en_angle_of_refraction
+d: @en_the angle between a refracted ray and a line perpendicular to the surface between the two media at the point of refraction
+hypo: Ângulos
+sa: @en:noun.shape:angle_of_refraction
+
+w: @en_angular_distance
+d: @en_the angular separation between two objects as perceived by an observer
+hyper: noun.location:@en_latitude
+hyper: noun.location:Linhas_de_longitude
+hyper: noun.location:ascensão_reta
+hyper: noun.location:declinação
+hyper: anomalia_verdadeira
+hyper: ângulo_horário
+hypo: Ângulos
+sa: @en:noun.shape:angular_distance
+
+w: @en_angular_shape
+w: @en_angularity
+d: @en_a shape having one or more sharp angles
+hyper: @en_forking
+hyper: @en_jog
+hyper: Ziguezague
+hyper: dobra
+hypo: noun.Tops:forma
+sa: @en:noun.shape:angular_shape
+
+w: @en_asterism
+d: @en_(mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light
+hypo: estrela
+mt: noun.cognition:Mineralogia
+sa: @en:noun.shape:asterism
+
+w: @en_bell
+w: @en_bell_shape
+w: @en_campana
+d: @en_the shape of a bell
+hypo: arco
+sa: @en:noun.shape:bell
+
+w: @en_belly
+d: @en_a part that bulges deeply
+hypo: excrescência
+sa: @en:noun.shape:belly
+
+w: @en_bifurcation
+d: @en_the place where something divides into two branches
+hypo: @en_forking
+mp: bifurcação
+sa: @en:noun.shape:bifurcation
+
+w: @en_bight
+d: @en_a bend or curve (especially in a coastline)
+hypo: arco 3
+sa: @en:noun.shape:bight
+
+w: @en_bight 1
+d: @en_a loop in a rope
+hypo: laço
+sa: @en:noun.shape:bight 1
+
+w: @en_blob
+d: @en_an indistinct shapeless form
+hypo: @en_amorphous_shape
+sa: @en:noun.shape:blob
+
+w: @en_bolus
+d: @en_a small round soft mass (as of chewed food)
+hypo: bola 3
+sa: @en:noun.shape:bolus
+
+w: @en_bowl
+w: @en_trough
+d: @en_a concave shape with an open top
+hypo: concavidade
+sa: @en:noun.shape:bowl
+
+w: @en_box
+d: @en_a rectangular drawing
+hypo: Retangulo
+sa: @en:noun.shape:box
+
+w: @en_brachium
+d: @en_(biology) a branching or armlike part of an animal
+hypo: @en_branch
+mt: noun.cognition:biologia
+sa: @en:noun.shape:brachium
+
+w: @en_branch
+w: @en_leg
+w: @en_ramification
+d: @en_a part of a forked or branching shape
+hp: @en_forking
+hyper: @en_brachium
+hyper: bifurcação
+hyper: bifurcação 1
+hypo: @en_subfigure
+sa: @en:noun.shape:branch
+
+w: @en_buckle
+w: @en_warp
+d: @en_a shape distorted by twisting or folding
+hypo: @en_distorted_shape
+sa: @en:noun.shape:buckle
+
+w: @en_bulb
+d: @en_anything with a round shape resembling a teardrop
+hypo: forma_redonda
+sa: @en:noun.shape:bulb
+
+w: @en_camber
+d: @en_a slight convexity (as of the surface of a road)
+hypo: convexidade
+sa: @en:noun.shape:camber
+
+w: @en_caput
+d: @en_a headlike protuberance on an organ or structure
+hypo: excrescência
+sa: @en:noun.shape:caput
+
+w: @en_cast
+w: @en_mold
+w: @en_mould
+w: @en_stamp
+d: @en_the distinctive form in which a thing is made
+hypo: sólida
+sa: @en:noun.shape:cast
+
+w: @en_circle
+d: @en_something approximating the shape of a circle
+hypo: noun.Tops:forma
+sa: @en:noun.shape:circle 1
+
+w: @en_circlet
+d: @en_a small circle
+hypo: círculo
+sa: @en:noun.shape:circlet
+
+w: @en_cladogram
+d: @en_a tree diagram used to illustrate phylogenetic relationships
+hypo: árvore
+sa: @en:noun.shape:cladogram
+
+w: @en_cleft
+d: @en_a split or indentation in something (as the palate or chin)
+hypo: @en_indentation
+sa: @en:noun.shape:cleft
+
+w: @en_closed_curve
+d: @en_a curve (such as a circle) having no endpoints
+hyper: @en_Jordan_curve
+hypo: arco
+sa: @en:noun.shape:closed_curve
+
+w: @en_coil
+w: @en_curl
+w: @en_curlicue
+w: @en_gyre
+w: @en_ringlet
+w: @en_roll
+w: @en_scroll
+w: @en_whorl
+d: @en_a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
+hyper: noun.plant:@en_calyx
+hyper: noun.plant:corola
+hyper: @en_verticil
+hypo: forma_redonda
+sa: @en:noun.shape:coil
+
+w: @en_columella
+d: @en_a small column (or structure resembling a column) that is a part of a plant or animal
+hypo: coluna
+sa: @en:noun.shape:columella
+
+w: @en_concave_polygon
+d: @en_a polygon such that there is a straight line that cuts it in four or more points
+hyper: @en_reentering_polygon
+hypo: polígono
+sa: @en:noun.shape:concave_polygon
+
+w: @en_concave_polyhedron
+d: @en_a polyhedron some of whose plane sections are concave polygons
+hypo: Poliedros
+sa: @en:noun.shape:concave_polyhedron
+
+w: @en_conformation
+d: @en_a symmetrical arrangement of the parts of a thing
+hypo: contrapeso
+sa: @en:noun.shape:conformation
+
+w: @en_conglobation
+w: @en_conglomeration
+d: @en_a rounded spherical form
+hypo: bola 1
+sa: @en:noun.shape:conglobation
+
+w: @en_contortion
+w: @en_crookedness
+w: @en_torsion
+w: @en_tortuosity
+w: @en_tortuousness
+d: @en_a tortuous and twisted shape or position
+hypo: @en_distorted_shape
+sa: @en:noun.shape:contortion
+
+w: @en_convex_polyhedron
+d: @en_a polyhedron any plane section of which is a convex polygon
+hypo: Poliedros
+sa: @en:noun.shape:convex_polyhedron
+
+w: @en_crenation
+w: @en_crenature
+w: @en_crenel
+w: @en_crenelle
+w: @en_scallop
+d: @en_one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)
+hypo: arco
+sa: @en:noun.shape:crenation
+
+w: @en_critical_angle
+d: @en_the smallest angle of incidence for which light is totally reflected
+hypo: @en_angle_of_incidence
+sa: @en:noun.shape:critical_angle
+
+w: @en_crow's_feet
+w: @en_crow's_foot
+w: @en_laugh_line
+d: @en_a wrinkle in the skin at the outer corner of your eyes
+hypo: ruga
+sa: @en:noun.shape:crow's_feet
+
+w: @en_cuboid
+d: @en_a rectangular parallelepiped
+hypo: Paralelepipedo
+sa: @en:noun.shape:cuboid
+
+w: @en_cup
+d: @en_any cup-shaped concavity
+hypo: concavidade
+sa: @en:noun.shape:cup
+
+w: @en_curate_cycloid
+d: @en_a cycloid generated by a point inside the rolling circle
+hypo: Cicloide
+sa: @en:noun.shape:curate_cycloid
+
+w: @en_cutting_angle
+d: @en_the angle between the face of a cutting tool and the surface of the work
+hypo: Ângulos
+sa: @en:noun.shape:cutting_angle
+
+w: @en_decahedron
+d: @en_any polyhedron having ten plane faces
+hypo: Poliedros
+sa: @en:noun.shape:decahedron
+
+w: @en_delta
+d: @en_an object shaped like an equilateral triangle
+hypo: @en_equiangular_triangle
+sa: @en:noun.shape:delta
+
+w: @en_dent
+w: @en_incision
+w: @en_prick
+w: @en_scratch
+w: @en_slit
+d: @en_a depression scratched or carved into a surface
+hyper: @en_score
+hypo: impressão
+sa: @en:noun.shape:dent
+
+w: @en_dermatoglyphic
+d: @en_the lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet)
+hypo: ruga
+sa: @en:noun.shape:dermatoglyphic
+
+w: @en_dewdrop
+d: @en_a drop of dew
+hypo: gota
+sa: @en:noun.shape:dewdrop
+
+w: @en_dimple
+d: @en_any slight depression in a surface
+hypo: impressão
+sa: @en:noun.shape:dimple
+
+w: @en_dip 1
+d: @en_a depression in an otherwise level surface
+hypo: impressão
+sa: @en:noun.shape:dip 1
+
+w: @en_distorted_shape
+w: @en_distortion
+d: @en_a shape resulting from distortion
+hyper: @en_buckle
+hyper: @en_contortion
+hyper: @en_gnarl
+hypo: noun.Tops:forma
+sa: @en:noun.shape:distorted_shape
+
+w: @en_dogleg
+d: @en_angle that resembles the hind leg of a dog
+hypo: Ângulos
+sa: @en:noun.shape:dogleg
+
+w: @en_dome
+d: @en_a concave shape whose distinguishing characteristic is that the concavity faces downward
+hypo: concavidade
+sa: @en:noun.shape:dome
+
+w: @en_eccentricity
+d: @en_(geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis
+hypo: noun.relation:Taxa
+mt: noun.cognition:geometria
+sa: @en:noun.shape:eccentricity
+
+w: @en_element
+d: @en_a straight line that generates a cylinder or cone
+hyper: @en_element_of_a_cone
+hyper: @en_element_of_a_cylinder
+hypo: recta
+sa: @en:noun.shape:element
+
+w: @en_element_of_a_cone
+d: @en_a straight line joining the apex and a point on the base
+hypo: @en_element
+sa: @en:noun.shape:element_of_a_cone
+
+w: @en_element_of_a_cylinder
+d: @en_a straight line running the length of the cylinder
+hypo: @en_element
+sa: @en:noun.shape:element_of_a_cylinder
+
+w: @en_envelope
+d: @en_a curve that is tangent to each of a family of curves
+hypo: arco
+sa: @en:noun.shape:envelope
+
+w: @en_epicycle
+d: @en_a circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid
+hypo: círculo
+sa: @en:noun.shape:epicycle
+
+w: @en_epicycloid
+d: @en_a line generated by a point on a circle rolling around another circle
+hyper: cardióide
+hypo: @en_line_roulette
+sa: @en:noun.shape:epicycloid
+
+w: @en_equator
+d: @en_a circle dividing a sphere or other surface into two usually equal and symmetrical parts
+hypo: círculo
+sa: @en:noun.shape:equator
+
+w: @en_equiangular_triangle
+w: @en_equilateral_triangle
+d: @en_a three-sided regular polygon
+hyper: @en_delta
+hypo: Triangulo
+hypo: polígono_regular
+sa: @en:noun.shape:equiangular_triangle
+
+w: @en_exterior_angle
+w: @en_external_angle
+d: @en_the supplement of an interior angle of a polygon
+hyper: @en_hip
+hypo: Ângulos
+sa: @en:noun.shape:exterior_angle
+
+w: @en_extrados
+d: @en_the exterior curve of an arch
+hypo: arco
+sa: @en:noun.shape:extrados
+
+w: @en_face_angle
+d: @en_the angle formed by two edges of a polyhedral angle
+hypo: Ângulos
+sa: @en:noun.shape:face_angle
+
+w: @en_facet
+d: @en_a smooth surface (as of a bone or cut gemstone)
+hypo: @en_subfigure
+sa: @en:noun.shape:facet
+
+w: @en_facet_plane
+d: @en_the plane of a facet of an object (as of a cube)
+hypo: Plano
+sa: @en:noun.shape:facet_plane
+
+w: @en_flair
+w: @en_flare
+d: @en_a shape that spreads outward
+hypo: noun.Tops:forma
+sa: @en:noun.shape:flair
+
+w: @en_forking
+w: @en_furcation
+d: @en_the place where something divides into branches
+hyper: @en_bifurcation
+hypo: @en_angular_shape
+mp: @en_branch
+sa: @en:noun.shape:forking
+
+w: @en_fossa
+w: @en_pit
+d: @en_a concavity in a surface (especially an anatomical depression)
+hyper: noun.body:@en_epigastric_fossa
+hyper: noun.body:@en_glenoid_cavity
+hyper: noun.body:@en_glenoid_fossa 1
+hypo: noun.body:@en_bodily_cavity
+hypo: concavidade
+sa: @en:noun.shape:fossa
+
+w: @en_frown_line
+d: @en_a facial wrinkle associated with frowning
+hypo: ruga
+sa: @en:noun.shape:frown_line
+
+w: @en_funnel
+w: @en_funnel_shape
+d: @en_a conical shape with a wider and a narrower opening at the two ends
+hypo: cone
+sa: @en:noun.shape:funnel
+
+w: @en_gnarl
+w: @en_knot
+d: @en_something twisted and tight and swollen
+hypo: @en_distorted_shape
+sa: @en:noun.shape:gnarl
+
+w: @en_gooseneck
+d: @en_something in a thin curved form (like the neck of a goose)
+hypo: arco
+sa: @en:noun.shape:gooseneck
+
+w: @en_heart_line
+w: @en_line_of_heart
+w: @en_love_line
+w: @en_mensal_line
+d: @en_a crease on the palm; palmists say it indicates your emotional nature
+hypo: ruga
+sa: @en:noun.shape:heart_line
+
+w: @en_helix_angle
+d: @en_the constant angle at which a helix cuts the elements of a cylinder or cone
+hypo: Ângulos
+sa: @en:noun.shape:helix_angle
+
+w: @en_hip
+d: @en_(architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof
+hp: noun.artifact:@en_hip_roof
+hypo: @en_exterior_angle
+mt: noun.cognition:arquitectura
+sa: @en:noun.shape:hip
+
+w: @en_hollow
+d: @en_a cavity or space in something
+hypo: cavidade
+sa: @en:noun.shape:hollow 2
+
+w: @en_hoodoo
+d: @en_(geology) a column of weathered and unusually shaped rock
+hypo: coluna
+mt: noun.cognition:geologia
+sa: @en:noun.shape:hoodoo
+
+w: @en_hypocycloid
+d: @en_a line generated by a point on a circle that rolls around inside another circle
+hypo: @en_line_roulette
+sa: @en:noun.shape:hypocycloid
+
+w: @en_incisura
+w: @en_incisure
+d: @en_(anatomy) a notch or small hollow
+hyper: noun.body:@en_mandibular_notch
+hypo: @en_notch
+mt: noun.cognition:anatomia
+sa: @en:noun.shape:incisura
+
+w: @en_inclination 1
+w: @en_inclination_of_an_orbit
+d: @en_(astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees
+hypo: Ângulos
+mt: noun.cognition:Astronomia
+sa: @en:noun.shape:inclination 2
+
+w: @en_indentation
+w: @en_indenture
+d: @en_a concave cut into a surface or edge (as in a coastline)
+hyper: noun.artifact:@en_notch
+hyper: @en_cleft
+hyper: @en_notch
+hypo: concavidade
+sa: @en:noun.shape:indentation
+
+w: @en_interior_angle
+w: @en_internal_angle
+d: @en_the angle inside two adjacent sides of a polygon
+hyper: @en_reentering_angle
+hypo: Ângulos
+sa: @en:noun.shape:interior_angle
+
+w: @en_intrados
+d: @en_the interior curve of an arch
+hypo: arco
+sa: @en:noun.shape:intrados
+
+w: @en_isogon
+d: @en_an equiangular polygon
+hyper: polígono_regular
+hypo: polígono
+sa: @en:noun.shape:isogon
+
+w: @en_isosceles_triangle
+d: @en_a triangle with two equal sides
+hypo: Triangulo
+sa: @en:noun.shape:isosceles_triangle
+
+w: @en_jog
+d: @en_a sharp change in direction
+hypo: @en_angular_shape
+sa: @en:noun.shape:jog
+
+w: @en_keel
+d: @en_a projection or ridge that suggests a keel
+hypo: @en_projection
+sa: @en:noun.shape:keel
+
+w: @en_knife
+w: @en_tongue
+d: @en_any long thin projection that is transient
+hypo: @en_projection
+sa: @en:noun.shape:knife
+
+w: @en_knob
+w: @en_node
+w: @en_thickening
+d: @en_any thickened enlargement
+hypo: convexidade
+sa: @en:noun.shape:knob
+
+w: @en_lead
+d: @en_the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)
+hypo: Ângulos
+sa: @en:noun.shape:lead
+
+w: @en_leaf_form
+w: @en_leaf_shape
+d: @en_any of the various shape that leaves of plants can assume
+hp: noun.plant:folha
+hypo: @en_natural_shape
+sa: @en:noun.shape:leaf_form
+
+w: @en_life_line
+w: @en_lifeline
+w: @en_line_of_life
+d: @en_a crease on the palm; its length is said by palmists to indicate how long you will live
+hypo: ruga
+sa: @en:noun.shape:life_line
+
+w: @en_line_of_Saturn
+w: @en_line_of_destiny
+w: @en_line_of_fate
+d: @en_a crease on the palm; palmists say it indicates how successful you will be
+hypo: ruga
+sa: @en:noun.shape:line_of_Saturn
+
+w: @en_line_roulette
+w: @en_roulette
+d: @en_a line generated by a point on one figure rolling around a second figure
+hyper: @en_epicycloid
+hyper: @en_hypocycloid
+hyper: Cicloide
+hypo: arco
+sa: @en:noun.shape:line_roulette
+
+w: @en_lower_bound
+d: @en_(mathematics) a number equal to or less than any other number in a given set
+hypo: borda 2
+mt: noun.cognition:Matematica
+sa: @en:noun.shape:lower_bound
+
+w: @en_midline
+w: @en_midplane
+d: @en_the median plane of the body (or some part of the body)
+hypo: Plano
+sa: @en:noun.shape:midline
+
+w: @en_mogul
+d: @en_a bump on a ski slope
+hypo: excrescência
+sa: @en:noun.shape:mogul
+
+w: @en_natural_shape
+d: @en_a shape created by natural forces; not man-made
+hyper: @en_leaf_form
+hypo: noun.Tops:forma
+sa: @en:noun.shape:natural_shape
+
+w: @en_notch
+d: @en_a V-shaped indentation
+hyper: @en_incisura
+hypo: @en_indentation
+sa: @en:noun.shape:notch
+
+w: @en_nub
+w: @en_nubble
+d: @en_a small lump or protuberance
+hypo: excrescência
+sa: @en:noun.shape:nub
+
+w: @en_oblique_angle
+d: @en_an angle that is not a right angle or a multiple of a right angle
+hyper: @en_acute_angle
+hyper: @en_obtuse_angle
+hypo: Ângulos
+sa: @en:noun.shape:oblique_angle
+
+w: @en_oblique_triangle
+d: @en_a triangle that contains no right angle
+hypo: Triangulo
+sa: @en:noun.shape:oblique_triangle
+
+w: @en_oblong
+d: @en_a plane figure that deviates from a square or circle due to elongation
+hypo: figura_de_duas_dimensões
+sa: @en:noun.shape:oblong
+
+w: @en_obtuse-angled_triangle
+w: @en_obtuse_triangle
+d: @en_a triangle that contains an obtuse interior angle
+hypo: Triangulo
+sa: @en:noun.shape:obtuse-angled_triangle
+
+w: @en_obtuse_angle
+d: @en_an angle between 90 and 180 degrees
+hypo: @en_oblique_angle
+sa: @en:noun.shape:obtuse_angle
+
+w: @en_ovoid
+d: @en_an egg-shaped object
+hypo: sólida
+sa: @en:noun.shape:ovoid
+
+w: @en_pentahedron
+d: @en_any polyhedron having five plane faces
+hypo: Poliedros
+sa: @en:noun.shape:pentahedron
+
+w: @en_perversion
+d: @en_a curve that reverses the direction of something
+hypo: arco
+sa: @en:noun.shape:perversion
+
+w: @en_picture_plane
+d: @en_the plane that is in the foreground of a drawing or painting; coextensive with but different from the objective surface of the work
+hp: noun.attribute:perspectiva
+hypo: Plano
+sa: @en:noun.shape:picture_plane
+
+w: @en_plane_angle
+d: @en_an angle formed by two straight lines (in the same plane)
+hypo: Ângulos
+sa: @en:noun.shape:plane_angle
+
+w: @en_plume
+d: @en_anything that resembles a feather in shape or lightness
+hypo: noun.Tops:forma
+sa: @en:noun.shape:plume
+
+w: @en_pocket
+d: @en_(bowling) the space between the headpin and the pins behind it on the right or left
+hypo: espaço
+mt: noun.act:Boliche
+sa: @en:noun.shape:pocket 2
+
+w: @en_pocket 1
+w: @en_scoop
+d: @en_a hollow concave shape made by removing something
+hypo: concavidade
+sa: @en:noun.shape:pocket 1
+
+w: @en_polyhedral_angle
+d: @en_the space enclosed by three or more planes that intersect in a vertex
+hypo: Ângulos
+sa: @en:noun.shape:polyhedral_angle
+
+w: @en_pore
+d: @en_any tiny hole admitting passage of a liquid (fluid or gas)
+hypo: buraco
+sa: @en:noun.shape:pore
+
+w: @en_prismatoid
+d: @en_a polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid
+hyper: @en_prismoid
+hypo: Poliedros
+sa: @en:noun.shape:prismatoid
+
+w: @en_prismoid
+d: @en_a prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms
+hypo: @en_prismatoid
+sa: @en:noun.shape:prismoid
+
+w: @en_projection
+d: @en_any solid convex shape that juts out from something
+hyper: noun.location:@en_salient
+hyper: noun.object:@en_jag
+hyper: @en_acantha
+hyper: @en_keel
+hyper: @en_knife
+hyper: cauda
+hyper: excrescência
+hypo: convexidade
+sa: @en:noun.shape:projection
+
+w: @en_prolate_cycloid
+d: @en_a cycloid generated by a point outside the rolling circle
+hypo: Cicloide
+sa: @en:noun.shape:prolate_cycloid
+
+w: @en_pucker
+w: @en_ruck
+d: @en_an irregular fold in an otherwise even surface (as in cloth)
+hypo: dobra
+sa: @en:noun.shape:pucker
+
+w: @en_quadrangular_prism
+d: @en_a prism whose bases are quadrangles
+hypo: prisma
+sa: @en:noun.shape:quadrangular_prism
+
+w: @en_quadrate
+d: @en_a cubelike object
+hypo: cubo 1
+sa: @en:noun.shape:quadrate 2
+
+w: @en_reentering_angle
+w: @en_reentrant_angle
+d: @en_an interior angle of a polygon that is greater than 180 degrees
+hypo: @en_interior_angle
+sa: @en:noun.shape:reentering_angle
+
+w: @en_reentering_polygon
+w: @en_reentrant_polygon
+d: @en_a polygon with one or more reentrant angles
+hypo: @en_concave_polygon
+sa: @en:noun.shape:reentering_polygon
+
+w: @en_reflex_angle
+d: @en_an angle greater than 180 degrees (but less than 360)
+hypo: Ângulos
+sa: @en:noun.shape:reflex_angle
+
+w: @en_regular_dodecahedron
+d: @en_a dodecahedron with twelve regular pentagons as faces
+hypo: Sólido_platónico
+sa: @en:noun.shape:regular_dodecahedron
+
+w: @en_regular_hexagon
+d: @en_a hexagon with six sides of equal length
+hypo: Hexagono
+sa: @en:noun.shape:regular_hexagon
+
+w: @en_regular_icosahedron
+d: @en_an icosahedron with twenty equilateral triangles as faces
+hypo: Sólido_platónico
+sa: @en:noun.shape:regular_icosahedron
+
+w: @en_regular_octahedron
+d: @en_an octahedron with eight equilateral triangles as faces
+hypo: Sólido_platónico
+sa: @en:noun.shape:regular_octahedron
+
+w: @en_regular_tetrahedron
+d: @en_a tetrahedron with four equilateral triangular faces
+hypo: Sólido_platónico
+sa: @en:noun.shape:regular_tetrahedron
+
+w: @en_rhomboid
+d: @en_a parallelogram with adjacent sides of unequal lengths; an oblique-angled parallelogram with only the opposite sides equal
+hypo: paralelogramo
+sa: @en:noun.shape:rhomboid
+
+w: @en_ridge
+d: @en_any long raised strip
+hyper: noun.body:@en_raphe
+hyper: ondulação
+hypo: convexidade
+sa: @en:noun.shape:ridge
+
+w: @en_salient_angle
+d: @en_an angle pointing outward; an interior angle of a polygon that is less than 180 degrees
+hypo: Ângulos
+sa: @en:noun.shape:salient_angle
+
+w: @en_scalene_triangle
+d: @en_a triangle with no two sides of equal length
+hypo: Triangulo
+sa: @en:noun.shape:scalene_triangle
+
+w: @en_score
+w: @en_scotch
+d: @en_a slight surface cut (especially a notch that is made to keep a tally)
+hypo: @en_dent
+sa: @en:noun.shape:score
+
+w: @en_sector
+d: @en_a plane figure bounded by two radii and the included arc of a circle
+hypo: figura_de_duas_dimensões
+mp: arco 1
+sa: @en:noun.shape:sector
+
+w: @en_shapelessness
+d: @en_an amorphous or indefinite shape
+hypo: @en_amorphous_shape
+sa: @en:noun.shape:shapelessness
+
+w: @en_sine_curve
+w: @en_sinusoid
+d: @en_the curve of y=sin x
+hypo: @en_undulation
+sa: @en:noun.shape:sine_curve
+
+w: @en_snag
+d: @en_a sharp protuberance
+hypo: excrescência
+sa: @en:noun.shape:snag
+
+w: @en_solid_figure
+w: @en_three-dimensional_figure
+d: @en_a three-dimensional shape
+hyper: noun.artifact:escultura 1
+hypo: figura
+sa: @en:noun.shape:solid_figure
+
+w: @en_spherical_angle
+d: @en_an angle formed at the intersection of the arcs of two great circles
+hypo: Ângulos
+sa: @en:noun.shape:spherical_angle
+
+w: @en_spherical_polygon
+d: @en_a figure on the surface of a sphere bounded by arcs of 3 or more great circles
+hyper: @en_spherical_triangle
+hypo: polígono
+sa: @en:noun.shape:spherical_polygon
+
+w: @en_spherical_triangle
+d: @en_a spherical polygon formed by the arcs of 3 great circles
+hypo: @en_spherical_polygon
+sa: @en:noun.shape:spherical_triangle
+
+w: @en_square
+d: @en_something approximating the shape of a square
+hypo: noun.Tops:forma
+sa: @en:noun.shape:square 1
+
+w: @en_stemma
+d: @en_a tree diagram showing a reconstruction of the transmission of manuscripts of a literary work
+hypo: árvore
+sa: @en:noun.shape:stemma
+
+w: @en_subfigure
+d: @en_a figure that is a part of another figure
+hyper: @en_branch
+hyper: @en_facet
+hyper: flanco
+hyper: hemisfério
+hypo: figura
+sa: @en:noun.shape:subfigure
+
+w: @en_tangent_plane
+d: @en_the plane that contains all the lines tangent to a specific point on a surface
+hypo: Plano
+sa: @en:noun.shape:tangent_plane
+
+w: @en_taper
+d: @en_a convex shape that narrows toward a point
+hypo: convexidade
+sa: @en:noun.shape:taper
+
+w: @en_thalweg
+d: @en_the middle of the chief navigable channel of a waterway that forms the boundary line between states
+hypo: borda 2
+sa: @en:noun.shape:thalweg
+
+w: @en_tilt_angle
+d: @en_the angle a rocket makes with the vertical as it curves along its trajectory
+hypo: Ângulos
+sa: @en:noun.shape:tilt_angle
+
+w: @en_toroid
+d: @en_the doughnut-shaped object enclosed by a torus
+hyper: anel
+hypo: sólida
+sa: @en:noun.shape:toroid 1
+
+w: @en_triangular_prism
+d: @en_a prism whose bases are triangles
+hypo: prisma
+sa: @en:noun.shape:triangular_prism
+
+w: @en_truncated_cone
+d: @en_a frustum formed from a cone
+hypo: Tronco_de_bases_paralelas
+sa: @en:noun.shape:truncated_cone
+
+w: @en_truncated_pyramid
+d: @en_a frustum formed from a pyramid
+hypo: Tronco_de_bases_paralelas
+sa: @en:noun.shape:truncated_pyramid
+
+w: @en_uncus
+d: @en_(biology) any hook-shaped process or part
+hypo: gancho
+mt: noun.cognition:biologia
+sa: @en:noun.shape:uncus
+
+w: @en_undulation
+w: @en_wave
+d: @en_an undulating curve
+hyper: @en_sine_curve
+hypo: arco
+sa: @en:noun.shape:undulation
+
+w: @en_upper_bound
+d: @en_(mathematics) a number equal to or greater than any other number in a given set
+hypo: borda 2
+mt: noun.cognition:Matematica
+sa: @en:noun.shape:upper_bound
+
+w: @en_verticil
+d: @en_a whorl of leaves growing around a stem
+hypo: @en_coil
+sa: @en:noun.shape:verticil
+
+w: @en_washout
+d: @en_the channel or break produced by erosion of relatively soft soil by water
+hypo: ranhura
+sa: @en:noun.shape:washout
+
+w: @en_wave_angle
+d: @en_the angle of arrival (or departure) of a radio wave with respect to the axis of an antenna array
+hypo: Ângulos
+sa: @en:noun.shape:wave_angle
+
+w: Assimptota
+w: assímptota
+w: assíntota
+d: @en_a straight line that is the limiting value of a curve; can be considered as tangent at infinity
+hypo: recta
+sa: @en:noun.shape:asymptote
+
+w: Azimute
+w: azimute
+d: @en_the azimuth of a celestial body is the angle between the vertical plane containing it and the plane of the meridian
+hypo: Ângulos
+sa: @en:noun.shape:AZ
+
+w: Cicloide
+w: Ciclóide
+w: ciclóide
+d: @en_a line generated by a point on a circle rolling along a straight line
+hyper: @en_curate_cycloid
+hyper: @en_prolate_cycloid
+hypo: @en_line_roulette
+sa: @en:noun.shape:cycloid
+
+w: Diamêtro
+w: diâmetro
+d: @en_a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface)
+hypo: recta
+sa: @en:noun.shape:diameter
+
+w: Elipsoide
+w: Elipsóide
+w: elipsóide
+d: @en_a surface whose plane sections are all ellipses or circles
+hypo: figura_de_duas_dimensões
+sa: @en:noun.shape:ellipsoid
+
+w: Esfera
+w: bola
+w: esfera
+d: @en_a three-dimensional closed surface such that every point on the surface is equidistant from the center
+hypo: forma_redonda
+mp: noun.quantity:esferorradiano
+sa: @en:noun.shape:sphere 1
+
+w: Esferoide
+w: Esferóide
+d: @en_a shape that is generated by rotating an ellipse around one of its axes
+hypo: forma_redonda
+sa: @en:noun.shape:ellipsoid_of_revolution
+
+w: Hexagono
+w: hexágono
+d: @en_a six-sided polygon
+hyper: @en_regular_hexagon
+hypo: polígono
+sa: @en:noun.shape:hexagon
+
+w: Hiperboloide
+w: Hiperbolóide
+d: @en_a quadric surface generated by rotating a hyperbola around its main axis
+hypo: Quádricas
+sa: @en:noun.shape:hyperboloid
+
+w: Hélice
+w: hélice
+d: @en_a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle
+hyper: dupla_hélice
+hypo: arco
+sa: @en:noun.shape:helix
+
+w: Inclinação
+w: inclinação
+d: @en_(geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)
+hypo: Ângulos
+mt: noun.cognition:geometria
+sa: @en:noun.shape:angle_of_inclination
+
+w: Octogono
+w: octágono
+w: octógono
+d: @en_an eight-sided polygon
+hypo: polígono
+sa: @en:noun.shape:octagon
+
+w: Parabolóide
+w: paraboloide
+d: @en_a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis
+hypo: figura_de_duas_dimensões
+sa: @en:noun.shape:paraboloid
+
+w: Paralelepipedo
+w: paralelepípedo
+d: @en_a prism whose bases are parallelograms
+hyper: @en_cuboid
+hyper: romboedro
+hypo: prisma
+sa: @en:noun.shape:parallelepiped
+
+w: Pentagono
+w: pentágono
+d: @en_a five-sided polygon
+hypo: polígono
+sa: @en:noun.shape:pentagon
+
+w: Perpendicularidade
+w: perpendicular
+d: @en_a straight line at right angles to another line
+hypo: recta
+sa: @en:noun.shape:perpendicular
+
+w: Piramide
+w: Pirâmide
+w: pirâmide
+d: @en_a polyhedron having a polygonal base and triangular sides with a common vertex
+hypo: Poliedros
+sa: @en:noun.shape:pyramid
+
+w: Plano
+w: plano
+d: @en_(mathematics) an unbounded two-dimensional shape
+hyper: @en_Cartesian_plane
+hyper: @en_facet_plane
+hyper: @en_midline
+hyper: @en_picture_plane
+hyper: @en_tangent_plane
+hyper: plano_orbital
+hypo: noun.Tops:forma
+mt: noun.cognition:Matematica
+sa: @en:noun.shape:plane
+
+w: Poliedros
+w: poliedro
+d: @en_a solid figure bounded by plane polygons or faces
+hyper: @en_concave_polyhedron
+hyper: @en_convex_polyhedron
+hyper: @en_decahedron
+hyper: @en_pentahedron
+hyper: @en_prismatoid
+hyper: Piramide
+hyper: Sólido_platónico
+hyper: dodecaedro
+hyper: hexaedro
+hyper: icosaedro
+hyper: octaedro
+hyper: prisma
+hyper: tetraedro
+hyper: trapezoedro
+hypo: sólida
+sa: @en:noun.shape:polyhedron
+
+w: Quadrado
+w: quadrado
+d: @en_(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon
+hyper: quadrado 1
+hypo: Retangulo
+hypo: polígono_regular
+mt: noun.cognition:geometria
+sa: @en:noun.shape:foursquare
+
+w: Quádricas
+w: quádrica
+d: @en_a curve or surface whose equation (in Cartesian coordinates) is of the second degree
+hyper: Hiperboloide
+hypo: arco
+sa: @en:noun.shape:quadric
+
+w: Retangulo
+w: rectângulo
+w: retângulo
+d: @en_a parallelogram with four right angles
+hyper: @en_box
+hyper: Quadrado
+hypo: paralelogramo
+sa: @en:noun.shape:rectangle
+
+w: Retas_Paralelas
+w: retas_paralelas
+d: @en_(mathematics) one of a set of parallel geometric figures (parallel lines or planes)
+hypo: figura
+mt: noun.cognition:Matematica
+sa: @en:noun.shape:parallel
+
+w: Semi-círculo
+w: semicírculo
+d: @en_a plane figure with the shape of half a circle
+hypo: figura_de_duas_dimensões
+sa: @en:noun.shape:hemicycle
+
+w: Simetria
+w: proporção
+w: simetria
+d: @en_balance among the parts of something
+hypo: contrapeso
+sa: @en:noun.shape:proportion
+
+w: Sólido_platónico
+w: Sólido_platônico
+w: Sólidos_Platónicos
+w: Sólidos_platónicos
+w: Sólidos_platônicos
+d: @en_any one of five solids whose faces are congruent regular polygons and whose polyhedral angles are all congruent
+hyper: @en_regular_dodecahedron
+hyper: @en_regular_icosahedron
+hyper: @en_regular_octahedron
+hyper: @en_regular_tetrahedron
+hyper: cubo 1
+hypo: Poliedros
+sa: @en:noun.shape:Platonic_body
+
+w: Triangulo
+w: Triângulo
+w: triângulo
+d: @en_a three-sided polygon
+hyper: @en_acute-angled_triangle
+hyper: @en_equiangular_triangle
+hyper: @en_isosceles_triangle
+hyper: @en_oblique_triangle
+hyper: @en_obtuse-angled_triangle
+hyper: @en_scalene_triangle
+hyper: cunha
+hyper: triângulo_reto
+hypo: polígono
+sa: @en:noun.shape:triangle
+
+w: Tronco_de_bases_paralelas
+d: @en_a truncated cone or pyramid; the part that is left when a cone or pyramid is cut by a plane parallel to the base and the apical part is removed
+hyper: @en_truncated_cone
+hyper: @en_truncated_pyramid
+hypo: sólida
+sa: @en:noun.shape:frustum
+
+w: Ziguezague
+w: ziguezague
+d: @en_an angular shape characterized by sharp turns in alternating directions
+hypo: @en_angular_shape
+sa: @en:noun.shape:zag
+
+w: _pico
+w: ponta
+d: @en_a V shape
+hp: noun.artifact:@en_alpenstock
+hp: noun.artifact:Espadas
+hp: noun.artifact:Lápis
+hp: noun.artifact:coitelo
+hp: noun.artifact:ponta_de_flecha
+hp: cone
+hyper: noun.body:@en_cusp
+hyper: noun.body:@en_widow's_peak
+hyper: noun.state:@en_head
+hypo: convexidade
+sa: @en:noun.shape:peak 1
+
+w: abertura
+w: fenda
+w: fissura
+d: @en_a long narrow depression in a surface
+hypo: impressão
+sa: @en:noun.shape:chap
+
+w: altitude
+w: altura
+w: ortocentro
+d: @en_the perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel)
+hypo: noun.attribute:distância 2
+sa: @en:noun.shape:altitude
+
+w: andada
+d: @en_a groove or furrow (especially one in soft earth caused by wheels)
+hypo: ranhura
+sa: @en:noun.shape:rut
+
+w: anel
+d: @en_a toroidal shape
+hyper: noun.plant:@en_fairy_circle
+hypo: @en_toroid
+sa: @en:noun.shape:anchor_ring
+
+w: anomalia_verdadeira
+d: @en_the angular distance of a point in an orbit past the point of periapsis measured in degrees
+hypo: @en_angular_distance
+sa: @en:noun.shape:true_anomaly
+
+w: arco
+w: curva
+d: @en_the trace of a point whose direction of motion changes
+hyper: noun.cognition:@en_Gaussian_curve
+hyper: noun.object:meandro
+hyper: @en_Cupid's_bow
+hyper: @en_S-shape
+hyper: @en_bell
+hyper: @en_closed_curve
+hyper: @en_crenation
+hyper: @en_envelope
+hyper: @en_extrados
+hyper: @en_gooseneck
+hyper: @en_intrados
+hyper: @en_line_roulette
+hyper: @en_perversion
+hyper: @en_undulation
+hyper: Hélice
+hyper: Quádricas
+hyper: arco 1
+hyper: arco 2
+hyper: arco 3
+hyper: arco 4
+hyper: catenária
+hyper: crescente
+hyper: espiral
+hyper: gancho
+hyper: sinuosidade
+hypo: reta 1
+sa: @en:noun.shape:curve
+
+w: arco 1
+d: @en_a continuous portion of a circle
+hp: @en_sector
+hp: círculo
+hyper: noun.artifact:@en_limb 1
+hypo: arco
+sa: @en:noun.shape:arc
+
+w: arco 2
+d: @en_a curved shape in the vertical plane that spans an opening
+hypo: arco
+sa: @en:noun.shape:arch
+
+w: arco 3
+d: @en_a circular segment of a curve
+hyper: @en_bight
+hypo: arco
+sa: @en:noun.shape:bend 2
+
+w: arco 4
+d: @en_something curved in shape
+hyper: noun.object:Arco-iris
+hypo: arco
+sa: @en:noun.shape:arc 1
+
+w: articulação
+w: junção
+w: ligação
+d: @en_the shape or manner in which things come together and a connection is made
+hyper: noun.body:@en_esophagogastric_junction
+hypo: ligação 1
+sa: @en:noun.shape:articulation
+
+w: base
+d: @en_the bottom side of a geometric figure from which the altitude can be constructed
+hypo: flanco
+sa: @en:noun.shape:base
+
+w: bifurcação
+d: @en_a bifurcating branch (one or both of them)
+hp: @en_bifurcation
+hypo: @en_branch
+sa: @en:noun.shape:bifurcation 1
+
+w: bifurcação 1
+d: @en_the region of the angle formed by the junction of two branches
+hypo: @en_branch
+sa: @en:noun.shape:crotch
+
+w: bissetriz
+w: linha_central
+d: @en_a line that bisects a plane figure
+hypo: reta 1
+sa: @en:noun.shape:center_line
+
+w: bloco
+w: cubo
+d: uma forma tridimensional com seis faces quadradas ou rectangulares
+hyper: noun.artifact:@en_goldbrick
+hypo: sólida
+sa: @en:noun.shape:block 1
+
+w: bola 1
+w: esfera 1
+d: @en_a solid figure bounded by a spherical surface (including the space it encloses)
+hyper: @en_conglobation
+hyper: bola 3
+hyper: gota
+hypo: forma_redonda
+sa: @en:noun.shape:sphere
+
+w: bola 2
+w: pelota
+d: @en_a small sphere
+hypo: bola 3
+sa: @en:noun.shape:pellet
+
+w: bola 3
+w: esfera 2
+w: orbe
+d: @en_an object with a spherical shape
+hyper: noun.artifact:@en_camphor_ball
+hyper: noun.artifact:@en_time-ball
+hyper: noun.artifact:bola_de_cristal
+hyper: noun.object:@en_fireball
+hyper: noun.object:@en_fireball 1
+hyper: noun.object:glóbulo
+hyper: @en_bolus
+hyper: bola 2
+hyper: esférula
+hypo: bola 1
+sa: @en:noun.shape:ball
+
+w: borda
+d: @en_the shape of a raised edge of a more or less circular object
+hypo: borda 2
+hypo: forma_redonda
+sa: @en:noun.shape:rim
+
+w: borda 1
+w: limite
+w: margem
+w: periferia
+d: @en_the outside boundary or surface of something
+hypo: borda 2
+sa: @en:noun.shape:fringe
+
+w: borda 2
+w: fronteira
+w: limite 1
+w: margem_interior
+d: @en_a line determining the limits of an area
+hyper: @en_lower_bound
+hyper: @en_thalweg
+hyper: @en_upper_bound
+hyper: borda
+hyper: borda 1
+hyper: borda 3
+hyper: borda 4
+hypo: reta 1
+sa: @en:noun.shape:bound
+
+w: borda 3
+w: fronteira 1
+w: limite 2
+w: perímetro
+d: @en_the boundary line or the area immediately inside the boundary
+hyper: noun.animal:@en_lip
+hypo: borda 2
+sa: @en:noun.shape:border
+
+w: borda 4
+w: fronteira 2
+w: fronteiras_nacionais
+w: limite 3
+w: margem 1
+d: @en_a region marking a boundary
+hypo: borda 2
+sa: @en:noun.shape:brink
+
+w: buraco
+d: @en_an unoccupied space
+hyper: @en_pore
+hypo: espaço
+sa: @en:noun.shape:hole
+
+w: cacho
+d: @en_a sharp bend in a line produced when a line having a loop is pulled tight
+hypo: dobra
+sa: @en:noun.shape:kink
+
+w: cano
+w: duto
+w: tubo
+d: @en_a hollow cylindrical shape
+hypo: cilindro
+sa: @en:noun.shape:pipe
+
+w: cardióide
+d: @en_an epicycloid in which the rolling circle equals the fixed circle
+hypo: @en_epicycloid
+sa: @en:noun.shape:cardioid
+
+w: catenária
+d: @en_the curve theoretically assumed by a perfectly flexible and inextensible cord of uniform density and cross section hanging freely from two fixed points
+hypo: arco
+sa: @en:noun.shape:catenary
+
+w: cauda
+d: @en_any projection that resembles the tail of an animal
+hypo: @en_projection
+sa: @en:noun.shape:tail
+
+w: cavidade
+d: @en_space that is surrounded by something
+hyper: @en_hollow
+hyper: saca
+hypo: espaço
+sa: @en:noun.shape:cavity
+
+w: cilindro
+d: @en_a surface generated by rotating a parallel line around a fixed line
+hyper: noun.artifact:@en_shank
+hyper: noun.artifact:@en_shank 1
+hyper: noun.artifact:@en_shank 2
+hyper: noun.artifact:tambor 1
+hyper: noun.object:@en_stalactite
+hyper: noun.object:estalagmite
+hyper: cano
+hyper: tambor
+hypo: forma_redonda
+sa: @en:noun.shape:cylinder
+
+w: cilindro 1
+d: @en_a solid bounded by a cylindrical surface and two parallel planes (the bases)
+hyper: noun.artifact:@en_roller 2
+hyper: noun.artifact:rolo
+hypo: sólida
+sa: @en:noun.shape:cylinder 2
+
+w: coluna
+d: @en_anything that approximates the shape of a column or tower
+hyper: @en_columella
+hyper: @en_hoodoo
+hypo: noun.Tops:forma
+sa: @en:noun.shape:column 2
+
+w: concavidade
+d: @en_a shape that curves or bends inward
+hyper: @en_bowl
+hyper: @en_cup
+hyper: @en_dome
+hyper: @en_fossa
+hyper: @en_indentation
+hyper: @en_pocket 1
+hyper: impressão
+hyper: nicho
+hypo: sólida
+sa: @en:noun.shape:concave_shape
+
+w: cone
+d: @en_a shape whose base is a circle and whose sides taper up to a point
+hyper: @en_funnel
+hypo: forma_redonda
+mp: _pico
+sa: @en:noun.shape:cone
+
+w: constricção
+w: ponto_de_estrangulamento
+d: @en_a narrowing that reduces the flow through a channel
+hypo: noun.attribute:@en_narrowing
+sa: @en:noun.shape:bottleneck
+
+w: contrapeso
+w: equilíbrio
+d: @en_equality of distribution
+hyper: @en_conformation
+hyper: Simetria
+hypo: noun.artifact:edifício 1
+sa: @en:noun.shape:balance
+
+w: convexidade
+d: @en_a shape that curves or bulges outward
+hyper: noun.body:@en_umbo
+hyper: @en_camber
+hyper: @en_knob
+hyper: @en_projection
+hyper: @en_ridge
+hyper: @en_taper
+hyper: _pico
+hyper: entasis
+hypo: sólida
+sa: @en:noun.shape:convex_shape
+
+w: coração
+d: @en_a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines
+hypo: figura_de_duas_dimensões
+sa: @en:noun.shape:heart
+
+w: corda
+d: @en_a straight line connecting two points on a curve
+hypo: recta
+sa: @en:noun.shape:chord
+
+w: crescente
+d: @en_any shape resembling the curved shape of the moon in its first or last quarters
+hypo: arco
+sa: @en:noun.shape:crescent
+
+w: cubo 1
+d: @en_a hexahedron with six equal squares as faces
+hyper: @en_quadrate
+hyper: tesserato
+hypo: Sólido_platónico
+sa: @en:noun.shape:cube
+
+w: cunha
+d: @en_any shape that is triangular in cross section
+hypo: Triangulo
+sa: @en:noun.shape:cuneus
+
+w: círculo
+d: @en_ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point
+hyper: noun.attribute:@en_circle_of_curvature
+hyper: @en_circlet
+hyper: @en_epicycle
+hyper: @en_equator
+hypo: elipse
+mp: arco 1
+sa: @en:noun.shape:circle
+
+w: cónica
+w: cônica
+w: seção_cônica
+d: @en_(geometry) a curve generated by the intersection of a plane and a circular cone
+hyper: elipse
+hyper: hipérbole
+hyper: parábola
+hypo: figura_de_duas_dimensões
+mt: noun.cognition:geometria
+sa: @en:noun.shape:conic
+
+w: declinação_magnética
+d: @en_the angle (at a particular location) between magnetic north and true north
+hypo: Ângulos
+sa: @en:noun.shape:magnetic_declination
+
+w: decágono
+d: @en_a polygon with 10 sides and 10 angles
+hypo: polígono
+sa: @en:noun.shape:decagon
+
+w: desproporção
+d: @en_lack of proportion; imbalance among the parts of something
+hypo: noun.attribute:disparidade
+sa: @en:noun.shape:disproportion
+
+w: diagonais_de_um_polígono
+w: diagonal
+d: @en_a line or cut across a fabric that is not at right angles to a side of the fabric
+hypo: recta
+sa: @en:noun.shape:bias
+
+w: diagonal 1
+d: @en_(geometry) a straight line connecting any two vertices of a polygon that are not adjacent
+hypo: recta
+mt: noun.cognition:geometria
+sa: @en:noun.shape:diagonal 1
+
+w: disco
+d: @en_something with a round shape resembling a flat circular plate
+hyper: noun.body:Disco_intervertebral
+hyper: ponto
+hypo: forma_redonda
+sa: @en:noun.shape:disc
+
+w: dobra
+d: @en_an angular or rounded shape made by folding
+hyper: noun.artifact:plissado
+hyper: @en_pucker
+hyper: cacho
+hypo: @en_angular_shape
+sa: @en:noun.shape:bend 1
+
+w: dodecaedro
+d: @en_any polyhedron having twelve plane faces
+hypo: Poliedros
+sa: @en:noun.shape:dodecahedron
+
+w: dodecágono
+d: @en_a twelve-sided polygon
+hypo: polígono
+sa: @en:noun.shape:dodecagon
+
+w: dupla_hélice
+d: @en_a pair of parallel helices intertwined about a common axis
+hypo: Hélice
+sa: @en:noun.shape:double_helix
+
+w: elipse
+w: oval
+d: @en_a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it
+hyper: círculo
+hypo: cónica
+sa: @en:noun.shape:ellipse
+
+w: eneágono
+d: @en_a nine-sided polygon
+hypo: polígono
+sa: @en:noun.shape:nonagon
+
+w: entasis
+d: @en_a slight convexity in the shaft of a column; compensates for the illusion of concavity that viewers experience when the sides are perfectly straight
+hp: noun.artifact:Coluna
+hypo: convexidade
+sa: @en:noun.shape:entasis
+
+w: equilátero
+d: @en_a figure whose sides are all equal
+hypo: figura
+sa: @en:noun.shape:equilateral
+
+w: esférula
+d: @en_a small sphere
+hypo: bola 3
+sa: @en:noun.shape:spherule
+
+w: espaço
+d: @en_an empty area (usually bounded in some way between things)
+hyper: noun.artifact:@en_compartment
+hyper: noun.artifact:@en_crenel
+hyper: noun.body:@en_pleural_space
+hyper: noun.body:Espaço_subaracnóideo
+hyper: noun.object:@en_enclosure
+hyper: noun.object:extensão
+hyper: noun.object:fenda 5
+hyper: noun.quantity:@en_swath
+hyper: @en_pocket
+hyper: buraco
+hyper: cavidade
+hyper: vacância
+hyper: Ângulos
+hypo: noun.Tops:localização
+hypo: @en_amorphous_shape
+sa: @en:noun.shape:space
+
+w: espiral
+d: @en_a plane curve traced by a point circling about the center but at increasing distances from the center
+hypo: arco
+sa: @en:noun.shape:spiral
+
+w: estrela
+d: @en_a plane figure with 5 or more points; often used as an emblem
+hyper: @en_asterism
+hyper: hexagrama
+hyper: pentagrama
+hypo: figura_de_duas_dimensões
+sa: @en:noun.shape:star
+
+w: estria
+d: @en_any of a number of tiny parallel grooves such as: the scratches left by a glacier on rocks or the streaks or ridges in muscle tissue
+hypo: ranhura
+sa: @en:noun.shape:stria
+
+w: excrescência
+w: giba
+w: montículo
+w: protuberância
+w: saliência
+d: @en_something that bulges out or is protuberant or projects from its surroundings
+hyper: noun.body:@en_frontal_eminence
+hyper: noun.body:@en_occipital_protuberance
+hyper: @en_belly
+hyper: @en_caput
+hyper: @en_mogul
+hyper: @en_nub
+hyper: @en_snag
+hyper: verruga
+hypo: @en_projection
+sa: @en:noun.shape:bulge
+
+w: figura
+d: @en_a combination of points and lines and planes that form a visible palpable shape
+hyper: @en_solid_figure
+hyper: @en_subfigure
+hyper: Retas_Paralelas
+hyper: equilátero
+hyper: figura_de_duas_dimensões
+hyper: lápis
+hypo: noun.Tops:forma
+sa: @en:noun.shape:figure
+
+w: figura_de_duas_dimensões
+w: figura_plana
+d: @en_a two-dimensional shape
+hyper: @en_oblong
+hyper: @en_sector
+hyper: Elipsoide
+hyper: Parabolóide
+hyper: Semi-círculo
+hyper: coração
+hyper: cónica
+hyper: estrela
+hyper: polígono
+hyper: árvore
+hypo: figura
+sa: @en:noun.shape:plane_figure
+
+w: flambagem
+d: @en_a shape that sags
+hypo: impressão
+sa: @en:noun.shape:droop
+
+w: flanco
+d: @en_a subfigure consisting of a side of something
+hyper: base
+hyper: hipotenusa
+hypo: @en_subfigure
+sa: @en:noun.shape:flank
+
+w: forma_redonda
+d: @en_a shape that is curved and without sharp angles
+hyper: @en_bulb
+hyper: @en_coil
+hyper: Esfera
+hyper: Esferoide
+hyper: bola 1
+hyper: borda
+hyper: cilindro
+hyper: cone
+hyper: disco
+hyper: redemoinho
+hyper: toro
+hypo: noun.Tops:forma
+sa: @en:noun.shape:round_shape
+
+w: gancho
+w: volta
+d: @en_a sharp curve or crook; a shape resembling a hook
+hyper: @en_uncus
+hypo: arco
+sa: @en:noun.shape:crotchet
+
+w: geodésica
+w: geodésico
+d: @en_(mathematics) the shortest line between two points on a mathematically defined surface (as a straight line on a plane or an arc of a great circle on a sphere)
+hypo: reta 1
+mt: noun.cognition:Matematica
+sa: @en:noun.shape:geodesic
+
+w: gota
+w: pérola
+d: @en_a shape that is spherical and small
+hyper: @en_dewdrop
+hyper: lágrima
+hypo: bola 1
+sa: @en:noun.shape:bead
+
+w: hemisfério
+d: @en_half of a sphere
+hypo: @en_subfigure
+sa: @en:noun.shape:hemisphere
+
+w: hendecágono
+d: @en_an eleven-sided polygon
+hypo: polígono
+sa: @en:noun.shape:undecagon
+
+w: heptágono
+d: @en_a seven-sided polygon
+hypo: polígono
+sa: @en:noun.shape:heptagon
+
+w: hexaedro
+d: @en_any polyhedron having six plane faces
+hyper: romboedro
+hypo: Poliedros
+sa: @en:noun.shape:hexahedron
+
+w: hexagrama
+d: @en_a regular polygon formed by extending each of the sides of a regular hexagon to form two equilateral triangles
+hyper: noun.communication:Estrela_de_Davi
+hypo: estrela
+sa: @en:noun.shape:hexagram
+
+w: hipotenusa
+d: @en_the side of a right triangle opposite the right angle
+hp: triângulo_reto
+hypo: flanco
+sa: @en:noun.shape:hypotenuse
+
+w: hipérbole
+d: @en_an open curve formed by a plane that cuts the base of a right circular cone
+hypo: cónica
+sa: @en:noun.shape:hyperbola
+
+w: icosaedro
+d: @en_any polyhedron having twenty plane faces
+hypo: Poliedros
+sa: @en:noun.shape:icosahedron
+
+w: impressão
+d: @en_a concavity in a surface produced by pressing
+hyper: noun.body:covinha
+hyper: @en_dent
+hyper: @en_dimple
+hyper: @en_dip 1
+hyper: abertura
+hyper: flambagem
+hyper: ranhura
+hyper: ruga
+hypo: concavidade
+sa: @en:noun.shape:depression
+
+w: interseção
+d: @en_a point or set of points common to two or more geometric configurations
+hyper: noun.cognition:Origem_de_coordenadas
+hypo: noun.group:conjunto 2
+sa: @en:noun.shape:intersection
+
+w: laço
+d: @en_anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)
+hyper: noun.artifact:@en_drip_loop
+hyper: noun.artifact:Nó_de_correr
+hyper: noun.artifact:banda 1
+hyper: noun.artifact:correia
+hyper: noun.communication:@en_lobe
+hyper: @en_bight 1
+hypo: @en_Jordan_curve
+sa: @en:noun.shape:loop
+
+w: ligação 1
+d: @en_a connecting shape
+hyper: articulação
+hyper: nó
+hypo: noun.Tops:forma
+sa: @en:noun.shape:connection
+
+w: limite 4
+w: perímetro 1
+d: @en_a line enclosing a plane areas
+hypo: reta 1
+sa: @en:noun.shape:perimeter 1
+
+w: losango
+d: @en_a parallelogram with four equal sides; an oblique-angled equilateral parallelogram
+hypo: paralelogramo
+sa: @en:noun.shape:diamond
+
+w: lágrima
+d: @en_anything shaped like a falling drop (as a pendant gem on an earring)
+hypo: gota
+sa: @en:noun.shape:teardrop
+
+w: lápis
+d: @en_a figure formed by a set of straight lines or light rays meeting at a point
+hypo: figura
+mt: noun.cognition:Fisica
+mt: noun.cognition:geometria
+sa: @en:noun.shape:pencil
+
+w: nicho
+d: @en_a small concavity
+hyper: noun.body:@en_pharyngeal_recess
+hypo: concavidade
+sa: @en:noun.shape:corner
+
+w: nó
+d: @en_a connecting point at which several lines come together
+hypo: ligação 1
+sa: @en:noun.shape:node 2
+
+w: octaedro
+d: @en_any polyhedron having eight plane faces
+hypo: Poliedros
+sa: @en:noun.shape:octahedron
+
+w: ondulação
+d: @en_a ridge on a corrugated surface
+hypo: @en_ridge
+sa: @en:noun.shape:corrugation
+
+w: paralelogramo
+d: @en_a quadrilateral whose opposite sides are both parallel and equal in length
+hyper: @en_rhomboid
+hyper: Retangulo
+hyper: losango
+hypo: quadrilátero
+sa: @en:noun.shape:parallelogram
+
+w: parábola
+d: @en_a plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve
+hypo: cónica
+sa: @en:noun.shape:parabola
+
+w: pentagrama
+d: @en_a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon
+hypo: estrela
+sa: @en:noun.shape:pentacle
+
+w: plano_orbital
+d: @en_(astronomy) the plane on which a body is orbiting
+hypo: Plano
+mt: noun.cognition:Astronomia
+sa: @en:noun.shape:orbital_plane
+
+w: polígono
+d: @en_a closed plane figure bounded by straight sides
+hyper: @en_concave_polygon
+hyper: @en_isogon
+hyper: @en_spherical_polygon
+hyper: Hexagono
+hyper: Octogono
+hyper: Pentagono
+hyper: Triangulo
+hyper: decágono
+hyper: dodecágono
+hyper: eneágono
+hyper: hendecágono
+hyper: heptágono
+hyper: polígono_convexo
+hyper: quadrilátero
+hypo: figura_de_duas_dimensões
+sa: @en:noun.shape:polygon
+
+w: polígono_convexo
+d: @en_a polygon such that no side extended cuts any other side or vertex; it can be cut by a straight line in at most two points
+hypo: polígono
+sa: @en:noun.shape:convex_polygon
+
+w: polígono_regular
+d: @en_a polygon with all sides and all angles equal
+hyper: @en_equiangular_triangle
+hyper: Quadrado
+hypo: @en_isogon
+sa: @en:noun.shape:regular_polygon
+
+w: ponto
+d: @en_a very small circular shape
+hypo: disco
+sa: @en:noun.shape:dot
+
+w: prisma
+d: @en_a polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms
+hyper: @en_quadrangular_prism
+hyper: @en_triangular_prism
+hyper: Paralelepipedo
+hypo: Poliedros
+sa: @en:noun.shape:prism
+
+w: quadrado 1
+d: @en_a square-shaped object
+hypo: Quadrado
+sa: @en:noun.shape:quadrate 1
+
+w: quadrilátero
+d: @en_a four-sided polygon
+hyper: paralelogramo
+hyper: trapézio
+hyper: trapézio 1
+hypo: polígono
+sa: @en:noun.shape:quadrangle
+
+w: raio
+d: @en_(mathematics) a straight line extending from a point
+hypo: vector
+mt: noun.cognition:Matematica
+sa: @en:noun.shape:ray
+
+w: raio 1
+d: @en_a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)
+hypo: recta
+sa: @en:noun.shape:radius
+
+w: ranhura
+d: @en_a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)
+hyper: noun.artifact:@en_dado 2
+hyper: noun.artifact:@en_flute 1
+hyper: noun.artifact:@en_quirk
+hyper: noun.artifact:@en_rabbet
+hyper: noun.artifact:@en_track 1
+hyper: @en_washout
+hyper: andada
+hyper: estria
+hypo: impressão
+sa: @en:noun.shape:channel
+
+w: recta
+w: reta
+d: @en_a line traced by a point traveling in a constant direction; a line of zero curvature
+hyper: @en_element
+hyper: Assimptota
+hyper: Diamêtro
+hyper: Perpendicularidade
+hyper: corda
+hyper: diagonais_de_um_polígono
+hyper: diagonal 1
+hyper: raio 1
+hyper: secante
+hyper: tangente
+hyper: vector
+hypo: reta 1
+sa: @en:noun.shape:straight_line
+
+w: redemoinho
+w: turbilhão
+w: vórtice
+d: @en_the shape of something rotating rapidly
+hypo: forma_redonda
+sa: @en:noun.shape:convolution
+
+w: reta 1
+d: @en_a length (straight or curved) without breadth or thickness; the trace of a moving point
+hyper: noun.communication:Curvas
+hyper: arco
+hyper: bissetriz
+hyper: borda 2
+hyper: geodésica
+hyper: limite 4
+hyper: recta
+hypo: noun.Tops:forma
+sa: @en:noun.shape:line
+
+w: romboedro
+d: @en_a parallelepiped bounded by six similar faces (either rhombuses or parallelograms)
+hypo: Paralelepipedo
+hypo: hexaedro
+sa: @en:noun.shape:rhombohedron
+
+w: ruga
+w: sulco
+d: @en_a slight depression in the smoothness of a surface
+hp: noun.body:Pele
+hyper: @en_crow's_feet
+hyper: @en_dermatoglyphic
+hyper: @en_frown_line
+hyper: @en_heart_line
+hyper: @en_life_line
+hyper: @en_line_of_Saturn
+hypo: impressão
+sa: @en:noun.shape:crease 1
+
+w: saca
+w: saco
+d: @en_an enclosed space
+hypo: cavidade
+sa: @en:noun.shape:pocket
+
+w: secante
+d: @en_a straight line that intersects a curve at two or more points
+hypo: recta
+sa: @en:noun.shape:secant
+
+w: sinuosidade
+d: @en_having curves
+hypo: arco
+sa: @en:noun.shape:sinuosity
+
+w: sólida
+w: sólido
+d: @en_a three-dimensional shape
+hyper: @en_cast
+hyper: @en_ovoid
+hyper: @en_toroid
+hyper: Poliedros
+hyper: Tronco_de_bases_paralelas
+hyper: bloco
+hyper: cilindro 1
+hyper: concavidade
+hyper: convexidade
+hypo: noun.Tops:forma
+sa: @en:noun.shape:solid
+
+w: tambor
+d: @en_a bulging cylindrical shape; hollow with flat ends
+hypo: cilindro
+sa: @en:noun.shape:barrel
+
+w: tangente
+d: @en_a straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point
+hypo: recta
+sa: @en:noun.shape:tangent
+
+w: tesserato
+d: @en_the four-dimensional analogue of a cube
+hypo: cubo 1
+sa: @en:noun.shape:tesseract
+
+w: tetraedro
+d: @en_any polyhedron having four plane faces
+hypo: Poliedros
+sa: @en:noun.shape:tetrahedron
+
+w: toro
+d: @en_a ring-shaped surface generated by rotating a circle around an axis that does not intersect the circle
+hyper: noun.artifact:@en_core 1
+hypo: forma_redonda
+sa: @en:noun.shape:toroid
+
+w: trapezoedro
+d: @en_a polyhedron whose faces are trapeziums
+hypo: Poliedros
+sa: @en:noun.shape:trapezohedron
+
+w: trapézio
+d: @en_a quadrilateral with two parallel sides
+hypo: quadrilátero
+mr: noun.location:América
+sa: @en:noun.shape:trapezoid
+
+w: trapézio 1
+d: @en_a quadrilateral with no parallel sides
+hypo: quadrilátero
+mr: noun.location:América
+sa: @en:noun.shape:trapezium
+
+w: triângulo 1
+d: @en_something approximating the shape of a triangle
+hypo: noun.Tops:forma
+sa: @en:noun.shape:triangle 1
+
+w: triângulo_reto
+d: @en_a triangle with one right angle
+hypo: Triangulo
+mp: hipotenusa
+sa: @en:noun.shape:right-angled_triangle
+
+w: vacância
+w: vaga
+w: vazio
+w: vácuo
+d: @en_an empty area or space
+hypo: espaço
+sa: @en:noun.shape:emptiness
+
+w: vector
+w: vetor
+d: @en_a straight line segment whose length is magnitude and whose orientation in space is direction
+hyper: raio
+hypo: recta
+sa: @en:noun.shape:vector
+
+w: verruga
+d: @en_any small rounded protuberance (as on certain plants or animals)
+hypo: excrescência
+mt: noun.Tops:animal
+sa: @en:noun.shape:wart
+
+w: Ângulo_complementar
+d: @en_two angles whose sum is a right angle
+hypo: Ângulos
+sa: @en:noun.shape:complementary_angles
+
+w: Ângulo_oposto_pelo_vértice
+d: @en_either of two equal and opposite angles formed by the intersection of two straight lines
+hypo: Ângulos
+sa: @en:noun.shape:vertical_angle
+
+w: Ângulo_recto
+w: ângulo_reto
+d: @en_the 90 degree angle between two perpendicular lines
+hypo: Ângulos
+mp: noun.quantity:Grado
+sa: @en:noun.shape:right_angle
+
+w: Ângulo_visual
+d: @en_the angle included by a photographic lens
+hypo: Ângulos
+sa: @en:noun.shape:angle_of_view
+
+w: Ângulos
+w: ângulo
+d: @en_the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians
+hyper: noun.body:entreperna
+hyper: noun.plant:@en_axil
+hyper: @en_angle_of_dip
+hyper: @en_angle_of_extinction
+hyper: @en_angle_of_incidence
+hyper: @en_angle_of_reflection
+hyper: @en_angle_of_refraction
+hyper: @en_angular_distance
+hyper: @en_cutting_angle
+hyper: @en_dogleg
+hyper: @en_exterior_angle
+hyper: @en_face_angle
+hyper: @en_helix_angle
+hyper: @en_inclination 1
+hyper: @en_interior_angle
+hyper: @en_lead
+hyper: @en_oblique_angle
+hyper: @en_plane_angle
+hyper: @en_polyhedral_angle
+hyper: @en_reflex_angle
+hyper: @en_salient_angle
+hyper: @en_spherical_angle
+hyper: @en_tilt_angle
+hyper: @en_wave_angle
+hyper: Azimute
+hyper: Inclinação
+hyper: declinação_magnética
+hyper: Ângulo_complementar
+hyper: Ângulo_oposto_pelo_vértice
+hyper: Ângulo_recto
+hyper: Ângulo_visual
+hyper: ângulo_de_giro
+hyper: ângulo_sólido
+hypo: espaço
+sa: @en:noun.shape:angle
+
+w: árvore
+d: @en_a figure that branches from a single root
+hyper: @en_cladogram
+hyper: @en_stemma
+hypo: figura_de_duas_dimensões
+sa: @en:noun.shape:tree
+
+w: ângulo_de_ataque
+d: @en_the acute angle between the direction of the undisturbed relative wind and the chord of an airfoil
+hypo: @en_angle_of_incidence
+sa: @en:noun.shape:angle_of_attack
+
+w: ângulo_de_giro
+d: @en_an angle of 360 degrees
+hypo: Ângulos
+sa: @en:noun.shape:perigon
+
+w: ângulo_horário
+d: @en_(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day
+hypo: @en_angular_distance
+mt: noun.cognition:Astronomia
+sa: @en:noun.shape:HA
+
+w: ângulo_sólido
+d: @en_an angle formed by three or more planes intersecting at a common point (the vertex)
+hypo: Ângulos
+sa: @en:noun.shape:solid_angle
+

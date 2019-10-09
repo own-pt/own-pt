@@ -1,0 +1,4298 @@
+verb.body
+
+w: @en_abort
+d: @en_cease development, die, and be aborted
+fs: 1
+hypo: verb.change:bater_as_botas
+sa: @en:verb.body:abort 1
+
+w: @en_ail
+w: @en_pain
+w: @en_trouble
+d: @en_cause bodily suffering to and make sick or indisposed
+fs: 10
+hyper: verb.change:recrudescer 1
+hypo: aleijar 1
+sa: @en:verb.body:ail 1
+
+w: @en_ail 1
+d: @en_be ill or unwell
+fs: 2
+hypo: doer 1
+sa: @en:verb.body:ail
+
+w: @en_alter
+w: @en_castrate
+w: @en_neuter
+w: @en_spay
+d: @en_remove the ovaries of
+fs: 9
+hyper: @en_defeminise
+hypo: esterilizar
+sa: @en:verb.body:alter
+
+w: @en_ancylose
+w: @en_ankylose
+d: @en_produce ankylosis by surgery
+fs: 8
+hypo: verb.contact:acoplar 1
+mt: noun.act:Incisão
+sa: @en:verb.body:ancylose 1
+
+w: @en_ancylose 1
+w: @en_ankylose 1
+d: @en_undergo ankylosis
+fs: 1
+hypo: verb.change:crescer 6
+mt: noun.act:Incisão
+sa: @en:verb.body:ancylose
+
+w: @en_arrange
+w: @en_coif
+w: @en_coiffe
+w: @en_coiffure
+w: @en_do
+w: @en_dress
+w: @en_set
+d: @en_arrange attractively
+fs: 8
+hyper: @en_bob
+hyper: @en_wave
+hypo: cuidar-se
+sa: @en:verb.body:arrange
+vg: @en_curry
+
+w: @en_autoclave
+d: @en_subject to the action of an autoclave
+fs: 8
+hypo: esterilizar 1
+sa: @en:verb.body:autoclave
+
+w: @en_bat
+w: @en_flutter
+d: @en_wink briefly
+fs: 8
+hypo: pestanejar
+sa: @en:verb.body:bat
+
+w: @en_bathe
+d: @en_cleanse the entire body
+fs: 2
+hyper: @en_shower
+hypo: lavar
+sa: @en:verb.body:bathe
+
+w: @en_bawl
+d: @en_cry loudly
+fs: 2
+hypo: choramingar
+sa: @en:verb.body:bawl
+
+w: @en_bed_down
+w: @en_bunk_down
+d: @en_go to bed
+fs: 2 22
+hyper: @en_crash
+hypo: cair_no_sono_aos_poucos
+sa: @en:verb.body:bed_down
+
+w: @en_bedizen
+w: @en_dizen
+d: @en_dress up garishly and tastelessly
+fs: 9
+hypo: arrumar-se 1
+sa: @en:verb.body:bedizen
+
+w: @en_bellylaugh
+d: @en_laugh a deep, hearty laugh
+fs: 2
+hypo: gargalhar
+sa: @en:verb.body:bellylaugh
+
+w: @en_bend_over_backwards
+w: @en_fall_over_backwards
+d: @en_try very hard to please someone
+fs: 2
+hypo: agir
+sa: @en:verb.body:bend_over_backwards
+
+w: @en_black_out
+w: @en_pass_out
+w: @en_zonk_out
+d: @en_lose consciousness due to a sudden trauma, for example
+fs: 2
+hyper: desfalecer
+hypo: verb.change:revoltar
+sa: @en:verb.body:black_out
+
+w: @en_bleed
+w: @en_leech
+w: @en_phlebotomise
+w: @en_phlebotomize
+d: @en_draw blood
+fs: 9
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:bleed 1
+
+w: @en_blow
+d: @en_free of obstruction by blowing air through
+fs: 2
+hypo: ejetar
+sa: @en:verb.body:blow 1
+
+w: @en_blub
+w: @en_blubber
+w: @en_sniffle
+w: @en_snivel
+w: @en_snuffle
+d: @en_cry or whine with snuffling
+fs: 2
+hypo: choramingar
+sa: @en:verb.body:blub
+
+w: @en_bluster
+w: @en_swagger
+w: @en_swash
+d: @en_act in an arrogant, overly self-assured, or conceited manner
+fs: 2
+hypo: agir
+sa: @en:verb.body:bluster
+
+w: @en_bob
+d: @en_cut hair in the style of a bob
+fs: 8
+hypo: @en_arrange
+sa: @en:verb.body:bob
+
+w: @en_bonnet
+d: @en_dress in a bonnet
+fs: 9
+hypo: @en_hat
+sa: @en:verb.body:bonnet
+
+w: @en_break_down
+w: @en_collapse
+d: @en_collapse due to fatigue, an illness, or a sudden attack
+fs: 2
+hyper: @en_drop_like_flies
+hyper: @en_fall_over
+hypo: contrair 1
+sa: @en:verb.body:break_down
+
+w: @en_break_up
+w: @en_crack_up
+d: @en_laugh unrestrainedly
+fs: 2
+hypo: gargalhar
+sa: @en:verb.body:break_up
+
+w: @en_breed
+w: @en_multiply
+d: @en_have young (animals) or reproduce (organisms)
+fs: 1
+hyper: @en_pullulate
+hypo: gerar 2
+sa: @en:verb.body:breed
+
+w: @en_bring_around
+w: @en_bring_back
+w: @en_bring_round
+w: @en_bring_to
+d: @en_return to consciousness
+fs: 10 9
+hyper: _ressuscitar
+hypo: acordar 2
+sa: @en:verb.body:bring_around
+
+w: @en_bundle
+w: @en_practice_bundling
+d: @en_sleep fully clothed in the same bed with one's betrothed
+fs: 2
+hypo: capotar
+sa: @en:verb.body:bundle
+
+w: @en_bundle_up
+d: @en_dress warmly
+fs: 9
+hypo: arrumar-se
+sa: @en:verb.body:bundle_up
+
+w: @en_bungle
+d: @en_spoil by behaving clumsily or foolishly
+fs: 2
+hypo: agir
+sa: @en:verb.body:bungle
+
+w: @en_burn
+w: @en_sunburn
+d: @en_get a sunburn by overexposure to the sun
+fs: 2
+hypo: verb.change:colorir 2
+sa: @en:verb.body:burn
+
+w: @en_cachinnate
+d: @en_laugh loudly and in an unrestrained way
+fs: 2
+hypo: gargalhar
+sa: @en:verb.body:cachinnate
+
+w: @en_calk
+d: @en_injure with a calk
+fs: 8
+hypo: ferir 2
+sa: @en:verb.body:calk
+
+w: @en_call
+d: @en_rouse somebody from sleep with a call
+fs: 9
+hypo: acordar 2
+sa: @en:verb.body:call 5
+
+w: @en_canker
+d: @en_infect with a canker
+fs: 11
+hypo: contagiar
+sa: @en:verb.body:canker
+
+w: @en_canker 1
+d: @en_become infected with a canker
+fs: 1
+hypo: adoecer
+sa: @en:verb.body:canker 1
+
+w: @en_carry_to_term
+d: @en_carry out a pregnancy
+fs: 9 2
+entail: aguardar
+sa: @en:verb.body:carry_to_term
+
+w: @en_catch
+d: @en_contract
+fs: 8
+hyper: @en_catch_cold
+hypo: contagiar-se
+sa: @en:verb.body:catch 10
+vg: contagiar-se
+
+w: @en_catch_cold
+d: @en_come down with a cold
+fs: 2
+hypo: @en_catch
+sa: @en:verb.body:catch_cold
+
+w: @en_cathect
+d: @en_inject with libidinal energy
+fs: 10
+hypo: animar 1
+sa: @en:verb.body:cathect
+
+w: @en_cause_to_sleep
+d: @en_make fall asleep
+fs: 10 9
+cause: capotar
+hypo: verb.change:alterar 2
+sa: @en:verb.body:cause_to_sleep
+
+w: @en_chlorinate
+d: @en_disinfect with chlorine
+fs: 8
+hypo: desinfectar
+sa: @en:verb.body:chlorinate
+
+w: @en_chloroform
+d: @en_anesthetize with chloroform
+fs: 9
+hypo: anestesiar
+sa: @en:verb.body:chloroform
+
+w: @en_choke
+d: @en_breathe with great difficulty, as when experiencing a strong emotion
+fs: 2
+hypo: bafejar
+sa: @en:verb.body:choke
+
+w: @en_choke 1
+w: @en_gag
+d: @en_cause to retch or choke
+fs: 10
+hypo: @en_sicken
+sa: @en:verb.body:choke 1
+
+w: @en_chuff
+w: @en_huff
+w: @en_puff
+d: @en_blow hard and loudly
+fs: 2
+hypo: assoprar
+sa: @en:verb.body:chuff
+
+w: @en_coat
+d: @en_cover or provide with a coat
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:coat
+
+w: @en_cocainise
+w: @en_cocainize
+d: @en_anesthetize with cocaine
+fs: 9 10
+hypo: anestesiar
+sa: @en:verb.body:cocainise
+
+w: @en_concuss
+d: @en_injure the brain; sustain a concussion
+fs: 8
+hypo: ferir 2
+sa: @en:verb.body:concuss
+
+w: @en_conk_out
+w: @en_peter_out
+w: @en_poop_out
+w: @en_run_down
+w: @en_run_out
+d: @en_use up all one's strength and energy and stop working
+fs: 2
+hypo: fatigar
+sa: @en:verb.body:conk_out
+
+w: @en_corset
+d: @en_dress with a corset
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:corset
+
+w: @en_costume
+w: @en_dress_up
+d: @en_dress in a costume
+fs: 2 9
+hypo: vestir 7
+sa: @en:verb.body:costume
+vg: arrumar-se 1
+
+w: @en_cover
+w: @en_wrap_up
+d: @en_clothe, as if for protection from the elements
+fs: 8
+hypo: vestir 7
+sa: @en:verb.body:cover 15
+
+w: @en_cramp
+d: @en_affect with or as if with a cramp
+fs: 10
+hypo: afectar
+sa: @en:verb.body:cramp 1
+
+w: @en_cramp 1
+d: @en_suffer from sudden painful contraction of a muscle
+fs: 2
+hypo: contrair 1
+sa: @en:verb.body:cramp
+
+w: @en_crash
+w: @en_doss
+w: @en_doss_down
+d: @en_sleep in a convenient place
+fs: 22 2
+hypo: @en_bed_down
+sa: @en:verb.body:crash
+
+w: @en_crick
+d: @en_twist (a body part) into a strained position
+fs: 8
+hypo: verb.contact:girar 1
+sa: @en:verb.body:crick
+
+w: @en_cross-dress
+d: @en_dress in the clothes of the other sex
+fs: 2
+hypo: arrumar-se
+sa: @en:verb.body:cross-dress
+
+w: @en_cross-fertilise
+w: @en_cross-fertilize
+d: @en_undergo cross-fertilization; become fertile
+fs: 1
+hypo: verb.change:revoltar
+sa: @en:verb.body:cross-fertilise 1
+
+w: @en_cross-fertilise 1
+w: @en_cross-fertilize 1
+d: @en_cause to undergo cross-fertilization
+fs: 8
+cause: @en_cross-fertilise
+hypo: fecundar
+sa: @en:verb.body:cross-fertilise
+
+w: @en_cross-pollinate
+w: @en_pollenate
+w: @en_pollinate
+d: @en_fertilize by transfering pollen
+fs: 11 8
+hypo: fecundar
+sa: @en:verb.body:cross-pollinate
+
+w: @en_cry
+d: @en_bring into a particular state by crying
+fs: 20
+hypo: verb.change:alterar 2
+sa: @en:verb.body:cry 2
+vg: choramingar
+
+w: @en_cub
+d: @en_give birth to cubs
+fs: 1
+hypo: dar_à_luz
+sa: @en:verb.body:cub
+
+w: @en_cup
+w: @en_transfuse
+d: @en_treat by applying evacuated cups to the patient's skin
+fs: 9
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:cup
+
+w: @en_curry
+w: @en_dress 1
+w: @en_groom
+d: @en_give a neat appearance to
+fs: 8
+hypo: verb.change:embelezar
+sa: @en:verb.body:curry
+vg: @en_arrange
+
+w: @en_cut
+d: @en_have grow through the gums
+fs: 8
+hypo: adquirir
+sa: @en:verb.body:cut 4
+vg: @en_cut 2
+
+w: @en_cut 1
+w: @en_geld
+d: @en_cut off the testicles (of male animals such as horses)
+fs: 9 8
+hypo: capar
+sa: @en:verb.body:cut
+
+w: @en_cut 2
+d: @en_grow through the gums
+fs: 1
+hypo: verb.change:crescer 6
+sa: @en:verb.body:cut 14
+vg: @en_cut
+
+w: @en_de-energise
+w: @en_de-energize
+d: @en_deprive of energy
+fs: 10
+hypo: verb.change:enfraquecer 6
+sa: @en:verb.body:de-energise
+
+w: @en_defeminise
+w: @en_defeminize
+d: @en_remove the ovaries of (female mammals such as cats)
+fs: 8
+hypo: @en_alter
+sa: @en:verb.body:defeminise
+
+w: @en_dimple
+d: @en_produce dimples while smiling
+fs: 2
+hypo: sorrir
+sa: @en:verb.body:dimple
+
+w: @en_disable
+w: @en_handicap
+w: @en_incapacitate
+w: @en_invalid
+d: @en_injure permanently
+fs: 10 9
+hyper: @en_hock
+hypo: ferir 2
+sa: @en:verb.body:disable
+
+w: @en_disagree_with
+d: @en_not be very easily digestible
+fs: 10
+hypo: aleijar 1
+sa: @en:verb.body:disagree_with
+
+w: @en_distil
+w: @en_distill
+d: @en_give off (a liquid)
+fs: 11
+hypo: exsudar
+sa: @en:verb.body:distil
+
+w: @en_draw
+d: @en_cause to localize at one point
+fs: 1
+hyper: supurar
+hypo: verb.social:@en_localise
+sa: @en:verb.body:draw
+vg: verb.motion:sacar 2
+
+w: @en_dress 2
+w: @en_plume
+w: @en_preen
+w: @en_primp
+d: @en_dress or groom with elaborate care
+fs: 9 2
+hypo: arrumar-se 1
+sa: @en:verb.body:dress 5
+vg: arrumar-se
+
+w: @en_dress 3
+d: @en_apply a bandage or medication to
+fs: 8
+hyper: curativizar
+hyper: enfaixar
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:dress 2
+
+w: @en_dress_down
+w: @en_underdress
+d: @en_dress informally and casually
+fs: 2
+hypo: arrumar-se
+sa: @en:verb.body:dress_down
+
+w: @en_drop
+d: @en_give birth; used for animals
+fs: 11
+hypo: dar_à_luz
+sa: @en:verb.body:drop
+
+w: @en_drop_like_flies
+d: @en_rapidly collapse, die, or drop out in large numbers
+fs: 2 1
+hypo: @en_break_down
+sa: @en:verb.body:drop_like_flies
+
+w: @en_drowse
+d: @en_be on the verge of sleeping
+fs: 2
+hyper: cabecear
+hypo: cochilar 2
+sa: @en:verb.body:drowse
+
+w: @en_dung
+d: @en_defecate; used of animals
+fs: 1
+hypo: cagar
+sa: @en:verb.body:dung
+
+w: @en_empty
+w: @en_evacuate
+w: @en_void
+d: @en_excrete or discharge from the body
+fs: 8
+hyper: @en_suction
+hypo: expelir 1
+sa: @en:verb.body:empty
+
+w: @en_enrobe
+d: @en_adorn with a robe
+fs: 8
+hypo: arrumar-se 1
+sa: @en:verb.body:enrobe
+
+w: @en_entrance
+w: @en_spellbind
+d: @en_put into a trance
+fs: 10 9
+hypo: hipnotizar
+sa: @en:verb.body:entrance
+
+w: @en_etherise
+w: @en_etherize
+d: @en_anesthetize with ether
+fs: 9 10
+hypo: anestesiar
+sa: @en:verb.body:etherise
+
+w: @en_etiolate
+d: @en_make pale or sickly
+fs: 11
+hypo: verb.change:alterar 2
+sa: @en:verb.body:etiolate
+
+w: @en_exsert
+w: @en_extend
+w: @en_hold_out
+w: @en_put_out
+w: @en_stretch_forth
+w: @en_stretch_out
+d: @en_thrust or extend out
+fs: 8
+hyper: @en_hyperextend
+hypo: verb.communication:gesticular
+sa: @en:verb.body:exsert
+
+w: @en_extravasate
+d: @en_geology: cause molten material, such as lava, to pour forth
+fs: 1 11
+hypo: exsudar
+sa: @en:verb.body:extravasate
+
+w: @en_face-lift
+w: @en_lift
+d: @en_perform cosmetic surgery on someone's face
+fs: 8
+hypo: operar
+sa: @en:verb.body:face-lift
+
+w: @en_fall_back
+w: @en_lapse
+w: @en_recidivate
+w: @en_regress
+w: @en_relapse
+w: @en_retrogress
+d: @en_go back to bad behavior
+fs: 2
+hypo: verb.change:reverter 2
+sa: @en:verb.body:fall_back
+
+w: @en_fall_over
+w: @en_go_over
+d: @en_fall forward and down
+fs: 2
+hypo: @en_break_down
+sa: @en:verb.body:fall_over
+
+w: @en_feel
+d: @en_be conscious of a physical, mental, or emotional state
+fs: 7
+hyper: @en_feel_like_a_million
+hyper: @en_suffocate
+hypo: verb.stative:estar 2
+sa: @en:verb.body:feel
+
+w: @en_feel_like_a_million
+w: @en_feel_like_a_million_dollars
+d: @en_be in excellent health and spirits
+fs: 2
+hypo: @en_feel
+sa: @en:verb.body:feel_like_a_million
+
+w: @en_fester
+w: @en_maturate
+w: @en_suppurate
+d: @en_ripen and generate pus
+fs: 23
+hypo: ejetar
+sa: @en:verb.body:fester
+vg: supurar
+
+w: @en_fill_out
+w: @en_flesh_out
+w: @en_round
+d: @en_become round, plump, or shapely
+fs: 2
+hypo: engordar
+sa: @en:verb.body:fill_out
+
+w: @en_fleer
+d: @en_to smirk contemptuously
+fs: 22 2
+hypo: sorrir 2
+sa: @en:verb.body:fleer
+
+w: @en_floss
+d: @en_use dental floss to clean
+fs: 2 8
+hypo: lavar
+sa: @en:verb.body:floss
+
+w: @en_fluff
+w: @en_tease
+d: @en_ruffle (one's hair) by combing the ends towards the scalp, for a full effect
+fs: 8
+hypo: pentear
+sa: @en:verb.body:fluff
+
+w: @en_foment
+d: @en_bathe with warm water or medicated lotions
+fs: 8
+hypo: banhar-se
+sa: @en:verb.body:foment
+
+w: @en_force_out
+d: @en_emit or cause to move with force of effort
+fs: 8 11
+hypo: peidar
+sa: @en:verb.body:force_out
+
+w: @en_frazzle
+d: @en_exhaust physically or emotionally
+fs: 10
+hypo: exaurir 1
+sa: @en:verb.body:frazzle
+
+w: @en_freeze
+d: @en_anesthetize by cold
+fs: 9
+hypo: anestesiar
+mt: noun.act:cirurgia
+sa: @en:verb.body:freeze 1
+
+w: @en_frock
+d: @en_put a frock on
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:frock
+
+w: @en_froth
+d: @en_exude or expel foam
+fs: 2 1
+hyper: @en_lather
+hypo: exsudar
+sa: @en:verb.body:froth
+
+w: @en_fume
+w: @en_reek
+d: @en_be wet with sweat or blood, as of one's face
+fs: 1
+hypo: exsudar
+sa: @en:verb.body:fume
+
+w: @en_gain_vigor
+w: @en_percolate
+w: @en_perk
+w: @en_perk_up
+w: @en_pick_up
+d: @en_gain or regain energy
+fs: 2
+hypo: convalescer
+sa: @en:verb.body:gain_vigor
+
+w: @en_galvanise
+w: @en_galvanize
+d: @en_stimulate (muscles) by administering a shock
+fs: 8
+hypo: @en_shock 1
+sa: @en:verb.body:galvanise 2
+
+w: @en_gauffer
+w: @en_goffer
+d: @en_make wavy with a heated goffering iron
+fs: 8
+hypo: @en_wave
+sa: @en:verb.body:gauffer
+
+w: @en_gel
+w: @en_mousse
+d: @en_apply a styling gel to
+fs: 8
+hypo: cuidar-se
+sa: @en:verb.body:gel
+
+w: @en_generalise
+w: @en_generalize
+d: @en_become systemic and spread throughout the body
+fs: 1 4
+hypo: verb.contact:disseminar
+sa: @en:verb.body:generalise
+
+w: @en_giggle
+w: @en_titter
+d: @en_laugh nervously
+fs: 2
+hypo: gargalhar
+sa: @en:verb.body:giggle
+
+w: @en_give
+d: @en_proffer (a body part)
+fs: 15
+hypo: verb.possession:oferecer 7
+sa: @en:verb.body:give 10
+vg: @en_give 1
+
+w: @en_give 1
+d: @en_consent to engage in sexual intercourse with a man
+fs: 15
+hypo: verb.communication:aceitar
+sa: @en:verb.body:give 11
+vg: @en_give
+
+w: @en_granulate
+d: @en_form granulating tissue
+fs: 23
+hypo: @en_heal
+sa: @en:verb.body:granulate
+
+w: @en_guffaw
+w: @en_laugh_loudly
+d: @en_laugh boisterously
+fs: 2 22
+hypo: gargalhar
+sa: @en:verb.body:guffaw
+
+w: @en_gum
+d: @en_exude or form gum
+fs: 1
+hypo: exsudar
+sa: @en:verb.body:gum
+
+w: @en_habit
+d: @en_put a habit on
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:habit
+
+w: @en_hack
+w: @en_whoop
+d: @en_cough spasmodically
+fs: 2
+hypo: tossir
+sa: @en:verb.body:hack
+
+w: @en_hamstring
+d: aleijar cortando o tendão
+fs: 9
+hypo: aleijar
+sa: @en:verb.body:hamstring
+
+w: @en_hat
+d: @en_put on or wear a hat
+fs: 2
+hyper: @en_bonnet
+hypo: caber
+sa: @en:verb.body:hat
+
+w: @en_heal
+d: @en_get healthy again
+fs: 1 23
+hyper: @en_granulate
+hyper: @en_scab
+hyper: @en_skin_over
+hypo: verb.change:melhorar 4
+sa: @en:verb.body:heal
+
+w: @en_hock
+d: @en_disable by cutting the hock
+fs: 8
+hypo: @en_disable
+sa: @en:verb.body:hock
+
+w: @en_howl
+w: @en_roar
+d: @en_laugh unrestrainedly and heartily
+fs: 2
+hypo: gargalhar
+sa: @en:verb.body:howl
+
+w: @en_hyperextend
+d: @en_extend a joint beyond its normal range
+fs: 8
+hypo: @en_exsert
+sa: @en:verb.body:hyperextend
+
+w: @en_infuse
+d: @en_introduce into the body through a vein, for therapeutic purposes
+fs: 8
+hypo: injectar
+mt: noun.act:Incisão
+sa: @en:verb.body:infuse
+
+w: @en_inoculate
+d: @en_impregnate with the virus or germ of a disease in order to render immune
+fs: 8
+hypo: emprenhar 1
+sa: @en:verb.body:inoculate 4
+
+w: @en_insufflate
+d: @en_treat by blowing a powder or vapor into a bodily cavity
+fs: 8
+hypo: tratar
+sa: @en:verb.body:insufflate 1
+vg: insuflar
+
+w: @en_invigorate
+w: @en_reinvigorate
+d: @en_impart vigor, strength, or vitality to
+fs: 10
+hypo: animar 1
+sa: @en:verb.body:invigorate
+
+w: @en_irrigate
+d: @en_supply with a constant flow or sprinkling of some liquid, for the purpose of cooling, cleansing, or disinfecting
+fs: 8
+hypo: tratar
+sa: @en:verb.body:irrigate
+
+w: @en_jacket
+d: @en_put a jacket on
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:jacket
+
+w: @en_jaundice
+d: @en_affect with, or as if with, jaundice
+fs: 10
+hypo: afectar
+sa: @en:verb.body:jaundice
+
+w: @en_keep_down
+d: @en_manage not to throw up
+fs: 8
+sa: @en:verb.body:keep_down
+
+w: @en_keep_up
+d: @en_prevent from going to bed at night
+fs: 10 9
+cause: @en_sit_up
+sa: @en:verb.body:keep_up
+
+w: @en_lather
+d: @en_exude sweat or lather
+fs: 1
+hypo: @en_froth
+sa: @en:verb.body:lather 1
+
+w: @en_lave
+w: @en_wash_up
+d: @en_wash one's face and hands
+fs: 2
+hypo: refrescar
+sa: @en:verb.body:lave 2
+
+w: @en_lie_in
+d: @en_be in confinement for childbirth
+fs: 2
+entail: dar_à_luz
+sa: @en:verb.body:lie_in
+
+w: @en_ligate
+d: @en_bind with a bandage or ligature
+fs: 8
+hypo: enfaixar
+mt: noun.cognition:cirurgia
+sa: @en:verb.body:ligate
+
+w: @en_limber
+d: @en_cause to become limber
+fs: 8
+hypo: @en_warm_up 1
+sa: @en:verb.body:limber
+
+w: @en_limber_up
+w: @en_loosen_up
+w: @en_warm_up
+d: @en_make one's body limber or suppler by stretching, as if to prepare for strenuous physical activity
+fs: 2
+hypo: exercitar
+sa: @en:verb.body:limber_up
+
+w: @en_lipstick
+d: @en_apply lipstick to
+fs: 8 2
+hypo: maquiar
+sa: @en:verb.body:lipstick
+
+w: @en_make
+d: @en_behave in a certain way
+fs: 7
+hypo: agir
+sa: @en:verb.body:make 6
+
+w: @en_mar
+w: @en_mutilate
+d: @en_destroy or injure severely
+fs: 10 9
+hyper: verb.contact:@en_force_out
+hypo: mutilar
+sa: @en:verb.body:mar
+
+w: @en_marcel
+d: @en_make a marcel in a woman's hair
+fs: 8 2
+hypo: @en_wave
+sa: @en:verb.body:marcel
+
+w: @en_martyr
+w: @en_martyrise
+w: @en_martyrize
+d: @en_torture and torment like a martyr
+fs: 9
+hypo: atormentar
+sa: @en:verb.body:martyr
+
+w: @en_medicate
+d: @en_impregnate with a medicinal substance
+fs: 8
+hypo: verb.change:impregnar
+mt: noun.act:Incisão
+sa: @en:verb.body:medicate 1
+
+w: @en_menace
+d: @en_act in a threatening manner
+fs: 2
+hypo: agir
+sa: @en:verb.body:menace
+
+w: @en_metastasise
+w: @en_metastasize
+d: @en_spread throughout the body
+fs: 1 4
+hypo: verb.contact:disseminar
+sa: @en:verb.body:metastasise
+
+w: @en_mop
+w: @en_mow
+w: @en_pout
+d: @en_make a sad face and thrust out one's lower lip
+fs: 2
+hypo: fazer_careta
+sa: @en:verb.body:mop
+
+w: @en_narcotise
+w: @en_narcotize
+d: @en_administer narcotics to
+fs: 9
+hypo: dopar
+sa: @en:verb.body:narcotise
+
+w: @en_nick
+d: @en_mate successfully; of livestock
+fs: 1
+hypo: verb.contact:acasalar
+sa: @en:verb.body:nick
+
+w: @en_nod
+d: @en_let the head fall forward through drowsiness
+fs: 1 2
+sa: @en:verb.body:nod 3
+
+w: @en_nurse
+d: @en_try to cure by special care of treatment, of an illness or injury
+fs: 8
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:nurse
+
+w: @en_o.d.
+w: @en_overdose
+d: @en_dose too heavily
+fs: 2
+hypo: dopar
+sa: @en:verb.body:o.d.
+
+w: @en_obstipate
+d: @en_constipate severely
+fs: 10
+hypo: constipar
+sa: @en:verb.body:obstipate
+
+w: @en_optimise
+w: @en_optimize
+d: @en_act as an optimist and take a sunny view of the world
+fs: 2
+hypo: agir
+sa: @en:verb.body:optimise
+
+w: @en_overclothe
+w: @en_overdress
+d: @en_dress too warmly
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:overclothe
+
+w: @en_overfatigue
+w: @en_overtire
+w: @en_overweary
+d: @en_tire excessively
+fs: 9 10
+hypo: cansar-se
+sa: @en:verb.body:overfatigue
+
+w: @en_ovulate
+d: @en_produce and discharge eggs
+fs: 2
+hypo: ejetar
+sa: @en:verb.body:ovulate
+
+w: @en_pack
+d: @en_treat the body or any part of it by wrapping it, as with blankets or sheets, and applying compresses to it, or stuffing it to provide cover, containment, or therapy, or to absorb blood
+fs: 11
+hypo: tratar
+sa: @en:verb.body:pack
+
+w: @en_pack_on
+d: @en_gain (weight)
+fs: 8
+hypo: engordar
+sa: @en:verb.body:pack_on
+
+w: @en_palpebrate
+d: @en_wink or blink, especially repeatedly
+fs: 2
+hypo: pestanejar
+sa: @en:verb.body:palpebrate
+
+w: @en_pedicure
+d: @en_care for one's feet by cutting and shaping the nails, etc.
+fs: 8
+hypo: cuidar-se
+sa: @en:verb.body:pedicure
+
+w: @en_peel_off
+d: @en_take off, as with some difficulty
+fs: 8
+hypo: @en_take_off
+sa: @en:verb.body:peel_off 1
+
+w: @en_perm
+d: @en_give a permanent wave to
+fs: 8
+hypo: @en_wave
+sa: @en:verb.body:perm
+
+w: @en_piffle
+d: @en_act in a trivial or ineffective way
+fs: 2
+hypo: agir
+sa: @en:verb.body:piffle
+
+w: @en_play
+d: @en_exhaust by allowing to pull on the line
+fs: 8
+hypo: exaurir 1
+sa: @en:verb.body:play 4
+
+w: @en_pod
+d: @en_produce pods, of plants
+fs: 1
+hypo: adquirir
+sa: @en:verb.body:pod
+
+w: @en_pomade
+d: @en_apply pomade to (hair)
+fs: 8
+hypo: cuidar-se
+sa: @en:verb.body:pomade
+
+w: @en_pompadour
+d: @en_style women's hair in a pompadour
+fs: 8
+hypo: verb.creation:estilizar
+sa: @en:verb.body:pompadour
+
+w: @en_prank
+d: @en_dress up showily
+fs: 9
+hypo: arrumar-se 1
+sa: @en:verb.body:prank
+
+w: @en_prim
+w: @en_prim_out
+w: @en_prim_up
+d: @en_dress primly
+fs: 2
+hypo: vestir 7
+sa: @en:verb.body:prim
+
+w: @en_prink
+d: @en_dress very carefully and in a finicky manner
+fs: 2
+hypo: arrumar-se
+sa: @en:verb.body:prink 1
+
+w: @en_pullulate
+d: @en_breed freely and abundantly
+fs: 1
+hypo: @en_breed
+sa: @en:verb.body:pullulate
+
+w: @en_pupate
+d: @en_develop into a pupa
+fs: 1
+hypo: adquirir
+sa: @en:verb.body:pupate
+
+w: @en_purge
+d: @en_excrete or evacuate (someone's bowels or body)
+fs: 2 9
+cause: @en_empty
+hypo: tratar
+sa: @en:verb.body:purge
+
+w: @en_quack
+d: @en_act as a medical quack or a charlatan
+fs: 2
+hypo: agir
+mt: noun.act:Incisão
+sa: @en:verb.body:quack
+
+w: @en_quicken
+d: @en_show signs of life
+fs: 2
+hypo: verb.motion:deslocar 1
+sa: @en:verb.body:quicken 2
+
+w: @en_rack
+d: @en_torture on the rack
+fs: 9
+hypo: atormentar
+sa: @en:verb.body:rack
+
+w: @en_razor
+d: @en_shave with a razor
+fs: 8
+hypo: barbear 1
+sa: @en:verb.body:razor
+
+w: @en_reawaken
+d: @en_awaken once again
+fs: 9 10
+hypo: acordar 2
+sa: @en:verb.body:reawaken
+
+w: @en_recuperate
+d: @en_restore to good health or strength
+fs: 10 9
+hypo: curar
+sa: @en:verb.body:recuperate 1
+vg: convalescer
+
+w: @en_refracture
+d: @en_break (a bone) that was previously broken but mended in an abnormal way
+fs: 8
+hypo: fraturar 2
+sa: @en:verb.body:refracture
+
+w: @en_regrow
+d: @en_grow anew or continue growth after an injury or interruption
+fs: 11
+hypo: adquirir
+sa: @en:verb.body:regrow
+
+w: @en_rejuvenate
+d: @en_become young again
+fs: 2
+hypo: regenerar 1
+sa: @en:verb.body:rejuvenate
+
+w: @en_respire
+d: @en_breathe easily again, as after exertion or anxiety
+fs: 2
+hypo: bafejar
+sa: @en:verb.body:respire 2
+vg: bafejar
+
+w: @en_respire 1
+d: @en_undergo the biomedical and metabolic processes of respiration by taking up oxygen and producing carbon monoxide
+fs: 2
+hypo: verb.perception:experimentar 1
+sa: @en:verb.body:respire 1
+vg: bafejar
+
+w: @en_salve
+d: @en_apply a salve to, usually for the purpose of healing
+fs: 8
+hypo: medicar 1
+mt: noun.act:Incisão
+sa: @en:verb.body:salve
+
+w: @en_scab
+d: @en_form a scab
+fs: 23
+hypo: @en_heal
+sa: @en:verb.body:scab
+
+w: @en_scarf
+d: @en_wrap in or adorn with a scarf
+fs: 8
+hypo: caber
+sa: @en:verb.body:scarf
+
+w: @en_scowl
+d: @en_frown with displeasure
+fs: 2
+hypo: fazer_cara_feia
+sa: @en:verb.body:scowl
+
+w: @en_screw_up
+d: @en_twist into a strained configuration
+fs: 8
+hypo: fazer_careta
+sa: @en:verb.body:screw_up
+
+w: @en_sentimentalise
+w: @en_sentimentalize
+w: @en_sentimentise
+w: @en_sentimentize
+d: @en_act in a sentimental way or indulge in sentimental thoughts or expression
+fs: 2
+hypo: agir
+sa: @en:verb.body:sentimentalise
+
+w: @en_shampoo
+d: @en_use shampoo on (hair)
+fs: 9 2 8
+hyper: condicionar
+hypo: lavar_se
+sa: @en:verb.body:shampoo
+
+w: @en_shirt
+d: @en_put a shirt on
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:shirt
+
+w: @en_shock
+w: @en_traumatise
+w: @en_traumatize
+d: @en_inflict a trauma upon
+fs: 10
+hypo: ferir 2
+sa: @en:verb.body:shock
+
+w: @en_shock 1
+d: @en_subject to electrical shocks
+fs: 9
+hyper: @en_galvanise
+hypo: tratar
+sa: @en:verb.body:shock 1
+
+w: @en_shower
+d: @en_take a shower; wash one's body in the shower
+fs: 2
+hypo: @en_bathe
+sa: @en:verb.body:shower
+
+w: @en_sicken
+d: @en_make sick or ill
+fs: 10
+hyper: @en_choke 1
+hypo: danificar
+sa: @en:verb.body:sicken 1
+
+w: @en_sit_back
+w: @en_take_it_easy
+d: @en_settle into a comfortable sitting position
+fs: 2
+hypo: descontrair
+sa: @en:verb.body:sit_back
+
+w: @en_sit_up
+w: @en_stay_up
+d: @en_not go to bed
+fs: 2
+hypo: acordar 4
+sa: @en:verb.body:sit_up
+
+w: @en_skin_over
+d: @en_grow new skin over an injury
+fs: 23
+hypo: @en_heal
+sa: @en:verb.body:skin_over
+
+w: @en_sleek_down
+w: @en_slick
+w: @en_slick_down
+d: @en_give a smooth and glossy appearance
+fs: 8
+hypo: pentear
+sa: @en:verb.body:sleek_down
+
+w: @en_slick_up
+w: @en_smarten_up
+w: @en_spruce
+w: @en_spruce_up
+d: @en_dress and groom with particular care, as for a special occasion
+fs: 9 2
+hypo: cuidar-se
+sa: @en:verb.body:slick_up
+
+w: @en_slip_off
+d: @en_take off with ease or speed
+fs: 8
+hypo: @en_take_off
+sa: @en:verb.body:slip_off
+
+w: @en_slip_on
+d: @en_put on with ease or speed
+fs: 8
+hypo: caber
+sa: @en:verb.body:slip_on
+
+w: @en_smut
+d: @en_affect with smut or mildew, as of a crop such as corn
+fs: 11
+hypo: contaminar
+mt: noun.act:agricultura 3
+sa: @en:verb.body:smut
+
+w: @en_snap_back
+d: @en_recover quickly
+fs: 2
+hypo: convalescer
+sa: @en:verb.body:snap_back
+
+w: @en_sneer
+d: @en_smile contemptuously
+fs: 22 2
+hypo: sorrir
+sa: @en:verb.body:sneer
+vg: desdenhar
+
+w: @en_sniff
+w: @en_sniffle 1
+d: @en_inhale audibly through the nose
+fs: 2
+hypo: inalar
+sa: @en:verb.body:sniff
+
+w: @en_snuff
+d: @en_inhale audibly through the nose
+fs: 8
+hypo: inalar
+sa: @en:verb.body:snuff 2
+
+w: @en_sob
+d: @en_weep convulsively
+fs: 2
+hypo: choramingar
+sa: @en:verb.body:sob
+
+w: @en_soup
+d: @en_dope (a racehorse)
+fs: 9 8
+hypo: drogar 1
+mt: noun.act:Incisão
+sa: @en:verb.body:soup
+
+w: @en_spat
+d: @en_spawn
+fs: 1
+hypo: gerar 1
+sa: @en:verb.body:spat 1
+
+w: @en_splint
+d: @en_support with a splint
+fs: 8
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:splint
+
+w: @en_sponge_down
+d: @en_wash with a sponge
+fs: 2 9
+hypo: lavar_se
+sa: @en:verb.body:sponge_down
+
+w: @en_spread-eagle
+d: @en_stretch out completely
+fs: 9
+hypo: alongar
+sa: @en:verb.body:spread-eagle
+
+w: @en_spring
+d: @en_develop suddenly
+fs: 11
+hypo: adquirir
+sa: @en:verb.body:spring
+
+w: @en_sprout
+w: @en_stock
+d: @en_put forth and grow sprouts or shoots
+fs: 1
+hypo: adquirir
+sa: @en:verb.body:sprout 1
+
+w: @en_squint
+d: @en_partly close one's eyes, as when hit by direct blinding light
+fs: 2
+hypo: aparentar
+sa: @en:verb.body:squint 2
+
+w: @en_stale
+d: @en_urinate, of cattle and horses
+fs: 1
+hypo: fazer_xixi
+sa: @en:verb.body:stale
+
+w: @en_stooge
+d: @en_act as a stooge, in a compliant or subordinate manner
+fs: 2
+hypo: agir
+sa: @en:verb.body:stooge
+
+w: @en_stool
+w: @en_tiller
+d: @en_grow shoots in the form of stools or tillers
+fs: 1
+hypo: adquirir
+sa: @en:verb.body:stool 1
+
+w: @en_strap
+d: @en_secure (a sprained joint) with a strap
+fs: 8
+hypo: verb.contact:fixar 1
+mt: noun.act:Incisão
+sa: @en:verb.body:strap
+
+w: @en_stream
+d: @en_exude profusely
+fs: 8 11 22
+hypo: exsudar
+sa: @en:verb.body:stream
+
+w: @en_strengthen
+w: @en_tone
+w: @en_tone_up
+d: @en_give a healthy elasticity to
+fs: 8
+hypo: exercitar
+sa: @en:verb.body:strengthen
+
+w: @en_stub
+d: @en_strike (one's toe) accidentally against an object
+fs: 8
+hypo: verb.contact:atingir 1
+sa: @en:verb.body:stub
+
+w: @en_subluxate
+d: @en_sprain or dislocate slightly
+fs: 8
+hypo: ferir 2
+sa: @en:verb.body:subluxate
+
+w: @en_suction
+d: @en_empty or clean (a body cavity) by the force of suction
+fs: 8
+hypo: @en_empty
+mt: noun.act:cirurgia
+sa: @en:verb.body:suction
+vg: verb.motion:@en_suction
+
+w: @en_suffocate
+d: @en_feel uncomfortable for lack of fresh air
+fs: 8
+hypo: @en_feel
+sa: @en:verb.body:suffocate 3
+
+w: @en_suntan
+d: @en_get a tan from being exposed to the sun
+fs: 2
+hypo: bronzear
+sa: @en:verb.body:suntan
+
+w: @en_superfetate
+d: @en_conceive when a fetus is already present in the uterus
+fs: 2 1
+hypo: conceber
+sa: @en:verb.body:superfetate
+
+w: @en_superinfect
+d: @en_infect (an infected cell) further or infect a cell already containing similar organisms
+fs: 8 11
+hypo: contaminar
+sa: @en:verb.body:superinfect
+
+w: @en_sweat_off
+d: @en_lose weight by sweating
+fs: 8
+hypo: emagrecer
+sa: @en:verb.body:sweat_off
+
+w: @en_swelter
+d: @en_be uncomfortably hot
+fs: 2
+hypo: padecer 1
+sa: @en:verb.body:swelter 1
+
+w: @en_swelter 1
+d: @en_suffer from intense heat
+fs: 2 22
+hypo: suar
+sa: @en:verb.body:swelter
+
+w: @en_take_off
+d: @en_remove clothes
+fs: 8
+hyper: @en_peel_off
+hyper: @en_slip_off
+hyper: verb.change:@en_uncloak
+hyper: verb.contact:@en_doff
+hypo: desnudar
+sa: @en:verb.body:take_off 3
+
+w: @en_talc
+d: @en_apply talcum powder to (one's body)
+fs: 8
+hypo: empoar
+sa: @en:verb.body:talc
+
+w: @en_tart_up
+d: @en_dress up in a cheap and provocative way
+fs: 9 2
+hypo: arrumar-se 1
+sa: @en:verb.body:tart_up
+
+w: @en_teethe
+d: @en_grow teeth; cut the baby teeth
+fs: 2
+hypo: adquirir
+sa: @en:verb.body:teethe
+
+w: @en_tonsure
+d: @en_shave the head of a newly inducted monk
+fs: 9
+hypo: barbear 1
+sa: @en:verb.body:tonsure
+
+w: @en_transfuse 1
+d: @en_give a transfusion (e.g., of blood) to
+fs: 9
+hypo: administrar
+mt: noun.act:Incisão
+sa: @en:verb.body:transfuse 1
+
+w: @en_trephine
+d: @en_operate on with a trephine
+fs: 8 9
+hypo: operar
+sa: @en:verb.body:trephine
+
+w: @en_tumble
+d: @en_do gymnastics, roll and turn skillfully
+fs: 2
+hyper: rolar
+hypo: exercitar
+sa: @en:verb.body:tumble
+
+w: @en_twin
+d: @en_give birth to twins
+fs: 2
+hypo: dar_à_luz
+sa: @en:verb.body:twin
+
+w: @en_unbend
+d: @en_release from mental strain, tension, or formality
+fs: 8
+hypo: espairecer
+sa: @en:verb.body:unbend
+
+w: @en_underdress 1
+d: @en_dress without sufficient warmth
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:underdress 1
+
+w: @en_vasectomise
+w: @en_vasectomize
+d: @en_remove the vas deferens
+fs: 9
+hypo: esterilizar
+sa: @en:verb.body:vasectomise
+
+w: @en_vege_out
+w: @en_vegetate
+d: @en_engage in passive relaxation
+fs: 2
+hypo: descontrair
+sa: @en:verb.body:vege_out
+
+w: @en_vegetate 1
+d: @en_propagate asexually
+fs: 1
+hypo: propagar
+mt: noun.cognition:biologia
+sa: @en:verb.body:vegetate 1
+
+w: @en_venesect
+d: @en_practice venesection
+fs: 2
+hypo: operar
+mt: noun.act:Incisão
+sa: @en:verb.body:venesect
+
+w: @en_vest
+d: @en_clothe oneself in ecclesiastical garments
+fs: 2
+hypo: vestir 5
+sa: @en:verb.body:vest 1
+vg: vestido 1
+
+w: @en_vesture
+d: @en_provide or cover with a cloak
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:vesture
+
+w: @en_vet
+d: @en_provide veterinary care for
+fs: 9 8
+hypo: medicar
+mt: noun.act:Incisão
+sa: @en:verb.body:vet
+
+w: @en_vet 1
+d: @en_provide (a person) with medical care
+fs: 9
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:vet 1
+
+w: @en_wan
+d: @en_become pale and sickly
+fs: 2
+hypo: adoecer
+sa: @en:verb.body:wan
+
+w: @en_wanton
+d: @en_behave extremely cruelly and brutally
+fs: 2
+hypo: agir
+sa: @en:verb.body:wanton
+
+w: @en_warm_up 1
+d: @en_cause to do preliminary exercises so as to stretch the muscles
+fs: 9
+hyper: @en_limber
+hypo: exercitar-se
+hypo: verb.social:@en_put_to_work
+sa: @en:verb.body:warm_up 1
+
+w: @en_wash
+d: @en_to cleanse (itself or another animal) by licking
+fs: 1
+hypo: lavar
+sa: @en:verb.body:wash 2
+vg: lavar_se
+
+w: @en_water
+d: @en_secrete or form water, as tears or saliva
+fs: 1
+hypo: excretar
+sa: @en:verb.body:water
+
+w: @en_wave
+d: @en_set waves in
+fs: 8
+hyper: @en_gauffer
+hyper: @en_marcel
+hyper: @en_perm
+hypo: @en_arrange
+sa: @en:verb.body:wave
+
+w: @en_wear
+d: @en_have or show an appearance of
+fs: 5 8
+hypo: verb.stative:apresenta
+sa: @en:verb.body:wear 2
+
+w: @en_wet
+d: @en_make one's bed or clothes wet by urinating
+fs: 8
+hypo: fazer_xixi
+sa: @en:verb.body:wet
+
+w: @en_wince
+d: @en_make a face indicating disgust or dislike
+fs: 2
+hypo: fazer_careta
+sa: @en:verb.body:wince
+
+w: @en_zonk_out 1
+d: @en_fall asleep fast, as when one is extremely tired
+fs: 2
+hypo: adormecer
+sa: @en:verb.body:zonk_out
+
+w: _ressuscitar
+w: reviver
+d: @en_cause to regain consciousness
+fs: 10 9
+cause: acordar 1
+hyper: inicializar
+hyper: ressuscitar
+hypo: @en_bring_around
+sa: @en:verb.body:resuscitate
+vg: acordar 1
+
+w: abortar
+d: @en_terminate a pregnancy by undergoing an abortion
+fs: 2
+entail: conceber
+hyper: abortar 1
+hypo: ejetar
+sa: @en:verb.body:abort
+
+w: abortar 1
+d: @en_suffer a miscarriage
+fs: 9 2
+hypo: abortar
+sa: @en:verb.body:miscarry
+
+w: abrir_a_boca
+w: bocejar
+d: @en_utter a yawn, as from lack of oxygen or when one is tired
+fs: 2
+hypo: bafejar
+sa: @en:verb.body:yawn
+
+w: acalmar
+d: @en_cause to feel better
+fs: 9 11 10 8
+hypo: aliviar
+sa: @en:verb.body:soothe
+
+w: acordar
+w: despertar
+w: levantar-se
+d: parar de dormir
+e: ela acordou com o som do despertador
+fs: 2
+entail: capotar
+hypo: verb.change:revoltar
+sa: @en:verb.body:arouse 5
+
+w: acordar 1
+d: @en_return to consciousness
+fs: 2
+hypo: verb.change:revoltar
+sa: @en:verb.body:come_to
+vg: _ressuscitar
+vg: animar
+
+w: acordar 2
+w: despertar 1
+d: @en_cause to become awake or conscious
+fs: 9 10
+hyper: @en_bring_around
+hyper: @en_call
+hyper: @en_reawaken
+hypo: verb.change:alterar 2
+sa: @en:verb.body:arouse 1
+
+w: acordar 3
+w: levantar
+d: acordar e sair da cama
+fs: 2
+sa: @en:verb.body:arise
+
+w: acordar 4
+d: @en_be awake, be alert, be there
+fs: 2
+hyper: @en_sit_up
+sa: @en:verb.body:wake
+
+w: administrar
+w: dispensar
+d: dar ou aplicar (medicamentos)
+fs: 15 8
+entail: verb.possession:aplicar
+hyper: @en_transfuse 1
+hyper: digitalizar
+hyper: injectar
+hyper: verb.possession:dar 19
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:administer
+
+w: adoecer
+w: adoentar
+d: ficar doente
+e: ela ficou doente na sexta-feira passada e agora esta no hospial
+fs: 2
+hyper: @en_canker 1
+hyper: @en_wan
+hyper: contagiar-se
+hypo: verb.change:decair
+sa: @en:verb.body:come_down
+
+w: adormecer
+w: cochilar
+w: dormir
+d: @en_change from a waking to a sleeping state
+fs: 2
+hyper: @en_zonk_out 1
+sa: @en:verb.body:dope_off
+
+w: adquirir
+w: crescer
+w: ganhar
+d: vir a ter ou sofrer uma mudança de (características físicas e atributos)
+fs: 8 11
+hyper: @en_cut
+hyper: @en_pod
+hyper: @en_pupate
+hyper: @en_regrow
+hyper: @en_spring
+hyper: @en_sprout
+hyper: @en_stool
+hyper: @en_teethe
+hyper: aumentar
+hyper: dar_folha
+hyper: emplumar
+hypo: verb.change:alterar 1
+sa: @en:verb.body:acquire
+vg: verb.change:desenvolver 1
+
+w: adquirir 1
+w: conquistar
+w: fazer
+d: agir de forma a adquirir
+e: fazer amigos
+e: conquistar inimigos
+fs: 9
+hypo: agir
+sa: @en:verb.body:make 8
+vg: verb.possession:adquirir 8
+vg: verb.possession:fazer
+
+w: afectar
+w: afetar
+d: agir fisicamente; ter um efeito sobre
+e: O remédio afeta o meu coração
+fs: 10 11 9 8
+hyper: @en_cramp
+hyper: @en_jaundice
+hyper: animar 1
+hyper: atacar
+hyper: espairecer
+hyper: estressar
+hyper: sedar
+hyper: ulcerar
+hyper: verb.cognition:registrar_
+hyper: verb.consumption:embriagar 1
+hypo: verb.change:alterar 2
+sa: @en:verb.body:affect
+
+w: afogar
+w: asfixiar
+w: sufocar
+d: @en_struggle for breath; have insufficient oxygen intake
+fs: 2 13 22
+hypo: doer 1
+sa: @en:verb.body:choke 3
+
+w: agaiatar
+d: agir como  um palhaço
+fs: 2
+hypo: caçoar
+sa: @en:verb.body:antic
+
+w: agir
+w: atuar
+w: comportar-se
+w: fazer_papel
+w: parecer
+d: agir de uma certa forma;  comportar-se ou conduzir-se
+e: você deveria agir como adulto
+e: não se comporte como um tolo
+e: o que faz ela agir dessa maneira?
+e: o cachorro parece feroz, mas ele realmente tem medo de pessoas
+fs: 2 7
+hyper: @en_bend_over_backwards
+hyper: @en_bluster
+hyper: @en_bungle
+hyper: @en_make
+hyper: @en_menace
+hyper: @en_optimise
+hyper: @en_piffle
+hyper: @en_quack
+hyper: @en_sentimentalise
+hyper: @en_stooge
+hyper: @en_wanton
+hyper: adquirir 1
+hyper: agir_involuntariamente
+hyper: brincar
+hyper: caçoar
+hyper: endurecer
+hyper: fazer_como_se
+hyper: presumir
+hyper: romantizar
+hyper: simular
+hyper: vulgarizar
+hyper: verb.emotion:desesperar 1
+hyper: verb.motion:@en_dally
+hyper: verb.social:@en_backslap
+hyper: verb.social:@en_footle
+hyper: verb.social:@en_frivol
+hyper: verb.social:@en_hugger_mugger
+hyper: verb.social:@en_loosen_up
+hyper: verb.social:@en_sauce
+hyper: verb.social:encher_se
+hyper: verb.social:seguir 3
+hyper: verb.stative:@en_rage
+sa: @en:verb.body:act
+vg: simular
+vg: verb.creation:fingir 1
+
+w: agir_involuntariamente
+w: agir_reflexivamente
+d: agir de forma involuntaria
+fs: 2
+hyper: espirrar
+hyper: peidar 1
+hyper: pestanejar
+hyper: salivar
+hypo: agir
+sa: @en:verb.body:act_involuntarily
+
+w: aguardar
+w: esperar
+d: @en_be pregnant with
+fs: 9
+entail: conceber
+hypo: dar_à_luz
+sa: @en:verb.body:bear
+vg: aguardar 1
+vg: dar_à_luz
+
+w: aguardar 1
+w: esperar 1
+d: @en_look forward to the birth of a child
+fs: 2
+hypo: verb.cognition:aguardar
+sa: @en:verb.body:expect 2
+vg: aguardar
+
+w: ajudar
+w: socorrer
+d: melhorar a condição de
+fs: 10 9
+hyper: curar
+hyper: verb.possession:beneficiar 1
+hypo: verb.change:aperfeiçoar 2
+sa: @en:verb.body:aid
+
+w: aleijar
+d: privar do uso de um membro, especialmente uma perna
+fs: 9 10
+hyper: @en_hamstring
+hypo: mutilar
+sa: @en:verb.body:cripple
+
+w: aleijar 1
+w: doer
+w: ferir
+w: machucar
+d: causar  dor a alguem ou algo
+e: esse exercicio vai machucar suas costas
+fs: 10 11 9
+cause: verb.perception:doer 1
+hyper: @en_ail
+hyper: @en_disagree_with
+hyper: ferir 2
+hypo: indispor
+sa: @en:verb.body:hurt 1
+
+w: aliviar
+w: amenizar
+w: atenuar
+w: melhorar
+d: provocar o alívio físico (de dor, usualmente)
+e: essa pilula vai melhorar sua dor-de-cabeca
+fs: 11
+hyper: acalmar
+hyper: aliviar 1
+hypo: verb.change:aperfeiçoar 2
+sa: @en:verb.body:alleviate
+
+w: aliviar 1
+w: confortar
+d: diminuir a dor ou desconforto; aliviar
+fs: 9 8
+hypo: aliviar
+sa: @en:verb.body:comfort
+
+w: alongar
+w: estender
+w: esticar
+d: esticar ou alongar os músculos ou o corpo inteiro
+e: alongue suas pernas!
+e: estenda seu braço direito acima da sua cabeça
+fs: 8
+hyper: @en_spread-eagle
+hyper: esticar 2
+hypo: estressar
+sa: @en:verb.body:extend
+
+w: alongar 1
+w: esticar 1
+d: estender o corpo ou membros
+fs: 2
+hypo: verb.motion:deslocar 1
+sa: @en:verb.body:stretch 2
+
+w: amassar
+w: calcar
+w: pisotear
+d: ferir pisoteando ou como se fosse pisoteando
+e: O passante foi pisoteado por um elefante.
+fs: 10 11
+hypo: ferir 2
+sa: @en:verb.body:trample
+
+w: anestesiar
+d: @en_administer an anesthetic drug to
+fs: 8 9 10
+hyper: @en_chloroform
+hyper: @en_cocainise
+hyper: @en_etherise
+hyper: @en_freeze
+hyper: verb.perception:@en_block
+hypo: dopar
+sa: @en:verb.body:anaesthetise
+
+w: animar
+w: reanimar
+w: reavivar
+w: renascer
+w: reviver 1
+w: vivificar
+d: dar nova vida ou energia para
+fs: 10 9
+hypo: animar 1
+sa: @en:verb.body:animate
+vg: acordar 1
+
+w: animar 1
+w: energizar
+w: estimular
+w: excitar
+d: causar um estado alerta e energizado
+e: Café e chá me estimulam
+e: Café e chá me estimulam.
+fs: 8 10 2 9 11
+hyper: @en_cathect
+hyper: @en_invigorate
+hyper: animar
+hyper: verb.change:animar 2
+hypo: afectar
+sa: @en:verb.body:arouse
+
+w: antisepticizar
+d: desinfectar com antisséptico
+fs: 9 10 8 11
+hypo: desinfectar
+sa: @en:verb.body:antisepticize
+
+w: aparentar
+w: parecer 1
+d: ter uma certa aparência ou expressão facial
+e: Como ela está?
+e: A criança parece infeliz
+e: Ela parecia pálida após a cirurgia
+fs: 7 6
+hyper: @en_squint
+hypo: verb.stative:estar 2
+sa: @en:verb.body:look
+
+w: aplaudir
+w: bater_palmas
+d: @en_clap one's hands together
+fs: 2
+hypo: verb.communication:gesticular
+sa: @en:verb.body:clap
+
+w: apodrecer
+d: tornar-se fisicamente mais fraco
+fs: 1
+hyper: gangrenar
+hypo: degenerar
+sa: @en:verb.body:rot
+
+w: arrotar
+d: @en_expel gas from the stomach
+fs: 2
+hypo: peidar
+sa: @en:verb.body:belch
+
+w: arrumar-se
+w: vestir-se
+d: botar a roupa
+e: nós temos que nos vestir rapidamente
+e: vista o paciente
+e: as crianças conseguem se vestir por conta própria?
+fs: 2
+hyper: @en_bundle_up
+hyper: @en_cross-dress
+hyper: @en_dress_down
+hyper: @en_prink
+hyper: arrumar-se 1
+hyper: caber
+hyper: dandificar
+hyper: vestir 5
+hyper: verb.change:mudar 11
+hypo: verb.change:alterar 1
+sa: @en:verb.body:dress
+vg: @en_dress 2
+vg: vestir 5
+vg: vestir 7
+
+w: arrumar-se 1
+w: emperequetar_se
+w: vestir
+w: vestir_formalmente
+d: Colocar roupas especiais para aparecer particularmente atraente e atrativo
+fs: 9
+hyper: @en_bedizen
+hyper: @en_dress 2
+hyper: @en_enrobe
+hyper: @en_prank
+hyper: @en_tart_up
+hypo: arrumar-se
+sa: @en:verb.body:attire
+vg: @en_costume
+vg: vestir 5
+
+w: asfixiar 1
+w: estrangular
+d: @en_constrict (someone's) throat and keep from breathing
+fs: 9 10
+cause: @en_choke
+hypo: verb.contact:comprimir 1
+sa: @en:verb.body:choke 4
+
+w: aspirar
+d: sugar (ar)
+fs: 8
+hypo: inalar
+sa: @en:verb.body:aspirate
+
+w: assoprar
+w: soprar
+d: @en_exhale hard
+fs: 2
+hyper: @en_chuff
+hyper: bufar 1
+hyper: insuflar
+hypo: axalar
+sa: @en:verb.body:blow
+
+w: atacar
+d: @en_begin to injure
+fs: 11
+hypo: afectar
+sa: @en:verb.body:attack
+
+w: ataviar
+w: vestir 1
+d: @en_use special care in dressing, making-up, etc.
+fs: 9
+hypo: cuidar-se
+sa: @en:verb.body:do_up
+
+w: atormentar
+w: excruciar
+w: torturar
+d: sujeitar a tortura
+fs: 9
+hyper: @en_martyr
+hyper: @en_rack
+hypo: ferir 2
+sa: @en:verb.body:excruciate
+
+w: atrofiar
+w: atrofiar-se
+w: causar_atrofia
+d: @en_undergo atrophy
+fs: 2 23 1
+hypo: verb.change:enrugar
+sa: @en:verb.body:atrophy
+
+w: atropelar
+w: passar_por_cima
+d: ferir ou matar por atropelamento, como acontece com um veículo
+fs: 9 11 10 8
+hypo: ferir 2
+sa: @en:verb.body:run_down 1
+
+w: aumentar
+d: @en_develop
+fs: 8
+hypo: adquirir
+sa: @en:verb.body:get_up 3
+
+w: avermelhar
+w: corar
+w: enrubescer
+w: rosar
+w: ruborizar
+d: ficar vermelho, como se estivesse embaraçado ou com vergonha
+e: a menina corou quando um rapaz assobiou quanda ela passou
+fs: 2
+hypo: verb.change:colorir 2
+sa: @en:verb.body:blush
+
+w: axalar
+w: expirar
+d: @en_expel air
+fs: 2 8
+hyper: assoprar
+hyper: bufar
+hypo: bafejar
+sa: @en:verb.body:breathe_out
+
+w: babar
+d: @en_let saliva drivel from the mouth
+fs: 2
+hypo: salivar
+sa: @en:verb.body:dribble
+
+w: bafejar
+w: espirar
+w: respirar
+d: @en_draw air into, and expel out of, the lungs
+fs: 2 8
+entail: axalar
+entail: inalar
+hyper: @en_choke
+hyper: @en_respire
+hyper: abrir_a_boca
+hyper: axalar
+hyper: hiperventilar
+hyper: inalar
+hyper: respirar_ruidosamente
+hyper: ressonar
+hyper: soluçar
+hyper: suspirar
+sa: @en:verb.body:breathe
+vg: @en_respire
+vg: @en_respire 1
+
+w: banhar-se
+w: tomar_banho
+d: @en_clean one's body by immersion into water
+fs: 2 9
+hyper: @en_foment
+hypo: lavar
+sa: @en:verb.body:bath
+
+w: barbear
+d: @en_perform the services of a barber: cut the hair and/or beard of
+fs: 1
+hypo: cuidar-se
+sa: @en:verb.body:barber
+
+w: barbear 1
+w: barbear-se
+w: raspar
+d: @en_remove body hair with a razor
+fs: 8 2 9
+hyper: @en_razor
+hyper: @en_tonsure
+hypo: cuidar-se
+sa: @en:verb.body:shave
+
+w: bochechar
+w: enxaguar
+w: gargarejar
+d: @en_rinse one's mouth and throat with mouthwash
+fs: 2
+hypo: lavar_se
+sa: @en:verb.body:gargle
+
+w: brincar
+w: jogar
+d: se envolver em uma atividade, como se fosse um jogo, ao invés de levar a sério
+fs: 8
+hypo: agir
+sa: @en:verb.body:play
+
+w: bronzear
+d: @en_get a tan, from wind or sun
+fs: 2
+hyper: @en_suntan
+hypo: verb.change:colorir 2
+sa: @en:verb.body:bronze
+
+w: bronzear 1
+w: expor_ao_sol
+d: expor o corpo ao sol
+fs: 2 22
+hypo: verb.contact:estar_deitado 1
+sa: @en:verb.body:sun
+
+w: bufar
+d: @en_make a snorting sound by exhaling hard
+fs: 2
+hypo: axalar
+sa: @en:verb.body:snort
+
+w: bufar 1
+w: ofegar
+d: @en_breathe noisily, as when one is exhausted
+fs: 2
+hypo: assoprar
+sa: @en:verb.body:gasp
+
+w: cabecear
+d: @en_be almost asleep
+fs: 2 1
+hypo: @en_drowse
+sa: @en:verb.body:nod 2
+
+w: caber
+w: colocar
+w: pôr
+w: trazer
+w: usar
+w: vestir 2
+d: colocar roupas no  corpo: "O que devo vestir hoje?", "Ele usou seu melhor terno  no casamento", "A princesa usou um vestido  azul longo"," A rainha colocou as vestes imponentes "," Ele cabia no seus jeans "
+fs: 8
+hyper: @en_hat
+hyper: @en_scarf
+hyper: @en_slip_on
+hyper: experimentar
+hypo: arrumar-se
+sa: @en:verb.body:assume
+
+w: cacarejar
+d: @en_emit a loud, unpleasant kind of laughing
+fs: 2
+hypo: gargalhar
+sa: @en:verb.body:cackle
+
+w: cagar
+w: defecar
+d: @en_have a bowel movement
+fs: 1 2
+hyper: @en_dung
+hypo: expelir 1
+sa: @en:verb.body:ca-ca
+vg: fazer_xixi
+
+w: cair_no_sono_aos_poucos
+w: deitar-se_na_cama
+d: @en_prepare for sleep
+fs: 2
+hyper: @en_bed_down
+sa: @en:verb.body:bed
+
+w: calçar
+d: @en_furnish with shoes
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:shoe
+
+w: cansar-se
+w: exaurir
+w: exaurir-se
+d: causar exaustão ou cansaço através de uso excessivo, grande tensão ou estresse
+e: nos nos exaurimos nessa caminhada
+fs: 10 9
+cause: fatigar
+hyper: @en_overfatigue
+hyper: exaurir 1
+hypo: indispor
+sa: @en:verb.body:fag
+
+w: capar
+w: castrar
+w: emascular
+d: remover os testículos de um animal macho
+fs: 8 9
+hyper: @en_cut 1
+hyper: capar 1
+hypo: esterilizar
+sa: @en:verb.body:castrate
+
+w: capar 1
+d: @en_convert a cock into a capon
+fs: 8
+hypo: capar
+sa: @en:verb.body:caponise
+
+w: capotar
+w: cochilar 1
+w: dormir 1
+d: estar dormindo
+fs: 2
+hyper: @en_bundle
+hyper: cochilar 3
+hyper: dormir_até_mais_tarde
+hyper: estivar
+hyper: hibernar
+hypo: cochilar 2
+sa: @en:verb.body:catch_some_Z's
+
+w: casquinar
+d: @en_laugh quietly
+fs: 22 2
+hypo: gargalhar
+sa: @en:verb.body:snicker
+
+w: caçoar
+d: @en_act in a funny or teasing way
+fs: 2
+hyper: agaiatar
+hypo: agir
+sa: @en:verb.body:jest
+
+w: choramingar
+w: chorar
+w: derramar_lágrimas
+d: derramar lágrimas de tristeza, raiva, ou dor
+e: ela chorou amargamente quando soube da morte dele
+e: a menina na cadeira de rodas chorava de raiva de não conseguir subir as escadas
+fs: 2
+hyper: @en_bawl
+hyper: @en_blub
+hyper: @en_sob
+hyper: choramingar 1
+hyper: lacrimejar
+hypo: verb.emotion:expressar_sentimentos
+sa: @en:verb.body:cry
+vg: @en_cry
+
+w: choramingar 1
+w: gemer
+d: chorar baixinho
+e: ela choramingava de dor
+fs: 2
+hypo: choramingar
+sa: @en:verb.body:mewl
+
+w: clarear
+w: empalidecer
+d: ficar pálido, quando com medo
+fs: 2
+hypo: verb.change:colorir 2
+sa: @en:verb.body:blanch
+
+w: cochilar 2
+w: descansar
+w: dormir 2
+w: repousar
+d: estar repousando
+fs: 2
+hyper: @en_drowse
+hyper: capotar
+hypo: verb.contact:estar_deitado
+sa: @en:verb.body:rest
+
+w: cochilar 3
+w: dormitar
+d: @en_take a siesta
+fs: 2
+hyper: cochilar 4
+hypo: capotar
+sa: @en:verb.body:catch_a_wink
+
+w: cochilar 4
+w: dormitar 1
+w: tirar_uma_soneca
+d: dormir  por um curto período de tempo
+fs: 2
+hypo: cochilar 3
+sa: @en:verb.body:doze
+
+w: conceber
+w: engravidar
+d: @en_become pregnant; undergo conception
+fs: 8 2
+entail: verb.contact:acasalar
+hyper: @en_superfetate
+hypo: verb.change:revoltar
+sa: @en:verb.body:conceive
+
+w: conceber 1
+w: gerar
+w: procriar
+w: ter_filho
+d: @en_make children
+fs: 9
+hypo: verb.creation:causar 1
+sa: @en:verb.body:beget
+
+w: condicionar
+d: aplicar condicionador a fim de tornar liso e brilhante
+fs: 8
+hypo: @en_shampoo
+sa: @en:verb.body:condition
+
+w: congelar
+d: estar com frio
+e: eu  congelo  nessa sala quando o ar condicionado esta ligado
+fs: 23 2
+hypo: padecer 1
+sa: @en:verb.body:freeze
+
+w: constipar
+d: fazer ficar com prisão de ventre
+fs: 10
+hyper: @en_obstipate
+hypo: indispor
+sa: @en:verb.body:bind
+
+w: contagiar
+w: encomendar
+w: infectar
+d: @en_communicate a disease to
+fs: 17 9
+hyper: @en_canker
+hypo: verb.possession:causar
+sa: @en:verb.body:infect 1
+
+w: contagiar-se
+w: contrair
+d: @en_be stricken by an illness, fall victim to an illness
+fs: 8
+hyper: @en_catch
+hypo: adoecer
+sa: @en:verb.body:contract
+vg: @en_catch
+
+w: contaminar
+w: infectar 1
+w: infetar
+d: @en_contaminate with a disease or microorganism
+fs: 9
+hyper: @en_smut
+hyper: @en_superinfect
+hypo: verb.change:contaminar 1
+sa: @en:verb.body:infect
+
+w: contrair 1
+w: sofrer
+w: ter
+d: ser acometido de lesões e doenças
+e: ela sofreu uma fratura no acidente
+e: ele teve um choque de insulina depois de comer tres chocolates
+e: "ela tinha um machucado na perna";
+fs: 8
+hyper: @en_break_down
+hyper: @en_cramp 1
+hyper: verb.emotion:pirar
+hypo: verb.perception:experimentar 2
+sa: @en:verb.body:get 11
+vg: padecer
+
+w: convalescer
+w: melhorar 1
+w: recuperar
+d: sair de uma doença ou choque
+e: o paciente esta se recuperando
+fs: 2
+hyper: @en_gain_vigor
+hyper: @en_snap_back
+hypo: verb.change:melhorar 4
+sa: @en:verb.body:convalesce
+vg: @en_recuperate
+
+w: convulsionar
+d: @en_be overcome with laughter
+fs: 2 22
+hypo: gargalhar
+sa: @en:verb.body:convulse
+
+w: corrigir
+d: @en_treat a defect
+fs: 11 4
+hypo: tratar
+sa: @en:verb.body:correct 4
+
+w: cuidar-se
+d: ter cuidado com a aparência externa
+e: ele é sempre bem arrumado
+fs: 2 9
+hyper: @en_arrange
+hyper: @en_gel
+hyper: @en_pedicure
+hyper: @en_pomade
+hyper: @en_slick_up
+hyper: ataviar
+hyper: barbear
+hyper: barbear 1
+hyper: lavar
+hyper: limpar 2
+hyper: manicurar
+hyper: maquiar
+hyper: pentear
+hyper: perfumar
+hypo: verb.change:embelezar
+sa: @en:verb.body:groom
+
+w: curar
+w: sanar
+w: sarar
+d: @en_provide a cure for, make healthy again
+fs: 9 8
+entail: tratar
+hyper: @en_recuperate
+hypo: ajudar
+mt: noun.act:Incisão
+sa: @en:verb.body:bring_around 1
+
+w: curar 1
+w: remediar
+d: @en_provide relief for
+fs: 8
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:relieve 2
+
+w: curativizar
+w: emplastrar
+d: cobrir com uma substância terapêutica
+fs: 8
+hypo: @en_dress 3
+mt: noun.act:Incisão
+sa: @en:verb.body:plaster
+
+w: cuspir
+w: expectorar
+d: @en_discharge (phlegm or sputum) from the lungs and out of the mouth
+fs: 2
+hyper: cuspir 1
+hyper: cuspir 2
+hyper: tossir
+hypo: ejetar
+sa: @en:verb.body:cough_out
+
+w: cuspir 1
+d: @en_spit up in an explosive manner
+fs: 8
+hypo: cuspir
+sa: @en:verb.body:spit_out
+
+w: cuspir 2
+d: expulsar ou ejetar (saliva ou catarro ou expectoração) da boca
+e: O pai da vítima cuspiu no suposto assassino
+fs: 2 8
+hypo: cuspir
+sa: @en:verb.body:ptyalise
+
+w: dandificar
+d: vestir-se como um dândi
+fs: 2
+hypo: arrumar-se
+sa: @en:verb.body:dandify
+
+w: danificar
+w: ferir 1
+w: lesar
+w: machucar 1
+d: @en_cause or do harm to
+fs: 2 10 12 1 9
+hyper: @en_sicken
+hypo: ferir 2
+sa: @en:verb.body:harm
+
+w: dar_de_ombros
+d: @en_raise one's shoulders to indicate indifference or resignation
+fs: 2
+hypo: verb.communication:gesticular
+sa: @en:verb.body:shrug
+
+w: dar_folha
+w: folhear
+d: produzir folhas, de plantas
+fs: 1
+hypo: adquirir
+sa: @en:verb.body:leaf
+
+w: dar_à_luz
+w: parir
+w: ter 1
+d: causar o nascimento
+e: minha esposa teve gemeos ontem
+e: Minha esposa teve gêmeos ontem.
+fs: 9
+entail: conceber
+hyper: @en_cub
+hyper: @en_drop
+hyper: @en_twin
+hyper: aguardar
+hyper: parir 1
+hyper: parir 2
+hyper: parir 3
+hyper: parir 4
+hyper: parir 6
+hyper: parir 7
+hyper: parir 8
+hyper: parir 9
+hypo: verb.creation:fazer 13
+sa: @en:verb.body:bear 1
+vg: aguardar
+
+w: degenerar
+w: degradar
+w: deteriorar
+w: piorar
+d: ficar pior
+e: A condição dela deteriorou-se
+e: as condições nas favelas pioraram muito
+e: a discussão degenerou numa gritaria
+fs: 1 2
+hyper: apodrecer
+hyper: enlanguescer
+hyper: fatigar
+hypo: verb.change:decair
+sa: @en:verb.body:degenerate
+
+w: depenar
+w: desplumar
+w: mudar
+w: trocar
+d: arrematar o cabelo, pele, chifre ou penas
+e: nosso cachorro muda de pelo toda primavera
+fs: 1
+hyper: descamar
+hypo: verb.contact:jogar_fora
+sa: @en:verb.body:exuviate
+
+w: depilar
+d: @en_remove body hair
+fs: 8
+hypo: verb.change:remover 5
+sa: @en:verb.body:depilate
+
+w: descamar
+w: descamar-se
+d: @en_peel off in scales
+fs: 1
+hypo: depenar
+sa: @en:verb.body:desquamate
+
+w: descontrair
+w: pegar_leve
+w: relaxar
+d: ficar menos tenso, descansar ou pegar leve
+e: Ele gostava de relaxar num banho quente.
+e: Vamos descontrair após um dia duro de trabalho.
+fs: 2 23
+hyper: @en_sit_back
+hyper: @en_vege_out
+hypo: verb.change:revoltar
+sa: @en:verb.body:decompress
+
+w: desdenhar
+d: expressar através de um sorriso desdenhoso
+fs: 2 22
+hypo: verb.communication:expressar 3
+sa: @en:verb.body:sneer 1
+vg: @en_sneer
+
+w: desfalecer
+w: desmaiar
+w: esvanecer
+d: @en_pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain
+fs: 2
+hypo: @en_black_out
+sa: @en:verb.body:conk
+
+w: desinfectar
+w: desinfetar
+d: destruir microorganismos por limpeza
+fs: 10 9 8
+hyper: @en_chlorinate
+hyper: antisepticizar
+hyper: esterilizar 1
+hypo: verb.contact:assear
+sa: @en:verb.body:disinfect
+
+w: desintoxicar
+w: detoxicar
+w: detoxificar
+d: tratar a dependência de álcool ou drogas
+fs: 9
+hypo: tratar
+sa: @en:verb.body:detox
+
+w: desnudar
+w: despir
+w: despojar
+d: @en_get undressed
+fs: 9 2 8
+hyper: @en_take_off
+hypo: verb.change:sacar 4
+sa: @en:verb.body:discase
+vg: verb.change:desnudar
+
+w: destruir
+d: @en_weaken or destroy in spirit or body
+fs: 10
+hypo: verb.change:enfraquecer 6
+sa: @en:verb.body:break 10
+
+w: digitalizar
+d: @en_administer digitalis such that the patient benefits maximally without getting adverse effects
+fs: 9
+hypo: administrar
+mt: noun.act:Incisão
+sa: @en:verb.body:digitalize
+
+w: diminuir
+d: @en_diminish or discontinue abruptly
+fs: 1
+hypo: verb.change:decrescer 2
+sa: @en:verb.body:break 11
+
+w: doer 1
+w: sofrer 1
+d: sentir dor, estar com dor
+fs: 2 1
+hyper: @en_ail 1
+hyper: afogar
+hyper: padecer
+hyper: verb.consumption:estar_esfomeado
+hypo: verb.stative:estar 2
+sa: @en:verb.body:hurt 2
+
+w: dopar
+w: drogar
+w: narcotizar
+d: administrar uma droga
+fs: 9
+hyper: @en_narcotise
+hyper: @en_o.d.
+hyper: anestesiar
+hyper: drogar 1
+hyper: envenenar
+hypo: medicar 1
+mt: noun.act:Incisão
+sa: @en:verb.body:dose
+
+w: dormir_até_mais_tarde
+d: @en_sleep later than usual or customary
+fs: 2
+hypo: capotar
+sa: @en:verb.body:sleep_in
+
+w: dormir_demais
+d: dormir mais do que o desejado
+fs: 2
+entail: capotar
+sa: @en:verb.body:oversleep
+
+w: drogar 1
+d: dar um narcótico para
+fs: 9
+hyper: @en_soup
+hypo: dopar
+mt: noun.act:Incisão
+sa: @en:verb.body:dope
+
+w: duchar
+d: @en_direct a spray of water into a bodily cavity, for cleaning
+fs: 2 9
+hypo: lavar
+sa: @en:verb.body:douche
+
+w: eclodir
+d: @en_emerge from the eggs
+fs: 2
+hypo: verb.change:nascer
+sa: @en:verb.body:hatch 1
+vg: eclodir 1
+
+w: eclodir 1
+d: @en_sit on (eggs)
+fs: 2
+entail: verb.motion:assentar-se
+hypo: gerar 2
+sa: @en:verb.body:brood
+vg: eclodir
+vg: verb.contact:@en_breed
+
+w: ejacular
+d: @en_eject semen
+fs: 2
+hypo: ejetar
+sa: @en:verb.body:ejaculate
+
+w: ejetar
+w: expelir
+w: expulsar
+w: liberar
+d: eliminar (uma substância)
+e: produtos da combustão são expelidos no motor
+e: a planta libera gases
+e: a planta libera gases
+e: produtos da combustão são expelidos no motor
+fs: 11 8
+hyper: @en_blow
+hyper: @en_fester
+hyper: @en_ovulate
+hyper: abortar
+hyper: cuspir
+hyper: ejacular
+hyper: expelir 1
+hyper: peidar
+hyper: sangrar
+hyper: vomitar 1
+sa: @en:verb.body:discharge
+
+w: emagrecer
+w: perder_peso
+w: reduzir_peso
+d: perder peso
+fs: 2
+hyper: @en_sweat_off
+hypo: verb.change:revoltar
+sa: @en:verb.body:lose_weight
+
+w: emanar
+d: @en_give out (breath or an odor)
+fs: 8 11
+hypo: peidar
+sa: @en:verb.body:emanate
+
+w: embriagar
+w: intoxicar
+d: @en_have an intoxicating effect on, of a drug
+fs: 10
+hypo: envenenar
+sa: @en:verb.body:intoxicate
+
+w: emplumar
+d: crescer penas
+fs: 1
+hypo: adquirir
+sa: @en:verb.body:feather
+
+w: empoar
+d: @en_apply powder to
+fs: 8
+hyper: @en_talc
+hypo: maquiar
+sa: @en:verb.body:powder
+
+w: emprenhar
+w: engravidar 1
+d: fazer engravidar
+e: ele engravidou sua mulher novamente
+fs: 9
+hypo: fecundar
+sa: @en:verb.body:bang_up
+vg: emprenhar 1
+
+w: emprenhar 1
+d: @en_fertilize and cause to grow
+fs: 8
+hyper: @en_inoculate
+hypo: fecundar
+sa: @en:verb.body:impregnate 1
+vg: emprenhar
+
+w: endurecer
+w: esfriar
+d: repentinamente agir de forma fria e formal
+e: ela paralizou quando viu seu ex-marido
+fs: 2
+hypo: agir
+sa: @en:verb.body:freeze 2
+
+w: enfaixar
+d: @en_dress by covering or binding
+fs: 8
+hyper: @en_ligate
+hypo: @en_dress 3
+mt: noun.act:Incisão
+sa: @en:verb.body:bandage
+
+w: enfatizar
+w: realçar
+d: @en_apply a highlighter to one's cheeks or eyebrows in order to make them more prominent
+fs: 8
+hypo: maquiar
+sa: @en:verb.body:highlight
+
+w: engordar
+w: ganhar_peso
+d: acrescentar (peso a si mesmo)
+e: ela ganhou 20 pounds quando ela parou de exercitar
+fs: 2
+hyper: @en_fill_out
+hyper: @en_pack_on
+hypo: verb.change:revoltar
+sa: @en:verb.body:gain
+
+w: enlanguescer
+d: @en_become feeble
+fs: 22
+hypo: degenerar
+sa: @en:verb.body:fade
+
+w: ensaboar
+d: @en_rub soap all over, usually with the purpose of cleaning
+fs: 9 8
+entail: lavar_se
+hypo: lavar
+sa: @en:verb.body:lather
+
+w: envenenar
+d: @en_administer poison to
+fs: 9 10
+hyper: embriagar
+hypo: dopar
+sa: @en:verb.body:poison
+vg: verb.contact:envenenar 1
+
+w: erguer
+w: levantar 1
+d: @en_cause to rise
+fs: 10 9
+hypo: verb.motion:alçar
+sa: @en:verb.body:get_up 1
+
+w: esfregar
+d: @en_wash thoroughly
+fs: 2
+hypo: lavar_se
+sa: @en:verb.body:scrub
+
+w: espairecer
+w: relaxar 1
+d: causar a sentir-se relaxado
+fs: 9 10 8
+cause: descontrair
+hyper: @en_unbend
+hypo: afectar
+sa: @en:verb.body:loosen_up 1
+
+w: espirrar
+d: @en_exhale spasmodically, as when an irritant entered one's nose
+fs: 2
+entail: axalar
+hypo: agir_involuntariamente
+sa: @en:verb.body:sneeze
+
+w: estar_bem
+w: sentir-se_bem
+d: estar saudável; sentir-se bem
+e: ela não tem se sentido bem recentemente
+fs: 2 1
+hypo: verb.stative:estar 2
+sa: @en:verb.body:be_well
+
+w: esterilizar
+d: tornar infértil
+e: em alguns paises pessoas com doenças geneticamente transmissíveis são esterilizadas
+fs: 9
+hyper: @en_alter
+hyper: @en_vasectomise
+hyper: capar
+hypo: operar
+sa: @en:verb.body:desex
+
+w: esterilizar 1
+d: @en_make free from bacteria
+fs: 8
+hyper: @en_autoclave
+hypo: desinfectar
+sa: @en:verb.body:sterilise 1
+
+w: esticar 2
+d: esticar (pescoço), a fim de ver melhor
+e: Ela esticava o pescoço para ver bem o mar.
+fs: 8
+hypo: alongar
+sa: @en:verb.body:crane
+
+w: estirar
+w: puxar
+d: extender  demais
+e: o atlelta estirou um tendão na competição
+e: O atlelta estirou um tendão na competição.
+fs: 8
+hypo: ferir 2
+sa: @en:verb.body:overstretch
+
+w: estivar
+d: dormir durante o verão
+fs: 1
+hypo: capotar
+sa: @en:verb.body:aestivate
+
+w: estratificar
+d: tornar fértil e preservar, colocando entre as camadas de terra ou areia
+fs: 11
+hypo: fecundar
+sa: @en:verb.body:stratify
+vg: verb.contact:estratificar
+
+w: estremecer
+w: sacudir
+w: tremer
+d: mover com ou como se tivesse um tremor
+e: sua mão tremia
+fs: 2 1
+hypo: mover_involuntariamente
+sa: @en:verb.body:didder
+
+w: estressar
+w: tensionar
+d: causar um estado tenso, inquieto, nervoso ou ansioso
+e: ele recebeu um telefonema do seu advogado que o estressou
+e: Ele recebeu um telefonema do seu advogado que o estressou.
+fs: 8 10
+cause: ficar_tenso
+hyper: alongar
+hypo: afectar
+sa: @en:verb.body:strain
+
+w: exaurir 1
+d: desgastar completamente
+fs: 9 10
+hyper: @en_frazzle
+hyper: @en_play
+hyper: verb.change:@en_kill 1
+hypo: cansar-se
+sa: @en:verb.body:beat
+
+w: excretar
+d: @en_generate and separate from cells or bodily fluids
+fs: 11 8
+hyper: @en_water
+hypo: exsudar
+sa: @en:verb.body:release
+
+w: exercitar
+w: malhar
+d: fazer execício físico
+e: ela se exercita na academia todo dia
+fs: 2 8
+entail: verb.motion:deslocar 1
+hyper: @en_limber_up
+hyper: @en_strengthen
+hyper: @en_tumble
+hyper: treinar 1
+hyper: verb.competition:@en_press
+sa: @en:verb.body:exercise
+vg: exercitar-se
+
+w: exercitar-se
+w: malhar 1
+w: treinar
+d: @en_give a workout to
+fs: 8 9
+cause: exercitar
+hyper: @en_warm_up 1
+hypo: verb.social:@en_put_to_work
+sa: @en:verb.body:exercise 1
+vg: exercitar
+
+w: expelir 1
+d: @en_eliminate from the body
+fs: 8
+hyper: @en_empty
+hyper: cagar
+hyper: exsudar
+hyper: fazer_xixi
+hyper: regurgitar
+hyper: suar
+hyper: urinar 1
+hypo: ejetar
+sa: @en:verb.body:egest
+
+w: experimentar
+d: colocar uma roupa, a fim de ver se ele se encaixa e parece bom
+e: Experimente esta camisola para ver como fica
+fs: 8
+hypo: caber
+sa: @en:verb.body:try
+
+w: exsudar
+w: transpirar
+d: @en_release (a liquid) in drops or small quantities
+fs: 8 11 1
+hyper: @en_distil
+hyper: @en_extravasate
+hyper: @en_froth
+hyper: @en_fume
+hyper: @en_gum
+hyper: @en_stream
+hyper: excretar
+hyper: suar 1
+hypo: expelir 1
+sa: @en:verb.body:exudate
+
+w: fatigar
+d: @en_lose interest or become bored with something or somebody
+fs: 2
+hyper: @en_conk_out
+hyper: verb.emotion:desinteressar
+hypo: degenerar
+sa: @en:verb.body:fatigue 1
+
+w: fazer_cara_feia
+w: franzir_o_cenho
+d: @en_look angry or sullen, wrinkle one's forehead, as if to signal disapproval
+fs: 22 2
+hyper: @en_scowl
+hypo: fazer_careta
+sa: @en:verb.body:frown
+
+w: fazer_careta
+d: contorcer o rosto para indicar um determinado estado mental ou emocional
+fs: 2
+hyper: @en_mop
+hyper: @en_screw_up
+hyper: @en_wince
+hyper: fazer_cara_feia
+hyper: olhar_de_soslaio
+hyper: sorrir
+hypo: verb.communication:comunicar 1
+sa: @en:verb.body:grimace
+
+w: fazer_como_se
+d: Iniciar ou parecer iniciar uma ação
+e: Ele fez como se fosse apertar minha mão
+fs: 28
+hypo: agir
+sa: @en:verb.body:make_as_if
+
+w: fazer_xixi
+w: mijar
+w: urinar
+d: @en_eliminate urine
+fs: 2 1
+hyper: @en_stale
+hyper: @en_wet
+hypo: expelir 1
+sa: @en:verb.body:make 1
+vg: cagar
+vg: urinar 1
+
+w: fecundar
+w: fertilizar
+w: inseminar
+d: introduzir sêmem em uma fêmea
+fs: 9
+hyper: @en_cross-fertilise 1
+hyper: @en_cross-pollinate
+hyper: emprenhar
+hyper: emprenhar 1
+hyper: estratificar
+hypo: verb.change:alterar 2
+sa: @en:verb.body:fecundate
+
+w: ferir 2
+w: lesar 1
+w: lesionar
+w: machucar 2
+d: provocar ferimentos ou danos corporais em alguém
+fs: 9 11 10 8
+hyper: @en_calk
+hyper: @en_concuss
+hyper: @en_disable
+hyper: @en_shock
+hyper: @en_subluxate
+hyper: amassar
+hyper: atormentar
+hyper: atropelar
+hyper: danificar
+hyper: estirar
+hyper: fraturar 1
+hyper: mutilar
+hyper: torcer
+hyper: verb.competition:atirar 3
+hyper: verb.contact:@en_graze 1
+hyper: verb.contact:aferroar
+hyper: verb.contact:contundir
+hyper: verb.contact:escorriar
+hypo: aleijar 1
+sa: @en:verb.body:injure
+
+w: fibrilar
+d: @en_make fine, irregular, rapid twitching movements
+fs: 1
+hypo: saculejar
+sa: @en:verb.body:fibrillate
+
+w: ficar_tenso
+d: tornar-se tenso, nervoso ou inquieto
+fs: 2 1 23
+hypo: verb.change:revoltar
+sa: @en:verb.body:tense 1
+
+w: fracturar
+w: fraturar
+d: @en_become fractured
+fs: 1
+hypo: verb.change:interromper 4
+sa: @en:verb.body:fracture 2
+vg: fraturar 2
+
+w: fraturar 1
+w: quebrar
+d: @en_fracture a bone of
+fs: 8
+hypo: ferir 2
+sa: @en:verb.body:break 4
+vg: fraturar 2
+
+w: fraturar 2
+w: quebrar 1
+d: @en_break (a bone)
+fs: 8
+hyper: @en_refracture
+sa: @en:verb.body:fracture 1
+vg: fracturar
+vg: fraturar 1
+
+w: frutificar
+d: @en_bear fruit
+fs: 1
+hypo: gerar 2
+sa: @en:verb.body:fructify
+
+w: fulminar
+d: @en_look at with a fixed gaze
+fs: 2 22
+hypo: olhar
+sa: @en:verb.body:glare
+
+w: fungar
+d: @en_snuff up mucus through the nose
+fs: 2
+hypo: inalar
+sa: @en:verb.body:snivel
+
+w: gangrenar
+w: necrosar
+d: sofrer necrose
+e: o tecido em torno da ferida necrosou.
+fs: 23
+hypo: apodrecer
+sa: @en:verb.body:gangrene
+
+w: gargalhar
+w: rir
+d: produzir  riso
+fs: 22 2
+hyper: @en_bellylaugh
+hyper: @en_break_up
+hyper: @en_cachinnate
+hyper: @en_giggle
+hyper: @en_guffaw
+hyper: @en_howl
+hyper: cacarejar
+hyper: casquinar
+hyper: convulsionar
+hyper: gracejar
+hyper: zurrar
+hypo: verb.emotion:expressar_sentimentos
+sa: @en:verb.body:express_joy
+
+w: gerar 1
+w: procriar 1
+d: @en_lay spawn
+fs: 1
+hyper: @en_spat
+hypo: verb.contact:botar 1
+sa: @en:verb.body:spawn
+
+w: gerar 2
+w: procriar 2
+w: reproduzir
+d: ter filhos ou produzir mais indivíduos de um determinado animal ou planta
+e: a bíblia diz para as pessoas procriarem
+fs: 2
+hyper: @en_breed
+hyper: eclodir 1
+hyper: frutificar
+hyper: propagar
+hypo: verb.creation:causar 1
+mt: noun.cognition:biologia
+sa: @en:verb.body:multiply 1
+
+w: gracejar
+d: @en_laugh quietly or with restraint
+fs: 2
+hypo: gargalhar
+sa: @en:verb.body:chortle
+
+w: hibernar
+d: @en_sleep during winter
+fs: 1
+hypo: capotar
+sa: @en:verb.body:hibernate
+
+w: hipertrofiar
+d: @en_undergo hypertrophy
+fs: 1
+hypo: verb.change:aumentar 23
+sa: @en:verb.body:hypertrophy
+
+w: hiperventilar
+d: @en_breathe excessively hard and fast
+fs: 2
+hypo: bafejar
+sa: @en:verb.body:hyperventilate
+vg: hiperventilar 1
+
+w: hiperventilar 1
+d: @en_produce hyperventilation in
+fs: 9
+hypo: tratar
+sa: @en:verb.body:hyperventilate 1
+vg: hiperventilar
+
+w: hipnotizar
+w: mesmerizar
+d: @en_induce hypnosis in
+fs: 9 10
+hyper: @en_entrance
+hypo: sedar
+sa: @en:verb.body:hypnotise
+
+w: inalar
+w: inspirar
+d: @en_draw in (air)
+fs: 2 8
+hyper: @en_sniff
+hyper: @en_snuff
+hyper: aspirar
+hyper: fungar
+hyper: verb.consumption:@en_drag
+hyper: verb.consumption:@en_huff
+hypo: bafejar
+sa: @en:verb.body:breathe_in
+
+w: indispor
+d: causar um sentimento de mal-estar
+e: ela estava indisposta
+fs: 10
+hyper: aleijar 1
+hyper: cansar-se
+hyper: constipar
+hypo: verb.change:alterar 2
+sa: @en:verb.body:indispose
+
+w: inflamar
+d: @en_cause inflammation in
+fs: 11 10
+hypo: verb.change:agravar
+sa: @en:verb.body:inflame 1
+vg: inflamar 1
+
+w: inflamar 1
+d: @en_become inflamed; get sore
+fs: 1
+hypo: verb.change:decair
+sa: @en:verb.body:inflame
+vg: inflamar
+
+w: inicializar
+w: iniciar
+d: @en_cause to load (an operating system) and start the initial processes
+fs: 8
+hypo: _ressuscitar
+sa: @en:verb.body:boot
+
+w: injectar
+w: injetar
+d: @en_give an injection to
+fs: 9 17
+hyper: @en_infuse
+hyper: vacinar
+hypo: administrar
+mt: noun.act:Incisão
+sa: @en:verb.body:inject
+vg: verb.contact:@en_inject
+
+w: inocular
+d: @en_insert a bud for propagation
+fs: 8
+hypo: propagar 1
+sa: @en:verb.body:inoculate 2
+
+w: insuflar
+d: soprar ou respirar  para dentro
+fs: 8
+hypo: assoprar
+sa: @en:verb.body:insufflate
+vg: @en_insufflate
+
+w: iodizar
+d: tratar com iodo de modo a prevenir uma infecção
+fs: 8
+hypo: tratar
+sa: @en:verb.body:iodise
+
+w: irritar
+d: provocar uma condição anormal, irritar ou inflamar
+e: aspirina irrita o meu estômago
+fs: 10 11
+hyper: verb.perception:@en_chafe
+hyper: verb.perception:coçar
+hypo: verb.change:agravar
+sa: @en:verb.body:irritate
+
+w: lacrimejar
+d: se encher de lágrimas ou derramar lágrimas
+e: os olhos dela estavam lacrimejando
+fs: 1
+hypo: choramingar
+sa: @en:verb.body:tear
+
+w: lavar
+w: limpar
+d: limpar o seu corpo ou partes do mesmo, como se estivesse usando água
+e: se arrume antes de ver seus avós
+e: "lave suas mãos antes do jantar";
+fs: 2 8 9
+hyper: @en_bathe
+hyper: @en_floss
+hyper: @en_wash
+hyper: banhar-se
+hyper: duchar
+hyper: ensaboar
+hyper: lavar_se
+hyper: verb.change:descontaminar
+hypo: cuidar-se
+sa: @en:verb.body:clean
+
+w: lavar_se
+w: limpar 1
+d: limpar (o seu próprio corpo) com  água e sabão
+fs: 8 9 2
+hyper: @en_shampoo
+hyper: @en_sponge_down
+hyper: bochechar
+hyper: esfregar
+hyper: verb.change:@en_hush
+hypo: lavar
+sa: @en:verb.body:lave
+vg: @en_wash
+
+w: limpar 2
+d: @en_make oneself clean, presentable or neat
+fs: 2
+hypo: cuidar-se
+sa: @en:verb.body:clean_up
+
+w: manicurar
+d: @en_care for (one's hand) by cutting and shaping the nails, etc.
+fs: 8
+hypo: cuidar-se
+sa: @en:verb.body:manicure
+
+w: manicurar 1
+d: @en_trim carefully and neatly
+fs: 8
+hypo: verb.contact:cortar 4
+sa: @en:verb.body:manicure 1
+
+w: manipular
+d: @en_treat manually, as with massage, for therapeutic purposed
+fs: 8
+hypo: tratar
+sa: @en:verb.body:manipulate
+
+w: maquiar
+w: maquilar
+d: aplicar maquiagem ou cosméticos na face para parecer bonitão
+e: ela se maqueia todas as manhãs
+fs: 2 9
+hyper: @en_lipstick
+hyper: empoar
+hyper: enfatizar
+hyper: pintar
+hypo: cuidar-se
+sa: @en:verb.body:make_up
+
+w: massagear
+d: @en_give a massage to
+fs: 9 8
+hypo: tratar
+sa: @en:verb.body:massage
+
+w: medicar
+d: @en_give medical treatment to
+fs: 8 9
+hyper: @en_vet
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:doctor
+
+w: medicar 1
+d: @en_treat medicinally, treat with medicine
+fs: 9
+hyper: @en_salve
+hyper: dopar
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:medicate
+
+w: menstruar
+d: @en_undergo menstruation
+fs: 2
+entail: @en_ovulate
+hypo: sangrar
+sa: @en:verb.body:flow
+
+w: mover
+d: estar em um estado de ação
+e: ela está sempre se movendo
+fs: 2
+hyper: verb.motion:@en_bestir
+sa: @en:verb.body:be_active
+
+w: mover_involuntariamente
+w: mover_reflexivamente
+d: mover de forma incontrolada
+fs: 2 23
+hyper: estremecer
+hyper: saculejar
+hyper: tiritar
+hypo: verb.motion:deslocar 1
+sa: @en:verb.body:move_involuntarily
+
+w: mutilar
+d: @en_injure or wound seriously and leave permanent disfiguration or mutilation
+fs: 10 9
+hyper: @en_mar
+hyper: aleijar
+hypo: ferir 2
+sa: @en:verb.body:maim
+
+w: olhar
+d: @en_fixate one's eyes
+fs: 2
+hyper: fulminar
+hypo: verb.perception:mirar 4
+sa: @en:verb.body:stare
+
+w: olhar_de_soslaio
+w: ser_vesgo
+w: vesguear
+d: @en_cross one's eyes as if in strabismus
+fs: 2
+hypo: fazer_careta
+sa: @en:verb.body:squinch
+
+w: operar
+d: fazer cirurgia em alguem
+e: os medicos operaram o paciente, mas falharam ao tentar salvar a vida dele
+fs: 9 8
+hyper: @en_face-lift
+hyper: @en_trephine
+hyper: @en_venesect
+hyper: esterilizar
+hypo: tratar
+mt: noun.act:Incisão
+sa: @en:verb.body:operate
+
+w: padecer
+w: ter 2
+d: sofrer de; estar doente com
+e: ela estava com artrite
+fs: 8
+hypo: doer 1
+sa: @en:verb.body:have 2
+vg: contrair 1
+
+w: padecer 1
+w: sofrer 2
+d: @en_feel unwell or uncomfortable
+fs: 22 2
+hyper: @en_swelter
+hyper: congelar
+hypo: verb.stative:estar 2
+sa: @en:verb.body:suffer 3
+
+w: parir 1
+d: @en_have kittens
+fs: 1
+hypo: dar_à_luz
+sa: @en:verb.body:kitten
+
+w: parir 2
+d: @en_give birth
+fs: 1
+hypo: dar_à_luz
+sa: @en:verb.body:farrow
+
+w: parir 3
+d: @en_give birth to a foal
+fs: 1
+hypo: dar_à_luz
+sa: @en:verb.body:foal
+
+w: parir 4
+d: @en_give birth to a litter of animals
+fs: 1
+hypo: dar_à_luz
+sa: @en:verb.body:litter
+
+w: parir 5
+d: submeter-se aos esforços do parto
+fs: 2
+entail: dar_à_luz
+hypo: verb.perception:experimentar 1
+sa: @en:verb.body:labor
+
+w: parir 6
+d: @en_birth
+fs: 1
+hypo: dar_à_luz
+sa: @en:verb.body:calve
+
+w: parir 7
+d: @en_give birth to a lamb
+fs: 1
+hypo: dar_à_luz
+sa: @en:verb.body:lamb
+
+w: parir 8
+d: @en_birth
+fs: 1
+hypo: dar_à_luz
+sa: @en:verb.body:pup
+
+w: parir 9
+d: @en_have fawns
+fs: 1
+hypo: dar_à_luz
+sa: @en:verb.body:fawn
+
+w: peidar
+d: @en_expel (gases or odors)
+fs: 8 11
+hyper: @en_force_out
+hyper: arrotar
+hyper: emanar
+hyper: verb.change:bolhadear
+hyper: verb.change:irradiar 1
+hypo: ejetar
+sa: @en:verb.body:breathe 1
+
+w: peidar 1
+d: @en_expel intestinal gases through the anus
+fs: 2
+hypo: agir_involuntariamente
+sa: @en:verb.body:break_wind
+
+w: pentear
+d: @en_smoothen and neaten with or as with a comb
+fs: 8
+hyper: @en_fluff
+hyper: @en_sleek_down
+hypo: cuidar-se
+sa: @en:verb.body:comb
+
+w: perfumar
+d: @en_apply perfume to
+fs: 8 9
+hypo: cuidar-se
+sa: @en:verb.body:perfume
+
+w: pestanejar
+w: piscar
+d: rápido fechar dos olhos
+e: O locutor da televisão parece nunca piscar
+fs: 2
+hyper: @en_bat
+hyper: @en_palpebrate
+hypo: agir_involuntariamente
+sa: @en:verb.body:blink
+
+w: pigarrear
+d: @en_clear mucus or food from one's throat
+fs: 2
+hypo: tossir
+sa: @en:verb.body:clear_the_throat
+
+w: pintar
+d: @en_redden by applying rouge to
+fs: 8
+hypo: maquiar
+sa: @en:verb.body:rouge
+
+w: piscar_de_olhos
+w: piscar_os_olhos
+d: @en_force to go away by blinking
+fs: 8
+hypo: verb.change:_reprimir
+sa: @en:verb.body:blink 1
+
+w: piscar_o_olho
+d: @en_signal by winking
+fs: 22
+hypo: verb.communication:gesticular
+sa: @en:verb.body:wink 2
+
+w: prender
+w: segurar
+d: @en_keep from exhaling or expelling
+fs: 8
+hypo: verb.social:coibir
+sa: @en:verb.body:hold 4
+
+w: presumir
+d: tomar liberdades ou agir com muita confiança
+fs: 2
+hypo: agir
+sa: @en:verb.body:presume
+
+w: propagar
+d: @en_multiply sexually or asexually
+fs: 1
+hyper: @en_vegetate 1
+hypo: gerar 2
+mt: noun.cognition:biologia
+sa: @en:verb.body:propagate
+
+w: propagar 1
+d: @en_cause to propagate, as by grafting or layering
+fs: 8
+cause: propagar
+hyper: inocular
+hypo: verb.change:@en_process
+mt: noun.Tops:flora
+sa: @en:verb.body:propagate 1
+
+w: ranger
+d: @en_grind together, of teeth
+fs: 8
+hypo: verb.contact:ranger
+sa: @en:verb.body:gnash
+
+w: refrescar
+d: @en_become or make oneself fresh again
+fs: 1 2
+hyper: @en_lave
+hypo: verb.change:alterar 1
+sa: @en:verb.body:freshen 2
+
+w: refrescar 1
+d: @en_make fresh again
+fs: 10 9
+hypo: verb.change:alterar 2
+sa: @en:verb.body:freshen
+
+w: regenerar
+d: @en_restore strength
+fs: 11 10
+hyper: verb.change:@en_rejuvenate 1
+hypo: verb.change:aperfeiçoar 2
+sa: @en:verb.body:regenerate
+
+w: regenerar 1
+d: @en_undergo regeneration
+fs: 1
+hyper: @en_rejuvenate
+hypo: verb.change:alterar 1
+sa: @en:verb.body:regenerate 1
+
+w: regurgitar
+w: vomitar
+d: @en_eject the contents of the stomach through the mouth
+fs: 2
+hypo: expelir 1
+sa: @en:verb.body:barf
+
+w: respirar_ruidosamente
+d: @en_breathe with difficulty
+fs: 2
+hypo: bafejar
+sa: @en:verb.body:wheeze
+
+w: ressonar
+w: roncar
+d: @en_breathe noisily during one's sleep
+fs: 2
+entail: capotar
+hypo: bafejar
+sa: @en:verb.body:saw_logs
+
+w: ressuscitar
+d: @en_cause to become alive again
+fs: 9 10
+hypo: _ressuscitar
+sa: @en:verb.body:raise
+vg: ressuscitar 1
+
+w: ressuscitar 1
+d: @en_return from the dead
+fs: 2 1
+hypo: verb.motion:devolver 1
+sa: @en:verb.body:resurrect 1
+vg: ressuscitar
+
+w: rolar
+d: executar cambalhotas
+fs: 2
+hypo: @en_tumble
+sa: @en:verb.body:roll 6
+
+w: romantizar
+d: agir de uma maneira romântica
+fs: 2
+hypo: agir
+sa: @en:verb.body:romanticize
+
+w: saculejar
+w: tremer 1
+d: @en_make an uncontrolled, short, jerky motion
+fs: 2 23
+hyper: fibrilar
+hypo: mover_involuntariamente
+sa: @en:verb.body:jerk
+vg: verb.motion:@en_jerk
+
+w: salivar
+d: @en_produce saliva
+fs: 2
+hyper: babar
+hypo: agir_involuntariamente
+sa: @en:verb.body:salivate
+
+w: sangrar
+d: @en_lose blood from one's body
+fs: 2
+hyper: menstruar
+hypo: ejetar
+sa: @en:verb.body:bleed
+
+w: sedar
+w: tranquilizar
+d: @en_cause to be calm or quiet as by administering a sedative to
+fs: 9
+hyper: hipnotizar
+hypo: afectar
+sa: @en:verb.body:calm
+
+w: simular
+d: fingir ter certas qualidades ou certos estados de espírito
+fs: 9
+hypo: agir
+sa: @en:verb.body:act 1
+vg: agir
+vg: verb.creation:atuar 1
+
+w: soluçar
+d: @en_breathe spasmodically, and make a sound
+fs: 2
+hypo: bafejar
+sa: @en:verb.body:hiccough
+
+w: sorrir
+d: @en_change one's facial expression by spreading the lips, often to signal pleasure
+fs: 22 2
+hyper: @en_dimple
+hyper: @en_sneer
+hyper: sorrir 1
+hyper: sorrir 2
+hyper: sorrir 3
+hypo: fazer_careta
+sa: @en:verb.body:smile
+
+w: sorrir 1
+d: @en_to draw back the lips and reveal the teeth, in a smile, grimace, or snarl
+fs: 2
+hypo: sorrir
+sa: @en:verb.body:grin
+
+w: sorrir 2
+d: @en_smile affectedly or derisively
+fs: 2 22
+hyper: @en_fleer
+hypo: sorrir
+sa: @en:verb.body:simper
+
+w: sorrir 3
+d: @en_smile radiantly; express joy through one's facial expression
+fs: 2
+hypo: sorrir
+sa: @en:verb.body:beam
+
+w: suar
+w: transpirar 1
+d: @en_excrete perspiration through the pores in the skin
+fs: 2
+hyper: @en_swelter 1
+hypo: expelir 1
+sa: @en:verb.body:perspire
+
+w: suar 1
+w: transpirar 2
+d: desprender (água) através da pele
+fs: 2
+hypo: exsudar
+sa: @en:verb.body:transpire
+
+w: supurar
+d: @en_cause to ripen and discharge pus
+fs: 8
+hypo: @en_draw
+sa: @en:verb.body:mature 4
+vg: @en_fester
+
+w: suspirar
+d: @en_heave or utter a sigh; breathe deeply and heavily
+fs: 2
+hypo: bafejar
+sa: @en:verb.body:sigh
+
+w: tentar_vomitar
+d: fazer um esforço mal sucedido de vomitar; esforçar-se para vomitar
+fs: 2
+sa: @en:verb.body:gag 1
+
+w: tiritar
+w: tremelicar
+w: tremer 2
+d: tremer, por causa do frio
+e: As crianças estão tremendo -- ligue o aquecedor!
+fs: 2 1
+hypo: mover_involuntariamente
+sa: @en:verb.body:shiver
+
+w: torcer
+d: @en_twist suddenly so as to sprain
+fs: 8
+hypo: ferir 2
+sa: @en:verb.body:rick
+
+w: tossir
+d: Expirar abruptamente, como quando um tem uma gripe ou congestão
+fs: 2 8
+hyper: @en_hack
+hyper: pigarrear
+hypo: cuspir
+sa: @en:verb.body:cough
+
+w: tratar
+d: @en_provide treatment for
+fs: 9 8
+hyper: @en_bleed
+hyper: @en_cup
+hyper: @en_dress 3
+hyper: @en_insufflate
+hyper: @en_irrigate
+hyper: @en_nurse
+hyper: @en_pack
+hyper: @en_purge
+hyper: @en_shock 1
+hyper: @en_splint
+hyper: @en_vet 1
+hyper: administrar
+hyper: corrigir
+hyper: curar 1
+hyper: desintoxicar
+hyper: hiperventilar 1
+hyper: iodizar
+hyper: manipular
+hyper: massagear
+hyper: medicar
+hyper: medicar 1
+hyper: operar
+hyper: verb.change:cauterizar
+hyper: verb.cognition:analisar
+sa: @en:verb.body:care_for
+
+w: treinar 1
+d: @en_exercise in order to prepare for an event or competition
+fs: 2
+hypo: exercitar
+sa: @en:verb.body:train
+vg: verb.communication:praticar
+
+w: ulcerar
+d: @en_affect with an ulcer
+fs: 11
+hypo: afectar
+sa: @en:verb.body:ulcerate
+
+w: ungir
+w: untar
+d: @en_administer an oil or ointment to ; often in a religious ceremony of blessing
+fs: 17 9 8
+hypo: verb.communication:abençoar
+sa: @en:verb.body:anele
+
+w: urinar 1
+d: passar à maneira de urina
+fs: 8
+hypo: expelir 1
+sa: @en:verb.body:urinate 1
+vg: fazer_xixi
+
+w: usar 1
+w: vestir 3
+d: @en_be dressed in
+fs: 8
+entail: arrumar-se
+sa: @en:verb.body:have_on
+
+w: vacinar
+d: @en_perform vaccinations or produce immunity in by inoculation
+fs: 2 9
+hypo: injectar
+mt: noun.act:Incisão
+sa: @en:verb.body:immunise
+
+w: vestido
+d: @en_dress in a gown
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:gown
+
+w: vestido 1
+w: vestir 4
+d: @en_clothe formally; especially in ecclesiastical robes
+fs: 9
+hypo: vestir 7
+sa: @en:verb.body:robe
+vg: @en_vest
+
+w: vestir 5
+d: @en_dress in a certain manner
+fs: 22
+hyper: @en_vest
+hypo: arrumar-se
+sa: @en:verb.body:dress 7
+vg: arrumar-se
+vg: arrumar-se 1
+
+w: vestir 6
+d: @en_have on one's person
+fs: 8
+hypo: verb.stative:apresenta
+sa: @en:verb.body:bear 2
+
+w: vestir 7
+d: @en_provide with clothes or put clothes on
+fs: 8 9
+hyper: @en_coat
+hyper: @en_corset
+hyper: @en_costume
+hyper: @en_cover
+hyper: @en_frock
+hyper: @en_habit
+hyper: @en_jacket
+hyper: @en_overclothe
+hyper: @en_prim
+hyper: @en_shirt
+hyper: @en_underdress 1
+hyper: @en_vesture
+hyper: calçar
+hyper: vestido
+hyper: vestido 1
+hypo: verb.change:revoltar
+sa: @en:verb.body:apparel
+vg: arrumar-se
+
+w: vomitar 1
+d: @en_eject or send out in large quantities, also metaphorical
+fs: 8 11
+hypo: ejetar
+sa: @en:verb.body:eruct 4
+
+w: vulgarizar
+d: @en_act in a vulgar manner
+fs: 2
+hypo: agir
+sa: @en:verb.body:vulgarise
+
+w: zurrar
+d: @en_laugh loudly and harshly
+fs: 2 22
+hypo: gargalhar
+sa: @en:verb.body:bray
+
