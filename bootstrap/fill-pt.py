@@ -12,22 +12,37 @@ import click
 
 WN30PT = Namespace("https://w3id.org/own-pt/wn30-pt/instances/") # not used (yet)
 WN30 = Namespace("https://w3id.org/own-pt/wn30/schema/")
-CONTAINS_WORDSENSE = WN30["containsWordSense"]
-SAME_AS = OWL["sameAs"]
-SYNTACTIC_MARKER = WN30["syntacticMarker"]
-LEXICAL_FORM = WN30["lexicalForm"]
-FRAME = WN30["frame"]
-WORD = WN30["word"]
-LANG = WN30["lang"]
-LEXICAL_ID = WN30["lexicalId"]
-GLOSS = WN30["gloss"]
-EXAMPLE = WN30["example"]
-LEXICOGRAPHER_FILE = WN30["lexicographerFile"]
-FORBIDDEN_PREDICATE_LIST = [LANG, CONTAINS_WORDSENSE, SAME_AS, SKOS["inScheme"], GLOSS, WN30["synsetId"], RDF["type"], EXAMPLE]
+WN_CONTAINS_WORDSENSE = WN30["containsWordSense"]
+WN_SAME_AS = OWL["sameAs"]
+WN_LEXICAL_FORM = WN30["lexicalForm"]
+WN_WORD = WN30["word"]
+WN_LANG = WN30["lang"]
+WN_LEXICAL_ID = WN30["lexicalId"]
+WN_GLOSS = WN30["gloss"]
+WN_EXAMPLE = WN30["example"]
+WN_LEXICOGRAPHER_FILE = WN30["lexicographerFile"]
+FORBIDDEN_PREDICATE_LIST = [WN_LANG, WN_CONTAINS_WORDSENSE, WN_SAME_AS, SKOS["inScheme"], WN_GLOSS, WN30["synsetId"], RDF["type"], WN_EXAMPLE]
 FORBIDDEN_PREDICATES = {pred: True for pred in FORBIDDEN_PREDICATE_LIST}
 
 PT = Literal("pt")
 EN = Literal("en")
+
+###
+## fix multiple glosses: add one as definition and the other as
+## examples
+WN_DEFINITION = WN30["definition"]
+
+def fix_multiple_glosses(graph):
+    for synset in graph.subjects(WN_LANG, PT):
+        glosses = list(graph.objects(synset, WN_DEFINITION))
+        if len(glosses) > 1:
+            graph.remove((synset, WN_DEFINITION, None))
+            graph.add((synset, WN_DEFINITION, glosses[0]))
+            for gloss in glosses[1:]:
+                example = Literal("_GLOSS_: ") + gloss
+                graph.add((synset, WN_EXAMPLE, example))
+    return None
+        
 
 
 @click.command()
@@ -45,10 +60,10 @@ def main(input_file, rdf_file_format, output_file):
 
 def go(graph):
     def en_to_pt_synset(en_synset):
-        return graph.value(en_synset,SAME_AS,default=False,any=False)
+        return graph.value(en_synset,WN_SAME_AS,default=False,any=False)
     def synset_minimal_wordsense(synset):
-        wordsenses = graph.objects(synset,CONTAINS_WORDSENSE)
-        word_forms = list(map(lambda ws: graph.value(graph.value(ws, WORD), LEXICAL_FORM), wordsenses))
+        wordsenses = graph.objects(synset,WN_CONTAINS_WORDSENSE)
+        word_forms = list(map(lambda ws: graph.value(graph.value(ws, WN_WORD), WN_LEXICAL_FORM), wordsenses))
         if None in word_forms or not word_forms:
             print(synset)
         min_word_form = min(word_forms)
@@ -58,11 +73,11 @@ def go(graph):
     #
     # use list so that it is safe to add sameAs relations while we
     # iterate over them
-    same_as_relations = list(graph.triples((None, SAME_AS, None)))
+    same_as_relations = list(graph.triples((None, WN_SAME_AS, None)))
     # fill up info from English synset to Portuguese one
     for (en_synset, _, pt_synset) in same_as_relations:
-        graph.add((pt_synset, LANG, PT))
-        graph.add((en_synset, LANG, EN))
+        graph.add((pt_synset, WN_LANG, PT))
+        graph.add((en_synset, WN_LANG, EN))
         # everything else
         for (_, pred, obj) in graph.triples((en_synset, None, None)):
             if pred not in FORBIDDEN_PREDICATES:
@@ -74,26 +89,26 @@ def go(graph):
                 graph.add((subj,pred,pt_synset))
         ## add dummy stuff if missing in Portuguese
         # gloss/definition
-        if (pt_synset, GLOSS, None) not in graph:
+        if (pt_synset, WN_GLOSS, None) not in graph:
             # doing the split here or else the wn2text script will do
             # it for us and then we would have spurious English
             # examples in Portuguese
-            english_definition = graph.value(en_synset, GLOSS).split("; \"")[0].strip()
-            graph.add((pt_synset, GLOSS, Literal("@en_{}".format(english_definition))))
+            english_definition = graph.value(en_synset, WN_GLOSS).split("; \"")[0].strip()
+            graph.add((pt_synset, WN_GLOSS, Literal("@en_{}".format(english_definition))))
         # wordsenses and words
-        wordsenses = list(graph.objects(pt_synset, CONTAINS_WORDSENSE))
+        wordsenses = list(graph.objects(pt_synset, WN_CONTAINS_WORDSENSE))
         # if we don't force the generator the test below is moot
         if wordsenses:
             lexical_forms_seen = {} # to remove duplicate wordsenses
                                     # (usually one form with spaces
                                     # and the other with underscores)
             for wordsense in wordsenses:
-                word = graph.value(wordsense, WORD)
+                word = graph.value(wordsense, WN_WORD)
                 if not word:
                     (_, wordsense_name) = split_uri(wordsense)
                     word = WN30PT["word-{}".format(wordsense_name)]
-                    graph.add((wordsense, WORD, word))
-                new_lexical_form = graph.value(word, LEXICAL_FORM) or graph.value(wordsense, RDFS.label)
+                    graph.add((wordsense, WN_WORD, word))
+                new_lexical_form = graph.value(word, WN_LEXICAL_FORM) or graph.value(wordsense, RDFS.label)
                 lexical_form = Literal(handle_spaces(new_lexical_form))
                 if lexical_forms_seen.get(lexical_form, None):
                     # remove duplicate wordsense
@@ -101,37 +116,36 @@ def go(graph):
                 else:
                     lexical_forms_seen[lexical_form] = True
                     # remove previous lexical_forms
-                    graph.remove((word, LEXICAL_FORM, None))
+                    graph.remove((word, WN_LEXICAL_FORM, None))
                     # add new lexical_form (with underscores instead of spaces)
-                    graph.add((word, LEXICAL_FORM, lexical_form))
+                    graph.add((word, WN_LEXICAL_FORM, lexical_form))
         else:
             (_, synset_uri) = split_uri(pt_synset)
-            english_wordsenses = graph.objects(en_synset, CONTAINS_WORDSENSE)
+            english_wordsenses = graph.objects(en_synset, WN_CONTAINS_WORDSENSE)
             for ix, english_wordsense in enumerate(english_wordsenses):
                 wordsense = WN30PT["wordsense-{}-{}.".format(synset_uri, ix)]
-                graph.add((pt_synset, CONTAINS_WORDSENSE, wordsense))
+                graph.add((pt_synset, WN_CONTAINS_WORDSENSE, wordsense))
                 word = WN30PT["word-{}-{}".format(synset_uri, ix)]
-                graph.add((wordsense, WORD, word))
-                english_lexical_form = graph.value(graph.value(english_wordsense, WORD), LEXICAL_FORM)
-                graph.add((word, LEXICAL_FORM, Literal("@en_{}".format(english_lexical_form))))
+                graph.add((wordsense, WN_WORD, word))
+                english_lexical_form = graph.value(graph.value(english_wordsense, WN_WORD), WN_LEXICAL_FORM)
+                graph.add((word, WN_LEXICAL_FORM, Literal("@en_{}".format(english_lexical_form))))
     # add lexical ids and lexical forms if missing
-    for lexfile in set(graph.objects(predicate=LEXICOGRAPHER_FILE)):
+    for lexfile in set(graph.objects(predicate=WN_LEXICOGRAPHER_FILE)):
         count = {}
-        all_synsets = graph.subjects(predicate=LEXICOGRAPHER_FILE, object=lexfile)
-        synsets = filter(lambda s: graph.value(s,LANG) == PT, all_synsets)
+        all_synsets = graph.subjects(predicate=WN_LEXICOGRAPHER_FILE, object=lexfile)
+        synsets = filter(lambda s: graph.value(s, WN_LANG) == PT, all_synsets)
         for synset in sorted(synsets, key=synset_minimal_wordsense):
-            for wordsense in graph.objects(synset,CONTAINS_WORDSENSE):
-                word = graph.value(wordsense, WORD)
-                if (wordsense, LEXICAL_ID, None) not in graph:
-                    lexical_form = graph.value(word, LEXICAL_FORM)
+            for wordsense in graph.objects(synset,WN_CONTAINS_WORDSENSE):
+                word = graph.value(wordsense, WN_WORD)
+                if (wordsense, WN_LEXICAL_ID, None) not in graph:
+                    lexical_form = graph.value(word, WN_LEXICAL_FORM)
                     lexical_id = count.get(lexical_form, 0)
-                    graph.add((wordsense, LEXICAL_ID, Literal("{}".format(lexical_id))))
+                    graph.add((wordsense, WN_LEXICAL_ID, Literal("{}".format(lexical_id))))
                     count[lexical_form] = lexical_id + 1
-    for en_synset, pt_synset in graph.subject_objects(SAME_AS):
-        graph.remove((en_synset,SAME_AS,pt_synset))
-        graph.add((pt_synset,SAME_AS, en_synset))
+    for en_synset, pt_synset in graph.subject_objects(WN_SAME_AS):
+        graph.remove((en_synset,WN_SAME_AS,pt_synset))
+        graph.add((pt_synset,WN_SAME_AS, en_synset))
     return None
-
 
 
 if __name__ == '__main__':
