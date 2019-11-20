@@ -27,24 +27,6 @@ FORBIDDEN_PREDICATES = {pred: True for pred in FORBIDDEN_PREDICATE_LIST}
 PT = Literal("pt")
 EN = Literal("en")
 
-###
-## fix multiple glosses: add one as definition and the other as
-## examples
-WN_DEFINITION = WN30["definition"]
-
-def fix_multiple_glosses(graph):
-    for synset in graph.subjects(WN_LANG, PT):
-        glosses = list(graph.objects(synset, WN_DEFINITION))
-        if len(glosses) > 1:
-            graph.remove((synset, WN_DEFINITION, None))
-            graph.add((synset, WN_DEFINITION, glosses[0]))
-            for gloss in glosses[1:]:
-                example = Literal("_GLOSS_: ") + gloss
-                graph.add((synset, WN_EXAMPLE, example))
-    return None
-        
-
-
 @click.command()
 @click.argument('input_file', type=click.File(mode="rb"), required=True)
 @click.argument('output_file', type=click.Path(dir_okay=False,resolve_path=True),
@@ -62,8 +44,8 @@ def go(graph):
     def en_to_pt_synset(en_synset):
         return graph.value(en_synset,WN_SAME_AS,default=False,any=False)
     def synset_minimal_wordsense(synset):
-        wordsenses = graph.objects(synset,WN_CONTAINS_WORDSENSE)
-        word_forms = list(map(lambda ws: graph.value(graph.value(ws, WN_WORD), WN_LEXICAL_FORM), wordsenses))
+        wordsenses = graph.objects(synset, WN_CONTAINS_WORDSENSE)
+        word_forms = list(map(lambda ws: graph.value(graph.value(ws, WN_WORD, any=False), WN_LEXICAL_FORM, any=False), wordsenses))
         if None in word_forms or not word_forms:
             print(synset)
         min_word_form = min(word_forms)
@@ -113,6 +95,7 @@ def go(graph):
                 if lexical_forms_seen.get(lexical_form, None):
                     # remove duplicate wordsense
                     graph.remove((None, None, wordsense))
+                    graph.remove((wordsense, None, None))
                 else:
                     lexical_forms_seen[lexical_form] = True
                     # remove previous lexical_forms
@@ -143,10 +126,23 @@ def go(graph):
                     graph.add((wordsense, WN_LEXICAL_ID, Literal("{}".format(lexical_id))))
                     count[lexical_form] = lexical_id + 1
     for en_synset, pt_synset in graph.subject_objects(WN_SAME_AS):
-        graph.remove((en_synset,WN_SAME_AS,pt_synset))
-        graph.add((pt_synset,WN_SAME_AS, en_synset))
+        graph.remove((en_synset, WN_SAME_AS, pt_synset))
+        graph.add((pt_synset, WN_SAME_AS, en_synset))
     return None
 
+###
+## fix multiple glosses: add one as definition and the other as
+## examples
+def fix_multiple_glosses(graph):
+    for synset in graph.subjects(WN_LANG, PT):
+        glosses = list(graph.objects(synset, WN_GLOSS))
+        if len(glosses) > 1:
+            graph.remove((synset, WN_GLOSS, None))
+            graph.add((synset, WN_GLOSS, glosses[0]))
+            for gloss in glosses[1:]:
+                example = Literal("_GLOSS_: ") + gloss
+                graph.add((synset, WN_EXAMPLE, example))
+    return None
 
 if __name__ == '__main__':
     main()
