@@ -133,16 +133,41 @@ def go(graph):
 ###
 ## fix multiple glosses: add one as definition and the other as
 ## examples
+WN_DEFINITION = WN30['definition']
 def fix_multiple_glosses(graph):
     for synset in graph.subjects(WN_LANG, PT):
-        glosses = list(graph.objects(synset, WN_GLOSS))
+        glosses = list(graph.objects(synset, WN_DEFINITION))
         if len(glosses) > 1:
-            graph.remove((synset, WN_GLOSS, None))
-            graph.add((synset, WN_GLOSS, glosses[0]))
+            graph.remove((synset, WN_DEFINITION, None))
+            graph.add((synset, WN_DEFINITION, Literal(glosses[0].strip())))
             for gloss in glosses[1:]:
                 example = Literal("_GLOSS_: ") + gloss
-                graph.add((synset, WN_EXAMPLE, example))
+                graph.add((synset, WN_EXAMPLE, Literal(example.strip())))
     return None
+
+###
+## fix wrong URIs
+WN_DERIVATIONALLY_RELATED = WN30["derivationallyRelated"]
+
+def fix_derivationally_related_wrong_uris(graph):
+    for subj, obj in graph.subject_objects(WN_DERIVATIONALLY_RELATED):
+        if (None, WN_CONTAINS_WORDSENSE, obj) not in graph:
+            obj = r.URIRef(obj.replace("-a-", "-s-"))
+            assert (None, WN_CONTAINS_WORDSENSE, obj) in graph, obj
+            graph.add((subj, WN_DERIVATIONALLY_RELATED, obj))
+
+###
+## fix () in words
+def fix_parentheses_in_words(graph):
+    for subj, original_lexical_form in graph.subject_objects(WN_LEXICAL_FORM):
+        lexical_form = str(original_lexical_form)
+        if '(' in lexical_form or ')' in lexical_form:
+            print(lexical_form)
+            lexical_form = lexical_form.replace("(", "{{").replace(")", "}}")
+            graph.remove((subj, WN_LEXICAL_FORM, original_lexical_form))
+            graph.add((subj, WN_LEXICAL_FORM, Literal(lexical_form)))
+    return None
+        
 
 if __name__ == '__main__':
     main()
