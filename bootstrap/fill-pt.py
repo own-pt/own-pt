@@ -141,8 +141,8 @@ def fix_multiple_glosses(graph):
             graph.remove((synset, WN_DEFINITION, None))
             graph.add((synset, WN_DEFINITION, Literal(glosses[0].strip())))
             for gloss in glosses[1:]:
-                example = Literal("_GLOSS_: ") + gloss
-                graph.add((synset, WN_EXAMPLE, Literal(example.strip())))
+                example = "GLOSS_: " + gloss.strip()
+                graph.add((synset, WN_EXAMPLE, Literal(example)))
     return None
 
 ###
@@ -166,6 +166,12 @@ def fix_parentheses_in_words(graph):
             lexical_form = lexical_form.replace("(", "{{").replace(")", "}}")
             graph.remove((subj, WN_LEXICAL_FORM, original_lexical_form))
             graph.add((subj, WN_LEXICAL_FORM, Literal(lexical_form)))
+    return None
+
+def fix_examples(graph):
+    for synset, example in graph.subject_objects(WN_EXAMPLE):
+        graph.remove((synset, WN_EXAMPLE, example))
+        graph.add((synset, WN_EXAMPLE, Literal(example.strip())))
     return None
         
 
