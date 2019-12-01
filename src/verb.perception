@@ -1,0 +1,3580 @@
+verb.perception
+
+w: @en_abacinate
+d: @en_blind by holding a red-hot metal plate before someone's eyes
+fs: 9
+hypo: cegar[1]
+sa: @en:verb.perception:abacinate
+
+w: @en_act_up
+d: @en_make itself felt as a recurring pain
+fs: 1 23
+hypo: doer[1]
+sa: @en:verb.perception:act_up
+
+w: @en_aromatise
+w: @en_aromatize
+w: @en_perfume
+d: @en_fill or impregnate with an odor
+fs: 8 11
+hypo: @en_odorize
+sa: @en:verb.perception:aromatise
+
+w: @en_attaint
+d: @en_condemn by attainder
+fs: 9
+hypo: condenar
+sa: @en:verb.perception:attaint
+
+w: @en_autopsy
+d: @en_perform an autopsy on a dead body; do a post-mortem
+fs: 2
+hypo: inspecionar
+mt: noun.cognition:@en_medical_specialty
+sa: @en:verb.perception:autopsy
+
+w: @en_babble
+w: @en_bubble
+w: @en_burble
+w: @en_guggle
+w: @en_gurgle
+w: @en_ripple
+d: @en_flow in an irregular current with a bubbling noise
+fs: 1 22
+hypo: fazer
+sa: @en:verb.perception:babble
+vg: @en_gurgle[1]
+
+w: @en_bang
+d: @en_to produce a sharp often metallic explosive or percussive sound
+fs: 1 8
+hypo: fazer
+sa: @en:verb.perception:bang
+
+w: @en_beacon
+d: @en_shine like a beacon
+fs: 1
+hypo: verb.weather:luzir
+sa: @en:verb.perception:beacon
+
+w: @en_beat
+d: brilhar ou atacar com grande intensidade
+fs: 4
+hypo: brilhar_intensamente
+sa: @en:verb.perception:beat[3]
+
+w: @en_beat_down
+d: @en_shine hard
+fs: 1
+hypo: verb.weather:luzir
+sa: @en:verb.perception:beat_down
+
+w: @en_bethink
+d: @en_cause oneself to consider something
+fs: 9
+cause: considerar
+sa: @en:verb.perception:bethink
+
+w: @en_bitter
+d: @en_make bitter
+fs: 8 11
+hypo: @en_change_taste
+sa: @en:verb.perception:bitter
+
+w: @en_bleep
+d: @en_emit a single short high-pitched signal
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:bleep
+
+w: @en_block
+d: @en_interrupt the normal function of by means of anesthesia
+fs: 8 11
+hypo: verb.body:anestesiar
+sa: @en:verb.perception:block[5]
+
+w: @en_blow
+d: @en_play or sound a wind instrument
+fs: 8
+hypo: soar[5]
+sa: @en:verb.perception:blow
+vg: @en_blow[1]
+vg: @en_blow[2]
+
+w: @en_blow[1]
+d: @en_make a sound as if blown
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:blow[1]
+vg: @en_blow
+
+w: @en_blow[2]
+d: @en_sound by having air expelled through a tube
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:blow[5]
+vg: @en_blow
+
+w: @en_bob_under
+d: @en_disappear suddenly, as if under the surface of a body of water
+fs: 1 2
+hypo: esvair
+sa: @en:verb.perception:bob_under
+
+w: @en_bombilate
+w: @en_bombinate
+w: @en_buzz
+d: @en_make a buzzing sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:bombilate
+
+w: @en_bong
+d: @en_ring loudly and deeply
+fs: 1
+hypo: ecoar
+sa: @en:verb.perception:bong
+
+w: @en_boom
+w: @en_din
+d: @en_make a resonant sound, like artillery
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:boom
+
+w: @en_boom[1]
+w: @en_boom_out
+d: @en_make a deep hollow sound
+fs: 8 11
+hypo: fazer
+sa: @en:verb.perception:boom_out
+
+w: @en_bosom
+d: @en_hide in one's bosom
+fs: 8 21
+hypo: acobertar
+sa: @en:verb.perception:bosom
+
+w: @en_brattle
+w: @en_clack
+w: @en_clatter
+d: @en_make a rattling sound
+fs: 1 2
+hypo: ressoar[3]
+sa: @en:verb.perception:brattle
+
+w: @en_bring_on
+w: @en_bring_out
+w: @en_produce
+d: @en_bring onto the market or release
+fs: 8 9
+cause: verb.change:aparecer[3]
+hyper: @en_offer
+sa: @en:verb.perception:bring_on
+
+w: @en_burn
+d: @en_feel hot or painful
+fs: 1
+hypo: doer[1]
+sa: @en:verb.perception:burn[4]
+vg: queimar
+
+w: @en_candle
+d: @en_examine eggs for freshness by holding them against a light
+fs: 8
+hypo: inspecionar
+sa: @en:verb.perception:candle
+
+w: @en_case
+d: @en_look over, usually with the intention to rob
+fs: 8
+hypo: inspeccionar
+sa: @en:verb.perception:case
+
+w: @en_catch
+w: @en_overhear
+w: @en_take_in
+d: @en_hear, usually without the knowledge of the speakers
+fs: 8 25
+entail: dar_atenção_a
+hypo: ouvir_dizer
+sa: @en:verb.perception:catch
+vg: entender[1]
+
+w: @en_catch[1]
+w: @en_pick_up
+d: @en_perceive with the senses quickly, suddenly, or momentarily
+fs: 8
+hypo: aperceber
+sa: @en:verb.perception:pick_up
+
+w: @en_catch_a_glimpse
+w: @en_catch_sight
+w: @en_get_a_look
+d: @en_see something for a brief time
+fs: 2 22
+hypo: enxergar
+sa: @en:verb.perception:catch_a_glimpse
+
+w: @en_cause_to_be_perceived
+d: @en_have perceptible qualities
+fs: 1 2
+hyper: @en_odorize
+hyper: @en_project
+hyper: @en_radiate
+hyper: doer[1]
+hyper: fazer
+hyper: recender
+sa: @en:verb.perception:cause_to_be_perceived
+
+w: @en_chafe
+w: @en_fret
+w: @en_gall
+d: @en_become or make sore by or as if by rubbing
+fs: 1 8 10 11
+hypo: verb.body:irritar
+sa: @en:verb.perception:chafe
+
+w: @en_change_intensity
+d: @en_increase or decrease in intensity
+fs: 1 2
+hyper: @en_dim
+hyper: @en_louden
+hyper: @en_sharpen
+hyper: @en_soften
+hyper: aquietar
+hypo: verb.change:alterar[2]
+sa: @en:verb.perception:change_intensity
+
+w: @en_change_taste
+d: @en_alter the flavor of
+fs: 1
+hyper: @en_bitter
+hyper: acidar
+hyper: adoçar
+hypo: verb.change:alterar[2]
+sa: @en:verb.perception:change_taste
+
+w: @en_chatter
+w: @en_click
+d: @en_click repeatedly or uncontrollably
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:chatter
+
+w: @en_chime
+d: @en_emit a sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:chime
+
+w: @en_chink
+w: @en_clink
+w: @en_tink
+w: @en_tinkle
+d: @en_make or emit a high sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:chink
+
+w: @en_chiromance
+d: @en_divine by reading someone's palms
+fs: 2 8
+hypo: adivinhar
+sa: @en:verb.perception:chiromance
+
+w: @en_chug
+d: @en_make a dull, explosive sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:chug
+
+w: @en_clang
+w: @en_clangor
+d: @en_make a loud noise
+fs: 1 8 11
+hypo: fazer
+sa: @en:verb.perception:clang
+
+w: @en_clangor[1]
+w: @en_clangour
+d: @en_make a loud resonant noise
+fs: 1 8 11
+hypo: fazer
+sa: @en:verb.perception:clangor
+
+w: @en_clank
+d: @en_make a clank
+fs: 1 8 11
+hypo: fazer
+sa: @en:verb.perception:clank
+
+w: @en_clink[1]
+d: @en_make a high sound typical of glass
+fs: 8
+cause: @en_chink
+hypo: soar[5]
+sa: @en:verb.perception:clink[1]
+
+w: @en_clitter
+w: @en_stridulate
+d: @en_make a shrill creaking noise by rubbing together special bodily structures
+fs: 1 11
+hypo: ressoar[3]
+sa: @en:verb.perception:clitter
+
+w: @en_clop
+w: @en_clump
+w: @en_clunk
+w: @en_plunk
+d: @en_make or move along with a sound as of a horse's hooves striking the ground
+fs: 1 22
+hypo: fazer
+sa: @en:verb.perception:clop
+
+w: @en_come_across
+d: @en_be perceived in a certain way; make a certain impression
+fs: 4 22
+hypo: parecer[2]
+sa: @en:verb.perception:come_across
+
+w: @en_consonate
+d: @en_sound in sympathy
+fs: 1
+hypo: ecoar
+sa: @en:verb.perception:consonate
+
+w: @en_contemplate
+d: @en_look at thoughtfully; observe deep in thought
+fs: 8
+hypo: ver[18]
+sa: @en:verb.perception:contemplate
+
+w: @en_crack
+d: @en_make a very sharp explosive sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:crack[1]
+
+w: @en_crack[1]
+w: @en_snap
+d: @en_make a sharp sound
+fs: 1 8
+hypo: fazer
+sa: @en:verb.perception:crack
+
+w: @en_crash
+d: @en_make a sudden loud sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:crash
+
+w: @en_creak
+w: @en_screak
+w: @en_screech
+w: @en_skreak
+w: @en_squeak
+w: @en_whine
+d: @en_make a high-pitched, screeching noise
+fs: 1 2
+hypo: ressoar[3]
+sa: @en:verb.perception:creak
+
+w: @en_crop_up
+w: @en_pop
+w: @en_pop_up
+d: @en_appear suddenly or unexpectedly
+fs: 1
+hypo: verb.change:aparecer[3]
+sa: @en:verb.perception:crop_up
+
+w: @en_cruise
+d: @en_look for a sexual partner in a public place
+fs: 2 8
+hypo: procurar
+sa: @en:verb.perception:cruise
+
+w: @en_crump
+w: @en_scrunch
+w: @en_thud
+d: @en_make a noise typical of an engine lacking lubricants
+fs: 1
+hypo: verb.communication:crepitar
+sa: @en:verb.perception:crump
+
+w: @en_curry
+d: @en_season with a mixture of spices; typical of Indian cooking
+fs: 8
+hypo: adicionar_algo
+mt: noun.act:cozinha
+sa: @en:verb.perception:curry
+
+w: @en_cut
+d: @en_give the appearance or impression of
+fs: 8
+hypo: parecer[2]
+sa: @en:verb.perception:cut[3]
+
+w: @en_deodorise
+w: @en_deodorize
+w: @en_deodourise
+d: @en_eliminate the odor from
+fs: 8 11
+hypo: verb.change:alterar[2]
+sa: @en:verb.perception:deodorise
+
+w: @en_desensitise
+w: @en_desensitize
+d: @en_cause not to be sensitive
+fs: 8 9 10
+hyper: anestesiar
+hyper: atordoar
+hyper: ensurdecer
+hyper: estupidificar
+hypo: verb.change:alterar[2]
+sa: @en:verb.perception:desensitise
+
+w: @en_dig
+w: @en_dig_out
+w: @en_dig_up
+d: @en_remove, harvest, or recover by digging
+fs: 8 11
+hypo: desenterrar
+sa: @en:verb.perception:dig
+
+w: @en_dim
+w: @en_dip
+d: @en_switch (a car's headlights) from a higher to a lower beam
+fs: 8
+hypo: @en_change_intensity
+sa: @en:verb.perception:dip
+
+w: @en_dissonate
+d: @en_be dissonant or harsh
+fs: 1
+hypo: ressoar[2]
+sa: @en:verb.perception:dissonate
+
+w: @en_do_justice
+d: @en_bring out fully or to advantage
+fs: 8 9 12
+hypo: apresentar
+sa: @en:verb.perception:do_justice
+
+w: @en_drown_out
+d: @en_make imperceptible
+fs: 10 11
+hypo: ressoar[3]
+sa: @en:verb.perception:drown_out
+
+w: @en_earth
+d: @en_hide in the earth like a hunted animal
+fs: 1
+hypo: embrenhar
+sa: @en:verb.perception:earth
+
+w: @en_etch
+d: @en_cause to stand out or be clearly defined or visible
+fs: 11
+hypo: apresentar
+sa: @en:verb.perception:etch
+
+w: @en_expose
+d: @en_expose or make accessible to some action or influence
+fs: 9 20
+hyper: @en_insolate
+hyper: @en_overexpose
+hyper: @en_underexpose[1]
+hyper: abanar
+hyper: arejar[1]
+hypo: sujeitar
+sa: @en:verb.perception:expose[2]
+
+w: @en_express
+d: @en_manifest the effects of (a gene or genetic trait)
+fs: 11
+hypo: verb.creation:concretizar
+sa: @en:verb.perception:express[9]
+
+w: @en_eyewitness
+d: @en_be present at an event and see it with one's own eyes
+fs: 8
+hypo: estar_presente
+sa: @en:verb.perception:eyewitness
+
+w: @en_feel
+w: @en_sense
+d: @en_perceive by a physical sensation, e.g., coming from the skin or muscles
+fs: 8 9
+hypo: aperceber
+sa: @en:verb.perception:feel
+vg: verb.stative:@en_feel
+
+w: @en_feel[1]
+d: @en_grope or feel in search of something
+fs: 8 9
+entail: apalpar
+hyper: verb.contact:apalpar[1]
+hypo: verb.contact:buscar[1]
+sa: @en:verb.perception:feel[10]
+vg: verb.contact:@en_feel
+vg: verb.contact:@en_feel[1]
+vg: verb.contact:apalpar
+
+w: @en_feel[2]
+d: @en_produce a certain impression
+fs: 6
+hypo: parecer[2]
+sa: @en:verb.perception:feel[9]
+
+w: @en_feel[3]
+d: @en_undergo passive experience of:"We felt the effects of inflation"
+fs: 8 11
+hypo: experienciar
+sa: @en:verb.perception:feel[1]
+
+w: @en_find
+d: @en_perceive oneself to be in a certain condition or place
+fs: 20
+hypo: aperceber
+sa: @en:verb.perception:find[5]
+vg: encontrar
+
+w: @en_fixate
+d: @en_pay attention to exclusively and obsessively
+fs: 22
+hypo: atender
+sa: @en:verb.perception:fixate
+
+w: @en_flash
+d: @en_expose or show briefly
+fs: 2 8
+hypo: apresentar
+sa: @en:verb.perception:flash[2]
+
+w: @en_flex
+d: @en_exhibit the strength of
+fs: 8
+hypo: empavonar
+sa: @en:verb.perception:flex
+
+w: @en_fluoresce
+d: @en_exhibit or undergo fluorescence
+fs: 1
+hyper: @en_scintillate
+hypo: brilhar
+sa: @en:verb.perception:fluoresce
+
+w: @en_flush
+d: @en_glow or cause to glow with warm color or light
+fs: 1 11
+hypo: brilhar
+sa: @en:verb.perception:flush
+
+w: @en_follow
+w: @en_surveil
+w: @en_survey
+d: @en_keep under surveillance
+fs: 9 10
+sa: @en:verb.perception:surveil
+vg: verb.motion:perseguir[2]
+
+w: @en_fume
+w: @en_fumigate
+d: @en_treat with fumes, expose to fumes, especially with the aim of disinfecting or eradicating pests
+fs: 8
+hypo: verb.change:@en_process
+sa: @en:verb.perception:fume
+
+w: @en_get_a_noseful
+w: @en_get_a_whiff
+d: @en_smell strongly and intensely
+fs: 22
+hypo: cheirar[3]
+sa: @en:verb.perception:get_a_noseful
+
+w: @en_get_off
+d: @en_enjoy in a sexual way
+fs: 22
+hypo: verb.emotion:aproveitar
+sa: @en:verb.perception:get_off
+
+w: @en_ginger
+d: @en_add ginger to in order to add flavor
+fs: 8
+hypo: condimentar[1]
+mt: noun.act:cozinha
+sa: @en:verb.perception:ginger
+
+w: @en_give_the_eye
+w: @en_give_the_once_over
+d: @en_look at with a critical eye
+fs: 8 9
+hypo: observar
+sa: @en:verb.perception:give_the_eye
+
+w: @en_give_the_glad_eye
+d: @en_look seductively at someone
+fs: 9
+hypo: observar
+sa: @en:verb.perception:give_the_glad_eye
+
+w: @en_glass
+d: @en_scan (game in the forest) with binoculars
+fs: 8
+hypo: @en_scan
+sa: @en:verb.perception:glass
+
+w: @en_gleam
+w: @en_glimmer
+d: @en_shine brightly, like a star or a light
+fs: 1
+hypo: @en_radiate
+sa: @en:verb.perception:gleam
+
+w: @en_gloat
+d: @en_gaze at or think about something with great self-satisfaction, gratification, or joy
+fs: 2 22
+hypo: observar
+sa: @en:verb.perception:gloat
+
+w: @en_glug
+d: @en_make a gurgling sound as of liquid issuing from a bottle
+fs: 1 2
+hypo: fazer
+sa: @en:verb.perception:glug
+
+w: @en_gong
+d: @en_sound a gong
+fs: 8
+hypo: soar[5]
+sa: @en:verb.perception:gong
+
+w: @en_greet
+d: @en_be perceived by
+fs: 10 11
+sa: @en:verb.perception:greet
+
+w: @en_grumble
+w: @en_rumble
+d: @en_make a low noise
+fs: 1 2
+hypo: fazer
+sa: @en:verb.perception:grumble
+
+w: @en_guggle[1]
+d: @en_make a sound like a liquid that is being poured from a bottle
+fs: 1 2
+hypo: fazer
+sa: @en:verb.perception:guggle[1]
+
+w: @en_gurgle[1]
+d: @en_make sounds similar to gurgling water
+fs: 1 2
+hypo: fazer
+sa: @en:verb.perception:gurgle[2]
+vg: @en_babble
+
+w: @en_harbor
+w: @en_harbour
+w: @en_shield
+d: @en_hold back a thought or feeling about
+fs: 8 9 10 11
+hypo: acobertar
+sa: @en:verb.perception:harbor
+
+w: @en_hark
+w: @en_harken
+w: @en_hearken
+d: @en_listen; used mostly in the imperative
+fs: 2 22
+hypo: dar_atenção_a
+sa: @en:verb.perception:hark
+
+w: @en_hear
+d: @en_receive a communication from someone
+fs: 22
+hypo: captar
+sa: @en:verb.perception:hear[1]
+
+w: @en_hear_out
+d: @en_listen to every detail and give a full hearing to
+fs: 8 9
+hypo: dar_atenção_a
+sa: @en:verb.perception:hear_out
+
+w: @en_hold_up
+d: @en_hold up something as an example; hold up one's achievements for admiration
+fs: 8 9 10 11
+hypo: exibir
+sa: @en:verb.perception:hold_up
+
+w: @en_hole_up
+d: @en_remain secluded or in hiding
+fs: 1
+hypo: embrenhar
+sa: @en:verb.perception:hole_up
+
+w: @en_horripilate
+d: @en_cause (someone's) hair to stand on end and to have goosebumps
+fs: 9 10
+hypo: emocionar
+sa: @en:verb.perception:horripilate
+vg: @en_horripilate[1]
+
+w: @en_horripilate[1]
+d: @en_have one's hair stand on end and get goosebumps
+fs: 2
+hypo: passar_por
+sa: @en:verb.perception:horripilate[1]
+vg: @en_horripilate
+
+w: @en_hunger
+d: @en_feel the need to eat
+fs: 2
+hypo: doer[1]
+sa: @en:verb.perception:hunger
+
+w: @en_hunker_down
+d: @en_take shelter
+fs: 2 22
+hypo: embrenhar
+sa: @en:verb.perception:hunker_down
+
+w: @en_image
+d: @en_render visible, as by means of MRI
+fs: 8
+hypo: visualizar
+sa: @en:verb.perception:image[3]
+
+w: @en_incline
+d: @en_bend or turn (one's ear) towards a speaker in order to listen well
+fs: 8
+hypo: escutar[2]
+sa: @en:verb.perception:incline
+
+w: @en_insolate
+w: @en_solarise
+w: @en_solarize
+w: @en_sun
+d: @en_expose to the rays of the sun or affect by exposure to the sun
+fs: 8
+hypo: @en_expose
+sa: @en:verb.perception:insolate
+
+w: @en_itch
+d: @en_have or perceive an itch
+fs: 1 10 22 23
+hyper: @en_prickle
+hyper: @en_tickle
+hypo: doer[1]
+sa: @en:verb.perception:itch
+
+w: @en_keep_one's_eyes_open
+w: @en_keep_one's_eyes_peeled
+w: @en_keep_one's_eyes_skinned
+d: @en_pay attention; be watchful
+fs: 2 22
+hypo: ter_cuidado
+mu: noun.communication:@en_colloquialism
+sa: @en:verb.perception:keep_one's_eyes_open
+
+w: @en_kill
+d: @en_be the source of great pain for
+fs: 10 11
+hypo: causar_dor
+sa: @en:verb.perception:kill
+
+w: @en_knock
+w: @en_pink
+w: @en_rap
+w: @en_tap
+d: @en_make light, repeated taps on a surface
+fs: 1 22
+hypo: fazer
+sa: @en:verb.perception:knock
+
+w: @en_knock[1]
+w: @en_ping
+w: @en_pink[1]
+d: @en_sound like a car engine that is firing too early
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:knock[1]
+
+w: @en_leer
+d: @en_look suggestively or obliquely; look or gaze with a sly, immodest, or malign expression
+fs: 2 22
+hypo: observar
+sa: @en:verb.perception:leer
+
+w: @en_lie_low
+d: @en_keep a low profile, try to be inconspicuous
+fs: 1 2
+hypo: embrenhar
+sa: @en:verb.perception:lie_low
+
+w: @en_listen_in
+d: @en_listen quietly, without contributing to the conversation
+fs: 2
+hypo: dar_atenção_a
+sa: @en:verb.perception:listen_in[1]
+
+w: @en_look_around
+d: @en_look about oneself
+fs: 2 22
+hypo: observar
+sa: @en:verb.perception:look_around
+
+w: @en_look_away
+d: @en_avert one's gaze
+fs: 2 22
+hypo: observar
+sa: @en:verb.perception:look_away
+
+w: @en_look_back
+w: @en_look_backward
+d: @en_look towards one's back
+fs: 1 2 4 22
+hypo: observar
+sa: @en:verb.perception:look_back
+
+w: @en_lose
+w: @en_miss
+d: @en_fail to perceive or to catch with the senses or the mind
+fs: 8 9
+hyper: negligenciar[1]
+sa: @en:verb.perception:miss
+
+w: @en_lose_sight_of
+d: @en_be no longer able to see
+fs: 8 9
+sa: @en:verb.perception:lose_sight_of
+
+w: @en_louden
+d: @en_become louder
+fs: 1 2
+hypo: @en_change_intensity
+sa: @en:verb.perception:louden
+vg: verb.change:@en_louden
+
+w: @en_misperceive
+d: @en_perceive incorrectly
+fs: 2 8
+hyper: @en_see_double
+hypo: aperceber
+sa: @en:verb.perception:misperceive
+
+w: @en_model
+d: @en_display (clothes) as a mannequin
+fs: 2 8
+hypo: exibir
+sa: @en:verb.perception:model
+
+w: @en_moon
+d: @en_expose one's buttocks to
+fs: 8 9
+hypo: exibir
+sa: @en:verb.perception:moon
+
+w: @en_mull
+d: @en_heat with sugar and spices to make a hot drink
+fs: 8 11
+hypo: adoçar
+sa: @en:verb.perception:mull
+
+w: @en_nettle
+w: @en_urticate
+d: @en_sting with or as with nettles and cause a stinging pain or sensation
+fs: 11
+hypo: queimar
+sa: @en:verb.perception:nettle
+vg: @en_urticate[1]
+
+w: @en_nose
+w: @en_scent
+w: @en_wind
+d: @en_catch the scent of; get wind of
+fs: 8 9
+hypo: cheirar[3]
+sa: @en:verb.perception:wind
+
+w: @en_odorize
+w: @en_odourise
+w: @en_scent[1]
+d: @en_cause to smell or be smelly
+fs: 8
+cause: recender
+hyper: @en_aromatise
+hyper: @en_smell_up
+hyper: incensar
+hypo: @en_cause_to_be_perceived
+sa: @en:verb.perception:odorize
+
+w: @en_offer
+d: @en_produce or introduce on the stage
+fs: 8
+hypo: @en_bring_on
+sa: @en:verb.perception:offer[6]
+
+w: @en_orient
+w: @en_orientate
+d: @en_determine one's position with reference to another point
+fs: 9
+hyper: @en_reorient
+hyper: guiar
+hypo: verb.cognition:decidir[3]
+sa: @en:verb.perception:orient
+
+w: @en_outface
+w: @en_outstare
+w: @en_stare_down
+d: @en_overcome or cause to waver or submit by (or as if by) staring
+fs: 8 9
+hypo: encarar
+sa: @en:verb.perception:outface
+
+w: @en_overexpose
+d: @en_expose excessively
+fs: 9 20
+hypo: @en_expose
+mt: noun.act:fotografia[2]
+sa: @en:verb.perception:overexpose
+
+w: @en_overexpose[1]
+d: @en_expose to too much light
+fs: 8
+hyper: @en_solarise[2]
+hypo: expor[2]
+mt: noun.act:fotografia[2]
+sa: @en:verb.perception:overexpose[1]
+
+w: @en_overshadow
+d: @en_cast a shadow upon
+fs: 11
+hyper: eclipsar
+hypo: encobrir[3]
+sa: @en:verb.perception:overshadow
+
+w: @en_pass_off
+d: @en_be accepted as something or somebody in a false character or identity
+fs: 4 22
+hypo: parecer[2]
+sa: @en:verb.perception:pass_off
+
+w: @en_pass_up
+d: @en_fail to acknowledge
+fs: 9
+hypo: desconsiderar
+sa: @en:verb.perception:pass_up
+
+w: @en_patter
+w: @en_pitter-patter
+d: @en_make light, rapid and repeated sounds
+fs: 1 22
+hypo: fazer
+sa: @en:verb.perception:patter
+
+w: @en_peep
+d: @en_look furtively
+fs: 22
+hypo: observar
+sa: @en:verb.perception:peep
+
+w: @en_peep[1]
+d: @en_cause to appear
+fs: 8
+hypo: apresentar
+sa: @en:verb.perception:peep[1]
+
+w: @en_peer
+d: @en_look searchingly
+fs: 22
+hypo: observar
+sa: @en:verb.perception:peer
+
+w: @en_perambulate
+d: @en_make an official inspection on foot of (the bounds of a property)
+fs: 8
+hypo: inspeccionar
+sa: @en:verb.perception:perambulate
+
+w: @en_photosensitise
+w: @en_photosensitize
+d: @en_make (an organism or substance) sensitive to the influence of radiant energy and especially light
+fs: 8 11
+hypo: sensibilizar
+sa: @en:verb.perception:photosensitise
+
+w: @en_pierce
+d: @en_sound sharply or shrilly
+fs: 11
+hypo: ressoar[2]
+sa: @en:verb.perception:pierce
+
+w: @en_ping[1]
+d: @en_make a short high-pitched sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:ping
+
+w: @en_pop[1]
+d: @en_make a sharp explosive noise
+fs: 1
+hyper: @en_sputter
+hypo: fazer
+sa: @en:verb.perception:pop
+vg: @en_pop[2]
+
+w: @en_pop[2]
+d: @en_cause to make a sharp explosive sound
+fs: 8
+hypo: soar[5]
+sa: @en:verb.perception:pop[6]
+vg: @en_pop[1]
+
+w: @en_prepare
+d: @en_lead up to and soften by sounding the dissonant note in it as a consonant note in the preceding chord
+fs: 8
+hypo: soar[5]
+mt: noun.communication:música
+sa: @en:verb.perception:prepare
+
+w: @en_preview
+d: @en_watch (a movie or play) before it is released to the general public
+fs: 8
+hypo: assistir[1]
+sa: @en:verb.perception:preview
+
+w: @en_prickle
+w: @en_tingle
+d: @en_cause a stinging or tingling sensation
+fs: 1 23
+hypo: @en_itch
+sa: @en:verb.perception:prickle
+
+w: @en_project
+d: @en_cause to be heard
+fs: 1 2 8 11
+hypo: @en_cause_to_be_perceived
+sa: @en:verb.perception:project
+
+w: @en_prospect
+d: @en_search for something desirable
+fs: 8
+hypo: procurar
+sa: @en:verb.perception:prospect
+
+w: @en_put
+d: fazer com que (alguém) sofra algo
+fs: 20
+hypo: sujeitar
+sa: @en:verb.perception:put[13]
+
+w: @en_quicken
+w: @en_whet
+d: @en_make keen or more acute
+fs: 8
+hypo: emocionar
+sa: @en:verb.perception:quicken
+
+w: @en_racket
+d: @en_make loud and annoying noises
+fs: 1 2
+hypo: ressoar[3]
+sa: @en:verb.perception:racket
+
+w: @en_radiate
+d: @en_cause to be seen by emitting light as if in rays
+fs: 1
+hyper: @en_gleam
+hyper: brilhar
+hyper: cintilar
+hypo: @en_cause_to_be_perceived
+sa: @en:verb.perception:radiate
+
+w: @en_ramp
+d: @en_be rampant
+fs: 1
+hypo: posar
+mt: noun.cognition:heráldica
+sa: @en:verb.perception:ramp
+
+w: @en_reach_one's_nostrils
+d: @en_be smelled; have a strong odor
+fs: 1 2
+entail: recender
+sa: @en:verb.perception:reach_one's_nostrils
+
+w: @en_reconnoiter
+w: @en_reconnoitre
+w: @en_scout
+d: @en_explore, often with the goal of finding something or somebody
+fs: 2 8
+hypo: observar[3]
+sa: @en:verb.perception:reconnoiter
+
+w: @en_redevelop
+d: @en_develop for a second time, in order to improve the contrast, colour, etc., of a negative or print
+fs: 8
+hypo: revelar[4]
+mt: noun.process:fotografia
+sa: @en:verb.perception:redevelop
+
+w: @en_redound
+d: @en_return or recoil
+fs: 4
+hypo: verb.possession:@en_return[1]
+sa: @en:verb.perception:redound
+
+w: @en_reecho
+d: @en_repeat or return an echo again or repeatedly; send (an echo) back
+fs: 1
+hypo: ecoar
+sa: @en:verb.perception:reecho
+
+w: @en_reecho[1]
+d: @en_echo repeatedly, echo again and again
+fs: 1 11
+hypo: ecoar
+sa: @en:verb.perception:reecho[1]
+
+w: @en_reek
+w: @en_smack
+w: @en_smell
+d: @en_have an element suggestive (of something)
+fs: 11
+hypo: verb.communication:evocar
+sa: @en:verb.perception:reek[13]
+
+w: @en_refocus
+d: @en_focus once again; The physicist refocused the light beam"
+fs: 8 11
+hypo: focar
+sa: @en:verb.perception:refocus
+
+w: @en_refract
+d: @en_subject to refraction
+fs: 8 11
+hypo: sujeitar
+mt: noun.cognition:Óptica
+sa: @en:verb.perception:refract
+
+w: @en_reorient
+w: @en_reorientate
+d: @en_orient once again, after a disorientation
+fs: 9 10
+hypo: @en_orient
+sa: @en:verb.perception:reorient
+
+w: @en_resinate
+d: @en_impregnate with resin to give a special flavor to
+fs: 8
+hypo: adicionar_algo
+mt: noun.act:Viticultura
+sa: @en:verb.perception:resinate
+
+w: @en_resolve
+d: @en_make clearly visible
+fs: 8
+hypo: discernir
+mt: noun.cognition:Óptica
+sa: @en:verb.perception:resolve
+
+w: @en_reverberate
+d: @en_be reflected as heat, sound, or light or shock waves
+fs: 1
+hypo: refletir[2]
+sa: @en:verb.perception:reverberate[6]
+vg: refletir[2]
+
+w: @en_ring_out
+d: @en_sound loudly
+fs: 1
+hypo: ressoar[3]
+sa: @en:verb.perception:ring_out
+
+w: @en_rubberneck
+d: @en_strain to watch; stare curiously
+fs: 2
+hypo: assistir[3]
+sa: @en:verb.perception:rubberneck
+
+w: @en_ruckle
+d: @en_make a hoarse, rattling sound
+fs: 1 2
+hypo: chocalhar
+sa: @en:verb.perception:ruckle
+
+w: @en_salute
+d: @en_become noticeable
+fs: 10 11
+hypo: feder
+sa: @en:verb.perception:salute
+
+w: @en_savor
+w: @en_savour
+w: @en_taste
+d: @en_have flavor; taste of something
+fs: 1 6
+hyper: @en_smack[1]
+sa: @en:verb.perception:savor[2]
+
+w: @en_savor[1]
+w: @en_savour[1]
+d: @en_give taste to
+fs: 8 11
+hypo: adicionar_algo
+mt: noun.act:cozinha
+sa: @en:verb.perception:savor[1]
+
+w: @en_savor[2]
+w: @en_savour[2]
+d: @en_taste appreciatively
+fs: 8
+hypo: saborear
+sa: @en:verb.perception:savor
+
+w: @en_scan
+d: @en_examine minutely or intensely
+fs: 8 9
+hyper: @en_glass
+hypo: inspecionar
+sa: @en:verb.perception:scan[1]
+
+w: @en_scintillate
+d: @en_physics: fluoresce momentarily when struck by a charged particle or high-energy photon
+fs: 1
+hypo: @en_fluoresce
+sa: @en:verb.perception:scintillate
+
+w: @en_scream
+d: @en_make a loud, piercing sound
+fs: 1
+hypo: ressoar[3]
+sa: @en:verb.perception:scream
+
+w: @en_see
+d: @en_observe as if with an eye
+fs: 10 11
+hypo: achar
+sa: @en:verb.perception:see[11]
+vg: enxergar
+
+w: @en_see_double
+d: @en_see things as if they were there twice
+fs: 2
+entail: enxergar
+hypo: @en_misperceive
+sa: @en:verb.perception:see_double
+
+w: @en_see_through
+d: @en_perceive the true nature of
+fs: 8 9
+hypo: aperceber
+sa: @en:verb.perception:see_through
+
+w: @en_seel
+d: @en_sew up the eyelids of hawks and falcons
+fs: 8
+hypo: encandear[1]
+mt: noun.cognition:falcoaria
+sa: @en:verb.perception:seel
+
+w: @en_sharpen
+d: @en_make (images or sounds) sharp or sharper
+fs: 8 10 11
+hyper: focar
+hypo: @en_change_intensity
+sa: @en:verb.perception:sharpen
+
+w: @en_shoot
+d: @en_cause a sharp and sudden pain in
+fs: 4
+hypo: doer[1]
+sa: @en:verb.perception:shoot
+
+w: @en_silhouette
+d: @en_project on a background, such as a screen, like a silhouette
+fs: 8 9 10 11
+hypo: projectar
+sa: @en:verb.perception:silhouette
+
+w: @en_skirl
+d: @en_make a shrill, wailing sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:skirl
+
+w: @en_smack[1]
+w: @en_taste[1]
+d: @en_have a distinctive or characteristic taste
+fs: 11
+hypo: @en_savor
+sa: @en:verb.perception:smack[12]
+
+w: @en_smell_up
+w: @en_stink_out
+w: @en_stink_up
+d: @en_cause to smell bad; fill with a bad smell
+fs: 8
+hypo: @en_odorize
+sa: @en:verb.perception:smell_up
+
+w: @en_snow-blind
+d: @en_affect with snow blindness
+fs: 10
+hypo: encandear[1]
+sa: @en:verb.perception:snow-blind
+
+w: @en_snuff
+w: @en_snuffle
+d: @en_sniff or smell inquiringly
+fs: 8
+hypo: cheirar[3]
+sa: @en:verb.perception:snuff
+
+w: @en_soften
+d: @en_make (images or sounds) soft or softer
+fs: 8 10 11
+hyper: abafar
+hypo: @en_change_intensity
+sa: @en:verb.perception:soften
+
+w: @en_solarise[1]
+w: @en_solarize[1]
+d: @en_become overexposed
+fs: 1
+hypo: verb.change:alterar[3]
+mt: noun.act:fotografia[2]
+sa: @en:verb.perception:solarise[2]
+vg: @en_solarise[2]
+vg: @en_solarise[3]
+
+w: @en_solarise[2]
+w: @en_solarize[2]
+d: @en_overexpose to sunlight
+fs: 8
+hypo: @en_overexpose[1]
+mt: noun.act:fotografia[2]
+sa: @en:verb.perception:solarise[1]
+vg: @en_solarise[1]
+vg: @en_solarise[3]
+
+w: @en_solarise[3]
+w: @en_solarize[3]
+d: @en_reverse some of the tones of (a negative or print) and introduce pronounced outlines of highlights, by exposing it briefly to light, then washing and redeveloping it
+fs: 11
+hypo: revelar[4]
+mt: noun.act:fotografia[2]
+sa: @en:verb.perception:solarise[3]
+vg: @en_solarise[1]
+vg: @en_solarise[2]
+
+w: @en_spangle
+d: @en_glitter as if covered with spangles
+fs: 1
+hypo: reluzir
+sa: @en:verb.perception:spangle
+
+w: @en_spectate
+d: @en_be a spectator in a sports event
+fs: 2
+hypo: assistir[1]
+sa: @en:verb.perception:spectate
+
+w: @en_splat
+d: @en_give off the sound of a bullet flattening on impact
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:splat
+
+w: @en_splurge
+d: @en_be showy or ostentatious
+fs: 2
+hypo: empavonar
+sa: @en:verb.perception:splurge
+
+w: @en_sputter
+d: @en_make an explosive sound
+fs: 1
+hypo: @en_pop[1]
+sa: @en:verb.perception:sputter
+
+w: @en_squelch
+d: @en_make a sucking sound
+fs: 1 2
+hypo: fazer
+sa: @en:verb.perception:squelch
+
+w: @en_squint
+d: @en_be cross-eyed; have a squint or strabismus
+fs: 2
+hypo: observar
+sa: @en:verb.perception:squint
+
+w: @en_stamp
+d: @en_reveal clearly as having a certain character
+fs: 20 21
+hypo: verb.communication:caracterizar
+sa: @en:verb.perception:stamp
+
+w: @en_stargaze
+d: @en_observe the stars
+fs: 2
+hypo: encarar
+mt: noun.cognition:Astronomia
+sa: @en:verb.perception:stargaze
+
+w: @en_stow_away
+d: @en_hide aboard a ship or a plane to get free transportation
+fs: 2
+hypo: embrenhar
+sa: @en:verb.perception:stow_away
+
+w: @en_strum
+w: @en_thrum
+d: @en_sound the strings of (a string instrument)
+fs: 8
+hypo: soar[5]
+sa: @en:verb.perception:strum
+
+w: @en_survey[1]
+d: @en_look over carefully or inspect
+fs: 8
+entail: observar
+hyper: supervisionar
+hypo: inspecionar
+sa: @en:verb.perception:survey
+
+w: @en_take
+d: @en_experience or feel or submit to
+fs: 8
+hypo: passar_por
+sa: @en:verb.perception:take
+vg: verb.cognition:aceitar[5]
+
+w: @en_take_notice
+d: @en_observe with special attention
+fs: 22
+hypo: notar
+sa: @en:verb.perception:take_notice
+
+w: @en_taste[2]
+d: @en_distinguish flavors
+fs: 8
+entail: saborear
+hypo: verb.cognition:identificar[3]
+sa: @en:verb.perception:taste[1]
+
+w: @en_thirst
+d: @en_feel the need to drink
+fs: 2
+hypo: doer[1]
+sa: @en:verb.perception:thirst
+
+w: @en_thrill
+d: @en_cause to be thrilled by some perceptual input
+fs: 9 10
+hypo: emocionar
+sa: @en:verb.perception:thrill
+
+w: @en_throb
+d: @en_pulsate or pound with abnormal force
+fs: 1 23
+hyper: @en_twang[1]
+hypo: doer[1]
+sa: @en:verb.perception:throb
+
+w: @en_thud[1]
+w: @en_thump
+d: @en_make a dull sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:thud
+
+w: @en_tickle
+w: @en_titillate
+w: @en_vellicate
+d: @en_touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements
+fs: 9 10 11
+hypo: @en_itch
+sa: @en:verb.perception:tickle
+
+w: @en_ting
+d: @en_make a light, metallic sound; go `ting'
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:ting
+
+w: @en_ting[1]
+d: @en_cause to make a ting
+fs: 8
+hypo: soar[5]
+sa: @en:verb.perception:ting[1]
+
+w: @en_tintinnabulate
+d: @en_ring or sound like a small bell
+fs: 1
+hypo: tocar
+sa: @en:verb.perception:tintinnabulate
+
+w: @en_tootle
+d: @en_play (a musical instrument) casually
+fs: 1 2 8
+hypo: buzinar
+sa: @en:verb.perception:tootle
+
+w: @en_trace
+d: @en_discover traces of
+fs: 8
+hypo: achar
+sa: @en:verb.perception:trace
+
+w: @en_trot_out
+d: @en_bring out and show for inspection and admiration
+fs: 8
+hypo: desvendar
+sa: @en:verb.perception:trot_out
+
+w: @en_trump
+d: @en_produce a sound as if from a trumpet
+fs: 1 2
+hypo: fazer
+sa: @en:verb.perception:trump
+
+w: @en_tune_in
+d: @en_regulate (a radio or television set) in order to receive a certain station or program
+fs: 8
+hypo: verb.change:afinar
+sa: @en:verb.perception:tune_in
+
+w: @en_turn_on
+d: @en_produce suddenly or automatically
+fs: 8
+hypo: mostrar[4]
+sa: @en:verb.perception:turn_on
+
+w: @en_twang
+d: @en_cause to sound with a twang
+fs: 8 11
+hypo: soar[5]
+sa: @en:verb.perception:twang[1]
+
+w: @en_twang[1]
+d: @en_twitch or throb with pain
+fs: 1
+hypo: @en_throb
+sa: @en:verb.perception:twang[2]
+
+w: @en_twang[2]
+d: @en_sound with a twang
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:twang
+
+w: @en_tweet
+w: @en_twirp
+d: @en_make a weak, chirping sound
+fs: 1 2
+hypo: fazer
+sa: @en:verb.perception:tweet
+
+w: @en_twinge
+d: @en_feel a sudden sharp, local pain
+fs: 1
+hypo: causar_dor
+sa: @en:verb.perception:twinge[1]
+
+w: @en_underdevelop
+d: @en_process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature
+fs: 8
+hypo: revelar[4]
+mt: noun.act:fotografia[2]
+mt: noun.process:fotografia
+sa: @en:verb.perception:underdevelop
+
+w: @en_underexpose
+d: @en_expose to too little light
+fs: 8
+hypo: expor[2]
+mt: noun.act:fotografia[2]
+sa: @en:verb.perception:underexpose[1]
+
+w: @en_underexpose[1]
+d: @en_expose insufficiently
+fs: 9 10
+hypo: @en_expose
+mt: noun.act:fotografia[2]
+sa: @en:verb.perception:underexpose
+
+w: @en_urticate[1]
+d: @en_whip with or as with nettles
+fs: 8 9 10 11
+hypo: verb.contact:açoitar[1]
+sa: @en:verb.perception:urticate[1]
+vg: @en_nettle
+
+w: @en_vet
+d: @en_examine carefully
+fs: 8
+hypo: inspeccionar
+sa: @en:verb.perception:vet
+
+w: @en_vitriol
+d: @en_expose to the effects of vitriol or injure with vitriol
+fs: 8 9
+hypo: sujeitar
+sa: @en:verb.perception:vitriol
+
+w: @en_whish
+d: @en_make a sibilant sound
+fs: 1 2
+hypo: fazer
+sa: @en:verb.perception:whish
+
+w: @en_work
+d: @en_provoke or excite
+fs: 9 10
+hypo: emocionar
+sa: @en:verb.perception:work[10]
+vg: verb.consumption:aproveitar
+vg: verb.emotion:manipular[1]
+
+w: @en_x-ray
+d: @en_examine by taking x-rays
+fs: 8 9
+hypo: inspecionar
+sa: @en:verb.perception:x-ray
+
+w: @en_zoom_in
+d: @en_examine closely; focus one's attention on
+fs: 22
+hypo: verb.cognition:centrar
+sa: @en:verb.perception:zoom_in
+
+w: abafar
+w: amortecer
+d: @en_deaden (a sound or noise), especially by wrapping
+fs: 8 11
+hypo: @en_soften
+sa: @en:verb.perception:damp
+
+w: abanar
+w: arejar
+w: ventilar
+d: @en_expose to fresh air
+fs: 8
+hypo: @en_expose
+sa: @en:verb.perception:aerate
+
+w: abrir ant fechar
+d: @en_display the contents of a file or start an application as on a computer
+fs: 8
+hypo: exibir
+sa: @en:verb.perception:open[10]
+
+w: achar
+w: descobrir
+w: detectar
+w: ver
+d: @en_discover or determine the existence, presence, or fact of
+fs: 8 9 26
+hyper: verb.cognition:descobrir[2]
+hyper: @en_see
+hyper: @en_trace
+hyper: instanciar
+hyper: sentir[1]
+hypo: avistar
+sa: @en:verb.perception:detect
+vg: verb.creation:achar
+
+w: acidar
+w: acidificar
+w: azedar
+w: azedar-se
+d: @en_make sour or more sour
+fs: 1 8 11
+hypo: @en_change_taste
+sa: @en:verb.perception:acetify
+
+w: acobertar
+w: encobrir
+w: esconder
+w: ocultar
+w: omitir
+w: tampar
+w: tapar
+d: @en_prevent from being seen or discovered
+fs: 8 9 10 11
+hyper: verb.contact:cobrir_com_véu
+hyper: @en_bosom
+hyper: @en_harbor
+hyper: cobrir
+hyper: encobrir[3]
+hyper: encobrir[4]
+hyper: enterrar
+hyper: mascarar
+hyper: ocultar[5]
+hyper: tapar[1]
+hyper: verb.social:@en_sweep_under_the_rug
+hyper: verb.stative:espreitar
+sa: @en:verb.perception:hide
+
+w: acobertar[1]
+w: cobrir
+w: esconder[1]
+w: ocultar[1]
+d: @en_spread over a surface to conceal or protect
+fs: 1
+hypo: acobertar
+sa: @en:verb.perception:cover[14]
+
+w: acobertar[2]
+w: caiar
+w: passar_por_cima
+d: @en_cover up a misdemeanor, fault, or error
+fs: 8 9 10
+hypo: encobrir[4]
+sa: @en:verb.perception:gloss_over
+
+w: adicionar_algo
+w: condimentar
+w: dar_gosto_a
+w: temperar
+d: @en_lend flavor to
+fs: 8 11
+cause: @en_savor
+hyper: verb.contact:@en_sauce
+hyper: @en_curry
+hyper: @en_resinate
+hyper: @en_savor[1]
+hyper: condimentar[1]
+hyper: salgar
+mt: noun.act:cozinha
+sa: @en:verb.perception:flavor
+
+w: adivinhar
+d: @en_perceive intuitively or through some inexplicable perceptive powers
+fs: 8 26
+hyper: @en_chiromance
+hypo: aperceber
+sa: @en:verb.perception:divine
+
+w: admirar
+w: contemplar
+d: @en_look at with admiration
+fs: 8 9
+hypo: observar
+sa: @en:verb.perception:admire
+
+w: adoçar
+w: dulcificar
+d: fazer mais doce no sabor
+fs: 1 8 11
+hyper: @en_mull
+hyper: açucarar
+hyper: cobrir[1]
+hyper: melar
+hypo: @en_change_taste
+sa: @en:verb.perception:dulcify
+
+w: afastar
+w: repugnar
+d: @en_fill with distaste
+fs: 9 10
+hyper: causar_náuseas_a
+hypo: emocionar
+sa: @en:verb.perception:disgust
+
+w: agitar
+w: brandir
+d: @en_exhibit aggressively
+fs: 8
+hypo: exibir
+sa: @en:verb.perception:brandish
+
+w: ajoelhar
+d: @en_ring as in announcing death
+fs: 1
+hypo: tocar
+sa: @en:verb.perception:knell
+
+w: alucinar
+w: delirar
+d: perceber o que não está lá; ter ilusões
+fs: 2 8
+hypo: aperceber
+sa: @en:verb.perception:hallucinate
+
+w: amordaçar
+d: @en_prevent from speaking out
+fs: 8 9
+hypo: verb.change:silenciar
+sa: @en:verb.perception:gag
+
+w: anestesiar
+d: tornar dormente ou insensível
+fs: 8 9 10
+hypo: @en_desensitise
+sa: @en:verb.perception:benumb
+
+w: apalpar
+d: @en_perceive via the tactile sense
+fs: 8 9
+hypo: aperceber
+sa: @en:verb.perception:touch
+
+w: aperceber
+w: aperceber-se
+w: entender
+w: perceber
+d: @en_to become aware of through the senses
+fs: 8 9
+hyper: @en_feel
+hyper: @en_find
+hyper: @en_misperceive
+hyper: @en_pick_up
+hyper: @en_see_through
+hyper: adivinhar
+hyper: alucinar
+hyper: apalpar
+hyper: avistar
+hyper: captar
+hyper: causar_dor
+hyper: cheirar[3]
+hyper: dar_atenção_a
+hyper: enxergar
+hyper: ouvir_dizer
+hyper: saborear
+hyper: sonhar
+hyper: ver[17]
+sa: @en:verb.perception:comprehend
+
+w: apimentar
+d: @en_add pepper to
+fs: 8
+hypo: condimentar[1]
+mt: noun.act:cozinha
+sa: @en:verb.perception:pepper
+
+w: apitar
+w: assoviar
+d: @en_make whistling sounds
+fs: 2
+hypo: fazer
+sa: @en:verb.perception:whistle
+
+w: apresentar
+w: mostrar
+d: @en_make visible or noticeable
+fs: 8 9 11 14 15
+cause: enxergar
+hyper: verb.creation:@en_give[4]
+hyper: @en_do_justice
+hyper: @en_etch
+hyper: @en_flash
+hyper: @en_peep[1]
+hyper: demonstrar
+hyper: desvendar
+hyper: exibir
+hyper: flutuar
+hyper: projectar
+hyper: projetar
+hyper: refletir
+hyper: verb.stative:delinear
+sa: @en:verb.perception:show
+
+w: apresentar[1]
+w: exibir
+w: expor
+w: mostrar[1]
+d: mostrar, tornar visível ou aparente
+fs: 8 9 10 11
+hyper: @en_hold_up
+hyper: @en_model
+hyper: @en_moon
+hyper: abrir
+hyper: agitar
+hyper: empavonar
+hyper: exibir[2]
+hyper: mostrar[4]
+hyper: posar
+hyper: verb.social:@en_pillory
+hypo: apresentar
+sa: @en:verb.perception:display
+
+w: aproveitar
+d: @en_have for one's benefit
+fs: 11
+hypo: experienciar
+sa: @en:verb.perception:enjoy
+
+w: aquietar
+w: quietar
+d: tornar-se mais calmo ou tranquilo
+fs: 1 2
+hypo: @en_change_intensity
+sa: @en:verb.perception:hush
+vg: verb.change:silenciar
+
+w: arejar[1]
+d: @en_expose to the circulation of fresh air so as to retard spoilage
+fs: 8
+hypo: @en_expose
+sa: @en:verb.perception:ventilate
+
+w: assistir
+d: observar com atenção
+e: Eles assistiram enquanto o assassino era executado
+fs: 2
+entail: enxergar
+hyper: verb.social:@en_sit_back
+sa: @en:verb.perception:look_on
+
+w: assistir[1]
+w: ver[1]
+d: @en_see or watch
+fs: 8
+hyper: @en_preview
+hyper: @en_spectate
+hyper: visualizar
+hypo: assistir[3]
+sa: @en:verb.perception:catch[2]
+vg: enxergar
+
+w: assistir[2]
+w: atender
+w: escutar
+w: fixar_a_atenção_em
+w: prestar_a_atenção
+d: @en_give heed (to)
+fs: 2
+hyper: @en_fixate
+hypo: dar_atenção_a
+sa: @en:verb.perception:advert
+
+w: assistir[3]
+w: ver[2]
+d: @en_look attentively
+fs: 2 8 9
+entail: observar
+hyper: @en_rubberneck
+hyper: assistir[1]
+hyper: estar_presente
+hyper: observar[3]
+sa: @en:verb.perception:watch
+
+w: assistir_a
+d: @en_observe or determine by looking
+fs: 29
+sa: @en:verb.perception:watch[3]
+
+w: atacar
+w: atingir
+d: causar a experiência de repente
+fs: 10
+sa: @en:verb.perception:come_to
+vg: verb.emotion:afetar
+
+w: atordoar
+w: entontecer
+d: surpreender por espanto ou descrença
+fs: 9 10
+hypo: @en_desensitise
+sa: @en:verb.perception:bedaze
+
+w: auscultar
+d: @en_examine by auscultation
+fs: 8 9
+hypo: inspecionar
+mt: noun.cognition:@en_medical_specialty
+sa: @en:verb.perception:auscultate
+
+w: avistar
+w: dar_atenção
+w: divisar
+w: prestar_atenção
+w: ver[3]
+d: @en_catch sight of; to perceive with the eyes
+fs: 8 9
+hyper: achar
+hyper: ver[16]
+hypo: aperceber
+sa: @en:verb.perception:sight
+
+w: açucarar
+d: Adoçar com açúcar
+fs: 8
+hypo: adoçar
+sa: @en:verb.perception:saccharify
+
+w: badalar
+d: @en_ring slowly
+fs: 8
+hypo: soar[4]
+sa: @en:verb.perception:toll
+
+w: bater
+d: @en_make a sound like a clock or a timer
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:ticktack
+
+w: bater[1]
+w: batucar
+d: @en_make a rhythmic sound
+fs: 1 4
+hypo: fazer
+sa: @en:verb.perception:beat
+vg: verb.motion:@en_beat
+
+w: brilhar
+d: @en_emit a steady even light without flames
+fs: 1
+hyper: @en_fluoresce
+hyper: @en_flush
+hypo: @en_radiate
+sa: @en:verb.perception:glow
+
+w: brilhar[1]
+d: @en_have a complexion with a strong bright color, such as red or pink
+fs: 1 2
+hypo: parecer[2]
+sa: @en:verb.perception:beam[3]
+
+w: brilhar_intensamente
+d: @en_shine intensely
+fs: 1
+hyper: @en_beat
+hypo: verb.weather:luzir
+sa: @en:verb.perception:glare[1]
+
+w: buzinar
+d: @en_make a loud noise
+fs: 1 2 8
+hyper: @en_tootle
+hypo: fazer
+sa: @en:verb.perception:beep
+
+w: camuflar
+w: disfarçar
+d: @en_disguise by camouflaging; exploit the natural surroundings to disguise something
+fs: 8 9 10 11
+hypo: mascarar
+sa: @en:verb.perception:camouflage
+
+w: captar
+w: pegar
+d: @en_register (perceptual input)
+fs: 11
+hyper: @en_hear
+hypo: aperceber
+sa: @en:verb.perception:receive
+
+w: causar_dor
+w: doer
+d: @en_feel physical pain
+fs: 2
+hyper: @en_kill
+hyper: @en_twinge
+hyper: machucar
+hyper: pagar
+hypo: aperceber
+sa: @en:verb.perception:suffer
+
+w: causar_náuseas_a
+w: enjoar
+d: @en_upset and make nauseated
+fs: 10
+hypo: afastar
+sa: @en:verb.perception:nauseate
+
+w: cegar
+w: encandear
+d: @en_to cause someone to lose clear vision, especially from intense light
+fs: 8 9
+hypo: encandear[1]
+sa: @en:verb.perception:bedazzle
+
+w: cegar[1]
+d: @en_make blind by putting the eyes out
+fs: 9 10
+hyper: @en_abacinate
+hypo: verb.change:alterar[2]
+sa: @en:verb.perception:blind
+
+w: chapinar
+d: @en_make a splashing sound
+fs: 1 22
+hypo: fazer
+sa: @en:verb.perception:slosh
+
+w: cheirar
+d: perceber por inalação pelo nariz
+fs: 8 9
+hypo: cheirar[3]
+sa: @en:verb.perception:sniff
+
+w: cheirar[1]
+w: recender
+d: @en_emit an odor
+fs: 1 2 6 7
+hyper: feder
+hypo: @en_cause_to_be_perceived
+sa: @en:verb.perception:smell
+
+w: cheirar[2]
+w: feder
+w: recender[1]
+d: @en_smell bad
+fs: 1 2
+hyper: @en_salute
+hyper: tresandar
+hypo: recender
+sa: @en:verb.perception:smell[2]
+
+w: cheirar[3]
+w: recender[2]
+d: @en_inhale the odor of; perceive by the olfactory sense
+fs: 8 9
+hyper: @en_get_a_noseful
+hyper: @en_nose
+hyper: @en_snuff
+hyper: cheirar
+hypo: aperceber
+sa: @en:verb.perception:smell[1]
+
+w: chocalhar
+d: fazer sons breves e sucessivos
+fs: 1 4
+hyper: @en_ruckle
+hyper: crepitar
+hypo: fazer
+sa: @en:verb.perception:rattle
+
+w: cintilar
+w: piscar
+d: @en_gleam or glow intermittently
+fs: 1 8
+hyper: pestanejar
+hypo: @en_radiate
+sa: @en:verb.perception:blink
+
+w: cintilar[1]
+w: reluzir
+d: @en_be shiny, as if wet
+fs: 1
+hyper: @en_spangle
+hyper: verb.stative:@en_shimmer
+hypo: parecer[2]
+sa: @en:verb.perception:glint
+
+w: clarear
+w: desaparecer
+w: limpar
+d: ir embora ou desaparecer
+fs: 1
+hypo: esvair
+sa: @en:verb.perception:clear[5]
+
+w: clicar
+w: estalar
+d: @en_make a clicking or ticking sound
+fs: 1 8 22
+hypo: fazer
+sa: @en:verb.perception:click
+
+w: cobrir[1]
+d: cobrir com algo doce, como um glace de açúcar duro
+fs: 8 11
+hypo: adoçar
+sa: @en:verb.perception:candy
+
+w: compreender
+w: ver[4]
+d: @en_see and understand, have a good eye
+fs: 2
+hypo: enxergar
+sa: @en:verb.perception:see[5]
+vg: verb.cognition:compreender[5]
+
+w: condenar
+d: @en_demonstrate the guilt of (someone)
+fs: 9 10
+hyper: @en_attaint
+hypo: verb.communication:demonstrar
+sa: @en:verb.perception:condemn
+
+w: condimentar[1]
+w: temperar[1]
+d: @en_add herbs or spices to
+fs: 8
+hyper: @en_ginger
+hyper: apimentar
+hypo: adicionar_algo
+mt: noun.act:cozinha
+sa: @en:verb.perception:spice
+
+w: considerar
+w: julgar
+w: pensar
+d: @en_give careful consideration to
+fs: 8 9 29
+hyper: verb.cognition:considerar[10]
+hyper: verb.cognition:equiparar
+hypo: verb.cognition:contemplar[2]
+sa: @en:verb.perception:consider
+vg: verb.communication:deliberar
+
+w: contemplar[1]
+w: encarar
+w: fitar
+w: fixar_o_olhar
+w: olhar_fixo
+w: ver[5]
+d: @en_look at with fixed eyes
+fs: 2 22
+hyper: @en_outface
+hyper: @en_stargaze
+hypo: observar
+sa: @en:verb.perception:gaze
+
+w: controlar
+w: monitorar
+w: policiar
+d: @en_keep tabs on; keep an eye on; keep under surveillance
+fs: 8 9
+hyper: verb.communication:espiar
+hypo: observar[3]
+sa: @en:verb.perception:monitor
+
+w: coçar
+d: @en_scrape or rub as if to relieve itching
+fs: 1 8 10 11
+hypo: verb.body:irritar
+sa: @en:verb.perception:rub
+
+w: crepitar
+d: @en_make a crackling sound
+fs: 1
+hypo: chocalhar
+sa: @en:verb.perception:crackle
+
+w: cuidar_de_criança
+w: velar
+w: vigiar
+d: @en_keep under careful scrutiny
+fs: 8 9
+hypo: ter_cuidado
+sa: @en:verb.perception:look_after
+
+w: dar_atenção_a
+w: escutar[1]
+w: ouvir
+d: @en_hear with intention
+fs: 2 22
+entail: ouvir_dizer
+hyper: @en_hark
+hyper: @en_hear_out
+hyper: @en_listen_in
+hyper: atender
+hyper: grampear
+hypo: aperceber
+sa: @en:verb.perception:listen
+
+w: dar_coceira
+w: estar_com_coceira
+w: prurir
+d: @en_cause to perceive an itch
+fs: 1
+sa: @en:verb.perception:itch[2]
+
+w: dar_uma_olhada
+w: mirar
+w: ver[6]
+d: @en_look at with attention
+fs: 2 22
+hypo: observar
+sa: @en:verb.perception:get_a_load
+
+w: dar_uma_olhada[1]
+d: examinar às pressas
+fs: 8 9
+hypo: inspecionar
+sa: @en:verb.perception:glance_over
+
+w: demonstrar
+w: manifestar
+w: mostrar[2]
+d: @en_give an exhibition of to an interested audience
+fs: 8 11 14 15 17
+hyper: verb.change:esclarecer
+hypo: apresentar
+sa: @en:verb.perception:demo
+
+w: demonstrar[1]
+w: registrar
+d: Mostrar no rosto
+fs: 8 11
+hypo: evidenciar
+sa: @en:verb.perception:register[1]
+vg: perceber[2]
+
+w: desaparecer[1]
+w: esvair
+d: @en_become invisible or unnoticeable
+fs: 1 2 22
+hyper: verb.change:desmaterializar
+hyper: @en_bob_under
+hyper: clarear
+hypo: verb.stative:cessar
+sa: @en:verb.perception:disappear
+
+w: descerrar
+w: expor[1]
+w: mostrar[3]
+w: revelar
+d: @en_disclose to view as by removing a cover
+fs: 11
+hyper: virar
+hypo: desvendar
+sa: @en:verb.perception:disclose
+
+w: descobrir[1]
+d: @en_see for the first time; make a discovery
+fs: 8 9
+entail: aperceber
+hyper: redescobrir
+sa: @en:verb.perception:discover
+
+w: descobrir[2]
+w: descortinar
+w: revelar[1]
+d: @en_open to the view
+fs: 11
+hypo: desvendar
+sa: @en:verb.perception:unfold
+
+w: desconsiderar
+w: ignorar
+w: negligenciar
+d: @en_fail to notice
+fs: 8 9 26
+hyper: @en_pass_up
+sa: @en:verb.perception:ignore
+
+w: desenterrar
+w: escavar
+d: @en_recover through digging
+fs: 7
+hyper: @en_dig
+hypo: desvendar
+sa: @en:verb.perception:excavate
+
+w: desfocar
+d: @en_become glassy; lose clear vision
+fs: 1
+sa: @en:verb.perception:film_over
+
+w: desorientar
+d: @en_cause to be lost or disoriented
+fs: 10
+hypo: verb.cognition:enrolar
+sa: @en:verb.perception:disorient
+
+w: desvendar
+w: revelar[2]
+w: trazer
+d: tornar visível
+fs: 8 11
+hyper: @en_trot_out
+hyper: descerrar
+hyper: descortinar
+hyper: desenterrar
+hypo: apresentar
+sa: @en:verb.perception:bring_out
+
+w: discernir
+d: @en_detect with the senses
+fs: 8 9
+entail: aperceber
+hyper: @en_resolve
+hyper: discriminar
+sa: @en:verb.perception:discern
+
+w: discriminar
+d: @en_distinguish
+fs: 2
+hypo: discernir
+sa: @en:verb.perception:discriminate
+
+w: disfarçar[1]
+w: encobrir[1]
+w: esconder[2]
+w: mascarar
+d: @en_make unrecognizable
+fs: 8 9 10 11
+hyper: camuflar
+hyper: dissimular
+hyper: esconder[9]
+hyper: mascarar[1]
+hypo: acobertar
+sa: @en:verb.perception:disguise
+
+w: dissimular
+d: @en_hide (feelings) from other people
+fs: 8
+hypo: mascarar
+sa: @en:verb.perception:dissimulate
+
+w: doer[1]
+d: @en_be the source of pain
+fs: 1 23
+hyper: @en_act_up
+hyper: @en_burn
+hyper: @en_hunger
+hyper: @en_itch
+hyper: @en_shoot
+hyper: @en_thirst
+hyper: @en_throb
+hyper: queimar
+hypo: @en_cause_to_be_perceived
+sa: @en:verb.perception:ache
+
+w: eclipsar
+w: ocultar[2]
+d: causar um eclipse de (um corpo celeste)
+fs: 11
+hypo: @en_overshadow
+sa: @en:verb.perception:eclipse
+
+w: ecoar
+w: ressoar
+w: reverberar
+d: soar ou ecoar com som
+fs: 1 22
+hyper: @en_bong
+hyper: @en_consonate
+hyper: @en_reecho
+hyper: @en_reecho[1]
+hypo: fazer
+sa: @en:verb.perception:echo
+
+w: embasbacar
+w: embasbacar-se
+w: ver[7]
+d: @en_look with amazement; look stupidly
+fs: 2 22
+hypo: observar
+sa: @en:verb.perception:gape
+
+w: embaçar ant focar
+d: @en_to make less distinct or clear
+fs: 8 11
+hypo: verb.change:alterar[2]
+sa: @en:verb.perception:blur
+
+w: embrenhar
+w: esconder[3]
+w: esconder-se
+d: @en_be or go into hiding; keep out of sight, as for protection and safety
+fs: 1 2
+hyper: verb.cognition:@en_lie_low
+hyper: @en_earth
+hyper: @en_hole_up
+hyper: @en_hunker_down
+hyper: @en_lie_low
+hyper: @en_stow_away
+sa: @en:verb.perception:hide_out
+
+w: emocionar
+w: estimular
+w: excitar
+w: mexer
+d: @en_stir feelings in
+fs: 8 9 10
+hyper: verb.contact:bronha
+hyper: verb.contact:masturbar[1]
+hyper: @en_horripilate
+hyper: @en_quicken
+hyper: @en_thrill
+hyper: @en_work
+hyper: afastar
+hyper: mamar
+hypo: sensibilizar
+sa: @en:verb.perception:excite
+
+w: empavonar
+w: empavonar-se
+w: ostentar
+w: pavonear
+w: pavonear-se
+d: @en_display proudly; act ostentatiously or pretentiously
+fs: 8 9
+hyper: @en_flex
+hyper: @en_splurge
+hypo: exibir
+sa: @en:verb.perception:flaunt
+
+w: encandear[1]
+d: @en_render unable to see
+fs: 10
+hyper: @en_seel
+hyper: @en_snow-blind
+hyper: cegar
+sa: @en:verb.perception:blind[1]
+
+w: encobrir[2]
+w: esconder[4]
+w: ocultar[3]
+d: esconder da vista
+fs: 11
+hypo: esconder[8]
+sa: @en:verb.perception:occult
+
+w: encobrir[3]
+w: esconder[5]
+d: @en_make less visible or unclear
+fs: 11
+hyper: @en_overshadow
+hypo: acobertar
+sa: @en:verb.perception:becloud
+
+w: encobrir[4]
+w: esconder[6]
+d: @en_hide from view or knowledge
+fs: 8
+hyper: caiar
+hypo: acobertar
+sa: @en:verb.perception:cover_up
+
+w: encontrar
+w: ver[8]
+d: @en_perceive or be contemporaneous with
+e: Os anos 1960 viram a rebelião da geração mais jovem contra as tradições estabelecidas
+e: Você vai ver muitas trapaças nesta escola
+fs: 24 26
+hyper: verb.cognition:flagrar
+hypo: experienciar
+sa: @en:verb.perception:find[1]
+vg: verb.cognition:descobrir
+vg: @en_find
+
+w: ensurdecer
+d: @en_make or render deaf
+fs: 9 10
+hypo: @en_desensitise
+sa: @en:verb.perception:deaf
+
+w: ensurdecer[1]
+d: @en_be unbearably loud
+fs: 9 10
+entail: ressoar[3]
+sa: @en:verb.perception:deafen[1]
+
+w: entender[1]
+w: pegar[1]
+d: perceber pelo ouvir
+fs: 8
+hypo: ouvir_dizer
+sa: @en:verb.perception:catch[12]
+vg: @en_catch
+
+w: enterrar
+w: esconder[7]
+w: sepultar
+w: soterrar
+d: @en_cover from sight
+fs: 8 21
+hypo: acobertar
+sa: @en:verb.perception:bury
+
+w: entrever
+w: olhar_de_relance
+w: ver_de_relance
+w: vislumbrar
+d: @en_catch a glimpse of or see briefly
+fs: 8
+hypo: enxergar
+sa: @en:verb.perception:glimpse
+
+w: enxergar
+w: olhar
+w: ver[9]
+d: @en_perceive by sight or have the power to perceive by sight
+fs: 2 8 9
+hyper: @en_catch_a_glimpse
+hyper: compreender
+hyper: entrever
+hyper: observar[2]
+hypo: aperceber
+sa: @en:verb.perception:see
+vg: @en_see
+vg: assistir[1]
+
+w: esconder[8]
+d: @en_hold back; keep from being perceived by others
+fs: 8
+hyper: encobrir[2]
+sa: @en:verb.perception:conceal
+
+w: esconder[9]
+d: @en_hide under a false appearance
+fs: 8 9 10 11
+hypo: mascarar
+sa: @en:verb.perception:cloak
+
+w: escrutinar
+d: @en_to look at critically or searchingly, or in minute detail
+fs: 8 9
+hypo: inspecionar
+sa: @en:verb.perception:scrutinise
+
+w: escutar[2]
+d: @en_listen and pay attention
+fs: 2 22
+hyper: @en_incline
+hypo: verb.cognition:centrar
+sa: @en:verb.perception:take_heed
+
+w: escutar[3]
+w: ouvir[1]
+w: ouvir_dizer
+w: sentir
+d: @en_perceive (sound) via the auditory sense
+fs: 2 8 9
+hyper: @en_catch
+hyper: entender[1]
+hypo: aperceber
+sa: @en:verb.perception:hear
+
+w: espiar
+w: olhar[1]
+w: ver[10]
+w: vislumbrar[1]
+d: lançar um olhar; dar uma breve olhada
+fs: 22
+hypo: observar
+sa: @en:verb.perception:glance
+
+w: estar_presente
+w: ser_testemunha
+w: testemunhar
+d: @en_be a witness to
+fs: 8
+hyper: @en_eyewitness
+hypo: assistir[3]
+sa: @en:verb.perception:witness
+
+w: estupidificar
+w: imbecilizar
+d: @en_make dull or stupid or muddle with drunkenness or infatuation
+fs: 9 10
+hypo: @en_desensitise
+sa: @en:verb.perception:besot
+
+w: evidenciar
+w: ressaltar
+d: @en_be or become visible or noticeable
+fs: 1 4
+hyper: registrar
+hypo: verb.change:aparecer[3]
+sa: @en:verb.perception:show_up
+
+w: examinar
+d: @en_examine or consider with attention and in detail
+fs: 8
+hyper: folhear
+hypo: inspecionar
+sa: @en:verb.perception:peruse
+
+w: examinar[1]
+w: inspecionar
+d: @en_observe, check out, and look over carefully or inspect
+fs: 8
+entail: observar
+hyper: verb.contact:buscar
+hyper: @en_autopsy
+hyper: @en_candle
+hyper: @en_scan
+hyper: @en_survey[1]
+hyper: @en_x-ray
+hyper: auscultar
+hyper: dar_uma_olhada[1]
+hyper: escrutinar
+hyper: examinar
+hyper: inspeccionar
+hyper: procurar
+hyper: verb.social:comprovar
+sa: @en:verb.perception:examine
+
+w: exibir[1]
+w: projetar
+d: @en_project onto a screen for viewing
+fs: 8
+hypo: apresentar
+sa: @en:verb.perception:screen
+
+w: exibir[2]
+d: @en_exhibit on a bench
+e: exibir os poodles no  show canino
+fs: 8
+hypo: exibir
+sa: @en:verb.perception:bench
+
+w: experienciar
+w: experimentar
+d: @en_go or live through
+fs: 8
+hyper: verb.cognition:experimentar
+hyper: @en_feel[3]
+hyper: aproveitar
+hyper: encontrar
+hyper: gozar
+hyper: penar
+hyper: sofrer[2]
+hypo: receber
+sa: @en:verb.perception:go_through
+
+w: experimentar[1]
+w: passar_por
+w: ter
+d: atravessar ou passar por estados físicos ou mentais ou experiências
+e: ter uma ideia
+fs: 8 11
+entail: aperceber
+hyper: verb.body:sofrer
+hyper: @en_horripilate[1]
+hyper: @en_take
+hypo: receber
+sa: @en:verb.perception:experience
+
+w: experimentar[2]
+w: receber
+w: sofrer
+d: @en_pass through
+fs: 8 11
+hyper: verb.body:@en_respire
+hyper: verb.body:parir[4]
+hyper: verb.cognition:aceitar[5]
+hyper: experienciar
+hyper: passar_por
+hypo: verb.change:alterar[3]
+sa: @en:verb.perception:undergo[4]
+
+w: expor[2]
+d: @en_expose to light, of photographic film
+fs: 8
+hyper: @en_overexpose[1]
+hyper: @en_underexpose
+hypo: sujeitar
+mt: noun.act:fotografia[2]
+sa: @en:verb.perception:expose[1]
+
+w: falar
+w: soar
+d: @en_make a characteristic or natural sound
+fs: 1
+hypo: ressoar[2]
+sa: @en:verb.perception:speak
+
+w: farejar
+d: @en_recognize or detect by or as if by smelling
+fs: 8 9
+entail: cheirar[3]
+sa: @en:verb.perception:nose_out
+
+w: farfalhar
+w: sibilar
+d: @en_move with or cause to move with a whistling or hissing sound
+fs: 1 22
+hypo: fazer
+sa: @en:verb.perception:lap
+
+w: fazer
+w: ressoar[1]
+w: soar[1]
+d: @en_make a certain noise or sound
+fs: 1 2 6 7
+hyper: verb.communication:@en_snarl
+hyper: verb.communication:apitar
+hyper: @en_babble
+hyper: @en_bang
+hyper: @en_bleep
+hyper: @en_blow[1]
+hyper: @en_blow[2]
+hyper: @en_bombilate
+hyper: @en_boom
+hyper: @en_boom_out
+hyper: @en_chatter
+hyper: @en_chime
+hyper: @en_chink
+hyper: @en_chug
+hyper: @en_clang
+hyper: @en_clangour
+hyper: @en_clank
+hyper: @en_clop
+hyper: @en_crack
+hyper: @en_crash
+hyper: @en_glug
+hyper: @en_grumble
+hyper: @en_guggle[1]
+hyper: @en_gurgle[1]
+hyper: @en_knock
+hyper: @en_patter
+hyper: @en_ping
+hyper: @en_ping[1]
+hyper: @en_pop[1]
+hyper: @en_skirl
+hyper: @en_snap
+hyper: @en_splat
+hyper: @en_squelch
+hyper: @en_thump
+hyper: @en_ting
+hyper: @en_trump
+hyper: @en_twang[2]
+hyper: @en_tweet
+hyper: @en_whish
+hyper: apitar
+hyper: bater
+hyper: batucar
+hyper: buzinar
+hyper: chapinar
+hyper: chocalhar
+hyper: clicar
+hyper: ecoar
+hyper: farfalhar
+hyper: ressoar[3]
+hyper: ressoar[4]
+hyper: reverberar[2]
+hyper: ronronar
+hyper: sussurrar
+hyper: tocar
+hyper: zinir
+hyper: zunir
+hypo: @en_cause_to_be_perceived
+sa: @en:verb.perception:go
+
+w: fazer_barulho
+d: fazer um som estridente
+fs: 1
+hypo: ressoar[3]
+sa: @en:verb.perception:blast
+
+w: fechar ant abrir
+d: @en_cause a window or an application to disappear on a computer desktop
+fs: 8
+hypo: verb.stative:findar
+sa: @en:verb.perception:close[10]
+
+w: feder[1]
+w: tresandar
+d: @en_smell badly and offensively
+fs: 1 2
+hypo: feder
+sa: @en:verb.perception:reek
+
+w: flertar
+d: @en_look at with amorous intentions
+fs: 8 9
+hypo: observar
+sa: @en:verb.perception:ogle
+
+w: flutuar
+d: exibir no ar ou causar a flutuar
+fs: 8
+hypo: apresentar
+sa: @en:verb.perception:fly
+vg: verb.motion:@en_fly[1]
+
+w: focar ant embaçar
+d: @en_cause to converge on or toward a central point
+fs: 8 11
+hyper: @en_refocus
+hypo: @en_sharpen
+sa: @en:verb.perception:focus
+
+w: folhear
+d: @en_look through a book or other written material
+fs: 22
+hypo: examinar
+sa: @en:verb.perception:flick[10]
+
+w: formigar
+d: @en_cause a prickling sensation
+fs: 1 23
+hypo: machucar
+sa: @en:verb.perception:prick[1]
+
+w: gozar
+d: @en_experience orgasm
+fs: 2
+hypo: experienciar
+sa: @en:verb.perception:come
+
+w: grampear
+w: interceptar
+d: @en_listen without the speaker's knowledge
+fs: 2 22
+hyper: interceptar[1]
+hypo: dar_atenção_a
+sa: @en:verb.perception:eavesdrop
+
+w: guiar
+w: nortear
+d: @en_use as a guide
+fs: 8 11
+hypo: @en_orient
+sa: @en:verb.perception:guide
+
+w: incensar
+d: @en_perfume especially with a censer
+fs: 8 11
+hypo: @en_odorize
+sa: @en:verb.perception:cense
+
+w: inspeccionar
+w: inspecionar[1]
+w: vistoriar
+d: @en_look over carefully
+fs: 8 9
+hyper: verb.cognition:vistoriar
+hyper: @en_case
+hyper: @en_perambulate
+hyper: @en_vet
+hypo: inspecionar
+sa: @en:verb.perception:inspect
+
+w: instanciar
+d: @en_find an instance of (a word or particular usage of a word)
+fs: 2
+hypo: achar
+sa: @en:verb.perception:instantiate
+vg: instanciar[1]
+
+w: instanciar[1]
+d: representar por uma instância
+fs: 11
+hypo: verb.social:representar[1]
+sa: @en:verb.perception:instantiate[1]
+vg: instanciar
+
+w: interceptar[1]
+d: @en_tap a telephone or telegraph wire to get information
+fs: 8
+hypo: grampear
+sa: @en:verb.perception:bug
+
+w: intrometer-se
+d: @en_search or inquire in a meddlesome way
+fs: 22
+hypo: procurar
+sa: @en:verb.perception:horn_in
+
+w: machucar
+w: picar
+d: @en_cause a stinging pain
+fs: 10 11
+hyper: formigar
+hypo: causar_dor
+sa: @en:verb.perception:prick
+
+w: mamar
+d: @en_provide sexual gratification through oral stimulation
+fs: 9
+hypo: emocionar
+sa: @en:verb.perception:fellate
+
+w: mascarar[1]
+d: @en_take part in a masquerade
+fs: 9
+hypo: mascarar
+sa: @en:verb.perception:masquerade
+
+w: melar
+d: adoçar com mel
+fs: 8
+hypo: adoçar
+sa: @en:verb.perception:honey
+
+w: mirar[1]
+d: @en_take aim by looking through the sights of a gun (or other device)
+fs: 2
+hypo: verb.competition:apontar
+sa: @en:verb.perception:sight[3]
+
+w: mirar[2]
+w: olhar[2]
+w: ver[11]
+d: @en_look at attentively
+fs: 8
+hypo: observar
+sa: @en:verb.perception:regard
+
+w: mirar[3]
+w: observar
+w: olhar[3]
+w: ver[12]
+d: @en_perceive with attention; direct one's gaze towards
+fs: 2 22
+entail: enxergar
+hyper: verb.body:olhar
+hyper: @en_give_the_eye
+hyper: @en_give_the_glad_eye
+hyper: @en_gloat
+hyper: @en_leer
+hyper: @en_look_around
+hyper: @en_look_away
+hyper: @en_look_back
+hyper: @en_peep
+hyper: @en_peer
+hyper: @en_squint
+hyper: admirar
+hyper: dar_uma_olhada
+hyper: embasbacar
+hyper: encarar
+hyper: espiar
+hyper: flertar
+hyper: mirar[2]
+hyper: mirar[4]
+sa: @en:verb.perception:look
+
+w: mirar[4]
+w: olhar[4]
+w: ver[13]
+d: @en_look at
+fs: 8 9
+hypo: observar
+sa: @en:verb.perception:eye
+
+w: monitorar[1]
+w: rastrear
+d: @en_observe or plot the moving path of something
+fs: 8 9
+hypo: observar[3]
+sa: @en:verb.perception:track
+
+w: monitorar[2]
+d: @en_check, track, or observe by means of a receiver
+fs: 8 10
+hypo: observar[3]
+sa: @en:verb.perception:monitor[1]
+
+w: morrer
+d: sofrer ou enfrentar a dor da morte;
+e: Mártires podem morrer todos os dias por sua fé.
+fs: 2
+hypo: sofrer[2]
+sa: @en:verb.perception:die
+vg: verb.change:bater_as_botas
+
+w: mostrar[4]
+d: @en_bring out for display
+fs: 8
+hyper: @en_turn_on
+hypo: exibir
+sa: @en:verb.perception:bring_forth
+
+w: naufragar
+d: @en_cause to experience shipwreck
+fs: 8 9 10 11
+hypo: sujeitar
+mt: noun.act:@en_seafaring
+sa: @en:verb.perception:shipwreck
+
+w: negligenciar[1]
+d: deixar de reparar
+fs: 8 9
+hypo: @en_lose
+sa: @en:verb.perception:overlook[1]
+
+w: notar
+w: observar[1]
+w: perceber[1]
+w: ver[14]
+d: @en_notice or perceive
+fs: 8 9 26
+entail: aperceber
+hyper: @en_take_notice
+sa: @en:verb.perception:mark
+
+w: observar[2]
+w: ver[15]
+d: @en_see with attention
+fs: 8 9
+hypo: enxergar
+sa: @en:verb.perception:behold
+
+w: observar[3]
+d: @en_watch attentively
+fs: 2 8 9
+hyper: verb.competition:@en_bird
+hyper: @en_reconnoiter
+hyper: controlar
+hyper: monitorar[2]
+hyper: rastrear
+hypo: assistir[3]
+sa: @en:verb.perception:observe
+
+w: observar[4]
+d: @en_look or stare at longingly
+fs: 8 11
+hypo: ver[18]
+sa: @en:verb.perception:groak
+
+w: observar[5]
+d: @en_observe with care or pay close attention to
+fs: 8 9
+entail: aperceber
+sa: @en:verb.perception:take_note
+
+w: ocultar[4]
+d: @en_become concealed or hidden from view or have its light extinguished
+fs: 1
+hypo: verb.change:alterar[3]
+sa: @en:verb.perception:occult[2]
+
+w: ocultar[5]
+d: @en_place out of sight; keep secret
+fs: 8
+hypo: acobertar
+sa: @en:verb.perception:secrete[2]
+
+w: pagar
+d: @en_suffer from the receipt of
+fs: 8
+hypo: causar_dor
+sa: @en:verb.perception:catch[9]
+vg: verb.change:pegar
+vg: pegar[2]
+
+w: parecer
+d: parecer para sua própria mente ou opinião
+e: Eu pareço não ser entendido por ninguém.
+fs: 28
+hypo: ter_aparência_de
+sa: @en:verb.perception:seem[2]
+
+w: parecer[1]
+w: ter_aparência_de
+d: @en_seem to be true, probable, or apparent
+fs: 34
+hyper: parecer
+hypo: verb.stative:estar[2]
+sa: @en:verb.perception:appear[1]
+
+w: parecer[2]
+d: @en_give a certain impression or have a certain outward aspect
+fs: 6 7 28
+hyper: @en_come_across
+hyper: @en_cut
+hyper: @en_feel[2]
+hyper: @en_pass_off
+hyper: brilhar[1]
+hyper: parecer[3]
+hyper: parecer[4]
+hyper: reluzir
+hyper: verb.stative:@en_feel
+hyper: verb.stative:aparecer
+hyper: verb.stative:saltar_à_vista
+hyper: verb.stative:surgir[2]
+hypo: verb.stative:estar[2]
+sa: @en:verb.perception:appear
+
+w: parecer[3]
+d: parecer começar uma atividade
+fs: 2 28
+hypo: parecer[2]
+sa: @en:verb.perception:make[12]
+
+w: parecer[4]
+d: @en_appear in a certain way
+fs: 6 7
+hypo: parecer[2]
+sa: @en:verb.perception:sound[6]
+
+w: pegar[2]
+w: receber[1]
+d: @en_receive as a retribution or punishment
+fs: 8
+sa: @en:verb.perception:get[14]
+vg: pagar
+
+w: penar
+w: sofrer[1]
+d: @en_undergo or suffer
+fs: 8
+hypo: experienciar
+sa: @en:verb.perception:meet
+
+w: perceber[2]
+w: registrar[1]
+d: @en_be aware of
+fs: 8 9 11
+entail: aperceber
+sa: @en:verb.perception:record
+vg: verb.cognition:registrar_
+vg: registrar
+
+w: perder
+w: perder_de_vista
+d: @en_allow to go out of sight
+fs: 8 9
+sa: @en:verb.perception:lose
+
+w: pestanejar
+w: piscar[1]
+d: @en_flash intermittently
+fs: 1
+hypo: cintilar
+sa: @en:verb.perception:flick
+
+w: posar
+d: @en_assume a posture as for artistic purposes
+fs: 2
+hyper: @en_ramp
+hypo: exibir
+mt: noun.act:arte
+sa: @en:verb.perception:pose
+
+w: procurar
+w: revistar
+d: @en_search or seek
+fs: 8 9
+hyper: verb.competition:andar_à_caça_de
+hyper: @en_cruise
+hyper: @en_prospect
+hyper: intrometer-se
+hypo: inspecionar
+sa: @en:verb.perception:search
+
+w: projectar
+w: tencionar
+d: @en_project on a screen
+fs: 8 11
+cause: verb.change:aparecer[3]
+hyper: @en_silhouette
+hypo: apresentar
+sa: @en:verb.perception:project[1]
+
+w: queimar
+d: @en_cause a sharp or stinging pain or discomfort
+fs: 10 11
+hyper: @en_nettle
+hypo: doer[1]
+sa: @en:verb.perception:bite
+vg: @en_burn
+
+w: redescobrir
+w: reencontrar
+d: @en_discover again
+fs: 8 9
+hypo: descobrir[1]
+sa: @en:verb.perception:rediscover
+
+w: refletir
+d: @en_show an image of
+fs: 11
+hypo: apresentar
+mt: noun.cognition:Óptica
+sa: @en:verb.perception:reflect[2]
+
+w: refletir[1]
+w: reverberar[1]
+d: @en_manifest or bring back
+fs: 11
+hypo: verb.communication:apontar[3]
+sa: @en:verb.perception:reflect[1]
+
+w: refletir[2]
+d: @en_to throw or bend back (from a surface)
+fs: 8 11
+hyper: @en_reverberate
+hyper: verb.weather:espelhar
+mt: noun.cognition:Acustica
+sa: @en:verb.perception:reflect
+vg: @en_reverberate
+
+w: ressoar[2]
+w: soar[2]
+d: @en_give off a certain sound or sounds
+fs: 6 7
+hyper: verb.communication:@en_cackel
+hyper: verb.creation:tocar[5]
+hyper: @en_dissonate
+hyper: @en_pierce
+hyper: falar
+sa: @en:verb.perception:sound[3]
+
+w: ressoar[3]
+w: soar[3]
+d: @en_emit a noise
+fs: 1 2
+hyper: verb.communication:@en_hum
+hyper: verb.communication:@en_purl
+hyper: verb.communication:@en_sizzle
+hyper: verb.communication:buzinar
+hyper: verb.communication:crepitar
+hyper: verb.communication:rugir[1]
+hyper: @en_brattle
+hyper: @en_clitter
+hyper: @en_creak
+hyper: @en_drown_out
+hyper: @en_racket
+hyper: @en_ring_out
+hyper: @en_scream
+hyper: fazer_barulho
+hyper: retinir
+hyper: sair_pela_culatra
+hypo: fazer
+sa: @en:verb.perception:make_noise
+
+w: ressoar[4]
+d: @en_sound with resonance
+fs: 1 11
+hyper: verb.communication:ronronar
+hypo: fazer
+sa: @en:verb.perception:resonate
+
+w: retinir
+w: tilintar
+w: tinir
+d: @en_make a sound typical of metallic objects
+fs: 1
+hypo: ressoar[3]
+sa: @en:verb.perception:jangle
+
+w: revelar[3]
+d: @en_disclose directly or through prophets
+fs: 8
+hypo: verb.communication:descerrar
+mt: noun.cognition:teologia[1]
+sa: @en:verb.perception:reveal[4]
+
+w: revelar[4]
+d: @en_make visible by means of chemical solutions
+fs: 8
+hyper: @en_redevelop
+hyper: @en_solarise[3]
+hyper: @en_underdevelop
+hypo: verb.change:alterar[2]
+mt: noun.act:fotografia[2]
+mt: noun.process:fotografia
+sa: @en:verb.perception:develop
+
+w: reverberar[2]
+d: @en_emit, produce, or utter with a deep prolonged reverberating sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:roll
+
+w: ronronar
+d: @en_make a soft swishing sound
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:birr
+
+w: saborear
+d: perceber pelo sentido do gosto
+fs: 2 8
+hyper: @en_savor[2]
+hypo: aperceber
+sa: @en:verb.perception:taste
+
+w: sair_pela_culatra
+d: @en_emit a loud noise as a result of undergoing a backfire
+fs: 1
+hypo: ressoar[3]
+sa: @en:verb.perception:backfire
+
+w: salgar
+d: @en_add salt to
+fs: 8
+hypo: adicionar_algo
+mt: noun.act:cozinha
+sa: @en:verb.perception:salt
+
+w: sensibilizar
+d: @en_cause to sense; make sensitive
+fs: 8 9 10
+cause: @en_feel
+hyper: @en_photosensitise
+hyper: emocionar
+sa: @en:verb.perception:sensitise
+
+w: sentir[1]
+d: detectar alguma circunstância ou entidade automaticamente
+e: Esse robô pode sentir a presença de pessoas no quarto
+fs: 11
+hypo: achar
+sa: @en:verb.perception:sense[2]
+
+w: soar[4]
+d: @en_make (bells) ring, often for the purposes of musical edification
+fs: 8 11
+cause: fazer
+hyper: badalar
+hypo: soar[5]
+sa: @en:verb.perception:knell[1]
+
+w: soar[5]
+d: @en_cause to sound
+fs: 8 11
+cause: fazer
+hyper: verb.creation:tocar[2]
+hyper: @en_blow
+hyper: @en_clink[1]
+hyper: @en_gong
+hyper: @en_pop[2]
+hyper: @en_prepare
+hyper: @en_strum
+hyper: @en_ting[1]
+hyper: @en_twang
+hyper: soar[4]
+sa: @en:verb.perception:sound[1]
+
+w: soar[6]
+w: tocar
+d: @en_sound loudly and sonorously
+fs: 1
+hyper: @en_tintinnabulate
+hyper: ajoelhar
+hyper: soar[8]
+hyper: soar[9]
+hypo: fazer
+sa: @en:verb.perception:ring
+
+w: soar[7]
+d: anunciar por meio de um som
+fs: 8
+hypo: verb.communication:mostrar
+sa: @en:verb.perception:sound[2]
+
+w: soar[8]
+d: @en_ring recurrently
+fs: 1
+hypo: tocar
+sa: @en:verb.perception:peal
+
+w: soar[9]
+d: @en_go `ding dong', like a bell
+fs: 1
+hypo: tocar
+sa: @en:verb.perception:ding
+
+w: sofrer[2]
+d: @en_undergo or be subjected to
+fs: 8
+hyper: morrer
+hyper: tolerar
+hypo: experienciar
+sa: @en:verb.perception:endure
+
+w: sonhar
+d: @en_experience while sleeping
+fs: 2 8 26
+entail: verb.body:capotar
+hypo: aperceber
+sa: @en:verb.perception:dream
+
+w: sujeitar
+d: @en_cause to experience or suffer or make liable or vulnerable to
+fs: 20 21
+cause: experienciar
+hyper: verb.change:@en_bacterise
+hyper: @en_expose
+hyper: @en_put
+hyper: @en_refract
+hyper: @en_vitriol
+hyper: expor[2]
+hyper: naufragar
+hyper: verb.stative:incorrer
+hypo: verb.change:afetar
+sa: @en:verb.perception:subject[3]
+
+w: supervisionar
+d: @en_watch over
+fs: 8 9
+hypo: @en_survey[1]
+sa: @en:verb.perception:overlook
+
+w: sussurrar
+d: fazer um som crepitante e  seco
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:rustle
+
+w: tapar[1]
+d: @en_shut out from view or get in the way so as to hide from sight
+fs: 11
+hypo: acobertar
+sa: @en:verb.perception:block
+vg: verb.contact:barricar
+
+w: ter_cuidado
+w: tomar_cuidado
+d: @en_be vigilant, be on the lookout or be careful
+fs: 2 22
+hyper: verb.cognition:precaver
+hyper: @en_keep_one's_eyes_open
+hyper: cuidar_de_criança
+sa: @en:verb.perception:look_out
+
+w: tolerar
+d: @en_have a tolerance for a poison or strong drug or pathogen or environmental condition
+fs: 8
+hypo: sofrer[2]
+mt: noun.cognition:@en_medical_specialty
+sa: @en:verb.perception:tolerate
+
+w: ver[16]
+d: @en_catch sight of
+fs: 8 9
+hypo: avistar
+sa: @en:verb.perception:descry
+
+w: ver[17]
+d: @en_perceive in terms of a past experience
+fs: 8 9
+hypo: aperceber
+mt: noun.cognition:Psicólogos_por_nacionalidade
+sa: @en:verb.perception:apperceive
+
+w: ver[18]
+d: @en_look at carefully; study mentally
+fs: 8
+hyper: @en_contemplate
+hyper: observar[4]
+hypo: verb.cognition:analizar
+sa: @en:verb.perception:view
+
+w: virar
+d: mover a fim de expor o rosto
+fs: 8
+hypo: descerrar
+sa: @en:verb.perception:face[4]
+vg: verb.motion:encarar
+
+w: visualizar
+d: @en_view the outline of by means of an X-ray
+fs: 8
+hyper: @en_image
+hypo: assistir[1]
+mt: noun.cognition:@en_medical_specialty
+sa: @en:verb.perception:visualise
+
+w: zinir
+w: zumbir
+d: fazer um som abafado baixo monótono
+fs: 1
+hypo: fazer
+sa: @en:verb.perception:drone
+
+w: zumbir[1]
+w: zunir
+d: @en_sound with a monotonous hum
+fs: 1 2 8
+hypo: fazer
+sa: @en:verb.perception:hum
+

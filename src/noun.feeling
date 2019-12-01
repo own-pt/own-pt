@@ -1,0 +1,2915 @@
+noun.feeling
+
+w: @en_Anglophilia
+d: @en_admiration for Britain and British customs
+hypo: admiração
+sa: @en:noun.feeling:Anglophilia
+
+w: @en_Anglophobia
+d: @en_dislike (or fear) of Britain and British customs
+hypo: aversão[7]
+sa: @en:noun.feeling:Anglophobia
+
+w: @en_Schadenfreude
+d: @en_delight in another person's misfortune
+hypo: deleite
+mr: noun.location:Alemanha
+sa: @en:noun.feeling:Schadenfreude
+
+w: @en_abandon
+w: @en_wildness
+d: @en_a feeling of extreme emotional intensity
+hypo: paixão
+sa: @en:noun.feeling:abandon
+
+w: @en_acquired_taste
+d: @en_a preference that is only acquired after considerable experience
+hypo: predileção
+sa: @en:noun.feeling:acquired_taste
+
+w: @en_adoration
+w: @en_worship
+d: @en_a feeling of profound love and admiration
+hypo: afeição[5]
+sa: @en:noun.feeling:adoration
+
+w: @en_afterglow
+d: @en_the pleasure of remembering some pleasant event
+hypo: agradabilidade
+sa: @en:noun.feeling:afterglow
+
+w: @en_agape
+d: @en_(Christian theology) the love of God or Christ for mankind
+hypo: afeição[5]
+mt: noun.cognition:Teologia_Cristã
+sa: @en:noun.feeling:agape[1]
+
+w: @en_agitation
+d: @en_the feeling of being agitated; not calm
+hyper: @en_fidget
+hyper: @en_stewing
+hyper: @en_stir
+hyper: @en_tumult
+hyper: desassossego
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:agitation
+
+w: @en_algolagnia
+w: @en_algophilia
+d: @en_sexual pleasure derived from inflicting or experiencing pain
+hypo: volúpia
+sa: @en:noun.feeling:algolagnia
+
+w: @en_amativeness
+w: @en_amorousness
+w: @en_eroticism
+w: @en_erotism
+w: @en_sexiness
+d: @en_the arousal of feelings of sexual desire
+hyper: lasciva
+hypo: Eros
+sa: @en:noun.feeling:amativeness
+
+w: @en_amiability
+w: @en_good_humor
+w: @en_good_humour
+w: @en_good_temper
+d: @en_a cheerful and agreeable mood
+hyper: alegria
+hypo: humor
+sa: @en:noun.feeling:amiability
+
+w: @en_amicability
+w: @en_amicableness
+d: @en_a disinclination to quarrel
+hypo: @en_friendliness
+sa: @en:noun.feeling:amicability
+
+w: @en_amorousness[1]
+w: @en_enamoredness
+d: @en_a feeling of love or fondness
+hypo: afeição[5]
+sa: @en:noun.feeling:enamoredness
+
+w: @en_anaphrodisia
+d: @en_decline or absence of sexual desire
+hypo: Eros
+sa: @en:noun.feeling:anaphrodisia
+
+w: @en_angst
+d: @en_an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom
+hypo: preocupação
+sa: @en:noun.feeling:angst
+
+w: @en_aphrodisia
+d: @en_a desire for heterosexual intimacy
+hypo: Eros
+sa: @en:noun.feeling:aphrodisia
+
+w: @en_approbation
+d: @en_official approval
+hypo: @en_approval
+sa: @en:noun.feeling:approbation
+
+w: @en_approval
+d: @en_a feeling of liking something or someone good
+hyper: @en_approbation
+hyper: @en_favor
+hypo: afeição[6]
+sa: @en:noun.feeling:approval
+
+w: @en_ardor
+w: @en_ardour
+d: @en_intense feeling of love
+hypo: afeição[5]
+sa: @en:noun.feeling:ardor
+
+w: @en_bad_temper
+w: @en_ill_temper
+d: @en_a persisting angry mood
+hyper: @en_irascibility
+hyper: noun.state:birra
+hypo: cólera
+sa: @en:noun.feeling:bad_temper
+
+w: @en_bathos
+w: @en_mawkishness
+d: @en_insincere pathos
+hypo: @en_sentimentality
+sa: @en:noun.feeling:bathos
+
+w: @en_belligerence
+w: @en_belligerency
+d: @en_hostile or warlike attitude or nature
+hyper: @en_warpath
+hypo: inimizade
+sa: @en:noun.feeling:belligerence
+
+w: @en_beneficence
+d: @en_doing good; feeling beneficent
+hypo: benevolência
+sa: @en:noun.feeling:beneficence
+
+w: @en_blahs
+d: @en_a general feeling of boredom and dissatisfaction
+hypo: aborrecimento
+mu: noun.communication:@en_colloquialism
+sa: @en:noun.feeling:blahs
+
+w: @en_blitheness
+w: @en_cheerfulness
+d: @en_a feeling of spontaneous good spirits
+hyper: @en_buoyancy
+hyper: @en_carefreeness
+hypo: felicidade
+sa: @en:noun.feeling:blitheness
+
+w: @en_bloodlust
+d: @en_a desire for bloodshed
+hypo: apetite
+sa: @en:noun.feeling:bloodlust
+
+w: @en_bonheur
+d: @en_(French) happiness and good humor
+hypo: felicidade
+mr: noun.location:França
+sa: @en:noun.feeling:bonheur
+
+w: @en_brooding
+w: @en_pensiveness
+d: @en_persistent morbid meditation on a problem
+hypo: melancolia
+sa: @en:noun.feeling:brooding
+
+w: @en_buck_fever
+d: @en_nervous excitement of an inexperienced hunter
+hypo: febre
+sa: @en:noun.feeling:buck_fever
+
+w: @en_buoyancy
+w: @en_perkiness
+d: @en_cheerfulness that bubbles to the surface
+hypo: @en_blitheness
+sa: @en:noun.feeling:buoyancy
+
+w: @en_carefreeness
+w: @en_insouciance
+w: @en_lightheartedness
+w: @en_lightsomeness
+d: @en_the cheerful feeling you have when nothing is troubling you
+hypo: @en_blitheness
+sa: @en:noun.feeling:carefreeness
+
+w: @en_chafing
+d: @en_soreness or irritation of the skin caused by friction
+hyper: Intertrigo
+hypo: noun.state:dor[2]
+sa: @en:noun.feeling:chafing
+
+w: @en_chagrin
+w: @en_humiliation
+w: @en_mortification
+d: @en_strong feelings of embarrassment
+hypo: vergonha[2]
+sa: @en:noun.feeling:chagrin
+
+w: @en_cheerlessness
+w: @en_uncheerfulness
+d: @en_a feeling of dreary or pessimistic sadness
+hyper: @en_joylessness
+hypo: pesar[4]
+sa: @en:noun.feeling:cheerlessness
+
+w: @en_chill
+w: @en_pall
+d: @en_a sudden numbing dread
+hypo: pavor
+sa: @en:noun.feeling:chill
+
+w: @en_class_feeling
+d: @en_feelings of envy and resentment of one social or economic class for toward another
+hypo: inimizade
+sa: @en:noun.feeling:class_feeling
+
+w: @en_cold_comfort
+d: @en_very limited consolation or empathy
+hypo: consolo
+sa: @en:noun.feeling:cold_comfort
+
+w: @en_cold_feet
+d: @en_timidity that prevents the continuation of a course of action
+hypo: @en_timidity
+sa: @en:noun.feeling:cold_feet
+
+w: @en_coldheartedness
+w: @en_hardheartedness
+w: @en_heartlessness
+d: @en_an absence of concern for the welfare of others
+hyper: crueldade
+hypo: indiferença[2]
+sa: @en:noun.feeling:coldheartedness
+
+w: @en_comfort
+d: @en_a feeling of freedom from worry or disappointment
+hyper: alívio
+hyper: consolo
+hypo: prazer
+sa: @en:noun.feeling:comfort
+
+w: @en_comfortableness
+d: @en_a feeling of being at ease in a relationship
+hypo: pertence
+sa: @en:noun.feeling:comfortableness
+
+w: @en_complacence
+w: @en_complacency
+w: @en_self-complacency
+w: @en_self-satisfaction
+d: @en_the feeling you have when you are satisfied with yourself
+hyper: @en_smugness
+hypo: satisfação
+sa: @en:noun.feeling:complacence
+
+w: @en_complex
+d: @en_(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior
+hyper: Complexo_de_electra
+hyper: Complexo_de_édipo
+hyper: complexo_de_inferioridade
+hypo: noun.Tops:emoção
+mt: noun.act:psicanálise
+sa: @en:noun.feeling:complex
+
+w: @en_conflict
+d: @en_opposition between two simultaneous but incompatible feelings
+hypo: ambivalência
+sa: @en:noun.feeling:conflict
+
+w: @en_conscience
+d: @en_a feeling of shame when you do something immoral
+hypo: cruzes
+sa: @en:noun.feeling:conscience
+
+w: @en_coolness
+w: @en_imperturbability
+w: @en_imperturbableness
+d: @en_calm and unruffled self-assurance
+hypo: calma
+sa: @en:noun.feeling:coolness
+
+w: @en_covetousness
+d: @en_an envious eagerness to possess something
+hypo: ciumes
+sa: @en:noun.feeling:covetousness[1]
+
+w: @en_creeps
+d: @en_a feeling of fear and revulsion
+hypo: consternação
+mu: noun.communication:@en_colloquialism
+sa: @en:noun.feeling:creeps
+
+w: @en_creepy-crawlies
+d: @en_feelings of dislike and anxiety
+hypo: aversão[7]
+sa: @en:noun.feeling:creepy-crawlies
+
+w: @en_dander
+w: @en_hackles
+d: @en_a feeling of anger and animosity
+hypo: cólera
+sa: @en:noun.feeling:dander
+
+w: @en_dejectedness
+w: @en_dispiritedness
+w: @en_downheartedness
+w: @en_low-spiritedness
+w: @en_lowness
+d: @en_a feeling of low spirits
+hypo: pesar[4]
+sa: @en:noun.feeling:dejectedness
+
+w: @en_demoralisation
+w: @en_demoralization
+d: @en_depression resulting from an undermining of your morale
+hypo: @en_depression
+sa: @en:noun.feeling:demoralisation
+
+w: @en_depression
+d: @en_sad feelings of gloom and inadequacy
+hyper: @en_demoralisation
+hyper: @en_despondence
+hyper: @en_helplessness
+hyper: Disforia
+hyper: opressão
+hypo: pesar[4]
+sa: @en:noun.feeling:depression
+
+w: @en_despondence
+w: @en_despondency
+w: @en_disconsolateness
+w: @en_heartsickness
+d: @en_feeling downcast and disheartened and hopeless
+hypo: @en_depression
+sa: @en:noun.feeling:despondence
+
+w: @en_devastation
+d: @en_the feeling of being confounded or overwhelmed
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:devastation
+
+w: @en_devotedness
+w: @en_devotion
+d: @en_feelings of ardent love
+hypo: afeição[5]
+sa: @en:noun.feeling:devotedness
+
+w: @en_diffidence
+w: @en_self-distrust
+w: @en_self-doubt
+d: @en_lack of self-confidence
+hyper: @en_hesitance
+hyper: @en_unassertiveness
+hypo: @en_timidity
+sa: @en:noun.feeling:diffidence
+
+w: @en_discomfiture
+w: @en_discomposure
+w: @en_disconcertion
+w: @en_disconcertment
+d: @en_anxious embarrassment
+hypo: preocupação
+hypo: vergonha[2]
+sa: @en:noun.feeling:discomfiture
+
+w: @en_discomfort
+w: @en_irritation
+w: @en_soreness
+d: @en_an uncomfortable feeling of mental painfulness or distress
+hypo: agonia
+sa: @en:noun.feeling:discomfort
+
+w: @en_disgruntlement
+d: @en_a feeling of sulky discontent
+hypo: discontentamento
+sa: @en:noun.feeling:disgruntlement
+
+w: @en_displeasure
+d: @en_the feeling of being displeased or annoyed or dissatisfied with someone or something
+hypo: @en_dissatisfaction
+hypo: irritação[2]
+sa: @en:noun.feeling:displeasure
+
+w: @en_dissatisfaction
+d: @en_the feeling of being displeased and discontent
+hyper: @en_displeasure
+hyper: aborrecimento
+hyper: decepção
+hypo: discontentamento
+sa: @en:noun.feeling:dissatisfaction
+
+w: @en_dolefulness
+d: @en_sadness caused by grief or affliction
+hypo: pesar[4]
+sa: @en:noun.feeling:dolefulness
+
+w: @en_dreaminess
+w: @en_languor
+d: @en_a relaxed comfortable feeling
+hypo: relaxamento
+sa: @en:noun.feeling:dreaminess
+
+w: @en_dudgeon
+w: @en_high_dudgeon
+d: @en_a feeling of intense indignation (now used only in the phrase `in high dudgeon')
+hypo: indignação
+sa: @en:noun.feeling:dudgeon
+
+w: @en_emulation
+d: @en_ambition to equal or excel
+hypo: ambição
+sa: @en:noun.feeling:emulation
+
+w: @en_encouragement
+d: @en_the feeling of being encouraged
+hypo: esperança[2]
+sa: @en:noun.feeling:encouragement
+
+w: @en_enragement
+w: @en_infuriation
+d: @en_a feeling of intense anger
+hypo: cólera
+sa: @en:noun.feeling:enragement
+
+w: @en_entrancement
+w: @en_ravishment
+d: @en_a feeling of delight at being filled with wonder and enchantment
+hypo: deleite
+sa: @en:noun.feeling:entrancement
+
+w: @en_expectation
+d: @en_the feeling that something is about to happen
+hyper: esperança[1]
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:expectation
+
+w: @en_faintness
+d: @en_a feeling of faintness and of being ready to swoon
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:faintness
+
+w: @en_fancy
+w: @en_fondness
+w: @en_partiality
+d: @en_a predisposition to like something
+hypo: afeição[6]
+sa: @en:noun.feeling:fancy
+
+w: @en_fatigue
+d: @en_(always used with a modifier) boredom resulting from overexposure to something
+hypo: aborrecimento
+sa: @en:noun.feeling:fatigue
+
+w: @en_favor
+w: @en_favour
+d: @en_a feeling of favorable regard
+hypo: @en_approval
+sa: @en:noun.feeling:favor
+
+w: @en_fetish
+d: @en_a form of sexual desire in which gratification depends to an abnormal degree on some object or item of clothing or part of the body
+hypo: Eros
+sa: @en:noun.feeling:fetish
+
+w: @en_fidget
+w: @en_fidgetiness
+w: @en_restlessness
+d: @en_a feeling of agitation expressed in continual motion
+hyper: impaciência
+hypo: @en_agitation
+sa: @en:noun.feeling:fidget
+
+w: @en_filial_love
+d: @en_the love of a child for a parent
+hypo: afeição[5]
+sa: @en:noun.feeling:filial_love
+
+w: @en_friendliness
+d: @en_a feeling of liking for another person; enjoyment in their company
+hyper: @en_amicability
+hyper: @en_good_will
+hyper: fraternidade
+hypo: afeição[6]
+sa: @en:noun.feeling:friendliness
+
+w: @en_gaiety
+w: @en_playfulness
+d: @en_a festive merry feeling
+hypo: @en_levity
+sa: @en:noun.feeling:playfulness
+
+w: @en_glee
+w: @en_gloat
+w: @en_gloating
+d: @en_malicious satisfaction
+hypo: satisfação
+sa: @en:noun.feeling:gloat
+
+w: @en_glow
+d: @en_a feeling of considerable warmth
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:glow
+
+w: @en_glumness
+w: @en_moroseness
+w: @en_sullenness
+d: @en_a gloomy ill-tempered feeling
+hypo: @en_moodiness
+sa: @en:noun.feeling:glumness
+
+w: @en_gold_fever
+d: @en_greed and the contagious excitement of a gold rush
+hypo: febre
+sa: @en:noun.feeling:gold_fever
+
+w: @en_good_will
+w: @en_goodwill
+d: @en_the friendly hope that something will succeed
+hypo: @en_friendliness
+sa: @en:noun.feeling:good_will
+
+w: @en_growing_pains
+d: @en_emotional distress arising during adolescence
+hypo: Dor
+sa: @en:noun.feeling:growing_pains
+
+w: @en_guilt_pang
+d: @en_pangs of feeling guilty
+hypo: @en_pang
+sa: @en:noun.feeling:guilt_pang
+
+w: @en_gusto
+w: @en_relish
+w: @en_zest
+w: @en_zestfulness
+d: @en_vigorous and enthusiastic enjoyment
+hypo: alegria[1]
+hypo: entusiasmo
+sa: @en:noun.feeling:gusto
+
+w: @en_hankering
+w: @en_yen
+d: @en_a yearning for something or to do something
+hypo: anelo
+sa: @en:noun.feeling:hankering
+
+w: @en_harassment
+w: @en_torment
+d: @en_a feeling of intense annoyance caused by being tormented
+hypo: irritação[2]
+sa: @en:noun.feeling:harassment
+
+w: @en_heartburning
+d: @en_intense resentment
+hypo: rancor
+sa: @en:noun.feeling:heartburning
+
+w: @en_heartstrings
+d: @en_your deepest feelings of love and compassion
+hypo: afeição[5]
+hypo: compaixão[3]
+sa: @en:noun.feeling:heartstrings
+
+w: @en_heaviness
+d: @en_persisting sadness
+hypo: pesar[4]
+sa: @en:noun.feeling:heaviness
+
+w: @en_heavyheartedness
+d: @en_a feeling of dispirited melancholy
+hypo: melancolia
+sa: @en:noun.feeling:heavyheartedness
+
+w: @en_helplessness
+d: @en_a feeling of being unable to manage
+hypo: @en_depression
+sa: @en:noun.feeling:helplessness
+
+w: @en_hero_worship
+d: @en_admiration for great men (or their memory)
+hypo: admiração
+sa: @en:noun.feeling:hero_worship
+
+w: @en_hesitance
+w: @en_hesitancy
+d: @en_a feeling of diffidence and indecision about doing something
+hypo: @en_diffidence
+sa: @en:noun.feeling:hesitance
+
+w: @en_hopefulness
+d: @en_the feeling you have when you have hope
+hypo: esperança[2]
+sa: @en:noun.feeling:hopefulness
+
+w: @en_hopelessness
+d: @en_the despair you feel when you have abandoned hope of comfort or success
+hypo: desespero
+sa: @en:noun.feeling:hopelessness
+
+w: @en_huffiness
+d: @en_a passing state of anger and resentment
+hypo: cólera
+sa: @en:noun.feeling:huffiness
+
+w: @en_huffishness
+w: @en_sulkiness
+d: @en_a feeling of sulky resentment
+hypo: rancor
+sa: @en:noun.feeling:huffishness
+
+w: @en_infatuation
+d: @en_a foolish and usually extravagant passion or love or admiration
+hypo: paixão
+sa: @en:noun.feeling:infatuation
+
+w: @en_intoxication
+d: @en_excitement and elation beyond the bounds of sobriety
+hypo: regozijo
+sa: @en:noun.feeling:intoxication
+
+w: @en_irascibility
+w: @en_quick_temper
+w: @en_short_temper
+w: @en_spleen
+d: @en_a feeling of resentful anger
+hypo: @en_bad_temper
+sa: @en:noun.feeling:irascibility
+
+w: @en_isolation
+d: @en_a feeling of being disliked and alone
+hypo: alheamento
+sa: @en:noun.feeling:isolation
+
+w: @en_jocularity
+w: @en_jocundity
+d: @en_a feeling facetious merriment
+hypo: alegria[4]
+sa: @en:noun.feeling:jocularity
+
+w: @en_joie_de_vivre
+d: @en_a keen enjoyment of living
+hypo: alegria[1]
+sa: @en:noun.feeling:joie_de_vivre
+
+w: @en_joylessness
+d: @en_a feeling of dismal cheerlessness
+hypo: @en_cheerlessness
+sa: @en:noun.feeling:joylessness
+
+w: @en_kind-heartedness
+w: @en_kindheartedness
+d: @en_sympathy arising from a kind heart
+hyper: @en_mellowness
+hypo: camaradagem
+sa: @en:noun.feeling:kind-heartedness
+
+w: @en_languor[1]
+w: @en_lassitude
+w: @en_listlessness
+d: @en_a feeling of lack of interest or energy
+hypo: langor
+sa: @en:noun.feeling:lassitude
+
+w: @en_levity
+d: @en_feeling an inappropriate lack of seriousness
+hyper: @en_gaiety
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:levity
+
+w: @en_lividity
+d: @en_a state of fury so great the face becomes discolored
+hypo: fúria
+sa: @en:noun.feeling:lividity
+
+w: @en_lovesickness
+d: @en_a pining for a loved one
+hypo: @en_pining
+sa: @en:noun.feeling:lovesickness
+
+w: @en_maleficence
+d: @en_doing or causing evil
+hypo: maldade[1]
+sa: @en:noun.feeling:maleficence
+
+w: @en_meekness
+w: @en_submission
+d: @en_the feeling of patient, submissive humbleness
+hypo: humildade
+sa: @en:noun.feeling:meekness
+
+w: @en_mellowness
+d: @en_kindheartedness through maturity or old age
+hypo: @en_kind-heartedness
+sa: @en:noun.feeling:mellowness
+
+w: @en_mental_anguish
+d: @en_sustained dull painful emotion
+hypo: Dor
+sa: @en:noun.feeling:mental_anguish
+
+w: @en_misocainea
+d: @en_hatred of new ideas
+hypo: misoneísmo
+sa: @en:noun.feeling:misocainea
+
+w: @en_misogamy
+d: @en_hatred of marriage
+hypo: aversão[4]
+sa: @en:noun.feeling:misogamy
+
+w: @en_misology
+d: @en_hatred of reasoning
+hypo: aversão[4]
+sa: @en:noun.feeling:misology
+
+w: @en_misopedia
+d: @en_hatred of children
+hypo: aversão[4]
+sa: @en:noun.feeling:misopedia
+
+w: @en_moodiness
+d: @en_a sullen gloomy feeling
+hyper: @en_glumness
+hypo: baço
+sa: @en:noun.feeling:moodiness
+
+w: @en_mournfulness
+w: @en_ruthfulness
+w: @en_sorrowfulness
+d: @en_a state of gloomy sorrow
+hyper: @en_plaintiveness
+hyper: desgraça
+hypo: mágoa
+sa: @en:noun.feeling:mournfulness
+
+w: @en_murderousness
+d: @en_a bloodthirsty hatred arousing murderous impulses
+hypo: aversão[4]
+sa: @en:noun.feeling:murderousness
+
+w: @en_mysophilia
+d: @en_abnormal attraction to filth
+hypo: afeição[6]
+sa: @en:noun.feeling:mysophilia
+
+w: @en_nationalism
+d: @en_the aspiration for national independence felt by people under foreign domination
+hypo: ambição
+sa: @en:noun.feeling:nationalism
+
+w: @en_offence
+w: @en_offense
+w: @en_umbrage
+d: @en_a feeling of anger caused by being offended
+hypo: cólera
+sa: @en:noun.feeling:offence
+
+w: @en_oversensitiveness
+d: @en_sensitivity leading to easy irritation or upset
+hypo: sensibilidade
+sa: @en:noun.feeling:oversensitiveness
+
+w: @en_pang
+w: @en_stab
+w: @en_twinge
+d: @en_a sudden sharp feeling
+hyper: @en_guilt_pang
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:pang
+
+w: @en_peeve
+d: @en_an annoyed or irritated mood
+hypo: humor
+sa: @en:noun.feeling:peeve
+
+w: @en_penis_envy
+d: @en_(psychoanalysis) a female's presumed envy of the male's penis; said to explain femininity
+hypo: ciumes
+mt: noun.act:psicanálise
+sa: @en:noun.feeling:penis_envy
+
+w: @en_pet
+d: @en_a fit of petulance or sulkiness (especially at what is felt to be a slight)
+hypo: irritabilidade
+sa: @en:noun.feeling:pet
+
+w: @en_philhellenism
+d: @en_admiration for Greece and the Greeks and Greek customs
+hypo: admiração
+sa: @en:noun.feeling:philhellenism
+
+w: @en_philogyny
+d: @en_admiration for women
+hypo: admiração
+sa: @en:noun.feeling:philogyny
+
+w: @en_pining
+d: @en_a feeling of deep longing
+hyper: @en_lovesickness
+hypo: anelo
+sa: @en:noun.feeling:pining
+
+w: @en_placidity
+w: @en_placidness
+d: @en_a feeling of calmness; a quiet and undisturbed feeling
+hypo: calma
+sa: @en:noun.feeling:placidity
+
+w: @en_plaintiveness
+d: @en_expressing sorrowfulness
+hypo: @en_mournfulness
+sa: @en:noun.feeling:plaintiveness
+
+w: @en_presage
+d: @en_a foreboding about what is about to happen
+hypo: premonição
+sa: @en:noun.feeling:presage
+
+w: @en_protectiveness
+d: @en_a feeling of protective affection
+hypo: afecção
+sa: @en:noun.feeling:protectiveness
+
+w: @en_razbliuto
+d: @en_the sentimental feeling you have about someone you once loved but no longer do
+hypo: sentimento[1]
+mr: noun.location:URSS
+sa: @en:noun.feeling:razbliuto
+
+w: @en_regard
+w: @en_respect
+d: @en_a feeling of friendship and esteem
+hypo: afecção
+sa: @en:noun.feeling:respect
+
+w: @en_rejoicing
+d: @en_a feeling of great happiness
+hypo: felicidade
+sa: @en:noun.feeling:rejoicing
+
+w: @en_sanguineness
+w: @en_sanguinity
+d: @en_feeling sanguine; optimistically cheerful and confident
+hypo: optimismo
+sa: @en:noun.feeling:sanguineness
+
+w: @en_scunner
+d: @en_a strong dislike
+hypo: aversão[7]
+mr: noun.location:Escocia
+sa: @en:noun.feeling:scunner
+
+w: @en_self-consciousness
+w: @en_uncomfortableness
+w: @en_uneasiness
+d: @en_embarrassment deriving from the feeling that others are critically aware of you
+hypo: vergonha[2]
+sa: @en:noun.feeling:self-consciousness
+
+w: @en_self-depreciation
+d: @en_a feeling of being of little worth
+hypo: humildade
+sa: @en:noun.feeling:self-depreciation
+
+w: @en_self-disgust
+w: @en_self-hatred
+d: @en_shame resulting from strong dislike of yourself or your actions
+hypo: cruzes
+sa: @en:noun.feeling:self-disgust
+
+w: @en_self-pity
+d: @en_a feeling of sorrow (often self-indulgent) over your own sufferings
+hypo: mágoa
+sa: @en:noun.feeling:self-pity
+
+w: @en_sensibility
+d: @en_refined sensitivity to pleasurable or painful impressions
+hyper: @en_sensuousness
+hyper: entendimento
+hypo: sensibilidade
+sa: @en:noun.feeling:sensibility
+
+w: @en_sensuousness
+d: @en_a sensuous feeling
+hypo: @en_sensibility
+sa: @en:noun.feeling:sensuousness
+
+w: @en_sentimentality
+d: @en_extravagant or affected feeling or emotion
+hyper: @en_bathos
+hypo: sentimento[1]
+sa: @en:noun.feeling:sentimentality
+
+w: @en_shadow
+d: @en_a premonition of something adverse
+hypo: premonição
+sa: @en:noun.feeling:shadow
+
+w: @en_shamefacedness
+w: @en_sheepishness
+d: @en_feeling embarrassed about yourself
+hypo: vergonha[2]
+sa: @en:noun.feeling:shamefacedness
+
+w: @en_smugness
+d: @en_an excessive feeling of self-satisfaction
+hypo: @en_complacence
+sa: @en:noun.feeling:smugness
+
+w: @en_soft_spot
+d: @en_a sentimental affection
+hypo: afecção
+sa: @en:noun.feeling:soft_spot
+
+w: @en_softheartedness
+w: @en_tenderness
+d: @en_a feeling of concern for the welfare of someone (especially someone defenseless)
+hypo: afeição[1]
+sa: @en:noun.feeling:softheartedness
+
+w: @en_soul
+w: @en_soulfulness
+d: @en_deep feeling or emotion
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:soul
+
+w: @en_stewing
+d: @en_an extreme state of worry and agitation
+hypo: @en_agitation
+sa: @en:noun.feeling:stewing
+
+w: @en_stir
+d: @en_emotional agitation and excitement
+hyper: electricidade
+hyper: sensação
+hypo: @en_agitation
+sa: @en:noun.feeling:stir
+
+w: @en_stomach
+d: @en_an inclination or liking for things involving conflict or difficulty or unpleasantness
+hypo: tendência[1]
+sa: @en:noun.feeling:stomach[1]
+
+w: @en_storminess
+d: @en_violent passion in speech or action
+hypo: paixão
+sa: @en:noun.feeling:storminess
+
+w: @en_stupefaction
+d: @en_a feeling of stupefied astonishment
+hyper: choque
+hypo: admiração[2]
+sa: @en:noun.feeling:stupefaction
+
+w: @en_sulk
+w: @en_sulkiness[1]
+d: @en_a mood or display of sullen aloofness or withdrawal
+hypo: humor
+sa: @en:noun.feeling:sulk
+
+w: @en_survivor_guilt
+d: @en_a deep feeling of guilt often experienced by those who have survived some catastrophe that took the lives of many others; derives in part from a feeling that they did not do enough to save the others who perished and in part from feelings of being unworthy relative to those who died
+hp: noun.state:Transtorno_de_estresse_pós-traumático
+hypo: culpa
+sa: @en:noun.feeling:survivor_guilt
+
+w: @en_suspense
+d: @en_apprehension about what is going to happen
+hypo: pavor
+sa: @en:noun.feeling:suspense[2]
+
+w: @en_sweet_tooth
+d: @en_a strong appetite for sweet food
+hypo: desfastio
+sa: @en:noun.feeling:sweet_tooth
+
+w: @en_swivet
+d: @en_a panic or extreme discomposure
+hypo: pânico
+sa: @en:noun.feeling:swivet
+
+w: @en_tearfulness
+w: @en_weepiness
+d: @en_sadness expressed by weeping
+hypo: pesar[4]
+sa: @en:noun.feeling:tearfulness
+
+w: @en_testiness
+w: @en_tetchiness
+w: @en_touchiness
+d: @en_feeling easily irritated
+hypo: irritabilidade
+sa: @en:noun.feeling:testiness
+
+w: @en_the_hots
+d: @en_intense sexual desire
+hypo: Eros
+sa: @en:noun.feeling:the_hots
+
+w: @en_thing
+d: @en_a persistent illogical feeling of desire or aversion
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:thing
+
+w: @en_timidity
+w: @en_timidness
+w: @en_timorousness
+d: @en_fear of the unknown or unfamiliar or fear of making decisions
+hyper: @en_cold_feet
+hyper: @en_diffidence
+hyper: timidez
+hypo: consternação
+sa: @en:noun.feeling:timidity
+
+w: @en_titillation
+d: @en_a tingling feeling of excitement (as from teasing or tickling)
+hypo: regozijo
+sa: @en:noun.feeling:titillation
+
+w: @en_togetherness
+d: @en_affectionate closeness
+hypo: intimidade
+sa: @en:noun.feeling:togetherness
+
+w: @en_trepidation
+d: @en_a feeling of alarm or dread
+hypo: pavor
+sa: @en:noun.feeling:trepidation
+
+w: @en_tsoris
+d: @en_(Yiddish) trouble and suffering
+hypo: sofrimento
+mt: noun.communication:Língua_iídiche
+sa: @en:noun.feeling:tsoris
+
+w: @en_tumult
+w: @en_turmoil
+d: @en_violent agitation
+hypo: @en_agitation
+sa: @en:noun.feeling:tumult
+
+w: @en_unassertiveness
+d: @en_diffidence about self promotion
+hypo: @en_diffidence
+sa: @en:noun.feeling:unassertiveness
+
+w: @en_undertow
+d: @en_an inclination contrary to the strongest or prevailing feeling
+hypo: tendência[1]
+sa: @en:noun.feeling:undertow
+
+w: @en_unfriendliness
+d: @en_dislike experienced as an absence of friendliness
+hypo: aversão[7]
+sa: @en:noun.feeling:unfriendliness
+
+w: @en_unpleasantness
+d: @en_the feeling caused by disagreeable stimuli; one pole of a continuum of states of feeling
+hypo: Dor
+sa: @en:noun.feeling:unpleasantness
+
+w: @en_warmheartedness
+w: @en_warmth
+d: @en_a warmhearted feeling
+hypo: afeição[4]
+sa: @en:noun.feeling:warmth
+
+w: @en_warpath
+d: @en_hostile or belligerent mood
+hypo: @en_belligerence
+sa: @en:noun.feeling:warpath
+
+w: @en_weakness
+d: @en_a penchant for something even though it might not be good for you
+hypo: predileção
+sa: @en:noun.feeling:weakness
+
+w: @en_weight
+d: @en_an oppressive feeling of heavy force
+hypo: opressão
+sa: @en:noun.feeling:weight
+
+w: @en_willies
+d: @en_feelings of uneasiness
+hypo: inquietude
+sa: @en:noun.feeling:willies
+
+w: @en_wishfulness
+d: @en_an unrealistic yearning
+hypo: anelo
+sa: @en:noun.feeling:wishfulness
+
+w: @en_wistfulness
+d: @en_a sadly pensive longing
+hypo: anelo
+sa: @en:noun.feeling:wistfulness
+
+w: @en_wound
+d: @en_a figurative injury (to your feelings or pride)
+hypo: sofrimento
+sa: @en:noun.feeling:wound
+
+w: @en_wrath
+d: @en_intense anger (usually on an epic scale)
+hypo: fúria
+sa: @en:noun.feeling:wrath
+
+w: Arrepio
+w: arrepio
+w: calafrio
+w: tremedeira
+w: tremura
+d: @en_an almost pleasurable sensation of fright
+hypo: consternação
+sa: @en:noun.feeling:frisson
+
+w: Complexo_de_electra
+w: complexo_de_Electra
+d: @en_a complex of females; sexual attraction to the father
+hypo: @en_complex
+sa: @en:noun.feeling:Electra_complex
+
+w: Complexo_de_édipo
+w: complexo_de_Édipo
+d: @en_a complex of males; desire to possess the mother sexually and to exclude the father; said to be a source of personality disorders if unresolved
+hypo: @en_complex
+sa: @en:noun.feeling:Oedipal_complex
+
+w: Disforia
+d: @en_abnormal depression and discontent
+hypo: @en_depression
+hypo: discontentamento
+sa: @en:noun.feeling:dysphoria
+
+w: Dor
+w: angústia
+w: dor
+d: @en_emotional distress; a fundamental feeling that people try to avoid
+hyper: @en_growing_pains
+hyper: @en_mental_anguish
+hyper: @en_unpleasantness
+hyper: agonia
+hyper: sofrimento
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:pain
+
+w: Eros
+w: cio
+w: concupiscência
+d: @en_a desire for sexual intimacy
+hyper: @en_amativeness
+hyper: @en_anaphrodisia
+hyper: @en_aphrodisia
+hyper: @en_fetish
+hyper: @en_the_hots
+hyper: amor[2]
+hyper: libido
+hyper: luxúria
+hyper: ninfomania
+hyper: paixão[2]
+hyper: satirismo
+hyper: sensualidade
+hypo: apetite
+sa: @en:noun.feeling:concupiscence
+
+w: Intertrigo
+d: @en_chafing between two skin surfaces that are in contact (as in the armpit or under the breasts or between the thighs)
+hypo: @en_chafing
+sa: @en:noun.feeling:intertrigo
+
+w: Misoginia
+w: misoginia
+d: @en_hatred of women
+hypo: aversão[4]
+sa: @en:noun.feeling:misogynism
+
+w: Paz
+w: paz
+w: repouso
+w: serenidade
+d: @en_the absence of mental stress or anxiety
+hypo: quietude
+sa: @en:noun.feeling:ataraxis
+
+w: Solidao
+w: solidão
+d: @en_sadness resulting from being forsaken or abandoned
+hypo: pesar[4]
+sa: @en:noun.feeling:forlornness
+
+w: Sonho_Americano
+d: @en_the widespread aspiration of Americans to live better than their parents did
+hypo: ambição
+sa: @en:noun.feeling:American_Dream
+
+w: Síndrome_do_coração_partido
+w: coração_partido
+d: @en_devastating sorrow and despair
+hypo: mágoa
+sa: @en:noun.feeling:broken_heart
+
+w: Tecnofilia
+d: @en_enthusiasm for new technology
+hypo: entusiasmo
+sa: @en:noun.feeling:technophilia
+
+w: Tecnofobia
+d: @en_dislike for new technology
+hypo: aversão[7]
+sa: @en:noun.feeling:technophobia
+
+w: abalo
+w: comoção
+w: emoção
+w: sentimento
+d: @en_any strong feeling
+hyper: noun.cognition:@en_CER
+hyper: afeição[5]
+hyper: alegria[2]
+hyper: aversão[4]
+hyper: consternação
+hyper: cólera
+hyper: preocupação
+hyper: reverência
+hyper: noun.state:_estado_emocional
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:emotion
+
+w: abominação
+w: asco
+w: aversão
+w: nojo
+w: náusea
+w: repugnância
+w: repulsa
+d: @en_strong feelings of dislike
+hyper: detestação
+hyper: enjôo
+hyper: revulsão
+hypo: aversão[7]
+sa: @en:noun.feeling:disgust
+
+w: abominação[1]
+w: aversão[1]
+w: repulsa[1]
+w: revulsão
+d: @en_intense aversion
+hypo: abominação
+sa: @en:noun.feeling:horror
+
+w: abominação[2]
+w: asco[1]
+w: aversão[2]
+w: detestação
+w: execração
+w: horror
+w: repugnância[1]
+w: repulsa[2]
+w: repulsão
+w: ódio
+d: @en_hate coupled with disgust
+hypo: abominação
+hypo: aversão[4]
+sa: @en:noun.feeling:abhorrence
+
+w: aborrecimento
+w: apatia
+w: enfado
+w: fastio
+w: tedio
+w: tédio
+d: @en_the feeling of being bored by something tedious
+hyper: @en_blahs
+hyper: @en_fatigue
+hypo: @en_dissatisfaction
+sa: @en:noun.feeling:boredom
+
+w: admiração
+d: @en_a feeling of delighted approval and liking
+hyper: @en_Anglophilia
+hyper: @en_hero_worship
+hyper: @en_philhellenism
+hyper: @en_philogyny
+hypo: afeição[6]
+sa: @en:noun.feeling:esteem
+
+w: admiração[1]
+w: espanto
+w: maravilha
+w: surpresa
+d: @en_the feeling aroused by something strange and surprising
+hyper: encatamento
+hypo: admiração[2]
+sa: @en:noun.feeling:wonder
+
+w: admiração[2]
+w: espanto[1]
+w: surpresa[1]
+d: @en_the feeling that accompanies something extremely surprising
+hyper: @en_stupefaction
+hyper: espanto
+hyper: sobressalto
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:amazement
+
+w: admiração[3]
+w: encatamento
+w: espanto[2]
+w: fascínio
+d: @en_an overwhelming feeling of wonder or admiration
+hypo: espanto
+sa: @en:noun.feeling:awe[2]
+
+w: afastamento
+d: @en_indifference by personal withdrawal
+hypo: apatia[3]
+sa: @en:noun.feeling:distance
+
+w: afecção
+w: afeição
+w: afetividade
+w: amor
+w: apego
+w: carinho
+d: @en_a positive feeling of liking
+hyper: @en_protectiveness
+hyper: @en_regard
+hyper: @en_soft_spot
+hyper: afeição[2]
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:affection
+
+w: afeição[1] ant indiferença[2]
+d: @en_a feeling of sympathy for someone or something
+hyper: @en_softheartedness
+hyper: solicitude
+hypo: camaradagem
+sa: @en:noun.feeling:concern
+
+w: afeição[2]
+w: apego[1]
+d: @en_a feeling of affection for a person or an institution
+hypo: afecção
+sa: @en:noun.feeling:attachment
+
+w: afeição[3]
+w: afete
+w: afeto
+w: emoção[1]
+d: @en_the conscious subjective aspect of feeling or emotion
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:affect
+
+w: afeição[4]
+d: @en_a loving feeling
+hyper: @en_warmheartedness
+hypo: afeição[5]
+sa: @en:noun.feeling:lovingness
+
+w: afeição[5]
+w: amor[1]
+d: @en_a strong positive emotion of regard and affection
+hyper: @en_adoration
+hyper: @en_agape
+hyper: @en_ardor
+hyper: @en_devotedness
+hyper: @en_enamoredness
+hyper: @en_filial_love
+hyper: @en_heartstrings
+hyper: afeição[4]
+hyper: benevolência
+hyper: lealdade
+hyper: paixonite
+hyper: ágape
+hypo: abalo
+sa: @en:noun.feeling:love
+
+w: afeição[6] ant aversão[7]
+d: @en_a feeling of pleasure and enjoyment
+hyper: @en_approval
+hyper: @en_fancy
+hyper: @en_friendliness
+hyper: @en_mysophilia
+hyper: admiração
+hyper: fascinação
+hyper: predileção
+hyper: tendência[1]
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:liking
+
+w: afã
+w: desejo
+d: @en_a specific feeling of desire
+hyper: veleidade
+hypo: apetite
+sa: @en:noun.feeling:want
+
+w: agonia
+w: dor[1]
+w: martírio
+w: tormento
+w: tortura
+d: @en_feelings of mental or physical pain
+hyper: @en_discomfort
+hyper: agonia[1]
+hyper: agonia[3]
+hypo: Dor
+sa: @en:noun.feeling:hurt[1]
+
+w: agonia[1]
+d: @en_intense feelings of suffering; acute mental or physical pain
+hypo: agonia
+sa: @en:noun.feeling:agony
+
+w: agonia[2]
+w: angústia[1]
+w: tormento[1]
+w: transe
+d: @en_extreme mental distress
+hypo: sofrimento
+sa: @en:noun.feeling:anguish[2]
+
+w: agonia[3]
+d: @en_violent pangs of suffering
+hypo: agonia
+sa: @en:noun.feeling:throes
+
+w: agradabilidade
+d: @en_the feeling caused by agreeable stimuli; one pole of a continuum of states of feeling
+hyper: @en_afterglow
+hypo: prazer
+sa: @en:noun.feeling:pleasantness
+
+w: agravamento
+w: exasperação
+w: irritação
+d: @en_an exasperated feeling of annoyance
+hypo: irritação[2]
+sa: @en:noun.feeling:aggravation
+
+w: agressividade
+d: @en_a feeling of hostility that arouses thoughts of attack
+hypo: inimizade
+sa: @en:noun.feeling:aggression
+
+w: alegria
+d: @en_feeling jolly and jovial and full of good humor
+hypo: @en_amiability
+hypo: alegria[4]
+sa: @en:noun.feeling:jolliness
+
+w: alegria[1]
+d: @en_the pleasure felt when having a good time
+hyper: @en_gusto
+hyper: @en_joie_de_vivre
+hypo: prazer
+sa: @en:noun.feeling:enjoyment
+
+w: alegria[2]
+d: @en_the emotion of great happiness
+hyper: euforia[1]
+hyper: exuberância
+hyper: exultação
+hyper: regozijo
+hypo: abalo
+sa: @en:noun.feeling:joy
+
+w: alegria[3]
+w: prazer
+d: @en_a fundamental feeling that is hard to define but that people desire to experience
+hyper: @en_comfort
+hyper: agradabilidade
+hyper: alegria[1]
+hyper: deleite
+hyper: volúpia
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:pleasance
+
+w: alegria[4]
+d: @en_a gay feeling
+hyper: @en_jocularity
+hyper: alegria
+hyper: hilariedade
+hypo: felicidade
+sa: @en:noun.feeling:gaiety
+
+w: alegria[5]
+w: deleite
+w: prazer[1]
+d: @en_a feeling of extreme pleasure or satisfaction
+hyper: @en_Schadenfreude
+hyper: @en_entrancement
+hyper: encantamento
+hypo: prazer
+sa: @en:noun.feeling:delectation
+
+w: alegria[6]
+w: gozo
+d: @en_experiencing joy and pleasure
+hypo: felicidade
+sa: @en:noun.feeling:gladfulness
+
+w: alegria[7]
+w: felicidade
+d: @en_emotions experienced when in a state of well-being
+attr: adj.all:contente[3]
+attr: adj.all:infeliz[1]
+hyper: @en_blitheness
+hyper: @en_bonheur
+hyper: @en_rejoicing
+hyper: alegria[4]
+hyper: contentamento
+hyper: gozo
+hyper: pertence
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:happiness
+
+w: alheamento
+w: alienação
+d: @en_the feeling of being alienated from other people
+hyper: @en_isolation
+hypo: aversão[7]
+sa: @en:noun.feeling:alienation
+
+w: alívio
+d: @en_the feeling that comes when something burdensome is removed or reduced
+hypo: @en_comfort
+sa: @en:noun.feeling:alleviation
+
+w: amargura
+w: coração_partido[1]
+w: desgosto
+w: dor[2]
+w: pesar
+w: tristeza
+d: @en_intense sorrow caused by loss of a loved one (especially by death)
+hyper: dor[5]
+hypo: mágoa
+sa: @en:noun.feeling:brokenheartedness
+
+w: amargura[1]
+w: rancor
+w: resentimento
+w: ressentimento
+d: @en_a feeling of deep and bitter anger and ill-will
+hyper: @en_heartburning
+hyper: @en_huffishness
+hyper: ciumes
+hyper: ressentimento[2]
+hypo: inimizade
+sa: @en:noun.feeling:bitterness
+
+w: ambivalência
+d: @en_mixed feelings or emotions
+hyper: @en_conflict
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:ambivalence
+
+w: ambição
+w: aspiração
+w: pretensão
+d: @en_a cherished desire
+hyper: @en_emulation
+hyper: @en_nationalism
+hyper: Sonho_Americano
+hypo: apetite
+sa: @en:noun.feeling:ambition
+
+w: amor[2]
+d: @en_a deep feeling of sexual desire and attraction
+hypo: Eros
+sa: @en:noun.feeling:erotic_love
+
+w: anelo
+w: anseio
+w: desejo[1]
+w: saudade
+w: suspiro
+d: @en_prolonged unfulfilled desire or need
+hyper: @en_hankering
+hyper: @en_pining
+hyper: @en_wishfulness
+hyper: @en_wistfulness
+hyper: discontentamento
+hyper: nostalgia
+hypo: apetite
+sa: @en:noun.feeling:hungriness
+
+w: anelo[1]
+w: saudade[1]
+w: saudades_de_casa
+d: @en_a longing to return home
+hypo: nostalgia
+sa: @en:noun.feeling:homesickness
+
+w: anelo[2]
+w: nostalgia
+w: saudade[2]
+d: anseio por algo passado
+e: GLOSS_: descreve a mistura dos sentimentos de perda, falta, distância e amor
+hyper: saudades_de_casa
+hypo: anelo
+sa: @en:noun.feeling:nostalgia
+
+w: animosidade
+w: hostilidade
+w: ódio[1]
+d: @en_a feeling of ill will arousing active hostility
+hypo: inimizade
+sa: @en:noun.feeling:animosity
+
+w: anseio[1]
+w: desejo_ardente
+w: desejo_em_alto_grau
+w: desejo_forte
+w: desejo_imoderado
+w: desejo_intenso
+w: desejo_veemente
+d: @en_an intense desire for some particular thing
+hyper: desfastio
+hyper: vício
+hypo: apetite
+sa: @en:noun.feeling:craving
+
+w: anseio[2]
+w: ânsia
+d: @en_a positive feeling of wanting to push ahead with something
+hyper: ardor
+hypo: entusiasmo
+sa: @en:noun.feeling:avidness
+
+w: anseio[3]
+w: apetite
+w: desejo[2]
+w: pretensão[1]
+d: @en_the feeling that accompanies an unsatisfied state
+hyper: @en_bloodlust
+hyper: Eros
+hyper: afã
+hyper: ambição
+hyper: anelo
+hyper: capricho
+hyper: comichão
+hyper: desejo_ardente
+hyper: tentação
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:desire
+
+w: ansiedade
+w: inquietação
+d: um sentimento de ansiedade leve sobre possíveis desenvolvimentos
+hypo: preocupação
+sa: @en:noun.feeling:anxiousness
+
+w: ansiedade[1]
+w: preocupação
+w: ânsia[1]
+d: uma emoção desagradável e  vaga que é vivida em antecipação de algum (geralmente mal definido) infortúnio
+hyper: @en_angst
+hyper: @en_discomfiture
+hyper: ansiedade
+hyper: ansiedade[2]
+hyper: inquietude
+hyper: insegurança
+hyper: medo[5]
+hyper: nervosismo
+hyper: pressentimento[1]
+hyper: ressalva
+hypo: abalo
+sa: @en:noun.feeling:anxiety
+
+w: ansiedade[2]
+w: preocupação[1]
+d: @en_a strong feeling of anxiety
+hypo: preocupação
+sa: @en:noun.feeling:worry
+
+w: antagonismo
+d: @en_an actively expressed feeling of dislike and hostility
+hypo: aversão[7]
+hypo: inimizade
+sa: @en:noun.feeling:antagonism[2]
+
+w: antipatia
+w: aversão[3]
+w: ojeriza
+w: quezília
+w: ódio[2]
+d: @en_a feeling of intense dislike
+hypo: aversão[7]
+sa: @en:noun.feeling:antipathy
+
+w: apatia[1]
+w: fleuma
+w: impassibilidade
+w: indiferença
+d: @en_apathy demonstrated by an absence of emotional reactions
+hypo: langor
+sa: @en:noun.feeling:emotionlessness
+
+w: apatia[2]
+w: langor
+d: @en_an absence of emotion or enthusiasm
+hyper: @en_lassitude
+hyper: fleuma
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:apathy
+
+w: apatia[3]
+w: indiferença[1]
+d: @en_unbiased impartial unconcern
+hyper: afastamento
+hyper: desapego
+hypo: indiferença[2]
+sa: @en:noun.feeling:indifference
+
+w: apetite[1]
+d: @en_an appetite for food
+hypo: desfastio
+sa: @en:noun.feeling:stomach
+
+w: apetite[2]
+w: desfastio
+w: gana
+d: @en_a feeling of craving something
+hyper: @en_sweet_tooth
+hyper: apetite[1]
+hypo: desejo_ardente
+sa: @en:noun.feeling:appetence
+
+w: ardor
+w: zelo
+d: @en_a feeling of strong eagerness (usually in favor of a person or cause)
+hypo: ânsia
+sa: @en:noun.feeling:elan
+
+w: ardor[1]
+w: paixão
+d: @en_a strong feeling or emotion
+hyper: @en_abandon
+hyper: @en_infatuation
+hyper: @en_storminess
+hyper: fervor
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:passion
+
+w: arrependimento
+w: penitência
+w: pesar[1]
+w: remorso
+d: @en_remorse for your past conduct
+hypo: remorso[3]
+sa: @en:noun.feeling:penance
+
+w: ataque_de_pânico
+d: @en_a sudden attack of fear
+hypo: consternação
+sa: @en:noun.feeling:panic_attack
+
+w: auto-estima
+w: autoestima
+d: @en_a feeling of pride in yourself
+hypo: orgulho
+sa: @en:noun.feeling:self-esteem
+
+w: auto-estima[1]
+w: orgulho
+d: @en_a feeling of self-respect and personal worth
+hyper: noun.attribute:auto-estima
+hyper: auto-estima
+hyper: egoísmo
+hyper: presunção
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:pride
+
+w: auto-tormento
+w: auto-tortura
+d: @en_self-imposed distress
+hypo: sofrimento
+sa: @en:noun.feeling:self-torment
+
+w: aversão[4]
+w: ódio[3]
+d: @en_the emotion of intense dislike; a feeling of dislike so strong that it demands action
+hyper: @en_misogamy
+hyper: @en_misology
+hyper: @en_misopedia
+hyper: @en_murderousness
+hyper: Misoginia
+hyper: desprezo[1]
+hyper: detestação
+hyper: inimizade
+hyper: maldade[1]
+hyper: misoneísmo
+hyper: mizantropeco
+hypo: abalo
+sa: @en:noun.feeling:hate
+
+w: aversão[5]
+w: hostilidade[1]
+w: inimizade
+w: repulsa[3]
+w: ressentimento[1]
+d: @en_the feeling of a hostile person
+hyper: @en_belligerence
+hyper: @en_class_feeling
+hyper: agressividade
+hyper: animosidade
+hyper: antagonismo
+hyper: rancor
+hypo: aversão[4]
+sa: @en:noun.feeling:enmity
+
+w: aversão[6]
+d: @en_that toward which you are inclined to feel dislike
+hypo: aversão[7]
+sa: @en:noun.feeling:disinclination
+
+w: aversão[7] ant afeição[6]
+d: @en_a feeling of aversion or antipathy
+hyper: @en_Anglophobia
+hyper: @en_creepy-crawlies
+hyper: @en_scunner
+hyper: @en_unfriendliness
+hyper: Tecnofobia
+hyper: abominação
+hyper: alheamento
+hyper: antagonismo
+hyper: antipatia
+hyper: aversão[6]
+hyper: desaprovação
+hyper: desdém
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:dislike
+
+w: baço
+d: @en_an angry and disagreeable mood
+hyper: @en_moodiness
+hyper: irritabilidade
+hypo: humor
+sa: @en:noun.feeling:distemper
+
+w: benevolência ant maldade[1]
+d: @en_disposition to do good
+hyper: @en_beneficence
+hypo: afeição[5]
+sa: @en:noun.feeling:benevolence
+
+w: bravura
+w: valentia
+d: @en_feeling no fear
+hyper: segurança
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:bravery
+
+w: calma
+w: tranquilidade
+d: @en_a feeling of calm; an absence of agitation or excitement
+hyper: @en_coolness
+hyper: @en_placidity
+hyper: quietude
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:calmness
+
+w: camaradagem
+w: compaixão
+w: piedade
+w: simpatia
+d: @en_sharing the feelings of others (especially feelings of sorrow or anguish)
+hyper: @en_kind-heartedness
+hyper: afeição[1]
+hyper: coisa_lamentável
+hyper: compaixão[3]
+hyper: compatibilidade
+hyper: empatia
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:fellow_feeling
+
+w: capricho
+w: caprichoso
+w: desejo[3]
+w: fantasia
+w: impertinência
+d: @en_a sudden desire
+hypo: apetite
+sa: @en:noun.feeling:caprice
+
+w: choque
+w: estupor
+d: @en_the feeling of distress and disbelief that you have when something bad happens accidentally
+hypo: @en_stupefaction
+sa: @en:noun.feeling:daze
+
+w: cinismo
+d: @en_a cynical feeling of distrust
+hypo: pessimismo
+sa: @en:noun.feeling:cynicism
+
+w: ciumes
+w: inveja
+d: @en_a feeling of grudging admiration and desire to have something that is possessed by another
+hyper: @en_covetousness
+hyper: @en_penis_envy
+hyper: ciúme
+hypo: rancor
+sa: @en:noun.feeling:enviousness
+
+w: ciúme
+w: ciúmes
+d: @en_a feeling of jealous envy (especially of a rival)
+hypo: ciumes
+sa: @en:noun.feeling:green-eyed_monster
+
+w: coisa_lamentável
+w: compaixão[1]
+w: piedade[1]
+d: @en_a feeling of sympathy and sorrow for the misfortunes of others
+hypo: camaradagem
+sa: @en:noun.feeling:commiseration
+
+w: comichão
+d: @en_a strong restless desire
+hypo: apetite
+sa: @en:noun.feeling:itch
+
+w: compaixão[2]
+d: @en_the feeling that motivates compassion
+hyper: perdão
+hypo: compaixão[3]
+sa: @en:noun.feeling:mercifulness
+
+w: compaixão[3]
+w: piedade[2]
+d: @en_a deep awareness of and sympathy for another's suffering
+hyper: @en_heartstrings
+hyper: compaixão[2]
+hyper: ternura
+hypo: camaradagem
+sa: @en:noun.feeling:compassion
+
+w: compatibilidade
+d: @en_a feeling of sympathetic understanding
+hypo: camaradagem
+sa: @en:noun.feeling:compatibility
+
+w: complexo_de_inferioridade
+d: @en_a sense of personal inferiority arising from conflict between the desire to be noticed and the fear of being humiliated
+hypo: @en_complex
+sa: @en:noun.feeling:inferiority_complex
+
+w: confiança
+d: um sentimento de confiança (em alguém ou alguma coisa)
+attr: adj.all:confiante
+attr: adj.all:tímido
+hypo: segurança
+sa: @en:noun.feeling:confidence
+
+w: confusão
+w: estorvo
+w: perplexidade
+w: vergonha
+w: óbice
+d: @en_feeling embarrassed due to modesty
+hypo: vergonha[2]
+sa: @en:noun.feeling:abashment
+
+w: confusão[1]
+d: @en_a feeling of embarrassment that leaves you confused
+hypo: vergonha[2]
+sa: @en:noun.feeling:confusion
+
+w: consolo
+d: @en_the comfort you feel when consoled in times of disappointment
+hyper: @en_cold_comfort
+hyper: lado_bom
+hypo: @en_comfort
+sa: @en:noun.feeling:consolation
+
+w: consternação
+w: medo
+w: susto
+w: temor
+w: terror
+d: @en_an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+attr: adj.all:receoso
+attr: adj.all:sem_medo
+hyper: @en_creeps
+hyper: @en_timidity
+hyper: Arrepio
+hyper: ataque_de_pânico
+hyper: estupefação
+hyper: histeria
+hyper: intimidação[1]
+hyper: medo[4]
+hyper: medo_de_palco
+hyper: pavor
+hyper: pânico
+hypo: abalo
+mp: noun.state:@en_cold_sweat
+sa: @en:noun.feeling:fear
+
+w: consternação[1]
+w: estupefação
+w: medo[1]
+d: @en_fear resulting from the awareness of danger
+attr: adj.all:@en_unalarming
+attr: adj.all:alarmante
+hypo: consternação
+sa: @en:noun.feeling:alarm
+
+w: consternação[2]
+w: dor[3]
+w: medo[2]
+w: pavor
+w: temor[1]
+d: @en_fearful expectation or anticipation
+hyper: @en_chill
+hyper: @en_suspense
+hyper: @en_trepidation
+hyper: pessimismo[1]
+hyper: premonição
+hypo: consternação
+sa: @en:noun.feeling:apprehension
+
+w: contentamento
+w: contente
+w: realizado
+w: satisfeito
+d: @en_happiness with one's situation in life
+hyper: satisfação
+hypo: felicidade
+sa: @en:noun.feeling:contentment
+
+w: contrição
+w: remorso[1]
+d: @en_sorrow for sin arising from fear of damnation
+hypo: terpena
+sa: @en:noun.feeling:attrition
+
+w: crueldade
+d: @en_feelings of extreme heartlessness
+hypo: @en_coldheartedness
+sa: @en:noun.feeling:cruelty
+
+w: cruzes
+w: vergonha[1]
+d: @en_a painful emotion resulting from an awareness of inadequacy or guilt
+hyper: @en_conscience
+hyper: @en_self-disgust
+hyper: vergonha[2]
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:shame
+
+w: cuidado
+w: preocupação[2]
+d: um motivo de preocupação
+hypo: noun.state:apuro
+sa: @en:noun.feeling:care
+
+w: culpa
+d: @en_remorse caused by feeling responsible for some offense
+hyper: @en_survivor_guilt
+hypo: remorso[3]
+sa: @en:noun.feeling:guilt
+
+w: cólera
+w: ira
+w: raiva
+w: zanga
+d: @en_a strong emotion; a feeling that is oriented toward some real or supposed grievance
+hyper: @en_bad_temper
+hyper: @en_dander
+hyper: @en_enragement
+hyper: @en_huffiness
+hyper: @en_offence
+hyper: fúria
+hyper: indignação
+hyper: irritação[2]
+hypo: abalo
+sa: @en:noun.feeling:anger
+
+w: cólera[1]
+w: fúria
+w: ira[1]
+w: raiva[1]
+d: um sentimento de raiva intensa
+hyper: @en_lividity
+hyper: @en_wrath
+hypo: cólera
+sa: @en:noun.feeling:fury
+
+w: decepção
+w: deceção
+w: desapontamento
+d: @en_a feeling of dissatisfaction that results when your expectations are not realized
+hyper: derrota
+hypo: @en_dissatisfaction
+sa: @en:noun.feeling:disappointment
+
+w: derrota
+w: frustação
+w: frustração
+d: @en_the feeling that accompanies an experience of being thwarted in attaining your goals
+hypo: decepção
+sa: @en:noun.feeling:defeat
+
+w: derrotismo
+d: @en_acceptance of the inevitability of defeat
+hypo: resignação
+sa: @en:noun.feeling:defeatism
+
+w: desalento
+w: desânimo
+d: @en_the feeling of despair in the face of obstacles
+hyper: intimidação
+hypo: desespero
+sa: @en:noun.feeling:disheartenment
+
+w: desapego
+w: distância_emocional
+d: evitar o envolvimento emocional
+hypo: apatia[3]
+sa: @en:noun.feeling:detachment
+
+w: desaprovação
+d: @en_a feeling of disliking something or what someone is doing
+hypo: aversão[7]
+sa: @en:noun.feeling:disapproval
+
+w: desassossego
+d: uma sensação de agitação inquieta
+hypo: @en_agitation
+sa: @en:noun.feeling:unrest
+
+w: desdém
+w: desprezo
+w: escárnio
+d: @en_lack of respect accompanied by a feeling of intense dislike
+hypo: aversão[7]
+sa: @en:noun.feeling:contempt
+
+w: desespero
+d: a sensação de que tudo está errado e nada vai dar certo
+hyper: @en_hopelessness
+hyper: desalento
+hyper: pessimismo
+hyper: resignação
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:despair
+
+w: desgosto[1]
+w: dor[4]
+w: mágoa
+w: pesar[2]
+w: tristeza[1]
+d: @en_an emotion of great sadness associated with loss or bereavement
+hyper: @en_mournfulness
+hyper: @en_self-pity
+hyper: Síndrome_do_coração_partido
+hyper: amargura
+hypo: pesar[4]
+sa: @en:noun.feeling:sorrow
+
+w: desgraça
+w: infelicidade
+w: mágoa[1]
+d: @en_intense mournfulness
+hypo: @en_mournfulness
+sa: @en:noun.feeling:woe
+
+w: desprezo[1]
+d: @en_a feeling of scornful hatred
+hypo: aversão[4]
+sa: @en:noun.feeling:despisal
+
+w: discontentamento
+d: @en_a longing for something better than the present situation
+hyper: @en_disgruntlement
+hyper: @en_dissatisfaction
+hyper: Disforia
+hypo: anelo
+sa: @en:noun.feeling:discontent
+
+w: dor[5]
+d: @en_(poetry) painful grief
+hypo: amargura
+mt: noun.communication:Poemas
+sa: @en:noun.feeling:dolor
+
+w: dor[6]
+w: sofrimento
+d: @en_psychological suffering
+hyper: @en_tsoris
+hyper: @en_wound
+hyper: auto-tormento
+hyper: transe
+hypo: Dor
+sa: @en:noun.feeling:distress[2]
+
+w: egoísmo
+d: @en_an inflated feeling of pride in your superiority to others
+hypo: orgulho
+sa: @en:noun.feeling:egotism
+
+w: electricidade
+w: eletricidade
+d: @en_keen and shared excitement
+hypo: @en_stir
+sa: @en:noun.feeling:electricity
+
+w: emoção[2]
+w: estremecimento
+w: excitação
+d: @en_the swift release of a store of affective force
+hypo: regozijo
+sa: @en:noun.feeling:bang
+
+w: empatia
+d: @en_understanding and entering into another's feelings
+hypo: camaradagem
+sa: @en:noun.feeling:empathy
+
+w: encantamento
+d: @en_a feeling of delight at being entertained
+hypo: deleite
+sa: @en:noun.feeling:amusement
+
+w: enjôo
+w: náusea[1]
+d: @en_disgust so strong it makes you feel sick
+hypo: abominação
+sa: @en:noun.feeling:nausea
+
+w: entendimento
+w: percepção
+d: @en_a feeling of understanding
+hypo: @en_sensibility
+sa: @en:noun.feeling:insight
+
+w: entusiasmo
+d: @en_a feeling of excitement
+hyper: @en_gusto
+hyper: Tecnofilia
+hyper: exuberância
+hyper: ânsia
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:enthusiasm
+
+w: esperança
+d: @en_a specific instance of feeling hopeful
+hypo: esperança[1]
+sa: @en:noun.feeling:hope[1]
+
+w: esperança[1]
+d: @en_an expectation
+hyper: esperança
+hyper: febre
+hyper: suspense
+hypo: @en_expectation
+sa: @en:noun.feeling:anticipation
+
+w: esperança[2]
+d: @en_the general feeling that some desire will be fulfilled
+hyper: @en_encouragement
+hyper: @en_hopefulness
+hyper: optimismo
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:hope
+
+w: euforia
+d: @en_a feeling of great (usually exaggerated) elation
+hypo: euforia[1]
+sa: @en:noun.feeling:euphoria
+
+w: euforia[1]
+d: @en_a feeling of joy and pride
+hyper: euforia
+hypo: alegria[2]
+sa: @en:noun.feeling:elation
+
+w: exuberância
+d: @en_joyful enthusiasm
+hypo: alegria[2]
+hypo: entusiasmo
+sa: @en:noun.feeling:exuberance
+
+w: exultação
+w: júbilo
+d: @en_a feeling of extreme joy
+hyper: triunfo
+hypo: alegria[2]
+sa: @en:noun.feeling:exultation
+
+w: fascinação
+d: @en_a feeling of great liking for something wonderful and unusual
+hypo: afeição[6]
+sa: @en:noun.feeling:captivation
+
+w: febre
+d: @en_intense nervous anticipation
+hyper: @en_buck_fever
+hyper: @en_gold_fever
+hypo: esperança[1]
+sa: @en:noun.feeling:fever
+
+w: fervor
+w: zelo[1]
+d: @en_feelings of great warmth and intensity
+hyper: zelo[2]
+hypo: paixão
+sa: @en:noun.feeling:fervency
+
+w: fraternidade
+w: irmandade
+d: @en_the feeling that men should treat one another like brothers
+hypo: @en_friendliness
+sa: @en:noun.feeling:brotherhood
+
+w: frustração[1]
+d: @en_a feeling of annoyance at being hindered or criticized
+hypo: irritação[2]
+sa: @en:noun.feeling:frustration[1]
+
+w: gratidão ant ingratidão
+d: @en_a feeling of thankfulness and appreciation
+hyper: gratidão[1]
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:gratitude
+
+w: gratidão[1]
+d: @en_warm friendly feelings of gratitude
+hypo: gratidão
+sa: @en:noun.feeling:appreciativeness
+
+w: hilariedade
+w: risada
+w: risada_geral
+d: @en_great merriment
+hypo: alegria[4]
+sa: @en:noun.feeling:glee
+
+w: histeria
+d: @en_excessive or uncontrollable fear
+hypo: consternação
+sa: @en:noun.feeling:hysteria[1]
+
+w: humildade
+d: @en_a humble feeling
+hyper: @en_meekness
+hyper: @en_self-depreciation
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:humbleness
+
+w: humor
+d: @en_a characteristic (habitual or relatively temporary) state of feeling
+hyper: @en_amiability
+hyper: @en_peeve
+hyper: @en_sulk
+hyper: baço
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:humor
+
+w: impaciência
+d: @en_a restless desire for change and excitement
+hypo: @en_fidget
+sa: @en:noun.feeling:impatience
+
+w: indiferença[2] ant afeição[1]
+d: @en_a feeling of lack of concern
+hyper: @en_coldheartedness
+hyper: apatia[3]
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:unconcern
+
+w: indignação
+w: raiva[2]
+d: @en_a feeling of righteous anger
+hyper: @en_dudgeon
+hypo: cólera
+sa: @en:noun.feeling:indignation
+
+w: ingratidão ant gratidão
+d: @en_a lack of gratitude
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:ingratitude
+
+w: inquietude
+d: @en_feelings of anxiety that make you tense and irritable
+hyper: @en_willies
+hypo: preocupação
+sa: @en:noun.feeling:disquietude
+
+w: insegurança
+w: periculosidade
+d: @en_the anxiety you experience when you feel vulnerable and insecure
+hypo: preocupação
+sa: @en:noun.feeling:insecurity
+
+w: intimidade
+w: proximidade
+d: @en_a feeling of being intimate and belonging together
+hyper: @en_togetherness
+hypo: pertence
+sa: @en:noun.feeling:closeness
+
+w: intimidação
+d: @en_the feeling of discouragement in the face of someone's superior fame or wealth or status etc.
+hypo: desalento
+sa: @en:noun.feeling:intimidation[1]
+
+w: intimidação[1]
+d: @en_the feeling of being intimidated; being made to feel afraid or timid
+hypo: consternação
+sa: @en:noun.feeling:intimidation
+
+w: irritabilidade
+d: @en_an irritable petulant feeling
+hyper: @en_pet
+hyper: @en_testiness
+hypo: baço
+sa: @en:noun.feeling:crossness
+
+w: irritação[1]
+d: @en_a sudden outburst of anger
+hypo: irritação[2]
+sa: @en:noun.feeling:pique
+
+w: irritação[2]
+d: @en_anger produced by some annoying irritation
+hyper: @en_displeasure
+hyper: @en_harassment
+hyper: agravamento
+hyper: frustração[1]
+hyper: irritação[1]
+hypo: cólera
+sa: @en:noun.feeling:annoyance
+
+w: lado_bom
+d: @en_a consoling aspect of a difficult situation
+hypo: consolo
+sa: @en:noun.feeling:bright_side
+
+w: lasciva
+w: lascívia
+d: @en_feeling morbid sexual desire or a propensity to lewdness
+hypo: @en_amativeness
+sa: @en:noun.feeling:carnality
+
+w: lealdade
+d: @en_feelings of allegiance
+hypo: afeição[5]
+sa: @en:noun.feeling:loyalty
+
+w: libido
+d: (Psicanálise) um termo freudiano para impulso ou desejo sexual
+hypo: Eros
+mt: noun.act:psicanálise
+sa: @en:noun.feeling:libido
+
+w: luxúria
+w: paixão[1]
+d: @en_a strong sexual desire
+hypo: Eros
+sa: @en:noun.feeling:lecherousness
+
+w: maldade
+w: malícia
+d: @en_feeling a need to see others suffer
+hypo: maldade[1]
+sa: @en:noun.feeling:malice
+
+w: maldade[1] ant benevolência
+d: @en_wishing evil to others
+hyper: @en_maleficence
+hyper: maldade
+hyper: vingatividade
+hypo: aversão[4]
+sa: @en:noun.feeling:malevolence
+
+w: masoquismo
+d: @en_sexual pleasure obtained from receiving punishment (physical or psychological)
+hyper: sadomasoquismo
+hypo: volúpia
+sa: @en:noun.feeling:masochism
+
+w: medo[3]
+w: pânico
+w: terror[1]
+d: @en_an overwhelming feeling of fear and anxiety
+hyper: @en_swivet
+hypo: consternação
+sa: @en:noun.feeling:affright
+
+w: medo[4]
+w: terror[2]
+d: @en_intense and profound fear
+hypo: consternação
+sa: @en:noun.feeling:horror[1]
+
+w: medo[5]
+w: preocupação[3]
+w: temor[2]
+d: @en_an anxious feeling
+hypo: preocupação
+sa: @en:noun.feeling:care[1]
+
+w: medo_de_palco
+d: @en_fear that affects a person about to face an audience
+hypo: consternação
+sa: @en:noun.feeling:stage_fright
+
+w: melancolia
+d: @en_a feeling of thoughtful sadness
+hyper: @en_brooding
+hyper: @en_heavyheartedness
+hyper: pessimismo[1]
+hyper: tédio[1]
+hypo: pesar[4]
+sa: @en:noun.feeling:melancholy
+
+w: misoneísmo
+d: @en_hatred of change or innovation
+hyper: @en_misocainea
+hypo: aversão[4]
+sa: @en:noun.feeling:misoneism
+
+w: mizantropeco
+d: @en_hatred of mankind
+hypo: aversão[4]
+sa: @en:noun.feeling:misanthropy
+
+w: mágoa[2]
+w: pesar[3]
+w: remorso[2]
+w: terpena
+w: tristeza[2]
+d: @en_sadness associated with some wrong done or some disappointment
+hyper: contrição
+hyper: remorso[3]
+hypo: pesar[4]
+sa: @en:noun.feeling:regret
+
+w: nervosismo
+d: @en_the anxious feeling you have when you have the jitters
+hypo: preocupação
+sa: @en:noun.feeling:jitteriness
+
+w: ninfomania
+d: @en_abnormally intense sexual desire in women
+hypo: Eros
+sa: @en:noun.feeling:nymphomania
+
+w: opressão
+d: @en_a feeling of being oppressed
+hyper: @en_weight
+hypo: @en_depression
+sa: @en:noun.feeling:oppression
+
+w: optimismo
+w: otimismo
+d: @en_the optimistic feeling that all is going to turn out well
+hyper: @en_sanguineness
+hypo: esperança[2]
+sa: @en:noun.feeling:optimism
+
+w: orgulho[1]
+w: soberba
+w: ufania
+d: @en_satisfaction with your (or another's) achievements
+hyper: noun.attribute:@en_civic_pride
+hypo: satisfação
+sa: @en:noun.feeling:pride[1]
+
+w: paixonite
+d: @en_temporary love of an adolescent
+hypo: afeição[5]
+sa: @en:noun.feeling:calf_love
+
+w: paixão[2]
+d: @en_a feeling of strong sexual desire
+hypo: Eros
+sa: @en:noun.feeling:passion[2]
+
+w: paz[1]
+w: quietude
+w: silêncio
+d: @en_a state of peace and quiet
+hyper: Paz
+hyper: relaxamento
+hypo: calma
+sa: @en:noun.feeling:quietness
+
+w: perdão
+d: @en_compassionate feelings that support a willingness to forgive
+hypo: compaixão[2]
+sa: @en:noun.feeling:forgiveness
+
+w: pertence
+d: @en_happiness felt in a secure relationship
+hyper: @en_comfortableness
+hyper: intimidade
+hypo: felicidade
+sa: @en:noun.feeling:belonging
+
+w: pesar[4]
+w: tristeza[3]
+d: @en_emotions experienced when not in a state of well-being
+hyper: @en_cheerlessness
+hyper: @en_dejectedness
+hyper: @en_depression
+hyper: @en_dolefulness
+hyper: @en_heaviness
+hyper: @en_tearfulness
+hyper: Solidao
+hyper: melancolia
+hyper: mágoa
+hyper: terpena
+hyper: tristeza[4]
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:sadness
+
+w: pessimismo
+d: @en_the feeling that things will turn out badly
+hyper: cinismo
+hypo: desespero
+sa: @en:noun.feeling:pessimism
+
+w: pessimismo[1]
+d: @en_a feeling of melancholy apprehension
+hypo: melancolia
+hypo: pavor
+sa: @en:noun.feeling:gloom
+
+w: predileção
+w: preferência
+w: tendência
+d: @en_a strong liking
+hyper: @en_acquired_taste
+hyper: @en_weakness
+hypo: afeição[6]
+sa: @en:noun.feeling:penchant
+
+w: premonição
+w: pressentimento
+d: @en_a feeling of evil to come
+hyper: @en_presage
+hyper: @en_shadow
+hypo: pavor
+sa: @en:noun.feeling:boding
+
+w: pressentimento[1]
+d: @en_a feeling caused by uneasiness or apprehension
+hypo: preocupação
+sa: @en:noun.feeling:sinking
+
+w: presunção
+w: vaidade
+d: @en_feelings of excessive pride
+hypo: orgulho
+sa: @en:noun.feeling:amour_propre
+
+w: regozijo
+d: @en_the feeling of lively and cheerful joy
+hyper: @en_intoxication
+hyper: @en_titillation
+hyper: estremecimento
+hypo: alegria[2]
+sa: @en:noun.feeling:excitement
+
+w: relaxamento
+d: @en_a feeling of refreshing tranquility and an absence of tension or worry
+hyper: @en_dreaminess
+hypo: quietude
+sa: @en:noun.feeling:easiness
+
+w: remorso[3]
+d: @en_a feeling of deep regret (usually for some misdeed)
+hyper: arrependimento
+hyper: culpa
+hypo: terpena
+sa: @en:noun.feeling:compunction
+
+w: resignação
+d: @en_acceptance of despair
+hyper: derrotismo
+hypo: desespero
+sa: @en:noun.feeling:resignation
+
+w: ressalva
+d: @en_uneasiness about the fitness of an action
+hypo: preocupação
+sa: @en:noun.feeling:misgiving
+
+w: ressentimento[2]
+d: @en_a resentment strong enough to justify retaliation
+hypo: rancor
+sa: @en:noun.feeling:grievance
+
+w: reverência
+w: temor[3]
+d: um sentimento de profundo respeito por alguém ou algo
+hypo: abalo
+sa: @en:noun.feeling:awe
+
+w: sadismo
+d: @en_sexual pleasure obtained by inflicting harm (physical or psychological) on others
+hyper: sadomasoquismo
+hypo: volúpia
+sa: @en:noun.feeling:sadism
+
+w: sadomasoquismo
+d: @en_sadism and masochism combined in one person
+hypo: masoquismo
+hypo: sadismo
+sa: @en:noun.feeling:sadomasochism
+
+w: satirismo
+w: satiríase
+d: @en_abnormally intense sexual desire in men
+hypo: Eros
+sa: @en:noun.feeling:satyriasis
+
+w: satisfação
+d: @en_the contentment one feels when one has fulfilled a desire, need, or expectation
+hyper: @en_complacence
+hyper: @en_glee
+hyper: satisfação[1]
+hyper: soberba
+hypo: contentamento
+sa: @en:noun.feeling:satisfaction
+
+w: satisfação[1]
+d: @en_a feeling of satisfaction at having achieved your desires
+hypo: satisfação
+sa: @en:noun.feeling:fulfillment
+
+w: segurança
+d: @en_freedom from anxiety or fear
+hyper: confiança
+hypo: bravura
+sa: @en:noun.feeling:security
+
+w: sensação
+d: @en_a general feeling of excitement and heightened interest
+hypo: @en_stir
+sa: @en:noun.feeling:sensation
+
+w: sensibilidade
+d: @en_sensitivity to emotional feelings (of self and others)
+attr: adj.all:@en_insensitive
+attr: adj.all:sensível[1]
+hyper: @en_oversensitiveness
+hyper: @en_sensibility
+hyper: sentimentos
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:sensitiveness
+
+w: sensualidade
+d: @en_desire for sensual pleasures
+hypo: Eros
+sa: @en:noun.feeling:sensualism
+
+w: sentimento[1]
+d: @en_tender, romantic, or nostalgic feeling or emotion
+hyper: @en_razbliuto
+hyper: @en_sentimentality
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:sentiment
+
+w: sentimentos
+d: @en_emotional or moral sensitivity (especially in relation to personal principles or dignity)
+e: O comentário feriu  seus sentimentos
+hypo: sensibilidade
+sa: @en:noun.feeling:feelings
+
+w: seriedade
+w: solenidade
+d: @en_a solemn and dignified feeling
+hyper: sinceridade
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:gravity
+
+w: sex
+w: sexo
+w: transa
+d: @en_all of the feelings resulting from the urge to gratify sexual impulses
+hypo: noun.Tops:emoção
+sa: @en:noun.feeling:sex
+
+w: sinceridade
+d: @en_an earnest and sincere feeling
+hypo: seriedade
+sa: @en:noun.feeling:earnestness
+
+w: sobressalto
+w: surpresa[2]
+d: @en_the astonishment you feel when something totally unexpected happens to you
+hypo: admiração[2]
+sa: @en:noun.feeling:surprise
+
+w: solicitude
+d: @en_a feeling of excessive concern
+hypo: afeição[1]
+sa: @en:noun.feeling:solicitousness
+
+w: suspense
+d: @en_excited anticipation of an approaching climax
+hypo: esperança[1]
+sa: @en:noun.feeling:suspense[1]
+
+w: tendência[1]
+d: @en_that toward which you are inclined to feel a liking
+hyper: @en_stomach
+hyper: @en_undertow
+hyper: tendência[2]
+hypo: afeição[6]
+sa: @en:noun.feeling:inclination
+
+w: tendência[2]
+d: @en_an inclination to do something
+hypo: tendência[1]
+sa: @en:noun.feeling:leaning
+
+w: tentação
+d: @en_the desire to have or do something that you know you should avoid
+hypo: apetite
+sa: @en:noun.feeling:temptation
+
+w: ternura
+d: @en_warm compassionate feelings
+hypo: compaixão[3]
+sa: @en:noun.feeling:tenderheartedness
+
+w: timidez
+d: @en_a feeling of fear of embarrassment
+hypo: @en_timidity
+sa: @en:noun.feeling:shyness
+
+w: tristeza[4]
+d: @en_a feeling of intense unhappiness
+hypo: pesar[4]
+sa: @en:noun.feeling:misery
+
+w: triunfo
+w: vitória
+d: @en_the exultation of victory
+hypo: exultação
+sa: @en:noun.feeling:triumph
+
+w: tédio[1]
+d: @en_sadness on thinking about the evils of the world
+hypo: melancolia
+sa: @en:noun.feeling:Weltschmerz
+
+w: veleidade
+d: @en_a mere wish, unaccompanied by effort to obtain
+hypo: afã
+sa: @en:noun.feeling:velleity
+
+w: vergonha[2]
+d: @en_the shame you feel when your inadequacy or guilt is made public
+hyper: @en_chagrin
+hyper: @en_discomfiture
+hyper: @en_self-consciousness
+hyper: @en_shamefacedness
+hyper: confusão
+hyper: confusão[1]
+hypo: cruzes
+sa: @en:noun.feeling:embarrassment
+
+w: vingatividade
+d: @en_a malevolent desire for revenge
+hypo: maldade[1]
+sa: @en:noun.feeling:vengefulness
+
+w: volúpia
+d: @en_pleasure derived from sexual activities
+hyper: @en_algolagnia
+hyper: masoquismo
+hyper: sadismo
+hypo: prazer
+sa: @en:noun.feeling:sexual_pleasure
+
+w: vício
+d: @en_an abnormally strong craving
+hypo: desejo_ardente
+sa: @en:noun.feeling:addiction
+
+w: zelo[2]
+d: @en_excessive fervor to do something or accomplish some end
+hypo: fervor
+sa: @en:noun.feeling:zeal[2]
+
+w: ágape
+d: @en_selfless love of one person for another without sexual implications (especially love that is spiritual in nature)
+hypo: afeição[5]
+sa: @en:noun.feeling:agape
+

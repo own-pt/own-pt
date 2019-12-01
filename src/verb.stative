@@ -1,0 +1,5799 @@
+verb.stative
+
+w: @en_aberrate
+d: @en_diverge or deviate from the straight path; produce aberration
+fs: 1
+hypo: desviar
+mt: noun.cognition:Óptica
+sa: @en:verb.stative:aberrate
+
+w: @en_aberrate[1]
+d: @en_diverge from the expected
+fs: 2
+hypo: desviar
+sa: @en:verb.stative:aberrate[1]
+
+w: @en_abide
+w: @en_bide
+w: @en_stay
+d: @en_dwell
+fs: 22
+hyper: @en_overstay
+hyper: @en_visit
+hypo: quedar
+mu: noun.communication:@en_archaicism
+sa: @en:verb.stative:bide
+
+w: @en_abound
+w: @en_bristle
+w: @en_burst
+d: @en_be in a state of movement or action
+fs: 8
+hypo: apresenta
+sa: @en:verb.stative:bristle
+
+w: @en_abound_in
+w: @en_pullulate_with
+w: @en_teem_in
+d: @en_exist in large quantity
+fs: 10 11
+hypo: encontrar-se
+sa: @en:verb.stative:abound_in
+
+w: @en_accept
+w: @en_take
+d: @en_be designed to hold or take
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:accept
+
+w: @en_accommodate
+w: @en_lodge
+d: @en_provide housing for
+fs: 9 20
+hyper: @en_barrack
+hyper: @en_keep[1]
+hyper: aquartelar
+hypo: verb.social:acolher
+sa: @en:verb.stative:lodge
+
+w: @en_account
+d: @en_be the sole or primary factor in the existence, acquisition, supply, or disposal of something
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:account[1]
+
+w: @en_act
+d: @en_be suitable for theatrical performance
+fs: 6
+hypo: estar[2]
+sa: @en:verb.stative:act
+vg: verb.creation:actuar
+
+w: @en_act_as
+d: @en_function as or act like
+fs: 8 9 11
+hypo: servir[2]
+sa: @en:verb.stative:act_as
+
+w: @en_adhere
+d: @en_be compatible or in accordance with
+fs: 8
+hypo: combinar
+sa: @en:verb.stative:adhere
+
+w: @en_admit
+d: @en_give access or entrance to
+fs: 4
+sa: @en:verb.stative:admit
+
+w: @en_agree
+d: @en_show grammatical agreement
+fs: 1 4
+mt: noun.cognition:Gramatica
+sa: @en:verb.stative:agree[3]
+
+w: @en_align
+d: @en_be or come into adjustment with
+fs: 4
+hypo: combinar
+sa: @en:verb.stative:align
+
+w: @en_amount
+d: @en_be tantamount or equivalent to
+fs: 11
+hyper: @en_make
+sa: @en:verb.stative:amount[3]
+
+w: @en_answer
+d: @en_be liable or accountable
+fs: 22
+hypo: estar[2]
+sa: @en:verb.stative:answer[1]
+
+w: @en_answer[1]
+d: @en_match or correspond
+fs: 4 11
+hypo: combinar
+sa: @en:verb.stative:answer
+
+w: @en_apply
+w: @en_lend_oneself
+d: ser aplicável a
+e: Esta teoria presta-se bem ao nosso novos dados
+fs: 4
+sa: @en:verb.stative:lend_oneself
+vg: aplicar
+
+w: @en_arse_about
+w: @en_arse_around
+w: @en_bum
+w: @en_bum_about
+w: @en_bum_around
+w: @en_frig_around
+w: @en_fuck_off
+w: @en_loaf
+w: @en_loll
+w: @en_loll_around
+w: @en_lounge_about
+w: @en_lounge_around
+w: @en_waste_one's_time
+d: @en_be lazy or idle
+fs: 2 22
+hypo: verb.social:@en_idle
+sa: @en:verb.stative:arse_about
+
+w: @en_articulate
+d: @en_unite by forming a joint or joints
+fs: 4
+hypo: conectar
+sa: @en:verb.stative:articulate
+
+w: @en_ascend
+d: @en_go back in order of genealogical succession
+fs: 1
+hypo: remontar
+sa: @en:verb.stative:ascend[2]
+
+w: @en_assonate
+d: @en_correspond in vowel sounds; rhyme in assonance
+fs: 1
+hypo: rima
+sa: @en:verb.stative:assonate
+
+w: @en_attach_to
+w: @en_inhere_in
+d: @en_be part of
+fs: 11
+hyper: @en_repose
+hypo: incluir
+sa: @en:verb.stative:attach_to
+
+w: @en_attend
+d: @en_to accompany as a circumstance or follow as a result
+fs: 11
+hypo: acompanhar
+sa: @en:verb.stative:attend[1]
+
+w: @en_average
+w: @en_average_out
+d: @en_amount to or come to an average, without loss or gain
+fs: 11
+hypo: adicionar
+sa: @en:verb.stative:average
+
+w: @en_bach
+w: @en_bachelor
+d: @en_lead a bachelor's existence
+fs: 2
+hypo: viver[2]
+sa: @en:verb.stative:bach
+
+w: @en_back
+d: @en_be in back of
+fs: 11
+hypo: jazer[2]
+sa: @en:verb.stative:back
+
+w: @en_bag
+w: @en_bulge
+d: @en_bulge out; form a bulge outward, or be so full as to appear to bulge
+fs: 1 4
+hyper: @en_protuberate[1]
+hypo: projectar-se
+sa: @en:verb.stative:bag
+
+w: @en_bag[1]
+d: @en_hang loosely, like an empty bag
+fs: 1
+hypo: verb.motion:afundar[3]
+sa: @en:verb.stative:bag[1]
+
+w: @en_bake
+w: @en_broil
+d: @en_be very hot, due to hot weather or exposure to the sun
+fs: 1 2
+hypo: estar[2]
+sa: @en:verb.stative:bake
+
+w: @en_barrack
+d: @en_lodge in barracks
+fs: 9 10
+hypo: @en_accommodate
+sa: @en:verb.stative:barrack
+
+w: @en_base
+d: @en_situate as a center of operations
+fs: 8 9 10 11
+hypo: achar
+sa: @en:verb.stative:base[4]
+
+w: @en_be
+w: @en_live
+d: @en_have life, be alive
+fs: 1 2
+sa: @en:verb.stative:live
+vg: perseverar
+
+w: @en_be[1]
+d: ser idêntico; ser alguém ou algo
+e: Essa é a minha casa.
+e: O presidente da empresa é o Pedro Santos.
+fs: 8 11
+sa: @en:verb.stative:be[6]
+
+w: @en_bead
+d: @en_form into beads, as of water or sweat, for example
+fs: 1 4
+hypo: verb.change:@en_form
+sa: @en:verb.stative:bead
+
+w: @en_beard
+d: @en_go along the rim, like a beard around the chin
+fs: 11
+hypo: @en_rim
+sa: @en:verb.stative:beard
+
+w: @en_become
+d: @en_come into existence
+fs: 1
+hyper: verb.cognition:acontecer
+hyper: @en_form
+hyper: @en_make[3]
+hyper: originar[1]
+hyper: originar-se
+hyper: provir[3]
+sa: @en:verb.stative:become
+
+w: @en_become[1]
+w: @en_suit
+d: @en_enhance the appearance of
+fs: 10
+hypo: verb.change:embelezar
+sa: @en:verb.stative:become[3]
+
+w: @en_beetle
+w: @en_overhang
+d: @en_be suspended over or hang over
+fs: 11
+hypo: verb.contact:pendurar[2]
+sa: @en:verb.stative:beetle
+
+w: @en_beggar
+d: @en_be beyond the resources of
+fs: 11
+hypo: recusar[1]
+sa: @en:verb.stative:beggar
+
+w: @en_behoove
+w: @en_behove
+d: @en_be appropriate or necessary
+fs: 34
+hypo: @en_fit
+sa: @en:verb.stative:behoove
+
+w: @en_boggle
+d: @en_hesitate when confronted with a problem, or when in doubt or fear
+fs: 2
+hypo: duvidar
+sa: @en:verb.stative:boggle
+
+w: @en_box_in
+w: @en_box_up
+d: @en_enclose or confine as if in a box
+fs: 8 11
+hypo: @en_confine
+sa: @en:verb.stative:box_in
+
+w: @en_break
+d: @en_come to an end
+fs: 1
+hypo: cessar
+sa: @en:verb.stative:break[15]
+
+w: @en_break[1]
+d: @en_give up
+fs: 8
+hypo: deixar
+sa: @en:verb.stative:break[3]
+vg: @en_break[3]
+
+w: @en_break[2]
+d: @en_vary or interrupt a uniformity or continuity
+fs: 11
+hypo: verb.change:modificar
+sa: @en:verb.stative:break[5]
+
+w: @en_break[3]
+d: @en_cause to give up a habit
+fs: 9
+cause: @en_break[1]
+sa: @en:verb.stative:break[4]
+vg: @en_break[1]
+
+w: @en_break[4]
+d: @en_come forth or begin from a state of latency
+fs: 4
+hypo: @en_come_forth
+sa: @en:verb.stative:break[14]
+
+w: @en_breast
+d: @en_meet at breast level
+fs: 8 9 10 11
+hypo: afluir
+sa: @en:verb.stative:breast
+
+w: @en_breathe
+d: @en_allow the passage of air through
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:breathe[1]
+
+w: @en_bridge_over
+w: @en_keep_going
+w: @en_tide_over
+d: @en_suffice for a period between two points
+fs: 10
+hypo: bastar
+sa: @en:verb.stative:keep_going
+
+w: @en_brim
+d: @en_be completely full
+fs: 4
+hypo: apresenta
+sa: @en:verb.stative:brim
+
+w: @en_bristle[1]
+d: @en_have or be thickly covered with or as if with bristles
+fs: 4
+hypo: apresenta
+sa: @en:verb.stative:bristle[2]
+
+w: @en_brood
+w: @en_bulk_large
+w: @en_hover
+w: @en_loom
+d: @en_hang over, as of something threatening, dark, or menacing
+fs: 4
+hyper: eclipsar
+hypo: @en_hang
+sa: @en:verb.stative:bulk_large
+
+w: @en_buccaneer
+d: @en_live like a buccaneer
+fs: 2
+hypo: viver[2]
+sa: @en:verb.stative:buccaneer
+
+w: @en_build_on
+w: @en_build_upon
+w: @en_repose_on
+w: @en_rest_on
+d: @en_be based on; of theories and claims, for example
+fs: 11
+hyper: dever
+hypo: depender[1]
+sa: @en:verb.stative:build_on
+
+w: @en_bunk_off
+w: @en_play_hooky
+d: @en_play truant from work or school
+fs: 2
+hypo: @en_cut
+mu: noun.communication:calão
+sa: @en:verb.stative:bunk_off
+
+w: @en_bushwhack
+d: @en_live in the bush as a fugitive or as a guerilla
+fs: 2
+hypo: viver[2]
+sa: @en:verb.stative:bushwhack
+
+w: @en_buy
+d: @en_be worth or be capable of buying
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:buy
+vg: verb.possession:adquirir
+
+w: @en_buzz
+w: @en_hum
+w: @en_seethe
+d: @en_be noisy with activity
+fs: 1
+hyper: enxamear
+hypo: estar[2]
+sa: @en:verb.stative:buzz
+
+w: @en_call
+d: @en_stop or postpone because of adverse conditions, such as bad weather
+fs: 8
+hypo: atrasar
+sa: @en:verb.stative:call[9]
+
+w: @en_call_it_a_day
+w: @en_call_it_quits
+d: @en_stop doing what one is doing
+fs: 2
+hypo: deixar
+sa: @en:verb.stative:call_it_a_day
+
+w: @en_cantilever
+d: @en_project as a cantilever
+fs: 1
+hypo: projectar-se
+sa: @en:verb.stative:cantilever
+
+w: @en_cap
+w: @en_crest
+d: @en_lie at the top of
+fs: 11
+hypo: jazer[2]
+sa: @en:verb.stative:cap
+
+w: @en_carbonate
+d: @en_turn into a carbonate
+fs: 11
+hypo: verb.change:alterar[3]
+sa: @en:verb.stative:carbonate
+
+w: @en_carry
+d: @en_be conveyed over a certain distance
+fs: 1
+hypo: @en_range[2]
+sa: @en:verb.stative:carry[15]
+vg: verb.motion:transmitir
+
+w: @en_carry[1]
+d: @en_have as an inherent or characteristic feature or have as a consequence
+fs: 11
+hypo: apresenta
+sa: @en:verb.stative:carry[13]
+vg: implicar
+
+w: @en_carry[2]
+d: @en_have or possess something abstract
+fs: 8
+hypo: verb.possession:ter[1]
+sa: @en:verb.stative:carry[12]
+vg: carregar
+
+w: @en_carry[3]
+d: @en_be equipped with (a mast or sail)
+fs: 11
+hypo: apresenta
+sa: @en:verb.stative:carry[8]
+
+w: @en_carry[4]
+d: @en_keep up with financial support
+fs: 9
+hypo: verb.consumption:manter
+sa: @en:verb.stative:carry[14]
+vg: verb.contact:@en_carry
+
+w: @en_cash_out
+d: @en_choose a simpler life style after questioning personal and career satisfaction goals
+fs: 2
+hypo: viver[2]
+sa: @en:verb.stative:cash_out
+
+w: @en_center_on
+d: @en_have as a center
+fs: 11
+hypo: estar[1]
+sa: @en:verb.stative:center_on[1]
+
+w: @en_chamber
+d: @en_place in a chamber
+fs: 8 9
+hypo: verb.social:acolher
+sa: @en:verb.stative:chamber
+
+w: @en_check
+w: @en_check_out
+d: @en_be verified or confirmed; pass inspection
+fs: 1
+sa: @en:verb.stative:check[9]
+vg: combinar
+
+w: @en_cheese
+d: @en_used in the imperative (get away, or stop it)
+fs: 8
+hypo: deixar
+sa: @en:verb.stative:cheese
+
+w: @en_chelate
+d: @en_form a chelate, in chemistry
+fs: 1
+hypo: compor
+sa: @en:verb.stative:chelate
+
+w: @en_circumvolute
+d: @en_wind or turn in volutions, especially in an inward spiral, as of snail
+fs: 1 4
+hypo: @en_curve
+sa: @en:verb.stative:circumvolute
+
+w: @en_clean
+d: @en_be cleanable
+fs: 1 4
+hypo: estar[2]
+sa: @en:verb.stative:clean
+vg: verb.contact:assear
+
+w: @en_close
+d: @en_be priced or listed when trading stops
+fs: 4
+hypo: @en_trade
+sa: @en:verb.stative:close[1]
+
+w: @en_close_off
+w: @en_shut_off
+d: @en_stem the flow of
+fs: 8 9 11
+hypo: deixar
+sa: @en:verb.stative:close_off
+
+w: @en_co-occur_with
+w: @en_collocate_with
+w: @en_construe_with
+w: @en_cooccur_with
+w: @en_go_with
+d: @en_go or occur together
+fs: 11
+hypo: acompanhar
+sa: @en:verb.stative:co-occur_with
+
+w: @en_co-vary
+d: @en_vary in the same time period (of two random variables)
+fs: 1
+hypo: variar[1]
+mt: noun.cognition:Estatística
+sa: @en:verb.stative:co-vary
+
+w: @en_cohere
+d: @en_have internal elements or parts logically connected so that aesthetic consistency results
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:cohere
+
+w: @en_cohere[1]
+d: @en_cause to form a united, orderly, and aesthetically consistent whole
+fs: 11
+cause: @en_cohere
+hypo: verb.change:alterar[2]
+sa: @en:verb.stative:cohere[1]
+
+w: @en_collocate
+d: @en_have a strong tendency to occur side by side
+fs: 1
+hypo: encontrar-se
+sa: @en:verb.stative:collocate
+
+w: @en_combine
+w: @en_unite
+d: @en_have or possess in combination
+fs: 31
+hypo: apresenta
+sa: @en:verb.stative:combine
+
+w: @en_come
+d: @en_extend or reach
+fs: 4
+hypo: estender
+sa: @en:verb.stative:come[3]
+
+w: @en_come[1]
+w: @en_hail
+d: @en_be a native of
+fs: 22
+hypo: estar[2]
+sa: @en:verb.stative:hail
+vg: descender
+
+w: @en_come[2]
+d: @en_exist or occur in a certain point in a series
+fs: 22
+hypo: estar[1]
+sa: @en:verb.stative:come[5]
+vg: provir[2]
+
+w: @en_come[3]
+w: @en_issue_forth
+d: @en_come forth
+fs: 1 4
+sa: @en:verb.stative:issue_forth
+
+w: @en_come[4]
+w: @en_do
+w: @en_fare
+w: @en_get_along
+w: @en_make_out
+d: @en_proceed or get along
+fs: 6 7
+hypo: verb.change:ir
+sa: @en:verb.stative:do
+
+w: @en_come_forth
+w: @en_emerge
+d: @en_happen or occur as a result of something
+fs: 1
+hyper: @en_break[4]
+hypo: originar-se
+sa: @en:verb.stative:come_forth
+
+w: @en_come_in
+d: @en_come into fashion; become fashionable
+fs: 1
+hypo: verb.change:alterar[3]
+mt: noun.cognition:Moda
+sa: @en:verb.stative:come_in
+
+w: @en_come_in_for
+d: @en_be subject to or the object of
+fs: 8 11
+hypo: estar[2]
+sa: @en:verb.stative:come_in_for
+
+w: @en_come_in_handy
+d: @en_be useful for a certain purpose
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:come_in_handy
+
+w: @en_come_to_life
+d: @en_be lifelike, as of a painting
+fs: 1 2
+hypo: assemelhar-se_a
+sa: @en:verb.stative:come_to_life
+
+w: @en_come_up
+d: @en_be mentioned
+fs: 1 2
+hypo: verb.change:@en_arise
+sa: @en:verb.stative:come_up[1]
+
+w: @en_command
+w: @en_dominate
+w: @en_overlook
+w: @en_overtop
+d: @en_look down on
+fs: 11
+hyper: @en_dwarf
+hypo: jazer[2]
+sa: @en:verb.stative:command
+
+w: @en_compel
+d: @en_necessitate or exact
+fs: 11
+hypo: demandar
+sa: @en:verb.stative:compel
+
+w: @en_compensate
+w: @en_cover
+w: @en_overcompensate
+d: @en_make up for shortcomings or a feeling of inferiority by exaggerating good qualities
+fs: 11
+hypo: contrabalançar
+sa: @en:verb.stative:overcompensate
+vg: verb.communication:proteger
+
+w: @en_confine
+w: @en_enclose
+w: @en_hold_in
+d: @en_close in; darkness enclosed him"
+fs: 11
+hyper: @en_box_in
+hyper: @en_embank
+hyper: @en_rail
+hyper: abeirar
+hyper: enquadrar[1]
+hypo: possuir
+sa: @en:verb.stative:confine
+
+w: @en_conflict
+d: @en_be in conflict
+fs: 1 4
+hyper: colidir
+hypo: contrapor
+sa: @en:verb.stative:conflict
+
+w: @en_conform_to
+d: @en_observe
+fs: 4 22
+hypo: verb.social:acatar
+sa: @en:verb.stative:conform_to
+
+w: @en_conform_to[1]
+w: @en_fit
+w: @en_meet
+d: @en_satisfy a condition or restriction
+fs: 8 11
+hyper: verb.social:coordenar[1]
+hyper: @en_behoove
+hyper: @en_fill_the_bill
+hyper: acomodar[2]
+hyper: cumprir
+hypo: combinar
+sa: @en:verb.stative:conform_to[1]
+
+w: @en_connect
+d: @en_be scheduled so as to provide continuing service, as in transportation
+fs: 1 4
+hypo: estar[2]
+sa: @en:verb.stative:connect[5]
+
+w: @en_consist
+d: @en_have its essential character; be comprised or contained in; be embodied in
+fs: 22
+hypo: estar[2]
+sa: @en:verb.stative:consist[4]
+
+w: @en_consist[1]
+d: @en_be consistent in form, tenor, or character; be congruous
+fs: 1
+hypo: combinar
+sa: @en:verb.stative:consist[2]
+
+w: @en_constellate
+w: @en_dot
+w: @en_stud
+d: @en_scatter or intersperse like dots or studs
+fs: 11
+hypo: estender[1]
+sa: @en:verb.stative:constellate
+
+w: @en_contain
+d: @en_be divisible by
+fs: 11
+hypo: estar[2]
+mt: noun.cognition:Aritmética
+sa: @en:verb.stative:contain[6]
+
+w: @en_cool_one's_heels
+w: @en_kick_one's_heels
+d: @en_wait or pass the time aimlessly or futilely; be kept waiting
+fs: 1 2 4 22
+hypo: aguardar
+sa: @en:verb.stative:cool_one's_heels
+
+w: @en_count
+d: @en_have a certain value or carry a certain weight
+fs: 4
+hypo: estar[2]
+sa: @en:verb.stative:count[4]
+
+w: @en_counterpoise
+w: @en_counterpose
+w: @en_counterweight
+d: @en_constitute a counterweight or counterbalance to
+fs: 11 21
+hypo: contrabalancear
+sa: @en:verb.stative:counterpoise
+
+w: @en_cover[1]
+d: @en_provide for
+fs: 8 11
+hypo: cumprir
+sa: @en:verb.stative:cover
+
+w: @en_crash
+d: @en_occupy, usually uninvited
+fs: 8
+hypo: residir
+sa: @en:verb.stative:crash
+
+w: @en_crawl
+d: @en_be full of
+fs: 4
+hypo: enxamear
+sa: @en:verb.stative:crawl
+
+w: @en_crawl[1]
+d: @en_feel as if crawling with insects
+fs: 1
+hypo: @en_feel
+sa: @en:verb.stative:crawl[1]
+
+w: @en_crowd
+d: @en_fill or occupy to the point of overflowing
+fs: 8 11
+hypo: encher
+sa: @en:verb.stative:crowd
+
+w: @en_cry_for
+w: @en_cry_out_for
+d: @en_need badly or desperately
+fs: 11
+hypo: demandar
+sa: @en:verb.stative:cry_for
+
+w: @en_curve
+w: @en_twist
+w: @en_wind
+d: @en_extend in curves and turns
+fs: 1 4
+hyper: @en_circumvolute
+hyper: @en_spiral
+hyper: serpentear
+hypo: estar[2]
+sa: @en:verb.stative:curve
+
+w: @en_cut
+w: @en_skip
+d: @en_intentionally fail to attend
+fs: 8
+hyper: @en_bunk_off
+hypo: perder
+sa: @en:verb.stative:cut
+
+w: @en_cut_across
+d: @en_be contrary to ordinary procedure or limitations
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:cut_across
+
+w: @en_dissipate
+d: @en_live a life of pleasure, especially with respect to alcoholic consumption
+fs: 2
+hypo: viver[2]
+sa: @en:verb.stative:dissipate[4]
+
+w: @en_distance
+d: @en_keep at a distance
+fs: 8 9
+hypo: conservar
+sa: @en:verb.stative:distance
+
+w: @en_distribute
+d: @en_be mathematically distributive
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:distribute
+
+w: @en_distribute[1]
+d: @en_spread throughout a given area
+fs: 11
+hypo: verb.motion:difundir
+sa: @en:verb.stative:distribute[2]
+vg: @en_distribute[2]
+
+w: @en_distribute[2]
+d: @en_be distributed or spread, as in statistical analyses
+fs: 1
+hypo: existir
+sa: @en:verb.stative:distribute[1]
+vg: @en_distribute[1]
+
+w: @en_divaricate
+d: @en_branch off
+fs: 1
+hypo: divergir
+sa: @en:verb.stative:divaricate
+
+w: @en_diverge
+d: @en_have no limits as a mathematical series
+fs: 1
+hypo: estar[2]
+mt: noun.cognition:Matematica
+sa: @en:verb.stative:diverge[2]
+
+w: @en_do_well
+w: @en_had_best
+d: @en_act in one's own or everybody's best interest
+fs: 32
+hypo: verb.social:agir
+sa: @en:verb.stative:do_well
+
+w: @en_dote
+d: @en_be foolish or senile due to old age
+fs: 2
+hypo: verb.change:envelhecer[2]
+sa: @en:verb.stative:dote
+
+w: @en_douse
+w: @en_dowse
+d: @en_wet thoroughly
+fs: 11
+hypo: verb.change:molhar[2]
+sa: @en:verb.stative:douse[9]
+
+w: @en_dovetail
+d: @en_fit together tightly, as if by means of a dovetail
+fs: 8
+cause: caber[1]
+hypo: verb.change:acomodar
+sa: @en:verb.stative:dovetail
+
+w: @en_drag_on
+w: @en_drag_out
+d: @en_last unnecessarily long
+fs: 1 4
+hypo: durar
+sa: @en:verb.stative:drag_on
+
+w: @en_draw
+d: @en_require a specified depth for floating
+fs: 11
+hypo: demandar
+sa: @en:verb.stative:draw[2]
+
+w: @en_draw[1]
+d: @en_allow a draft
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:draw
+vg: verb.motion:extrair
+
+w: @en_drift
+d: @en_vary or move from a fixed point or course
+fs: 1
+hypo: variar[1]
+sa: @en:verb.stative:drift[3]
+vg: verb.change:@en_drift
+
+w: @en_drift[1]
+w: @en_freewheel
+d: @en_live unhurriedly, irresponsibly, or freely
+fs: 2
+hypo: haver
+sa: @en:verb.stative:drift
+vg: verb.motion:@en_drift
+
+w: @en_drive
+w: @en_ride
+d: @en_have certain properties when driven
+fs: 6
+sa: @en:verb.stative:drive
+vg: verb.motion:conduzir[6]
+vg: verb.motion:ir[11]
+
+w: @en_duplicate
+w: @en_parallel
+w: @en_twin
+d: @en_duplicate or match
+fs: 11
+hypo: combinar
+sa: @en:verb.stative:duplicate
+
+w: @en_dwarf
+w: @en_overshadow
+w: @en_shadow
+d: @en_make appear small by comparison
+fs: 11
+hypo: @en_command
+sa: @en:verb.stative:dwarf
+
+w: @en_echo
+w: @en_recall
+d: @en_call to mind
+fs: 10 11
+hypo: assemelhar-se_a
+sa: @en:verb.stative:echo
+
+w: @en_eke_out
+d: @en_live from day to day, as with some hardship
+fs: 8
+hypo: viver[2]
+sa: @en:verb.stative:eke_out
+
+w: @en_eliminate
+w: @en_obviate
+w: @en_rid_of
+d: @en_do away with
+fs: 11
+hyper: excluir[1]
+sa: @en:verb.stative:obviate
+
+w: @en_embank
+d: @en_enclose with banks, as for support or protection
+fs: 8
+hypo: @en_confine
+sa: @en:verb.stative:embank
+
+w: @en_encounter
+w: @en_run_into
+d: @en_be beset by
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:encounter
+
+w: @en_enfilade
+d: @en_rake or be in a position to rake with gunfire in a lengthwise direction
+fs: 8
+hypo: @en_rake
+sa: @en:verb.stative:enfilade
+
+w: @en_entail
+w: @en_imply
+w: @en_mean
+d: @en_have as a logical consequence
+fs: 11
+hypo: @en_necessitate
+sa: @en:verb.stative:imply
+
+w: @en_eventuate
+d: @en_come out in the end
+fs: 1
+hypo: acabar[4]
+sa: @en:verb.stative:eventuate
+
+w: @en_excel_at
+w: @en_shine_at
+d: @en_be good at
+fs: 8 33
+hypo: sobressair
+sa: @en:verb.stative:excel_at
+
+w: @en_extend
+w: @en_poke_out
+w: @en_reach_out
+d: @en_reach outward in space
+fs: 1 4
+hypo: estar[1]
+sa: @en:verb.stative:poke_out
+
+w: @en_face
+w: @en_front
+w: @en_look
+d: @en_be oriented in a certain direction, often with respect to another reference point; be opposite to
+fs: 11
+hyper: confrontar
+hypo: jazer[2]
+sa: @en:verb.stative:face
+vg: defrontar
+
+w: @en_fall_into
+w: @en_fall_under
+d: @en_be included in or classified as
+fs: 11
+hypo: representar[4]
+sa: @en:verb.stative:fall_into
+
+w: @en_fall_out
+w: @en_follow
+d: @en_come as a logical consequence; follow logically
+fs: 1 34
+hypo: redundar
+sa: @en:verb.stative:fall_out[2]
+
+w: @en_feel
+d: @en_be felt or perceived in a certain way
+fs: 6 7
+hyper: @en_crawl[1]
+hypo: verb.perception:parecer[2]
+sa: @en:verb.stative:feel
+vg: verb.perception:@en_feel
+
+w: @en_fill_the_bill
+w: @en_fit_the_bill
+d: @en_be what is needed or be good enough for what is required
+fs: 1 2
+hypo: @en_fit
+sa: @en:verb.stative:fill_the_bill
+
+w: @en_fizzle
+w: @en_fizzle_out
+w: @en_peter_out
+w: @en_taper_off
+d: @en_end weakly
+fs: 1
+hypo: interromper
+sa: @en:verb.stative:fizzle
+
+w: @en_flocculate
+d: @en_cause to become a fluffy or lumpy aggregate
+fs: 11
+hypo: verb.change:alterar[2]
+sa: @en:verb.stative:flocculate[1]
+
+w: @en_flocculate[1]
+d: @en_form into an aggregated lumpy or fluffy mass
+fs: 11
+hypo: verb.change:alterar[3]
+sa: @en:verb.stative:flocculate
+
+w: @en_flow
+d: @en_be abundantly present
+fs: 4
+hypo: existir
+sa: @en:verb.stative:flow
+
+w: @en_fly_in_the_face_of
+w: @en_fly_in_the_teeth_of
+d: @en_go against
+fs: 11
+hypo: destruir
+sa: @en:verb.stative:fly_in_the_face_of
+
+w: @en_focalise
+w: @en_focalize
+w: @en_localise
+w: @en_localize
+d: @en_concentrate on a particular place or spot
+fs: 4
+hypo: jazer[2]
+sa: @en:verb.stative:focalise
+
+w: @en_foil
+d: @en_enhance by contrast
+fs: 8 11
+hypo: contrapor
+sa: @en:verb.stative:foil
+
+w: @en_follow[1]
+d: @en_be next
+fs: 1 2 22
+hypo: estar[1]
+sa: @en:verb.stative:follow[2]
+vg: seguir[3]
+
+w: @en_follow[2]
+d: @en_to bring something about at a later time than
+fs: 8
+cause: @en_follow[1]
+sa: @en:verb.stative:follow[3]
+
+w: @en_follow_suit
+d: @en_do what someone else is doing
+fs: 2
+hypo: copiar
+sa: @en:verb.stative:follow_suit
+
+w: @en_forbear
+w: @en_hold_back
+d: @en_refrain from doing
+fs: 2
+hypo: resistir[4]
+sa: @en:verb.stative:forbear[1]
+
+w: @en_form
+w: @en_spring
+w: @en_take_form
+w: @en_take_shape
+d: @en_develop into a distinctive entity
+fs: 1 2 4 22
+hyper: verb.change:regenerar[2]
+hypo: @en_become
+sa: @en:verb.stative:spring
+
+w: @en_fry
+d: @en_be excessively hot
+fs: 2
+hypo: verb.change:aquecer[3]
+sa: @en:verb.stative:fry
+
+w: @en_get_into
+w: @en_tangle_with
+d: @en_get involved in or with
+fs: 1 2
+hypo: verb.change:revoltar
+sa: @en:verb.stative:get_into
+
+w: @en_go
+w: @en_run
+d: @en_have a particular form
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:go[2]
+
+w: @en_go[1]
+d: @en_be awarded; be allotted
+fs: 10 11
+sa: @en:verb.stative:go[6]
+
+w: @en_go[2]
+d: @en_be ranked or compare
+fs: 1
+hypo: comparar
+sa: @en:verb.stative:go[10]
+
+w: @en_go[3]
+d: @en_pass, fare, or elapse; of a certain state of affairs or action
+fs: 1
+sa: @en:verb.stative:go[3]
+
+w: @en_go[4]
+d: @en_be contained in
+fs: 11
+sa: @en:verb.stative:go[13]
+
+w: @en_go[5]
+d: @en_be sounded, played, or expressed
+fs: 1
+sa: @en:verb.stative:go[12]
+
+w: @en_go_a_long_way
+d: @en_suffice or be adequate for a while or to a certain extent
+fs: 1
+hypo: bastar
+sa: @en:verb.stative:go_a_long_way
+
+w: @en_go_around
+d: @en_be sufficient
+fs: 1
+hypo: bastar
+sa: @en:verb.stative:go_around
+
+w: @en_go_deep
+w: @en_go_far
+d: @en_extend in importance or range
+fs: 1
+hypo: estender
+sa: @en:verb.stative:go_deep
+
+w: @en_go_down
+d: @en_be recorded or remembered
+fs: 4 22
+sa: @en:verb.stative:go_down
+
+w: @en_go_into
+d: @en_be used or required for
+fs: 11
+sa: @en:verb.stative:go_into
+
+w: @en_go_out
+d: @en_go out of fashion; become unfashionable
+fs: 1
+hypo: verb.change:alterar[3]
+mt: noun.cognition:Moda
+sa: @en:verb.stative:go_out
+
+w: @en_govern
+d: @en_require to be in a certain grammatical case, voice, or mood
+fs: 11
+hypo: demandar
+sa: @en:verb.stative:govern
+
+w: @en_hang
+d: @en_be menacing, burdensome, or oppressive
+fs: 4
+hyper: @en_brood
+hypo: estar[2]
+sa: @en:verb.stative:hang
+
+w: @en_hang_by_a_hair
+w: @en_hang_by_a_thread
+d: @en_depend on a small thing or be at risk
+fs: 2
+hypo: depender[3]
+sa: @en:verb.stative:hang_by_a_hair
+
+w: @en_hang_together
+w: @en_interdepend
+d: @en_be connected
+fs: 1
+hypo: verb.contact:juntar[7]
+sa: @en:verb.stative:hang_together
+
+w: @en_harbor
+w: @en_harbour
+d: @en_secretly shelter (as of fugitives or criminals)
+fs: 8 9
+hypo: abrigar
+sa: @en:verb.stative:harbor
+
+w: @en_have
+d: @en_be confronted with
+fs: 8
+sa: @en:verb.stative:have[12]
+
+w: @en_have_it_coming
+d: @en_deserve (either good or bad)
+fs: 2
+hypo: merecer
+sa: @en:verb.stative:have_it_coming
+
+w: @en_head
+d: @en_form a head or come or grow to a head
+fs: 1
+hypo: verb.change:@en_form
+sa: @en:verb.stative:head[4]
+
+w: @en_hold
+d: @en_stop dealing with
+fs: 11
+hypo: atrasar
+sa: @en:verb.stative:hold[12]
+
+w: @en_hold_one's_own
+d: @en_be sufficiently competent in a certain situation
+fs: 2
+sa: @en:verb.stative:hold_one's_own
+
+w: @en_hold_out
+d: @en_wait uncompromisingly for something desirable
+fs: 2 22
+hypo: reter
+sa: @en:verb.stative:hold_out[2]
+
+w: @en_hold_over
+d: @en_continue a term of office past the normal period of time
+fs: 2
+hypo: quedar
+sa: @en:verb.stative:hold_over[1]
+
+w: @en_hold_over[1]
+d: @en_keep in a position or state from an earlier period of time
+fs: 8
+hypo: conservar
+sa: @en:verb.stative:hold_over
+
+w: @en_hold_up
+w: @en_hold_water
+w: @en_stand_up
+d: @en_resist or withstand wear, criticism, etc.
+fs: 1
+hypo: perseverar
+sa: @en:verb.stative:hold_water
+
+w: @en_homologize
+d: @en_be homologous
+fs: 11
+hypo: combinar
+sa: @en:verb.stative:homologize
+
+w: @en_honeymoon
+d: @en_spend a holiday after one's marriage
+fs: 2 22
+hypo: tirar_férias
+sa: @en:verb.stative:honeymoon
+
+w: @en_hoodoo
+d: @en_bring bad luck; be a source of misfortune
+fs: 1 2
+hypo: estar[2]
+sa: @en:verb.stative:hoodoo
+
+w: @en_house
+d: @en_contain or cover
+fs: 10 11
+hypo: acomodar[1]
+sa: @en:verb.stative:house[2]
+
+w: @en_housekeep
+d: @en_maintain a household; take care of all business related to a household
+fs: 2
+hypo: conservar
+sa: @en:verb.stative:housekeep
+
+w: @en_imbricate
+d: @en_overlap
+fs: 1
+hypo: sobrepor
+sa: @en:verb.stative:imbricate
+vg: @en_imbricate[1]
+
+w: @en_imbricate[1]
+d: @en_place so as to overlap
+fs: 8
+hypo: verb.contact:carregar
+sa: @en:verb.stative:imbricate[1]
+vg: @en_imbricate
+
+w: @en_impend
+d: @en_be imminent or about to happen
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:impend
+
+w: @en_imply[1]
+w: @en_involve
+d: @en_have as a necessary feature
+fs: 11
+hyper: implicar
+hypo: apresenta
+sa: @en:verb.stative:involve
+
+w: @en_individuate
+d: @en_give individual character to
+fs: 10 11
+hypo: caracterizar
+sa: @en:verb.stative:individuate
+
+w: @en_indwell
+d: @en_to exist as an inner activating spirit, force, or principle
+fs: 11
+hypo: existir
+sa: @en:verb.stative:indwell
+
+w: @en_inhere
+d: @en_be inherent in something
+fs: 4
+hypo: caber_a
+sa: @en:verb.stative:inhere
+
+w: @en_intercommunicate
+d: @en_be interconnected, afford passage
+fs: 1
+hyper: verb.contact:@en_communicate
+hypo: interconectar
+sa: @en:verb.stative:intercommunicate
+
+w: @en_involve[1]
+d: @en_engage as a participant
+fs: 9 20
+hyper: aprisionar
+hyper: ser_empurrado
+hypo: verb.social:admitir
+sa: @en:verb.stative:involve[4]
+
+w: @en_iridesce
+d: @en_be iridescent
+fs: 1
+hyper: @en_opalesce
+hypo: estar[2]
+sa: @en:verb.stative:iridesce
+
+w: @en_jog
+w: @en_ramble
+w: @en_ramble_on
+d: @en_continue talking or writing in a desultory manner
+fs: 1 2
+hypo: verb.communication:prosseguir
+sa: @en:verb.stative:jog
+
+w: @en_joint
+d: @en_fit as if by joints
+fs: 1
+hypo: caber[1]
+sa: @en:verb.stative:joint
+
+w: @en_jumble
+w: @en_mingle
+d: @en_be all mixed up or jumbled together
+fs: 1 4
+hypo: estar[2]
+sa: @en:verb.stative:jumble
+
+w: @en_keep
+d: @en_raise
+fs: 8
+hyper: arrebanhar
+hypo: verb.creation:fazer[13]
+sa: @en:verb.stative:keep[12]
+
+w: @en_keep[1]
+d: @en_supply with room and board
+fs: 8 9
+hypo: @en_accommodate
+sa: @en:verb.stative:keep[1]
+
+w: @en_keep[2]
+w: @en_stay_fresh
+d: @en_fail to spoil or rot
+fs: 1
+hypo: verb.change:continuar
+sa: @en:verb.stative:stay_fresh
+vg: verb.change:conservar
+
+w: @en_keep_going[1]
+w: @en_run_on
+d: @en_continue uninterrupted
+fs: 1 2
+hypo: prosseguir
+sa: @en:verb.stative:run_on
+vg: verb.communication:patrocinar
+
+w: @en_kick_about
+w: @en_kick_around
+w: @en_knock_about
+d: @en_be around; be alive or active
+fs: 1 2
+hypo: existir
+sa: @en:verb.stative:kick_about
+
+w: @en_kill
+d: @en_be fatal
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:kill
+
+w: @en_knock_back
+w: @en_put_back
+w: @en_set_back
+d: @en_cost a certain amount
+fs: 10
+hypo: custar[1]
+sa: @en:verb.stative:knock_back
+
+w: @en_lap
+d: @en_lie partly over or alongside of something or of one another
+fs: 4
+hypo: jazer[2]
+sa: @en:verb.stative:lap
+
+w: @en_last_out
+w: @en_outride
+w: @en_ride_out
+w: @en_stay[1]
+d: @en_hang on during a trial of endurance
+fs: 8
+hyper: @en_outstay
+sa: @en:verb.stative:last_out
+
+w: @en_lay_over
+w: @en_stop_over
+d: @en_interrupt a journey temporarily, e.g., overnight
+fs: 1 2
+hypo: verb.motion:parar[4]
+sa: @en:verb.stative:lay_over
+
+w: @en_lead
+w: @en_run[1]
+d: @en_cause something to pass or lead somewhere
+fs: 21
+hypo: verb.motion:passar[3]
+sa: @en:verb.stative:lead[2]
+vg: verb.contact:correr
+vg: @en_range[1]
+
+w: @en_leave
+d: @en_have left or have as a remainder
+fs: 10 11
+hypo: verb.possession:@en_have
+sa: @en:verb.stative:leave[3]
+vg: verb.change:@en_leave
+vg: deixar[2]
+
+w: @en_leave[1]
+d: @en_act or be so as to become in a specified state
+fs: 5 10
+hypo: verb.change:deixar
+sa: @en:verb.stative:leave[2]
+vg: deixar[2]
+
+w: @en_leave_off
+d: @en_come to an end, stop or cease
+fs: 4
+hypo: interromper
+sa: @en:verb.stative:leave_off
+
+w: @en_let_go
+d: @en_be relaxed
+fs: 2
+hypo: estar[2]
+sa: @en:verb.stative:let_go
+
+w: @en_lie_about
+w: @en_lie_around
+d: @en_hang around idly
+fs: 2 22
+hypo: verb.social:@en_idle
+sa: @en:verb.stative:lie_about
+
+w: @en_line_up
+d: @en_form a line
+fs: 1 2 4 22
+hypo: verb.contact:arranjar
+sa: @en:verb.stative:line_up
+
+w: @en_live[1]
+d: @en_pursue a positive and satisfying existence
+fs: 2
+sa: @en:verb.stative:live[7]
+vg: viver[2]
+
+w: @en_live_down
+w: @en_unlive
+d: @en_live so as to annul some previous behavior
+fs: 8
+hypo: viver[2]
+sa: @en:verb.stative:live_down
+
+w: @en_live_out
+d: @en_live out one's life; live to the end
+fs: 8
+hypo: perseverar
+sa: @en:verb.stative:live_out
+
+w: @en_look[1]
+d: @en_accord in appearance with
+fs: 8 11
+hypo: combinar
+sa: @en:verb.stative:look[2]
+
+w: @en_look_across
+w: @en_look_out_on
+w: @en_look_out_over
+w: @en_overlook[1]
+d: @en_be oriented in a certain direction
+fs: 11
+hypo: jazer[2]
+sa: @en:verb.stative:look_across
+
+w: @en_lubricate
+d: @en_have lubricating properties
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:lubricate
+
+w: @en_make
+d: @en_amount to
+fs: 11
+hypo: @en_amount
+sa: @en:verb.stative:make[11]
+vg: fazer
+
+w: @en_make[1]
+d: @en_undergo fabrication or creation
+fs: 4
+hypo: verb.change:alterar[3]
+sa: @en:verb.stative:make[9]
+
+w: @en_make[2]
+d: @en_be suitable for
+fs: 9 11
+hypo: estar[2]
+sa: @en:verb.stative:make[13]
+
+w: @en_make[3]
+d: @en_be or be capable of being changed or made into
+fs: 9 11
+hypo: @en_become
+sa: @en:verb.stative:make
+
+w: @en_map
+d: @en_locate within a specific region of a chromosome in relation to known DNA or gene sequences
+fs: 8
+hypo: achar
+sa: @en:verb.stative:map
+
+w: @en_mean[1]
+d: @en_have a specified degree of importance
+fs: 8 11
+sa: @en:verb.stative:mean[3]
+
+w: @en_miscegenate
+d: @en_marry or cohabit with a person of another race
+fs: 2
+hypo: coabitar
+sa: @en:verb.stative:miscegenate
+
+w: @en_necessitate
+d: @en_cause to be a concomitant
+fs: 11
+hyper: @en_entail
+hypo: levar[1]
+sa: @en:verb.stative:necessitate[1]
+
+w: @en_nestle
+d: @en_lie in a sheltered position
+fs: 4
+hypo: jazer[2]
+sa: @en:verb.stative:nestle
+
+w: @en_nucleate
+d: @en_form into a nucleus
+fs: 1
+hypo: tornar-se
+sa: @en:verb.stative:nucleate
+
+w: @en_offer
+w: @en_offer_up
+d: @en_present as an act of worship
+fs: 8
+hyper: verb.possession:@en_sacrifice[2]
+hypo: @en_worship
+sa: @en:verb.stative:offer
+
+w: @en_opalesce
+d: @en_exhibit a play of colors like that of an opal
+fs: 1
+hypo: @en_iridesce
+sa: @en:verb.stative:opalesce
+
+w: @en_open
+d: @en_have an opening or passage or outlet
+fs: 4
+sa: @en:verb.stative:open
+
+w: @en_orient
+w: @en_point
+d: @en_be oriented
+fs: 4
+hypo: jazer[2]
+sa: @en:verb.stative:orient
+
+w: @en_originate
+d: @en_begin a trip at a certain point, as of a plane, train, bus, etc.
+fs: 4
+hypo: começar[3]
+sa: @en:verb.stative:originate[2]
+
+w: @en_originate_in
+d: @en_come from
+fs: 10 11
+hyper: @en_stem
+sa: @en:verb.stative:originate_in
+
+w: @en_osculate
+d: @en_be intermediate between two taxonomic groups
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:osculate[3]
+
+w: @en_osculate[1]
+d: @en_have at least three points in common with
+fs: 1 11
+hypo: compartilhar
+mt: noun.cognition:Matematica
+sa: @en:verb.stative:osculate
+
+w: @en_outrank
+w: @en_rank
+d: @en_take precedence or surpass others in rank
+fs: 2
+hypo: sobressair
+sa: @en:verb.stative:outrank
+
+w: @en_outstay
+d: @en_surpass in staying power
+fs: 9 11
+hypo: @en_last_out
+sa: @en:verb.stative:outstay[1]
+
+w: @en_outstay[1]
+w: @en_overstay
+d: @en_stay too long
+fs: 8
+hypo: @en_abide
+sa: @en:verb.stative:outstay
+
+w: @en_outwear
+d: @en_last longer than others
+fs: 11
+hypo: verb.competition:apresentar_melhor_que
+sa: @en:verb.stative:outwear
+
+w: @en_overarch
+d: @en_be central or dominant
+fs: 11
+hypo: comandar
+sa: @en:verb.stative:overarch
+
+w: @en_overbear
+d: @en_overcome
+fs: 8 9
+hypo: dominar[1]
+sa: @en:verb.stative:overbear
+
+w: @en_overgrow
+d: @en_grow too large
+fs: 1
+hypo: exceder[2]
+sa: @en:verb.stative:overgrow[2]
+
+w: @en_overhang[1]
+d: @en_project over
+fs: 1 4
+hypo: projectar-se
+sa: @en:verb.stative:overhang[1]
+
+w: @en_override
+d: @en_prevail over
+fs: 11
+hypo: comandar
+sa: @en:verb.stative:override[3]
+
+w: @en_overspread
+w: @en_spread
+d: @en_spread across or over
+fs: 11
+hyper: @en_transgress
+hypo: estender[1]
+sa: @en:verb.stative:overspread
+
+w: @en_parallel[1]
+d: @en_be parallel to
+fs: 11
+hypo: combinar
+sa: @en:verb.stative:parallel
+
+w: @en_partake
+d: @en_have some of the qualities or attributes of something
+fs: 11
+hypo: compartilhar
+sa: @en:verb.stative:partake
+
+w: @en_pattern
+d: @en_form a pattern
+fs: 1 4
+hypo: combinar
+sa: @en:verb.stative:pattern
+
+w: @en_people
+d: @en_furnish with people
+fs: 22
+hypo: povoar
+sa: @en:verb.stative:people
+
+w: @en_perennate
+d: @en_survive from season to season, of plants
+fs: 1
+hypo: perseverar
+sa: @en:verb.stative:perennate
+
+w: @en_phosphoresce
+d: @en_to exhibit phosphorescence
+fs: 11
+hypo: exibir
+sa: @en:verb.stative:phosphoresce
+
+w: @en_photograph
+d: @en_undergo being photographed in a certain way
+fs: 1 2
+sa: @en:verb.stative:photograph
+
+w: @en_pig
+w: @en_pig_it
+d: @en_live like a pig, in squalor
+fs: 2 22
+hypo: viver[2]
+sa: @en:verb.stative:pig
+
+w: @en_pinnacle
+d: @en_surmount with a pinnacle
+fs: 11
+hypo: @en_surmount
+sa: @en:verb.stative:pinnacle
+
+w: @en_preexist
+d: @en_exist beforehand or prior to a certain point in time
+fs: 1
+hypo: existir
+sa: @en:verb.stative:preexist
+
+w: @en_prelude
+d: @en_serve as a prelude or opening to
+fs: 11
+hypo: servir[2]
+sa: @en:verb.stative:prelude
+
+w: @en_preserve
+d: @en_keep undisturbed for personal or private use for hunting, shooting, or fishing
+fs: 8
+hypo: conservar
+sa: @en:verb.stative:preserve[7]
+
+w: @en_press
+d: @en_be urgent
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:press
+
+w: @en_press[1]
+w: @en_weigh
+d: @en_to be oppressive or burdensome
+fs: 4
+hypo: importar
+sa: @en:verb.stative:press[1]
+
+w: @en_probate
+d: @en_put a convicted person on probation by suspending his sentence
+fs: 9
+hypo: atrasar
+sa: @en:verb.stative:probate
+
+w: @en_promise
+d: @en_give grounds for expectations
+fs: 8 11
+hypo: estar[2]
+sa: @en:verb.stative:promise
+
+w: @en_protuberate
+d: @en_cause to bulge out or project
+fs: 11
+sa: @en:verb.stative:protuberate[1]
+vg: @en_protuberate[1]
+
+w: @en_protuberate[1]
+d: @en_form a rounded prominence
+fs: 1
+hypo: @en_bag
+sa: @en:verb.stative:protuberate
+vg: @en_protuberate
+
+w: @en_push_up
+w: @en_thrust
+d: @en_push upward
+fs: 1 4
+hypo: projectar-se
+sa: @en:verb.stative:push_up
+vg: @en_thrust[1]
+
+w: @en_put_out
+d: @en_be sexually active
+fs: 2
+hypo: estar[2]
+sa: @en:verb.stative:put_out
+
+w: @en_radiolocate
+d: @en_locate by means of radar
+fs: 8 9 10 11
+hypo: achar
+sa: @en:verb.stative:radiolocate
+
+w: @en_rage
+w: @en_ramp
+w: @en_storm
+d: @en_behave violently, as if in state of a great anger
+fs: 2
+hypo: verb.body:agir
+sa: @en:verb.stative:ramp
+
+w: @en_rail
+w: @en_rail_in
+d: @en_enclose with rails
+fs: 8 11
+hypo: @en_confine
+sa: @en:verb.stative:rail
+
+w: @en_rake
+d: @en_sweep the length of
+fs: 8
+hyper: @en_enfilade
+hypo: @en_sweep
+sa: @en:verb.stative:rake[10]
+
+w: @en_range
+w: @en_straddle
+d: @en_range or extend over; occupy a certain area
+fs: 11
+hyper: @en_spread-eagle
+hypo: representar[4]
+sa: @en:verb.stative:range
+
+w: @en_range[1]
+w: @en_run[2]
+d: @en_change or be different within limits
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:range[1]
+vg: @en_lead
+vg: estender
+
+w: @en_range[2]
+d: @en_have a range; be capable of projecting over a certain distance, as of a gun
+fs: 4
+hyper: @en_carry
+sa: @en:verb.stative:range[3]
+
+w: @en_rate
+d: @en_be worthy of or have a certain rating
+fs: 6 11
+hypo: estar[2]
+sa: @en:verb.stative:rate[1]
+
+w: @en_reach_into
+d: @en_run into or up to
+fs: 11
+hypo: alcançar
+sa: @en:verb.stative:reach_into
+
+w: @en_redefine
+d: @en_give a new or different definition to
+fs: 8
+hypo: especificar
+sa: @en:verb.stative:redefine
+
+w: @en_remain_firm
+w: @en_stand
+d: @en_hold one's ground; maintain a position; be steadfast or upright
+fs: 1 2
+hypo: verb.competition:resistir[1]
+sa: @en:verb.stative:remain_firm
+vg: verb.competition:resistir[2]
+
+w: @en_repose
+w: @en_reside
+w: @en_rest
+d: @en_be inherent or innate in;
+fs: 4
+hypo: @en_attach_to
+sa: @en:verb.stative:repose[12]
+
+w: @en_reprieve
+w: @en_respite
+d: @en_postpone the punishment of a convicted criminal, such as an execution
+fs: 9
+hypo: atrasar
+sa: @en:verb.stative:reprieve
+
+w: @en_resurge
+d: @en_rise again
+fs: 1
+hypo: originar-se
+sa: @en:verb.stative:resurge
+
+w: @en_retard
+d: @en_be delayed
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:retard
+
+w: @en_reticulate
+d: @en_form a net or a network
+fs: 1
+hypo: verb.change:alterar[3]
+sa: @en:verb.stative:reticulate
+
+w: @en_reverberate
+d: @en_have a long or continuing effect
+fs: 8
+hypo: perdurar
+sa: @en:verb.stative:reverberate
+
+w: @en_ride[1]
+d: @en_be sustained or supported or borne
+fs: 22
+hypo: verb.motion:flutuar
+sa: @en:verb.stative:ride[4]
+
+w: @en_ride[2]
+d: @en_lie moored or anchored
+fs: 4
+hypo: jazer[2]
+sa: @en:verb.stative:ride[2]
+
+w: @en_ridge
+d: @en_extend in ridges
+fs: 1
+hypo: estender[1]
+sa: @en:verb.stative:ridge
+
+w: @en_rim
+d: @en_run around the rim of
+fs: 11
+hyper: @en_beard
+hypo: enfileirar
+sa: @en:verb.stative:rim
+
+w: @en_roll
+w: @en_undulate
+d: @en_occur in soft rounded shapes
+fs: 1 4
+sa: @en:verb.stative:roll
+
+w: @en_run[3]
+d: @en_be affected by; be subjected to
+fs: 8
+hypo: incorrer
+sa: @en:verb.stative:run[2]
+
+w: @en_run[4]
+d: @en_occur persistently
+fs: 4
+hypo: encontrar-se
+sa: @en:verb.stative:run[6]
+vg: perdurar
+
+w: @en_run[5]
+w: @en_run_for
+d: @en_extend or continue for a certain period of time
+fs: 11
+hypo: durar
+sa: @en:verb.stative:run_for
+
+w: @en_scan
+d: @en_conform to a metrical pattern
+fs: 1
+hypo: amoldar
+mt: noun.communication:Poemas
+sa: @en:verb.stative:scan
+
+w: @en_seem
+d: @en_appear to exist
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:seem
+
+w: @en_sell
+d: @en_be responsible for the sale of
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:sell[13]
+
+w: @en_sell[1]
+d: @en_be approved of or gain acceptance
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:sell[14]
+
+w: @en_sell[2]
+d: @en_be sold at a certain price or in a certain way
+fs: 1 4
+hyper: @en_trade
+hyper: vender_a_varejo
+hypo: estar[2]
+sa: @en:verb.stative:sell
+vg: verb.possession:vender
+vg: verb.possession:vender[2]
+
+w: @en_serve
+w: @en_serve_well
+d: @en_promote, benefit, or be useful or beneficial to
+fs: 8 10 11
+hypo: verb.communication:alimentar
+sa: @en:verb.stative:serve_well
+vg: servir[3]
+
+w: @en_shillyshally
+d: @en_be uncertain and vague
+fs: 2
+hypo: vacilar[2]
+sa: @en:verb.stative:shillyshally
+
+w: @en_shimmer
+d: @en_give off a shimmering reflection, as of silk
+fs: 1
+hypo: verb.perception:reluzir
+sa: @en:verb.stative:shimmer
+
+w: @en_sit
+d: @en_be located or situated somewhere
+fs: 4
+hypo: estar[1]
+sa: @en:verb.stative:sit[5]
+
+w: @en_sit_in
+d: @en_attend as a visitor
+fs: 22
+hypo: estar_presente_em
+sa: @en:verb.stative:sit_in
+
+w: @en_skirt
+d: @en_form the edge of
+fs: 11
+hypo: abeirar
+sa: @en:verb.stative:skirt
+
+w: @en_slant
+d: @en_lie obliquely
+fs: 4
+hypo: jazer[2]
+sa: @en:verb.stative:slant
+
+w: @en_sleep_over
+w: @en_stay_over
+d: @en_stay overnight
+fs: 2 22
+hypo: alojar
+sa: @en:verb.stative:sleep_over
+
+w: @en_spear
+w: @en_spear_up
+d: @en_thrust up like a spear
+fs: 1 4
+hypo: projectar-se
+sa: @en:verb.stative:spear
+
+w: @en_spiral
+d: @en_form a spiral
+fs: 1 4
+hypo: @en_curve
+sa: @en:verb.stative:spiral
+
+w: @en_spread-eagle
+d: @en_stretch over
+fs: 11
+hypo: @en_range
+sa: @en:verb.stative:spread-eagle
+
+w: @en_square
+d: @en_be compatible with
+fs: 1
+hypo: combinar
+sa: @en:verb.stative:square
+
+w: @en_square[1]
+d: @en_cause to match, as of ideas or acts
+fs: 8 9
+hypo: verb.change:adaptar-se
+sa: @en:verb.stative:square[1]
+
+w: @en_squat
+d: @en_occupy (a dwelling) illegally
+fs: 2 22
+hypo: residir
+sa: @en:verb.stative:squat
+
+w: @en_stagnate
+d: @en_cease to flow; stand without moving
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:stagnate
+vg: ficar_parado[1]
+
+w: @en_stagnate[1]
+d: @en_stand still
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:stagnate[1]
+
+w: @en_stand[1]
+d: @en_be tall; have a height of; copula
+fs: 4
+hypo: medir
+sa: @en:verb.stative:stand[1]
+
+w: @en_stand[2]
+d: @en_be in some specified state or condition
+fs: 6 7
+hypo: estar[2]
+sa: @en:verb.stative:stand[4]
+
+w: @en_stand[3]
+d: @en_occupy a place or location, also metaphorically
+fs: 4 22
+hypo: estar[2]
+sa: @en:verb.stative:stand[3]
+
+w: @en_stand_by
+d: @en_not act or do anything
+fs: 1 2
+hypo: resistir[4]
+sa: @en:verb.stative:stand_by
+
+w: @en_stand_by[1]
+w: @en_stick_about
+w: @en_stick_around
+d: @en_be available or ready for a certain function or service
+fs: 2
+hypo: aguardar
+sa: @en:verb.stative:stick_about
+
+w: @en_stay_at
+d: @en_reside temporarily
+fs: 8
+hypo: residir
+sa: @en:verb.stative:stay_at[1]
+
+w: @en_stem
+d: @en_grow out of, have roots in, originate in
+fs: 11
+hypo: @en_originate_in
+sa: @en:verb.stative:stem
+
+w: @en_stem[1]
+d: @en_cause to point inward
+fs: 8
+hypo: orientar
+sa: @en:verb.stative:stem[3]
+
+w: @en_stick
+d: @en_endure
+fs: 1
+hypo: albergar
+sa: @en:verb.stative:stick[4]
+
+w: @en_stink
+d: @en_be extremely bad in quality or in one's performance
+fs: 1 2
+hypo: estar[2]
+sa: @en:verb.stative:stink
+
+w: @en_straddle[1]
+d: @en_be noncommittal
+fs: 2
+sa: @en:verb.stative:straddle
+
+w: @en_suck
+d: @en_be inadequate or objectionable
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:suck
+
+w: @en_supplement
+d: @en_serve as a supplement to
+fs: 1
+hypo: representar[4]
+sa: @en:verb.stative:supplement
+vg: verb.possession:@en_supplement
+
+w: @en_surmount
+d: @en_be on top of
+fs: 11
+hyper: @en_pinnacle
+hypo: encabeçar
+sa: @en:verb.stative:surmount
+
+w: @en_suspend
+d: @en_render temporarily ineffective
+fs: 8
+hypo: atrasar
+sa: @en:verb.stative:suspend
+
+w: @en_sweep
+d: @en_cover the entire range of
+fs: 8
+hyper: @en_rake
+hypo: estender[1]
+sa: @en:verb.stative:sweep[10]
+
+w: @en_swing
+d: @en_have a certain musical rhythm
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:swing[10]
+
+w: @en_swing[1]
+d: @en_live in a lively, modern, and relaxed style
+fs: 2
+hypo: viver[2]
+sa: @en:verb.stative:swing[1]
+
+w: @en_take_in
+d: @en_provide with shelter
+fs: 8
+hypo: verb.social:acolher
+sa: @en:verb.stative:take_in
+
+w: @en_take_kindly_to
+d: @en_be willing or inclined to accept
+fs: 8
+hypo: estar_inclinado_a
+sa: @en:verb.stative:take_kindly_to
+
+w: @en_take_up
+d: @en_take up time or space
+fs: 11
+hypo: encher
+sa: @en:verb.stative:take_up
+
+w: @en_tessellate
+d: @en_fit together exactly, of identical shapes
+fs: 1
+hypo: caber[1]
+sa: @en:verb.stative:tessellate
+
+w: @en_test
+d: @en_show a certain characteristic when tested
+fs: 7
+hypo: estar[2]
+sa: @en:verb.stative:test
+
+w: @en_thrust[1]
+d: @en_force (molten rock) into pre-existing rock
+fs: 11
+mt: noun.cognition:geologia
+sa: @en:verb.stative:thrust[1]
+vg: @en_push_up
+
+w: @en_tie_in
+d: @en_be in connection with something relevant
+fs: 4
+hypo: inter-relacionar
+sa: @en:verb.stative:tie_in
+
+w: @en_top
+d: @en_be at the top of or constitute the top or highest point
+fs: 11
+hypo: jazer[2]
+sa: @en:verb.stative:top[2]
+
+w: @en_trade
+d: @en_be traded at a certain price or under certain conditions
+fs: 1 4
+hyper: @en_close
+hypo: @en_sell[2]
+mt: noun.act:comercialismo
+sa: @en:verb.stative:trade
+
+w: @en_transgress
+d: @en_spread over land, especially along a subsiding shoreline
+fs: 1
+hypo: @en_overspread
+sa: @en:verb.stative:transgress
+
+w: @en_translate
+d: @en_be translatable, or be translatable in a certain way
+fs: 1 4
+hypo: estar[2]
+sa: @en:verb.stative:translate
+vg: verb.communication:traduzir
+
+w: @en_translate[1]
+d: @en_be equivalent in effect
+fs: 4
+hypo: equivaler
+sa: @en:verb.stative:translate[3]
+
+w: @en_transplant
+d: @en_be transplantable
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:transplant
+vg: verb.motion:transplantar
+
+w: @en_trim
+d: @en_balance in flight by regulating the control surfaces
+fs: 8
+hypo: equilibrar
+sa: @en:verb.stative:trim[6]
+vg: aparar
+
+w: @en_truckle
+d: @en_yield to out of weakness
+fs: 21
+hypo: amolecer
+sa: @en:verb.stative:truckle
+
+w: @en_verge
+d: @en_border on; come close to
+fs: 11
+hypo: abeirar
+sa: @en:verb.stative:verge[1]
+
+w: @en_visit
+d: @en_stay with as a guest
+fs: 9
+hypo: @en_abide
+sa: @en:verb.stative:visit[4]
+
+w: @en_wanton
+d: @en_indulge in a carefree or voluptuous way of life
+fs: 2
+hypo: viver[2]
+sa: @en:verb.stative:wanton[1]
+
+w: @en_wash
+d: @en_admit to testing or proof
+fs: 1
+hypo: valer[4]
+sa: @en:verb.stative:wash[12]
+
+w: @en_wear
+d: @en_have in one's aspect; wear an expression of one's attitude or personality
+fs: 8 11
+hypo: apresenta
+sa: @en:verb.stative:wear[1]
+
+w: @en_weekend
+d: @en_spend the weekend
+fs: 2
+hypo: fazer_passar
+sa: @en:verb.stative:weekend
+
+w: @en_work
+d: @en_behave in a certain way when handled
+fs: 6
+hypo: estar[2]
+sa: @en:verb.stative:work[10]
+vg: verb.contact:trabalhar
+
+w: @en_work_out
+d: @en_happen in a certain way, leading to, producing, or resulting in a certain outcome, often well
+fs: 1
+hypo: acabar[4]
+sa: @en:verb.stative:work_out
+
+w: @en_worship
+d: @en_attend religious services
+fs: 1 22
+hyper: @en_offer
+hypo: estar_presente_em
+sa: @en:verb.stative:worship
+
+w: @en_wrangle
+d: @en_herd and care for
+fs: 8
+hypo: arrebanhar
+sa: @en:verb.stative:wrangle
+
+w: abarcar
+w: circundar
+w: compreender
+w: conter
+w: englobar
+d: @en_include in scope; include as part of something broader; have as one's sphere or territory
+fs: 11
+hypo: incluir
+sa: @en:verb.stative:comprehend
+vg: verb.communication:cobrir
+
+w: abarcar[1]
+w: conter[1]
+w: incluir
+d: @en_have as a part, be made up out of
+fs: 11
+entail: apresenta
+hyper: @en_attach_to
+hyper: abarcar
+hyper: abranger
+hyper: acarretar
+hyper: classificar
+hyper: possuir
+sa: @en:verb.stative:include
+
+w: abeirar
+w: beirar
+w: bordejar
+w: limitar
+d: formar o limite de algo, ser contíguo a algo
+fs: 11
+hyper: @en_skirt
+hyper: @en_verge
+hyper: margear
+hypo: @en_confine
+sa: @en:verb.stative:border
+
+w: abranger
+w: conter[2]
+d: @en_include or contain; have as a component
+fs: 11 21
+hypo: incluir
+sa: @en:verb.stative:comprise
+
+w: abranger[1]
+d: @en_to cover or extend over an area or time period
+fs: 11
+hypo: estender[1]
+sa: @en:verb.stative:cross
+
+w: abrigar
+w: amparar
+d: @en_provide shelter for
+fs: 8 9 10 11
+hyper: verb.social:@en_kennel
+hyper: verb.social:@en_stable
+hyper: verb.social:@en_stall
+hyper: verb.social:acolher
+hyper: @en_harbor
+hypo: verb.possession:prover
+sa: @en:verb.stative:shelter
+
+w: abrilhantar
+w: brilhar
+w: fulgir
+w: fulgurar
+w: refulgir
+d: ser distinto ou eminente
+e: Seu talento brilha
+fs: 1 2
+hypo: estar[2]
+sa: @en:verb.stative:shine[1]
+
+w: abundar
+w: abundar_em
+w: ser_abundante
+w: ser_rico
+d: @en_be abundant or plentiful; exist in large quantities
+fs: 1 4
+hypo: estar[2]
+sa: @en:verb.stative:abound
+
+w: acabar
+w: terminar
+d: @en_come to a close
+fs: 1 4
+hypo: cessar
+sa: @en:verb.stative:close
+
+w: acabar[1]
+w: cessar
+w: encerrar
+w: finalizar
+w: parar
+w: terminar[1]
+d: @en_have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical
+fs: 1 4
+hyper: verb.change:@en_adjourn
+hyper: verb.change:@en_cut_out
+hyper: verb.change:@en_go_out
+hyper: verb.change:@en_lapse[1]
+hyper: verb.change:@en_pass_away
+hyper: verb.change:@en_run_out[2]
+hyper: verb.change:culminar[3]
+hyper: verb.change:desaparecer[5]
+hyper: verb.consumption:@en_go
+hyper: verb.perception:esvair
+hyper: @en_break
+hyper: acabar
+hyper: acabar[4]
+hyper: interromper
+sa: @en:verb.stative:end
+
+w: acabar[2]
+w: finalizar[1]
+w: findar
+d: @en_be the end of; be the last or concluding part of
+fs: 11
+hyper: verb.perception:fechar
+hypo: estar[2]
+sa: @en:verb.stative:end[1]
+
+w: acabar[3]
+w: cessar[1]
+w: deixar
+w: descontinuar
+w: desistir
+w: finalizar[2]
+w: parar[1]
+w: terminar[2]
+d: pôr fim a um estado ou uma atividade
+e: Pare de provocar seu irmão
+fs: 8 11 33
+hyper: verb.change:@en_leave_off
+hyper: verb.change:abandonar
+hyper: verb.communication:@en_sign_off
+hyper: verb.social:@en_pull_the_plug
+hyper: verb.social:retirar-se
+hyper: @en_break[1]
+hyper: @en_call_it_a_day
+hyper: @en_cheese
+hyper: @en_close_off
+sa: @en:verb.stative:cease
+
+w: acabar[4]
+w: terminar[3]
+d: @en_result or end
+fs: 1
+hyper: @en_eventuate
+hyper: @en_work_out
+hypo: cessar
+sa: @en:verb.stative:come_out
+
+w: acampar
+d: @en_live in or as if in a tent
+fs: 2 22
+hypo: povoar
+sa: @en:verb.stative:bivouac
+
+w: acarretar
+d: @en_contain as a part
+fs: 11
+hypo: incluir
+sa: @en:verb.stative:involve[2]
+
+w: achar
+w: localizar
+w: situar
+d: @en_determine or indicate the place, site, or limits of, as if by an instrument or by a survey
+fs: 8
+hyper: @en_base
+hyper: @en_map
+hyper: @en_radiolocate
+hyper: adquirir
+hyper: localizar[1]
+hypo: verb.communication:achar
+sa: @en:verb.stative:locate
+
+w: acomodar
+d: @en_be able to accommodate for sleeping
+fs: 10
+hypo: acomodar[1]
+sa: @en:verb.stative:sleep
+
+w: acomodar[1]
+d: @en_have room for; hold without crowding
+fs: 10 11
+hyper: @en_house
+hyper: acomodar
+hyper: sentar
+sa: @en:verb.stative:accommodate[3]
+vg: conter[5]
+
+w: acomodar[2]
+d: @en_be agreeable or acceptable to
+fs: 10
+hypo: @en_fit
+sa: @en:verb.stative:accommodate
+
+w: acompanhar
+d: @en_be present or associated with an event or entity
+fs: 10 11
+hyper: @en_attend
+hyper: @en_co-occur_with
+hyper: reger
+sa: @en:verb.stative:accompany
+
+w: acontecer
+w: dar
+w: ser
+w: surgir
+w: vir
+d: @en_develop into
+e: nada surgiu de seus planos grandiosos
+fs: 11
+hyper: agregar
+hypo: tornar-se
+sa: @en:verb.stative:amount
+
+w: acontecer[1]
+w: tornar-se
+w: transformar
+w: transformar-se
+w: virar
+d: @en_undergo a change or development
+fs: 9 11
+hyper: verb.change:@en_boil_down
+hyper: verb.change:@en_choke[1]
+hyper: @en_nucleate
+hyper: acontecer
+hypo: verb.change:transmutar
+sa: @en:verb.stative:turn
+vg: verb.change:revoltar
+vg: virar[1]
+
+w: acudir
+w: ajudar
+d: ser de uso
+fs: 2 28 34
+hypo: servir[3]
+sa: @en:verb.stative:facilitate
+
+w: adaptar-se
+w: adequar-se
+w: convir
+d: @en_accord or comport with
+fs: 10 11
+hypo: combinar
+sa: @en:verb.stative:befit
+
+w: aderir
+w: manter
+d: @en_be a devoted follower or supporter
+fs: 22
+hypo: verb.possession:adoptar[3]
+sa: @en:verb.stative:adhere[2]
+
+w: adiar
+d: @en_act later than planned, scheduled, or required
+fs: 8
+hyper: atrasar
+hyper: empurrar_com_a_barriga
+hyper: procrastinar[2]
+hyper: vacilar[1]
+hypo: reter
+sa: @en:verb.stative:delay
+
+w: adiar[1]
+w: empurrar_com_a_barriga
+w: enrolar
+w: procrastinar
+d: adiar o fazer do que deve ser feito
+fs: 2
+hyper: procrastinar[2]
+hypo: adiar
+sa: @en:verb.stative:dilly-dally
+
+w: adiar[2]
+w: atrasar
+w: delongar
+w: pospor
+w: postergar
+w: procrastinar[1]
+w: prorrogar
+w: protelar
+d: deixar para um momento posterior
+e: Vamos adiar o exame
+fs: 8 21
+entail: verb.communication:@en_reschedule
+entail: verb.social:cancelar[3]
+hyper: @en_call
+hyper: @en_hold
+hyper: @en_probate
+hyper: @en_reprieve
+hyper: @en_suspend
+hypo: adiar
+sa: @en:verb.stative:defer
+
+w: adicionar
+d: @en_add up in number or quantity
+fs: 11
+hyper: verb.cognition:@en_work_out
+hyper: @en_average
+hyper: exceder_em_números
+hyper: fazer
+hypo: estar[2]
+sa: @en:verb.stative:number
+
+w: adicionar[1]
+d: @en_constitute an addition
+fs: 11
+hypo: compor
+sa: @en:verb.stative:add
+vg: verb.change:acrescer
+
+w: admitir
+w: permitir
+d: @en_serve as a means of entrance
+fs: 10 11
+hypo: pegar
+sa: @en:verb.stative:admit[3]
+vg: verb.social:admitir[1]
+
+w: admitir[1]
+w: permitir[1]
+d: admitir a possibilidade
+fs: 4
+sa: @en:verb.stative:admit[6]
+vg: deixar[1]
+
+w: adornar
+w: decorar
+w: fazer_decoração
+w: ornamentar
+d: @en_be an ornament to
+fs: 11
+hypo: embelezar
+sa: @en:verb.stative:ornament
+vg: verb.creation:decorar
+
+w: adornar[1]
+w: decorar[1]
+w: embelezar
+w: ornamentar[1]
+d: ser bonito de se ver
+fs: 11
+hyper: adornar
+hypo: estar[2]
+sa: @en:verb.stative:adorn
+
+w: adquirir
+d: Localizar (uma entidade em movimento) por meio de um sistema de rastreamento como radar
+fs: 8 11
+hypo: achar
+sa: @en:verb.stative:acquire
+
+w: afastar
+w: manter_distância
+d: @en_stay clear of, avoid
+fs: 2 22
+hypo: estar[1]
+sa: @en:verb.stative:keep_one's_distance
+
+w: afetar
+w: comprometer
+d: @en_connect closely and often incriminatingly
+fs: 9 10 11
+hyper: envolver
+hypo: concernir
+sa: @en:verb.stative:affect
+
+w: afluir
+w: convergir
+w: encontrar
+d: @en_be adjacent or come together
+fs: 1 4
+hyper: @en_breast
+sa: @en:verb.stative:converge
+vg: verb.contact:encostar[1]
+
+w: afrontar
+w: aguentar
+w: arrostar
+w: fazer_frente_a
+w: relutar
+w: resistir
+d: resistir ou confrontar com resistência
+fs: 8 11
+hyper: resistir[3]
+hypo: verb.competition:resistir[1]
+sa: @en:verb.stative:defy
+
+w: agradar
+w: ser_conveniente
+d: @en_be agreeable or acceptable
+fs: 10 11
+hyper: verb.possession:@en_agree
+hypo: estar[2]
+sa: @en:verb.stative:suit[2]
+
+w: agregar
+d: @en_amount in the aggregate to
+fs: 11
+hypo: acontecer
+sa: @en:verb.stative:aggregate
+
+w: aguardar
+w: esperar
+d: estar em um lugar e antecipar ou esperar alguma coisa
+e: Eu tive que esperar na fila por uma hora para pegar os ingressos
+fs: 2 22
+hyper: verb.competition:estar_em_uma_emboscada
+hyper: @en_cool_one's_heels
+hyper: @en_stick_about
+sa: @en:verb.stative:wait
+
+w: aguardar[1]
+w: esperar[1]
+w: reter
+d: esperar antes de agir
+e: os cientístas esperaram para anunciar seus resultados até que eles repetissem o experimento
+fs: 2 8 33
+hyper: @en_hold_out
+hyper: adiar
+hypo: verb.social:agir
+sa: @en:verb.stative:hold_back
+
+w: aguentar[1]
+w: compreender[1]
+w: conter[3]
+w: incluir[1]
+w: possuir
+w: segurar
+w: ter
+d: @en_contain or hold; have within
+fs: 11
+hyper: @en_confine
+hyper: reter[2]
+hypo: incluir
+sa: @en:verb.stative:bear[14]
+vg: conter[5]
+
+w: albergar
+w: ficar
+w: permanecer
+w: restar
+d: @en_stay behind
+fs: 1 4
+hyper: @en_stick
+hyper: ficar[4]
+sa: @en:verb.stative:persist[1]
+
+w: alcançar
+w: encostar
+w: estender-se
+d: estender o máximo possível
+e: A cadeira não deve encostar na parede
+e: A luz do sol alcançou a parede
+e: Ele pode alcançar?
+fs: 4 11
+hyper: @en_reach_into
+hypo: estar[1]
+sa: @en:verb.stative:extend_to
+
+w: alojar
+w: morar
+d: @en_be a lodger; stay temporarily
+fs: 22
+hyper: @en_sleep_over
+hypo: povoar
+sa: @en:verb.stative:lodge[2]
+
+w: alongar
+w: prolongar
+w: sustentar
+d: aumentar ou prolongar no tempo ou espaço
+fs: 8 11
+hyper: verb.social:durar
+hypo: preservar
+sa: @en:verb.stative:keep_up
+
+w: alvorecer
+w: despontar
+w: raiar
+d: aparecer ou começar
+fs: 1
+hypo: começar[3]
+sa: @en:verb.stative:dawn[1]
+
+w: ameaçar
+w: arriscar
+w: imperilar
+w: perigar
+d: representar uma ameaça para; representar um perigo para
+fs: 10 11
+hypo: existir
+sa: @en:verb.stative:endanger
+
+w: amoldar
+w: amoldar-se
+w: conformar
+w: conformar-se
+d: ser semelhante, estar em consonância com
+fs: 1 4 27
+hyper: @en_scan
+sa: @en:verb.stative:conform[6]
+
+w: amolecer
+d: @en_give in, as to influence or pressure
+fs: 1 2
+hyper: @en_truckle
+sa: @en:verb.stative:relent
+
+w: amuar
+w: emburrar
+d: @en_be in a huff and display one's displeasure
+fs: 2
+entail: verb.emotion:ressentir
+hyper: verb.emotion:ficar_amuado
+sa: @en:verb.stative:brood
+
+w: aninhar
+w: nidificar
+w: ninhar
+d: @en_inhabit a nest, usually after building
+fs: 1
+hypo: povoar
+sa: @en:verb.stative:nest
+
+w: anteceder
+w: preceder
+d: @en_come before
+fs: 11
+hypo: jazer[2]
+sa: @en:verb.stative:precede[1]
+
+w: aparar
+d: @en_be in equilibrium during a flight
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:trim[5]
+vg: @en_trim
+
+w: aparecer
+w: assomar
+d: @en_come into view indistinctly, often threateningly
+fs: 1 4
+hypo: verb.perception:parecer[2]
+sa: @en:verb.stative:loom[2]
+
+w: aplicar
+w: valer
+d: ser pertinente ou relevante ou aplicável
+e: As mesmas leis se aplicam a você!
+e: As mesmas regras valem para todos
+e: Esta teoria vale para todos os números irracionais
+fs: 1 4
+hypo: concernir
+sa: @en:verb.stative:apply
+vg: @en_apply
+
+w: apresenta
+w: dispõe
+d: ter como uma característica
+e: O restaurante tem os mais famosos chefs na França.
+fs: 11
+hyper: verb.body:@en_wear
+hyper: verb.body:vestir[7]
+hyper: verb.competition:@en_carry[2]
+hyper: @en_abound
+hyper: @en_brim
+hyper: @en_bristle[1]
+hyper: @en_carry[1]
+hyper: @en_carry[3]
+hyper: @en_combine
+hyper: @en_involve
+hyper: @en_wear
+hyper: carregar
+hyper: constar
+hyper: dizer
+hyper: estrelar
+hyper: exalar
+hyper: portar[1]
+hyper: possuir[2]
+sa: @en:verb.stative:feature
+vg: verb.possession:fruir
+vg: verb.possession:ter[1]
+
+w: apresentar
+w: propor
+d: introduzir
+fs: 11
+hypo: representar[4]
+sa: @en:verb.stative:pose
+
+w: aprisionar
+d: ficar preso numa armadilha
+fs: 10 11
+hypo: @en_involve[1]
+sa: @en:verb.stative:entangle
+
+w: aproximar
+w: aproximar-se
+d: @en_be close or similar
+fs: 11
+hyper: beirar[1]
+hypo: assemelhar-se_a
+sa: @en:verb.stative:approximate
+
+w: aquartelar
+d: @en_provide housing for (military personnel)
+fs: 2 9
+hypo: @en_accommodate
+mt: noun.group:máquina_de_guerra
+sa: @en:verb.stative:billet
+
+w: arbitrar
+w: mediar
+d: ocupar uma posição intermediária ou no meio ou formar um elo de ligação ou fase entre dois outros
+fs: 1
+hypo: jazer[2]
+sa: @en:verb.stative:mediate
+
+w: arrebanhar
+d: manter, mudar ou dirigir animais
+fs: 8
+hyper: @en_wrangle
+hypo: @en_keep
+sa: @en:verb.stative:herd
+
+w: assemelhar
+d: @en_bear a physical resemblance to
+fs: 8 9 10 11
+hypo: assemelhar-se_a
+sa: @en:verb.stative:look_like
+
+w: assemelhar[1]
+w: assemelhar-se_a
+w: assemelhe-se
+w: parecer-se_com
+d: @en_appear like; be similar or bear a likeness to
+fs: 8 9 10 11
+hyper: @en_come_to_life
+hyper: @en_echo
+hyper: aproximar
+hyper: assemelhar
+hyper: copiar
+hyper: se_parece
+hypo: combinar
+sa: @en:verb.stative:resemble
+
+w: atapetar
+d: formar uma cobertura como um tapete
+fs: 11
+hypo: verb.contact:cobrir[2]
+sa: @en:verb.stative:carpet
+
+w: atirar-se
+w: erguer-se
+w: predominar
+d: @en_appear very large or occupy a commanding position
+fs: 1 4
+hypo: surgir[2]
+sa: @en:verb.stative:hulk
+
+w: atrair
+w: intrigar
+d: @en_cause to be interested or curious
+fs: 9 10
+hyper: verb.cognition:capturar
+hypo: interessar
+sa: @en:verb.stative:fascinate
+
+w: avançar
+w: exceder
+w: superar
+w: transcender
+d: @en_be superior or better than some standard
+fs: 8 11
+hypo: sobressair
+sa: @en:verb.stative:exceed
+
+w: bagunçar
+w: sujar
+d: @en_strew
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:litter
+
+w: bancar
+w: fornecer
+w: poder
+w: propiciar
+w: proporcionar
+d: ter os recursos financeiros para fazer alguma coisa ou comprar alguma coisa
+e: Nós não podemos pagar a faculdade dos nossos filhos
+e: Você pode comprar este carro?
+fs: 8
+sa: @en:verb.stative:afford
+
+w: bastar
+w: ser_suficiente
+d: @en_be sufficient; be adequate, either in quality or quantity
+fs: 1
+hyper: @en_bridge_over
+hyper: @en_go_a_long_way
+hyper: @en_go_around
+hyper: qualificar
+hyper: servir[2]
+hypo: cumprir
+sa: @en:verb.stative:suffice
+
+w: bater_a_bota
+w: morrer
+w: sucumbir
+d: @en_be fatally overwhelmed
+fs: 2 22
+hypo: verb.change:bater_as_botas
+sa: @en:verb.stative:succumb
+
+w: beirar[1]
+d: @en_come near or verge on, resemble, come nearer in quality, or character
+fs: 11
+hyper: convergir[1]
+hypo: aproximar
+sa: @en:verb.stative:approach
+
+w: bifurcar
+d: @en_split or divide into two
+fs: 1 4
+hypo: divergir
+sa: @en:verb.stative:bifurcate
+
+w: boiar
+d: @en_be dizzy or giddy
+fs: 2
+hypo: estar[2]
+sa: @en:verb.stative:swim[2]
+
+w: bordejar[1]
+w: ficar_perto
+w: morar_como_vizinho
+d: ser localizado perto ou adjacente a
+fs: 11
+hypo: verb.contact:@en_abut
+sa: @en:verb.stative:neighbor
+
+w: bordejar[2]
+w: ficar_perto[1]
+w: morar_como_vizinho[1]
+d: viver ou ser localizado como um vizinho
+fs: 2
+hypo: povoar
+sa: @en:verb.stative:neighbor[1]
+
+w: brilhar[1]
+d: ser claro e evidente
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:shine[4]
+
+w: brilhar[2]
+d: @en_touch or seem as if touching visually or audibly
+fs: 11
+hypo: verb.change:ocorrer
+sa: @en:verb.stative:shine
+
+w: caber
+w: ficar[1]
+w: servir
+d: conformar com algum formato ou tamanho
+fs: 5 6
+hyper: caber[1]
+hypo: estar[2]
+sa: @en:verb.stative:fit[3]
+
+w: caber[1]
+d: @en_be the right size or shape; fit correctly or as desired
+fs: 1
+hyper: @en_joint
+hyper: @en_tessellate
+hypo: caber
+sa: @en:verb.stative:fit[2]
+vg: combinar[2]
+
+w: caber_a
+w: pertencer
+w: ser_de
+w: tocar_a
+d: @en_be a part or adjunct
+fs: 9 10 11
+hyper: @en_inhere
+hyper: referir-se
+sa: @en:verb.stative:belong_to
+
+w: cair
+w: tombar
+d: @en_die, as in battle or in a hunt
+fs: 1 2 22
+hypo: verb.change:bater_as_botas
+sa: @en:verb.stative:fall
+vg: verb.possession:@en_fall[2]
+vg: verb.social:@en_fall[1]
+
+w: cair[1]
+d: @en_be due
+e: Pagamentos caem no primeiro dia do mes.
+fs: 4
+hypo: estar[2]
+sa: @en:verb.stative:fall[2]
+vg: verb.change:cair[2]
+
+w: cair[2]
+w: entrar
+w: estar
+w: vir[1]
+d: @en_come under, be classified or included
+e: Isso vem com um novo título
+fs: 4 22
+hypo: estar[2]
+sa: @en:verb.stative:come
+
+w: capitanear
+d: ser o primeiro ou principal membro de um grupo e ser excelente
+fs: 8 9
+hypo: estar[2]
+sa: @en:verb.stative:head_up
+vg: verb.motion:desbravar
+
+w: caracterizar
+w: caraterizar
+d: @en_be characteristic of
+fs: 10 11
+hyper: @en_individuate
+hyper: determinar
+hypo: verb.cognition:distinguir
+sa: @en:verb.stative:characterise[1]
+
+w: carecer
+w: faltar
+w: necessitar
+d: @en_be without
+fs: 8 11
+hyper: exceptuar
+hyper: precisar
+sa: @en:verb.stative:lack
+
+w: carecer[1]
+w: precisar
+d: @en_be without, lack; be deficient in
+fs: 8 11
+hypo: carecer
+sa: @en:verb.stative:want[1]
+
+w: carregar
+w: portar
+d: ter consigo mesmo
+fs: 8
+hypo: apresenta
+sa: @en:verb.stative:pack
+vg: @en_carry[2]
+
+w: cavalgar
+w: coincidir
+w: cruzar-se
+d: @en_coincide partially or wholly
+fs: 1 4 8
+hyper: compartilhar
+hypo: coincidir[1]
+sa: @en:verb.stative:overlap[3]
+
+w: centrar
+d: @en_center upon
+fs: 10 11
+hypo: concernir
+sa: @en:verb.stative:center
+
+w: classificar
+w: conter[4]
+w: incluir[2]
+w: subordinar
+w: subsumir
+d: @en_contain or include
+fs: 11
+hypo: incluir
+sa: @en:verb.stative:subsume
+
+w: coabitar
+w: conviver
+d: @en_share living quarters; usually said of people who are not married and live together as a couple
+fs: 2 22
+hyper: @en_miscegenate
+hypo: povoar
+sa: @en:verb.stative:cohabit
+
+w: coadjuvar
+w: coestrelar
+d: aparecer como  co-estrela em um show
+fs: 10
+hypo: estrelar
+sa: @en:verb.stative:co-star
+
+w: cobrir
+d: @en_form a blanket-like cover (over)
+fs: 11
+hypo: verb.contact:cobrir[2]
+sa: @en:verb.stative:blanket
+
+w: cobrir[1]
+w: sobrepor
+d: @en_extend over and cover a part of
+fs: 1 8
+hyper: @en_imbricate
+hypo: estender[1]
+sa: @en:verb.stative:overlap[1]
+
+w: cobrir_completamente
+d: formar uma capa impenetrável ao redor
+fs: 11
+hypo: verb.contact:cobrir[2]
+sa: @en:verb.stative:smother
+
+w: coexistir
+d: @en_exist together
+fs: 1 2
+hyper: coexistir[1]
+hyper: coincidir[1]
+hypo: existir
+sa: @en:verb.stative:coexist
+
+w: coexistir[1]
+d: @en_coexist peacefully, as of nations
+fs: 1 2
+hypo: coexistir
+sa: @en:verb.stative:coexist[1]
+
+w: coincidir[1]
+d: @en_go with, fall together
+fs: 1 4
+hyper: cavalgar
+hypo: coexistir
+sa: @en:verb.stative:co-occur
+
+w: colidir
+w: não_combinar
+d: ser ou entrar em conflito
+fs: 1 2 4 22
+hypo: @en_conflict
+sa: @en:verb.stative:clash
+
+w: comandar
+w: dominar
+w: mandar
+w: predominar[1]
+w: reinar
+d: @en_be larger in number, quantity, power, status or importance
+fs: 1 2 4 22
+hyper: @en_overarch
+hyper: @en_override
+hyper: preponderar
+sa: @en:verb.stative:dominate
+
+w: combinar ant discordar
+w: concordar
+w: corresponder
+d: @en_be compatible, similar or consistent; coincide in their characteristics
+fs: 1 4
+hyper: @en_adhere
+hyper: @en_align
+hyper: @en_answer[1]
+hyper: @en_consist[1]
+hyper: @en_duplicate
+hyper: @en_fit
+hyper: @en_homologize
+hyper: @en_look[1]
+hyper: @en_parallel[1]
+hyper: @en_pattern
+hyper: @en_square
+hyper: adaptar-se
+hyper: assemelhar-se_a
+hyper: combinar[1]
+hyper: compatibilizar
+hyper: confirmar
+hyper: correlatar_se
+hyper: rima
+hypo: equivaler
+sa: @en:verb.stative:agree
+vg: @en_check
+vg: compatibilizar
+
+w: combinar[1]
+d: @en_be the same
+fs: 1
+hypo: combinar
+sa: @en:verb.stative:coincide[1]
+
+w: combinar[2]
+d: @en_blend or harmonize
+fs: 1 4
+hypo: compatibilizar
+sa: @en:verb.stative:blend
+vg: caber[1]
+
+w: começar
+w: iniciar
+w: principiar
+d: @en_have a beginning characterized in some specified way
+fs: 4
+hypo: estar[2]
+sa: @en:verb.stative:begin[3]
+vg: verb.social:começar[1]
+vg: começar[1]
+vg: começar[3]
+
+w: começar[1]
+d: @en_be the first item or point, constitute the beginning or start, come first in a series
+fs: 11
+sa: @en:verb.stative:begin[2]
+vg: começar
+
+w: começar[2]
+d: @en_enter a particular state
+fs: 1
+hypo: começar[3]
+sa: @en:verb.stative:kick_in
+
+w: começar[3]
+w: iniciar[1]
+w: principiar[1]
+d: @en_have a beginning, in a temporal, spatial, or evaluative sense
+fs: 1 4 11
+hyper: verb.change:@en_break_out
+hyper: verb.change:@en_bud
+hyper: verb.change:@en_erupt
+hyper: @en_originate
+hyper: alvorecer
+hyper: começar[2]
+sa: @en:verb.stative:begin
+vg: começar
+vg: começar[4]
+
+w: começar[4]
+d: @en_have a beginning, of a temporal event
+fs: 4
+hypo: estar[2]
+sa: @en:verb.stative:begin[4]
+vg: verb.change:começar[4]
+vg: começar[3]
+
+w: comparar
+d: @en_be comparable
+fs: 1
+hyper: @en_go[2]
+hypo: estar[2]
+sa: @en:verb.stative:compare
+vg: verb.cognition:comparar
+
+w: compartilhar
+d: @en_have in common
+fs: 8 9 11 31
+hyper: @en_osculate[1]
+hyper: @en_partake
+hypo: cavalgar
+sa: @en:verb.stative:share
+
+w: compatibilizar
+w: concordar[1]
+w: estar_conforme_a
+w: estar_em_harmonia
+w: harmonizar
+d: @en_go together
+fs: 1 2 4
+hyper: combinar[2]
+hypo: combinar
+sa: @en:verb.stative:accord
+vg: combinar
+
+w: compensar
+d: @en_compensate for or counterbalance
+fs: 11
+hypo: equilibrar
+sa: @en:verb.stative:countervail
+
+w: compensar[1]
+d: @en_make up for
+fs: 11
+hyper: verb.social:contrabalancear
+hypo: equilibrar
+sa: @en:verb.stative:cancel
+
+w: compensar[2]
+w: equilibrar
+d: pôr em equilíbrio
+fs: 8 11
+hyper: verb.change:complementar
+hyper: @en_trim
+hyper: compensar
+hyper: compensar[1]
+hyper: contrabalançar
+hypo: verb.change:combinar[2]
+sa: @en:verb.stative:balance
+vg: verb.contact:equilibrar
+vg: equilibrar-se
+
+w: competir
+d: @en_be equal to in quality or ability
+fs: 9 11
+hypo: verb.competition:competir
+sa: @en:verb.stative:rival
+vg: verb.change:equiparar
+
+w: compor
+w: constituir
+w: enquadrar
+w: estabelecer
+d: @en_to compose or represent:"This wall forms the background of the stage setting"
+fs: 11
+hyper: @en_chelate
+hyper: adicionar[1]
+hypo: representar[4]
+sa: @en:verb.stative:form
+
+w: compor[1]
+d: formar a substância de
+fs: 11
+hypo: representar[4]
+sa: @en:verb.stative:compose
+
+w: concernir
+w: referir
+w: relacionar
+d: ser relevante para
+fs: 10 11
+hyper: afetar
+hyper: aplicar
+hyper: centrar
+hyper: interessar
+sa: @en:verb.stative:bear_on
+vg: verb.communication:fazer_alusã_oa
+
+w: conectar
+w: juntar
+w: ligar
+w: unir
+d: ser ou tornar-se juntado ou unido ou ligado
+fs: 1 2
+hyper: verb.social:sindicar-se[1]
+hyper: @en_articulate
+hyper: interconectar
+sa: @en:verb.stative:link_up
+
+w: confirmar
+w: sustentar[1]
+d: @en_support with evidence or authority or make more certain or confirm
+fs: 8 11
+hypo: combinar
+sa: @en:verb.stative:bear_out
+
+w: confrontar
+d: estar face a face com
+fs: 8 9
+hypo: @en_face
+sa: @en:verb.stative:confront
+
+w: conservar
+w: manter[1]
+w: reter[1]
+d: manter em um determinado estado, posição ou atividade;
+e: manter limpo
+fs: 5 20 21
+hyper: verb.change:@en_pressurise[1]
+hyper: @en_distance
+hyper: @en_hold_over[1]
+hyper: @en_housekeep
+hyper: @en_preserve
+hyper: conservar[1]
+hyper: preservar
+sa: @en:verb.stative:hold
+
+w: conservar[1]
+d: @en_keep constant through physical or chemical reactions or evolutionary change
+fs: 8 11
+hypo: conservar
+sa: @en:verb.stative:conserve
+
+w: consistir
+d: @en_be composed of
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:comprise[1]
+
+w: constar
+w: gabar-se
+d: @en_wear or display in an ostentatious or proud manner
+fs: 11
+hypo: apresenta
+sa: @en:verb.stative:boast
+
+w: contar
+w: valer[1]
+d: @en_remain in a certain state, position, or condition
+fs: 1 22
+hypo: prosseguir
+sa: @en:verb.stative:hold[1]
+
+w: contar[1]
+d: @en_put into a group
+fs: 20 21
+hypo: verb.cognition:classificar
+sa: @en:verb.stative:count[1]
+
+w: contar[2]
+w: importar
+w: pesar
+d: ter importância
+e: Isto não importa muito.
+fs: 1 34
+hyper: @en_weigh
+hypo: estar[2]
+sa: @en:verb.stative:count
+
+w: conter[5]
+d: @en_be capable of holding or containing
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:contain[14]
+vg: acomodar[1]
+vg: possuir
+
+w: continuar
+d: @en_do something repeatedly and showing no intention to stop
+fs: 8 11
+hypo: verb.social:agir
+sa: @en:verb.stative:persist_in
+vg: verb.social:durar
+
+w: continuar[1]
+w: permanecer[1]
+w: prosseguir
+w: seguir
+d: @en_continue a certain state, condition, or activity
+e: Continue trabalhando!
+fs: 33
+hyper: @en_run_on
+hyper: contar
+hyper: continuar[3]
+hypo: verb.social:agir
+sa: @en:verb.stative:go_along
+vg: continuar[2]
+vg: preservar
+
+w: continuar[2]
+d: @en_continue after an interruption
+fs: 1 2
+hypo: verb.social:agir
+sa: @en:verb.stative:continue[11]
+vg: prosseguir
+
+w: continuar[3]
+w: prosseguir[1]
+d: @en_continue undisturbed and without interference
+fs: 1
+hypo: prosseguir
+sa: @en:verb.stative:ride
+
+w: continuar[4]
+w: manter[2]
+w: preservar
+d: manter em estado inalterado
+e: Preservar a paz na família
+fs: 8 11
+hyper: verb.change:perseverar
+hyper: verb.change:prosseguir
+hyper: alongar
+hyper: mumificar
+hyper: perpetuar
+hypo: conservar
+sa: @en:verb.stative:carry_on
+vg: verb.motion:adiantar-se
+vg: prosseguir
+
+w: contrabalancear
+w: contrapesar
+d: comparar com o mesmo peso ou força
+fs: 9 11
+hyper: @en_counterpoise
+hypo: contrapor
+sa: @en:verb.stative:counterbalance
+
+w: contrabalancear[1]
+w: contrabalançar
+w: corrigir
+w: emparelhar
+d: ajustar para alguma finalidade
+fs: 11
+hyper: verb.social:@en_carry
+hyper: @en_compensate
+hypo: equilibrar
+sa: @en:verb.stative:compensate
+
+w: contrapor
+w: contrapor-se
+w: contrastar
+d: @en_to show differences when compared; be different
+fs: 1 4
+hyper: @en_conflict
+hyper: @en_foil
+hyper: contrabalancear
+hypo: ser_diferente
+sa: @en:verb.stative:contrast
+
+w: convergir[1]
+d: @en_approach a limit as the number of terms increases without limit
+fs: 1
+hypo: beirar[1]
+mt: noun.cognition:Matematica
+sa: @en:verb.stative:converge[1]
+
+w: copiar
+w: imitar
+d: @en_appear like, as in behavior or appearance
+fs: 9 11
+hyper: @en_follow_suit
+hyper: imitar[2]
+hyper: macaquear
+hypo: assemelhar-se_a
+sa: @en:verb.stative:imitate
+
+w: copiar[1]
+w: emular
+w: imitar[1]
+d: @en_strive to equal or match, especially by imitating
+fs: 8 9
+hypo: verb.creation:copiar
+sa: @en:verb.stative:emulate
+
+w: coroar
+d: @en_form the topmost part of
+fs: 11
+hypo: encabeçar
+sa: @en:verb.stative:crown
+
+w: correlatar_se
+d: @en_to bear a reciprocal or mutual relation
+fs: 1
+hypo: combinar
+sa: @en:verb.stative:correlate
+vg: verb.cognition:correlacionar
+
+w: corresponder[1]
+w: ficar_no_lugar
+w: representar
+d: @en_take the place of or be parallel or equivalent to
+fs: 11
+hypo: equivaler
+sa: @en:verb.stative:stand_for
+
+w: cumprir
+w: realizar
+w: satisfazer
+d: @en_meet the requirements or expectations of
+fs: 8 11
+hyper: @en_cover[1]
+hyper: bastar
+hypo: @en_fit
+sa: @en:verb.stative:fulfil
+
+w: custar
+d: requere a perda, sofrimento ou sacrifício
+e: Este erro custou o emprego dele.
+fs: 14
+hypo: demandar
+sa: @en:verb.stative:cost[1]
+
+w: custar[1]
+w: valer[2]
+d: @en_be priced at
+fs: 11
+hyper: @en_knock_back
+hypo: estar[2]
+sa: @en:verb.stative:cost
+
+w: dar_por_empréstimo
+d: @en_have certain characteristics of qualities for something; be open or vulnerable to
+fs: 20 21
+hypo: estar[2]
+sa: @en:verb.stative:lend
+
+w: dececionar
+d: @en_fail to satisfy, as of expectations, for example
+fs: 11
+sa: @en:verb.stative:fall_short_of
+
+w: defender
+d: @en_maintain in safety from injury, harm, or danger
+fs: 9
+hypo: verb.competition:defender
+sa: @en:verb.stative:keep[2]
+vg: verb.possession:@en_keep[1]
+
+w: defrontar
+w: encarar
+d: estar oposto, face a face
+fs: 4 22
+hypo: estar[1]
+sa: @en:verb.stative:face[2]
+vg: @en_face
+
+w: deixar[1]
+w: fornecer[1]
+w: permitir[2]
+w: proporcionar[1]
+d: @en_make a possibility or provide opportunity for; permit to be attainable or cause to remain
+fs: 8 11
+hypo: verb.possession:dar[17]
+sa: @en:verb.stative:allow
+vg: admitir[1]
+
+w: deixar[2]
+d: @en_have as a result or residue
+fs: 11
+hyper: levar[1]
+hypo: verb.creation:produzir
+sa: @en:verb.stative:leave
+vg: @en_leave
+vg: @en_leave[1]
+
+w: deixar_de
+w: evitar
+d: @en_abstain from doing; always used with a negative
+fs: 2 33
+hypo: resistir[4]
+sa: @en:verb.stative:help_oneself
+
+w: delimitar
+d: @en_be opposite to; of angles and sides, in geometry
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:subtend
+
+w: delinear
+d: @en_show the form or outline of
+fs: 11
+hypo: verb.perception:apresentar
+sa: @en:verb.stative:define[3]
+
+w: demandar
+w: precisar[1]
+w: requerer
+d: @en_require as useful, just, or proper
+fs: 11
+hyper: verb.communication:custar
+hyper: @en_compel
+hyper: @en_cry_for
+hyper: @en_draw
+hyper: @en_govern
+hyper: custar
+sa: @en:verb.stative:ask
+vg: verb.communication:custar
+
+w: demostrar
+w: fazer_prova_de
+w: provar
+w: resultar
+d: @en_be shown or be found to be
+fs: 6 7 28 34
+hyper: redundar
+hypo: estar[2]
+sa: @en:verb.stative:prove
+
+w: depender
+d: @en_be dependent on, as for support or maintenance
+fs: 8 9
+sa: @en:verb.stative:depend_on[1]
+
+w: depender[1]
+d: @en_be contingent on
+fs: 10 11
+hyper: @en_build_on
+sa: @en:verb.stative:depend_on
+
+w: depender[2]
+d: @en_put trust in with confidence
+fs: 8 9
+sa: @en:verb.stative:rely_on
+
+w: depender[3]
+d: @en_be contingent upon (something that is elided)
+fs: 1
+hyper: @en_hang_by_a_hair
+hypo: estar[2]
+sa: @en:verb.stative:depend
+
+w: dependurar
+w: estar_pendente
+d: @en_be exhibited
+fs: 1 2 4 22
+sa: @en:verb.stative:hang[1]
+vg: verb.contact:pendurar[2]
+
+w: derivar
+w: resultar[1]
+d: ser o resultado de
+fs: 11
+hypo: redundar
+sa: @en:verb.stative:be_due
+
+w: derivar[1]
+w: descender
+w: provir
+w: vir[2]
+d: vir de, ter origem em; ser conectado por uma relação de sangue, por exemplo
+fs: 4 22
+sa: @en:verb.stative:derive
+vg: verb.change:vir_de
+vg: @en_hail
+
+w: desencontrar
+w: discordar
+d: ser diferente um do outro
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:disaccord
+
+w: desequilibrar
+d: tirar do  equilíbrio
+fs: 8 11
+sa: @en:verb.stative:unbalance
+
+w: desmentir
+d: @en_be in contradiction with
+fs: 11
+hypo: desviar
+sa: @en:verb.stative:belie
+
+w: desperdiçar
+d: @en_waste time; spend one's time idly or inefficiently
+fs: 2
+hypo: verb.possession:despender
+sa: @en:verb.stative:piddle
+
+w: destruir
+w: ir_contra
+w: long-faced
+d: @en_fail to agree with; be in violation of; as of rules or patterns
+fs: 8 11
+hyper: @en_fly_in_the_face_of
+sa: @en:verb.stative:break
+
+w: desvencilhar
+d: livrar de envolvimento ou emaranhamento
+fs: 9 10
+hypo: verb.social:liberar[2]
+sa: @en:verb.stative:disembroil
+
+w: desviar
+w: variar
+d: estar em desacordo com; estar fora de sintonia com
+fs: 1 4
+hyper: @en_aberrate
+hyper: @en_aberrate[1]
+hyper: desmentir
+hypo: ser_diferente
+sa: @en:verb.stative:depart
+
+w: determinar
+d: @en_determine the nature of
+fs: 10 11
+hypo: caracterizar
+sa: @en:verb.stative:define[1]
+
+w: dever
+d: @en_be indebted to, in an abstract or intellectual sense
+fs: 15 21
+hypo: @en_build_on
+sa: @en:verb.stative:owe
+
+w: divergir
+d: @en_extend in a different direction
+fs: 1
+hyper: @en_divaricate
+hyper: bifurcar
+sa: @en:verb.stative:diverge
+
+w: dividir
+w: separar
+d: agir como uma barreira entre; ficar entre
+fs: 11
+sa: @en:verb.stative:divide
+
+w: dizer
+w: falar
+d: ter ou conter um determinado texto ou forma
+fs: 6 11
+hypo: apresenta
+sa: @en:verb.stative:read
+vg: verb.cognition:ler[1]
+
+w: dizer_respeito_a
+w: preocupar
+w: ter_relação_com
+d: @en_be on the mind of
+fs: 9 10
+sa: @en:verb.stative:worry
+
+w: domiciliar
+w: habitar
+w: morar[1]
+d: @en_make one's home in a particular place or community
+fs: 22
+hyper: rusticar
+hypo: povoar
+sa: @en:verb.stative:domicile
+
+w: dominar[1]
+d: estar no controle
+fs: 1 2
+hyper: @en_overbear
+hyper: possuir[1]
+hypo: verb.social:influenciar
+sa: @en:verb.stative:dominate[1]
+
+w: durar
+d: @en_persist for a specified period of time
+fs: 11
+hyper: @en_drag_on
+hyper: @en_run_for
+hyper: usar
+hypo: medir
+sa: @en:verb.stative:last
+
+w: duvidar
+w: gaguejar
+w: hesitar
+w: stötön
+w: vacilar
+d: @en_pause or hold back in uncertainty or unwillingness
+fs: 2 28 29
+entail: verb.cognition:duvidar
+hyper: @en_boggle
+hyper: esmorecer
+hyper: gaguejar[1]
+hyper: vacilar[2]
+hyper: voltear
+sa: @en:verb.stative:hesitate
+
+w: eclipsar
+d: @en_be greater in significance than
+fs: 11
+hypo: @en_brood
+sa: @en:verb.stative:eclipse
+
+w: emergir
+w: jorrar_de_uma_fonte
+d: @en_come up (as of feelings and thoughts, or other ephemeral things)
+fs: 1 4
+hypo: originar-se
+sa: @en:verb.stative:well_up
+
+w: encabeçar
+d: @en_be in the front of or on top of
+fs: 8 11
+hyper: @en_surmount
+hyper: coroar
+hypo: jazer[2]
+sa: @en:verb.stative:head
+
+w: encarnar
+w: incorporar
+w: personificar
+w: representar[1]
+d: @en_represent, as of a character on stage
+fs: 8 11
+hyper: ilustrar
+hyper: personificar[2]
+hypo: verb.communication:simbolizar
+sa: @en:verb.stative:embody
+
+w: encher
+w: ocupar
+d: @en_occupy the whole of
+fs: 11
+hyper: @en_crowd
+hyper: @en_take_up
+hypo: estar[1]
+sa: @en:verb.stative:fill
+
+w: enclausurar
+d: @en_surround with a cloister, as of a garden
+fs: 8 11
+hypo: verb.contact:contornar
+sa: @en:verb.stative:cloister
+
+w: encobrir
+d: @en_form a cover like a shroud
+fs: 11
+hypo: verb.contact:cobrir[2]
+sa: @en:verb.stative:shroud[2]
+
+w: encontrar[1]
+w: receber
+d: encontrar uma reação
+fs: 8 11
+hypo: verb.change:experienciar
+sa: @en:verb.stative:meet
+
+w: encontrar-se
+w: ocorrer
+d: @en_to be found to exist
+fs: 4
+hyper: verb.contact:@en_geminate
+hyper: @en_abound_in
+hyper: @en_collocate
+hyper: @en_run[4]
+hypo: verb.change:aparecer[5]
+sa: @en:verb.stative:occur[3]
+
+w: enfileirar
+d: @en_be in line with; form a line along
+fs: 11
+hyper: @en_rim
+hypo: jazer[2]
+sa: @en:verb.stative:line
+
+w: enfurecer-se
+d: @en_be violent; as of fires and storms
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:rage
+
+w: enquadrar[1]
+d: @en_enclose in a frame, as of a picture
+fs: 8
+hypo: @en_confine
+sa: @en:verb.stative:frame
+
+w: enredar
+w: entranhar
+d: @en_impose, involve, or imply as a necessary accompaniment or result
+fs: 11
+hypo: levar[1]
+sa: @en:verb.stative:entail
+
+w: entrar[1]
+w: figurar
+d: ser ou desempenhar um papel de ou em
+fs: 4 22
+hypo: estar[2]
+sa: @en:verb.stative:enter
+
+w: envolver
+d: @en_bring into intimate and incriminating connection
+fs: 8 9 10 11
+hypo: afetar
+sa: @en:verb.stative:implicate[1]
+
+w: enxamear
+w: formigar
+w: pulular
+d: @en_be teeming, be abuzz
+fs: 4
+hyper: @en_crawl
+hypo: @en_buzz
+sa: @en:verb.stative:pullulate
+
+w: equacionar
+d: @en_be equivalent or parallel, in mathematics
+fs: 4
+hypo: equivaler
+sa: @en:verb.stative:equate
+
+w: equilibrar-se
+d: @en_be in equilibrium
+fs: 1 2
+hypo: estar[2]
+sa: @en:verb.stative:balance[1]
+vg: equilibrar
+
+w: equivaler
+w: igualar
+d: @en_be identical or equivalent to
+fs: 9 11
+hyper: @en_translate[1]
+hyper: combinar
+hyper: equacionar
+hyper: ficar_no_lugar
+sa: @en:verb.stative:equal
+
+w: errar_o_golpe
+w: sentir_saudades
+d: @en_be absent
+fs: 1 2
+sa: @en:verb.stative:miss[2]
+
+w: escancarar
+d: ser muito aberto
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:gape
+
+w: escapar
+d: @en_be incomprehensible to; escape understanding by
+fs: 10
+hyper: recusar[1]
+hypo: verb.cognition:ater
+sa: @en:verb.stative:elude
+
+w: escrúpulo
+d: @en_hesitate on moral grounds
+fs: 2
+hypo: vacilar[1]
+sa: @en:verb.stative:scruple
+
+w: esmorecer
+w: fraquejar
+d: estar inseguro ou fraco
+fs: 1 2
+hypo: duvidar
+sa: @en:verb.stative:falter
+
+w: especificar
+d: @en_determine the essential quality of
+fs: 11
+hyper: verb.cognition:determinar[2]
+hyper: @en_redefine
+hypo: estar[2]
+sa: @en:verb.stative:define
+
+w: espreguiçar-se
+w: esticar-se
+d: @en_occupy a large, elongated area
+fs: 4
+hypo: estar[1]
+sa: @en:verb.stative:stretch
+
+w: espreitar
+d: @en_lie in wait, lie in ambush, behave in a sneaky and secretive manner
+fs: 22
+hypo: verb.perception:acobertar
+sa: @en:verb.stative:skulk
+
+w: espreitar[1]
+d: @en_loiter about, with no apparent aim
+fs: 2 22
+hypo: ficar[6]
+sa: @en:verb.stative:lurch
+
+w: estabelecer[1]
+w: explicar
+d: @en_be the reason or explanation for
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:account_for
+
+w: estar[1]
+d: @en_occupy a certain position or area; be somewhere
+fs: 1 22
+hyper: @en_center_on
+hyper: @en_come[2]
+hyper: @en_extend
+hyper: @en_follow[1]
+hyper: @en_sit
+hyper: afastar
+hyper: alcançar
+hyper: defrontar
+hyper: encher
+hyper: espreguiçar-se
+hyper: estar_presente_em
+hyper: estender
+hyper: estender[1]
+hyper: habitar[1]
+hyper: ir[1]
+hyper: ir[2]
+hyper: jazer[1]
+hyper: jazer[2]
+hyper: montar
+hyper: povoar
+hyper: sentar-se
+sa: @en:verb.stative:be[5]
+
+w: estar[2]
+w: ser[1]
+d: (cópula, usada com um adjetivo ou um substantivo predicativo)
+e: GLOSS_: ter a qualidade de ser
+e: Isso não é uma boa resposta
+e: Pedro é rico.
+fs: 4 6 7 8 9 22
+hyper: verb.body:@en_feel
+hyper: verb.body:aparentar
+hyper: verb.body:doer[1]
+hyper: verb.body:estar_bem
+hyper: verb.body:padecer[1]
+hyper: verb.change:@en_coruscate
+hyper: verb.change:continuar
+hyper: verb.change:continuar[2]
+hyper: verb.cognition:colocar-se
+hyper: verb.cognition:enrolar
+hyper: verb.competition:@en_point
+hyper: verb.consumption:requerer
+hyper: verb.contact:@en_cut[3]
+hyper: verb.contact:@en_rest[2]
+hyper: verb.contact:embalar[3]
+hyper: verb.emotion:@en_moon_about
+hyper: verb.emotion:estar_enraivecido
+hyper: verb.perception:parecer[2]
+hyper: verb.perception:ter_aparência_de
+hyper: verb.possession:cobrir
+hyper: verb.possession:dever
+hyper: verb.possession:pertencer
+hyper: verb.social:representar[1]
+hyper: @en_accept
+hyper: @en_account
+hyper: @en_act
+hyper: @en_answer
+hyper: @en_bake
+hyper: @en_breathe
+hyper: @en_buy
+hyper: @en_buzz
+hyper: @en_clean
+hyper: @en_cohere
+hyper: @en_come_in_for
+hyper: @en_come_in_handy
+hyper: @en_connect
+hyper: @en_consist
+hyper: @en_contain
+hyper: @en_count
+hyper: @en_curve
+hyper: @en_cut_across
+hyper: @en_distribute
+hyper: @en_diverge
+hyper: @en_draw[1]
+hyper: @en_encounter
+hyper: @en_go
+hyper: @en_hail
+hyper: @en_hang
+hyper: @en_hoodoo
+hyper: @en_impend
+hyper: @en_iridesce
+hyper: @en_jumble
+hyper: @en_kill
+hyper: @en_let_go
+hyper: @en_lubricate
+hyper: @en_make[2]
+hyper: @en_osculate
+hyper: @en_press
+hyper: @en_promise
+hyper: @en_put_out
+hyper: @en_range[1]
+hyper: @en_rate
+hyper: @en_retard
+hyper: @en_seem
+hyper: @en_sell
+hyper: @en_sell[1]
+hyper: @en_sell[2]
+hyper: @en_stagnate
+hyper: @en_stagnate[1]
+hyper: @en_stand[2]
+hyper: @en_stand[3]
+hyper: @en_stink
+hyper: @en_suck
+hyper: @en_swing
+hyper: @en_test
+hyper: @en_translate
+hyper: @en_transplant
+hyper: @en_work
+hyper: abrilhantar
+hyper: abundar
+hyper: adicionar
+hyper: agradar
+hyper: aparar
+hyper: bagunçar
+hyper: boiar
+hyper: brilhar[1]
+hyper: caber
+hyper: cair[1]
+hyper: capitanear
+hyper: começar
+hyper: começar[4]
+hyper: comparar
+hyper: consistir
+hyper: conter[5]
+hyper: custar[1]
+hyper: dar_por_empréstimo
+hyper: delimitar
+hyper: demostrar
+hyper: depender[3]
+hyper: desencontrar
+hyper: embelezar
+hyper: enfurecer-se
+hyper: entrar
+hyper: equilibrar-se
+hyper: escancarar
+hyper: especificar
+hyper: estar_agachado
+hyper: estar_com_o_cio
+hyper: estar_inclinado_a
+hyper: explicar
+hyper: fazer_parte
+hyper: fazer_sentido
+hyper: ficar[3]
+hyper: ficar[6]
+hyper: ficar_junto
+hyper: figurar
+hyper: findar
+hyper: gravitar[1]
+hyper: grudar
+hyper: importar
+hyper: inter-relacionar
+hyper: jazer
+hyper: lavar
+hyper: medir
+hyper: merecer
+hyper: nadar
+hyper: objetar
+hyper: pagar
+hyper: pertencer[3]
+hyper: pertencer[4]
+hyper: quedar
+hyper: reconhecer
+hyper: representar[5]
+hyper: ser_melhor
+hyper: sobrar
+hyper: subjazer[1]
+hyper: ter[3]
+sa: @en:verb.stative:be[3]
+
+w: estar[3]
+w: jazer
+d: ser e permanecer em um estado ou condição especial
+fs: 6 7
+hypo: estar[2]
+sa: @en:verb.stative:lie[3]
+
+w: estar[4]
+w: ficar[2]
+d: @en_to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form
+fs: 9
+hypo: verb.change:continuar
+sa: @en:verb.stative:be[13]
+
+w: estar_agachado
+w: estar_de_cócoras
+d: @en_be close to the earth, or be disproportionately wide
+fs: 1 8
+hypo: estar[2]
+sa: @en:verb.stative:squat[1]
+
+w: estar_com_o_cio
+d: @en_be in a state of sexual excitement; of male mammals
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:rut
+
+w: estar_inclinado_a
+w: inclinar-se
+w: tender
+d: @en_have a tendency or disposition to do or be something; be inclined
+fs: 28
+hyper: @en_take_kindly_to
+hyper: gravitar
+hyper: sofrer
+hypo: estar[2]
+sa: @en:verb.stative:be_given
+
+w: estar_parado
+w: ficar_parado
+d: permanecer inativo ou imóvel
+fs: 1
+hypo: verb.change:continuar
+sa: @en:verb.stative:stand[6]
+
+w: estar_presente_em
+w: ir_a
+w: ir_ver
+w: participar_em
+d: @en_be present at (meetings, church services, university), etc.
+fs: 8
+hyper: @en_sit_in
+hyper: @en_worship
+hypo: estar[1]
+mt: noun.act:serviço[8]
+sa: @en:verb.stative:attend
+
+w: estender
+w: ir
+w: levar
+d: @en_stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+fs: 4
+hyper: @en_come
+hyper: @en_go_deep
+hyper: irradiar
+hypo: estar[1]
+sa: @en:verb.stative:go
+vg: @en_range[1]
+
+w: estender[1]
+d: @en_span an interval of distance, space or time
+fs: 11
+hyper: @en_constellate
+hyper: @en_overspread
+hyper: @en_ridge
+hyper: @en_sweep
+hyper: abranger[1]
+hyper: sobrepor
+hypo: estar[1]
+sa: @en:verb.stative:continue[6]
+vg: verb.competition:@en_cover
+
+w: estrelar
+w: protagonizar
+d: @en_feature as the star
+fs: 10
+hyper: coadjuvar
+hypo: apresenta
+sa: @en:verb.stative:star
+
+w: eternizar
+d: fazer continuar indefinidamente
+fs: 8
+hypo: perpetuar
+sa: @en:verb.stative:eternize
+
+w: exalar
+d: @en_have as a by-product
+fs: 8 11
+hypo: apresenta
+sa: @en:verb.stative:give_off
+
+w: exceder[1]
+w: sobressair
+d: distinguir-se
+fs: 1 2
+hyper: @en_excel_at
+hyper: @en_outrank
+hyper: avançar
+sa: @en:verb.stative:excel
+
+w: exceder[2]
+w: transcender[1]
+d: @en_be greater in scope or size than some standard
+fs: 11
+hyper: @en_overgrow
+sa: @en:verb.stative:transcend
+
+w: exceder_em_números
+w: ser_mais_numeroso_que
+d: @en_be larger in number
+fs: 8 9 11
+hypo: adicionar
+sa: @en:verb.stative:outnumber
+
+w: exceptuar
+w: excluir
+d: @en_lack or fail to include
+fs: 8 11
+hypo: carecer
+sa: @en:verb.stative:exclude
+
+w: excluir[1]
+d: @en_make impossible, especially beforehand
+fs: 11
+hypo: @en_eliminate
+sa: @en:verb.stative:close_out
+
+w: exibir
+d: @en_show an attribute, property, knowledge, or skill
+fs: 11
+hyper: @en_phosphoresce
+hypo: possuir[2]
+sa: @en:verb.stative:exhibit
+
+w: existir
+w: ser[2]
+d: @en_have an existence, be extant
+fs: 1 2 22
+hyper: verb.change:@en_come[1]
+hyper: @en_distribute[2]
+hyper: @en_flow
+hyper: @en_indwell
+hyper: @en_kick_about
+hyper: @en_preexist
+hyper: ameaçar
+hyper: coexistir
+hyper: existir[1]
+hyper: habitar[2]
+hyper: obter
+sa: @en:verb.stative:be
+
+w: existir[1]
+d: @en_originate (in)
+fs: 4
+hypo: existir
+sa: @en:verb.stative:consist
+
+w: expirar
+w: vencer
+d: perder a validade
+fs: 1
+hypo: interromper
+sa: @en:verb.stative:expire
+
+w: faltar[1]
+w: perder
+d: deixar de participar de um evento ou atividade
+fs: 8
+hyper: @en_cut
+hypo: verb.social:falhar
+sa: @en:verb.stative:miss[1]
+
+w: fazer
+d: @en_add up to
+fs: 11
+hypo: adicionar
+mt: noun.cognition:Aritmética
+sa: @en:verb.stative:make[12]
+vg: verb.social:@en_make[1]
+vg: @en_make
+
+w: fazer[1]
+d: @en_constitute the essence of
+fs: 10
+hypo: representar[4]
+sa: @en:verb.stative:make[15]
+
+w: fazer_companhia
+d: @en_be a companion to somebody
+fs: 9 10
+hypo: verb.social:associar
+sa: @en:verb.stative:companion
+
+w: fazer_parte
+w: pertencer[1]
+d: @en_be suitable or acceptable
+fs: 1 2 4 22
+hypo: estar[2]
+sa: @en:verb.stative:belong[2]
+
+w: fazer_passar
+d: @en_pass time in a specific way
+fs: 8
+hyper: verb.competition:servir[1]
+hyper: verb.social:visitar_uma_favela_ou_bairro_pobre
+hyper: @en_weekend
+hyper: invernar
+hyper: passar
+hyper: pegar
+hyper: peregrinar
+hyper: tirar_férias
+hyper: veranear
+sa: @en:verb.stative:pass
+
+w: fazer_sentido
+d: @en_be reasonable or logical or comprehensible
+fs: 1 34
+hypo: estar[2]
+sa: @en:verb.stative:add_up
+
+w: ficar[3]
+d: ser ou continuar a ser em uma determinada condição
+e: As crianças ficaram com fome naquele dia.
+fs: 6 7
+hypo: estar[2]
+sa: @en:verb.stative:go[7]
+
+w: ficar[4]
+w: permanecer[2]
+d: @en_remain present although waning or gradually dying
+fs: 1 4
+hypo: albergar
+sa: @en:verb.stative:linger[2]
+
+w: ficar[5]
+w: sobrar
+d: @en_be left; of persons, questions, problems, results, evidence, etc.
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:remain[5]
+
+w: ficar[6]
+w: permanecer[3]
+d: @en_be about
+fs: 2 22
+hyper: espreitar[1]
+hypo: estar[2]
+sa: @en:verb.stative:footle
+
+w: ficar[7]
+w: permanecer[4]
+w: quedar
+d: @en_continue in a place, position, or situation
+fs: 2 22
+hyper: @en_abide
+hyper: @en_hold_over
+hypo: estar[2]
+sa: @en:verb.stative:stay_on
+
+w: ficar_de_fora
+w: não_participar
+d: @en_not participate in (an activity, such as a dance or a sports event)
+fs: 8
+hypo: resistir[4]
+mt: noun.act:esporte[1]
+sa: @en:verb.stative:sit_out
+
+w: ficar_junto
+d: ser leal a
+fs: 8 9
+hypo: estar[2]
+sa: @en:verb.stative:stick
+
+w: ficar_parado[1]
+d: @en_cause to stagnate
+fs: 11
+hypo: verb.change:alterar[3]
+sa: @en:verb.stative:stagnate[2]
+vg: @en_stagnate
+
+w: flanquear
+w: ladear
+d: estar  localizado ao lado de alguma coisa ou alguém
+fs: 9 10 11
+hypo: jazer[2]
+sa: @en:verb.stative:flank
+
+w: funcionar
+d: @en_be received or accepted or interpreted in a specific way
+fs: 2
+sa: @en:verb.stative:play
+
+w: gaguejar[1]
+w: stötön[1]
+d: @en_delay
+fs: 8
+hypo: duvidar
+sa: @en:verb.stative:dwell_on
+
+w: gastar
+w: gastar_mal
+d: @en_spend time badly or unwisely
+fs: 8
+hypo: verb.possession:despender
+sa: @en:verb.stative:misspend
+
+w: gravitar
+d: @en_move toward
+fs: 4
+hypo: estar_inclinado_a
+sa: @en:verb.stative:gravitate[1]
+
+w: gravitar[1]
+d: @en_be attracted to
+fs: 4 22
+hypo: estar[2]
+sa: @en:verb.stative:gravitate
+
+w: grudar
+d: ser ou tornar-se fixo
+fs: 1
+hypo: estar[2]
+sa: @en:verb.stative:stick[7]
+
+w: habitar[1]
+d: @en_be present in
+fs: 8
+hyper: infestar
+hyper: invadir
+hypo: estar[1]
+sa: @en:verb.stative:inhabit[2]
+
+w: habitar[2]
+d: @en_exist or be situated within
+fs: 11
+hypo: existir
+sa: @en:verb.stative:dwell[3]
+
+w: habitar[3]
+w: morar[2]
+w: povoar
+w: viver
+d: @en_inhabit or live in; be an inhabitant of
+fs: 22
+hyper: verb.social:@en_tenant
+hyper: @en_people
+hyper: acampar
+hyper: alojar
+hyper: aninhar
+hyper: bordejar[2]
+hyper: coabitar
+hyper: domiciliar
+hyper: hospedar_se
+hyper: residir
+hyper: sobrepovoar
+hypo: estar[1]
+sa: @en:verb.stative:dwell
+
+w: haver
+w: sobreviver
+w: subsistir
+d: @en_support oneself
+fs: 1 2 13 22
+hyper: @en_freewheel
+hyper: respirar
+sa: @en:verb.stative:subsist
+vg: perseverar
+
+w: hospedar_se
+d: @en_live and take one's meals at or in
+fs: 22
+hypo: povoar
+sa: @en:verb.stative:board
+
+w: ilustrar
+w: representar[2]
+d: @en_be characteristic of
+fs: 10 11
+hypo: encarnar
+sa: @en:verb.stative:exemplify
+
+w: imitar[2]
+d: @en_imitate the function of (another system), as by modifying the hardware or the software
+fs: 11
+hypo: copiar
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.stative:emulate[1]
+
+w: imitar[3]
+w: macaquear
+d: @en_imitate uncritically and in every aspect
+fs: 9 11
+hypo: copiar
+sa: @en:verb.stative:ape
+
+w: implicar
+d: @en_be necessarily associated with or result in or involve
+fs: 11
+hypo: @en_involve
+sa: @en:verb.stative:carry[2]
+vg: @en_carry[1]
+
+w: incorrer
+d: @en_make oneself subject to; bring upon oneself; become liable to
+fs: 8
+hyper: @en_run[3]
+hypo: verb.perception:sujeitar
+sa: @en:verb.stative:incur
+
+w: incriminar
+d: @en_suggest that someone is guilty
+fs: 10
+hypo: verb.communication:evocar
+sa: @en:verb.stative:incriminate
+
+w: infestar
+d: @en_live on or in a host, as of parasites
+fs: 4
+hypo: habitar[1]
+sa: @en:verb.stative:infest
+
+w: infestar[1]
+w: invadir
+d: @en_occupy in large numbers or live on a host
+fs: 4 11
+hypo: habitar[1]
+sa: @en:verb.stative:invade
+
+w: inter-relacionar
+w: relacionar[1]
+d: estar em um relacionamento com
+fs: 1 2
+hyper: verb.communication:@en_predicate[1]
+hyper: verb.social:tutelar[1]
+hyper: @en_tie_in
+hypo: estar[2]
+sa: @en:verb.stative:interrelate
+vg: verb.cognition:inter-relacionar
+
+w: interconectar
+d: ser entrelaçado ou interligado
+fs: 1
+hyper: @en_intercommunicate
+hypo: conectar
+sa: @en:verb.stative:complect
+
+w: interessar
+d: @en_be of importance or consequence
+fs: 10 11
+hyper: atrair
+hypo: concernir
+sa: @en:verb.stative:interest
+
+w: interromper
+d: @en_come to or be at an end
+fs: 1
+hyper: @en_fizzle
+hyper: @en_leave_off
+hyper: expirar
+hypo: cessar
+sa: @en:verb.stative:discontinue[1]
+
+w: intervir
+d: @en_be placed or located between other things or extend between spaces and events
+fs: 1 4
+hypo: jazer[2]
+sa: @en:verb.stative:intervene
+
+w: invernar
+d: @en_spend the winter
+fs: 2 22
+hypo: fazer_passar
+sa: @en:verb.stative:overwinter
+
+w: ir[1]
+w: pertencer[2]
+d: estar no lugar certo ou situação certa
+fs: 4 22
+hypo: estar[1]
+sa: @en:verb.stative:belong[3]
+
+w: ir[2]
+d: @en_lead, extend, or afford access
+fs: 4
+hypo: estar[1]
+sa: @en:verb.stative:go[8]
+
+w: irradiar
+w: irradiar-se
+w: radiar
+d: @en_extend or spread outward from a center or focus or inward towards a center
+fs: 1 8
+hypo: estender
+sa: @en:verb.stative:radiate
+
+w: jazer[1]
+w: restar[1]
+d: @en_have a place in relation to something else
+fs: 11
+hypo: estar[1]
+sa: @en:verb.stative:rest
+vg: jazer[2]
+
+w: jazer[2]
+d: @en_be located or situated somewhere; occupy a certain position
+fs: 1 4
+hyper: @en_back
+hyper: @en_cap
+hyper: @en_command
+hyper: @en_face
+hyper: @en_focalise
+hyper: @en_lap
+hyper: @en_look_across
+hyper: @en_nestle
+hyper: @en_orient
+hyper: @en_ride[2]
+hyper: @en_slant
+hyper: @en_top
+hyper: anteceder
+hyper: arbitrar
+hyper: encabeçar
+hyper: enfileirar
+hyper: flanquear
+hyper: intervir
+hyper: subjazer
+hypo: estar[1]
+sa: @en:verb.stative:lie
+vg: jazer[1]
+
+w: lavar
+w: lavar-se
+d: Ser capaz de ser lavado
+e: Este material se lava?
+e: GLOSS_: ser capaz de ser lavado
+fs: 1 6
+hypo: estar[2]
+sa: @en:verb.stative:wash
+vg: verb.contact:lavar[2]
+
+w: levar[1]
+d: @en_tend to or result in
+fs: 4
+hyper: @en_necessitate
+hyper: enredar
+hypo: deixar[2]
+sa: @en:verb.stative:lead[12]
+
+w: liderar
+d: @en_be ahead of others; be the first
+fs: 2 22
+entail: verb.competition:competir
+sa: @en:verb.stative:lead[1]
+
+w: ligar[1]
+d: @en_connect or reduce the distance between
+fs: 11
+hypo: verb.contact:juntar[7]
+sa: @en:verb.stative:bridge
+
+w: localizar[1]
+d: @en_identify the location or place of
+fs: 8
+hypo: achar
+sa: @en:verb.stative:place
+
+w: margear
+d: @en_serve as a shore to
+fs: 11
+hypo: abeirar
+sa: @en:verb.stative:shore
+
+w: medir
+d: ter certas dimensões
+fs: 11
+hyper: @en_stand[1]
+hyper: durar
+hyper: pesar[1]
+hyper: pesar[3]
+hypo: estar[2]
+sa: @en:verb.stative:measure
+
+w: merecer
+w: valer[3]
+d: @en_be worthy or deserving
+fs: 8 11
+hyper: @en_have_it_coming
+hypo: estar[2]
+sa: @en:verb.stative:deserve
+
+w: montar
+d: @en_sit or stand astride of
+fs: 8 11
+hypo: estar[1]
+sa: @en:verb.stative:straddle[1]
+
+w: morar[3]
+w: residir
+w: viver[1]
+d: @en_live (in a certain place)
+fs: 8 11
+hyper: verb.motion:@en_move_in[1]
+hyper: @en_crash
+hyper: @en_squat
+hyper: @en_stay_at
+hypo: povoar
+sa: @en:verb.stative:lodge_in
+
+w: mumificar
+d: @en_preserve while making lifeless
+fs: 8
+hypo: preservar
+sa: @en:verb.stative:mummify
+
+w: nadar
+d: @en_be covered with or submerged in a liquid
+fs: 4
+hypo: estar[2]
+sa: @en:verb.stative:drown
+
+w: objetar
+d: @en_be averse to or express disapproval of
+fs: 4 22
+hypo: estar[2]
+sa: @en:verb.stative:object
+
+w: obter
+w: prevalecer
+w: primar
+d: ser verdadeiro, válido ou aplicável
+fs: 1
+hypo: existir
+sa: @en:verb.stative:obtain
+
+w: orientar
+d: @en_cause to point
+fs: 21
+cause: @en_orient
+hyper: @en_stem[1]
+hypo: verb.motion:posicionar
+sa: @en:verb.stative:orient[1]
+
+w: originar
+d: @en_take its rise
+fs: 4
+hypo: originar-se
+sa: @en:verb.stative:head[5]
+
+w: originar[1]
+d: @en_come into existence, originate
+fs: 1 2
+hypo: @en_become
+sa: @en:verb.stative:root
+
+w: originar-se
+w: provir[1]
+w: surgir[1]
+d: @en_come into existence; take on form or shape
+fs: 1
+hyper: @en_come_forth
+hyper: @en_resurge
+hyper: emergir
+hyper: originar
+hyper: provir[2]
+hypo: @en_become
+sa: @en:verb.stative:arise
+vg: verb.change:@en_develop[3]
+
+w: pagar
+w: valer_a_pena
+d: @en_be worth it
+fs: 34
+hypo: estar[2]
+sa: @en:verb.stative:pay
+
+w: passar
+d: @en_spend or pass, as with boredom or in a pleasant manner; of time
+fs: 8
+hypo: fazer_passar
+sa: @en:verb.stative:get_through
+
+w: pegar
+w: servir[1]
+d: @en_spend time in prison or in a labor camp
+e: Ele serviu seis anos por peculato
+fs: 8 22
+hyper: admitir
+hypo: fazer_passar
+sa: @en:verb.stative:serve
+
+w: pender
+d: @en_hang loosely or laxly
+fs: 1
+hypo: pendurar
+sa: @en:verb.stative:droop
+
+w: pendurar
+d: @en_hang freely
+fs: 1 4
+hyper: pender
+hypo: verb.contact:pendurar[2]
+sa: @en:verb.stative:dangle
+
+w: perdurar
+d: @en_continue to exist
+fs: 1
+hyper: verb.change:@en_carry_over
+hyper: @en_reverberate
+hypo: verb.change:continuar[2]
+sa: @en:verb.stative:die_hard
+vg: @en_run[4]
+
+w: peregrinar
+d: @en_spend a certain length of time; reside temporarily
+fs: 8
+hypo: fazer_passar
+sa: @en:verb.stative:sojourn
+
+w: perpetuar
+d: @en_cause to continue or prevail
+fs: 8
+hyper: eternizar
+hypo: preservar
+sa: @en:verb.stative:perpetuate
+
+w: perseverar
+w: resistir[1]
+w: sobreviver[1]
+d: @en_continue to live through hardship or adversity
+fs: 1 2 8
+entail: @en_be
+hyper: @en_hold_up
+hyper: @en_live_out
+hyper: @en_perennate
+sa: @en:verb.stative:endure
+vg: @en_be
+vg: haver
+
+w: personificar[1]
+w: representar[3]
+d: @en_represent or express something abstract in tangible form
+fs: 11
+hypo: verb.communication:representar
+sa: @en:verb.stative:embody[2]
+
+w: personificar[2]
+d: dar corpo a
+fs: 8 11
+hypo: encarnar
+sa: @en:verb.stative:body
+
+w: pertencer[3]
+d: @en_be rightly classified in a class or category
+fs: 4 22
+hypo: estar[2]
+sa: @en:verb.stative:belong[1]
+
+w: pertencer[4]
+d: @en_be a member, adherent, inhabitant, etc. (of a group, organization, or place)
+fs: 2 4 22
+hypo: estar[2]
+sa: @en:verb.stative:belong[7]
+
+w: pertencer[5]
+w: referir-se
+d: @en_be a part or attribute of
+fs: 12
+hypo: caber_a
+sa: @en:verb.stative:appertain
+
+w: pesar[1]
+d: ter um determinado peso
+fs: 8 11
+hypo: medir
+sa: @en:verb.stative:weigh[1]
+vg: tomar_o_peso
+
+w: pesar[2]
+w: tomar_o_peso
+d: @en_determine the weight of
+fs: 8 9 11
+hyper: verb.contact:sopesar
+hypo: verb.change:mensurar
+sa: @en:verb.stative:librate
+vg: pesar[1]
+
+w: pesar[3]
+d: medir por ou como se por uma escala
+fs: 11
+hypo: medir
+sa: @en:verb.stative:scale
+
+w: portar[1]
+d: @en_have
+fs: 8 11
+hyper: verb.possession:@en_carry
+hypo: apresenta
+sa: @en:verb.stative:bear[1]
+
+w: possuir[1]
+d: @en_enter into and control, as of emotions or ideas
+fs: 10
+hypo: dominar[1]
+sa: @en:verb.stative:possess[2]
+
+w: possuir[2]
+w: ter[1]
+d: ter como um atributo, conhecimento ou habilidade
+e: Ele possui grande conhecimento sobre o Oriente Médio.
+fs: 8 11
+hyper: exibir
+hypo: apresenta
+sa: @en:verb.stative:possess
+
+w: preceder[1]
+d: ser anterior no tempo;
+fs: 11
+sa: @en:verb.stative:antecede
+
+w: preponderar
+w: prevalecer[1]
+d: pesar mais fortemente
+fs: 1
+hypo: comandar
+sa: @en:verb.stative:outbalance
+
+w: procrastinar[2]
+d: @en_postpone or delay needlessly
+fs: 8 11
+hypo: adiar
+hypo: empurrar_com_a_barriga
+sa: @en:verb.stative:procrastinate[1]
+
+w: projectar-se
+d: @en_extend out or project in space
+fs: 1 4
+hyper: @en_bag
+hyper: @en_cantilever
+hyper: @en_overhang[1]
+hyper: @en_push_up
+hyper: @en_spear
+sa: @en:verb.stative:jut
+
+w: provir[2]
+d: @en_to be the product or result
+fs: 4
+hypo: originar-se
+sa: @en:verb.stative:come[4]
+vg: @en_come[2]
+
+w: provir[3]
+d: @en_originate or come into being
+fs: 1
+hypo: @en_become
+sa: @en:verb.stative:bob_up
+
+w: qualificar
+w: qualificar-se
+d: provar-se capaz ou encaixar-se; atender requisitos
+fs: 1 2
+hypo: bastar
+sa: @en:verb.stative:measure_up
+
+w: reconhecer
+d: @en_exhibit recognition for (an antigen or a substrate)
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:recognize
+
+w: recusar
+w: rejeitar
+d: @en_resist immunologically the introduction of some foreign tissue or organ
+fs: 11
+hypo: verb.cognition:reagir
+sa: @en:verb.stative:refuse[4]
+
+w: recusar[1]
+w: resistir[2]
+d: recusar, especialmente em uma maneira desconcertante
+e: Esse comportamento desafia explicação.
+fs: 11
+hyper: @en_beggar
+hypo: escapar
+sa: @en:verb.stative:refuse
+
+w: redundar
+w: resultar[2]
+w: seguir[1]
+w: seguir-se
+w: sobrevir
+w: suceder
+d: @en_issue or terminate (in a specified way, state, etc.); end
+fs: 1
+hyper: verb.change:@en_come
+hyper: @en_fall_out
+hyper: derivar
+hyper: seguir[3]
+hypo: demostrar
+sa: @en:verb.stative:ensue
+
+w: reencarnar
+d: nascer de novo em outro corpo após a morte
+fs: 2
+hypo: verb.change:nascer
+mt: noun.cognition:Crença_religiosa
+sa: @en:verb.stative:reincarnate
+
+w: reger
+d: tem uma afinidade com; dos signos do Zodíaco
+fs: 11
+hypo: acompanhar
+sa: @en:verb.stative:rule[1]
+
+w: remontar
+w: ressurgir
+d: @en_belong to an earlier time
+fs: 8 11
+hyper: @en_ascend
+hypo: verb.creation:originar
+sa: @en:verb.stative:date_back
+
+w: representar[4]
+d: @en_form or compose
+fs: 8 11
+hyper: @en_fall_into
+hyper: @en_range
+hyper: @en_supplement
+hyper: apresentar
+hyper: compor
+hyper: compor[1]
+hyper: fazer[1]
+sa: @en:verb.stative:constitute
+
+w: representar[5]
+d: @en_represent in bodily form
+fs: 8 11
+hypo: estar[2]
+sa: @en:verb.stative:body_forth
+
+w: resistir[3]
+d: @en_face and withstand with courage
+fs: 8 11
+hypo: afrontar
+sa: @en:verb.stative:brave
+
+w: resistir[4]
+d: resistir a fazer algo
+fs: 22
+hyper: verb.change:@en_leave
+hyper: verb.social:@en_let_it_go
+hyper: verb.social:abster
+hyper: verb.social:salvar[2]
+hyper: @en_forbear
+hyper: @en_stand_by
+hyper: deixar_de
+hyper: ficar_de_fora
+sa: @en:verb.stative:forbear
+
+w: resistir[5]
+w: usar
+d: @en_last and be usable
+fs: 6 11
+hypo: durar
+sa: @en:verb.stative:wear
+
+w: respirar
+d: @en_be alive
+fs: 1 2
+hypo: haver
+sa: @en:verb.stative:breathe
+
+w: resplandecer
+d: ser resplandecente ou radiante;
+fs: 1
+hypo: verb.weather:luzir[2]
+sa: @en:verb.stative:resplend
+
+w: resultar[3]
+d: @en_prove to be in the result or end
+fs: 34
+hypo: verb.change:ocorrer
+sa: @en:verb.stative:turn_out[1]
+
+w: resumir
+w: sumarizar
+d: fazer um resumo de
+fs: 11
+hypo: verb.communication:contar[5]
+sa: @en:verb.stative:sum
+vg: verb.communication:resumir
+
+w: reter[2]
+d: @en_hold back within
+fs: 8 11
+hypo: possuir
+sa: @en:verb.stative:retain
+
+w: rima
+w: rimar
+d: @en_be similar in sound, especially with respect to the last syllable
+fs: 1
+hyper: @en_assonate
+hypo: combinar
+sa: @en:verb.stative:rhyme
+
+w: rusticar
+d: viver no campo e levar uma vida rústica
+fs: 2 22
+hypo: domiciliar
+sa: @en:verb.stative:rusticate
+
+w: saltar_à_vista
+d: @en_be highly noticeable
+fs: 1 4 34
+hypo: verb.perception:parecer[2]
+sa: @en:verb.stative:jump
+
+w: se_parece
+d: @en_be similar to a relative
+fs: 9
+hypo: assemelhar-se_a
+sa: @en:verb.stative:take_after
+
+w: seguir[2]
+d: mais tarde no tempo
+fs: 11
+sa: @en:verb.stative:follow
+vg: seguir[3]
+
+w: seguir[3]
+d: @en_come after in time, as a result
+fs: 11
+hypo: redundar
+sa: @en:verb.stative:come_after
+vg: @en_follow[1]
+vg: seguir[2]
+
+w: sentar
+d: @en_be able to seat
+e: O teatro senta 2.000 pessoas
+fs: 11
+hypo: acomodar[1]
+sa: @en:verb.stative:seat
+
+w: sentar-se
+d: @en_be around, often idly or without specific purpose
+fs: 1 4
+hypo: estar[1]
+sa: @en:verb.stative:sit
+
+w: ser[3]
+w: ter[2]
+d: acontecer, ocorrer, ter lugar
+e: Eu perdi minha carteira; isso foi quando visitei a casa dos meus pais.
+e: Tinha duzentas pessoas no funeral dele.
+e: Tinha muito barulho na cozinha.
+fs: 1 2 4 22
+sa: @en:verb.stative:be[4]
+
+w: ser_diferente
+d: @en_be different
+fs: 1 4
+hyper: contrapor
+hyper: desviar
+hyper: variar[1]
+sa: @en:verb.stative:differ
+
+w: ser_empurrado
+d: @en_force into some kind of situation, condition, or course of action
+fs: 9 20
+hypo: @en_involve[1]
+sa: @en:verb.stative:drag
+
+w: ser_melhor
+w: superar_
+d: ser superior
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:beat
+
+w: serpentear
+d: @en_form a snake-like pattern
+fs: 4
+hypo: @en_curve
+sa: @en:verb.stative:snake
+
+w: servir[2]
+d: @en_serve a purpose, role, or function
+fs: 1 2 9 11
+hyper: @en_act_as
+hyper: @en_prelude
+hypo: bastar
+sa: @en:verb.stative:function[12]
+vg: verb.social:funcionar[1]
+
+w: servir[3]
+d: contribuir ou conduzir à
+e: O escândalo serviu para aumentar sua popularidade
+fs: 4 28
+hyper: acudir
+hypo: verb.creation:ocasionar
+sa: @en:verb.stative:serve[1]
+vg: @en_serve
+
+w: sincronizar
+d: @en_happen at the same time
+fs: 1
+hypo: verb.change:ocorrer
+sa: @en:verb.stative:contemporise
+
+w: sobrepovoar
+w: superlotar
+w: superpovoar
+d: causar uma população muito grande
+e: Algumas cidades em Nova Jersey estão ficando superlotadas.
+fs: 22
+hypo: povoar
+sa: @en:verb.stative:overpopulate
+
+w: sobreviver[2]
+d: @en_live longer than
+fs: 8 9 10 11
+entail: @en_be
+sa: @en:verb.stative:outlast
+
+w: sobreviver[3]
+w: superar[1]
+d: @en_continue in existence after (an adversity, etc.)
+fs: 2
+entail: verb.body:convalescer
+hypo: verb.competition:derrotar[5]
+sa: @en:verb.stative:come_through
+
+w: sofrer
+d: @en_be given to
+fs: 22
+hypo: estar_inclinado_a
+sa: @en:verb.stative:suffer[4]
+
+w: subjazer
+d: @en_lie underneath
+fs: 11
+hypo: jazer[2]
+sa: @en:verb.stative:underlie[1]
+
+w: subjazer[1]
+d: @en_be or form the base for
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:underlie
+
+w: surgir[2]
+d: @en_rise up
+fs: 1 4
+hyper: atirar-se
+hypo: verb.perception:parecer[2]
+sa: @en:verb.stative:rear
+
+w: ter[3]
+d: @en_have as a major characteristic
+fs: 11
+hypo: estar[2]
+sa: @en:verb.stative:hold[7]
+
+w: tipificar
+d: @en_embody the essential characteristics of or be a typical example of
+fs: 8 11
+hypo: verb.communication:simbolizar
+sa: @en:verb.stative:epitomise
+
+w: tirar_férias
+d: @en_spend or take a vacation
+fs: 2 22
+hyper: @en_honeymoon
+hypo: fazer_passar
+sa: @en:verb.stative:holiday
+
+w: vacilar[1]
+d: @en_interrupt temporarily an activity before continuing
+fs: 2 29
+hyper: verb.communication:@en_hem_and_haw
+hyper: escrúpulo
+hypo: adiar
+sa: @en:verb.stative:pause
+
+w: vacilar[2]
+d: @en_be undecided about something; waver between conflicting positions or courses of action
+fs: 2
+hyper: @en_shillyshally
+hypo: duvidar
+sa: @en:verb.stative:hover
+
+w: valer[4]
+d: estar em vigor; ser ou permanecer em vigor
+e: A lei está valendo!
+fs: 1
+hyper: @en_wash
+hypo: verb.change:continuar[2]
+sa: @en:verb.stative:stand[2]
+
+w: variar[1]
+d: @en_be subject to change in accordance with a variable
+fs: 1
+hyper: @en_co-vary
+hyper: @en_drift
+hypo: ser_diferente
+sa: @en:verb.stative:vary[1]
+
+w: vegetar
+d: @en_lead a passive existence without using one's body or mind
+fs: 2
+hypo: viver[2]
+sa: @en:verb.stative:vegetate
+
+w: vender_a_varejo
+d: @en_be sold at the retail level
+fs: 4
+hypo: @en_sell[2]
+mt: noun.act:comercialismo
+sa: @en:verb.stative:retail
+vg: verb.possession:@en_retail
+
+w: veranear
+d: @en_spend the summer
+fs: 2 22
+hypo: fazer_passar
+sa: @en:verb.stative:summer
+
+w: virar[1]
+d: @en_cause to change or turn into something different;assume new characteristics
+fs: 8 9 10 11
+hypo: verb.change:alterar[2]
+sa: @en:verb.stative:turn[13]
+vg: tornar-se
+
+w: viver[2]
+d: @en_lead a certain kind of life; live in a certain style
+fs: 22
+entail: existir
+hyper: verb.social:mover_se
+hyper: @en_bach
+hyper: @en_buccaneer
+hyper: @en_bushwhack
+hyper: @en_cash_out
+hyper: @en_dissipate
+hyper: @en_eke_out
+hyper: @en_live_down
+hyper: @en_pig
+hyper: @en_swing[1]
+hyper: @en_wanton
+hyper: vegetar
+sa: @en:verb.stative:live[6]
+vg: @en_live[1]
+
+w: voltear
+d: @en_move to and fro
+fs: 22
+hypo: duvidar
+sa: @en:verb.stative:hover[1]
+

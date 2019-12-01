@@ -1,0 +1,5371 @@
+verb.cognition
+
+w: @en_angle
+w: @en_slant
+w: @en_weight
+d: @en_present with a bias
+fs: 8 9
+hypo: predeterminar
+sa: @en:verb.cognition:angle
+
+w: @en_assay
+d: @en_analyze (chemical substances)
+fs: 8
+hyper: @en_bioassay
+hypo: analizar
+sa: @en:verb.cognition:assay
+
+w: @en_attend_to
+w: @en_take_to_heart
+d: @en_get down to; pay attention to; take seriously
+fs: 8 9
+hypo: lembrar[2]
+sa: @en:verb.cognition:attend_to
+
+w: @en_attorn
+d: @en_acknowledge a new land owner as one's landlord
+fs: 2
+hypo: verb.communication:reconhecer
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.cognition:attorn
+
+w: @en_awaken
+d: @en_make aware
+fs: 9 10
+hypo: verb.emotion:afetar
+sa: @en:verb.cognition:awaken
+
+w: @en_backpedal
+d: @en_modify one's opinion, make it less strong
+fs: 2
+hypo: repensar
+sa: @en:verb.cognition:backpedal
+
+w: @en_bear_up
+d: @en_endure cheerfully
+fs: 2
+hypo: aguentar
+sa: @en:verb.cognition:bear_up
+
+w: @en_beat_about
+w: @en_cast_about
+w: @en_cast_around
+d: procurar ansiosamente
+fs: 2 22
+hypo: procurar
+sa: @en:verb.cognition:beat_about
+
+w: @en_bioassay
+d: @en_subject to a bio-assay
+fs: 8
+hypo: @en_assay
+sa: @en:verb.cognition:bioassay
+
+w: @en_block_out
+d: @en_plan where and when songs should be inserted into a theatrical production, or plan a theatrical production in general
+fs: 8
+hypo: mostrar
+sa: @en:verb.cognition:block_out
+
+w: @en_bristle
+d: reagir de forma ofendida ou irritada
+fs: 22
+hypo: reagir
+sa: @en:verb.cognition:bristle
+
+w: @en_call
+d: não acreditar na  sinceridade ou na veracidade de alguma coisa
+fs: 9
+hypo: verb.communication:desafiar[3]
+sa: @en:verb.cognition:call
+vg: verb.communication:@en_call[7]
+
+w: @en_carry_back
+d: @en_deduct a loss or an unused credit from taxable income for a prior period
+fs: 8
+hypo: subtrair
+sa: @en:verb.cognition:carry_back
+
+w: @en_cave
+w: @en_spelunk
+d: explorar cavernas naturais
+fs: 2
+hypo: buscar
+sa: @en:verb.cognition:cave
+
+w: @en_chart
+d: planejar em detalhes
+fs: 8
+hypo: planejar[3]
+sa: @en:verb.cognition:chart
+
+w: @en_cinch
+d: @en_make sure of
+fs: 8
+hypo: assegurar
+sa: @en:verb.cognition:cinch[1]
+
+w: @en_colligate
+w: @en_subsume
+d: @en_consider (an instance of something) as part of a general rule or principle
+fs: 8 21
+hypo: incluir[1]
+sa: @en:verb.cognition:colligate
+
+w: @en_confute
+w: @en_disprove
+d: @en_prove to be false
+fs: 8 11 26
+hyper: desmentir
+hyper: detonar
+hyper: falsificar_
+hypo: contradizer
+sa: @en:verb.cognition:confute
+
+w: @en_control
+w: @en_master
+d: @en_have a firm understanding or knowledge of; be on top of
+fs: 8
+entail: compreender[3]
+hyper: dominar
+hypo: saber[3]
+sa: @en:verb.cognition:control
+vg: verb.contact:controlar
+
+w: @en_copyedit
+w: @en_copyread
+w: @en_subedit
+d: @en_edit and correct (written or printed material)
+fs: 2 8
+hypo: verb.change:redigir
+sa: @en:verb.cognition:copyedit
+
+w: @en_counterplot
+d: @en_make a plot in response to another plot
+fs: 2 8
+hypo: maquinar[1]
+sa: @en:verb.cognition:counterplot
+
+w: @en_detail
+d: @en_assign to a specific task
+fs: 21
+hypo: designar
+sa: @en:verb.cognition:detail
+
+w: @en_din
+d: @en_instill (into a person) by constant repetition
+fs: 8
+hypo: inculcar
+sa: @en:verb.cognition:din
+
+w: @en_dip_into
+d: @en_read selectively; read only certain passages from a text
+fs: 8
+hypo: ler[1]
+sa: @en:verb.cognition:dip_into
+
+w: @en_discountenance
+d: Mostrar desaprovação desencorajando
+fs: 8
+hypo: desaprovar[1]
+sa: @en:verb.cognition:discountenance
+
+w: @en_disincline
+w: @en_indispose
+d: @en_make unwilling
+fs: 10 24
+hypo: determinar
+sa: @en:verb.cognition:disincline
+
+w: @en_draw
+w: @en_make
+d: fazer, formular ou derivar na mente
+fs: 8
+hypo: verb.creation:@en_create_by_mental_act
+sa: @en:verb.cognition:draw
+vg: @en_make[1]
+
+w: @en_drink
+w: @en_drink_in
+d: @en_be fascinated or spell-bound by; pay close attention to
+fs: 8
+hypo: focar[2]
+sa: @en:verb.cognition:drink
+
+w: @en_extract
+d: @en_calculate the root of a number
+fs: 8
+hypo: computar
+mt: noun.cognition:Matematica
+sa: @en:verb.cognition:extract[2]
+
+w: @en_factor_analyse
+w: @en_factor_analyze
+d: @en_to perform a factor analysis of correlational data
+fs: 8
+hypo: analisar[2]
+sa: @en:verb.cognition:factor_analyse
+
+w: @en_flip
+w: @en_flip_out
+d: reagir de forma animada, encantada ou surpresa
+fs: 2
+hypo: reagir
+sa: @en:verb.cognition:flip
+
+w: @en_float
+d: @en_allow (currencies) to fluctuate
+fs: 8
+hypo: avaliar[6]
+sa: @en:verb.cognition:float
+
+w: @en_get_one's_lumps
+w: @en_take_one's_lumps
+d: @en_suffer the results or consequences of one's behavior or actions
+fs: 2
+hypo: @en_pay
+sa: @en:verb.cognition:get_one's_lumps
+
+w: @en_get_the_goods
+d: @en_discover some bad or hidden information about
+fs: 22
+hypo: descobrir
+sa: @en:verb.cognition:get_the_goods
+
+w: @en_grade
+d: graduar
+fs: 8
+hypo: classificar
+sa: @en:verb.cognition:grade
+
+w: @en_greet
+d: reagir de uma certa maneira
+fs: 5 17 20 21
+hypo: reagir
+sa: @en:verb.cognition:greet
+
+w: @en_have_down
+d: @en_have (something) mastered
+fs: 8
+hypo: conhecer[4]
+sa: @en:verb.cognition:have_down
+
+w: @en_house-train
+w: @en_housebreak
+d: @en_train (a pet) to live cleanly in a house
+fs: 8
+hypo: instruir
+sa: @en:verb.cognition:house-train
+
+w: @en_imbibe
+d: @en_receive into the mind and retain
+fs: 8
+hypo: assimilar
+sa: @en:verb.cognition:imbibe
+
+w: @en_keep_track
+d: @en_keep informed of fully aware
+fs: 2 22
+hypo: saber
+sa: @en:verb.cognition:keep_track
+
+w: @en_know
+d: @en_know the nature or character of
+fs: 8 9
+hypo: compreender[6]
+sa: @en:verb.cognition:know[11]
+
+w: @en_label
+d: @en_distinguish (as a compound or molecule) by introducing a labeled atom
+fs: 8
+hypo: separar
+sa: @en:verb.cognition:label[1]
+
+w: @en_lie_low
+d: tentar evitar a detecção, especialmente pela polícia
+fs: 2
+hypo: verb.perception:embrenhar
+sa: @en:verb.cognition:lie_low
+
+w: @en_look_to
+d: @en_turn one's interests or expectations towards
+fs: 8 9 11
+hypo: aguardar
+sa: @en:verb.cognition:look_to[1]
+
+w: @en_make[1]
+d: @en_calculate as being
+fs: 5
+hypo: chutar
+sa: @en:verb.cognition:make[12]
+vg: @en_draw
+vg: fazer[1]
+
+w: @en_misgauge
+d: avaliar algo incorretamente ou indevidamente
+fs: 8
+hypo: chutar
+sa: @en:verb.cognition:misgauge
+
+w: @en_misgive
+d: @en_suggest fear or doubt
+fs: 10
+hypo: verb.emotion:inquietar
+sa: @en:verb.cognition:misgive
+
+w: @en_pay
+d: @en_bear (a cost or penalty), in recompense for some action
+fs: 8 22
+hyper: @en_get_one's_lumps
+hypo: aguentar
+sa: @en:verb.cognition:pay[3]
+
+w: @en_pioneer
+d: abrir e explorar uma nova área
+fs: 8
+hypo: buscar
+sa: @en:verb.cognition:pioneer
+
+w: @en_plat
+w: @en_plot
+d: @en_make a plat of
+fs: 8
+hypo: verb.creation:@en_map[1]
+sa: @en:verb.cognition:plat
+
+w: @en_plumb
+d: medir a profundidade de algo
+fs: 8
+hypo: verb.change:mensurar
+sa: @en:verb.cognition:plumb
+
+w: @en_plumb[1]
+d: examinar cuidadosamente e em profundidade
+fs: 8
+hypo: explorar[3]
+sa: @en:verb.cognition:plumb[2]
+
+w: @en_prospect
+d: @en_explore for useful or valuable things or substances, such as minerals
+fs: 2
+hypo: procurar
+sa: @en:verb.cognition:prospect
+
+w: @en_prove
+d: @en_obtain probate of
+fs: 8
+hypo: autenticar
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.cognition:prove[1]
+
+w: @en_rake_up
+d: trazer à luz
+fs: 8 26
+hypo: descobrir[3]
+sa: @en:verb.cognition:rake_up
+
+w: @en_reminisce
+d: recordar o passado
+fs: 2 22
+hypo: recordar
+sa: @en:verb.cognition:reminisce
+
+w: @en_riddle
+d: definir um problema difícil ou enigma
+fs: 1 10
+hypo: ater
+sa: @en:verb.cognition:riddle[1]
+
+w: @en_scry
+d: adivinhar a sorte através de cristais
+fs: 2 8
+hypo: ler[3]
+sa: @en:verb.cognition:scry
+
+w: @en_severalise
+w: @en_severalize
+d: distinguir ou separar
+fs: 8
+hypo: separar
+sa: @en:verb.cognition:severalise[1]
+
+w: @en_sex
+d: @en_tell the sex (of young chickens)
+fs: 8
+hypo: separar
+sa: @en:verb.cognition:sex
+
+w: @en_shortlist
+d: @en_put someone or something on a short list
+fs: 8 9
+hypo: ranquiar
+sa: @en:verb.cognition:shortlist
+
+w: @en_size
+d: escolher por tamanho
+fs: 8
+hypo: classificar
+sa: @en:verb.cognition:size
+
+w: @en_source
+d: especificar a origem
+fs: 8
+hypo: documentar
+sa: @en:verb.cognition:source
+
+w: @en_stool
+d: @en_react to a decoy, of wildfowl
+fs: 1
+hypo: reagir
+sa: @en:verb.cognition:stool
+
+w: @en_strike_a_chord
+d: @en_create an emotional response
+fs: 2 4
+hypo: ser_recebido
+sa: @en:verb.cognition:strike_a_chord
+
+w: @en_surmise
+d: @en_infer from incomplete evidence
+fs: 8 26
+hypo: depreender
+sa: @en:verb.cognition:surmise
+
+w: @en_take_a_joke
+d: @en_listen to a joke at one's own expense
+fs: 2
+hypo: aguentar
+sa: @en:verb.cognition:take_a_joke
+
+w: @en_test
+d: @en_undergo a test
+fs: 7
+hypo: aceitar[5]
+sa: @en:verb.cognition:test[6]
+vg: verb.communication:@en_quiz
+vg: verb.competition:@en_test
+
+w: @en_think
+d: @en_be capable of conscious thought
+fs: 2
+sa: @en:verb.cognition:think[8]
+
+w: @en_time
+d: @en_assign a time for an activity or event
+fs: 8 9 20 21
+hypo: agendar[4]
+sa: @en:verb.cognition:time
+
+w: @en_will
+d: @en_determine by choice
+fs: 8
+hypo: decidir[3]
+sa: @en:verb.cognition:will[1]
+
+w: @en_work_out
+d: @en_be calculated
+fs: 1
+hypo: verb.stative:adicionar
+sa: @en:verb.cognition:work_out[7]
+vg: computar
+
+w: _decidir_(se)
+w: fazer_decidir
+d: @en_cause to decide
+fs: 10
+cause: decidir[3]
+hypo: verb.communication:induzir
+sa: @en:verb.cognition:decide[2]
+
+w: _enganar-se
+w: _tropeçar
+d: cometer um erro
+fs: 2
+hypo: equivocar
+sa: @en:verb.cognition:slip_up
+
+w: _esquecer
+w: apagar
+w: desaprender
+d: tentar esquecer; colocar para fora de sua memória ou conhecimento
+fs: 8 28
+hypo: enterrar
+sa: @en:verb.cognition:unlearn[1]
+
+w: _introspectar
+w: refletir
+d: refletir sobre os próprios pensamentos e sentimentos
+fs: 2
+hypo: contemplar[2]
+sa: @en:verb.cognition:introspect
+
+w: _intuir
+d: @en_know or grasp by intuition or feeling
+fs: 8 26
+hypo: compreender[1]
+sa: @en:verb.cognition:intuit
+
+w: _reinterpretar
+d: atribuir um significado novo ou diferente para
+fs: 8
+hypo: compreender[2]
+sa: @en:verb.cognition:reinterpret
+
+w: abandonar
+w: desistir
+w: largar_mão
+d: parar de manter ou insistir em; idéias ou reivindicações
+fs: 8
+sa: @en:verb.cognition:give_up
+vg: verb.motion:@en_ease_up
+vg: verb.motion:colapsar
+
+w: abandonar[1]
+w: long-faced
+d: @en_go and leave behind, either intentionally or by neglect or forgetfulness
+fs: 8 9 10
+hyper: abandonar[4]
+hyper: desamparar
+sa: @en:verb.cognition:leave[5]
+vg: esquecer[4]
+
+w: abandonar[2]
+w: desamparar
+w: desertar
+d: deixar alguém que precisa ou conta com você; deixar na mão
+e: A mãe desertou seus filhos.
+fs: 8 9 10
+hyper: abandonar[5]
+hyper: largar
+hyper: verb.possession:abandonar[4]
+hyper: verb.possession:encalhar
+hypo: long-faced
+sa: @en:verb.cognition:abandon
+
+w: abandonar[3]
+w: largar
+d: @en_leave suddenly, often as an expression of disapproval
+fs: 22
+hypo: desamparar
+sa: @en:verb.cognition:walk_out[3]
+
+w: abandonar[4]
+d: @en_cast aside capriciously or unfeelingly
+fs: 9
+hypo: long-faced
+sa: @en:verb.cognition:jilt
+
+w: abandonar[5]
+d: abandonar deixando exposto ao frio, ao ar livre
+fs: 9 10
+hypo: desamparar
+sa: @en:verb.cognition:expose[3]
+
+w: abraçar
+d: @en_take up the cause, ideology, practice, method, of someone and use it as one's own
+fs: 8
+hyper: adotar
+hypo: aceitar[4]
+sa: @en:verb.cognition:embrace
+
+w: abstrair
+d: considerar além de um caso ou instância particular
+e: vamos abstrair deste exemplo em particular
+fs: 22
+hypo: considerar[7]
+sa: @en:verb.cognition:abstract[1]
+
+w: abstrair[1]
+d: considerar um conceito sem pensar num exemplo específico
+e: GLOSS_: considerar abstratamente ou teoricamente
+fs: 8
+hypo: ver
+sa: @en:verb.cognition:abstract
+
+w: acabar
+w: concluir
+w: finalizar
+w: terminar
+d: fazer com que acabe
+fs: 8 11
+hyper: verb.communication:@en_perorate
+hypo: verb.change:concluir[1]
+sa: @en:verb.cognition:conclude[1]
+
+w: aceitar
+d: reagir favoravelmente a; considerar correto e  adequado
+e: Aceitamos a ideia de servicos de  saúde para todos
+e: As pessoas não aceitavam música atonal naquela época
+fs: 8 9
+hypo: reagir
+sa: @en:verb.cognition:accept[1]
+vg: aceitar[4]
+
+w: aceitar[1]
+d: @en_be sexually responsive to, used of a female domesticated mammal
+fs: 11
+hypo: reagir
+sa: @en:verb.cognition:accept[8]
+
+w: aceitar[2]
+w: receber
+d: aceitar como verdadeiro ou válido
+fs: 8 9
+hypo: aceitar[4]
+sa: @en:verb.cognition:receive
+
+w: aceitar[3]
+w: engolir
+d: @en_tolerate or accommodate oneself to
+fs: 8
+hypo: aguentar
+sa: @en:verb.cognition:live_with
+
+w: aceitar[4] ant rejeitar[2]
+d: considerar ou manter como verdadeiro
+fs: 8 26
+hyper: abraçar
+hyper: acreditar[5]
+hyper: admitir_a_veracidade_de
+hyper: aprovar
+hyper: receber
+hyper: reconciliar
+hyper: reconhecer[3]
+hyper: verb.communication:@en_take_a_bow[1]
+hyper: verb.social:homenagear
+hypo: balizar
+sa: @en:verb.cognition:accept
+vg: aceitar
+
+w: aceitar[5]
+d: @en_accept or undergo, often unwillingly
+fs: 8
+hyper: @en_test
+hypo: verb.perception:receber
+sa: @en:verb.cognition:submit[12]
+vg: verb.perception:@en_take
+
+w: achar
+w: pensar
+d: julgar ou reparar; considerar
+fs: 5 9
+hyper: achar[9]
+hyper: considerar[5]
+hyper: manter[2]
+hyper: repensar
+hyper: sentir-se
+hyper: ver
+hypo: balizar
+sa: @en:verb.cognition:conceive
+
+w: achar[1]
+w: descobrir
+w: informar-se
+w: inteirar
+d: @en_get to know or become aware of, usually accidentally
+fs: 8
+hyper: @en_get_the_goods
+hyper: descobrir[1]
+hyper: descobrir[3]
+hyper: pegar[4]
+hyper: sacar
+sa: @en:verb.cognition:find_out
+vg: verb.perception:encontrar
+
+w: achar[2]
+w: avaliar
+w: calcular
+w: considerar
+w: predizer
+w: prever
+w: prognosticar
+d: julgar ser provável
+fs: 8 26
+hyper: admitir
+hypo: balizar
+sa: @en:verb.cognition:forecast
+
+w: achar[3]
+w: pensar[1]
+d: @en_decide by pondering, reasoning, or reflecting
+fs: 8
+hypo: raciocínar
+sa: @en:verb.cognition:think[12]
+vg: pensar[7]
+
+w: achar[4]
+w: acreditar
+w: crer
+w: pensar[2]
+d: @en_be confident about something
+fs: 26
+hypo: antecipar[1]
+sa: @en:verb.cognition:believe[3]
+
+w: achar[5]
+w: considerar[1]
+w: sentir-se
+d: @en_have a feeling or perception about oneself in reaction to someone's behavior or attitude
+fs: 5 20 21 24
+hypo: achar
+sa: @en:verb.cognition:feel[1]
+
+w: achar[6]
+w: cogitar
+w: pensar[3]
+w: pensar_em
+w: pensar_sobre
+d: @en_have on one's mind, think about actively
+fs: 8 9
+hyper: considerar[7]
+hyper: importar_(se)_
+hypo: raciocínar
+sa: @en:verb.cognition:think_about[5]
+
+w: achar[7]
+w: considerar[2]
+w: ver
+d: julgar ser
+fs: 5 8 20 21
+hyper: abstrair[1]
+hyper: apreciar
+hyper: capitalizar
+hyper: chamar[1]
+hyper: coisificar
+hyper: considerar[4]
+hyper: considerar[9]
+hyper: desrespeitar
+hyper: esperar[2]
+hyper: favorecer
+hyper: fazer[1]
+hyper: idealizar[1]
+hyper: incluir[1]
+hyper: indentificar-se
+hyper: prezar
+hyper: receber[1]
+hyper: reconsiderar
+hyper: reconsiderar[1]
+hyper: relativizar
+hyper: verb.possession:apreciar
+hypo: achar
+sa: @en:verb.cognition:consider
+vg: compreender[2]
+
+w: achar[8]
+w: chegar
+w: concluir[1]
+w: decidir
+w: deduzir
+w: inferir
+d: @en_decide by reasoning; draw or come to a conclusion
+fs: 26
+hyper: achar[11]
+hyper: depreender
+hyper: induzir
+hyper: silogizar
+hyper: verb.communication:concluir[3]
+hyper: verb.communication:deduzir
+hyper: verb.communication:inferir
+hypo: raciocínar
+sa: @en:verb.cognition:conclude
+
+w: achar[9]
+w: considerar[3]
+d: @en_dispose the mind in a certain way
+fs: 2
+hypo: achar
+sa: @en:verb.cognition:think[15]
+
+w: achar[10]
+w: esperar
+w: pensar[4]
+w: supor
+d: imaginar, acreditar, ou supor
+fs: 24 26
+hyper: verb.communication:suspeitar
+hypo: antecipar[1]
+sa: @en:verb.cognition:guess
+
+w: achar[11]
+d: @en_come to believe on the basis of emotion, intuitions, or indefinite grounds
+fs: 26
+hypo: chegar
+sa: @en:verb.cognition:feel
+vg: verb.communication:declarar[6]
+
+w: achar_muito_bom
+d: estimar muito
+fs: 9
+hypo: prezar
+sa: @en:verb.cognition:think_the_world_of
+
+w: acometer
+w: tomar_conta
+d: afetar violentamente
+fs: 10
+hypo: verb.emotion:superar
+sa: @en:verb.cognition:get_hold_of
+
+w: acontecer
+w: terlugar
+d: @en_come to one's mind; suggest itself
+fs: 4
+hypo: verb.stative:@en_become
+sa: @en:verb.cognition:occur
+
+w: acreditar[1]
+w: crer[1] ant desconfiar
+d: ter confiança ou fé em
+fs: 22
+hyper: acreditar[2]
+hyper: contar_(com)
+hyper: depender[1]
+hypo: acreditar[5]
+sa: @en:verb.cognition:trust
+
+w: acreditar[2]
+d: confiar na verdade ou veracidade de
+e: GLOSS_: Ter confiança em;
+fs: 8 9
+hyper: acreditar[6]
+hypo: acreditar[1]
+sa: @en:verb.cognition:credit
+
+w: acreditar[3]
+w: cair
+w: engolir[1]
+d: @en_accept as true
+fs: 8
+hypo: acreditar[5]
+sa: @en:verb.cognition:buy[9]
+
+w: acreditar[4]
+w: crer[2]
+d: @en_follow a credo; have a faith; be a believer
+fs: 2 22
+hyper: acreditar_erroneamente
+hypo: acreditar[5]
+mt: noun.cognition:Crença_religiosa
+sa: @en:verb.cognition:believe[1]
+
+w: acreditar[5]
+w: crer[3]
+d: aceitar como verdade; tomar como verdade
+fs: 8 9 26
+hyper: acreditar[1]
+hyper: acreditar[4]
+hyper: acreditar_em
+hyper: cair
+hyper: engulir
+hyper: entender[16]
+hypo: aceitar[4]
+sa: @en:verb.cognition:believe
+
+w: acreditar[6]
+d: @en_credit with veracity
+fs: 8 9
+hypo: acreditar[2]
+sa: @en:verb.cognition:believe[2]
+
+w: acreditar[7]
+w: acreditar_em
+d: @en_have a firm conviction as to the goodness of something
+fs: 8 33
+hypo: acreditar[5]
+sa: @en:verb.cognition:believe_in[1]
+
+w: acreditar_erroneamente
+d: Acreditar numa falsidade ou numa coisa não-ortodoxa
+fs: 2
+hypo: acreditar[4]
+mt: noun.cognition:Crença_religiosa
+sa: @en:verb.cognition:misbelieve
+
+w: adicionar
+d: adicionar uma coluna de números
+fs: 8
+hypo: somar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:foot
+
+w: adicionar[1]
+w: somar
+d: fazer uma adição, combinando números
+fs: 2 8
+hyper: adicionar
+hypo: computar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:add
+vg: verb.communication:somar
+
+w: adivinhar
+w: inferir[1]
+w: supor[1]
+d: supor corretamente; resolver por suposição
+fs: 8 26
+hyper: dizer
+hypo: solucionar
+sa: @en:verb.cognition:guess[2]
+
+w: admirar
+w: assombrar
+w: espantar
+w: estontear
+w: surpreender
+d: @en_affect with wonder
+e: Sua capacidade de falar seis línguas me espanta!
+fs: 9 10
+hyper: deslumbrar
+hypo: sobressaltar
+sa: @en:verb.cognition:amaze
+
+w: admitir
+w: levar_em_conta
+w: planejar
+d: permitir ou planejar uma certa possibilidade; admitir a verdade ou validade de algo
+fs: 8 24
+hyper: orçar[1]
+hypo: avaliar
+sa: @en:verb.cognition:allow
+
+w: admitir[1]
+w: admitir_a_veracidade_de
+w: reconhecer
+d: @en_accept (someone) to be what is claimed or accept his power and authority
+fs: 8 9
+hypo: aceitar[4]
+sa: @en:verb.cognition:acknowledge[9]
+
+w: adotar
+d: @en_adopt
+fs: 22
+hypo: abraçar
+sa: @en:verb.cognition:fasten_on
+
+w: adquirir
+w: aprender
+w: estudar
+d: @en_gain knowledge or skills
+fs: 2 8 22 28
+hyper: aprender_de_novo
+hyper: assimilar
+hyper: atualizar_se
+hyper: estudar[3]
+sa: @en:verb.cognition:acquire
+
+w: aferir
+w: contrastar
+d: @en_put in opposition to show or emphasize differences
+fs: 8
+hypo: separar
+sa: @en:verb.cognition:contrast
+
+w: afirmar
+d: @en_assert or affirm
+fs: 26
+hypo: verb.communication:jurar
+sa: @en:verb.cognition:hold[8]
+vg: considerar[4]
+
+w: afundar_se
+w: marrar
+d: Eu me afundei nos verbos latinos antes no exame final.
+e: GLOSS_: estudar intensivamente, como antes de um exame
+fs: 2 21
+hypo: estudar[3]
+sa: @en:verb.cognition:bone
+vg: verb.change:@en_cram
+
+w: agendar
+w: reservar
+d: organizar para uma apresentação
+fs: 8 9 20 21
+hypo: agendar[4]
+sa: @en:verb.cognition:book
+
+w: agendar[1]
+d: @en_assign a time slot
+fs: 8
+hypo: agendar[4]
+sa: @en:verb.cognition:slot
+
+w: agendar[2]
+d: @en_enter into a calendar
+fs: 8 9
+hypo: agendar[4]
+sa: @en:verb.cognition:calendar
+
+w: agendar[3]
+d: @en_designate or schedule
+fs: 9 24
+hypo: destinar
+sa: @en:verb.cognition:slate
+
+w: agendar[4]
+d: @en_plan for an activity or event
+fs: 8 9 20 21
+hyper: @en_time
+hyper: agendar
+hyper: agendar[1]
+hyper: agendar[2]
+hypo: planejar[3]
+sa: @en:verb.cognition:schedule
+
+w: agradecer
+w: atribuir
+w: dar_credito
+d: @en_ascribe an achievement to
+fs: 9 10
+hypo: imputar
+sa: @en:verb.cognition:accredit
+
+w: agrupar
+w: agrupar-se
+d: @en_arrange into a group or groups
+fs: 8 9
+hyper: classificar[3]
+hyper: colocar
+hyper: reagrupar
+hyper: verb.contact:@en_batch
+hypo: classificar
+sa: @en:verb.cognition:group
+
+w: aguardar
+w: esperar[1]
+d: esperar por uma provável acorrência de
+fs: 8 9 33
+hyper: verb.body:aguardar
+hyper: @en_look_to
+hyper: aguardar_ansiosamente
+hyper: verb.communication:esperar_um_pouco
+hyper: verb.emotion:esperar[4]
+sa: @en:verb.cognition:await
+vg: antecipar[1]
+
+w: aguardar_ansiosamente
+d: @en_expect or hope for
+fs: 22
+hypo: aguardar
+sa: @en:verb.cognition:look_forward
+
+w: aguentar
+w: aturar
+w: suportar
+w: tolerar
+d: aturar algo ou alguém desagradável
+fs: 8 9
+hyper: @en_bear_up
+hyper: @en_pay
+hyper: @en_take_a_joke
+hyper: aguentar[1]
+hyper: consentir
+hyper: engolir
+hyper: sofrer_em_silêncio
+hypo: verb.communication:deixar
+sa: @en:verb.cognition:abide
+vg: verb.emotion:sofrer[1]
+
+w: aguentar[1]
+d: @en_endure to the end
+fs: 8
+hypo: aguentar
+sa: @en:verb.cognition:sit_out
+
+w: ajustar
+w: reajustar
+d: decidir quanto deve ser pago em uma reivindicação de seguro
+fs: 8
+hypo: resolver
+sa: @en:verb.cognition:adjust
+
+w: alegorizar
+d: interpretar como uma alegoria
+fs: 8
+hypo: compreender[2]
+sa: @en:verb.cognition:allegorise
+
+w: alinhar-se
+d: alinhar-se com um grupo ou uma maneira de pensar
+fs: 9
+hyper: concordar
+hyper: verb.competition:@en_side
+hypo: posicionar_(se)_
+sa: @en:verb.cognition:align
+
+w: almejar
+w: aspirar
+d: @en_have an ambitious plan or a lofty goal
+fs: 28
+hyper: exceder
+hypo: planejar[2]
+sa: @en:verb.cognition:aim
+
+w: anagramar
+d: ler as letras fora de ordem para descobrir um significado oculto
+fs: 2
+hypo: ler[1]
+sa: @en:verb.cognition:anagram
+
+w: analisar
+d: @en_subject to psychoanalytic treatment
+fs: 8 9
+hypo: verb.body:tratar
+mt: noun.cognition:Psicopatologias
+sa: @en:verb.cognition:psychoanalyse
+
+w: analisar[1]
+w: analizar_sintaticamente
+w: decompor
+d: @en_analyze syntactically by assigning a constituent structure to (a sentence)
+fs: 8
+hypo: analisar[3]
+mt: noun.cognition:Gramatica
+sa: @en:verb.cognition:parse
+
+w: analisar[2]
+w: decompor[1]
+d: @en_break down into components or essential features
+fs: 8
+hyper: @en_factor_analyse
+sa: @en:verb.cognition:analyse[4]
+
+w: analisar[3]
+d: @en_make a mathematical, chemical, or grammatical analysis of; break down into components or essential features
+fs: 8
+hyper: analizar_sintaticamente
+hyper: coletar_e_estudar_plantas
+sa: @en:verb.cognition:break_down
+
+w: analizar
+w: examinar
+d: examinar em detalhe e sujeito a uma análise para descobrir as características ou significado essenciais
+fs: 8
+hyper: @en_assay
+hyper: anatomizar
+hyper: auditar
+hyper: checar[3]
+hyper: comparar
+hyper: diagnosticar
+hyper: diagnosticar[1]
+hyper: examinar[1]
+hyper: examinar[2]
+hyper: inspecionar[1]
+hyper: reexaminar[1]
+hyper: seguir
+hyper: verb.communication:analizar
+hyper: verb.contact:examinar
+hyper: verb.perception:ver[18]
+sa: @en:verb.cognition:analyse
+
+w: anatomizar
+w: pormenorizar
+d: analisar até ao mais ínfimo pormenor
+fs: 8
+hypo: analizar
+sa: @en:verb.cognition:anatomize
+
+w: antecipar
+w: antever
+w: prever[1]
+d: @en_realize beforehand
+fs: 26
+hypo: conhecer[3]
+sa: @en:verb.cognition:foreknow
+
+w: antecipar[1]
+d: considerar algo como provável ou possível
+fs: 8 26 28
+hyper: acreditar
+hyper: assumir
+hyper: conjecturar
+hyper: esperar
+hypo: balizar
+sa: @en:verb.cognition:anticipate
+vg: aguardar
+
+w: antropomorfizar
+d: @en_ascribe human features to something
+fs: 15
+hypo: imputar
+sa: @en:verb.cognition:anthropomorphise
+
+w: apanhar
+w: pegar
+d: @en_discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state
+fs: 9
+hypo: sobressaltar
+sa: @en:verb.cognition:catch[1]
+vg: flagrar
+
+w: aprazar
+w: datar
+d: atribuir uma data para; determinar a (provável) data de
+fs: 8
+hyper: verb.change:@en_chronologise
+hyper: errar_a_data
+hypo: determinar[1]
+sa: @en:verb.cognition:date
+
+w: apreciar
+w: gostar
+d: @en_feel about or towards; consider, evaluate, or regard
+fs: 8
+hypo: ver
+sa: @en:verb.cognition:like
+
+w: apreciar[1]
+d: @en_be fully aware of; realize fully
+fs: 8 26
+hypo: compreender[5]
+sa: @en:verb.cognition:appreciate
+
+w: aprender[1]
+w: cursar
+w: estudar[1]
+d: ser um estudante de um determinado assunto
+fs: 8
+hyper: participar_como_ouvinte
+hyper: praticar
+hyper: treinar[1]
+sa: @en:verb.cognition:study
+
+w: aprender_de_novo
+w: reaprender
+d: @en_learn something again, as after having forgotten or neglected it
+fs: 8
+hypo: adquirir
+sa: @en:verb.cognition:relearn
+
+w: apreçar
+d: @en_ascertain or learn the price of
+fs: 8
+hypo: descobrir[1]
+sa: @en:verb.cognition:price
+
+w: aprofundar
+w: comprender
+d: @en_come to understand
+fs: 8 9 26
+hypo: compreender[3]
+sa: @en:verb.cognition:bottom
+
+w: aprovar
+d: @en_accept (documents) as valid
+fs: 8
+hypo: aceitar[4]
+sa: @en:verb.cognition:approbate
+
+w: aprovar[1]
+d: julgar certo ou louvável; pensar bem de
+fs: 2 8 9
+hyper: carimbar
+hypo: balizar
+sa: @en:verb.cognition:approve
+
+w: arquitetar
+w: planejar[1]
+d: planejar algo para uma função específica ou o objectivo ou o efeito
+fs: 8 21
+hypo: destinar
+sa: @en:verb.cognition:design
+
+w: arranjar
+w: sequenciar
+d: organizar em uma seqüência
+fs: 8
+hypo: ranquiar
+sa: @en:verb.cognition:sequence
+
+w: arregimentar
+w: compor
+w: organizar
+d: @en_make up plans or basic details for
+fs: 8
+hypo: planejar[3]
+sa: @en:verb.cognition:compose
+
+w: arrumar
+w: ordenar
+w: organizar[1]
+d: organizar pensamentos, idéias, eventos temporais
+fs: 8
+hyper: sincronizar
+hyper: verb.communication:@en_phrase
+hypo: verb.social:organizar[2]
+sa: @en:verb.cognition:arrange
+
+w: assegurar
+w: checar
+w: verificar
+d: @en_be careful or certain to do something; make certain of something
+fs: 26
+hyper: @en_cinch
+hyper: conferir[2]
+hyper: controlar[2]
+hyper: corrigir
+hyper: escolher_amostras_aleatórias
+hyper: pedir_carteira
+hyper: rechecar
+hyper: verb.communication:@en_cover
+hypo: verificar[3]
+sa: @en:verb.cognition:ascertain
+vg: checar[2]
+vg: conferir
+vg: verb.communication:aprender
+vg: verb.social:verificar
+
+w: assertar
+w: insistir
+d: @en_assert to be true
+fs: 8
+hypo: postular
+sa: @en:verb.cognition:assert
+
+w: assimilar
+d: @en_take up mentally
+fs: 8
+hyper: @en_imbibe
+hypo: adquirir
+sa: @en:verb.cognition:absorb
+
+w: associar
+w: conectar
+w: relacionar
+d: fazer uma conexão lógica ou causal
+fs: 17 31
+hyper: associar_livremente
+hyper: correlacionar
+hyper: identificar
+hyper: inter-relacionar
+hyper: lembrar
+hyper: mencionar
+hypo: raciocínar
+sa: @en:verb.cognition:associate
+
+w: associar[1]
+w: atribuir[1]
+d: @en_decide as to where something belongs in a scheme
+fs: 21
+hyper: classificar[2]
+hypo: balizar
+sa: @en:verb.cognition:assign[3]
+
+w: associar_livremente
+d: @en_associate freely
+fs: 17 31
+hypo: associar
+mt: noun.act:Psicoterapia
+sa: @en:verb.cognition:free-associate
+
+w: assombrar[1]
+w: sobressaltar
+w: surpreender[1]
+d: @en_cause to be surprised
+fs: 9 10
+hyper: admirar
+hyper: apanhar
+hyper: surpreender[3]
+hyper: surpreender[4]
+hyper: verb.emotion:estarrecer
+hypo: verb.emotion:afetar
+sa: @en:verb.cognition:surprise
+
+w: assumir
+w: pressupor
+w: presumir
+w: supor[2]
+d: considerar ser uma hipótese ou uma verdade; aceitar sem verificação ou prova
+fs: 8 11 26
+hyper: pressupor[3]
+hypo: antecipar[1]
+sa: @en:verb.cognition:assume
+
+w: atabalhoar
+w: confundir
+w: embaralhar
+d: @en_mix up or confuse
+fs: 8
+hypo: verb.creation:confundir
+sa: @en:verb.cognition:addle
+
+w: atender
+w: responder
+d: responder a um sinal
+fs: 8
+hypo: reagir
+sa: @en:verb.cognition:answer[2]
+
+w: ater
+w: atordoar
+w: desconcertar
+w: desnortear
+w: pegar[1]
+w: surpreender[2]
+d: @en_be a mystery or bewildering to
+fs: 10
+hyper: @en_riddle
+hyper: deixar_perplexo
+hyper: verb.stative:escapar
+hypo: enrolar
+sa: @en:verb.cognition:baffle
+
+w: atingir
+w: conseguir
+d: chegar a alguma coisa, após deliberar
+fs: 8
+hypo: solucionar
+sa: @en:verb.cognition:strike
+
+w: atribuir[2]
+d: @en_attribute (responsibility or fault) to a cause or source
+fs: 15 21
+hypo: imputar
+sa: @en:verb.cognition:impute[1]
+vg: imputar
+
+w: atribuir[3]
+w: imputar
+d: atribuir ou creditar algo
+fs: 15 21
+hyper: agradecer
+hyper: antropomorfizar
+hyper: atribuir[2]
+hyper: culpar
+hyper: dar__crédito__a
+hyper: externalizar
+hyper: interiorizar
+hyper: personificar
+hyper: reatribuir
+hyper: sensualizar
+hypo: balizar
+sa: @en:verb.cognition:ascribe
+vg: atribuir[2]
+
+w: atualizar_se
+d: @en_learn belatedly; find out about something after it happened
+fs: 2
+hypo: adquirir
+sa: @en:verb.cognition:catch_up
+
+w: auditar
+w: auditorar
+w: escrutinizar
+w: inspecionar
+d: examinar cuidadosamente  com a intenção de verificação
+fs: 8
+hypo: analizar
+sa: @en:verb.cognition:inspect
+
+w: aumentar_o_valor
+d: @en_rate higher; raise in value or esteem
+fs: 8
+hypo: ranquiar
+sa: @en:verb.cognition:upgrade
+
+w: autenticar
+d: @en_establish the authenticity of something
+fs: 8 11
+entail: verificar[3]
+hyper: @en_prove
+hypo: verb.communication:demonstrar
+sa: @en:verb.cognition:authenticate
+
+w: avaliar[1]
+w: estimar
+d: @en_estimate the value of (property) for taxation
+fs: 8
+hypo: chutar
+sa: @en:verb.cognition:assess[1]
+vg: medir
+
+w: avaliar[2]
+w: estimar[1]
+w: medir
+d: avaliar ou estimar a natureza, qualidade, capacidade, medida ou a importância de
+e: GLOSS_: avaliar ou estimar a natureza, qualidade, habilidade, extensão ou significado de
+fs: 8
+hyper: avaliar_novamente
+hyper: censurar
+hyper: dar_nota
+hyper: padronizar
+hyper: taxar
+hyper: verb.communication:elogiar[1]
+hypo: balizar
+sa: @en:verb.cognition:assess
+vg: estimar
+
+w: avaliar[3]
+w: taxar
+w: valorizar
+d: @en_estimate the value of
+fs: 8
+hyper: verb.change:revalorizar[1]
+hypo: medir
+sa: @en:verb.cognition:rate[1]
+
+w: avaliar[4]
+d: avaliar novamente
+fs: 8
+hypo: balizar
+sa: @en:verb.cognition:reappraise
+
+w: avaliar[5]
+w: balizar
+w: julgar
+d: formar uma opinião crítica sobre
+fs: 5 8 9 24 26
+hyper: aceitar[4]
+hyper: achar
+hyper: antecipar[1]
+hyper: aprovar[1]
+hyper: associar[1]
+hyper: avaliar
+hyper: avaliar[4]
+hyper: desaprovar[1]
+hyper: escolher[5]
+hyper: imputar
+hyper: medir
+hyper: posicionar_(se)_
+hyper: prejulgar
+hyper: ranquiar
+hyper: rejeitar[2]
+hyper: verb.communication:julgar
+hyper: verb.communication:passar_em_revista
+hyper: verb.communication:rejeitar
+hyper: verb.social:@en_fail[1]
+hyper: verb.social:ensaiar
+hyper: verb.social:passar[1]
+hypo: raciocínar
+sa: @en:verb.cognition:judge
+
+w: avaliar[6]
+w: taxar[1]
+d: @en_fix or determine the value of; assign a value to
+fs: 21
+hyper: @en_float
+hyper: subestimar[3]
+hyper: superestimar
+hypo: determinar[1]
+sa: @en:verb.cognition:value[3]
+
+w: avaliar_novamente
+w: reavaliar
+d: @en_revise or renew one's assessment
+fs: 8
+hypo: medir
+sa: @en:verb.cognition:reassess
+
+w: azarar
+d: predizer má sorte
+fs: 10
+hypo: preordenar
+sa: @en:verb.cognition:jinx
+
+w: basear
+w: fundamentar
+d: @en_use as a basis for; found on
+fs: 21
+hyper: construir
+sa: @en:verb.cognition:base
+
+w: bloquear
+w: esquecer
+w: olvidar
+d: ser incapaz de se lembrar
+fs: 2
+hyper: esquecer[3]
+sa: @en:verb.cognition:blank_out
+
+w: brincar
+d: @en_consider not very seriously
+fs: 22
+hypo: considerar[7]
+sa: @en:verb.cognition:dally[1]
+vg: verb.social:brincar
+
+w: brincar_de_brigar
+d: @en_engage in rough or disorderly play
+fs: 2
+hypo: verb.social:brincar[1]
+sa: @en:verb.cognition:roughhouse
+
+w: buscar
+w: explorar
+w: investigar
+w: pesquisar
+d: @en_travel to or penetrate into
+fs: 8
+hyper: @en_cave
+hyper: @en_pioneer
+hyper: mapear[3]
+hypo: verb.communication:analizar
+sa: @en:verb.cognition:explore[1]
+
+w: buscar[1]
+w: explorar[1]
+w: investigar[1]
+w: pesquisar[1]
+w: procurar
+d: @en_inquire into
+fs: 8
+hyper: @en_beat_about
+hyper: @en_prospect
+hyper: googlar
+hyper: mapear[1]
+hyper: re-explorar
+hypo: verb.communication:analizar
+sa: @en:verb.cognition:explore
+
+w: cadenciar
+w: controlar
+w: ritmar
+d: regular ou definir o ritmo de
+fs: 8 9
+hypo: determinar
+sa: @en:verb.cognition:pace
+
+w: calcular[1]
+w: computar
+d: fazer um calculo ou computação matemática
+fs: 8 26
+hyper: @en_extract
+hyper: calcular_a_média
+hyper: calcular_o_valor
+hyper: chutar
+hyper: diferenciar_
+hyper: dividir
+hyper: dividir_proporcionalmente
+hyper: fatorar[1]
+hyper: fazer_orçamento
+hyper: integrar
+hyper: interpolar
+hyper: mapear[2]
+hyper: multiplicar
+hyper: processar
+hyper: quantizar
+hyper: recalcular
+hyper: resolver[5]
+hyper: somar
+hyper: subestimar[2]
+hyper: subtrair
+hypo: raciocinar[1]
+mt: noun.cognition:Matematica
+sa: @en:verb.cognition:calculate
+vg: @en_work_out
+
+w: calcular[2]
+w: calcular_o_valor
+d: calcular o valor presente de um negócio ou uma renda
+fs: 8
+hyper: superestimar[3]
+hypo: computar
+sa: @en:verb.cognition:capitalise[1]
+
+w: calcular_a_média
+d: calcular a média de
+fs: 8
+hypo: computar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:average
+
+w: calibrar
+d: @en_measure the diameter of something with calipers
+fs: 8
+hypo: mensurar
+sa: @en:verb.cognition:caliper
+
+w: calibrar[1]
+d: @en_measure the caliber of
+fs: 8
+hypo: mensurar
+sa: @en:verb.cognition:calibrate[2]
+
+w: capitalizar
+d: @en_consider expenditures as capital assets rather than expenses
+fs: 8
+hypo: ver
+sa: @en:verb.cognition:capitalise
+
+w: capturar
+w: prender
+d: @en_capture the attention or imagination of
+fs: 10 11
+hypo: verb.stative:atrair
+sa: @en:verb.cognition:grab
+
+w: carimbar
+d: aprovar automaticamente
+fs: 8
+hypo: aprovar[1]
+sa: @en:verb.cognition:rubberstamp
+
+w: carimbar_como_pago
+w: marcar_como_pago
+d: @en_mark or stamp as paid
+fs: 8
+hypo: checar[2]
+sa: @en:verb.cognition:receipt
+
+w: catalogar
+d: @en_make an itemized list or catalog of; classify
+fs: 8
+hypo: classificar
+sa: @en:verb.cognition:catalog
+
+w: categorizar
+d: @en_place into or assign to a category
+fs: 8 9
+entail: comparar
+hyper: classificar
+hypo: raciocinar[1]
+sa: @en:verb.cognition:categorise
+
+w: censurar
+d: @en_subject to political, religious, or moral censorship
+fs: 8
+hyper: verb.change:cortar
+hypo: medir
+sa: @en:verb.cognition:censor
+
+w: centrar
+w: concentrar
+w: focar
+d: direcionar a atenção de alguém em alguam coisa
+e: GLOSS_: direcionar a atenção de alguém para algo
+fs: 13
+hyper: chamar_de_volta
+hyper: focar[2]
+hyper: pensar[8]
+hyper: verb.perception:@en_zoom_in
+hyper: verb.perception:escutar[2]
+hypo: raciocínar
+sa: @en:verb.cognition:center
+vg: interessar
+
+w: chamar
+d: anunciar ou proferir em voz alta
+fs: 8
+hypo: verb.communication:emitir
+sa: @en:verb.cognition:call[13]
+vg: verb.communication:mugir
+
+w: chamar[1]
+d: @en_consider or regard as being
+fs: 8 9
+hypo: ver
+sa: @en:verb.cognition:call[5]
+vg: verb.communication:@en_call[2]
+
+w: chamar_de_volta
+d: @en_cause one's (or someone else's) thoughts or attention to return from a reverie or digression
+fs: 2 9 10
+hypo: centrar
+sa: @en:verb.cognition:recall[6]
+
+w: checar[1]
+w: conferir
+w: verificar[1]
+d: verificar através da consulta de uma fonte ou autoridade
+fs: 8
+hypo: verificar[3]
+sa: @en:verb.cognition:check[12]
+vg: assegurar
+
+w: checar[2]
+w: verificar[2]
+d: @en_put a check mark on or near or next to
+fs: 8
+hyper: carimbar_como_pago
+hypo: verificar[3]
+sa: @en:verb.cognition:check_off
+vg: assegurar
+vg: checar[3]
+
+w: checar[3]
+w: conferir[1]
+d: examinar de modo a determinar a precisão, qualidade ou condição
+fs: 8
+hyper: verb.social:espionar
+hypo: analizar
+sa: @en:verb.cognition:check
+vg: checar[2]
+
+w: chegar[1]
+w: classificar-se
+d: ter um lugar em uma competição; muitas vezes seguido por um ordinal
+fs: 6 7
+hypo: colocar-se
+sa: @en:verb.cognition:come_in
+
+w: chutar
+w: estimar[2]
+d: julgar por tentativa ou formar uma estimativa de (quantidades ou tempo)
+fs: 8 22 26
+hyper: @en_make[1]
+hyper: @en_misgauge
+hyper: contar_
+hyper: estimar
+hyper: estimar[3]
+hyper: estimar[4]
+hyper: fazer_pouco
+hyper: quantizar[1]
+hyper: truncar
+hyper: verb.communication:@en_guesstimate
+hypo: computar
+sa: @en:verb.cognition:approximate
+
+w: classificar
+d: organizar ou ordenar por classes ou categorias
+fs: 8 9
+entail: comparar
+hyper: verb.change:@en_unitise
+hyper: @en_grade
+hyper: @en_size
+hyper: agrupar
+hyper: catalogar
+hyper: dicotomizar
+hyper: estereotipar
+hyper: isolar
+hyper: reclassificar
+hyper: referir[1]
+hyper: verb.stative:contar[1]
+hypo: categorizar
+sa: @en:verb.cognition:assort
+
+w: classificar[1]
+w: ranquiar
+d: atribuir uma classificação ou ranque para
+fs: 8 9
+hyper: @en_shortlist
+hyper: arranjar
+hyper: aumentar_o_valor
+hyper: distribuir
+hyper: priorizar
+hyper: rebaixar
+hyper: reordenar
+hyper: subordinar
+hyper: super-ordenar
+hypo: balizar
+sa: @en:verb.cognition:order
+
+w: classificar[2]
+d: atribuir a uma classe ou tipo
+fs: 21
+hypo: associar[1]
+sa: @en:verb.cognition:classify[1]
+
+w: classificar[3]
+d: @en_classify or group
+fs: 31
+hypo: agrupar
+sa: @en:verb.cognition:bracket
+
+w: clicar
+w: despontar
+w: entender
+w: perceber
+w: realizar
+d: entrar, ficar  claro, na consciência ou emoções
+fs: 1
+cause: compreender[3]
+sa: @en:verb.cognition:fall_into_place
+
+w: coar
+w: peneirar
+d: @en_distinguish and separate out
+fs: 9
+hypo: selecionar
+sa: @en:verb.cognition:sieve
+
+w: cobrar
+d: @en_set or ask for a certain price
+fs: 8
+hypo: determinar[1]
+sa: @en:verb.cognition:charge[12]
+
+w: cogitar[1]
+w: contemplar
+w: meditar
+w: ponderar
+d: @en_think intently and at length, as for spiritual purposes
+fs: 2
+hypo: raciocínar
+sa: @en:verb.cognition:contemplate
+
+w: cogitar[2]
+d: Considerar cuidadosamente e profundamente
+fs: 8 29
+hypo: contemplar[2]
+sa: @en:verb.cognition:cogitate[1]
+
+w: coisificar
+w: reificar
+d: @en_consider an abstract concept to be real
+fs: 8
+hyper: hipotetizar
+hypo: ver
+sa: @en:verb.cognition:reify
+
+w: coletar_e_estudar_plantas
+d: coletar e estudar plantas
+fs: 2
+hypo: analisar[3]
+sa: @en:verb.cognition:botanise
+
+w: colocar
+d: colocar lado a lado
+fs: 8 9
+hypo: agrupar
+sa: @en:verb.cognition:collocate
+
+w: colocar-se
+w: posicionar-se
+d: @en_take or have a position relative to others
+fs: 8 11
+hyper: classificar-se
+hyper: vir
+hypo: verb.stative:estar[2]
+sa: @en:verb.cognition:rank[13]
+
+w: comemorar
+w: marcar
+d: @en_mark by some ceremony or observation
+fs: 8
+hypo: verb.social:festejar
+sa: @en:verb.cognition:commemorate[2]
+
+w: comemorar[1]
+w: imortalizar
+w: rememorar
+d: @en_be or provide a memorial to a person or an event
+fs: 8 9 10 11
+hyper: monumentalizar
+hypo: recordar[3]
+sa: @en:verb.cognition:immortalise
+
+w: comer
+d: @en_omit (a letter or syllable) in speaking or writing
+e: Ela come todos os "s".
+fs: 8
+hypo: elidir
+sa: @en:verb.cognition:drop[6]
+
+w: comparar
+d: examinar e notar as similaridades ou diferenças de
+fs: 8 9 11 21
+hyper: comparar_
+hyper: fazer_uma_analogia
+hypo: analizar
+sa: @en:verb.cognition:compare
+vg: verb.stative:comparar
+
+w: comparar_
+d: @en_compare critically; of texts
+fs: 8
+hypo: comparar
+sa: @en:verb.cognition:collate
+
+w: compreender
+w: entender[1]
+d: ouvir e entender
+fs: 8 9
+hypo: compreender[3]
+sa: @en:verb.cognition:read[8]
+vg: ler[2]
+
+w: compreender[1]
+w: entender[2]
+d: pegar o sentido de algo
+fs: 8 26
+hyper: _intuir
+hyper: compreender[7]
+hyper: digerir
+hyper: entender[13]
+hypo: compreender[3]
+sa: @en:verb.cognition:apprehend
+
+w: compreender[2]
+w: entender[3]
+d: fazer sentido; atribuir um significado à
+fs: 8
+hyper: _reinterpretar
+hyper: alegorizar
+hyper: compreender_mal
+hyper: escanear
+hyper: espiritualizar
+hyper: ler[1]
+hyper: ler[2]
+hyper: ler_nas_entrelinhas
+hyper: literalizar
+hyper: mitificar
+hyper: verb.creation:extrair
+hypo: compreender[3]
+sa: @en:verb.cognition:construe
+vg: ver
+
+w: compreender[3]
+w: comprender[1]
+w: entender[4]
+d: @en_know and comprehend the nature or meaning of
+fs: 2 8 9 26
+hyper: aprofundar
+hyper: compreender
+hyper: compreender[1]
+hyper: compreender[2]
+hyper: compreender[4]
+hyper: comprender[2]
+hyper: comprender[3]
+hyper: entender[15]
+hyper: interpretar
+hyper: sentir
+hyper: solucionar
+sa: @en:verb.cognition:understand
+
+w: compreender[4]
+w: entender[5]
+d: @en_grasp the meaning
+fs: 2 8 9
+hypo: compreender[3]
+sa: @en:verb.cognition:follow[14]
+
+w: compreender[5]
+w: entender[6]
+d: perceber (uma idéia ou situação) mentalmente
+fs: 2 8 26
+hyper: apreciar[1]
+hyper: perceber_
+sa: @en:verb.cognition:realise
+vg: verb.creation:afigurar
+vg: verb.perception:compreender
+
+w: compreender[6]
+w: entender[7]
+d: estar plenamente consciente ou ciente de
+fs: 8 26
+hyper: @en_know
+hypo: saber
+sa: @en:verb.cognition:agnise
+
+w: compreender[7]
+w: perceber[1]
+d: @en_understand
+fs: 8 9
+hypo: compreender[1]
+mu: noun.communication:@en_colloquialism
+sa: @en:verb.cognition:figure[2]
+
+w: compreender_mal
+w: entender_mal
+d: @en_interpret in the wrong way
+fs: 8
+hypo: compreender[2]
+sa: @en:verb.cognition:be_amiss[1]
+
+w: comprender[2]
+w: entender[8]
+w: pegar[2]
+d: @en_grasp with the mind or develop an understanding of
+fs: 1
+hypo: compreender[3]
+sa: @en:verb.cognition:catch[3]
+vg: verb.creation:@en_catch
+vg: verb.possession:adquirir[4]
+
+w: comprender[3]
+d: @en_comprehend
+fs: 8
+hypo: compreender[3]
+sa: @en:verb.cognition:touch
+
+w: conceber
+w: engendrar
+w: projetar
+d: conceber como engenheiro
+fs: 8
+hypo: verb.creation:esboçar
+sa: @en:verb.cognition:engineer[1]
+
+w: conchavar
+w: conjurar
+w: conspirar
+w: maquinar
+d: @en_engage in plotting or enter into a conspiracy, swear together
+fs: 2 22
+hyper: conluiar
+hypo: maquinar[1]
+sa: @en:verb.cognition:cabal
+
+w: concluir[2]
+w: induzir
+d: @en_reason or establish by induction
+fs: 26
+hypo: chegar
+mt: noun.cognition:lógica
+sa: @en:verb.cognition:induce
+
+w: concluir[3]
+w: decidir[1]
+w: resolver
+d: pôr um fim; resolver conclusivamente
+fs: 8 11
+hyper: ajustar
+hyper: julgar[2]
+hypo: verb.change:concluir[1]
+sa: @en:verb.cognition:adjudicate
+
+w: concluir[4]
+w: deduzir[1]
+w: depreender
+w: inferir[2]
+d: @en_reason by deduction; establish by deduction
+fs: 26
+hyper: @en_surmise
+hyper: elicitar
+hyper: extrapolar
+hypo: chegar
+mt: noun.cognition:lógica
+sa: @en:verb.cognition:deduce
+
+w: concordar
+d: @en_agree on (a position)
+fs: 22
+hypo: alinhar-se
+sa: @en:verb.cognition:fall_in_line[12]
+
+w: concordar[1]
+d: mudar de posição ou opinião
+fs: 2 22
+entail: reconsiderar[1]
+hypo: verb.change:alterar[3]
+sa: @en:verb.cognition:come_around
+
+w: concretizar
+d: fazer algo concreto
+fs: 8 11
+hypo: especificar[1]
+sa: @en:verb.cognition:concretize
+
+w: conferir[2]
+d: verificar de forma cruzada
+e: GLOSS_: conferir fontes conflitantes
+fs: 8 26
+hypo: assegurar
+sa: @en:verb.cognition:cross-check
+
+w: confirmar
+w: corroborar
+w: provar
+w: substanciar
+w: suportar[1]
+w: sustentar
+d: estabelecer ou fortalecer com novas provas ou fatos
+fs: 8 11 26
+hyper: verb.change:@en_vouch
+hyper: verb.change:confirmar
+hyper: demonstrar
+hyper: documentar
+hyper: validar[1]
+hyper: verificar[3]
+sa: @en:verb.cognition:affirm
+
+w: confundir[1]
+w: enrolar
+w: perplexar
+d: ser confuso ou surpreendente; causar  ser incapaz de pensar claramente
+fs: 9 10 11
+hyper: ater
+hyper: desmoralizar
+hyper: verb.perception:desorientar
+hypo: verb.stative:estar[2]
+sa: @en:verb.cognition:bedevil
+vg: verb.emotion:disconcertar
+
+w: confundir[2]
+d: @en_mistake one thing for another
+fs: 8 9 21
+hypo: identificar_erroneamente
+sa: @en:verb.cognition:confound[1]
+vg: obnubilar
+vg: verb.creation:confundir
+
+w: confundir[3]
+w: obnubilar
+w: obscurecer
+d: @en_make unclear, indistinct, or blurred
+fs: 8 11
+hyper: enlamear
+hypo: verb.change:alterar[2]
+sa: @en:verb.cognition:blur
+vg: confundir[2]
+
+w: confundir[4]
+w: equivocar
+w: errar
+d: cometer um erro ou estar incorreto
+fs: 2
+hyper: _enganar-se
+hyper: lembrar_incorretamente
+hyper: mal_julgar
+hyper: verb.social:@en_fall_for
+sa: @en:verb.cognition:err
+
+w: confundir[5]
+w: identificar_erroneamente
+d: identificar incorretamente
+fs: 8 9
+hyper: confundir[2]
+hypo: identificar[3]
+sa: @en:verb.cognition:misidentify
+
+w: conhecer
+d: @en_perceive as familiar
+fs: 8 9
+hypo: lembrar-se
+sa: @en:verb.cognition:know[14]
+vg: conhecer[5]
+
+w: conhecer[1]
+w: experimentar
+d: @en_have firsthand knowledge of states, situations, emotions, or sensations
+fs: 8
+hyper: experimentar[1]
+hyper: reviver
+hypo: verb.perception:experienciar
+sa: @en:verb.cognition:experience
+
+w: conhecer[2]
+w: entender[9]
+w: saber
+d: estar cientes ou conhecer  um fato ou uma parte específica de informação
+fs: 2 8 26
+hyper: @en_keep_track
+hyper: compreender[6]
+sa: @en:verb.cognition:cognise
+vg: conhecer[3]
+
+w: conhecer[3]
+w: saber[1]
+d: @en_be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt
+fs: 8 26
+hyper: antecipar
+sa: @en:verb.cognition:know[2]
+vg: saber
+
+w: conhecer[4]
+w: saber[2]
+d: @en_have fixed in the mind
+fs: 8
+hyper: @en_have_down
+sa: @en:verb.cognition:know[15]
+
+w: conhecer[5]
+d: @en_be familiar or acquainted with a person or an object
+fs: 8 9
+sa: @en:verb.cognition:know
+vg: conhecer
+
+w: conjecturar
+w: supor[3]
+w: teorizar
+d: acreditar especialmente em fundamentos incertos ou experimentais
+e: GLOSS_: acreditar especialmente com  fundamentos incertos ou experimentais
+fs: 26
+hyper: reconstruir
+hyper: verb.communication:formular[1]
+hypo: antecipar[1]
+sa: @en:verb.cognition:conjecture
+
+w: conluiar
+w: conspirar[1]
+d: conspirar em conjunto
+e: Os dois homens conspiraram para encobrir a investigação federal
+fs: 2
+hypo: conchavar
+sa: @en:verb.cognition:coconspire
+
+w: consentir
+d: @en_tolerate or bear
+fs: 8
+hypo: aguentar
+sa: @en:verb.cognition:hold_still_for
+
+w: considerar[4]
+w: julgar[1]
+d: manter em mente ou transmitir uma convicção ou opinião
+fs: 5 14 26
+hypo: ver
+sa: @en:verb.cognition:deem
+vg: afirmar
+
+w: considerar[5]
+d: observar ou considerar
+fs: 8 9
+hypo: achar
+sa: @en:verb.cognition:esteem
+
+w: considerar[6]
+w: contar_
+d: ter em conta
+fs: 22
+hypo: chutar
+sa: @en:verb.cognition:count[12]
+
+w: considerar[7]
+d: @en_take into consideration for exemplifying purposes
+fs: 8
+hyper: abstrair
+hyper: brincar
+hyper: contemplar[3]
+hyper: verb.emotion:entusiasmar_se
+hypo: cogitar
+sa: @en:verb.cognition:look_at
+
+w: considerar[8]
+w: contemplar[1]
+w: entreter
+d: @en_take into consideration, have in view
+fs: 8 33
+hypo: contemplar[3]
+sa: @en:verb.cognition:entertain
+
+w: considerar[9]
+d: @en_regard or treat with consideration, respect, and esteem
+fs: 5 20 21
+hypo: ver
+sa: @en:verb.cognition:consider[5]
+
+w: considerar[10]
+d: @en_consider as relevant when making a decision
+fs: 8
+hypo: verb.perception:considerar
+sa: @en:verb.cognition:factor[1]
+
+w: considerar_cuidadosamente
+d: @en_consider carefully and rationally
+fs: 8
+hypo: planejar[2]
+sa: @en:verb.cognition:think_out
+
+w: conspirar[2]
+d: @en_act in unison or agreement and in secret towards a deceitful or illegal purpose
+fs: 1 2 28
+hypo: verb.social:interagir
+sa: @en:verb.cognition:collude
+
+w: construir
+d: @en_found or ground
+fs: 8
+hypo: basear
+sa: @en:verb.cognition:build[3]
+
+w: consumir
+w: esgotar
+d: @en_engage fully
+fs: 10 11
+hypo: ocupar
+sa: @en:verb.cognition:consume
+
+w: contar
+d: incluir como se por contagem
+fs: 20 21
+hypo: incluir[1]
+sa: @en:verb.cognition:count
+
+w: contar_(com)
+w: depender
+d: @en_have faith or confidence in
+fs: 8 9
+hypo: acreditar[1]
+sa: @en:verb.cognition:bet
+
+w: contemplar[2]
+w: refletir[1]
+d: refletir profundamente sobre um assunto
+fs: 22
+hyper: _introspectar
+hyper: cogitar[2]
+hyper: ponderar[2]
+hyper: premeditar
+hyper: teologizar
+hyper: verb.communication:ponderar
+hyper: verb.emotion:perguntar-se
+hyper: verb.perception:considerar
+hypo: raciocínar
+sa: @en:verb.cognition:chew_over
+
+w: contemplar[3]
+d: @en_consider as a possibility
+fs: 8 33
+hyper: entreter
+hypo: considerar[7]
+sa: @en:verb.cognition:contemplate[2]
+
+w: contradistinguir
+w: diferenciar
+d: distinguir por qualidades contrastantes
+fs: 8
+hypo: separar
+sa: @en:verb.cognition:contradistinguish
+
+w: contradizer
+w: negar
+d: @en_prove negative; show to be false
+fs: 8 11 26
+hyper: @en_confute
+hyper: invalidar
+hypo: demonstrar
+mt: noun.cognition:lógica
+sa: @en:verb.cognition:contradict
+
+w: contramarchar_
+d: alterar a ordem dos soldados durante uma marcha
+fs: 2
+hypo: reordenar
+sa: @en:verb.cognition:countermarch
+
+w: controlar[1]
+w: manter
+w: observar
+d: @en_stick to correctly or closely
+fs: 8
+sa: @en:verb.cognition:keep
+
+w: controlar[2]
+d: @en_verify by using a duplicate register for comparison
+fs: 8
+hypo: assegurar
+mt: noun.communication:@en_archaicism
+sa: @en:verb.cognition:control[11]
+
+w: coreografar
+d: @en_plan and oversee the development and details of
+fs: 8
+hypo: engenhar
+sa: @en:verb.cognition:choreograph
+
+w: correlacionar
+w: correlatar
+d: @en_bring into a mutual, complementary, or reciprocal relation
+fs: 8 11
+hypo: associar
+sa: @en:verb.cognition:correlate
+vg: verb.stative:correlatar_se
+
+w: corrigir
+w: ler_fazendo_correções
+d: @en_read for errors
+fs: 2 8
+entail: ler[1]
+hypo: assegurar
+sa: @en:verb.cognition:proof
+
+w: corrigir[1]
+w: dar_nota
+d: @en_assign a grade or rank to, according to one's evaluation
+fs: 2 8
+hypo: medir
+sa: @en:verb.cognition:mark
+
+w: cronometrar
+d: definir a velocidade, duração ou execução de
+fs: 8 11
+hypo: determinar
+sa: @en:verb.cognition:time[1]
+
+w: cubar
+w: elevar_ao_cubo
+d: @en_raise to the third power
+fs: 8
+hypo: multiplicar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:cube
+
+w: culpar
+d: @en_attribute responsibility to
+fs: 8
+hypo: imputar
+sa: @en:verb.cognition:blame
+
+w: dar__crédito__a
+d: @en_give someone credit for something
+fs: 15 17
+hypo: imputar
+sa: @en:verb.cognition:credit[1]
+
+w: datar[1]
+d: @en_provide with a dateline; mark with a date
+fs: 8
+hyper: datar[2]
+hyper: datar[3]
+hypo: verb.possession:prover
+sa: @en:verb.cognition:date[1]
+
+w: datar[2]
+d: @en_stamp with a date
+fs: 8
+hypo: datar[1]
+hypo: verb.contact:@en_stamp[3]
+sa: @en:verb.cognition:date_stamp
+
+w: datar[3]
+d: Marcar com uma data e lugar
+fs: 8
+hypo: datar[1]
+sa: @en:verb.cognition:date-mark
+
+w: debater
+d: @en_argue with one another
+fs: 2 9
+hypo: verb.communication:deliberar
+sa: @en:verb.cognition:debate
+
+w: decidir[2]
+w: propor-se
+w: resolver[1]
+d: @en_reach a decision
+fs: 26 28
+hypo: decidir[3]
+sa: @en:verb.cognition:purpose
+
+w: decidir[3]
+w: resolver[2]
+d: chegar, fazer uma decisão sobre algo
+fs: 8
+entail: verb.communication:debater[1]
+hyper: @en_will
+hyper: decretar
+hyper: mensurar
+hyper: propor-se
+hyper: selar
+hyper: selecionar
+hyper: verb.perception:@en_orient
+hyper: verb.social:julgar
+hyper: verb.social:regulamentar
+sa: @en:verb.cognition:decide
+
+w: decidir[4]
+d: influenciar ou determinar
+fs: 11
+hypo: determinar
+sa: @en:verb.cognition:decide[6]
+
+w: decidir_
+d: deliberar ou decidir
+fs: 29
+hypo: verb.communication:deliberar
+sa: @en:verb.cognition:see[8]
+
+w: decifrar
+d: @en_read with difficulty
+fs: 8
+hypo: ler[1]
+sa: @en:verb.cognition:decipher
+
+w: decorar
+w: memorizar
+w: saber_de_cor
+d: @en_commit to memory; learn by heart
+fs: 8
+hyper: ser_standing
+hypo: estudar[3]
+sa: @en:verb.cognition:con
+
+w: decretar
+d: decidir com autoridade
+fs: 26
+hyper: derrotar
+hyper: verb.competition:@en_rule_in
+hypo: decidir[3]
+sa: @en:verb.cognition:decree
+
+w: dedicar
+d: @en_set apart to sacred uses with solemn rites, of a church
+fs: 8
+hypo: designar
+sa: @en:verb.cognition:dedicate
+
+w: deduzir[2]
+w: subtrair
+d: fazer uma subtração
+fs: 2 8
+hyper: @en_carry_back
+hypo: computar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:subtract
+
+w: deificar
+w: deusificar
+w: idolatrar
+d: Considerar como Deus ou divino
+fs: 8 9
+hyper: divinizar
+hypo: idealizar[1]
+sa: @en:verb.cognition:deify
+
+w: deixar_passar
+w: escapar
+w: omitir
+w: preterir
+d: @en_leave undone or leave out
+fs: 8 9 28
+hyper: esquecer[2]
+hyper: pular
+sa: @en:verb.cognition:drop
+
+w: deixar_passar[1]
+w: excetuar
+w: excluir
+w: omitir[1]
+w: preterir[1]
+d: @en_prevent from being included or considered or accepted
+fs: 8 10
+hyper: elidir
+hypo: verb.change:extinguir
+sa: @en:verb.cognition:except
+
+w: deixar_perplexo
+d: @en_cause to be perplexed or confounded
+fs: 10
+hypo: ater
+sa: @en:verb.cognition:mix_up
+
+w: delimitar
+w: demarcar
+d: @en_set, mark, or draw the boundaries of something
+fs: 8 11
+hypo: verb.change:limitar[2]
+sa: @en:verb.cognition:delimit
+
+w: demarcar[1]
+d: @en_separate clearly, as if by boundaries
+fs: 8 11
+hypo: separar
+sa: @en:verb.cognition:demarcate[1]
+
+w: demonstrar
+w: validar
+d: estabelecer a validade de algo, como por exemplo uma explicação ou experiência
+fs: 8 11 26
+hyper: contradizer
+hyper: provar[1]
+hyper: provar_(se)
+hyper: verb.emotion:estultificar
+hypo: confirmar
+sa: @en:verb.cognition:demonstrate
+
+w: depender[1]
+d: depender para apoio
+fs: 9 10
+hypo: acreditar[1]
+sa: @en:verb.cognition:lean[10]
+
+w: derrotar
+w: derrubar
+d: @en_rule against
+fs: 8 11
+hypo: decretar
+sa: @en:verb.cognition:override
+
+w: desabonar
+w: desacreditar
+w: desprestigiar
+d: fazer com que alguém não confie em algo ou alguém
+fs: 8
+hypo: verb.communication:deixar_de_lado
+sa: @en:verb.cognition:discredit[1]
+
+w: desacreditar[1]
+w: descrer
+d: rejeitar algo como falso; recusar a aceitar
+fs: 8 9
+hyper: desconfiar
+hyper: estar_em_dúvida
+hypo: rejeitar[2]
+sa: @en:verb.cognition:disbelieve
+
+w: desaprender[1]
+d: @en_discard something previously learnt, like an old habit
+fs: 8 28
+hypo: verb.possession:descartar
+sa: @en:verb.cognition:unlearn
+
+w: desaprovar
+d: @en_look disapprovingly upon
+fs: 8
+hypo: desaprovar[1]
+sa: @en:verb.cognition:frown_on
+
+w: desaprovar[1]
+d: @en_consider bad or wrong
+fs: 2 8 9
+hyper: @en_discountenance
+hyper: desaprovar
+hypo: balizar
+sa: @en:verb.cognition:disapprove
+
+w: desassociar
+w: dissociar
+d: considerar como desconectado
+fs: 8
+hypo: separar
+sa: @en:verb.cognition:decouple
+
+w: desatender
+w: ignorar
+w: negligenciar
+d: dar pouca ou nenhuma atenção para
+fs: 8 9
+hyper: preterir[2]
+sa: @en:verb.cognition:disregard
+
+w: descartar
+d: admitir a perda ou inutilidade de algo ou alguém
+fs: 8 9
+hypo: verb.communication:reconhecer
+sa: @en:verb.cognition:write_off
+
+w: desclassificar
+d: fazer aparecer  numa classe inferior
+fs: 8 9
+hypo: subordinar
+mt: noun.act:esporte[1]
+sa: @en:verb.cognition:outclass
+
+w: descobrir[1]
+d: @en_learn or discover with certainty
+fs: 26
+hyper: apreçar
+hypo: descobrir
+sa: @en:verb.cognition:ascertain[1]
+
+w: descobrir[2]
+d: @en_trap; especially in an error or in a reprehensible act
+fs: 9
+hypo: verb.perception:achar
+sa: @en:verb.cognition:catch_out
+
+w: descobrir[3]
+d: @en_make a discovery
+fs: 26
+hyper: @en_rake_up
+hyper: extrair_com_dificuldade
+hypo: descobrir
+sa: @en:verb.cognition:discover
+vg: verb.creation:achar
+
+w: desconfiar ant crer[1]
+d: @en_regard as untrustworthy; regard with suspicion; have no faith or confidence in
+fs: 8 9
+hyper: duvidar
+hypo: descrer
+sa: @en:verb.cognition:distrust
+
+w: desconhecer
+w: ignorar[1]
+d: @en_be ignorant of or in the dark about
+fs: 8 26
+sa: @en:verb.cognition:ignore[1]
+
+w: descuidar
+w: descurar
+w: desleixar
+w: negligenciar[1]
+d: @en_fail to attend to
+fs: 8 9
+hyper: negligenciar[2]
+sa: @en:verb.cognition:neglect[5]
+
+w: desejar
+w: querer
+d: @en_wish or demand the presence of
+fs: 9
+hypo: verb.communication:demandar
+sa: @en:verb.cognition:want[1]
+vg: verb.contact:procurar[4]
+
+w: desfraldar
+w: tirar_a_fralda_(de_uma_criança)_
+d: treinar (uma criança pequena) para usar o banheiro
+fs: 9
+hypo: instruir
+sa: @en:verb.cognition:toilet-train
+
+w: designar
+w: escolher
+w: especificar
+d: @en_select something or someone for a specific purpose
+fs: 20 21
+hyper: @en_detail
+hyper: dedicar
+hypo: selecionar
+sa: @en:verb.cognition:assign
+
+w: desistir[1]
+d: optar por não fazer algo, como por medo de fracassar
+fs: 2 22
+hypo: optar
+sa: @en:verb.cognition:cop_out
+
+w: deslumbrar
+w: estontear[1]
+w: fascinar
+w: impressionar
+d: @en_amaze or bewilder, as with brilliant wit or intellect or skill
+fs: 9 10
+hypo: admirar
+sa: @en:verb.cognition:dazzle
+
+w: desmentir
+w: rebater
+w: refutar
+d: provar ser falso ou incorreto
+fs: 8 11
+hypo: @en_confute
+sa: @en:verb.cognition:controvert
+
+w: desmoralizar
+d: @en_confuse or put into disorder
+fs: 9 10
+hypo: enrolar
+sa: @en:verb.cognition:demoralize
+
+w: desrespeitar
+d: @en_have little or no respect for; hold in contempt
+fs: 8 9
+hyper: não_valorizar
+hypo: ver
+sa: @en:verb.cognition:disesteem
+
+w: destinar
+d: designar ou destinar
+fs: 24
+hyper: agendar[3]
+hyper: arquitetar
+hyper: direcionar
+hyper: ser_para
+hypo: planejar[3]
+sa: @en:verb.cognition:designate
+
+w: determinar
+w: influenciar
+w: moldar
+d: @en_shape or influence; give direction to
+fs: 11 29
+hyper: @en_disincline
+hyper: cadenciar
+hyper: cronometrar
+hyper: decidir[4]
+hyper: dispor
+hyper: fazer_mal_feito
+hyper: indexar_
+hyper: influenciar_consideravelmente
+hyper: predeterminar[1]
+hyper: reformar
+hypo: verb.creation:causar[4]
+sa: @en:verb.cognition:influence
+
+w: determinar[1]
+d: estabelecer conclusivamente ou autoritariamente
+fs: 8 11 26 27
+hyper: aprazar
+hyper: avaliar[6]
+hyper: cobrar
+hyper: filiar
+hyper: formatar
+hyper: identificar[1]
+hyper: inicializar
+hyper: verb.possession:avaliar
+hyper: verb.possession:avaliar[1]
+sa: @en:verb.cognition:determine[1]
+
+w: determinar[2]
+d: @en_fix in scope; fix the boundaries of
+fs: 11
+hyper: especificar[1]
+hypo: verb.stative:especificar
+sa: @en:verb.cognition:determine[3]
+
+w: detonar
+w: explodir_
+d: @en_show (a theory or claim) to be baseless, or refute and make obsolete
+fs: 8 11
+hypo: @en_confute
+sa: @en:verb.cognition:explode[1]
+
+w: diagnosticar
+d: @en_subject to a medical analysis
+fs: 9
+hyper: explorar[2]
+hypo: analizar
+mt: noun.act:Incisão
+sa: @en:verb.cognition:diagnose[1]
+
+w: diagnosticar[1]
+d: @en_determine or distinguish the nature of a problem or an illness through a diagnostic analysis
+fs: 8
+hyper: explorar[3]
+hypo: analizar
+sa: @en:verb.cognition:diagnose
+
+w: dicotomizar
+d: @en_divide into two opposing groups or kinds
+fs: 8 11
+hypo: classificar
+sa: @en:verb.cognition:dichotomise
+
+w: diferenciar[1]
+w: distinguir
+d: ser uma característica, atributo ou traço distinto; às vezes num sentido muito positivo
+fs: 10 11
+hyper: verb.stative:caracterizar
+hypo: verb.communication:caracterizar
+sa: @en:verb.cognition:differentiate[2]
+vg: verb.communication:assinalar[2]
+
+w: diferenciar[2]
+w: discriminar
+w: distinguir[1]
+d: reconhecer ou perceber diferença
+fs: 8 21
+hyper: ser__sutil
+hypo: separar
+sa: @en:verb.cognition:discriminate
+
+w: diferenciar[3]
+w: distinguir[2]
+w: separar
+d: marcar como diferente
+fs: 8 9 16
+entail: comparar
+hyper: @en_label
+hyper: @en_severalise
+hyper: @en_sex
+hyper: aferir
+hyper: contradistinguir
+hyper: demarcar[1]
+hyper: desassociar
+hyper: discriminar
+hyper: individualizar
+hyper: rotular
+hyper: saber[4]
+hyper: verb.social:discriminar
+hyper: verb.social:estratificar
+hypo: identificar[1]
+sa: @en:verb.cognition:distinguish
+
+w: diferenciar_
+d: @en_calculate a derivative; take the derivative
+fs: 8
+hypo: computar
+mt: noun.cognition:Matematica
+sa: @en:verb.cognition:differentiate
+
+w: digerir
+d: @en_arrange and integrate in the mind
+fs: 8
+hypo: compreender[1]
+sa: @en:verb.cognition:digest
+
+w: diplomar
+w: diplomar-se
+d: @en_have as one's principal field of study
+fs: 22
+hypo: estudar[2]
+sa: @en:verb.cognition:major[9]
+
+w: direcionar
+d: @en_specifically design a product, event, or activity for a certain public
+fs: 8
+hypo: destinar
+sa: @en:verb.cognition:aim[2]
+
+w: discar
+d: @en_choose by means of a dial
+fs: 8
+hypo: selecionar
+sa: @en:verb.cognition:dial
+
+w: dispor
+w: inclinar
+w: predispor
+d: fazer receptivo ou disposto no sentido de uma ação ou atitude ou crença
+fs: 10 24
+hyper: predispor[1]
+hypo: determinar
+sa: @en:verb.cognition:dispose
+
+w: distribuir
+d: @en_distribute (players or teams) so that outstanding teams or players will not meet in the early rounds
+fs: 9
+hypo: ranquiar
+mt: noun.act:esporte[1]
+sa: @en:verb.cognition:seed
+
+w: ditar
+d: dizer em voz alta para fins de registro
+fs: 8
+hypo: proclamar
+sa: @en:verb.cognition:dictate
+
+w: dividir ant multiplicar
+d: realizar uma divisão
+fs: 2
+hyper: dividir_em_quatro
+hyper: meiar
+hypo: computar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:divide
+
+w: dividir_em_quatro
+d: @en_divide by four; divide into quarters
+fs: 8 11
+hypo: dividir
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:quarter
+
+w: dividir_proporcionalmente
+d: @en_divide or assess proportionally
+fs: 8
+hypo: computar
+sa: @en:verb.cognition:prorate
+vg: ratear
+
+w: divinizar
+w: glorificar
+d: divinizar ou glorificar
+fs: 9
+hypo: deificar
+sa: @en:verb.cognition:apotheose
+
+w: dizer
+d: @en_discern or comprehend
+fs: 2 8 26
+hypo: adivinhar
+sa: @en:verb.cognition:tell
+
+w: documentar
+d: @en_support or supply with references
+fs: 8 11
+hyper: @en_source
+hypo: confirmar
+sa: @en:verb.cognition:document
+
+w: dominar
+d: @en_get a grip on; get mastery of
+fs: 8
+hypo: @en_control
+sa: @en:verb.cognition:cinch
+
+w: dominar[1]
+d: ser ou tornar-se completamente proficiente ou especialista em
+fs: 8
+entail: adquirir
+entail: praticar
+hypo: saber[3]
+sa: @en:verb.cognition:get_the_hang
+
+w: duvidar
+d: @en_lack confidence in or have doubts about
+fs: 8 9
+hypo: desconfiar
+sa: @en:verb.cognition:doubt[1]
+
+w: duvidar[1]
+w: estar_em_dúvida
+w: ter_dúvida
+d: @en_consider unlikely or have doubts about
+fs: 8 9
+hypo: descrer
+sa: @en:verb.cognition:doubt
+
+w: eleger
+w: escolher[1]
+d: escolher
+fs: 8 9 28
+hypo: selecionar
+sa: @en:verb.cognition:elect
+
+w: elevar
+d: @en_multiply (a number) by itself a specified number of times: 8 is 2 raised to the power 3
+fs: 8
+hypo: multiplicar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:raise
+
+w: elevar_ao_quadrado
+d: @en_raise to the second power
+fs: 8
+hypo: multiplicar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:square
+
+w: elicitar
+d: @en_derive by reason
+fs: 8 26
+hypo: depreender
+mt: noun.cognition:lógica
+sa: @en:verb.cognition:elicit
+
+w: elidir
+d: @en_leave or strike out
+fs: 8
+hyper: comer
+hypo: excetuar
+sa: @en:verb.cognition:elide
+
+w: eliminar
+w: rejeitar
+d: @en_dismiss from consideration or a contest
+fs: 8 9
+sa: @en:verb.cognition:eliminate
+
+w: elucidar
+w: esclarecer
+d: tornar livre de confusão ou ambiguidade; deixar claro
+fs: 8
+hypo: verb.communication:explicar[5]
+sa: @en:verb.cognition:clear
+
+w: encafifar
+d: tentar resolver
+fs: 8
+hypo: raciocínar
+sa: @en:verb.cognition:puzzle_over
+
+w: engenhar
+w: organizar[2]
+w: orquestrar
+d: planejar e dirigir (uma empresa complexa)
+fs: 8
+hyper: coreografar
+hypo: planejar[3]
+sa: @en:verb.cognition:direct
+
+w: engolir[2]
+d: @en_keep from expressing
+fs: 8
+hypo: reprimir
+sa: @en:verb.cognition:swallow[1]
+
+w: engulir
+d: @en_believe or accept without questioning or challenge
+fs: 8 26
+hypo: acreditar[5]
+sa: @en:verb.cognition:swallow
+
+w: enlamear
+w: turvar
+d: causar a tornar-se enlameado
+fs: 11
+hypo: obnubilar
+sa: @en:verb.cognition:muddy
+
+w: ensinar_por_repetição
+d: ensinar por repetição
+fs: 9
+hyper: inculcar
+hyper: martelar
+hypo: verb.communication:ensinar
+sa: @en:verb.cognition:drill[1]
+
+w: entender[10]
+d: @en_be understanding of
+fs: 8 9
+sa: @en:verb.cognition:empathise
+
+w: entender[11]
+w: sentir
+d: @en_comprehend
+fs: 8 26
+hypo: compreender[3]
+sa: @en:verb.cognition:sense[2]
+
+w: entender[12]
+w: sacar
+d: ficar sabendo
+fs: 2 22
+hypo: descobrir
+sa: @en:verb.cognition:wise_up
+
+w: entender[13]
+d: @en_understand, usually after some initial difficulty
+fs: 2 22
+hypo: compreender[1]
+sa: @en:verb.cognition:catch_on
+
+w: entender[14]
+w: interpretar
+w: traduzir
+d: entender uma lingua
+fs: 8 9 26
+hypo: compreender[3]
+sa: @en:verb.cognition:translate
+
+w: entender[15]
+d: compreender
+fs: 8
+hypo: compreender[3]
+sa: @en:verb.cognition:make_out
+
+w: entender[16]
+w: inferir[3]
+d: @en_believe to be the case
+fs: 26
+hypo: acreditar[5]
+sa: @en:verb.cognition:infer[1]
+
+w: enterrar
+w: esquecer[1]
+w: esqueça-se
+d: @en_dismiss from the mind; stop remembering
+fs: 8 9 26
+hyper: _esquecer
+hyper: reprimir
+sa: @en:verb.cognition:bury
+
+w: enumerar
+d: ler em voz alta como palavras escritas, números
+fs: 8
+hypo: proclamar
+sa: @en:verb.cognition:numerate
+
+w: envolver
+d: @en_occupy or engage the interest of
+fs: 10
+hypo: ocupar
+sa: @en:verb.cognition:involve
+
+w: equiparar
+d: considerar ou descrever como semelhante, igual ou análogo
+fs: 20 21
+hypo: verb.perception:considerar
+sa: @en:verb.cognition:equate
+
+w: errar[1]
+d: julgar incorretamente
+fs: 2 8
+hypo: mal_julgar
+sa: @en:verb.cognition:miscalculate[1]
+
+w: errar_a_data
+d: atribuir a data errada para
+fs: 8
+hypo: aprazar
+sa: @en:verb.cognition:misdate
+
+w: escanear
+w: ler
+d: obter dados de fitas magnéticas
+fs: 8 11
+hyper: ler_erroneamente
+hypo: compreender[2]
+sa: @en:verb.cognition:scan
+
+w: escolher[2]
+d: @en_select desirable parts from a group or list
+fs: 11
+hypo: selecionar
+sa: @en:verb.cognition:cull_out
+
+w: escolher[3]
+w: optar
+w: preferir
+d: @en_select as an alternative over another
+fs: 8 26
+entail: comparar
+hyper: desistir[1]
+sa: @en:verb.cognition:opt
+
+w: escolher[4]
+d: @en_give support (to) or make a choice (of) one out of a group or number
+fs: 8 9
+hypo: selecionar
+sa: @en:verb.cognition:go[12]
+
+w: escolher[5]
+d: @en_see fit or proper to act in a certain way; decide to act in a certain way
+fs: 26 28
+hypo: balizar
+sa: @en:verb.cognition:choose[1]
+
+w: escolher[6]
+d: @en_choose in one's mind
+fs: 8
+hypo: selecionar
+sa: @en:verb.cognition:think_of[4]
+
+w: escolher[7]
+d: @en_select from a group
+fs: 8 9
+hypo: selecionar
+sa: @en:verb.cognition:single_out
+
+w: escolher[8]
+w: selecionar
+d: escolher, selecionar de um numero de alternativas
+fs: 8 9
+hyper: coar
+hyper: designar
+hyper: discar
+hyper: eleger
+hyper: escolher[2]
+hyper: escolher[4]
+hyper: escolher[6]
+hyper: escolher[7]
+hyper: escolher[9]
+hyper: escolher_o_melhor
+hyper: extrair
+hyper: extrair[1]
+hyper: posicionar
+hyper: selecionar[2]
+hyper: selecionar[3]
+hyper: ungir
+hyper: verb.communication:especificar
+hyper: verb.possession:adoptar[3]
+hyper: verb.social:analisar
+hyper: verb.social:designar
+hyper: verb.social:eleger
+hyper: verb.social:votar[1]
+hyper: verb.social:votar[2]
+hypo: decidir[3]
+sa: @en:verb.cognition:choose
+
+w: escolher[9]
+d: selecionar cuidadosamente apartir de um grupo
+fs: 8 9 22
+hyper: escolher_a_dedo
+hypo: selecionar
+sa: @en:verb.cognition:pick
+
+w: escolher_a_dedo
+w: selecionar_cuidadosamente
+d: escolher pessoalmente e com muito cuidado
+fs: 8 9
+hypo: escolher[9]
+sa: @en:verb.cognition:hand-pick
+
+w: escolher_amostras_aleatórias
+d: escolher amostras aleatórias para análise, a fim de assegurar a alta qualidade
+fs: 2 8
+hypo: assegurar
+sa: @en:verb.cognition:spot-check
+
+w: escolher_o_melhor
+d: escolher o melhor
+fs: 8 9
+hypo: selecionar
+sa: @en:verb.cognition:cream_off
+
+w: esnobar
+d: @en_pay no attention to, disrespect
+fs: 8 9
+hypo: verb.communication:deixar_de_lado
+sa: @en:verb.cognition:cold-shoulder
+
+w: especificar[1]
+d: @en_define clearly
+fs: 8 21
+hyper: concretizar
+hypo: determinar[2]
+sa: @en:verb.cognition:nail_down
+
+w: esperar[2]
+d: @en_consider reasonable or due
+fs: 8
+hypo: ver
+sa: @en:verb.cognition:expect[5]
+
+w: esperar[3]
+w: pretender
+d: pretender com alguma possibilidade de cumprimento
+fs: 8 33
+hypo: planejar[2]
+sa: @en:verb.cognition:go_for
+
+w: espiritualizar
+d: @en_give a spiritual meaning to; read in a spiritual sense
+fs: 8
+hypo: compreender[2]
+sa: @en:verb.cognition:spiritualise
+
+w: esquecer[2]
+d: se esquecer de fazer algo
+fs: 28
+hypo: deixar_passar
+sa: @en:verb.cognition:forget[3]
+
+w: esquecer[3]
+d: sair da  memória da pessoa
+fs: 1
+hypo: bloquear
+sa: @en:verb.cognition:slip_one's_mind
+
+w: esquecer[4]
+w: olvidar[1]
+d: deixar para trás não intencionalmente
+e: Eu esqueci meu guarda-chuva no restaurante.
+fs: 8 9 21
+hypo: verb.possession:perder[2]
+sa: @en:verb.cognition:forget[2]
+vg: long-faced
+
+w: esquematizar
+d: conceber um sistema ou formar um esquema para
+fs: 8 33
+hypo: planejar[3]
+sa: @en:verb.cognition:scheme[1]
+
+w: esquematizar_cuidadosamente_o_design
+w: esquematizar_o_desenho_de_casco_de_navios
+d: @en_lay out a full-scale working drawing of the lines of a vessel's hull
+fs: 2
+hypo: mostrar
+sa: @en:verb.cognition:loft
+
+w: estabelecer
+w: fazer
+w: instituir
+d: instituir, promulgar, ou estabelecer
+fs: 8 26
+hyper: verb.communication:@en_mark
+hypo: verb.creation:construir
+sa: @en:verb.cognition:lay_down
+
+w: estar_imerso_em
+d: @en_be immersed in
+fs: 22
+sa: @en:verb.cognition:welter
+
+w: estar_informado
+d: estar a par
+fs: 2
+hypo: saber[3]
+sa: @en:verb.cognition:be_on_the_ball
+
+w: estereotipar
+d: @en_treat or classify according to a mental stereotype
+fs: 8 9 20 21
+hypo: classificar
+sa: @en:verb.cognition:pigeonhole
+
+w: estimar[3]
+d: estimar a duração ou o resultado de algo
+fs: 14
+hypo: chutar
+sa: @en:verb.cognition:give
+
+w: estimar[4]
+d: @en_estimate
+e: Nós estimamos o horário de chegada como 8 da noite.
+fs: 8
+hypo: chutar
+sa: @en:verb.cognition:place[13]
+
+w: estudar[2]
+d: @en_be a student; follow a course of study; be enrolled at an institute of learning
+fs: 2 8
+hyper: diplomar
+sa: @en:verb.cognition:study[3]
+
+w: estudar[3]
+w: marrar[1]
+d: aprender lendo livros
+fs: 2 8
+entail: ler[1]
+hyper: afundar_se
+hyper: decorar
+hypo: adquirir
+sa: @en:verb.cognition:hit_the_books
+
+w: etimologizar
+d: construir a história das palavras
+fs: 2
+hypo: reconstruir
+mt: noun.cognition:Linguistica
+sa: @en:verb.cognition:etymologise
+
+w: exagerar
+d: mostrar uma resposta exagerada a algo
+e: Não exagere a  reação a má notícia, tenha calma
+fs: 2 12 22
+hypo: reagir
+sa: @en:verb.cognition:overreact
+
+w: examinar[1]
+d: @en_examine methodically
+fs: 8 9
+entail: verb.change:extinguir
+hypo: analizar
+sa: @en:verb.cognition:screen
+
+w: examinar[2]
+d: @en_consider in a comprehensive way
+fs: 8
+hypo: analizar
+sa: @en:verb.cognition:appraise
+
+w: exceder
+d: almejar muito alto
+e: O plano excedeu seu objetivo
+fs: 8
+hyper: ir_além
+hypo: almejar
+sa: @en:verb.cognition:overshoot
+
+w: experimentar[1]
+d: @en_experience briefly
+fs: 8
+hypo: experimentar
+sa: @en:verb.cognition:taste[5]
+
+w: explodir
+d: @en_show a violent emotional reaction
+fs: 2
+hypo: reagir
+sa: @en:verb.cognition:explode
+
+w: explorar[2]
+d: @en_examine (organs) for diagnostic purposes
+fs: 8
+hyper: sondar
+hypo: diagnosticar
+mt: noun.act:Incisão
+sa: @en:verb.cognition:explore[3]
+vg: explorar[3]
+
+w: explorar[3]
+d: @en_examine minutely
+fs: 8
+hyper: @en_plumb[1]
+hypo: diagnosticar[1]
+sa: @en:verb.cognition:explore[2]
+vg: explorar[2]
+
+w: externalizar
+w: projetar[1]
+d: @en_regard as objective
+fs: 8 21
+hypo: imputar
+mt: noun.cognition:Psicólogos_por_nacionalidade
+sa: @en:verb.cognition:externalise
+
+w: extrair
+w: selecionar[1]
+d: tirar uma parte de uma obra literária para citar ou copiar
+fs: 8 21
+hypo: selecionar
+sa: @en:verb.cognition:excerpt
+
+w: extrair[1]
+d: @en_select or take in from a given group or region
+fs: 20 21
+hypo: selecionar
+sa: @en:verb.cognition:draw[13]
+
+w: extrair_com_dificuldade
+d: procurar e descobrir através de investigação persistente
+fs: 8 26
+hypo: descobrir[3]
+sa: @en:verb.cognition:ferret
+
+w: extrapolar
+d: @en_gain knowledge of (an area not known or experienced) by extrapolating
+fs: 8 26
+hypo: depreender
+mt: noun.cognition:lógica
+sa: @en:verb.cognition:extrapolate[1]
+
+w: extrapolar[1]
+w: interpolar
+d: @en_estimate the value of
+fs: 8
+hypo: computar
+mt: noun.cognition:Matematica
+sa: @en:verb.cognition:extrapolate
+
+w: falhar_
+d: sofrer uma derrota
+fs: 2
+hypo: verb.social:fracassar
+sa: @en:verb.cognition:take_it_on_the_chin
+
+w: falsificar_
+d: @en_prove false
+e: falsificar um pedido.
+fs: 8 11
+hypo: @en_confute
+sa: @en:verb.cognition:falsify
+
+w: fascinar[1]
+w: interessar
+d: @en_hold (someone's attention)
+fs: 10 11
+hypo: ocupar
+sa: @en:verb.cognition:rivet[1]
+vg: centrar
+
+w: fatorar
+d: @en_resolve (a polynomial) into factors
+fs: 8
+hypo: resolver[5]
+sa: @en:verb.cognition:factorise
+
+w: fatorar[1]
+d: resolver em fatores
+fs: 8
+hypo: computar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:factor
+
+w: favorecer
+d: @en_consider as the favorite
+fs: 8 9 10 11
+hypo: ver
+sa: @en:verb.cognition:favor
+
+w: fazer[1]
+d: @en_consider as being
+fs: 5
+hypo: ver
+sa: @en:verb.cognition:make[10]
+vg: @en_make[1]
+
+w: fazer_justiça
+d: mostrar  apreciação devida e completa
+fs: 8 9 12
+hypo: verb.possession:apreciar
+sa: @en:verb.cognition:do_justice
+
+w: fazer_leitura_labial
+d: @en_interpret by lipreading; of deaf people
+fs: 2 8
+hypo: ler[1]
+sa: @en:verb.cognition:lip-read
+
+w: fazer_mal_feito
+d: @en_shape or form or make badly
+fs: 8 11
+hypo: determinar
+sa: @en:verb.cognition:miscreate
+
+w: fazer_marchar
+d: passar por um treinamento militar ou fazer exercícios militares
+fs: 2
+hypo: treinar[1]
+sa: @en:verb.cognition:drill[4]
+
+w: fazer_orçamento
+w: orçar
+d: @en_make a budget
+fs: 2 22
+hypo: computar
+sa: @en:verb.cognition:budget
+
+w: fazer_parte_de
+w: incluir
+w: pertencer
+d: incluir, como em uma lista
+fs: 10
+hypo: incluir[1]
+sa: @en:verb.cognition:carry[12]
+
+w: fazer_pouco
+w: menosprezar
+w: subestimar
+d: @en_make a deliberately low estimate
+fs: 8
+hypo: chutar
+sa: @en:verb.cognition:lowball
+
+w: fazer_um_brainstorm
+d: tentar resolver um problema, pensando intensamente sobre isso
+fs: 2
+hypo: raciocínar
+sa: @en:verb.cognition:brainstorm
+
+w: fazer_uma_analogia
+d: @en_make an analogy
+fs: 2
+hypo: comparar
+sa: @en:verb.cognition:analogise
+
+w: filiar
+d: corrigir a paternidade de
+fs: 8
+hypo: determinar[1]
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.cognition:filiate
+
+w: filosofar
+d: @en_reason philosophically
+fs: 2
+hypo: raciocínar
+sa: @en:verb.cognition:philosophise
+
+w: flagrar
+w: pegar[3]
+d: tornar-se consciente de
+e: Ele a pegou olhando perdidamente pela janela.
+fs: 8 9
+hypo: verb.perception:encontrar
+sa: @en:verb.cognition:catch[10]
+vg: apanhar
+
+w: focalizar
+w: focar[1]
+d: @en_bring into focus or alignment; to converge or cause to converge; of ideas or emotions
+fs: 8
+hyper: refocar
+hypo: verb.change:alinhar
+sa: @en:verb.cognition:concenter
+
+w: focar[2]
+d: dedicar-se totalmente em
+fs: 9 20
+hyper: @en_drink
+hypo: centrar
+sa: @en:verb.cognition:engulf
+vg: mergulhar_
+
+w: formatar
+d: @en_determine the arrangement of (data) for storage and display (in computer science)
+fs: 8
+hypo: determinar[1]
+sa: @en:verb.cognition:format[10]
+
+w: googlar
+w: guglar
+d: @en_search the internet (for information) using the Google search engine
+fs: 2 8 9
+hypo: procurar
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.cognition:google
+
+w: hipotetizar
+d: interpretar como uma existência real, de uma entidade conceitual
+fs: 8
+hypo: coisificar
+sa: @en:verb.cognition:hypostatise
+
+w: idealizar
+d: @en_form ideals
+fs: 2
+hypo: verb.creation:inventar[4]
+sa: @en:verb.cognition:idealise[1]
+
+w: idealizar[1]
+d: @en_consider or render as ideal
+fs: 8 9
+hyper: deificar
+hyper: romantizar
+hypo: ver
+sa: @en:verb.cognition:idealise
+
+w: identificar
+d: @en_conceive of as united or associated
+fs: 17 31
+hypo: associar
+sa: @en:verb.cognition:identify[3]
+
+w: identificar[1]
+w: reconhecer[1]
+d: reconhecer como ser; estabelecer a identidade de alguém ou algo
+fs: 8 9
+hyper: separar
+hypo: determinar[1]
+sa: @en:verb.cognition:identify
+
+w: identificar[2]
+d: identificar como em botânica ou biologia, por exemplo
+fs: 8 9 11
+entail: classificar
+sa: @en:verb.cognition:describe
+
+w: identificar[3]
+d: @en_consider to be equal or the same
+fs: 8 9
+hyper: identificar_erroneamente
+hyper: tipar
+hyper: verb.perception:@en_taste[2]
+hypo: reconhecer[2]
+sa: @en:verb.cognition:identify[2]
+
+w: implantar
+w: plantar
+d: @en_put firmly in the mind
+fs: 21
+hypo: verb.communication:comunicar[1]
+sa: @en:verb.cognition:implant
+
+w: importar_(se)_
+w: preocupar_(se)_
+d: @en_be concerned with or about something or somebody
+fs: 8 9
+hyper: verb.emotion:cuidar
+hypo: cogitar
+sa: @en:verb.cognition:mind[2]
+
+w: impressionar[1]
+d: @en_produce or try to produce a vivid impression of
+fs: 21
+hypo: verb.emotion:afetar
+sa: @en:verb.cognition:impress
+
+w: incluir[1]
+d: considerar como parte de algo
+fs: 8
+hyper: @en_colligate
+hyper: contar
+hyper: fazer_parte_de
+hypo: ver
+sa: @en:verb.cognition:include
+
+w: incomodar
+w: pentelhar
+w: reclamar
+d: @en_remind or urge constantly
+fs: 9 24
+hypo: recordar[3]
+sa: @en:verb.cognition:nag
+
+w: inculcar
+d: @en_teach and impress by frequent repetitions or admonitions
+fs: 8 21
+hyper: @en_din
+hypo: ensinar_por_repetição
+sa: @en:verb.cognition:inculcate
+
+w: indentificar-se
+d: @en_consider (oneself) as similar to somebody else
+fs: 2 17 22
+hypo: ver
+sa: @en:verb.cognition:identify[4]
+
+w: indexar_
+d: ajustar através de indexação
+fs: 8
+hypo: determinar
+sa: @en:verb.cognition:index
+
+w: individualizar
+d: fazer ou marcar ou tratar como indivíduo
+fs: 8
+hypo: separar
+sa: @en:verb.cognition:individualise
+
+w: indoutrinar
+d: ensinar doutrinas para; ensinar de forma acrítica
+fs: 9
+hyper: indoutrinar[1]
+hyper: revolucionar
+hypo: verb.communication:ensinar
+sa: @en:verb.cognition:indoctrinate
+
+w: indoutrinar[1]
+d: @en_submit to brainwashing; indoctrinate forcibly
+fs: 9
+hypo: indoutrinar
+sa: @en:verb.cognition:brainwash
+
+w: infectar
+d: @en_affect in a contagious way
+fs: 9 10
+hypo: verb.emotion:afetar
+sa: @en:verb.cognition:infect[1]
+
+w: influenciar_consideravelmente
+w: ter_peso
+d: @en_have influence to a specified degree
+fs: 1 2
+hypo: determinar
+sa: @en:verb.cognition:carry_weight
+
+w: inicializar
+w: long-faced[1]
+d: @en_assign an initial value to a computer program
+fs: 8
+hypo: determinar[1]
+sa: @en:verb.cognition:initialise
+
+w: inspecionar[1]
+d: @en_make a survey of; for statistical purposes
+fs: 8
+hyper: verb.social:@en_canvas
+hypo: analizar
+sa: @en:verb.cognition:survey[2]
+
+w: instruir
+w: treinar
+d: formar por treinamento ou ensino
+fs: 9
+hyper: @en_house-train
+hyper: desfraldar
+hyper: instruir[1]
+hyper: retreinar
+hypo: verb.communication:ensinar
+sa: @en:verb.cognition:develop
+vg: verb.change:@en_develop
+vg: treinar[1]
+vg: verb.social:preparar
+
+w: instruir[1]
+d: @en_train in the military, e.g., in the use of weapons
+fs: 9
+hypo: instruir
+sa: @en:verb.cognition:drill[3]
+
+w: integrar
+d: @en_calculate the integral of; calculate by integration
+fs: 8
+hypo: computar
+mt: noun.cognition:Matematica
+sa: @en:verb.cognition:integrate
+
+w: inter-relacionar
+d: @en_place into a mutual relationship
+fs: 8
+hypo: associar
+sa: @en:verb.cognition:interrelate
+vg: verb.stative:inter-relacionar
+
+w: interiorizar
+w: internalizar
+d: @en_incorporate within oneself; make subjective or personal
+fs: 8 21
+hypo: imputar
+mt: noun.cognition:Psicólogos_por_nacionalidade
+sa: @en:verb.cognition:interiorise
+
+w: interpretar_mal
+w: ler_mal
+d: interpretar de forma errada
+fs: 8
+hypo: ler[2]
+sa: @en:verb.cognition:misread
+
+w: interrogar
+w: perguntar-se
+w: ponderar[1]
+w: questionar
+d: @en_have a wish or desire to know something
+fs: 29
+hyper: verb.communication:pedir[9]
+hypo: verb.communication:interrogar[1]
+sa: @en:verb.cognition:inquire
+
+w: intrigar
+d: @en_form intrigues (for) in an underhand manner
+fs: 2 22
+hypo: maquinar[1]
+sa: @en:verb.cognition:connive
+
+w: introduzir
+d: @en_put before (a body)
+fs: 8
+hypo: propor[1]
+sa: @en:verb.cognition:introduce
+
+w: invalidar
+d: @en_show to be invalid
+fs: 8 11
+hypo: contradizer
+sa: @en:verb.cognition:invalidate
+
+w: ir_além
+d: @en_run beyond or past
+fs: 1 11
+hypo: exceder
+sa: @en:verb.cognition:overrun[3]
+
+w: isolar
+d: separar  (experiências)  das emoções que lhes dizem respeito
+fs: 8
+hypo: classificar
+mt: noun.cognition:Psicólogos_por_nacionalidade
+sa: @en:verb.cognition:isolate[5]
+
+w: julgar[2]
+d: @en_determine the result of (a competition)
+fs: 8
+hyper: verb.competition:@en_referee
+hypo: resolver
+sa: @en:verb.cognition:judge[2]
+
+w: lembrar
+d: @en_exercise, or have the power of, memory
+fs: 2
+hypo: associar
+sa: @en:verb.cognition:remember[8]
+
+w: lembrar[1]
+w: recordar
+w: relembrar
+d: recapturar o passado; trazer à memórias
+fs: 2 8
+hyper: @en_reminisce
+hyper: rever
+sa: @en:verb.cognition:think_back
+
+w: lembrar[2]
+d: ter em mente
+fs: 8 9 26
+hyper: @en_attend_to
+hypo: lembrar[3]
+sa: @en:verb.cognition:bear_in_mind
+
+w: lembrar[3]
+w: pensar[5]
+d: manter algo em mente, por atenção ou consideração
+fs: 8 26
+hyper: lembrar[2]
+hyper: manter_presente
+hyper: reter
+hyper: verb.communication:caracterizar
+sa: @en:verb.cognition:think_of
+
+w: lembrar[4]
+w: lembrar-se
+w: recordar[1]
+w: recordar-se
+d: recordar conhecimento da memória; ter uma lembrança
+fs: 8 26 33
+hyper: conhecer
+hyper: reconhecer[2]
+hyper: rever[2]
+sa: @en:verb.cognition:call_back
+
+w: lembrar_incorretamente
+d: @en_remember incorrectly
+fs: 8 9
+entail: recordar
+hypo: equivocar
+sa: @en:verb.cognition:misremember
+
+w: ler[1]
+d: interpretar algo que é escrito ou impresso
+fs: 2 8 26
+hyper: @en_dip_into
+hyper: anagramar
+hyper: decifrar
+hyper: fazer_leitura_labial
+hyper: ler_em_diagonal
+hyper: reler
+hypo: compreender[2]
+sa: @en:verb.cognition:read
+vg: proclamar
+vg: verb.stative:dizer
+
+w: ler[2]
+d: @en_interpret something in a certain way; convey a particular meaning or impression
+fs: 21
+hyper: interpretar_mal
+hypo: compreender[2]
+sa: @en:verb.cognition:read[9]
+vg: compreender
+vg: ler[3]
+
+w: ler[3]
+d: @en_interpret the significance of, as of palms, tea leaves, intestines, the sky; also of human behavior
+fs: 8
+hyper: @en_scry
+hypo: verb.communication:adivinhar
+sa: @en:verb.cognition:read[2]
+vg: ler[2]
+
+w: ler_em_diagonal
+w: ler_superficialmente
+d: @en_read superficially
+fs: 8
+hypo: ler[1]
+sa: @en:verb.cognition:skim
+
+w: ler_erroneamente
+w: ler_mal[1]
+d: ler ou interpretar erroneamente
+fs: 8
+hypo: escanear
+sa: @en:verb.cognition:misread[2]
+
+w: ler_nas_entrelinhas
+d: @en_read what is implied but not expressed on the surface
+fs: 2 8 26
+hypo: compreender[2]
+sa: @en:verb.cognition:read_between_the_lines
+
+w: literalizar
+d: tornar literal
+fs: 8
+hypo: compreender[2]
+sa: @en:verb.cognition:literalise
+
+w: mal_julgar
+d: julgar incorretamente
+fs: 8 9
+hyper: errar[1]
+hyper: subestimar[1]
+hyper: superestimar[2]
+hypo: equivocar
+sa: @en:verb.cognition:misjudge
+
+w: manter[1]
+d: prender a atenção de
+fs: 9 11
+hypo: verb.emotion:cativar
+sa: @en:verb.cognition:hold[4]
+
+w: manter[2]
+d: @en_remain committed to
+fs: 8
+hypo: achar
+sa: @en:verb.cognition:hold[10]
+
+w: manter_presente
+d: @en_maintain in the forefront of one's awareness
+fs: 22
+hypo: lembrar[3]
+sa: @en:verb.cognition:keep_note
+
+w: mapear
+d: @en_make a chart of
+fs: 8
+hypo: verb.creation:@en_map[1]
+sa: @en:verb.cognition:chart[13]
+
+w: mapear[1]
+d: @en_search for a location and directions by means of the MapQuest program
+fs: 8
+hypo: procurar
+mt: noun.cognition:ciência_da_computação
+sa: @en:verb.cognition:mapquest
+
+w: mapear[2]
+d: @en_plot a map of (land)
+fs: 8
+entail: verb.change:mensurar
+hyper: triangular
+hypo: computar
+sa: @en:verb.cognition:survey[1]
+
+w: mapear[3]
+d: @en_explore or survey for the purpose of making a map
+fs: 8
+hypo: buscar
+sa: @en:verb.cognition:map[1]
+
+w: maquinar[1]
+d: @en_plan secretly, usually something illegal
+fs: 2 8
+hyper: @en_counterplot
+hyper: conchavar
+hyper: intrigar
+hypo: planejar[3]
+sa: @en:verb.cognition:plot
+
+w: martelar
+d: @en_teach by drills and repetition
+fs: 8
+hypo: ensinar_por_repetição
+sa: @en:verb.cognition:beat_in
+
+w: medir[1]
+w: mensurar
+d: determinar as medições de algo ou alguém, fazer medições de
+fs: 8
+hyper: calibrar
+hyper: calibrar[1]
+hyper: medir[2]
+hyper: triangular[1]
+hypo: decidir[3]
+sa: @en:verb.cognition:measure
+
+w: medir[2]
+d: medir a altura de, utilizando um sextante
+fs: 8
+hypo: mensurar
+sa: @en:verb.cognition:shoot
+
+w: meiar
+d: dividir por dois; dividir em duas metades
+fs: 8 11
+hypo: dividir
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:halve
+
+w: mencionar
+w: referir
+d: ter em mente, se referir a
+fs: 8 9
+hyper: verb.communication:citar
+hypo: associar
+sa: @en:verb.cognition:have_in_mind[1]
+
+w: mergulhar_
+d: @en_cause to be immersed
+fs: 9
+cause: focar[2]
+sa: @en:verb.cognition:immerse[1]
+vg: focar[2]
+
+w: mitificar
+d: @en_interpret as a myth or in terms of mythology
+fs: 8
+hypo: compreender[2]
+sa: @en:verb.cognition:mythicise
+
+w: monumentalizar
+d: @en_record or memorialize lastingly with a monument
+fs: 8 9 10 11
+hypo: imortalizar
+sa: @en:verb.cognition:monumentalise
+
+w: mostrar
+d: fornecer um plano detalhado ou design
+fs: 8
+hyper: @en_block_out
+hyper: esquematizar_cuidadosamente_o_design
+hypo: planejar[3]
+sa: @en:verb.cognition:lay_out
+
+w: mudar_radicalmente
+w: virar_a_casaca
+d: mudar de ideia e assumir o ponto de vista oposto
+fs: 2
+hypo: repensar
+sa: @en:verb.cognition:about-face
+
+w: multiplicar ant dividir
+d: @en_combine by multiplication
+fs: 8
+hyper: cubar
+hyper: elevar
+hyper: elevar_ao_quadrado
+hypo: computar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:multiply
+
+w: negligenciar[2]
+d: @en_be inattentive to, or neglect
+fs: 8
+hypo: descuidar
+sa: @en:verb.cognition:slack
+
+w: noticiar
+d: @en_cause someone to become aware of something
+fs: 9 20
+hypo: verb.communication:informar[4]
+sa: @en:verb.cognition:wise_up[1]
+
+w: não_valorizar
+w: subvalorizar
+d: Estimar muito pouco.
+fs: 8 9
+hypo: desrespeitar
+sa: @en:verb.cognition:undervalue[1]
+
+w: obter
+w: ter
+d: chegar por  cálculo
+fs: 8
+entail: computar
+sa: @en:verb.cognition:get[3]
+vg: verb.possession:adquirir[4]
+
+w: ocupar
+d: consumir toda atenção ou tempo
+fs: 9 10
+hyper: consumir
+hyper: envolver
+hyper: interessar
+hypo: verb.emotion:interessar
+sa: @en:verb.cognition:engage
+
+w: oferecer
+d: @en_put forward for consideration
+fs: 8
+hypo: propor[1]
+sa: @en:verb.cognition:offer
+
+w: orçar[1]
+d: @en_calculate enough money for; provide for in the budget
+fs: 8 9
+hypo: admitir
+sa: @en:verb.cognition:budget_for
+
+w: padronizar
+d: @en_evaluate by comparing with a standard
+fs: 8
+hypo: medir
+sa: @en:verb.cognition:standardise
+
+w: participar_como_ouvinte
+d: participar de cursos acadêmicos, sem obtenção de crédito
+fs: 2 8
+hypo: cursar
+sa: @en:verb.cognition:audit
+
+w: pedir_carteira
+w: pedir_identificação
+d: @en_ask someone for identification to determine whether he or she is old enough to consume liquor
+fs: 9
+hypo: assegurar
+sa: @en:verb.cognition:card
+
+w: pegar[4]
+d: detectar um erro ou equívoco
+fs: 9
+hypo: descobrir
+sa: @en:verb.cognition:catch
+
+w: pensar[6]
+w: raciocínar
+w: refletir[2]
+d: usar ou exercitar a mente ou  poder da raciocínio, a fim de fazer inferências, decisões ou chegar a uma solução ou julgamentos
+fs: 2
+hyper: achar[3]
+hyper: associar
+hyper: balizar
+hyper: centrar
+hyper: chegar
+hyper: cogitar
+hyper: contemplar
+hyper: contemplar[2]
+hyper: encafifar
+hyper: fazer_um_brainstorm
+hyper: filosofar
+hyper: pensar[7]
+hyper: pensar[9]
+hyper: planejar[3]
+hyper: prestar
+hyper: raciocinar[1]
+hyper: racionalizar
+sa: @en:verb.cognition:cerebrate
+
+w: pensar[7]
+d: @en_ponder; reflect on, or reason about
+fs: 8 29
+hypo: raciocínar
+sa: @en:verb.cognition:think[13]
+vg: achar[3]
+
+w: pensar[8]
+d: @en_focus one's attention on a certain state
+fs: 7
+hypo: centrar
+sa: @en:verb.cognition:think[9]
+
+w: pensar[9]
+d: @en_have or formulate in the mind
+fs: 8
+hypo: raciocínar
+sa: @en:verb.cognition:think[14]
+
+w: perceber_
+d: tornar-se consciente de
+fs: 8 26
+hyper: sentir[1]
+hypo: compreender[5]
+sa: @en:verb.cognition:perceive
+
+w: perder_(se)
+w: perder_o_controle
+d: não conseguir manter-se informado ou consciente
+fs: 2 22
+hypo: verb.social:falhar
+sa: @en:verb.cognition:lose_track
+
+w: personificar
+d: @en_attribute human qualities to something
+fs: 8
+hypo: imputar
+sa: @en:verb.cognition:personate
+
+w: planejar[2]
+d: ter a vontade e a intenção de realizar alguma ação
+fs: 8 28 33
+hyper: almejar
+hyper: considerar_cuidadosamente
+hyper: pretender
+hypo: pretender[2]
+sa: @en:verb.cognition:be_after
+
+w: planejar[3]
+d: fazer planos para algo
+fs: 8 33
+hyper: @en_chart
+hyper: agendar[4]
+hyper: arregimentar
+hyper: destinar
+hyper: engenhar
+hyper: esquematizar
+hyper: maquinar[1]
+hyper: mostrar
+hyper: propor[1]
+hyper: verb.communication:agendar
+hypo: raciocínar
+sa: @en:verb.cognition:plan
+
+w: planejar[4]
+w: pretender[1]
+d: Pretender ou ter como um propósito
+e: Ela planejou ir longe no mundo dos negócios
+fs: 28
+hypo: pretender[2]
+sa: @en:verb.cognition:design[6]
+
+w: ponderar[2]
+d: @en_consider or ponder something carefully
+fs: 8 29
+hypo: contemplar[2]
+sa: @en:verb.cognition:bethink
+
+w: posicionar
+d: @en_select (a team or individual player) for a game
+fs: 9
+hypo: selecionar
+sa: @en:verb.cognition:field
+
+w: posicionar_(se)_
+d: @en_have or maintain a position or stand on an issue
+fs: 22
+hyper: alinhar-se
+hypo: balizar
+sa: @en:verb.cognition:stand[1]
+
+w: postular
+d: @en_take as a given; assume as a postulate or axiom
+fs: 8 11 26
+hyper: assertar
+hypo: pressupor[3]
+sa: @en:verb.cognition:posit
+
+w: praticar
+d: @en_learn by repetition
+fs: 2 8
+hypo: cursar
+sa: @en:verb.cognition:drill
+
+w: precaver
+w: precaver-se
+w: ter_cuidado
+w: tomar_cuidado
+d: estar atento a, ser cuidadoso
+e: Cuidado com os telemarketeiros
+fs: 8
+hypo: verb.perception:ter_cuidado
+sa: @en:verb.cognition:beware
+
+w: predestinar
+d: @en_foreordain by divine will or decree
+fs: 9 10 26
+hypo: predeterminar[1]
+mt: noun.cognition:teologia[1]
+sa: @en:verb.cognition:predestinate
+
+w: predestinar[1]
+w: preordenar
+d: @en_foreordain or determine beforehand
+fs: 11 26 29
+hyper: azarar
+hypo: predeterminar[1]
+sa: @en:verb.cognition:foreordain
+
+w: predeterminar
+d: @en_cause to be biased
+fs: 9 10
+hyper: @en_angle
+hypo: prejulgar[1]
+sa: @en:verb.cognition:bias
+
+w: predeterminar[1]
+d: @en_determine beforehand
+fs: 11 26 29
+hyper: predestinar
+hyper: preordenar
+hypo: determinar
+sa: @en:verb.cognition:predetermine
+
+w: predispor[1]
+d: @en_make susceptible
+fs: 10
+hypo: dispor
+sa: @en:verb.cognition:predispose
+
+w: prejulgar
+d: julgar antecipadamente, especialmente sem provas suficientes
+fs: 8 9
+hypo: balizar
+sa: @en:verb.cognition:prejudge
+
+w: prejulgar[1]
+d: @en_influence (somebody's) opinion in advance
+fs: 9 10
+hyper: predeterminar
+hyper: verb.competition:@en_bias
+hypo: verb.social:influenciar
+sa: @en:verb.cognition:prejudice
+
+w: premeditar
+d: pensar ou refletir previamente ou antecipadamente
+fs: 2
+hypo: contemplar[2]
+sa: @en:verb.cognition:premeditate[1]
+
+w: premeditar[1]
+d: @en_consider, ponder, or plan (an action) beforehand
+fs: 8
+hypo: verb.communication:deliberar
+sa: @en:verb.cognition:premeditate
+
+w: preocupar-se
+w: remoer
+d: Pensar ansiosamente e incessantemente sobre algo
+fs: 22
+hypo: verb.emotion:cuidar
+sa: @en:verb.cognition:brood
+
+w: pressupor[1]
+w: tomar_como_premissa
+d: @en_take something as preexisting and given
+fs: 8
+hypo: pressupor[3]
+sa: @en:verb.cognition:premise
+
+w: pressupor[2]
+d: @en_require as a necessary antecedent or precondition
+fs: 11
+hypo: verb.communication:@en_imply
+mt: noun.cognition:lógica[2]
+sa: @en:verb.cognition:presuppose
+
+w: pressupor[3]
+d: @en_take for granted or as a given; suppose beforehand
+fs: 26
+hyper: postular
+hyper: tomar_como_premissa
+hypo: assumir
+sa: @en:verb.cognition:presuppose[1]
+
+w: prestar
+d: @en_dedicate
+fs: 15 21
+hypo: raciocínar
+sa: @en:verb.cognition:devote
+vg: verb.possession:@en_sacrifice
+
+w: pretender[2]
+d: ter em mente como objetivo
+fs: 8 28
+hyper: planejar[2]
+hyper: planejar[4]
+hyper: propor
+sa: @en:verb.cognition:intend
+
+w: pretender[3]
+w: propor
+d: @en_propose or intend
+fs: 28
+hypo: pretender[2]
+sa: @en:verb.cognition:purport
+
+w: preterir[2]
+d: @en_disregard intentionally or let pass
+fs: 8
+hypo: desatender
+sa: @en:verb.cognition:pretermit[1]
+
+w: prezar
+w: respeitar
+w: venerar
+d: respeitar muito; achar muito de
+fs: 8 9
+hyper: achar_muito_bom
+hyper: verb.emotion:estimar
+hyper: verb.emotion:venerar
+hypo: ver
+sa: @en:verb.cognition:prise
+
+w: priorizar
+d: @en_assign a priority to
+fs: 8
+hypo: ranquiar
+sa: @en:verb.cognition:prioritise
+
+w: processar
+d: @en_perform mathematical and logical operations on (data) according to programmed instructions in order to obtain the required information
+fs: 8
+hypo: computar
+sa: @en:verb.cognition:process
+
+w: proclamar
+d: olhar, interpretar, e dizer em voz alta algo que está escrito ou impresso
+fs: 2 8 14 15 27
+hyper: ditar
+hyper: enumerar
+hyper: verb.communication:@en_call[6]
+hypo: verb.communication:proferir
+sa: @en:verb.cognition:read[1]
+vg: ler[1]
+
+w: propor[1]
+d: apresentar para consideração, análise, crítica, etc
+fs: 8 28 33
+hyper: introduzir
+hyper: oferecer
+hypo: planejar[3]
+sa: @en:verb.cognition:project
+
+w: provar[1]
+d: @en_prove formally; demonstrate by a mathematical, formal proof
+fs: 8
+hypo: demonstrar
+mt: noun.cognition:Matematica
+sa: @en:verb.cognition:prove[2]
+
+w: provar_(se)
+d: mostrar sua capacidade ou coragem
+fs: 2
+hypo: demonstrar
+sa: @en:verb.cognition:prove_oneself
+
+w: pular
+d: @en_bypass
+fs: 8
+hypo: deixar_passar
+sa: @en:verb.cognition:jump
+
+w: quantizar
+d: @en_apply quantum theory to; restrict the number of possible values of (a quantity) or states of (a physical entity or system) so that certain variables can assume only certain discrete magnitudes that are integral multiples of a common factor
+fs: 8
+hypo: computar
+mt: noun.cognition:Fisica
+sa: @en:verb.cognition:quantise
+
+w: quantizar[1]
+d: @en_approximate (a signal varying continuously in amplitude) by one whose amplitude is restricted to a prescribed set of discrete values
+fs: 8
+hypo: chutar
+mt: noun.cognition:@en_telecommunication
+sa: @en:verb.cognition:quantise[1]
+
+w: quebrar
+d: encontrar uma falha no
+fs: 8 11
+hypo: verb.contact:arruinar
+sa: @en:verb.cognition:break[6]
+vg: quebrar[1]
+
+w: quebrar[1]
+d: @en_find the solution or key to
+fs: 8
+hypo: solucionar
+sa: @en:verb.cognition:break[5]
+vg: quebrar
+
+w: raciocinar
+d: @en_reason methodologically and logically
+fs: 2
+hypo: raciocinar[1]
+sa: @en:verb.cognition:ratiocinate
+
+w: raciocinar[1]
+d: pensar logicamente
+fs: 2 26
+hyper: categorizar
+hyper: computar
+hyper: raciocinar
+hyper: racionalizar[1]
+hyper: teorizar[1]
+hyper: teorizar[2]
+hyper: verb.communication:especular
+hypo: raciocínar
+sa: @en:verb.cognition:reason
+
+w: racionalizar
+d: @en_think rationally; employ logic or reason
+fs: 2
+hypo: raciocínar
+sa: @en:verb.cognition:rationalise
+
+w: racionalizar[1]
+d: @en_substitute a natural for a supernatural explanation of
+fs: 8
+hypo: raciocinar[1]
+sa: @en:verb.cognition:rationalise_away
+
+w: ratear
+d: fazer um acordo ou uma distribuição proporcional
+fs: 2
+hypo: verb.possession:alienar
+sa: @en:verb.cognition:prorate[1]
+vg: dividir_proporcionalmente
+
+w: re-explorar
+d: @en_explore anew
+fs: 8
+hypo: procurar
+sa: @en:verb.cognition:re-explore
+
+w: reagir
+w: responder[1]
+d: @en_show a response or a reaction to something
+fs: 2 12 22
+hyper: @en_bristle
+hyper: @en_flip
+hyper: @en_greet
+hyper: @en_stool
+hyper: aceitar
+hyper: aceitar[1]
+hyper: atender
+hyper: exagerar
+hyper: explodir
+hyper: responder[3]
+hyper: responder[4]
+hyper: tratar
+hyper: verb.communication:aceitar
+hyper: verb.communication:admirar
+hyper: verb.communication:notar[1]
+hyper: verb.communication:recusar[1]
+hyper: verb.stative:recusar
+hypo: verb.social:agir
+sa: @en:verb.cognition:react
+
+w: reagrupar
+d: reorganizar em novos grupos
+fs: 8
+hypo: agrupar
+sa: @en:verb.cognition:regroup
+
+w: reatribuir
+d: atribuir a outra fonte
+fs: 8 15
+hypo: imputar
+sa: @en:verb.cognition:reattribute
+
+w: rebaixar
+d: @en_rate lower; lower in value or esteem
+fs: 8
+hypo: ranquiar
+sa: @en:verb.cognition:downgrade
+
+w: recalcular
+d: @en_calculate anew
+fs: 8
+hypo: computar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:recalculate
+
+w: receber[1]
+d: @en_regard favorably or with disapproval
+fs: 8 9
+hypo: ver
+sa: @en:verb.cognition:receive[8]
+
+w: rechecar
+w: reexaminar
+w: reverificar
+d: verificar mais de uma vez para ter certeza absoluta
+fs: 2 8
+hypo: assegurar
+sa: @en:verb.cognition:double-check
+
+w: reclassificar
+d: @en_classify anew, change the previous classification
+fs: 8
+hypo: classificar
+sa: @en:verb.cognition:reclassify
+
+w: reconciliar
+w: resignar
+w: resignar-se
+w: submeter
+w: submeter-se
+d: aceitar como inevitável
+fs: 20
+hypo: aceitar[4]
+sa: @en:verb.cognition:reconcile
+
+w: reconhecer[2]
+d: observar ser o mesmo
+fs: 8 9
+entail: conhecer[5]
+hyper: identificar[3]
+hypo: lembrar-se
+sa: @en:verb.cognition:recognise
+
+w: reconhecer[3]
+d: @en_accept as legally binding and valid
+fs: 8
+hypo: aceitar[4]
+sa: @en:verb.cognition:acknowledge[2]
+
+w: reconsiderar
+d: @en_consider again (a bill) that had been voted upon before, with a view to altering it
+fs: 8
+hypo: ver
+mt: noun.act:legislação
+sa: @en:verb.cognition:reconsider[1]
+vg: reconsiderar[1]
+
+w: reconsiderar[1]
+d: @en_consider again; give new consideration to; usually with a view to changing
+fs: 8 33
+hypo: ver
+sa: @en:verb.cognition:reconsider
+vg: reconsiderar
+
+w: reconstruir
+w: retraçar
+d: @en_reassemble mentally
+fs: 8 26
+hyper: etimologizar
+hypo: conjecturar
+sa: @en:verb.cognition:construct
+
+w: recordar[2]
+w: relembrar[1]
+w: rever
+d: @en_look back upon (a period of time, sequence of events); remember
+fs: 8
+hypo: recordar
+sa: @en:verb.cognition:look_back
+
+w: recordar[3]
+d: @en_put in the mind of someone
+fs: 9 10 18 24
+cause: lembrar-se
+hyper: imortalizar
+hyper: incomodar
+hyper: trazer_de_volta
+sa: @en:verb.cognition:remind
+
+w: recriar
+d: @en_form anew in the imagination; recollect and re-form in the mind
+fs: 8
+hyper: verb.creation:@en_reproduce
+hypo: verb.creation:@en_create_by_mental_act
+sa: @en:verb.cognition:re-create
+
+w: recusar
+d: @en_challenge or except to a judge as being incompetent or interested, in canon and civil law
+fs: 9 10
+hypo: rejeitar[2]
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.cognition:recuse
+
+w: reexaminar[1]
+w: rever[1]
+d: @en_look at again; examine again
+fs: 8
+hypo: analizar
+sa: @en:verb.cognition:reexamine
+
+w: referir[1]
+d: @en_think of, regard, or classify under a subsuming principle or with a general group or in relation to another
+fs: 21
+hypo: classificar
+sa: @en:verb.cognition:refer
+
+w: refocar
+d: @en_focus anew
+fs: 8
+hypo: focalizar
+sa: @en:verb.cognition:refocus
+
+w: reformar
+d: @en_shape anew or differently
+fs: 8
+hypo: determinar
+sa: @en:verb.cognition:reshape
+
+w: registrar_
+d: entrar na consciência de alguém
+fs: 1
+hypo: verb.body:afectar
+sa: @en:verb.cognition:register
+vg: verb.perception:perceber[2]
+
+w: rejeitar[1]
+d: @en_reject (documents) as invalid
+fs: 8
+hypo: rejeitar[2]
+sa: @en:verb.cognition:reprobate
+
+w: rejeitar[2] ant aceitar[4]
+d: se recusar a aceitar ou reconhecer
+fs: 8 9 26
+hyper: descrer
+hyper: recusar
+hyper: rejeitar[1]
+hyper: repudiar
+hyper: verb.communication:deixar_de_lado
+hyper: verb.communication:renunciar[1]
+hypo: balizar
+sa: @en:verb.cognition:reject
+
+w: relativizar
+d: @en_consider or treat as relative
+fs: 8
+hypo: ver
+sa: @en:verb.cognition:relativise
+
+w: relembrar[2]
+w: rememorar[1]
+d: @en_call to remembrance; keep alive the memory of someone or something, as in a ceremony
+fs: 8 9
+sa: @en:verb.cognition:commemorate
+
+w: reler
+d: @en_read anew; read again
+fs: 8
+hypo: ler[1]
+sa: @en:verb.cognition:reread
+
+w: reordenar
+d: @en_assign a new order to
+fs: 8 9
+hyper: verb.change:reverter
+hyper: contramarchar_
+hypo: ranquiar
+sa: @en:verb.cognition:reorder
+
+w: repensar
+d: @en_change one's mind
+fs: 2
+hyper: @en_backpedal
+hyper: mudar_radicalmente
+hypo: achar
+sa: @en:verb.cognition:rethink
+
+w: reprimir
+w: suprimir
+d: @en_put out of one's consciousness
+fs: 8 9 26
+hyper: engolir[2]
+hyper: verb.social:inibir
+hypo: enterrar
+mt: noun.cognition:Psicopatologias
+sa: @en:verb.cognition:repress
+
+w: repudiar
+d: @en_refuse to acknowledge, ratify, or recognize as valid
+fs: 8 11
+hypo: rejeitar[2]
+sa: @en:verb.cognition:repudiate
+
+w: reservar[1]
+w: separar[1]
+d: dar ou atribuir um recurso a uma determinada pessoa ou causa
+e: Ela reserva tempo para meditação todo dia.
+e: Eu vou separar esse dinheiro para a sua pesquisa.
+fs: 8 15
+hypo: verb.possession:atribuir
+sa: @en:verb.cognition:appropriate
+
+w: resolver[3]
+w: solucionar
+d: encontrar a solução para (um problema ou pergunta) ou entender o significado de
+fs: 8
+entail: raciocinar[1]
+hyper: adivinhar
+hyper: atingir
+hyper: quebrar[1]
+hyper: resolver[4]
+hyper: responder[2]
+hyper: responder[5]
+hypo: compreender[3]
+sa: @en:verb.cognition:figure_out
+
+w: resolver[4]
+d: @en_explain a riddle
+fs: 8
+hypo: solucionar
+sa: @en:verb.cognition:riddle
+
+w: resolver[5]
+d: @en_find the solution
+fs: 8
+hyper: fatorar
+hypo: computar
+sa: @en:verb.cognition:resolve[3]
+
+w: responder[2]
+d: @en_give the correct answer or solution to
+fs: 8
+hypo: solucionar
+sa: @en:verb.cognition:answer
+
+w: responder[3]
+d: @en_react to a stimulus or command
+fs: 1 4
+hypo: reagir
+sa: @en:verb.cognition:answer[5]
+
+w: responder[4]
+d: @en_respond favorably or as hoped
+fs: 1 2
+hypo: reagir
+sa: @en:verb.cognition:respond[1]
+
+w: responder[5]
+d: @en_understand the meaning of
+fs: 8 11
+hypo: solucionar
+sa: @en:verb.cognition:answer[3]
+
+w: reter
+d: manter na mente
+fs: 8
+hypo: lembrar[3]
+sa: @en:verb.cognition:retain
+
+w: retreinar
+d: ensinar novas habilidades
+fs: 9
+hypo: instruir
+sa: @en:verb.cognition:retrain[1]
+
+w: retreinar[1]
+d: treinar novamente
+fs: 2
+hypo: treinar[1]
+sa: @en:verb.cognition:retrain
+
+w: rever[2]
+d: @en_refresh one's memory
+fs: 8
+hypo: lembrar-se
+sa: @en:verb.cognition:brush_up
+
+w: reviver
+d: @en_experience again, often in the imagination
+fs: 8
+hypo: experimentar
+sa: @en:verb.cognition:live_over
+
+w: revolucionar
+d: @en_fill with revolutionary ideas
+fs: 9 10
+hypo: indoutrinar
+sa: @en:verb.cognition:inspire
+
+w: romantizar
+d: @en_interpret romantically
+fs: 8 9
+hypo: idealizar[1]
+sa: @en:verb.cognition:romanticise
+
+w: rotular
+d: @en_distinguish (an element or atom) by using a radioactive isotope or an isotope of unusual mass for tracing through chemical reactions
+fs: 8
+hypo: separar
+sa: @en:verb.cognition:label
+
+w: saber[3]
+d: saber como fazer alguma coisa
+e: Ela sabe tricotar.
+e: O seu marido sabe cozinhar?
+fs: 28
+hyper: @en_control
+hyper: dominar[1]
+hyper: estar_informado
+sa: @en:verb.cognition:know[3]
+
+w: saber[4]
+d: ser capaz de distinguir, reconhecer como sendo diferente
+fs: 8
+hypo: separar
+sa: @en:verb.cognition:know[12]
+
+w: seguir
+w: traçar
+d: @en_follow, discover, or ascertain the course of development of something
+fs: 8
+hypo: analizar
+sa: @en:verb.cognition:follow
+vg: verb.change:@en_keep_abreast
+vg: verb.social:espionar
+
+w: selar
+d: decidir irrevogavelmente
+fs: 8 26
+hypo: decidir[3]
+sa: @en:verb.cognition:seal
+
+w: selecionar[2]
+d: selecionar a partir de uma lista
+fs: 9
+hypo: selecionar
+sa: @en:verb.cognition:empanel
+
+w: selecionar[3]
+d: @en_separate or remove
+fs: 8
+hypo: selecionar
+sa: @en:verb.cognition:pick_over
+
+w: sensualizar
+d: @en_ascribe to an origin in sensation
+fs: 8
+hypo: imputar
+sa: @en:verb.cognition:carnalize
+
+w: sentir[1]
+d: @en_become aware of not through the senses but instinctively
+fs: 8 26
+hypo: perceber_
+sa: @en:verb.cognition:smell
+
+w: ser__sutil
+d: fazer distinções sutis e sutilezas entre palavras
+fs: 8
+hypo: discriminar
+sa: @en:verb.cognition:subtilize
+
+w: ser_para
+d: destinar ou designar para um determinado propósito
+fs: 21
+hypo: destinar
+sa: @en:verb.cognition:mean[5]
+
+w: ser_recebido
+d: @en_be received or understood
+fs: 1 7
+cause: compreender[3]
+hyper: @en_strike_a_chord
+sa: @en:verb.cognition:come_across
+
+w: ser_standing
+d: ser um substituto ou um  ator alternativo para um papel
+fs: 2
+hypo: decorar
+sa: @en:verb.cognition:alternate
+
+w: silogizar
+d: raciocinar por silogismos
+fs: 2
+hypo: chegar
+sa: @en:verb.cognition:syllogise
+
+w: sincronizar
+d: @en_arrange or represent events so that they co-occur
+fs: 8
+hypo: arrumar
+sa: @en:verb.cognition:contemporise
+
+w: sintetizar
+d: @en_combine so as to form a more complex, product
+fs: 8
+hypo: verb.change:reunir
+sa: @en:verb.cognition:synthesise
+
+w: sintetizar[1]
+d: @en_combine and form a synthesis
+fs: 1
+hypo: verb.change:alterar[3]
+sa: @en:verb.cognition:synthesize[1]
+
+w: sofrer_em_silêncio
+d: sofrer sem protestar; sofrer ou suportar passivamente
+fs: 8
+hypo: aguentar
+sa: @en:verb.cognition:take_lying_down
+
+w: sondar
+d: @en_make some preliminary investigations or test the waters
+fs: 1 2
+hypo: explorar[2]
+sa: @en:verb.cognition:put_out_feelers
+
+w: subestimar[1]
+d: @en_make too low an estimate of
+fs: 8 9
+hyper: subestimar[4]
+hypo: mal_julgar
+sa: @en:verb.cognition:underrate
+
+w: subestimar[2]
+d: calcular incorretamente
+fs: 2
+hypo: computar
+mt: noun.cognition:Aritmética
+sa: @en:verb.cognition:miscalculate
+
+w: subestimar[3]
+d: atribuir um valor muito baixo para
+fs: 8
+hypo: avaliar[6]
+sa: @en:verb.cognition:undervalue
+
+w: subestimar[4]
+d: subestimar o valor real ou a capacidade de
+fs: 8 9
+hypo: subestimar[1]
+sa: @en:verb.cognition:sell_short
+
+w: subordinar
+d: subordinar ou classificar como menos importante ou considerar de menor valor
+fs: 8
+hyper: desclassificar
+hypo: ranquiar
+sa: @en:verb.cognition:subordinate
+
+w: super-ordenar
+d: @en_place in a superior order or rank
+fs: 8 9 10 11
+hypo: ranquiar
+sa: @en:verb.cognition:superordinate
+
+w: superestimar
+w: supervalorizar
+d: atribuir um valor muito alto para
+fs: 8
+hypo: avaliar[6]
+sa: @en:verb.cognition:overvalue
+
+w: superestimar[1]
+d: superestimar o valor de mercado
+fs: 8 11
+hypo: superestimar[2]
+sa: @en:verb.cognition:overcapitalise
+
+w: superestimar[2]
+w: supervalorizar[1]
+d: fazer uma estimativa muito alta de
+fs: 8 9
+hyper: superestimar[1]
+hypo: mal_julgar
+sa: @en:verb.cognition:overestimate
+
+w: superestimar[3]
+d: @en_estimate the capital value of (a company) at an unreasonably or unlawfully high level
+fs: 8
+hypo: calcular_o_valor
+sa: @en:verb.cognition:overcapitalise[1]
+
+w: surpreender[3]
+d: proferir ou fazer algo surpreendente
+fs: 9 10
+hypo: sobressaltar
+sa: @en:verb.cognition:explode_a_bombshell
+
+w: surpreender[4]
+d: @en_overcome with amazement
+fs: 9 10
+hypo: sobressaltar
+sa: @en:verb.cognition:boggle
+
+w: teologizar
+d: @en_make theoretical speculations about theology or discuss theological subjects
+fs: 2
+hypo: contemplar[2]
+sa: @en:verb.cognition:theologise
+
+w: teorizar[1]
+d: @en_construct a theory about
+fs: 8
+hypo: raciocinar[1]
+sa: @en:verb.cognition:theorize[2]
+vg: teorizar[2]
+
+w: teorizar[2]
+d: formar ou construir teorias
+e: Ele pensa e teoriza o dia inteiro.
+fs: 2
+hypo: raciocinar[1]
+sa: @en:verb.cognition:theorize[1]
+vg: teorizar[1]
+
+w: tipar
+d: identificar como pertencentes a um determinado tipo
+fs: 8 9
+hypo: identificar[3]
+sa: @en:verb.cognition:type
+
+w: trabalhar_como_aprendiz
+d: @en_be or work as an apprentice
+fs: 2 8 22
+hypo: treinar[1]
+sa: @en:verb.cognition:apprentice
+
+w: tratar
+d: @en_regard or consider in a specific way
+fs: 21
+hypo: reagir
+sa: @en:verb.cognition:treat
+vg: verb.social:tratar[2]
+
+w: trazer_de_volta
+d: @en_cause someone to remember the past
+fs: 10 20
+hypo: recordar[3]
+sa: @en:verb.cognition:take_back
+
+w: treinar[1]
+d: @en_undergo training or instruction in preparation for a particular role, function, or profession
+fs: 27
+hyper: fazer_marchar
+hyper: retreinar[1]
+hyper: trabalhar_como_aprendiz
+hypo: cursar
+sa: @en:verb.cognition:prepare
+vg: instruir
+vg: verb.social:preparar
+
+w: triangular
+d: @en_survey by triangulation
+fs: 8
+hypo: mapear[2]
+sa: @en:verb.cognition:triangulate
+
+w: triangular[1]
+d: medir usando trigonometria
+fs: 8
+hypo: mensurar
+sa: @en:verb.cognition:triangulate[1]
+
+w: truncar
+d: @en_approximate by ignoring all terms beyond a chosen one
+fs: 8
+hypo: chutar
+mt: noun.cognition:Matematica
+sa: @en:verb.cognition:truncate
+
+w: ungir
+d: @en_choose by or as if by divine intervention
+fs: 9 10
+hypo: selecionar
+sa: @en:verb.cognition:anoint
+
+w: validar[1]
+d: @en_prove valid; show or confirm the validity of something
+fs: 8 11
+hypo: confirmar
+sa: @en:verb.cognition:validate
+
+w: verificar[3]
+d: @en_confirm the truth of
+fs: 8 11 26
+hyper: assegurar
+hyper: checar[2]
+hyper: conferir
+hypo: confirmar
+sa: @en:verb.cognition:verify[1]
+
+w: vir
+d: @en_have a certain priority
+fs: 4 22
+hypo: colocar-se
+sa: @en:verb.cognition:come[13]
+
+w: vir_à_mente
+d: ser lembrado
+fs: 1
+hypo: verb.change:aparecer[3]
+sa: @en:verb.cognition:come_to_mind
+
+w: vistoriar
+d: @en_hold a review (of troops)
+fs: 8 9
+hypo: verb.perception:inspeccionar
+sa: @en:verb.cognition:go_over
+

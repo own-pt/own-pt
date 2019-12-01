@@ -1,0 +1,275 @@
+noun.motive
+
+w: @en_adience
+d: @en_(psychology) an urge to accept or approach a situation or an object
+hypo: impulso
+mt: noun.cognition:Psicólogos_por_nacionalidade
+sa: @en:noun.motive:adience
+
+w: Dipsomania
+w: alcoolismo
+d: @en_an intense persistent desire to drink alcoholic beverages to excess
+hypo: cacoete
+sa: @en:noun.motive:dipsomania
+
+w: Necrofilia
+w: necrofilia
+d: @en_an irresistible sexual attraction to dead bodies
+hypo: cacoete
+sa: @en:noun.motive:necromania
+
+w: Wanderlust
+w: wanderlust
+d: @en_very strong or irresistible impulse to travel
+hypo: impulso
+sa: @en:noun.motive:itchy_feet
+
+w: abiência
+d: @en_(psychology) an urge to withdraw or avoid a situation or an object
+hypo: impulso
+mt: noun.cognition:Psicólogos_por_nacionalidade
+sa: @en:noun.motive:abience
+
+w: acatexia
+d: (Psicanálise) uma falta de catexia; uma condição na qual os objetos  ou memórias significativos  não despertam nenhuma emoção em um indivíduo
+hypo: energia_libidinal
+mt: noun.act:psicanálise
+sa: @en:noun.motive:acathexis
+
+w: agromania
+d: @en_an intense desire to be alone or out in the open
+hypo: cacoete
+sa: @en:noun.motive:agromania
+
+w: cacoete
+w: mania
+d: um motivo irracional, mas irresistível para uma crença ou ação
+hyper: Dipsomania
+hyper: Necrofilia
+hyper: agromania
+hyper: cleptomania
+hyper: egomania
+hyper: faneromania
+hyper: logomania
+hyper: monomania
+hyper: piromania
+hyper: tricotilomania
+hypo: motivação_irracional
+sa: @en:noun.motive:cacoethes
+
+w: catexia
+d: @en_(psychoanalysis) the libidinal energy invested in some idea or person or object
+hypo: energia_libidinal
+mt: noun.act:psicanálise
+sa: @en:noun.motive:cathexis
+
+w: causa
+w: motivo
+w: razão
+d: @en_a rational motive for a belief or action
+hyper: conta
+hyper: porque
+hyper: razão[1]
+hypo: motivo_racional
+sa: @en:noun.motive:ground
+
+w: causa[1]
+w: conta
+d: @en_grounds
+hypo: causa
+sa: @en:noun.motive:account
+
+w: cleptomania
+d: @en_an irresistible impulse to steal in the absence of any economic motive
+hypo: cacoete
+sa: @en:noun.motive:kleptomania
+
+w: compulsão
+w: obsessão
+d: @en_an irrational motive for performing trivial or repetitive actions, even against your will
+hyper: onomatomania
+hypo: motivação_irracional
+sa: @en:noun.motive:compulsion
+
+w: compulsão[1]
+d: um desejo de fazer ou dizer algo que pode ser melhor que não se faça ou diga
+hypo: impulso_irracional
+sa: @en:noun.motive:irresistible_impulse
+
+w: consciência
+w: foro_íntimo
+d: @en_motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions
+hyper: noun.cognition:superego
+hyper: senso_de_dever
+hyper: voz_da_consciência
+hypo: morais
+sa: @en:noun.motive:conscience
+
+w: desejo_de_morte
+w: pulsão_de_morte
+w: tânato
+d: @en_(psychoanalysis) an unconscious urge to die
+hypo: impulso
+mt: noun.act:psicanálise
+sa: @en:noun.motive:Thanatos
+
+w: desincentivo
+d: uma influência motivacional negativa
+hypo: motivo_racional
+sa: @en:noun.motive:deterrence
+
+w: egomania
+d: um amor intenso e irresistível  consigo mesmo e  uma preocupação com suas próprias necessidades
+hypo: cacoete
+sa: @en:noun.motive:egomania
+
+w: energia_libidinal
+d: (Psicanálise) energia psíquica produzida pela libido
+hyper: acatexia
+hyper: catexia
+hypo: energia_mental
+mt: noun.act:psicanálise
+sa: @en:noun.motive:libidinal_energy
+
+w: energia_mental
+w: energia_psíquica
+d: uma força de actuação ou factor de atuação
+hyper: energia_libidinal
+hyper: provocação
+hypo: noun.Tops:intenção
+sa: @en:noun.motive:mental_energy
+
+w: faneromania
+d: um desejo irresistível de mexer em partes do corpo superficiais (como no transtorno obsessivo de roer as unhas)
+hypo: cacoete
+sa: @en:noun.motive:phaneromania
+
+w: força_moral
+d: @en_an efficient incentive
+hypo: incentivo
+sa: @en:noun.motive:dynamic
+
+w: hedonismo
+d: @en_the pursuit of pleasure as a matter of ethical principle
+hypo: morais
+sa: @en:noun.motive:hedonism
+
+w: impulso
+d: um motivo instintivo
+hyper: @en_adience
+hyper: Wanderlust
+hyper: abiência
+hyper: desejo_de_morte
+hypo: noun.Tops:intenção
+sa: @en:noun.motive:impulse
+
+w: impulso_irracional
+d: uma forte motivação espontânea e irracional
+hyper: compulsão[1]
+hypo: motivação_irracional
+sa: @en:noun.motive:irrational_impulse
+
+w: incentivo
+d: @en_a positive motivational influence
+hyper: força_moral
+hypo: motivo_racional
+sa: @en:noun.motive:incentive
+
+w: logomania
+w: logorreia
+d: falar de maneira patologicamente excessiva (e muitas vezes incoerente)
+hypo: cacoete
+sa: @en:noun.motive:logomania
+
+w: luz_interna
+d: uma presença divina que os quakers acreditam que  orienta a alma
+hypo: morais
+sa: @en:noun.motive:Christ_Within
+
+w: monomania
+d: @en_a mania restricted to one thing or idea
+hypo: cacoete
+sa: @en:noun.motive:monomania
+
+w: morais
+w: moral
+w: moralidade
+w: ética
+d: @en_motivation based on ideas of right and wrong
+hyper: consciência
+hyper: hedonismo
+hyper: luz_interna
+hypo: noun.Tops:intenção
+sa: @en:noun.motive:ethical_motive
+
+w: motivação_irracional
+w: motivo_irracional
+d: uma motivação que é incompatível com a razão ou a lógica
+hyper: cacoete
+hyper: compulsão
+hyper: impulso_irracional
+hypo: noun.Tops:intenção
+sa: @en:noun.motive:irrational_motive
+
+w: motivo_racional
+d: um motivo que pode ser defendido pelo raciocínio ou por argumento lógico
+hyper: causa
+hyper: desincentivo
+hyper: incentivo
+hypo: noun.Tops:intenção
+sa: @en:noun.motive:rational_motive
+
+w: onomatomania
+d: @en_obsession with a particular word which the person uses repeatedly or which intrudes into consciousness
+hypo: compulsão
+sa: @en:noun.motive:onomatomania
+
+w: piromania
+d: @en_an uncontrollable desire to set fire to things
+hypo: cacoete
+sa: @en:noun.motive:pyromania
+
+w: porque
+w: porque_causa
+w: porquê
+d: @en_the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'
+hypo: causa
+sa: @en:noun.motive:wherefore
+
+w: provocação
+d: @en_something that incites or provokes; a means of arousing or stirring to action
+hyper: sinal
+hypo: energia_mental
+sa: @en:noun.motive:incitation
+
+w: razão[1]
+d: @en_reason
+hypo: causa
+sa: @en:noun.motive:occasion
+
+w: senso_de_dever
+d: consciência motivadora da sua responsabilidade ética
+hypo: consciência
+sa: @en:noun.motive:sense_of_duty
+
+w: sinal
+d: @en_any incitement to action
+hypo: provocação
+sa: @en:noun.motive:signal
+
+w: tricotilomania
+d: @en_an irresistible urge to pull out your own hair
+hypo: cacoete
+sa: @en:noun.motive:trichotillomania
+
+w: vida
+d: @en_a motive for living
+hypo: noun.Tops:intenção
+sa: @en:noun.motive:life
+
+w: voz_da_consciência
+w: voz_interior
+d: @en_an inner voice that judges your behavior
+hypo: consciência
+sa: @en:noun.motive:small_voice
+

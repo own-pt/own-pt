@@ -1,0 +1,2003 @@
+verb.consumption
+
+w: @en_avail
+w: @en_help
+d: @en_take or use
+fs: 8
+hypo: aproveitar
+sa: @en:verb.consumption:avail[4]
+
+w: @en_avoid
+w: @en_keep_off
+d: @en_refrain from certain foods or beverages
+fs: 8
+hypo: abster
+sa: @en:verb.consumption:avoid
+
+w: @en_banquet
+w: @en_feast
+w: @en_junket
+d: @en_provide a feast or banquet for
+fs: 9
+hypo: receber
+sa: @en:verb.consumption:banquet[1]
+vg: @en_banquet[1]
+
+w: @en_banquet[1]
+w: @en_feast[1]
+w: @en_junket[1]
+d: @en_partake in a feast or banquet
+fs: 2 22
+hyper: @en_wine_and_dine
+hypo: comer[4]
+sa: @en:verb.consumption:banquet
+vg: @en_banquet
+
+w: @en_bar_hop
+w: @en_pub-crawl
+d: ir de um pub para o próximo e ficar progressivamente mais bêbado
+fs: 2
+hypo: beber[3]
+sa: @en:verb.consumption:bar_hop
+
+w: @en_base
+w: @en_free-base
+d: @en_use (purified cocaine) by burning it and inhaling the fumes
+fs: 2 8
+hypo: drogar_(se)
+sa: @en:verb.consumption:base
+
+w: @en_be_full
+d: @en_be sated, have enough to eat
+fs: 2
+sa: @en:verb.consumption:be_full
+
+w: @en_bib
+w: @en_tipple
+d: @en_drink moderately but regularly
+fs: 2
+hypo: beber[3]
+sa: @en:verb.consumption:bib
+
+w: @en_board
+d: @en_provide food and lodging (for)
+fs: 9
+entail: alimentar
+hyper: @en_live_in
+hypo: abastecer
+sa: @en:verb.consumption:board
+vg: hospedar
+
+w: @en_break_bread
+d: ter uma refeição, geralmente em compnhia de outros
+fs: 2
+hypo: comer[4]
+sa: @en:verb.consumption:break_bread
+
+w: @en_brunch
+d: comer uma refeição no final da manhã
+e: Temos um brunch no domingo.
+fs: 2
+hypo: comer[4]
+sa: @en:verb.consumption:brunch
+
+w: @en_cannibalise
+w: @en_cannibalize
+d: usar partes de algo para reparar algo diferente
+fs: 8
+entail: verb.creation:desestruturar
+hypo: utilizar
+sa: @en:verb.consumption:cannibalise[1]
+
+w: @en_cannibalise[1]
+w: @en_cannibalize[1]
+d: @en_eat human flesh
+fs: 2
+hypo: consumir[1]
+sa: @en:verb.consumption:cannibalise
+
+w: @en_chain-smoke
+d: @en_smoke one cigarette after another; light one cigarette from the preceding one
+fs: 2
+hypo: fumar[1]
+sa: @en:verb.consumption:chain-smoke
+
+w: @en_champ
+d: @en_chafe at the bit, like horses
+fs: 1
+hypo: mastigar
+sa: @en:verb.consumption:champ[1]
+
+w: @en_claret
+d: @en_drink claret
+fs: 2
+hypo: beber[3]
+sa: @en:verb.consumption:claret
+
+w: @en_cloy
+w: @en_pall
+d: @en_cause surfeit through excess though initially pleasing
+fs: 1 10 11
+hypo: fartar
+sa: @en:verb.consumption:cloy
+
+w: @en_corn
+d: alimentar (gado) com milho
+fs: 8
+hypo: alimentar
+sa: @en:verb.consumption:corn
+
+w: @en_crunch
+w: @en_munch
+d: mastigar ruidosamente
+e: As crianças mastigaram os talos de aipo.
+fs: 8
+hypo: mastigar
+sa: @en:verb.consumption:crunch
+
+w: @en_diet
+d: @en_follow a regimen or a diet, as for health reasons
+fs: 2
+hypo: jejuar
+sa: @en:verb.consumption:diet[1]
+
+w: @en_dig_in
+w: @en_pitch_in
+d: @en_eat heartily
+fs: 2
+hypo: comer[2]
+sa: @en:verb.consumption:dig_in
+
+w: @en_dine_out
+w: @en_eat_out
+d: @en_eat at a restaurant or at somebody else's home
+fs: 2
+hypo: comer[4]
+sa: @en:verb.consumption:dine_out
+
+w: @en_drag
+w: @en_draw
+w: @en_puff
+d: @en_suck in or take (air)
+fs: 2 22
+entail: fumar[1]
+hypo: verb.body:inalar
+sa: @en:verb.consumption:drag
+
+w: @en_drench
+d: @en_force to drink
+fs: 8
+cause: beber
+hypo: abastecer
+mt: noun.Tops:animal
+sa: @en:verb.consumption:drench
+
+w: @en_drive
+d: @en_cause to function by supplying the force or power for or by controlling
+fs: 11
+hypo: alimentar[4]
+sa: @en:verb.consumption:drive[7]
+
+w: @en_drop
+d: @en_take (a drug, especially LSD), by mouth
+fs: 8
+hypo: drogar_(se)
+sa: @en:verb.consumption:drop
+
+w: @en_fare
+d: @en_eat well
+fs: 2
+hypo: comer[2]
+sa: @en:verb.consumption:fare
+
+w: @en_feed
+w: @en_prey
+d: se alimentar de uma forma exploratoria
+e: Ele se alimenta da insegurança dela
+fs: 8 9 10 11
+hypo: aproveitar
+sa: @en:verb.consumption:feed[9]
+
+w: @en_fodder
+d: @en_give fodder (to domesticated animals)
+fs: 8
+hypo: alimentar
+sa: @en:verb.consumption:fodder
+
+w: @en_forage
+d: @en_wander and feed
+fs: 1 4
+hyper: @en_predate
+hypo: comer
+sa: @en:verb.consumption:forage
+
+w: @en_get_off
+w: @en_trip
+w: @en_trip_out
+w: @en_turn_on
+d: @en_get high, stoned, or drugged
+fs: 2 13
+sa: @en:verb.consumption:get_off
+
+w: @en_go
+w: @en_run_low
+w: @en_run_short
+d: @en_to be spent or finished
+fs: 1
+hypo: verb.stative:cessar
+sa: @en:verb.consumption:go
+vg: ir
+
+w: @en_go_through
+w: @en_run_through
+w: @en_work_through
+d: @en_apply thoroughly; think through
+fs: 8
+hyper: verb.social:@en_whip_through
+hypo: verb.social:trabalhar[3]
+sa: @en:verb.consumption:work_through
+
+w: @en_grass
+d: alimentar com grama
+fs: 8
+hypo: verb.contact:pastar[1]
+sa: @en:verb.consumption:grass
+
+w: @en_guggle
+w: @en_gurgle
+d: @en_drink from a flask with a gurgling sound
+fs: 2 8
+hypo: beber
+sa: @en:verb.consumption:guggle
+
+w: @en_gum
+w: @en_mumble
+d: moer com as gengivas; mastigar sem dentes e com grande dificuldade
+e: O velho não tinha mais dentes  e precisava moer a comida com as gengivas.
+fs: 8
+hypo: mastigar
+sa: @en:verb.consumption:gum
+
+w: @en_gutter
+d: @en_provide with gutters
+fs: 8
+hypo: abastecer
+sa: @en:verb.consumption:gutter
+
+w: @en_harness
+d: explorar o poder de
+fs: 8
+hypo: explorar[2]
+sa: @en:verb.consumption:harness
+
+w: @en_hit
+d: @en_consume to excess
+fs: 8
+hypo: consumir[1]
+sa: @en:verb.consumption:hit
+
+w: @en_horse
+d: @en_provide with a horse or horses
+fs: 8 9
+hyper: @en_remount
+hypo: abastecer
+sa: @en:verb.consumption:horse
+
+w: @en_huff
+w: @en_snort
+d: @en_inhale recreational drugs
+fs: 8
+entail: drogar_(se)
+hypo: verb.body:inalar
+sa: @en:verb.consumption:huff
+
+w: @en_live_in
+w: @en_sleep_in
+d: @en_live in the house where one works
+fs: 2
+hypo: @en_board
+sa: @en:verb.consumption:live_in
+
+w: @en_live_out
+w: @en_sleep_out
+d: @en_work in a house where one does not live
+fs: 2
+hypo: verb.motion:@en_commute
+sa: @en:verb.consumption:live_out
+
+w: @en_luxuriate
+w: @en_wanton
+d: tratar  (a si mesmo) luxuosamente
+fs: 2
+hypo: delapidar
+sa: @en:verb.consumption:luxuriate
+
+w: @en_mainline
+d: @en_inject into the vein
+fs: 2 8
+hypo: injetar
+sa: @en:verb.consumption:mainline
+
+w: @en_nosh
+w: @en_snack
+d: @en_eat a snack; eat lightly
+fs: 2 22
+hyper: dar_uma_olhada
+hypo: comer[4]
+sa: @en:verb.consumption:nosh
+
+w: @en_overfeed
+d: @en_feed excessively
+fs: 8 9
+hypo: alimentar
+sa: @en:verb.consumption:overfeed
+
+w: @en_peck
+w: @en_peck_at
+w: @en_pick_at
+d: @en_eat like a bird
+fs: 2
+hypo: comer[2]
+sa: @en:verb.consumption:peck_at
+
+w: @en_plank
+d: Cozinhar e servir em uma tábua
+e: vegetais na tábua
+fs: 8
+hypo: dar[1]
+sa: @en:verb.consumption:plank
+
+w: @en_port
+d: @en_drink port
+fs: 2
+hypo: beber[3]
+sa: @en:verb.consumption:port
+
+w: @en_predate
+w: @en_prey[1]
+w: @en_raven
+d: @en_prey on or hunt for
+fs: 8 11
+hypo: @en_forage
+sa: @en:verb.consumption:predate
+
+w: @en_puff[1]
+w: @en_whiff
+d: @en_smoke and exhale strongly
+fs: 8
+hypo: fumar[1]
+sa: @en:verb.consumption:puff[1]
+
+w: @en_pull_out_all_the_stops
+d: utilizar todos os recursos disponíveis
+e: Os organizadores usaram todos os seus recursos para o encontro do centenário.
+fs: 2
+hypo: utilizar
+sa: @en:verb.consumption:pull_out_all_the_stops
+
+w: @en_quarry
+d: @en_extract (something such as stones) from or as if from a quarry
+fs: 8
+entail: verb.contact:cavar[1]
+hypo: explorar[2]
+mt: noun.act:exploração_de_pedreiras
+sa: @en:verb.consumption:quarry
+
+w: @en_regale
+w: @en_treat
+d: @en_provide with choice or abundant food or drink
+fs: 9 17 20
+hyper: @en_wine
+hyper: alcoolizar
+hyper: apreciar
+hypo: abastecer
+sa: @en:verb.consumption:regale
+vg: verb.possession:@en_treat
+
+w: @en_remount
+d: @en_provide with fresh horses
+fs: 8 9
+hypo: @en_horse
+sa: @en:verb.consumption:remount
+
+w: @en_repose
+d: @en_put or confide something in a person or thing
+fs: 21
+hypo: colocar
+sa: @en:verb.consumption:repose
+
+w: @en_reseed
+d: @en_maintain by seeding without human intervention
+fs: 1
+hypo: manter
+sa: @en:verb.consumption:reseed
+
+w: @en_scavenge
+d: @en_feed on carrion or refuse
+fs: 2
+hypo: alimentar
+sa: @en:verb.consumption:scavenge
+
+w: @en_skin_pop
+d: @en_inject (drugs) into the skin
+fs: 8
+hypo: tomar[5]
+sa: @en:verb.consumption:skin_pop
+
+w: @en_slurp
+d: @en_eat noisily
+fs: 2 8
+hypo: comer[2]
+sa: @en:verb.consumption:slurp
+
+w: @en_smack
+d: @en_press (the lips) together and open (the lips) noisily, as in eating
+fs: 2
+hypo: verb.communication:emitir
+sa: @en:verb.consumption:smack
+
+w: @en_snort[1]
+w: @en_take_a_hit
+d: @en_inhale through the nose
+fs: 8
+hypo: drogar_(se)
+sa: @en:verb.consumption:snort[1]
+
+w: @en_sow_one's_oats
+w: @en_sow_one's_wild_oats
+d: viver promiscuamente e auto-indulgentemente
+fs: 2
+hypo: indulgir
+sa: @en:verb.consumption:sow_one's_oats
+
+w: @en_spare
+d: @en_use frugally or carefully
+fs: 8
+hypo: despender
+sa: @en:verb.consumption:spare
+
+w: @en_spoonfeed
+d: @en_feed with a spoon
+fs: 9
+hypo: alimentar
+sa: @en:verb.consumption:spoonfeed
+
+w: @en_spree
+d: @en_engage without restraint in an activity and indulge, as when shopping
+fs: 2
+hypo: indulgir
+sa: @en:verb.consumption:spree
+
+w: @en_starve
+d: @en_deprive of a necessity and cause suffering
+fs: 8 9
+hypo: verb.possession:privar
+sa: @en:verb.consumption:starve[4]
+vg: esfomear
+
+w: @en_suckle
+d: @en_suck milk from the mother's breasts
+fs: 2
+entail: beber
+hypo: comer
+sa: @en:verb.consumption:suckle[1]
+
+w: @en_swill
+w: @en_swill_down
+d: @en_drink large quantities of (liquid, especially alcoholic drink)
+fs: 8
+hypo: beber
+sa: @en:verb.consumption:swill
+
+w: @en_take_away
+w: @en_take_out
+d: @en_buy and consume food from a restaurant or establishment that sells prepared food
+fs: 8
+hypo: comer[4]
+sa: @en:verb.consumption:take_away
+
+w: @en_take_in_vain
+d: @en_use a name, such as God, without proper respect
+fs: 8
+hypo: verb.change:abusar
+sa: @en:verb.consumption:take_in_vain
+
+w: @en_tank
+d: consumir quantidades excessivas de álcool
+fs: 2
+hypo: beber[3]
+sa: @en:verb.consumption:tank
+
+w: @en_task
+w: @en_tax
+d: @en_use to the limit
+fs: 8
+hypo: exceder
+sa: @en:verb.consumption:task
+
+w: @en_teetotal
+d: abster-se do consumo de bebidas alcoólicas
+fs: 2
+hypo: abster
+sa: @en:verb.consumption:teetotal
+
+w: @en_victual
+d: @en_take in nourishment
+fs: 2
+hypo: comer[4]
+sa: @en:verb.consumption:victual
+
+w: @en_wallow
+d: se deleitar sem moderação
+e: GLOSS_: dedicar-se inteiramente a algo
+e: chafurdar na tristeza
+e: chafurdar no luxo
+fs: 8
+hypo: verb.social:@en_indulge
+sa: @en:verb.consumption:wallow[1]
+
+w: @en_wine
+d: @en_treat to wine
+fs: 9
+hypo: @en_regale
+sa: @en:verb.consumption:wine[1]
+
+w: @en_wine_and_dine
+d: @en_eat sumptuously
+fs: 2 22
+entail: beber[3]
+entail: comer[4]
+hypo: @en_banquet[1]
+sa: @en:verb.consumption:wine_and_dine
+
+w: @en_wine_and_dine[1]
+d: fornecer  comida e bebida, geralmente de alto custo
+fs: 9
+hypo: receber
+sa: @en:verb.consumption:wine_and_dine[1]
+
+w: abastecer
+w: fornecer
+w: prover
+w: provisionar
+w: servir
+d: dar o que é desejado ou necessário, especialmente apoio, alimento ou sustento
+e: A dona da casa serviu o almoço para todos os convidados
+e: A dona da casa serviu o almoço para todos os convidados.
+e: GLOSS_: dar o que é desejado ou necessário, especialmente  apoio, alimento ou sustento
+fs: 8 21
+hyper: verb.competition:@en_staff[1]
+hyper: @en_board
+hyper: @en_drench
+hyper: @en_gutter
+hyper: @en_horse
+hyper: @en_regale
+hyper: ajudar
+hyper: alimentar
+hyper: alimentar[2]
+hyper: alimentar[3]
+hyper: alimentar[4]
+hyper: alimentar[5]
+hyper: arranjar
+hyper: arrumar
+hyper: colmar
+hyper: dar[1]
+hyper: fornecer_comida
+hyper: forrar
+hyper: indulgir
+hyper: regar[1]
+hyper: satifazer
+hypo: verb.possession:dar[18]
+sa: @en:verb.consumption:cater
+
+w: abster
+w: abster-se
+w: privar
+w: privar-se
+d: optar por não consumir
+e: Eu me abstenho do álcool
+fs: 2 22 33
+hyper: @en_avoid
+hyper: @en_teetotal
+hyper: jejuar
+hyper: jejuar[1]
+sa: @en:verb.consumption:abstain
+
+w: acalmar
+w: aplacar
+d: @en_overcome or allay
+fs: 1 10
+hypo: satifazer
+sa: @en:verb.consumption:appease
+
+w: acender_cigarro
+w: fumar
+d: começar a fumar
+e: Depois da  refeição, alguns dos convidados acenderam seus cigarros.
+fs: 2
+entail: fumar[1]
+hypo: verb.weather:acender[3]
+sa: @en:verb.consumption:fire_up
+
+w: ajudar
+w: servir[1]
+d: ajudar com alimento; ajudar com alimentos ou bebidas
+e: Eu lhe servi três vezes, e depois disso ele se serviu.
+e: Eu servi ele três vezes, e depois disso  ele se ajudou
+fs: 9
+hypo: abastecer
+sa: @en:verb.consumption:help
+vg: dar[1]
+
+w: alcoolizar
+d: fazer sujeito à influência do álcool
+fs: 9
+hypo: @en_regale
+sa: @en:verb.consumption:alcoholize
+
+w: aleitar
+w: amamentar
+w: dar_de_mamar
+w: lactar
+d: @en_give suck to
+fs: 2 9
+hypo: alimentar
+sa: @en:verb.consumption:breastfeed
+vg: chupar
+
+w: alimentar
+w: dar_comida
+d: @en_give food to
+fs: 9
+cause: comer[2]
+hyper: @en_corn
+hyper: @en_fodder
+hyper: @en_overfeed
+hyper: @en_scavenge
+hyper: @en_spoonfeed
+hyper: aleitar
+hyper: alimentar[6]
+hyper: dar_mamadeira
+hyper: deixar_pastar
+hyper: fornecer_café_da_manhã
+hyper: forçar_a_comer
+hyper: injetar[1]
+hyper: jantar[1]
+hyper: mal-alimentar
+hyper: nutrir
+hyper: regurgitar
+hyper: servir_lavagem
+hyper: verb.contact:pastar[1]
+hypo: abastecer
+sa: @en:verb.consumption:give
+
+w: alimentar[1]
+w: nutrir
+d: @en_give nourishment to
+fs: 11
+hypo: alimentar
+sa: @en:verb.consumption:aliment
+
+w: alimentar[2]
+w: nutrir[1]
+d: @en_provide with nourishment
+fs: 9 10
+hyper: long-faced
+hypo: abastecer
+sa: @en:verb.consumption:nourish
+
+w: alimentar[3]
+d: serve de alimento para; ser o alimento para
+e: Este prato alimenta seis
+fs: 10 11
+hypo: abastecer
+sa: @en:verb.consumption:feed[2]
+
+w: alimentar[4]
+d: @en_supply the force or power for the functioning of
+fs: 11
+hyper: @en_drive
+hypo: abastecer
+sa: @en:verb.consumption:power
+
+w: alimentar[5]
+d: @en_provide as food
+fs: 14 15
+hypo: abastecer
+sa: @en:verb.consumption:feed[4]
+
+w: alimentar[6]
+d: @en_provide a midday meal for
+fs: 9
+hypo: alimentar
+sa: @en:verb.consumption:lunch[1]
+
+w: alimentar[7]
+w: suprir
+d: alimentar; suprir
+e: Seu sucesso alimenta sua vaidade
+fs: 11
+hypo: verb.possession:prover
+sa: @en:verb.consumption:feed[3]
+
+w: alimentar-se
+d: ser sustentado por
+fs: 8
+hypo: satifazer
+sa: @en:verb.consumption:feed_on
+
+w: alimentar-se[1]
+w: comer
+d: ingerir comida; usado só por animais
+e: esse cachorro não se alimenta com certos tipos de carne
+e: oque as baleias comem?
+fs: 1 4
+hyper: @en_forage
+hyper: @en_suckle
+hyper: devorar[1]
+hyper: verb.contact:pastar
+hypo: consumir[1]
+sa: @en:verb.consumption:feed
+vg: comer[2]
+
+w: aliviar
+w: matar_a_sede
+w: saciar
+d: @en_satisfy (thirst)
+fs: 8 11
+entail: consumir[1]
+hypo: satifazer
+sa: @en:verb.consumption:allay
+
+w: almoçar
+w: comer[1]
+d: @en_take the midday meal
+fs: 2
+hypo: comer[4]
+sa: @en:verb.consumption:lunch
+
+w: aplicar
+w: empregar
+w: exercer
+d: colocar em uso
+e: empregar um poder ou influência em alguém
+fs: 8 11
+hypo: utilizar
+sa: @en:verb.consumption:exercise
+
+w: apreciar
+d: @en_gratify
+fs: 9 21
+hypo: @en_regale
+sa: @en:verb.consumption:feast[2]
+
+w: aproveitar
+w: explorar
+d: usar ou manipular em proveito próprio
+e: Ela sabe como aproveitar o sistema
+e: Ele explorou o novo sistema de tributação
+e: ele explora seus pais com simpatia
+fs: 8 9
+hyper: @en_avail
+hyper: @en_feed
+hyper: aproveitar_se
+hyper: jogar
+hyper: verb.social:usar[1]
+hypo: utilizar
+sa: @en:verb.consumption:exploit
+vg: verb.perception:@en_work
+
+w: aproveitar[1]
+d: usar em proveito próprio
+fs: 20
+hypo: utilizar
+sa: @en:verb.consumption:avail
+
+w: aproveitar_em_demasia
+d: desfrutar ao excesso
+fs: 8
+hyper: saciar[2]
+hypo: gastar
+sa: @en:verb.consumption:indulge[12]
+
+w: aproveitar_se
+d: transformar em proveito próprio
+e: O lobby ambientalista se aproveitou do acidente da usina nuclear.
+fs: 22
+hypo: aproveitar
+sa: @en:verb.consumption:make_hay
+
+w: arranjar
+d: @en_arrange for sexual partners for others
+fs: 2
+hypo: abastecer
+sa: @en:verb.consumption:pander
+
+w: arrumar
+w: encontrar
+d: @en_find (something or someone) for
+fs: 17
+hypo: abastecer
+sa: @en:verb.consumption:fix_up
+
+w: beber
+w: tomar
+d: tomar líquidos
+e: As crianças gostam de beber soda
+e: As crianças gostam de beber soda.
+e: GLOSS_: ingerir líquidos
+e: O paciente deve beber vários litros por dia
+e: O paciente deve beber vários litros por dia.
+fs: 8
+hyper: @en_guggle
+hyper: @en_swill
+hyper: beber_tudo
+hyper: bebericar
+hyper: chupar
+hyper: entornar
+hyper: lamber
+hyper: libar
+hyper: matar
+hypo: consumir[1]
+sa: @en:verb.consumption:drink
+
+w: beber[1]
+w: libar
+w: tomar[1]
+d: @en_to swallow hurriedly or greedily or in one draught
+fs: 8
+entail: deglutir
+hypo: beber
+sa: @en:verb.consumption:quaff
+
+w: beber[2]
+w: tomar[2]
+d: @en_drink excessive amounts of alcohol; be an alcoholic
+fs: 2
+hypo: usar
+sa: @en:verb.consumption:tope
+vg: beber[3]
+
+w: beber[3]
+w: tomar[3]
+d: consumir álcool
+e: Estávamos bebendo a noite toda
+fs: 2
+hyper: @en_bar_hop
+hyper: @en_bib
+hyper: @en_claret
+hyper: @en_port
+hyper: @en_tank
+hyper: beber_bem
+hyper: beber_vinho
+hyper: embriagar
+hypo: consumir[1]
+sa: @en:verb.consumption:booze
+vg: beber[2]
+
+w: beber_bem
+d: beber álcool sem apresentar efeitos nocivos
+e: Ele bebe bem.
+e: Ele tinha bebido mais do que  podia.
+fs: 8
+hypo: beber[3]
+sa: @en:verb.consumption:carry
+
+w: beber_tudo
+w: enxugar
+d: beber até a última gota
+fs: 2
+hypo: beber
+sa: @en:verb.consumption:drain_the_cup
+
+w: beber_vinho
+d: @en_drink wine
+fs: 2
+hypo: beber[3]
+sa: @en:verb.consumption:wine
+
+w: bebericar
+w: sorver
+d: beber em pequenos goles
+e: Ela estava sorvendo seu chá
+fs: 8
+hypo: beber
+sa: @en:verb.consumption:sip
+
+w: brindar
+d: propor um brinde à
+fs: 8 9
+entail: beber[3]
+hyper: dar
+hypo: verb.social:honrar[1]
+sa: @en:verb.consumption:pledge
+
+w: cair
+w: descer
+d: ser ingerido
+e: A comida nao queria descer.
+fs: 1 6
+sa: @en:verb.consumption:go_down
+
+w: cevar
+w: engordar
+d: tornar gordo, aumentar de peso
+e: Nós vamos engordar essa pobre criança morrendo de fome
+fs: 8 9
+entail: alimentar
+hypo: verb.change:alterar[2]
+sa: @en:verb.consumption:fat
+
+w: chupar
+w: sugar
+d: puxar para a boca criando um vácuo prático na boca
+e: chupar em um canudo
+e: o bebê chupava o seio da mãe
+e: sugar o veneno do lugar onde a cobra mordeu
+fs: 8
+hypo: beber
+sa: @en:verb.consumption:suck[4]
+vg: aleitar
+
+w: colmar
+w: satisfazer
+d: @en_provide with something desired or needed
+fs: 17
+hypo: abastecer
+sa: @en:verb.consumption:accommodate
+
+w: colocar
+w: por
+d: atribuir ou dar
+fs: 21
+hyper: @en_repose
+hypo: utilizar
+sa: @en:verb.consumption:assign
+
+w: comer[2]
+d: ingerir comida sólida
+e: ela estava comendo uma banana
+e: oque você comeu de jantar noite passada
+fs: 8
+entail: deglutir
+entail: mastigar
+hyper: @en_dig_in
+hyper: @en_fare
+hyper: @en_peck
+hyper: @en_slurp
+hyper: comer_como_um_passarinho
+hyper: consumir
+hyper: devorar[3]
+hyper: devorar[5]
+hyper: devorar[7]
+hyper: encher
+hyper: engolir[1]
+hyper: exagerar
+hyper: imergir
+hyper: mordiscar
+hyper: regar
+hyper: ruminar
+hyper: tragar
+hypo: comer[4]
+hypo: consumir[1]
+sa: @en:verb.consumption:eat
+vg: comer
+vg: comer[4]
+
+w: comer[3]
+w: consumir
+w: devorar
+d: @en_eat immoderately
+fs: 10
+hypo: comer[2]
+sa: @en:verb.consumption:go_through
+
+w: comer[4]
+d: comer uma refeição; tomar uma refeição
+e: Eu não comi ainda, então eu aceito seu convite de bom grado
+e: Eu não comi ainda, então eu aceito seu convite de bom grado.
+e: GLOSS_: comer uma refeição; ter uma refeição
+e: Nós não comemos até dez horas porque haviam tantos telefonemas
+fs: 2
+hyper: @en_banquet[1]
+hyper: @en_break_bread
+hyper: @en_brunch
+hyper: @en_dine_out
+hyper: @en_nosh
+hyper: @en_take_away
+hyper: @en_victual
+hyper: almoçar
+hyper: comer[2]
+hyper: comer_em_casa
+hyper: desjejuar
+hyper: desordenar
+hyper: encher_a_cara
+hyper: fazer_um_piquenique
+hyper: jantar
+hypo: consumir[1]
+sa: @en:verb.consumption:eat[1]
+vg: comer[2]
+
+w: comer_como_um_passarinho
+d: @en_eat by pecking at, like a bird
+fs: 11
+hypo: comer[2]
+sa: @en:verb.consumption:peck
+
+w: comer_em_casa
+d: comer em casa
+fs: 2
+hypo: comer[4]
+sa: @en:verb.consumption:dine_in
+
+w: comercializar
+d: @en_exploit for maximal profit, usually by sacrificing quality
+fs: 8
+hypo: explorar[2]
+sa: @en:verb.consumption:commercialize
+
+w: comungar
+d: participar do sacramento da Sagrada Eucaristia
+fs: 2 8
+hypo: tocar
+mt: noun.cognition:cristianismo
+sa: @en:verb.consumption:receive
+
+w: consumir[1]
+w: tomar[4]
+d: fornecer a si mesmo, ou consumir regularmente
+e: "Eu não consumo açúcar no meu café
+e: Tome outro prato de sopa de galinha!
+fs: 8
+hyper: @en_cannibalise[1]
+hyper: @en_hit
+hyper: beber
+hyper: beber[3]
+hyper: comer
+hyper: comer[2]
+hyper: comer[4]
+hyper: deglutir
+hyper: drogar_(se)
+hyper: enxugar[1]
+hyper: experimentar
+hyper: fartar
+hyper: fumar[1]
+hyper: sorver[1]
+hyper: tocar
+hyper: usar
+sa: @en:verb.consumption:consume
+
+w: consumir[2]
+w: gastar
+d: utilizar (recursos ou materiais)
+e: Eles consomem até 20 garrafas de vinho por semana
+e: Este carro consome uma grande quantidade de gás.
+e: Nós gastamos nossas economias
+e: Nós gastamos todas as nossas economias.
+e: este carro consome uma grande quantidade de gás
+fs: 8 11
+hyper: verb.change:@en_run_out[1]
+hyper: aproveitar_em_demasia
+hyper: drenar
+hyper: malhar
+hyper: verb.possession:consumir
+hyper: verb.possession:exaurir
+hypo: verb.possession:despender
+sa: @en:verb.consumption:deplete
+vg: verb.possession:levar
+
+w: consumir[3]
+w: usar
+d: tomar ou consumir (regularmente ou habitualmente)
+e: Ela usa drogas raramente
+fs: 8
+hyper: beber[2]
+hyper: hospedar
+hypo: consumir[1]
+sa: @en:verb.consumption:habituate
+
+w: contentar
+w: satisfazer[1]
+d: @en_satisfy in a limited way
+fs: 20
+hypo: verb.change:limitar[2]
+sa: @en:verb.consumption:content
+
+w: criar
+d: cuidar de uma criança sem amamentar
+fs: 9
+hypo: verb.social:tutelar
+sa: @en:verb.consumption:dry-nurse
+
+w: dar
+w: propor
+d: @en_propose
+fs: 8
+hypo: brindar
+sa: @en:verb.consumption:give[10]
+
+w: dar[1]
+w: servir[2]
+d: fornecer (normalmente comida, mas não necessariamente)
+e: ela serviu a sopa ás 8 P.M.
+e: nós servimos refeições para os sem-teto
+e: os artitas deram um show ao vivo
+fs: 8
+hyper: @en_plank
+hypo: abastecer
+sa: @en:verb.consumption:dish
+vg: ajudar
+
+w: dar_mamadeira
+d: @en_feed (infants) with a bottle
+fs: 9
+hypo: alimentar
+sa: @en:verb.consumption:bottlefeed
+
+w: dar_uma_olhada
+w: folear
+w: pastar
+d: @en_eat lightly, try different dishes
+fs: 2 22
+hypo: @en_nosh
+sa: @en:verb.consumption:browse
+
+w: deglutir
+w: engolir
+w: ingurgitar
+d: passar pelo esôfago, uma etapa de comer ou beber
+e: Engula o peixe cru - não vai te matar!
+fs: 8
+hyper: devorar[4]
+hypo: consumir[1]
+sa: @en:verb.consumption:get_down
+
+w: degustar
+d: @en_taste with relish
+fs: 8
+hypo: experimentar
+sa: @en:verb.consumption:degust
+
+w: deixar_pastar
+d: @en_let eat
+e: Deixe os animais pastarem nas pradarias
+fs: 8
+hypo: alimentar
+sa: @en:verb.consumption:range
+vg: verb.contact:pastar
+
+w: delapidar
+w: desperdiçar
+w: dilapidar
+w: esbanjar
+d: gastar demais
+e: GLOSS_: gastar com extravagância
+fs: 8
+hyper: @en_luxuriate
+hyper: desperdiçar[1]
+hyper: verb.possession:@en_overspend
+hyper: verb.possession:esbanjar[1]
+hyper: verb.possession:gastar_em_demasia
+hypo: verb.possession:despender
+sa: @en:verb.consumption:squander
+
+w: deleitar_se
+d: ter grande prazer em alguma coisa
+fs: 8
+hypo: desfrutar
+sa: @en:verb.consumption:wallow
+
+w: demandar
+d: @en_demand immediate action
+fs: 4
+hypo: requerer
+sa: @en:verb.consumption:cry
+
+w: desejar
+w: querer
+w: ter_sede
+d: ter um desejo, apetite ou muito vontade
+fs: 22
+hypo: verb.emotion:ansiar
+sa: @en:verb.consumption:crave
+
+w: desfrutar
+w: gozar
+d: @en_take delight in
+fs: 22
+entail: despender
+hyper: deleitar_se
+hyper: distrair-se
+hyper: divertir-se[1]
+sa: @en:verb.consumption:delight
+
+w: desfrutar[1]
+w: gozar[1]
+d: receber benefício de algo
+e: gozar os privilégios
+fs: 8
+hypo: utilizar
+sa: @en:verb.consumption:enjoy[1]
+
+w: desistir
+w: parar
+d: @en_stop consuming
+fs: 8 33
+hypo: verb.social:dispensar[2]
+sa: @en:verb.consumption:give_up
+
+w: desjejuar
+d: @en_eat an early morning meal
+fs: 2
+hypo: comer[4]
+sa: @en:verb.consumption:breakfast
+
+w: desmamar
+d: @en_gradually deprive (infants and young mammals) of mother's milk
+fs: 9
+entail: aleitar
+hypo: verb.possession:privar
+sa: @en:verb.consumption:ablactate
+
+w: desordenar
+w: fazer_bagunça
+d: @en_eat in a mess hall
+fs: 2
+hypo: comer[4]
+mt: noun.group:máquina_de_guerra
+sa: @en:verb.consumption:mess
+
+w: despender
+w: esgotar
+w: gastar[1]
+d: esgotar, consumir totalmente
+e: O Legislativo gastou seu tempo em questões de escola
+fs: 8 11
+entail: gastar
+hyper: verb.change:@en_abuse
+hyper: verb.change:abusar
+hyper: @en_spare
+hyper: verb.possession:desperdiçar
+hyper: verb.possession:levar
+sa: @en:verb.consumption:expend
+
+w: desperdiçar[1]
+d: gastar frivolamente e imprudentemente
+e: desperdiçar a própria herança
+fs: 8
+entail: gastar
+hypo: delapidar
+sa: @en:verb.consumption:dissipate
+
+w: desperdiçar[2]
+w: perder
+d: uso ineficiente ou inadequado
+e: desperdiçar uma piada em um público insatisfeito
+e: perder calor
+fs: 8 11
+hypo: utilizar
+sa: @en:verb.consumption:waste[5]
+
+w: devorar[1]
+d: alimentar-se vorazmente
+e: Os leões devoraram as carniças.
+fs: 1 4
+hypo: comer
+sa: @en:verb.consumption:raven[1]
+
+w: devorar[2]
+w: tragar
+d: @en_eat hastily without proper chewing
+fs: 8
+hypo: comer[2]
+sa: @en:verb.consumption:bolt
+
+w: devorar[3]
+d: @en_finish eating all the food on one's plate or on the table
+fs: 8
+hyper: devorar[8]
+hypo: comer[2]
+sa: @en:verb.consumption:eat_up
+
+w: devorar[4]
+d: @en_swallow hastily
+fs: 8
+hypo: deglutir
+sa: @en:verb.consumption:bolt[1]
+
+w: devorar[5]
+d: @en_eat hastily
+fs: 8
+hypo: comer[2]
+sa: @en:verb.consumption:wolf
+
+w: devorar[6]
+w: encher_a_cara
+d: comer demais ou comer sem limites
+fs: 22
+hypo: comer[4]
+sa: @en:verb.consumption:binge
+
+w: devorar[7]
+d: @en_eat greedily
+fs: 8
+hypo: comer[2]
+sa: @en:verb.consumption:devour
+
+w: devorar[8]
+d: @en_eat up; usually refers to a considerable quantity of food
+fs: 8
+entail: comer[4]
+hypo: devorar[3]
+sa: @en:verb.consumption:put_away
+
+w: digerir
+d: @en_convert food into absorbable substances
+fs: 2 8
+entail: consumir[1]
+hyper: pré-digerir
+hyper: ter_estômago
+hypo: verb.change:@en_process
+sa: @en:verb.consumption:digest
+vg: verb.change:digerir
+
+w: dispor
+w: poder
+d: ser capaz de ceder ou entregar
+e: Não posso dispor de passar duas horas com essa pessoa
+fs: 8
+hypo: verb.possession:despender
+sa: @en:verb.consumption:afford
+
+w: distrair-se
+w: divertir-se
+d: @en_enjoy oneself greatly
+fs: 2
+hypo: desfrutar
+sa: @en:verb.consumption:have_a_ball
+
+w: divertir-se[1]
+d: @en_enjoy oneself
+fs: 1 22
+hypo: desfrutar
+sa: @en:verb.consumption:live_it_up
+
+w: dopar
+w: drogar_se
+d: tomar drogas para melhorar o seu desempenho atlético
+fs: 2
+hypo: drogar_(se)
+sa: @en:verb.consumption:dope
+
+w: drenar
+d: @en_deplete of resources
+fs: 8 10 11
+hypo: gastar
+sa: @en:verb.consumption:drain
+
+w: drogar_(se)
+d: fazer uso recreativo de drogas
+fs: 9
+cause: @en_get_off
+hyper: @en_base
+hyper: @en_drop
+hyper: @en_take_a_hit
+hyper: dopar
+hyper: injetar
+hypo: consumir[1]
+sa: @en:verb.consumption:do_drugs
+
+w: embriagar
+w: embriagar_se
+w: enebriar_se
+d: Ficar bêbado ou beber excessivamente
+e: GLOSS_: tornar-se embriagado ou beber excessivamente
+fs: 2
+hypo: beber[3]
+sa: @en:verb.consumption:hit_it_up
+
+w: embriagar[1]
+d: @en_make drunk (with alcoholic drinks)
+fs: 10
+hyper: entontecer
+hypo: verb.body:afectar
+sa: @en:verb.consumption:intoxicate
+
+w: empregar[1]
+w: usar[1]
+w: utilizar
+d: fazer funcionar ou empregar para uma finalidade específica ou para a sua finalidade inerente e natural
+e: Como você utiliza essa ferramenta?
+e: Ele não sabe como usar um computador
+e: GLOSS_: colocar em serviço
+e: Não posso usar essa ferramenta
+e: Nós só usamos espanhol em casa
+e: Use a cabeça!
+e: Use os sacos plásticos para armazenar a comida
+fs: 8 9 11 15 21 24
+cause: verb.stative:aplicar
+hyper: verb.communication:dedicar
+hyper: verb.competition:colocar
+hyper: verb.competition:usar
+hyper: @en_cannibalise
+hyper: @en_pull_out_all_the_stops
+hyper: aplicar
+hyper: aproveitar
+hyper: aproveitar[1]
+hyper: colocar
+hyper: desfrutar[1]
+hyper: endereçar
+hyper: exceder
+hyper: explorar[2]
+hyper: extenuar
+hyper: perder
+hyper: reaproveitar
+hyper: tratar_erradamente
+hyper: utilizar[1]
+hyper: verb.motion:@en_take[2]
+hyper: verb.possession:compartilhar
+hyper: verb.social:@en_put_to_work
+hyper: verb.social:implementar[1]
+hyper: verb.social:recorrer
+sa: @en:verb.consumption:apply
+vg: verb.social:aplicar
+
+w: encher
+w: encher_a_cara[1]
+d: comer até ficar saciado
+fs: 9
+hypo: comer[2]
+sa: @en:verb.consumption:fill_up
+
+w: encher[1]
+w: fartar
+w: locupletar
+w: saciar[1]
+w: satisfazer[2]
+d: @en_fill to satisfaction
+fs: 1 9 10
+hyper: @en_cloy
+hypo: consumir[1]
+sa: @en:verb.consumption:fill
+
+w: endereçar
+d: @en_address or apply oneself to something, direct one's efforts towards something, such as a question
+fs: 15 20
+hypo: utilizar
+sa: @en:verb.consumption:address
+
+w: engolir[1]
+d: comer uma grande quantidade de alimento rapidamente
+fs: 8
+hypo: comer[2]
+sa: @en:verb.consumption:bolt_down
+
+w: engolir[2]
+w: entornar
+d: beber avidamente ou como se com grande sede
+e: Os garotos engoliram a vodka barata.
+fs: 8
+hypo: beber
+sa: @en:verb.consumption:guzzle
+
+w: entontecer
+d: tornar estúpido com álcool
+fs: 10
+hypo: embriagar[1]
+sa: @en:verb.consumption:befuddle
+
+w: enxugar[1]
+d: absorver como se com uma esponja
+fs: 8
+hypo: consumir[1]
+sa: @en:verb.consumption:sop_up
+
+w: escavar
+w: explorar[1]
+w: minar
+w: minerar
+d: obter da terra pela escavação
+e: escave minérios e metais
+fs: 8
+entail: verb.contact:cavar[1]
+hyper: minerar[1]
+hypo: explorar[2]
+mt: noun.act:Mineração
+sa: @en:verb.consumption:mine
+
+w: esfomear
+d: @en_deprive of food
+fs: 9
+cause: estar_esfomeado
+hypo: verb.possession:privar
+sa: @en:verb.consumption:famish[3]
+vg: @en_starve
+
+w: esforçar_se_demais
+d: esticar excessivamente
+e: Ele se excedeu quando  aceitou o trabalho adicional.
+fs: 8 11
+hypo: exceder
+sa: @en:verb.consumption:overextend
+
+w: estar_de_dieta
+w: fazer_dieta
+w: fazer_regime
+d: comer com moderação, por motivos de saúde ou para perder peso
+e: Estou de dieta há dois meses e não perdi uma grama.
+fs: 2
+hypo: jejuar[1]
+sa: @en:verb.consumption:diet
+
+w: estar_esfomeado
+w: estar_faminto
+w: morrer_de_fome
+w: passar_fome
+d: @en_be hungry; go without food
+fs: 2 22
+hypo: verb.body:doer[1]
+sa: @en:verb.consumption:famish
+
+w: exagerar
+d: @en_eat a lot and without restraint
+fs: 2
+hypo: comer[2]
+sa: @en:verb.consumption:fress
+
+w: exceder
+w: sobrecarregar
+d: utilizar ao máximo; exercer vigorosamente ou a plena capacidade
+e: Ele realmente se excedeu quando subiu o Kilimanjaro.
+e: Não sobrecarregue sua mente demais.
+fs: 8 11
+hyper: @en_task
+hyper: esforçar_se_demais
+hypo: utilizar
+sa: @en:verb.consumption:extend
+
+w: experimentar
+w: provar
+w: sentir_o_gosto
+d: tirar uma amostra de algo
+e: Experimente estas bolachas nova
+e: Prove os pratos regionais
+fs: 8
+hyper: degustar
+hypo: consumir[1]
+sa: @en:verb.consumption:sample
+
+w: explorar[2]
+d: tirar proveito, fazer bom uso
+e: devemos explorar os recursos que são dados com sabedoria
+fs: 8
+hyper: verb.change:maximizar[1]
+hyper: @en_harness
+hyper: @en_quarry
+hyper: comercializar
+hyper: escavar
+hyper: ordenhar
+hyper: superexplorar
+hypo: utilizar
+sa: @en:verb.consumption:tap
+
+w: extenuar
+d: fazer uso  muito frequentemente ou muito extensivamente
+fs: 8
+hypo: utilizar
+sa: @en:verb.consumption:overdrive
+
+w: fazer_um_piquenique
+d: @en_eat alfresco, in the open air
+fs: 2 22
+hypo: comer[4]
+sa: @en:verb.consumption:picnic
+
+w: fisgar
+w: viciar
+d: causar (a alguém ou a si mesmo) de tornar-se dependente (de algo, especialmente um estupefaciente)
+fs: 20
+entail: usar
+hypo: verb.change:acostumar-se
+sa: @en:verb.consumption:addict
+
+w: fornecer_café_da_manhã
+d: fornecer café da manhã para
+fs: 9
+hypo: alimentar
+sa: @en:verb.consumption:breakfast[1]
+
+w: fornecer_comida
+d: fornecer alimentos prontos para comer, para festas e banquetes
+fs: 8
+hypo: abastecer
+sa: @en:verb.consumption:cater[1]
+
+w: forrar
+d: Fornecer com uma base, suporte, forro, ou backup
+fs: 8
+hypo: abastecer
+sa: @en:verb.consumption:underlay
+
+w: forçar_a_comer
+d: alimentar alguém que não vai ou não pode comer
+fs: 9
+hypo: alimentar
+sa: @en:verb.consumption:force-feed
+
+w: fumar[1]
+d: inalar e exalar fumaça de cigarros, charutos e cachimbos
+e: GLOSS_: inalar e exalar fumaça de cigarros, charutos, cachimbos
+e: Nós nunca fumamos maconha
+e: Você fuma?
+fs: 2 8
+entail: verb.body:axalar
+entail: verb.body:inalar
+hyper: @en_chain-smoke
+hyper: @en_whiff
+hyper: inalar
+hypo: consumir[1]
+sa: @en:verb.consumption:smoke
+
+w: hospedar
+d: @en_lodge and take meals (at)
+fs: 22
+entail: consumir[1]
+hypo: usar
+sa: @en:verb.consumption:board[1]
+vg: @en_board
+
+w: hospedar[1]
+w: receber
+d: ser o anfitrião de algum encontro
+fs: 9
+hyper: @en_banquet
+hyper: @en_wine_and_dine[1]
+hyper: verb.social:@en_compere
+hyper: verb.social:@en_do_the_honors
+hypo: verb.social:divertir[1]
+sa: @en:verb.consumption:host
+
+w: imergir
+w: mergulhar
+d: @en_dip into a liquid while eating
+fs: 21
+hypo: comer[2]
+sa: @en:verb.consumption:dip
+
+w: inalar
+w: tragar[1]
+d: absorver nos pulmões pela respiração
+e: Clinton fumou maconha mas sem nunca ter tragado.
+fs: 2 8
+hypo: fumar[1]
+sa: @en:verb.consumption:inhale
+
+w: indulgir
+d: @en_yield (to); give satisfaction to
+fs: 8 9 10 11
+hyper: verb.communication:@en_humor
+hyper: @en_sow_one's_oats
+hyper: @en_spree
+hypo: abastecer
+sa: @en:verb.consumption:gratify
+
+w: injetar
+d: @en_take by injection
+fs: 8
+hyper: @en_mainline
+hyper: tomar[5]
+hypo: drogar_(se)
+sa: @en:verb.consumption:inject[1]
+
+w: injetar[1]
+d: @en_feed intravenously
+fs: 8 17 20
+hypo: alimentar
+sa: @en:verb.consumption:inject
+
+w: ir
+d: ser usado
+e: todo o meu dinheiro foi-se com comida e aluguel
+fs: 4
+sa: @en:verb.consumption:go[9]
+vg: @en_go
+
+w: jantar
+d: @en_have supper; eat dinner
+fs: 2
+hypo: comer[4]
+sa: @en:verb.consumption:dine[1]
+
+w: jantar[1]
+d: @en_give dinner to; host for dinner
+fs: 9
+hypo: alimentar
+sa: @en:verb.consumption:dine[2]
+
+w: jejuar
+d: abster-se de certos alimentos, como por motivos religiosos ou médicos
+e: Os católicos às vezes jejuam durante a Quaresma.
+fs: 2
+hyper: @en_diet
+hypo: abster
+sa: @en:verb.consumption:fast[1]
+
+w: jejuar[1]
+d: @en_abstain from eating
+fs: 2
+hyper: estar_de_dieta
+hypo: abster
+sa: @en:verb.consumption:fast
+
+w: jogar
+w: manipular
+d: usar em proveito próprio
+e: Ela joga com as emoções de seus clientes.
+fs: 22
+hypo: aproveitar
+sa: @en:verb.consumption:play[13]
+
+w: lamber
+d: @en_take up with the tongue
+fs: 11
+hypo: beber
+sa: @en:verb.consumption:lap
+
+w: long-faced
+d: @en_be able to feed
+fs: 11
+hypo: alimentar[2]
+mt: noun.animal:animais_domésticos
+sa: @en:verb.consumption:carry[1]
+vg: verb.creation:@en_carry[1]
+
+w: mal-alimentar
+w: subnutrir
+d: fornecer qualidade insuficiente ou quantidade insuficiente de alimento
+fs: 9
+hypo: alimentar
+sa: @en:verb.consumption:malnourish
+
+w: malhar
+w: queimar
+d: @en_use up (energy)
+fs: 8 11
+hypo: gastar
+sa: @en:verb.consumption:burn
+
+w: manter
+w: sustentar
+d: abastecer com necessidades e apoio
+e: Ela sozinha sustenta sua família
+e: Há pouco a ganhar e muitos para manter
+e: O dinheiro vai sustentar a nossa boa causa
+fs: 8 9 10 11
+hyper: @en_reseed
+hyper: patrocinar
+hyper: verb.stative:@en_carry[4]
+hypo: verb.possession:ter[1]
+sa: @en:verb.consumption:keep
+
+w: mascar
+d: mastigar ruidosamente
+fs: 2 8
+hypo: mastigar
+sa: @en:verb.consumption:champ
+
+w: mascar[1]
+w: mastigar
+d: mastigar (alimentos); morder e triturar com os dentes
+e: As vacas foram mascar a grama
+e: Ele mascou seu chiclete
+e: mastigue seu alimento e não engula!
+fs: 2 8
+hyper: @en_champ
+hyper: @en_crunch
+hyper: @en_gum
+hyper: mascar
+hyper: mascar[2]
+hyper: verb.contact:roer
+hypo: verb.contact:ranger
+sa: @en:verb.consumption:chew
+
+w: mascar[2]
+d: mastigar sem engolir
+e: Mascar tabaco
+fs: 8
+hypo: mastigar
+sa: @en:verb.consumption:chaw
+
+w: matar
+d: beber por completo
+fs: 8
+hypo: beber
+sa: @en:verb.consumption:belt_down
+
+w: metabolizar
+d: @en_produce by metabolism
+fs: 8
+entail: digerir
+sa: @en:verb.consumption:metabolise
+
+w: minerar[1]
+d: @en_extract (ore) from a strip-mine
+fs: 2 8
+hypo: escavar
+mt: noun.act:Mineração
+sa: @en:verb.consumption:strip_mine
+
+w: mordiscar
+d: comer de forma intermitente; fazer pequenas mordidas em algo
+e: Ela nunca come uma refeição completa, ela só mordisca
+e: Ele mordiscou o sanduíche durante toda a manhã
+fs: 8
+hypo: comer[2]
+sa: @en:verb.consumption:pick
+
+w: morrer_de_fome[1]
+w: passar_fome[1]
+d: @en_die of food deprivation
+fs: 1 2
+hypo: verb.change:bater_as_botas
+sa: @en:verb.consumption:famish[2]
+
+w: necessitar
+w: precisar
+d: ter ou sentir uma necessidade por algo
+e: sempre precisando de amigos e dinheiro
+fs: 8 9
+sa: @en:verb.consumption:need[1]
+
+w: necessitar[1]
+w: precisar[1]
+w: requerer
+d: ter necessidade de alguma coisa
+e: Este piano requer a atenção de um sintonizador competente
+fs: 8 11
+hyper: demandar
+hypo: verb.stative:estar[2]
+sa: @en:verb.consumption:need
+
+w: ordenhar
+d: explorar tanto quanto possível
+fs: 8 9
+hypo: explorar[2]
+sa: @en:verb.consumption:milk
+
+w: patrocinar
+d: apoiar sendo um patrocinador de
+fs: 8 9 10 11
+hypo: manter
+sa: @en:verb.consumption:patronage
+
+w: pré-digerir
+d: @en_digest (food) beforehand
+fs: 8
+hypo: digerir
+mt: noun.animal:ruminante
+sa: @en:verb.consumption:predigest
+
+w: reaproveitar
+w: reciclar
+w: reprocessar
+w: reusar
+w: reutilizar
+d: usar novamente, depois de algum processo
+fs: 8
+hyper: repaginar
+hyper: verb.possession:@en_reclaim
+hypo: utilizar
+sa: @en:verb.consumption:recycle
+
+w: regar
+d: comer comida acompanhada de muitos líquidos; também usado metaforicamente
+fs: 8
+hypo: comer[2]
+sa: @en:verb.consumption:wash_down
+
+w: regar[1]
+d: @en_provide abundantly with
+fs: 22
+hypo: abastecer
+sa: @en:verb.consumption:shower[12]
+
+w: regurgitar
+d: @en_feed through the beak by regurgitating previously swallowed food
+fs: 11
+hypo: alimentar
+sa: @en:verb.consumption:regurgitate
+
+w: repaginar
+w: requentar
+d: apresentar ou usar de novo, sem ou com poucas mudanças
+fs: 8
+hypo: reaproveitar
+sa: @en:verb.consumption:rehash
+
+w: ruminar
+d: @en_chew the cuds
+fs: 2
+hypo: comer[2]
+mt: noun.animal:ruminante
+sa: @en:verb.consumption:ruminate
+
+w: saciar[2]
+d: @en_indulge (one's appetite) to satiety
+fs: 8
+hypo: aproveitar_em_demasia
+sa: @en:verb.consumption:surfeit
+
+w: satifazer
+w: satisfazer[3]
+w: suprir[1]
+d: preencher ou satisfazer um desejo ou necessidade
+e: GLOSS_: preencher ou satisfazer um desejo ou uma necessidade
+fs: 8
+hyper: acalmar
+hyper: alimentar-se
+hyper: aliviar
+hyper: satisfazer[4]
+hypo: abastecer
+sa: @en:verb.consumption:fulfil
+
+w: satisfazer[4]
+d: @en_be satisfactory for; meet the requirements of or serve the purpose of
+fs: 11
+hypo: satifazer
+sa: @en:verb.consumption:answer
+
+w: servir_lavagem
+d: alimentar os porcos
+fs: 8
+hypo: alimentar
+sa: @en:verb.consumption:slop
+
+w: sorver[1]
+d: ingerir alimentos sólidos ou líquidos, um pouco de cada vez na boca, seja bebendo ou comendo com uma colher
+fs: 8
+hypo: consumir[1]
+sa: @en:verb.consumption:sup[2]
+
+w: superexplorar
+d: @en_exploit excessively
+fs: 8
+hypo: explorar[2]
+sa: @en:verb.consumption:overexploit
+
+w: ter_estômago
+d: suportar  comer
+e: Ele não tem estômago para peixe cru.
+fs: 8
+hypo: digerir
+sa: @en:verb.consumption:stomach
+
+w: tocar
+d: @en_consume
+fs: 8
+hyper: comungar
+hypo: consumir[1]
+sa: @en:verb.consumption:touch
+
+w: tomar[5]
+d: tomar medicamentos, especialmente por via oral
+e: O homem acusado de assassinato tomou um valium para acalmar seus nervos.
+fs: 8
+hyper: @en_skin_pop
+hypo: injetar
+sa: @en:verb.consumption:pop
+
+w: tratar_erradamente
+w: usar_erradamente
+w: usar_inapropriadamente
+w: usar_para_propósitos_errados
+d: @en_apply to a wrong thing or person; apply badly or incorrectly
+fs: 8
+hypo: utilizar
+sa: @en:verb.consumption:misapply
+
+w: utilizar[1]
+d: @en_use diligently
+fs: 8
+hypo: utilizar
+sa: @en:verb.consumption:ply[1]
+

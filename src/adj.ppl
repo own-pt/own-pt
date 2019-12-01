@@ -1,0 +1,258 @@
+adj.ppl
+
+w: @en_cantering
+d: @en_riding at a gait between a trot and a gallop
+sa: @en:adj.ppl:cantering
+
+w: @en_penciled
+w: @en_pencilled
+d: @en_drawn or written with a pencil
+sa: @en:adj.ppl:penciled
+
+w: @en_pitched
+d: @en_(of sound) set to a certain pitch or key; usually used as a combining form
+e: agudo
+sa: @en:adj.ppl:pitched
+
+w: @en_plugged
+d: @en_(of a coin) altered by the insertion of a plug of base metal
+sa: @en:adj.ppl:plugged
+
+w: @en_thoriated
+w: @en_tittering
+d: @en_being or sounding of nervous or suppressed laughter
+sa: @en:adj.ppl:thoriated
+
+w: amarrado
+d: que está numa corda
+e: chaves amarradas num cordão vermelho
+sa: @en:adj.ppl:strung
+
+w: amontoado
+d: tendo um monte formado em cima
+sa: @en:adj.ppl:mounded_over
+
+w: anunciado
+w: postado
+d: @en_publicly announced
+sa: @en:adj.ppl:posted
+
+w: batido
+d: @en_formed or made thin by hammering
+sa: @en:adj.ppl:beaten
+
+w: cabido
+d: @en_being the right size and shape to fit as desired
+sa: @en:adj.ppl:fitted
+
+w: calibrado
+d: @en_marked with or divided into degrees
+sa: @en:adj.ppl:calibrated
+
+w: carenado
+d: que possui ou tem a forma de carena
+sa: @en:adj.ppl:carinate
+
+w: colecionado
+w: coletado
+d: @en_brought together in one place
+sa: @en:adj.ppl:collected
+
+w: completo
+w: preenchido
+d: de ordens de compra que foram preenchidas
+sa: @en:adj.ppl:filled
+
+w: contestado
+d: @en_disputed or made the object of contention or competition
+sa: @en:adj.ppl:contested
+
+w: controlado
+w: mantido
+d: @en_occupied or in the control of; often used in combination
+sa: @en:adj.ppl:held
+
+w: empilhado
+d: @en_arranged in a stack
+sa: @en:adj.ppl:stacked
+
+w: encimado
+d: @en_having something on top
+sa: @en:adj.ppl:surmounted
+
+w: enxarcado
+d: exalando um fluido corporal em quantidades profusas
+sa: @en:adj.ppl:streaming
+
+w: esmagado
+d: @en_that has been violently compressed
+sa: @en:adj.ppl:squashed
+
+w: espontâneo
+d: @en_not arranged for pictorial purposes
+sa: @en:adj.ppl:unposed
+
+w: estacionado
+d: @en_that have been left
+sa: @en:adj.ppl:parked
+
+w: forçado
+d: produzido por ou submetido a força
+sa: @en:adj.ppl:forced
+
+w: gritado
+d: @en_uttered in a shrill scream as of pain or terror
+sa: @en:adj.ppl:shrieked
+
+w: higienizado
+d: @en_made sanitary
+sa: @en:adj.ppl:sanitised
+
+w: hipofisectomizado
+d: @en_having the pituitary gland removed by surgery
+sa: @en:adj.ppl:hypophysectomised
+
+w: inconteste ant contestado
+d: @en_not disputed and not made the object of contention or competition
+sa: @en:adj.ppl:uncontested
+
+w: jogado
+d: @en_(of games) engaged in
+mt: noun.act:jogo[1]
+sa: @en:adj.ppl:played
+
+w: legendado
+d: @en_broadcast with captions that are seen only on receivers having special equipment; can be provided for hard-of-hearing viewers
+mt: noun.communication:televisão
+sa: @en:adj.ppl:closed-captioned
+
+w: maltado
+d: @en_of grain that has been converted into malt
+sa: @en:adj.ppl:malted
+
+w: martelado
+d: formar ou trabalhar com um martelo e, muitas vezes mostrando marcas de martelo
+e: uma tijela de bronze martelado
+sa: @en:adj.ppl:hammered
+
+w: mercerizado
+d: @en_of cotton thread that has been treated with sodium hydroxide to shrink it and increase its luster and affinity for dye
+sa: @en:adj.ppl:mercerised
+
+w: misulado
+d: @en_having a corbel
+sa: @en:adj.ppl:corbelled
+
+w: não_coletado
+d: @en_not brought together in one place
+sa: @en:adj.ppl:uncollected
+
+w: não_malteado
+d: de grãos que não tenham sido convertidos em malte
+sa: @en:adj.ppl:unmalted
+
+w: não_pasteurizado
+d: @en_not having undergone pasteurization
+sa: @en:adj.ppl:unpasteurised
+
+w: não_preenchido
+d: @en_of purchase orders that have not been filled
+sa: @en:adj.ppl:unfilled
+
+w: não_saponificado
+d: não convertido em sabão
+sa: @en:adj.ppl:unsaponified
+
+w: não_vingado
+w: sem_vingança
+d: @en_for which vengeance has not been taken
+sa: @en:adj.ppl:unavenged
+
+w: operativo
+d: @en_involved in a kind of operation
+sa: @en:adj.ppl:operating
+
+w: oxidado
+d: combinado com ou que tenha sofrido uma reacção química com o oxigénio
+e: a forma oxidada do iodo
+sa: @en:adj.ppl:oxidised
+
+w: passado
+d: @en_(of time) having passed or slipped by
+sa: @en:adj.ppl:elapsed
+
+w: pasteurizado
+d: @en_having been subjected to pasteurization in order to halt fermentation
+sa: @en:adj.ppl:pasteurised
+
+w: perseguido
+d: @en_followed with enmity as if to harm
+sa: @en:adj.ppl:pursued
+
+w: pisado
+d: @en_being or having been trodden or marched on
+sa: @en:adj.ppl:marched_upon
+
+w: portátil
+d: @en_small and light enough to be operated while you hold it in your hands
+sa: @en:adj.ppl:hand-held
+
+w: posado
+d: @en_arranged for pictorial purposes
+sa: @en:adj.ppl:posed
+
+w: procurado
+d: que é procurado
+e: parentes longamente procurados
+sa: @en:adj.ppl:sought
+
+w: pré-concebido
+d: (De uma idéia ou opinião) formado de antemão; especialmente sem provas ou por preconceito
+e: certas noções preconcebidas
+sa: @en:adj.ppl:preconceived
+
+w: punitivo
+d: @en_resulting in punishment
+sa: @en:adj.ppl:punishing
+
+w: recriado
+d: @en_created anew
+sa: @en:adj.ppl:re-created
+
+w: regenerativo
+d: @en_that are generating anew
+sa: @en:adj.ppl:regenerating
+
+w: saponificado
+d: convertido em sabão
+e: óleos saponificados
+sa: @en:adj.ppl:saponified
+
+w: seco_por_pulverização
+d: @en_dried by bringing a sprayed substance (e.g. milk or soap) into contact with hot air and recovering it in the form of a powder
+sa: @en:adj.ppl:spray-dried
+
+w: sinterizado
+d: @en_formed into a mass by heat and pressure
+sa: @en:adj.ppl:sintered
+
+w: sublimado
+d: @en_passing or having passed from the solid to the gaseous state (or vice versa) without becoming liquid
+sa: @en:adj.ppl:sublimated
+
+w: torrencial
+d: @en_pouring from or as if from a sluice
+sa: @en:adj.ppl:sluicing
+
+w: transpirante
+d: @en_that is passing through
+sa: @en:adj.ppl:transpiring
+
+w: vagante
+d: @en_wandering freely
+sa: @en:adj.ppl:ranging
+
+w: vingado
+d: @en_for which vengeance has been taken
+sa: @en:adj.ppl:avenged
+

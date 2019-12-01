@@ -1,0 +1,8471 @@
+verb.social
+
+w: @en_accredit
+d: @en_provide or send (envoys or embassadors) with official credentials
+fs: 9
+hypo: nomear[2]
+mt: noun.group:@en_Foreign_Service
+sa: @en:verb.social:accredit[1]
+
+w: @en_ace
+w: @en_breeze_through
+w: @en_nail
+w: @en_pass_with_flying_colors
+w: @en_sail_through
+w: @en_sweep_through
+d: ser bem sucedido  facilmente
+fs: 8
+hypo: passar[2]
+sa: @en:verb.social:ace
+
+w: @en_act
+d: @en_be engaged in an activity, often for no particular purpose other than pleasure
+fs: 2
+hyper: @en_drive_around
+hyper: @en_walk_around
+hyper: brincar[1]
+sa: @en:verb.social:act[7]
+
+w: @en_act_on
+w: @en_follow_up_on
+w: @en_pursue
+d: @en_carry further or advance
+fs: 8
+hyper: @en_check_out
+hypo: @en_oppose
+sa: @en:verb.social:act_on
+
+w: @en_act_up
+w: @en_carry_on
+d: @en_misbehave badly; act in a silly or improper way
+fs: 2
+hypo: @en_misbehave
+sa: @en:verb.social:act_up
+
+w: @en_address
+w: @en_call
+d: @en_greet, as with a prescribed form, title, or name
+fs: 14
+hypo: verb.communication:dirigir[1]
+sa: @en:verb.social:address[8]
+vg: verb.communication:denominar
+
+w: @en_administer
+d: @en_direct the taking of
+fs: 8
+hypo: conduzir[3]
+sa: @en:verb.social:administer[1]
+
+w: @en_advantage
+d: @en_give an advantage to
+fs: 9 10 11
+hypo: favorecer
+sa: @en:verb.social:advantage
+
+w: @en_affranchise
+w: @en_enfranchise
+d: @en_grant freedom to; as from slavery or servitude
+fs: 9
+hypo: emancipar[2]
+sa: @en:verb.social:affranchise
+
+w: @en_aggrieve
+d: @en_infringe on the rights of
+fs: 9
+hypo: injustiçar
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.social:aggrieve
+
+w: @en_allow
+w: @en_give_up
+d: @en_allow the other (baseball) team to score
+fs: 8
+sa: @en:verb.social:give_up
+
+w: @en_ally
+d: @en_become an ally or associate, as by a treaty or marriage
+fs: 20
+hyper: @en_misally
+hypo: associar
+sa: @en:verb.social:ally
+
+w: @en_ally_with
+d: @en_unite formally; of interest groups or countries
+fs: 9 11
+hypo: unificar
+sa: @en:verb.social:ally_with
+
+w: @en_alternate
+d: @en_exchange people temporarily to fulfill certain jobs and functions
+fs: 9
+hyper: @en_rotate
+hypo: comutar
+sa: @en:verb.social:alternate
+
+w: @en_amerce
+d: @en_punish with an arbitrary penalty
+fs: 9
+hypo: castigar
+sa: @en:verb.social:amerce
+vg: @en_amerce[1]
+
+w: @en_amerce[1]
+d: @en_punish by a fine imposed arbitrarily by the discretion of the court
+fs: 9
+hypo: multar
+sa: @en:verb.social:amerce[1]
+vg: @en_amerce
+
+w: @en_appear
+d: @en_present oneself formally, as before a (judicial) authority
+fs: 4
+sa: @en:verb.social:appear[3]
+
+w: @en_apply
+d: aplicar-se a
+e: Por favor se dediquem ao seu dever de casa
+fs: 20
+hypo: verb.communication:dedicar
+sa: @en:verb.social:apply[9]
+
+w: @en_arraign
+d: @en_call before a court to answer an indictment
+fs: 9
+entail: verb.communication:incriminar
+entail: @en_indict
+sa: @en:verb.social:arraign
+
+w: @en_ascend
+d: @en_become king or queen
+fs: 22
+hypo: aceder
+sa: @en:verb.social:ascend
+
+w: @en_ask_out
+w: @en_invite_out
+w: @en_take_out
+d: @en_make a date
+fs: 9
+hypo: verb.communication:pedir[6]
+sa: @en:verb.social:ask_out
+
+w: @en_avail
+d: @en_be of use to, be useful to
+fs: 10 11
+hypo: acorrer
+sa: @en:verb.social:avail
+
+w: @en_average
+d: @en_achieve or reach on average
+fs: 8 11
+hypo: chegar_a
+sa: @en:verb.social:average
+
+w: @en_baby-sit
+w: @en_sit
+d: @en_work or act as a baby-sitter
+fs: 2 9
+hypo: custodiar
+sa: @en:verb.social:baby-sit
+
+w: @en_baby-sit[1]
+d: @en_take watchful responsibility for
+fs: 8
+hypo: custodiar
+sa: @en:verb.social:baby-sit[1]
+
+w: @en_back_down
+w: @en_back_off
+w: @en_bow_out
+w: @en_chicken_out
+w: @en_pull_out
+d: @en_remove oneself from an obligation
+fs: 2 22
+hyper: @en_resile
+hypo: verb.emotion:desinteressar
+sa: @en:verb.social:back_down
+vg: verb.motion:@en_get_out
+
+w: @en_backdate
+d: @en_make effective from an earlier date
+fs: 8
+hypo: efectivar
+sa: @en:verb.social:backdate
+
+w: @en_backfire
+w: @en_backlash
+w: @en_recoil
+d: @en_come back to the originator of an action with an undesired effect
+fs: 1
+hypo: verb.change:ocorrer
+sa: @en:verb.social:backfire
+
+w: @en_backslap
+d: @en_display excessive cordiality (towards)
+fs: 2 9
+hypo: verb.body:agir
+sa: @en:verb.social:backslap
+
+w: @en_bail
+d: @en_release after a security has been paid
+fs: 9
+hypo: soltar
+sa: @en:verb.social:bail
+vg: verb.communication:@en_bail
+
+w: @en_bail_out
+d: @en_free on bail
+fs: 9
+hypo: soltar
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.social:bail_out
+
+w: @en_bait
+d: @en_lure, entice, or entrap with bait
+fs: 9
+hypo: verb.communication:engodar
+sa: @en:verb.social:bait
+
+w: @en_band_oneself
+w: @en_league_together
+d: @en_attach oneself to a group
+fs: 2
+hypo: filiar-se
+sa: @en:verb.social:band_oneself
+
+w: @en_band_together
+w: @en_confederate
+d: @en_form a group or unite
+fs: 2
+hypo: unificar
+sa: @en:verb.social:band_together
+
+w: @en_bar_mitzvah
+d: @en_confirm in the bar mitzvah ceremony, of boys in the Jewish faith
+fs: 9
+hypo: @en_covenant
+sa: @en:verb.social:bar_mitzvah
+
+w: @en_baronetise
+w: @en_baronetize
+d: @en_confer baronetcy upon
+fs: 9
+hypo: enobrecer
+sa: @en:verb.social:baronetise
+
+w: @en_bat_mitzvah
+d: @en_confirm in the bat mitzvah ceremony, of girls in the Jewish faith
+fs: 9
+hypo: @en_covenant
+sa: @en:verb.social:bat_mitzvah
+
+w: @en_bate
+d: @en_moderate or restrain; lessen the force of
+fs: 8 11
+hypo: limitar
+sa: @en:verb.social:bate
+
+w: @en_be
+w: @en_follow
+d: @en_work in a specific place, with a specific subject, or in a specific function
+fs: 22
+hyper: @en_cox
+hyper: @en_vet
+sa: @en:verb.social:be
+
+w: @en_beaver
+w: @en_beaver_away
+d: @en_work hard on something
+fs: 2 22
+hypo: trabalhar[3]
+sa: @en:verb.social:beaver
+
+w: @en_befriend
+d: @en_become friends with
+fs: 9
+hyper: @en_chum_up
+hypo: aproximar-se
+sa: @en:verb.social:befriend
+
+w: @en_beguile
+w: @en_hoodwink
+w: @en_juggle
+d: @en_influence by slyness
+fs: 9
+hypo: calotear[1]
+sa: @en:verb.social:beguile
+
+w: @en_belabor
+w: @en_belabour
+d: @en_to work at or to absurd length
+fs: 8
+hypo: trabalhar[1]
+sa: @en:verb.social:belabor
+
+w: @en_bell_the_cat
+d: @en_take a risk; perform a daring act
+fs: 2
+hypo: arriscar[1]
+sa: @en:verb.social:bell_the_cat
+
+w: @en_bench
+d: @en_take out of a game; of players
+fs: 9
+hypo: remover
+sa: @en:verb.social:bench
+
+w: @en_benefact
+d: @en_help as a benefactor
+fs: 8 9
+hypo: acorrer
+sa: @en:verb.social:benefact
+
+w: @en_bind_over
+d: @en_order a defendant to be placed in custody pending the outcome of a proceedings against him or her
+fs: 9
+hypo: confinar
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.social:bind_over
+
+w: @en_blackleg
+w: @en_fink
+w: @en_rat
+w: @en_scab
+d: @en_take the place of work of someone on strike
+fs: 2
+hypo: trabalhar[2]
+sa: @en:verb.social:blackleg
+
+w: @en_blank
+d: @en_keep the opposing (baseball) team from winning
+fs: 9
+hypo: atrapalhar[2]
+sa: @en:verb.social:blank
+
+w: @en_blindside
+d: @en_catch unawares, especially with harmful consequences
+fs: 9 10
+hypo: surpreender
+sa: @en:verb.social:blindside
+
+w: @en_block
+d: @en_run on a block system
+fs: 8
+hypo: operar
+sa: @en:verb.social:block[3]
+
+w: @en_book
+d: @en_record a charge in a police register
+fs: 9 20
+hyper: multar
+hypo: verb.communication:registar
+sa: @en:verb.social:book
+
+w: @en_boondoggle
+d: @en_do useless, wasteful, or trivial work
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:boondoggle
+
+w: @en_bottleneck
+d: @en_slow down or impede by creating an obstruction
+fs: 8 11
+hypo: atrapalhar
+sa: @en:verb.social:bottleneck
+
+w: @en_bow_out[1]
+w: @en_withdraw
+d: @en_retire gracefully
+fs: 2
+hypo: aposentar-se
+sa: @en:verb.social:bow_out
+vg: retirar-se
+
+w: @en_brand
+d: @en_burn with a branding iron to indicate ownership; of animals
+fs: 14
+hypo: verb.change:marcar[1]
+sa: @en:verb.social:brand[1]
+
+w: @en_break
+d: @en_invalidate by judicial action
+fs: 8
+hypo: invalidar
+sa: @en:verb.social:break[10]
+
+w: @en_break[1]
+d: @en_cause the failure or ruin of
+fs: 8 11
+hypo: @en_ruin
+sa: @en:verb.social:break[9]
+
+w: @en_break[2]
+w: @en_break_away
+d: @en_interrupt a continued activity
+fs: 4 22
+hypo: separar-se
+sa: @en:verb.social:break[1]
+
+w: @en_break_with
+d: @en_end a relationship
+fs: 8 9 10 11
+hypo: separar-se
+sa: @en:verb.social:break_with
+
+w: @en_breathalyse
+w: @en_breathalyze
+d: @en_test someone's alcohol level in his blood by means of a breathalyzer
+fs: 9
+hypo: comprovar
+sa: @en:verb.social:breathalyse
+
+w: @en_brevet
+d: @en_promote somebody by brevet, in the military
+fs: 9
+hypo: avançar
+sa: @en:verb.social:brevet
+
+w: @en_bring_oneself
+d: @en_cause to undertake a certain action, usually used in the negative
+fs: 24
+hypo: compelir
+sa: @en:verb.social:bring_oneself
+
+w: @en_bring_through
+w: @en_carry_through
+w: @en_pull_through
+w: @en_save
+d: @en_bring into safety
+fs: 8 9 10
+hyper: resgatar
+sa: @en:verb.social:bring_through
+
+w: @en_bring_to_bear
+d: @en_bring into operation or effect
+fs: 8 11
+hypo: efectivar
+sa: @en:verb.social:bring_to_bear
+
+w: @en_bring_up
+d: @en_promote from a lower position or rank
+fs: 9
+hypo: avançar
+sa: @en:verb.social:bring_up[1]
+
+w: @en_brutalise
+w: @en_brutalize
+d: @en_treat brutally
+fs: 8 9
+hypo: tratar[2]
+sa: @en:verb.social:brutalise
+
+w: @en_build
+d: @en_order, supervise, or finance the construction of
+fs: 8
+hypo: chefiar
+sa: @en:verb.social:build
+
+w: @en_bull
+w: @en_bull_through
+d: @en_push or force
+fs: 2
+hypo: verb.communication:@en_bear_on
+sa: @en:verb.social:bull
+
+w: @en_bullet_vote
+d: @en_vote cumulatively and distribute the votes according to some principle
+fs: 2
+hypo: votar[3]
+sa: @en:verb.social:bullet_vote
+
+w: @en_burke
+d: @en_murder without leaving a trace on the body
+fs: 9
+hypo: assassinar
+sa: @en:verb.social:burke
+
+w: @en_burn
+d: @en_burn at the stake
+fs: 9
+entail: verb.change:arder
+hypo: executar[1]
+sa: @en:verb.social:burn
+
+w: @en_bust
+w: @en_raid
+d: @en_search without warning, make a sudden surprise attack on
+fs: 8 9
+hypo: verb.competition:assaltar[1]
+sa: @en:verb.social:bust
+
+w: @en_buttonhole
+w: @en_lobby
+d: @en_detain in conversation by or as if by holding on to the outer garments of; as for political or economic favors
+fs: 9
+hypo: verb.communication:pedir[5]
+sa: @en:verb.social:buttonhole
+
+w: @en_call[1]
+d: @en_call a meeting; invite or command to meet
+fs: 8
+cause: reunir
+hypo: verb.communication:pedir[6]
+sa: @en:verb.social:call[4]
+vg: verb.communication:chamar
+
+w: @en_call[2]
+w: @en_call_in
+w: @en_visit
+d: @en_pay a brief visit
+fs: 9
+hyper: @en_come_by
+hyper: @en_see
+hyper: consultar
+hypo: encontrar
+sa: @en:verb.social:call
+vg: @en_call[3]
+
+w: @en_call[3]
+d: @en_make a stop in a harbour
+fs: 1 2
+hypo: verb.motion:parar[4]
+sa: @en:verb.social:call[12]
+vg: @en_call_in
+
+w: @en_call_in[1]
+d: @en_take a player out of a game in order to exchange for another player
+fs: 9
+hypo: @en_move_out
+sa: @en:verb.social:call_in[2]
+
+w: @en_call_the_shots
+w: @en_call_the_tune
+w: @en_wear_the_trousers
+d: @en_exercise authority or be in charge
+fs: 2
+hypo: governar[3]
+sa: @en:verb.social:call_the_shots
+
+w: @en_call_to_order
+d: @en_open formally
+fs: 8
+hypo: abrir
+sa: @en:verb.social:call_to_order
+
+w: @en_canton
+d: @en_divide into cantons, of a country
+fs: 8
+hypo: dividir
+sa: @en:verb.social:canton
+
+w: @en_canvas
+w: @en_canvass
+w: @en_poll
+d: @en_get the opinions (of people) by asking specific questions
+fs: 8 9
+hyper: @en_circularise
+hypo: verb.cognition:inspecionar[1]
+sa: @en:verb.social:poll
+
+w: @en_canvas[1]
+w: @en_canvass[1]
+d: @en_solicit votes from potential voters in an electoral campaign
+fs: 8 9
+hyper: @en_circularize[1]
+hypo: verb.communication:pedir[5]
+sa: @en:verb.social:canvas
+
+w: @en_captain
+d: @en_be the captain of a sports team
+fs: 8 9
+hypo: comandar
+sa: @en:verb.social:captain
+
+w: @en_carouse
+w: @en_riot
+w: @en_roister
+d: @en_engage in boisterous, drunken merrymaking
+fs: 2
+hypo: curtir
+sa: @en:verb.social:carouse
+
+w: @en_carpenter
+d: @en_work as a carpenter
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:carpenter
+
+w: @en_carry
+d: @en_compensate for a weaker partner or member by one's own performance
+fs: 9
+hypo: verb.stative:contrabalançar
+sa: @en:verb.social:carry[6]
+vg: verb.contact:@en_carry
+
+w: @en_carry[1]
+d: @en_take further or advance
+fs: 8
+hypo: encorajar
+sa: @en:verb.social:carry[12]
+
+w: @en_carry[2]
+d: @en_extend to a certain degree
+fs: 8
+hypo: efectivar
+sa: @en:verb.social:carry
+
+w: @en_cashier
+d: @en_discard or do away with
+fs: 8
+hypo: suprimir
+sa: @en:verb.social:cashier[1]
+
+w: @en_cashier[1]
+d: @en_discharge with dishonor, as in the army
+fs: 9
+hypo: liberar[2]
+sa: @en:verb.social:cashier
+
+w: @en_cast
+d: @en_assign the roles of (a movie or a play) to actors
+fs: 8
+hypo: delegar
+sa: @en:verb.social:cast[14]
+vg: verb.creation:eleger
+
+w: @en_catch
+d: @en_check oneself during an action
+fs: 9
+hypo: limitar
+sa: @en:verb.social:catch[13]
+
+w: @en_catch_it
+d: @en_receive punishment; be scolded or reprimanded
+fs: 2
+sa: @en:verb.social:catch_it
+
+w: @en_catch_up_with
+w: @en_make_up
+d: @en_make up work that was missed due to absence at a later point
+fs: 8
+hypo: verb.possession:recuperar[1]
+sa: @en:verb.social:catch_up_with
+
+w: @en_caucus
+d: @en_meet to select a candidate or promote a policy
+fs: 2
+hypo: reunir
+sa: @en:verb.social:caucus
+
+w: @en_chair
+w: @en_chairman
+d: @en_act or preside as chair, as of an academic department in a university
+fs: 8
+hypo: comandar
+sa: @en:verb.social:chair
+
+w: @en_chance
+d: @en_be the case by chance
+fs: 1
+hyper: acontecer[1]
+hypo: verb.change:ocorrer
+sa: @en:verb.social:chance[1]
+
+w: @en_charter
+d: @en_grant a charter to
+fs: 9
+hypo: certificar
+sa: @en:verb.social:charter
+
+w: @en_chase
+w: @en_chase_after
+d: @en_pursue someone sexually or romantically
+fs: 9
+hypo: azarar
+sa: @en:verb.social:chase
+
+w: @en_check
+w: @en_condition
+w: @en_discipline
+w: @en_train
+d: @en_develop (children's) behavior by instruction and practice; especially to teach self-control
+fs: 8 9
+hyper: verb.emotion:mortificar[2]
+hypo: verb.change:@en_make_grow
+sa: @en:verb.social:condition
+vg: preparar
+
+w: @en_check[1]
+d: @en_block or impede (a player from the opposing team) in ice hockey
+fs: 9 10
+hypo: atrapalhar
+sa: @en:verb.social:check[14]
+
+w: @en_check_out
+w: @en_run_down
+d: @en_trace
+fs: 8 9
+hypo: @en_act_on
+sa: @en:verb.social:check_out
+
+w: @en_choke
+d: @en_fail to perform adequately due to tension or agitation
+fs: 2
+hypo: falhar
+sa: @en:verb.social:choke[3]
+
+w: @en_choke[1]
+d: @en_check or slow down the action or effect of
+fs: 8
+hypo: inibir
+sa: @en:verb.social:choke
+
+w: @en_chum_up
+w: @en_pal
+w: @en_pal_up
+d: @en_become friends; act friendly towards
+fs: 2 22
+hypo: @en_befriend
+sa: @en:verb.social:chum_up
+
+w: @en_circularise
+w: @en_circularize
+d: @en_canvass by distributing letters
+fs: 9
+hypo: @en_canvas
+sa: @en:verb.social:circularise
+
+w: @en_circularize[1]
+d: @en_canvass by using a questionnaire
+fs: 2
+hypo: @en_canvas[1]
+sa: @en:verb.social:circularize[2]
+
+w: @en_clamor
+d: @en_compel someone to do something by insistent clamoring
+fs: 24
+hypo: constranger
+sa: @en:verb.social:clamor
+
+w: @en_clean_out
+d: @en_force out
+fs: 9 10
+hypo: demitir
+sa: @en:verb.social:clean_out
+
+w: @en_clear
+d: @en_free from payment of customs duties, as of a shipment
+fs: 8
+hypo: liberar[2]
+sa: @en:verb.social:clear
+
+w: @en_clear[1]
+w: @en_pass
+d: @en_go unchallenged; be approved
+fs: 1 2 10 11
+hyper: verb.motion:@en_clear
+hypo: atingir
+sa: @en:verb.social:clear[1]
+
+w: @en_clerk
+d: @en_work as a clerk, as in the legal business
+fs: 2 22
+hypo: trabalhar[3]
+sa: @en:verb.social:clerk
+
+w: @en_close
+d: @en_engage at close quarters
+fs: 22
+hypo: continuar
+sa: @en:verb.social:close[15]
+
+w: @en_co-educate
+w: @en_coeducate
+d: @en_educate persons of both sexes together
+fs: 9
+hypo: ensinar
+sa: @en:verb.social:co-educate
+
+w: @en_co-opt
+d: @en_neutralize or win over through assimilation into an established group
+fs: 9 10
+hypo: @en_neutralize
+sa: @en:verb.social:co-opt[3]
+
+w: @en_co-opt[1]
+d: escolher ou eleger como um colega
+fs: 9
+hypo: eleger
+sa: @en:verb.social:co-opt[2]
+
+w: @en_co-sign
+w: @en_cosign
+d: @en_sign jointly
+fs: 2 8
+hypo: validar
+sa: @en:verb.social:co-sign
+
+w: @en_coact
+d: @en_act together, as of organisms
+fs: 1
+hypo: agir
+sa: @en:verb.social:coact
+
+w: @en_collaborate
+d: @en_cooperate as a traitor
+fs: 2
+hypo: colaborar
+sa: @en:verb.social:collaborate[1]
+vg: colaborar
+
+w: @en_collectivise
+w: @en_collectivize
+d: @en_bring under collective control; of farms and industrial enterprises
+fs: 8
+hypo: organizar[2]
+sa: @en:verb.social:collectivise
+
+w: @en_come_by
+w: @en_drop_by
+w: @en_drop_in
+d: @en_visit informally and spontaneously
+fs: 2 22
+hypo: @en_call_in
+sa: @en:verb.social:come_by
+
+w: @en_come_near
+d: quase fazer ou experimentar algo
+e: Ela chegou perto de gritar de medo
+fs: 28
+sa: @en:verb.social:come_near
+
+w: @en_come_of_age
+d: @en_reach a certain age that marks a transition to maturity
+fs: 2
+hypo: @en_grow_up
+sa: @en:verb.social:come_of_age
+
+w: @en_come_to_grips
+w: @en_get_to_grips
+d: @en_deal with (a problem or a subject)
+fs: 8
+hypo: governar
+sa: @en:verb.social:come_to_grips
+
+w: @en_commission
+d: @en_charge with a task
+fs: 24
+hypo: verb.communication:autorizar
+sa: @en:verb.social:commission
+
+w: @en_compass
+d: @en_bring about; accomplish
+fs: 8 11
+hypo: chegar_a
+mu: noun.communication:@en_archaicism
+sa: @en:verb.social:compass
+
+w: @en_compere
+w: @en_emcee
+d: @en_act as a master of ceremonies
+fs: 2 22
+hypo: verb.consumption:receber
+sa: @en:verb.social:compere
+
+w: @en_condemn
+d: @en_compel or force into a particular state or activity
+fs: 10
+hypo: constranger
+sa: @en:verb.social:condemn
+
+w: @en_condescend
+w: @en_lower_oneself
+w: @en_stoop
+d: @en_debase oneself morally, act in an undignified, unworthy, or dishonorable way
+fs: 22
+hypo: agir
+sa: @en:verb.social:condescend[12]
+
+w: @en_condition[1]
+d: @en_establish a conditioned response
+fs: 8 9 24
+hypo: verb.communication:ensinar
+sa: @en:verb.social:condition[1]
+
+w: @en_conduce
+w: @en_contribute
+w: @en_lead
+d: @en_be conducive to
+fs: 4
+hypo: encorajar
+sa: @en:verb.social:conduce[12]
+
+w: @en_connect
+d: @en_establish a rapport or relationship
+fs: 22
+hypo: relacionar
+sa: @en:verb.social:connect[1]
+vg: @en_get_in_touch
+
+w: @en_connect[1]
+w: @en_get_in_touch
+w: @en_touch_base
+d: @en_establish communication with someone
+fs: 2 22
+hypo: interagir
+sa: @en:verb.social:connect
+vg: @en_connect
+
+w: @en_contract_out
+d: @en_assign a job to someone outside one's own business
+fs: 2 8 21
+hypo: contratar[2]
+sa: @en:verb.social:contract_out
+
+w: @en_coronate
+w: @en_crown
+d: @en_invest with regal power; enthrone
+fs: 9
+hypo: entronar[1]
+sa: @en:verb.social:coronate
+
+w: @en_counteract
+w: @en_countercheck
+d: @en_oppose or check by a counteraction
+fs: 8
+hypo: limitar
+sa: @en:verb.social:counteract[2]
+
+w: @en_countercheck[1]
+d: @en_check a second time
+fs: 8
+hypo: comprovar
+sa: @en:verb.social:countercheck
+
+w: @en_court
+d: @en_engage in social activities leading to marriage
+fs: 2 9
+hypo: agir
+sa: @en:verb.social:court[10]
+
+w: @en_court-martial
+d: @en_subject to trial by court-martial
+fs: 9
+hypo: julgar
+sa: @en:verb.social:court-martial[1]
+
+w: @en_covenant
+d: @en_enter into a covenant
+fs: 2
+hyper: @en_bar_mitzvah
+hyper: @en_bat_mitzvah
+hyper: crismar
+hypo: verb.communication:penhorar
+mt: noun.group:igreja
+sa: @en:verb.social:covenant
+
+w: @en_cover
+d: @en_help out by taking someone's place and temporarily assuming his responsibilities
+fs: 22
+hypo: substituir[2]
+sa: @en:verb.social:cover[10]
+
+w: @en_cover[1]
+d: @en_invest with a large or excessive amount of something
+fs: 20 21
+hypo: dotar
+sa: @en:verb.social:cover[8]
+
+w: @en_cox
+d: @en_act as the coxswain, in a boat race
+fs: 2
+hypo: @en_be
+sa: @en:verb.social:cox
+
+w: @en_cozen
+d: @en_act with artful deceit
+fs: 2
+hypo: tapear[1]
+sa: @en:verb.social:cozen
+
+w: @en_cradle
+d: @en_bring up from infancy
+fs: 9
+hypo: criar[1]
+sa: @en:verb.social:cradle
+
+w: @en_create
+d: @en_invest with a new title, office, or rank
+fs: 8 14
+hypo: nomear[2]
+sa: @en:verb.social:create
+
+w: @en_crib
+d: @en_use a crib, as in an exam
+fs: 2
+hypo: tapear[1]
+sa: @en:verb.social:crib
+
+w: @en_cross-file
+w: @en_register
+d: @en_have one's name listed as a candidate for several parties
+fs: 2
+hyper: @en_slate
+hypo: verb.competition:disputar
+sa: @en:verb.social:cross-file
+
+w: @en_cross-index
+d: @en_make an index that refers from one point to the next
+fs: 8 9
+hypo: indexar
+sa: @en:verb.social:cross-index
+
+w: @en_cut
+d: @en_discharge from a group
+fs: 9
+hypo: liberar[2]
+sa: @en:verb.social:cut[13]
+
+w: @en_dabble
+w: @en_paddle
+w: @en_splash_around
+d: @en_play in or as if in water, as of small children
+fs: 1 2 4 22
+hypo: brincar[1]
+sa: @en:verb.social:dabble
+
+w: @en_dabble[1]
+w: @en_play_around
+w: @en_smatter
+d: @en_work with in an amateurish manner
+fs: 8 33
+hypo: ocupar
+sa: @en:verb.social:smatter
+
+w: @en_dash
+d: @en_destroy or break
+fs: 11
+hypo: contrariar
+sa: @en:verb.social:dash
+
+w: @en_date
+d: @en_go on a date with
+fs: 2
+hyper: @en_double-date
+hypo: verb.motion:partir[7]
+sa: @en:verb.social:date
+vg: sair_com
+
+w: @en_daydream
+w: @en_moon
+d: @en_have dreamlike musings or fantasies while awake
+fs: 2
+hypo: @en_idle
+sa: @en:verb.social:daydream
+
+w: @en_deal
+d: @en_take action with respect to (someone or something)
+fs: 22
+hypo: agir
+sa: @en:verb.social:deal[9]
+
+w: @en_deal[1]
+d: @en_behave in a certain way towards others
+fs: 22
+hypo: conduzir
+sa: @en:verb.social:deal[4]
+
+w: @en_debar
+w: @en_suspend
+d: @en_bar temporarily; from school, office, etc.
+fs: 9 20
+entail: castigar
+hyper: @en_send_down
+hypo: expulsar[5]
+sa: @en:verb.social:suspend
+
+w: @en_dedicate
+d: @en_open to public use, as of a highway, park, or building
+fs: 8
+hypo: inaugurar
+sa: @en:verb.social:dedicate
+
+w: @en_defeat
+w: @en_kill
+w: @en_shoot_down
+w: @en_vote_down
+w: @en_vote_out
+d: @en_thwart the passage of
+fs: 8
+hypo: vetar
+sa: @en:verb.social:defeat
+
+w: @en_defrock
+w: @en_unfrock
+d: @en_divest of the frock; of church officials
+fs: 9
+hypo: @en_disinvest
+sa: @en:verb.social:defrock
+
+w: @en_depose
+w: @en_force_out
+d: @en_force to leave (an office)
+fs: 9
+hyper: derribar
+hypo: enxotar
+sa: @en:verb.social:depose
+
+w: @en_derestrict
+d: @en_make free from restrictions
+fs: 8
+hypo: liberar
+sa: @en:verb.social:derestrict
+
+w: @en_dethrone
+d: @en_remove a monarch from the throne
+fs: 9
+hypo: @en_disinvest
+sa: @en:verb.social:dethrone
+
+w: @en_disbar
+d: @en_remove from the bar; expel from the practice of law by official action
+fs: 9 20
+hypo: verb.communication:desqualificar
+mt: noun.act:advocacia
+sa: @en:verb.social:disbar
+
+w: @en_disenfranchise
+w: @en_disfranchise
+d: @en_deprive of voting rights
+fs: 9
+hypo: verb.possession:privar
+sa: @en:verb.social:disenfranchise
+
+w: @en_disinvest
+w: @en_divest
+d: @en_deprive of status or authority
+fs: 9
+hyper: @en_defrock
+hyper: @en_dethrone
+hypo: liberar[2]
+sa: @en:verb.social:divest
+
+w: @en_dispatch
+d: @en_dispose of rapidly and without delay and efficiently
+fs: 8
+hypo: agir
+sa: @en:verb.social:dispatch[3]
+
+w: @en_display
+d: @en_attract attention by displaying some body part or posing; of animals
+fs: 2
+hypo: azarar
+sa: @en:verb.social:display
+
+w: @en_distress
+w: @en_straiten
+d: @en_bring into difficulties or distress, especially financial hardship
+fs: 10
+hypo: desconfortar
+sa: @en:verb.social:distress
+
+w: @en_distribute
+d: @en_make available
+fs: 8
+hyper: @en_reticulate
+hyper: distribuir
+hypo: verb.possession:transferir[1]
+sa: @en:verb.social:distribute
+
+w: @en_district
+w: @en_zone
+d: @en_regulate housing in; of certain areas of towns
+fs: 8
+hypo: regulamentar
+sa: @en:verb.social:district
+
+w: @en_do
+w: @en_make
+d: @en_engage in
+fs: 8
+hyper: agigantar
+sa: @en:verb.social:make
+vg: verb.creation:executar[4]
+
+w: @en_do_the_honors
+d: @en_act as the host and receive or introduce one's guests
+fs: 2
+hypo: verb.consumption:receber
+sa: @en:verb.social:do_the_honors
+
+w: @en_do_well_by
+d: @en_treat with respect and consideration
+fs: 10
+hypo: tratar[2]
+sa: @en:verb.social:do_well_by
+
+w: @en_double-date
+d: @en_go out on a date with a partner and another couple
+fs: 2
+hypo: @en_date
+sa: @en:verb.social:double-date
+
+w: @en_double_cross
+d: @en_betray by double-dealing
+fs: 9
+hypo: atraiçoar
+sa: @en:verb.social:double_cross
+
+w: @en_downsize
+d: @en_dismiss from work
+fs: 9
+hypo: despedir[2]
+sa: @en:verb.social:downsize
+
+w: @en_dragoon
+w: @en_railroad
+w: @en_sandbag
+d: @en_compel by coercion, threats, or crude means
+fs: 30
+hypo: compelir
+sa: @en:verb.social:dragoon
+
+w: @en_dragoon[1]
+d: @en_subjugate by imposing troops
+fs: 9 11
+hypo: submeter
+sa: @en:verb.social:dragoon[1]
+
+w: @en_draw
+w: @en_draw_and_quarter
+w: @en_quarter
+d: @en_pull (a person) apart with four horses tied to his extremities, so as to execute him
+fs: 9
+hypo: verb.contact:matar[1]
+sa: @en:verb.social:draw_and_quarter
+
+w: @en_draw_up
+d: @en_form or arrange in order or formation, as of a body of soldiers
+fs: 8 9 10 11
+hypo: organizar
+sa: @en:verb.social:draw_up
+
+w: @en_drive
+d: @en_work as a driver
+fs: 2 8
+hypo: trabalhar[2]
+sa: @en:verb.social:drive[13]
+vg: verb.motion:conduzir[6]
+
+w: @en_drive[1]
+d: @en_to compel or force or urge relentlessly or exert coercive pressure on, or motivate strongly
+fs: 9 10
+hypo: compelir
+sa: @en:verb.social:drive[2]
+vg: verb.contact:@en_force
+vg: verb.creation:@en_drive
+
+w: @en_drive_around
+d: @en_drive without any particular aim
+fs: 2
+hypo: @en_act
+sa: @en:verb.social:drive_around
+
+w: @en_drop
+d: @en_terminate an association with
+fs: 9 10
+hypo: remover
+sa: @en:verb.social:drop[1]
+vg: despedir[1]
+
+w: @en_drop_out
+d: @en_withdraw from established society, especially because of disillusion with conventional values
+fs: 2
+hypo: retirar-se
+sa: @en:verb.social:drop_out[1]
+vg: @en_drop_out[1]
+
+w: @en_drop_out[1]
+d: @en_leave school or an educational program prematurely
+fs: 2
+hypo: largar
+sa: @en:verb.social:drop_out
+vg: @en_drop_out
+
+w: @en_dub
+w: @en_knight
+d: @en_raise (someone) to knighthood
+fs: 9
+hypo: enobrecer
+sa: @en:verb.social:dub
+
+w: @en_egotrip
+d: @en_act in a way that attracts attention
+fs: 2
+hypo: agir
+sa: @en:verb.social:egotrip
+
+w: @en_electioneer
+d: @en_work actively for a political candidate or a party
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:electioneer
+
+w: @en_encroach
+w: @en_entrench
+w: @en_impinge
+w: @en_trench
+d: @en_impinge or infringe upon
+fs: 8 11
+hypo: infrinjir
+sa: @en:verb.social:entrench
+
+w: @en_enfranchise[1]
+d: @en_grant voting rights
+fs: 9
+hypo: verb.possession:conceder[5]
+sa: @en:verb.social:enfranchise
+
+w: @en_engage
+d: @en_ask to represent; of legal counsel
+fs: 9
+hypo: assalariar
+sa: @en:verb.social:engage
+
+w: @en_estrange
+d: @en_remove from customary environment or associations
+fs: 9 10
+hypo: @en_move_out
+sa: @en:verb.social:estrange
+
+w: @en_evade
+d: @en_practice evasion
+fs: 2
+hypo: agir
+sa: @en:verb.social:evade
+
+w: @en_execute
+d: @en_carry out the legalities of
+fs: 8
+hyper: @en_give
+hypo: forçar
+sa: @en:verb.social:execute[3]
+
+w: @en_expedite
+d: @en_process fast and efficiently
+fs: 8
+hypo: accionar
+sa: @en:verb.social:expedite[1]
+
+w: @en_exploit
+w: @en_overwork
+d: @en_work excessively hard
+fs: 8 9
+hyper: extenuar
+hypo: @en_put_to_work
+sa: @en:verb.social:exploit
+
+w: @en_fag
+d: @en_act as a servant for older boys, in British public schools
+fs: 2
+hypo: servir
+sa: @en:verb.social:fag[1]
+
+w: @en_fail
+d: @en_fall short in what is expected
+fs: 8 22
+sa: @en:verb.social:fail[12]
+vg: reprovar[1]
+
+w: @en_fail[1]
+d: @en_judge unacceptable
+fs: 9
+hypo: verb.cognition:balizar
+sa: @en:verb.social:fail[7]
+vg: reprovar[1]
+
+w: @en_fall
+d: @en_yield to temptation or sin
+fs: 2
+hypo: cair
+hypo: pecar[1]
+sa: @en:verb.social:fall[1]
+vg: cair
+
+w: @en_fall[1]
+d: @en_lose office or power
+fs: 1 2
+hypo: abandonar
+sa: @en:verb.social:fall
+vg: verb.stative:cair
+
+w: @en_fall_all_over
+d: @en_display excessive love or show excessive gratitude towards
+fs: 9
+hypo: interagir
+sa: @en:verb.social:fall_all_over
+
+w: @en_fall_flat
+w: @en_fall_through
+w: @en_flop
+w: @en_founder
+d: @en_fail utterly; collapse
+fs: 1
+hypo: fracassar
+sa: @en:verb.social:fall_flat
+
+w: @en_fall_for
+d: @en_be deceived, duped, or entrapped by
+fs: 8 9
+hypo: verb.cognition:equivocar
+sa: @en:verb.social:fall_for
+
+w: @en_fall_from_grace
+d: @en_revert back to bad behavior after a period of good behavior
+fs: 2
+hypo: @en_misbehave
+sa: @en:verb.social:fall_from_grace
+
+w: @en_fall_in
+d: @en_to take one's place in a military formation or line
+fs: 2
+sa: @en:verb.social:fall_in[2]
+
+w: @en_farm
+d: @en_be a farmer; work as a farmer
+fs: 2
+hyper: @en_ranch
+hypo: trabalhar[2]
+sa: @en:verb.social:farm
+
+w: @en_favor
+w: @en_favour
+d: @en_treat gently or carefully
+fs: 9 10
+hypo: salvar[2]
+sa: @en:verb.social:favor[1]
+
+w: @en_favor[1]
+w: @en_favour[1]
+w: @en_privilege
+d: @en_bestow a privilege upon
+fs: 9
+hypo: verb.communication:deixar
+sa: @en:verb.social:privilege
+
+w: @en_fend
+d: @en_try to manage without help
+fs: 22
+hypo: aguentar
+sa: @en:verb.social:fend
+
+w: @en_field-test
+d: @en_test something under the conditions under which it will actually be used
+fs: 8
+hypo: ensaiar
+sa: @en:verb.social:field-test
+
+w: @en_filibuster
+d: @en_obstruct deliberately by delaying
+fs: 2
+hypo: atrapalhar
+mt: noun.act:legislação
+sa: @en:verb.social:filibuster
+
+w: @en_fill
+d: @en_appoint someone to (a position or a job)
+fs: 8
+hypo: assalariar
+sa: @en:verb.social:fill[1]
+
+w: @en_fill[1]
+w: @en_occupy
+w: @en_take
+d: @en_assume, as of positions or roles
+fs: 8
+hypo: trabalhar[2]
+sa: @en:verb.social:fill
+vg: verb.motion:bater[8]
+
+w: @en_fix
+d: @en_influence an event or its outcome by illegal means
+fs: 8
+hypo: influenciar
+sa: @en:verb.social:fix[4]
+
+w: @en_fixate
+d: @en_attach (oneself) to a person or thing in a neurotic way
+fs: 22
+hypo: aproximar-se
+sa: @en:verb.social:fixate
+
+w: @en_fledge
+d: @en_feed, care for, and rear young birds for flight
+fs: 11
+hypo: criar[1]
+sa: @en:verb.social:fledge
+
+w: @en_flight
+d: @en_shoot a bird in flight
+fs: 8
+hypo: @en_pip
+sa: @en:verb.social:flight
+
+w: @en_flim-flam
+w: @en_fob
+w: @en_fox
+w: @en_play_a_joke_on
+w: @en_play_a_trick_on
+w: @en_play_tricks
+w: @en_pull_a_fast_one_on
+w: @en_trick
+d: @en_deceive somebody
+fs: 9
+hyper: @en_snooker
+hypo: enganar
+sa: @en:verb.social:flim-flam
+
+w: @en_float
+d: @en_circulate or discuss tentatively; test the waters with
+fs: 8 11
+hypo: ensaiar
+sa: @en:verb.social:float[3]
+
+w: @en_flounder
+d: @en_behave awkwardly; have difficulties
+fs: 2
+hypo: batalhar
+sa: @en:verb.social:flounder
+
+w: @en_follow[1]
+d: @en_adhere to or practice
+fs: 8
+hypo: aplicar
+sa: @en:verb.social:follow[11]
+
+w: @en_fool_around
+w: @en_play_around[1]
+d: @en_commit adultery
+fs: 2
+hypo: tapear
+sa: @en:verb.social:fool_around
+
+w: @en_footle
+d: @en_act foolishly, as by talking nonsense
+fs: 2
+hypo: verb.body:agir
+sa: @en:verb.social:footle
+
+w: @en_form
+w: @en_imprint
+d: @en_establish or impress firmly in the mind
+fs: 19
+hypo: influenciar
+sa: @en:verb.social:imprint
+
+w: @en_fraternise
+w: @en_fraternize
+d: @en_be on friendly terms with someone, as if with a brother, especially with an enemy
+fs: 2 22
+hypo: @en_socialise
+sa: @en:verb.social:fraternise
+
+w: @en_freelance
+d: Trabalhar de forma independente e em contratos temporários em vez de para um empregador a longo prazo
+fs: 2
+hypo: trabalhar[2]
+sa: @en:verb.social:freelance
+
+w: @en_frivol
+w: @en_trifle
+d: @en_act frivolously
+fs: 2
+hypo: verb.body:agir
+sa: @en:verb.social:frivol
+
+w: @en_gang-rape
+d: @en_rape (someone) successively with several attackers
+fs: 9
+hypo: atacar
+sa: @en:verb.social:gang-rape
+
+w: @en_gerrymander
+d: @en_divide unfairly and to one's advantage; of voting districts
+fs: 8
+hypo: verb.contact:dividir[11]
+sa: @en:verb.social:gerrymander
+
+w: @en_get_along
+w: @en_get_along_with
+w: @en_get_on
+w: @en_get_on_with
+d: @en_have smooth relations
+fs: 9
+hypo: relacionar
+sa: @en:verb.social:get_along
+
+w: @en_get_around
+w: @en_swing
+d: @en_be a social swinger; socialize a lot
+fs: 2
+hypo: @en_socialise
+sa: @en:verb.social:get_around
+
+w: @en_get_around_to
+d: @en_do something despite obstacles such as lack of time
+fs: 33
+hypo: agir
+sa: @en:verb.social:get_around_to
+
+w: @en_get_at
+d: @en_influence by corruption
+fs: 9
+hypo: influenciar
+sa: @en:verb.social:get_at
+
+w: @en_get_it
+d: @en_receive punishment
+fs: 2
+sa: @en:verb.social:get_it
+
+w: @en_get_off
+d: @en_be relieved of one's duties temporarily
+fs: 2
+sa: @en:verb.social:get_off
+
+w: @en_gibbet
+d: @en_hang on an execution instrument
+fs: 9
+hypo: @en_hang
+sa: @en:verb.social:gibbet
+
+w: @en_gibbet[1]
+w: @en_pillory
+d: @en_expose to ridicule or public scorn
+fs: 9
+hypo: verb.perception:exibir
+sa: @en:verb.social:gibbet[1]
+
+w: @en_give
+d: @en_execute and deliver
+fs: 8
+hypo: @en_execute
+sa: @en:verb.social:give[10]
+
+w: @en_give[1]
+d: @en_emit or utter
+fs: 8 11
+hypo: verb.communication:emitir
+sa: @en:verb.social:give
+
+w: @en_give_it_a_try
+w: @en_give_it_a_whirl
+d: @en_try
+fs: 2
+hypo: procurar
+mu: noun.communication:@en_colloquialism
+sa: @en:verb.social:give_it_a_try
+
+w: @en_give_it_a_try[1]
+w: @en_have_a_go
+d: @en_make an attempt at something
+fs: 2
+hypo: procurar
+sa: @en:verb.social:have_a_go
+
+w: @en_gloss_over
+w: @en_skate_over
+w: @en_skimp_over
+w: @en_slur_over
+w: @en_smooth_over
+d: @en_treat hurriedly or avoid dealing with properly
+fs: 5 8 9
+hypo: tratar[2]
+sa: @en:verb.social:gloss_over
+
+w: @en_go_along
+w: @en_play_along
+d: @en_cooperate or pretend to cooperate
+fs: 2 22
+hypo: colaborar
+sa: @en:verb.social:go_along
+
+w: @en_go_for_broke
+d: @en_risk everything in one big effort
+fs: 2
+hypo: arriscar[2]
+sa: @en:verb.social:go_for_broke
+
+w: @en_go_off_at_half-cock
+w: @en_go_off_half-cocked
+d: @en_act prematurely or without reflection or too soon
+fs: 2
+hypo: agir
+sa: @en:verb.social:go_off_at_half-cock
+
+w: @en_grow_up
+d: @en_become an adult
+fs: 2
+hyper: @en_come_of_age
+hypo: verb.change:amadurecer
+sa: @en:verb.social:grow_up
+
+w: @en_guard
+d: @en_take precautions in order to avoid some unwanted consequence
+fs: 22
+hypo: agir
+sa: @en:verb.social:guard[1]
+
+w: @en_halter
+d: @en_hang with a halter
+fs: 9
+hypo: @en_hang
+sa: @en:verb.social:halter
+
+w: @en_handle_with_kid_gloves
+d: @en_handle with great care and sensitivity
+fs: 8 9
+hypo: tratar[2]
+sa: @en:verb.social:handle_with_kid_gloves
+
+w: @en_hang
+w: @en_string_up
+d: @en_kill by hanging
+fs: 9
+hyper: @en_gibbet
+hyper: @en_halter
+hypo: executar[1]
+sa: @en:verb.social:hang
+
+w: @en_hang[1]
+d: @en_prevent from reaching a verdict, of a jury
+fs: 8 9
+hypo: atrapalhar
+sa: @en:verb.social:hang[3]
+
+w: @en_hang_out
+d: @en_spend time in a certain location or with certain people
+fs: 2 22
+hypo: verb.motion:frequentar
+sa: @en:verb.social:hang_out
+
+w: @en_have
+d: @en_have a personal or business relationship with someone
+fs: 9
+hypo: interagir
+sa: @en:verb.social:have
+
+w: @en_haze
+d: @en_harass by imposing humiliating or painful tasks, as in military institutions
+fs: 9
+hypo: verb.emotion:aborrecer
+sa: @en:verb.social:haze
+
+w: @en_hear
+w: @en_try
+d: @en_examine or hear (evidence or a case) by judicial process
+fs: 8
+hyper: rejulgar
+hypo: verb.communication:examinar
+sa: @en:verb.social:hear
+
+w: @en_help
+d: @en_contribute to the furtherance of
+fs: 8 11
+hypo: encorajar
+sa: @en:verb.social:help[12]
+
+w: @en_help_out
+d: @en_be of help, as in a particular situation of need
+fs: 2
+hypo: acorrer
+sa: @en:verb.social:help_out[2]
+
+w: @en_hive_off
+d: @en_remove from a group and make separate
+fs: 8
+hypo: discriminar
+sa: @en:verb.social:hive_off
+
+w: @en_hobble
+d: @en_hamper the action or progress of
+fs: 8 9 10 11
+hypo: entravar
+sa: @en:verb.social:hobble
+
+w: @en_hobnob
+d: @en_rub elbows with
+fs: 22
+hypo: @en_socialise
+sa: @en:verb.social:hobnob
+
+w: @en_hold
+d: @en_keep from departing
+fs: 8 9
+hypo: atrapalhar[2]
+sa: @en:verb.social:hold[13]
+
+w: @en_hold[1]
+d: @en_take and maintain control over, often by violent means
+fs: 9
+hypo: governar[3]
+sa: @en:verb.social:hold[14]
+vg: verb.competition:defender[1]
+
+w: @en_hold_one's_own
+d: @en_maintain one's position and be in control of a situation
+fs: 2
+hypo: governar[3]
+sa: @en:verb.social:hold_one's_own
+
+w: @en_hold_sway
+d: @en_be master; reign or rule
+fs: 1 2
+hypo: governar[3]
+sa: @en:verb.social:hold_sway
+
+w: @en_home
+d: @en_provide with, or send to, a home
+fs: 9
+hypo: acolher
+sa: @en:verb.social:home
+
+w: @en_home-school
+d: @en_educate (one's children) at home instead of sending (them) to a school
+fs: 9
+hypo: educar[2]
+sa: @en:verb.social:home-school
+
+w: @en_hugger_mugger
+d: @en_act stealthily or secretively
+fs: 2
+hypo: verb.body:agir
+sa: @en:verb.social:hugger_mugger
+
+w: @en_humbug
+d: @en_trick or deceive
+fs: 2 9
+hypo: enganar
+sa: @en:verb.social:humbug
+
+w: @en_idle
+w: @en_laze
+w: @en_slug
+w: @en_stagnate
+d: @en_be idle; exist in a changeless situation
+fs: 2
+hyper: @en_daydream
+hyper: @en_moon_around
+hyper: @en_ride_the_bench
+hyper: verb.stative:@en_arse_about
+hyper: verb.stative:@en_lie_about
+sa: @en:verb.social:idle
+
+w: @en_incorporate
+d: @en_form a corporation
+fs: 2
+hypo: verb.creation:construir
+mt: noun.group:@en_business
+sa: @en:verb.social:incorporate
+
+w: @en_indict
+d: @en_accuse formally of a crime
+fs: 9
+hypo: verb.communication:incriminar
+sa: @en:verb.social:indict
+
+w: @en_induct
+w: @en_initiate
+d: @en_accept people into an exclusive society or group, usually with some rite
+fs: 9 20
+hypo: admitir
+sa: @en:verb.social:induct[1]
+
+w: @en_indulge
+d: @en_give free rein to
+fs: 22
+hyper: verb.consumption:@en_wallow
+sa: @en:verb.social:indulge[1]
+
+w: @en_infect
+d: @en_corrupt with ideas or an ideology
+fs: 8 9 10 11
+hypo: aviltar
+sa: @en:verb.social:infect[2]
+
+w: @en_inmarry
+d: @en_marry within one's own tribe or group
+fs: 2
+hypo: casar
+sa: @en:verb.social:inmarry
+
+w: @en_interlope
+d: @en_encroach on the rights of others, as in trading without a proper license
+fs: 2
+hypo: intervir
+sa: @en:verb.social:interlope
+
+w: @en_intermarry
+d: @en_marry within the same ethnic, social, or family group
+fs: 2
+hypo: casar
+sa: @en:verb.social:intermarry
+
+w: @en_internationalise
+w: @en_internationalize
+d: @en_put under international control
+fs: 8 11
+hypo: governar[3]
+sa: @en:verb.social:internationalise
+
+w: @en_intrude
+w: @en_trespass
+d: @en_enter unlawfully on someone's property
+fs: 2 22
+hyper: invadir
+hypo: infringir
+sa: @en:verb.social:intrude
+
+w: @en_invalid
+d: @en_force to retire, remove from active duty, as of firemen
+fs: 9
+hypo: remover
+sa: @en:verb.social:invalid
+
+w: @en_inventory
+w: @en_stock-take
+w: @en_take_stock
+d: @en_make or include in an itemized record or report
+fs: 8
+hypo: incluir_numa_lista
+sa: @en:verb.social:inventory
+
+w: @en_invigilate
+w: @en_proctor
+d: @en_watch over (students taking an exam, to prevent cheating)
+fs: 8 9
+hypo: espionar
+sa: @en:verb.social:invigilate
+
+w: @en_invite
+w: @en_pay_for
+d: @en_have as a guest
+fs: 9
+hypo: interagir
+sa: @en:verb.social:pay_for
+
+w: @en_job
+d: @en_profit privately from public office and official business
+fs: 2
+hypo: tapear[1]
+sa: @en:verb.social:job[2]
+
+w: @en_job[1]
+d: @en_work occasionally
+fs: 22
+hypo: trabalhar[2]
+sa: @en:verb.social:job
+
+w: @en_jubilate
+d: @en_celebrate a jubilee
+fs: 8
+hypo: celebrar[3]
+sa: @en:verb.social:jubilate
+
+w: @en_juggle[1]
+d: @en_deal with simultaneously
+fs: 8
+hypo: governar
+sa: @en:verb.social:juggle
+
+w: @en_juggle[2]
+d: @en_manipulate by or as if by moving around components
+fs: 8
+hypo: deturpar
+sa: @en:verb.social:juggle[1]
+
+w: @en_keep_away
+d: @en_prevent from coming close
+fs: 16 20
+hypo: atrapalhar[2]
+sa: @en:verb.social:keep_away
+
+w: @en_keep_in
+d: @en_cause to stay indoors
+fs: 8 9 10 11
+hypo: confinar
+sa: @en:verb.social:keep_in
+
+w: @en_keep_one's_nose_to_the_grindstone
+w: @en_keep_one's_shoulder_to_the_wheel
+w: @en_peg_away
+w: @en_plug_away
+w: @en_slog
+d: @en_work doggedly or persistently
+fs: 2 22
+hypo: trabalhar[3]
+sa: @en:verb.social:keep_one's_nose_to_the_grindstone
+
+w: @en_keep_tabs_on
+d: @en_keep a record on or watch attentively
+fs: 8 9 10
+hypo: espionar
+sa: @en:verb.social:keep_tabs_on
+
+w: @en_keep_to_oneself
+d: @en_shun the company of others
+fs: 2
+sa: @en:verb.social:keep_to_oneself
+
+w: @en_kennel
+d: @en_put up in a kennel
+fs: 8
+hypo: verb.stative:abrigar
+sa: @en:verb.social:kennel
+
+w: @en_kick_around
+d: @en_treat badly; abuse
+fs: 9
+hypo: abusar
+sa: @en:verb.social:kick_around
+
+w: @en_lead_astray
+w: @en_lead_off
+d: @en_teach immoral behavior to
+fs: 9
+hypo: aviltar
+sa: @en:verb.social:lead_astray
+
+w: @en_let_it_go
+d: @en_not act
+fs: 2
+hypo: verb.stative:resistir[4]
+sa: @en:verb.social:let_it_go
+
+w: @en_liberalise
+w: @en_liberalize
+d: @en_make liberal or more liberal, of laws and rules
+fs: 8
+hyper: liberar[4]
+hypo: verb.change:alterar[2]
+sa: @en:verb.social:liberalise
+vg: liberalizar
+
+w: @en_lie_dormant
+d: @en_be inactive, as if asleep
+fs: 1 2
+sa: @en:verb.social:lie_dormant
+
+w: @en_litigate
+d: @en_engage in legal proceedings
+fs: 2
+hypo: verb.communication:desafiar[1]
+sa: @en:verb.social:litigate[1]
+vg: accionar
+
+w: @en_localise
+w: @en_localize
+d: @en_restrict something to a particular area
+fs: 8
+hyper: verb.body:@en_draw
+hypo: restringir
+sa: @en:verb.social:localise
+
+w: @en_lock_out
+d: @en_prevent employees from working during a strike
+fs: 9
+hypo: excluir
+sa: @en:verb.social:lock_out
+
+w: @en_logroll
+d: @en_work toward the passage of some legislation by exchanging political favors such as trading votes
+fs: 2 8
+hypo: @en_politick
+sa: @en:verb.social:logroll
+
+w: @en_loosen
+w: @en_relax
+d: @en_become less severe or strict
+fs: 1
+hypo: verb.change:alterar[3]
+sa: @en:verb.social:loosen
+vg: @en_loosen[1]
+
+w: @en_loosen[1]
+w: @en_relax[1]
+d: @en_make less severe or strict
+fs: 8 11
+hypo: verb.change:alterar[2]
+sa: @en:verb.social:loosen[1]
+vg: @en_loosen
+
+w: @en_loosen_up
+w: @en_relax[2]
+d: @en_become less tense, less formal, or less restrained, and assume a friendlier manner
+fs: 2
+hypo: verb.body:agir
+sa: @en:verb.social:loosen_up[2]
+
+w: @en_lord
+d: @en_make a lord of someone
+fs: 9
+hypo: enobrecer
+sa: @en:verb.social:lord
+
+w: @en_luck_it
+w: @en_luck_through
+d: @en_act by relying on one's luck
+fs: 2
+hypo: arriscar[2]
+sa: @en:verb.social:luck_it
+
+w: @en_make[1]
+d: @en_form by assembling individuals or constituents
+fs: 8 9 11
+hypo: reunir[2]
+sa: @en:verb.social:make[1]
+vg: verb.stative:fazer
+
+w: @en_make_good
+d: @en_act as promised
+fs: 8
+hypo: acompanhar
+sa: @en:verb.social:make_good
+
+w: @en_malinger
+w: @en_skulk
+d: @en_avoid responsibilities and duties, e.g., by pretending to be ill
+fs: 2
+hypo: esquivar
+sa: @en:verb.social:malinger
+
+w: @en_man
+d: @en_take charge of a certain job; occupy a certain work place
+fs: 8
+hypo: trabalhar[2]
+sa: @en:verb.social:man
+vg: verb.competition:@en_man
+
+w: @en_mandate
+d: @en_assign under a mandate
+fs: 15
+hypo: delegar
+sa: @en:verb.social:mandate
+
+w: @en_manipulate
+w: @en_pull_strings
+w: @en_pull_wires
+d: @en_influence or control shrewdly or deviously
+fs: 8 9
+hypo: influenciar
+sa: @en:verb.social:manipulate
+
+w: @en_meddle
+w: @en_tamper
+d: @en_intrude in other people's affairs or business; interfere unwantedly
+fs: 2 22
+hypo: intervir
+sa: @en:verb.social:meddle
+
+w: @en_mesh
+d: @en_work together in harmony
+fs: 2
+hypo: relacionar
+sa: @en:verb.social:mesh
+
+w: @en_mingle
+d: @en_get involved or mixed-up with
+fs: 4 22
+sa: @en:verb.social:mingle
+
+w: @en_misally
+d: @en_make a bad alliance; ally inappropriately
+fs: 20
+hypo: @en_ally
+sa: @en:verb.social:misally
+
+w: @en_misbehave
+w: @en_misconduct
+w: @en_misdemean
+d: @en_behave badly
+fs: 2 9
+hyper: @en_act_up
+hyper: @en_fall_from_grace
+hypo: agir
+sa: @en:verb.social:misbehave
+
+w: @en_misdo
+d: @en_do wrongly or improperly
+fs: 8
+hypo: cumprir
+sa: @en:verb.social:misdo
+
+w: @en_misgovern
+d: @en_govern badly
+fs: 2 8
+hypo: reinar
+sa: @en:verb.social:misgovern
+
+w: @en_mismarry
+d: @en_marry an unsuitable partner
+fs: 2
+hypo: casar
+sa: @en:verb.social:mismarry
+
+w: @en_monetise
+w: @en_monetize
+d: @en_give legal value to or establish as the legal tender of a country
+fs: 8
+hypo: legalizar
+sa: @en:verb.social:monetise
+
+w: @en_moon[1]
+w: @en_moon_around
+w: @en_moon_on
+d: @en_be idle in a listless or dreamy way
+fs: 2
+hypo: @en_idle
+sa: @en:verb.social:moon
+
+w: @en_move_out
+w: @en_remove
+w: @en_take_out[1]
+d: @en_cause to leave
+fs: 8 9
+cause: verb.motion:deslocar[1]
+hyper: verb.change:remover[4]
+hyper: @en_call_in[1]
+hyper: @en_estrange
+sa: @en:verb.social:move_out
+
+w: @en_neutralize
+d: @en_make politically neutral and thus inoffensive
+fs: 8 11
+hyper: @en_co-opt
+hypo: verb.change:alterar[2]
+sa: @en:verb.social:neutralize
+
+w: @en_nurse
+d: @en_treat carefully
+fs: 8 9
+hypo: tratar[2]
+sa: @en:verb.social:nurse[3]
+
+w: @en_oppose
+w: @en_react
+d: @en_act against or in opposition to
+fs: 2 22
+hyper: @en_act_on
+hyper: resistir[2]
+hypo: agir
+sa: @en:verb.social:oppose
+
+w: @en_ordain
+d: @en_invest with ministerial or priestly authority
+fs: 9
+hypo: entronar[1]
+sa: @en:verb.social:ordain[2]
+
+w: @en_outvote
+d: @en_defeat by a majority of votes
+fs: 9 11
+hypo: votar[2]
+sa: @en:verb.social:outvote
+
+w: @en_over-correct
+w: @en_overcompensate
+d: @en_make excessive corrections for fear of making an error
+fs: 2 8
+hypo: compensar
+sa: @en:verb.social:over-correct
+
+w: @en_overachieve
+d: @en_perform better or achieve a greater degree of success than expected
+fs: 2
+hypo: cumprir
+sa: @en:verb.social:overachieve
+
+w: @en_overexert
+d: @en_exert (oneself) excessively and go beyond one's strength
+fs: 9
+hypo: lutar[1]
+sa: @en:verb.social:overexert
+
+w: @en_overleap
+d: @en_defeat (oneself) by going too far
+fs: 9
+hypo: agigantar
+sa: @en:verb.social:overleap
+
+w: @en_overreach
+d: @en_fail by aiming too high or trying too hard
+fs: 2 9
+hypo: fracassar
+sa: @en:verb.social:overreach
+
+w: @en_override
+d: @en_counteract the normal operation of (an automatic gear shift in a vehicle)
+fs: 8
+hypo: contrabalancear
+sa: @en:verb.social:override
+
+w: @en_oversimplify
+d: @en_simplify to an excessive degree
+e: Não simplifique demais o problema.
+fs: 2 8
+hypo: agigantar
+sa: @en:verb.social:oversimplify
+
+w: @en_pack
+d: @en_set up a committee or legislative body with one's own supporters so as to influence the outcome
+fs: 8 9
+hypo: nomear[3]
+sa: @en:verb.social:pack
+
+w: @en_page
+d: @en_work as a page
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:page
+
+w: @en_pan_out
+d: @en_be a success
+fs: 1
+hypo: atingir
+sa: @en:verb.social:pan_out
+
+w: @en_paragraph
+d: @en_divide into paragraphs, as of text
+fs: 8
+hypo: dividir
+sa: @en:verb.social:paragraph
+
+w: @en_parole
+d: @en_release a criminal from detention and place him on parole
+fs: 9
+hypo: soltar
+sa: @en:verb.social:parole
+
+w: @en_partake_in
+d: @en_be active in
+fs: 8 33
+hypo: comparticipar
+sa: @en:verb.social:partake_in
+
+w: @en_partner
+d: @en_act as a partner
+fs: 9
+hypo: agir
+sa: @en:verb.social:partner
+
+w: @en_pass[1]
+d: @en_allow to go without comment or censure
+fs: 8
+hypo: deixar
+sa: @en:verb.social:pass[11]
+
+w: @en_pass_on
+w: @en_relegate
+w: @en_submit
+d: @en_refer to another person for decision or judgment
+fs: 15
+hypo: verb.communication:@en_subject
+sa: @en:verb.social:pass_on
+
+w: @en_pay
+d: @en_render
+fs: 8 13 14
+hypo: verb.creation:executar[4]
+sa: @en:verb.social:pay
+
+w: @en_pension_off
+d: @en_let go from employment with an attractive pension
+fs: 9
+cause: aposentar-se
+hypo: demitir
+sa: @en:verb.social:pension_off
+
+w: @en_pick_off
+d: @en_shoot one by one
+fs: 9
+hypo: @en_pip
+sa: @en:verb.social:pick_off
+
+w: @en_pillory[1]
+d: @en_punish by putting in a pillory
+fs: 9
+hypo: castigar
+sa: @en:verb.social:pillory
+
+w: @en_pip
+w: @en_shoot
+d: @en_kill by firing a missile
+fs: 9
+hyper: @en_flight
+hyper: @en_pick_off
+hypo: verb.contact:matar[1]
+sa: @en:verb.social:pip
+vg: verb.competition:atirar[1]
+
+w: @en_place
+d: @en_place somebody in a particular situation or location
+fs: 20
+hypo: delegar
+sa: @en:verb.social:place[1]
+
+w: @en_play
+w: @en_recreate
+d: @en_engage in recreational activities rather than work; occupy oneself in a diversion
+fs: 2
+sa: @en:verb.social:play
+vg: brincar[1]
+
+w: @en_ply
+d: @en_apply oneself diligently
+fs: 8
+hypo: cumprir
+sa: @en:verb.social:ply
+
+w: @en_politick
+d: @en_engage in political activities
+fs: 2
+hyper: @en_logroll
+hypo: continuar
+sa: @en:verb.social:politick
+
+w: @en_poll[1]
+d: @en_vote in an election at a polling station
+fs: 2 22
+hypo: votar[2]
+sa: @en:verb.social:poll[1]
+
+w: @en_pontificate
+d: @en_administer a pontifical office
+fs: 2
+hypo: administrar
+sa: @en:verb.social:pontificate[1]
+
+w: @en_pose
+w: @en_posture
+d: @en_behave affectedly or unnaturally in order to impress others
+fs: 2
+hyper: fingir
+hypo: conduzir
+sa: @en:verb.social:pose
+
+w: @en_post
+d: @en_enter on a public list
+fs: 8 9 11
+hypo: incluir_numa_lista
+sa: @en:verb.social:post
+
+w: @en_post[1]
+d: @en_assign to a post; put into a post
+fs: 9
+hypo: delegar
+sa: @en:verb.social:post[1]
+
+w: @en_potter
+w: @en_putter
+d: @en_work lightly
+fs: 2 22
+hypo: ocupar
+sa: @en:verb.social:potter
+
+w: @en_probate
+d: @en_establish the legal validity of (wills and other documents)
+fs: 8
+hypo: validar
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.social:probate
+
+w: @en_prorogue
+d: @en_adjourn by royal prerogative; without dissolving the legislative body
+fs: 2
+hypo: adiar
+sa: @en:verb.social:prorogue
+
+w: @en_pull_off
+d: @en_cause to withdraw
+fs: 8 9
+hypo: remover
+sa: @en:verb.social:pull_off[1]
+
+w: @en_pull_one's_weight
+d: @en_do one's share in a common task
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:pull_one's_weight
+
+w: @en_pull_the_plug
+d: @en_prevent from happening or continuing
+fs: 22
+hypo: verb.stative:deixar
+sa: @en:verb.social:pull_the_plug
+
+w: @en_purge
+d: @en_oust politically
+fs: 9
+hypo: acossar
+sa: @en:verb.social:purge
+
+w: @en_put_to_work
+w: @en_work
+d: @en_cause to work
+fs: 8 9
+cause: trabalhar[2]
+hyper: verb.body:@en_warm_up[1]
+hyper: verb.body:exercitar-se
+hyper: verb.creation:computadorizar
+hyper: @en_exploit
+hyper: @en_rack
+hypo: verb.consumption:utilizar
+sa: @en:verb.social:put_to_work
+vg: trabalhar[2]
+
+w: @en_queen
+d: @en_promote to a queen, as of a pawn in chess
+fs: 8
+hypo: verb.competition:@en_promote
+sa: @en:verb.social:queen
+
+w: @en_quench
+d: @en_electronics: suppress (sparking) when the current is cut off in an inductive circuit, or suppress (an oscillation or discharge) in a component or device
+fs: 8
+hypo: inibir
+sa: @en:verb.social:quench[2]
+
+w: @en_rack
+d: @en_put on a rack and pinion
+fs: 8
+hypo: @en_put_to_work
+sa: @en:verb.social:rack[1]
+
+w: @en_racketeer
+d: @en_carry on illegal business activities involving crime
+fs: 2
+hypo: conduzir[2]
+sa: @en:verb.social:racketeer
+
+w: @en_rain_out
+w: @en_wash_out
+d: @en_prevent or interrupt due to rain
+fs: 11
+hypo: atrapalhar[2]
+sa: @en:verb.social:rain_out
+
+w: @en_rampage
+d: @en_act violently, recklessly, or destructively
+fs: 2
+hyper: @en_riot[1]
+hypo: agir
+sa: @en:verb.social:rampage
+
+w: @en_ranch
+d: @en_manage or run a ranch
+fs: 2
+hypo: @en_farm
+sa: @en:verb.social:ranch
+
+w: @en_rat[1]
+d: @en_employ scabs or strike breakers in
+fs: 8
+hypo: assalariar
+mt: noun.act:indústria
+sa: @en:verb.social:rat[2]
+
+w: @en_rat[2]
+d: @en_desert one's party or group of friends, for example, for one's personal advantage
+fs: 8 9
+hypo: abandonar[2]
+sa: @en:verb.social:rat
+
+w: @en_rave
+d: @en_participate in an all-night techno dance party
+fs: 2
+hypo: festar
+sa: @en:verb.social:rave
+
+w: @en_rebel
+w: @en_renegade
+d: @en_break with established customs
+fs: 2 22
+hypo: protestar
+sa: @en:verb.social:renegade
+
+w: @en_rebury
+d: @en_bury again
+fs: 8 9
+hypo: verb.contact:deitar
+sa: @en:verb.social:rebury
+
+w: @en_recall
+d: @en_make unavailable; bar from sale or distribution
+fs: 8
+hyper: retirar
+hypo: cancelar
+sa: @en:verb.social:recall
+
+w: @en_receive
+d: @en_have or give a reception
+fs: 2
+hypo: celebrar[3]
+sa: @en:verb.social:receive
+
+w: @en_reciprocate
+d: @en_act, feel, or give mutually or in return
+fs: 2
+hyper: verb.possession:@en_return[1]
+hypo: agir
+sa: @en:verb.social:reciprocate
+
+w: @en_recommit
+d: @en_commit once again, as of a crime
+fs: 8
+hypo: cometer
+sa: @en:verb.social:recommit[1]
+
+w: @en_redline
+d: @en_discriminate in selling or renting housing in certain areas of a neighborhood
+fs: 8
+hypo: discriminar
+sa: @en:verb.social:redline
+
+w: @en_reduce
+d: @en_bring to humbler or weaker state or condition
+fs: 24
+hypo: demover
+sa: @en:verb.social:reduce
+
+w: @en_rehouse
+d: @en_put up in a new or different housing
+fs: 9
+hypo: acolher
+sa: @en:verb.social:rehouse
+
+w: @en_rendezvous
+d: @en_meet at a rendezvous
+fs: 2
+hypo: encontrar
+sa: @en:verb.social:rendezvous
+
+w: @en_repatriate
+d: @en_send someone back to his homeland against his will, as of refugees
+fs: 9
+hypo: extraditar
+sa: @en:verb.social:repatriate[1]
+
+w: @en_reprieve
+d: @en_relieve temporarily
+fs: 8 9
+hypo: resgatar
+sa: @en:verb.social:reprieve
+
+w: @en_resile
+d: @en_pull out from an agreement, contract, statement, etc.
+fs: 2 22
+hypo: @en_back_down
+sa: @en:verb.social:resile
+
+w: @en_rest
+d: @en_be inactive, refrain from acting
+fs: 1 2
+hyper: hibernar
+sa: @en:verb.social:rest
+
+w: @en_reticulate
+d: @en_distribute by a network, as of water or electricity
+fs: 8
+hypo: @en_distribute
+sa: @en:verb.social:reticulate
+
+w: @en_reunite
+d: @en_have a reunion; unite again
+fs: 2
+hypo: encontrar
+sa: @en:verb.social:reunite
+
+w: @en_ride_roughshod
+w: @en_run_roughshod
+d: @en_treat inconsiderately or harshly
+fs: 8 9 10 11
+hypo: tratar[2]
+sa: @en:verb.social:ride_roughshod
+
+w: @en_ride_the_bench
+w: @en_warm_the_bench
+d: @en_be out of the game
+fs: 2
+hypo: @en_idle
+mt: noun.act:esporte[1]
+sa: @en:verb.social:ride_the_bench
+
+w: @en_rig
+w: @en_set_up
+d: @en_arrange the outcome of by means of deceit
+fs: 8
+hypo: tapear[1]
+sa: @en:verb.social:rig
+
+w: @en_riot[1]
+d: @en_take part in a riot; disturb the public peace by engaging in a riot
+fs: 2
+hypo: @en_rampage
+sa: @en:verb.social:riot
+
+w: @en_rotate
+d: @en_exchange on a regular basis
+fs: 9
+hypo: @en_alternate
+sa: @en:verb.social:rotate
+vg: verb.change:@en_rotate
+vg: verb.competition:rotacionar
+
+w: @en_rough-house
+d: @en_treat in a rough or boisterous manner
+fs: 9
+hypo: tratar[2]
+sa: @en:verb.social:rough-house
+
+w: @en_rub_along
+w: @en_scrape_along
+w: @en_scrape_by
+w: @en_scratch_along
+w: @en_squeak_by
+w: @en_squeeze_by
+d: @en_manage one's existence barely
+fs: 2
+hypo: aguentar
+sa: @en:verb.social:rub_along
+
+w: @en_rubricate
+d: @en_place in the church calendar as a red-letter day honoring a saint
+fs: 9
+hypo: reconhecer[2]
+sa: @en:verb.social:rubricate[3]
+
+w: @en_ruin
+d: @en_destroy or cause to fail
+fs: 8 11
+hyper: @en_break[1]
+hyper: @en_undo
+hyper: destruir_totalmente
+hypo: contrariar
+sa: @en:verb.social:ruin
+
+w: @en_rumpus
+d: @en_cause a disturbance
+fs: 2
+hypo: fomentar
+sa: @en:verb.social:rumpus
+
+w: @en_run
+d: @en_make without a miss
+fs: 8
+hypo: atingir
+mt: noun.act:esporte[1]
+sa: @en:verb.social:run[1]
+
+w: @en_rusticate
+d: @en_send to the country
+fs: 9
+hypo: expulsar
+sa: @en:verb.social:rusticate
+
+w: @en_rusticate[1]
+w: @en_send_down
+d: @en_suspend temporarily from college or university, in England
+fs: 9
+hypo: @en_debar
+sa: @en:verb.social:send_down
+
+w: @en_sanction
+d: @en_give authority or permission to
+fs: 8
+hypo: autorizar[2]
+sa: @en:verb.social:sanction[1]
+
+w: @en_sandbag[1]
+d: @en_treat harshly or unfairly
+fs: 9
+hypo: injustiçar
+sa: @en:verb.social:sandbag
+
+w: @en_sauce
+d: @en_behave saucily or impudently towards
+fs: 9
+hypo: verb.body:agir
+sa: @en:verb.social:sauce
+
+w: @en_scant
+w: @en_skimp
+d: @en_work hastily or carelessly; deal with inadequately and superficially
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:skimp
+
+w: @en_scant[1]
+w: @en_skimp[1]
+d: @en_limit in quality or quantity
+fs: 8
+hypo: restringir
+sa: @en:verb.social:scant
+
+w: @en_scourge
+d: @en_punish severely; excoriate
+fs: 9
+hypo: castigar
+sa: @en:verb.social:scourge
+
+w: @en_scrimshank
+d: @en_British military language: avoid work
+fs: 2
+hypo: esquivar
+mr: noun.location:Grã-Bretanha
+sa: @en:verb.social:scrimshank
+
+w: @en_second
+d: @en_transfer an employee to a different, temporary assignment
+fs: 9
+hypo: redesignar
+sa: @en:verb.social:second[1]
+
+w: @en_sectionalise
+w: @en_sectionalize
+d: @en_divide into sections, especially into geographic sections
+fs: 8
+hypo: dividir
+sa: @en:verb.social:sectionalise
+
+w: @en_see
+d: @en_go to see for a social visit
+fs: 9
+hypo: @en_call_in
+sa: @en:verb.social:see[12]
+vg: ir
+
+w: @en_segregate
+d: @en_separate by race or religion; practice a policy of racial segregation
+fs: 1 2 8 9
+hypo: discriminar
+sa: @en:verb.social:segregate
+
+w: @en_send_in
+d: @en_give one's name or calling card to a servant when making a formal visit
+fs: 8
+entail: @en_call_in
+sa: @en:verb.social:send_in
+
+w: @en_serve
+d: @en_do military service
+fs: 2
+hypo: trabalhar[2]
+sa: @en:verb.social:serve[13]
+vg: verb.competition:exercer
+
+w: @en_serve[1]
+d: @en_devote (part of) one's life or efforts to, as of countries, institutions, or ideas
+fs: 8 9
+hypo: trabalhar[3]
+sa: @en:verb.social:serve[2]
+vg: servir
+
+w: @en_set_back
+d: @en_slow down the progress of; hinder
+fs: 10
+hypo: entravar
+sa: @en:verb.social:set_back
+
+w: @en_shamanise
+w: @en_shamanize
+d: @en_practice shamanism
+fs: 2
+hypo: exercer
+sa: @en:verb.social:shamanise
+
+w: @en_shark
+d: @en_play the shark; act with trickery
+fs: 2
+hypo: tapear[1]
+sa: @en:verb.social:shark
+
+w: @en_shepherd
+d: @en_tend as a shepherd, as of sheep or goats
+fs: 8
+hypo: cuidar[2]
+sa: @en:verb.social:shepherd
+
+w: @en_shill
+d: @en_act as a shill
+fs: 2
+hypo: enganar
+sa: @en:verb.social:shill
+
+w: @en_ship
+d: @en_hire for work on a ship
+fs: 9
+hypo: assalariar
+sa: @en:verb.social:ship
+
+w: @en_shipwreck
+d: @en_suffer failure, as in some enterprise
+fs: 2
+hypo: fracassar
+sa: @en:verb.social:shipwreck[1]
+
+w: @en_short
+w: @en_short-change
+d: @en_cheat someone by not returning him enough money
+fs: 9
+hypo: calotear
+sa: @en:verb.social:short
+
+w: @en_short-circuit
+d: @en_hamper the progress of; impede
+fs: 8 11
+hypo: contrariar
+sa: @en:verb.social:short-circuit
+
+w: @en_sideline
+d: @en_remove from the center of activity or attention; place into an inferior position
+fs: 9
+hypo: demover
+sa: @en:verb.social:sideline
+
+w: @en_sit_back
+w: @en_sit_by
+d: @en_be inactive or indifferent while something is happening
+fs: 2
+hypo: verb.perception:assistir
+sa: @en:verb.social:sit_back
+
+w: @en_sit_in
+d: @en_participate in an act of civil disobedience
+fs: 2
+hypo: desacatar
+sa: @en:verb.social:sit_in
+
+w: @en_skipper
+d: @en_work as the skipper on a vessel
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:skipper
+
+w: @en_slack
+d: @en_avoid responsibilities and work, be idle
+fs: 2
+hypo: esquivar
+sa: @en:verb.social:slack
+
+w: @en_slam-dunk
+d: @en_make a forceful move against
+fs: 8 9 10 11
+hypo: verb.change:afetar
+sa: @en:verb.social:slam-dunk
+
+w: @en_slate
+d: @en_enter on a list or slate for an election
+fs: 9
+hypo: @en_cross-file
+sa: @en:verb.social:slate
+
+w: @en_snooker
+d: @en_fool or dupe
+fs: 9
+hypo: @en_flim-flam
+sa: @en:verb.social:snooker
+
+w: @en_socialise
+w: @en_socialize
+d: @en_take part in social activities; interact with others
+fs: 2 22
+hyper: @en_fraternise
+hyper: @en_get_around
+hyper: @en_hobnob
+hyper: divertir[1]
+hypo: interagir
+sa: @en:verb.social:socialise[1]
+
+w: @en_socialise[1]
+w: @en_socialize[1]
+d: @en_train for a social environment
+fs: 9
+hypo: ensinar
+sa: @en:verb.social:socialise
+
+w: @en_sodomise
+w: @en_sodomize
+d: @en_copulate with an animal
+fs: 8
+hypo: verb.contact:acasalar
+sa: @en:verb.social:sodomise[1]
+
+w: @en_solemnise
+w: @en_solemnize
+d: @en_observe or perform with dignity or gravity
+fs: 8
+hypo: festejar
+sa: @en:verb.social:solemnise
+
+w: @en_solemnise[1]
+w: @en_solemnize[1]
+d: @en_perform (the wedding ceremony) with proper ceremonies
+fs: 8
+hypo: casar[1]
+sa: @en:verb.social:solemnise[1]
+
+w: @en_sovietise
+w: @en_sovietize
+d: @en_bring under Soviet control, of a country
+fs: 8
+hypo: verb.contact:acoplar
+sa: @en:verb.social:sovietise
+
+w: @en_speak_for
+d: @en_be a spokesperson for
+fs: 8 10
+hypo: representar[1]
+sa: @en:verb.social:speak_for
+
+w: @en_specialise
+w: @en_specialize
+d: @en_devote oneself to a special area of work
+fs: 22
+hypo: trabalhar[3]
+sa: @en:verb.social:specialise
+
+w: @en_spell
+d: @en_relieve (someone) from work by taking a turn
+fs: 9
+hypo: eximir
+sa: @en:verb.social:spell
+
+w: @en_spike
+d: @en_stand in the way of
+fs: 8
+hypo: exilar
+sa: @en:verb.social:spike
+
+w: @en_spot_promote
+d: @en_promote on the spot
+fs: 9
+hypo: avançar
+sa: @en:verb.social:spot_promote
+
+w: @en_squeeze_for
+d: @en_squeeze someone for money, information, etc.
+fs: 14
+hypo: compelir
+sa: @en:verb.social:squeeze_for
+
+w: @en_squeeze_out
+d: @en_force out
+fs: 8 11
+hypo: demitir
+sa: @en:verb.social:squeeze_out
+
+w: @en_stable
+d: @en_shelter in a stable
+fs: 8
+hypo: verb.stative:abrigar
+mt: noun.act:exploração_pecuária
+sa: @en:verb.social:stable
+
+w: @en_stag
+d: @en_attend a dance or a party without a female companion
+fs: 2
+sa: @en:verb.social:stag
+
+w: @en_stall
+d: @en_put into, or keep in, a stall
+fs: 8
+hypo: verb.stative:abrigar
+sa: @en:verb.social:stall
+
+w: @en_stampede
+d: @en_cause a group or mass of people to act on an impulse or hurriedly and impulsively
+fs: 9 10
+cause: debandar
+sa: @en:verb.social:stampede[1]
+
+w: @en_stay
+d: @en_stop a judicial process
+fs: 8
+hypo: travar
+sa: @en:verb.social:stay
+
+w: @en_stay_together
+w: @en_stick_together
+d: @en_be loyal to one another, especially in times of trouble
+fs: 1 2
+hypo: verb.change:continuar
+sa: @en:verb.social:stay_together
+
+w: @en_steamroll
+w: @en_steamroller
+d: @en_bring to a specified state by overwhelming force or pressure
+fs: 21
+hypo: compelir
+sa: @en:verb.social:steamroll[1]
+vg: verb.competition:@en_steamroll
+vg: @en_steamroll[1]
+
+w: @en_steamroll[1]
+w: @en_steamroller[1]
+d: @en_proceed with great force
+fs: 1 2
+hypo: proceder
+sa: @en:verb.social:steamroll
+vg: @en_steamroll
+
+w: @en_step
+d: @en_cause (a computer) to execute a single command
+fs: 8
+hypo: executar
+sa: @en:verb.social:step[1]
+
+w: @en_stet
+d: @en_printing: cancel, as of a correction or deletion
+fs: 8
+hypo: invalidar
+sa: @en:verb.social:stet
+vg: verb.communication:@en_stet
+
+w: @en_stoke
+d: @en_stir up or tend; of a fire
+fs: 8
+hypo: gerenciar[2]
+sa: @en:verb.social:stoke
+
+w: @en_street-walk
+w: @en_streetwalk
+d: @en_walk the streets in search of customers
+fs: 2
+hypo: prostituir
+sa: @en:verb.social:street-walk
+
+w: @en_strike_out
+d: @en_be unsuccessful in an endeavor
+fs: 2
+hypo: fracassar
+sa: @en:verb.social:strike_out
+
+w: @en_strong-arm
+d: @en_handle roughly
+fs: 9
+hypo: tratar[2]
+sa: @en:verb.social:strong-arm
+
+w: @en_stunt
+d: @en_check the growth or development of
+fs: 8 11
+hyper: sobrepujar
+hypo: entravar
+sa: @en:verb.social:stunt
+
+w: @en_subcontract
+d: @en_work under a subcontract; engage in a subcontract
+fs: 2 8
+entail: verb.communication:contratar
+hypo: trabalhar[2]
+sa: @en:verb.social:subcontract
+
+w: @en_suborn
+d: @en_incite to commit a crime or an evil deed
+fs: 9
+hypo: aviltar
+sa: @en:verb.social:suborn
+
+w: @en_subserve
+d: @en_be helpful or useful
+fs: 11
+hypo: acorrer
+sa: @en:verb.social:subserve
+
+w: @en_summate
+d: @en_form or constitute a cumulative effect
+fs: 1 4
+hypo: combinar
+sa: @en:verb.social:summate
+
+w: @en_sweep_under_the_rug
+d: @en_to conceal something in the hopes it won't be discovered by others
+fs: 8
+hypo: verb.perception:acobertar
+sa: @en:verb.social:sweep_under_the_rug
+
+w: @en_swing[1]
+w: @en_swing_over
+d: @en_influence decisively
+fs: 8 9 10 11
+hypo: influenciar
+sa: @en:verb.social:swing_over
+
+w: @en_taboo
+d: @en_declare as sacred and forbidden
+fs: 8
+hypo: restringir
+sa: @en:verb.social:taboo
+
+w: @en_take[1]
+d: @en_develop a habit
+fs: 22
+sa: @en:verb.social:take[13]
+
+w: @en_take_care
+d: @en_be careful, prudent, or watchful
+fs: 2
+hypo: agir
+sa: @en:verb.social:take_care
+
+w: @en_take_charge
+w: @en_take_control
+w: @en_take_hold
+d: @en_assume control
+fs: 1 2 22
+hyper: assumir_controle
+hypo: comandar
+sa: @en:verb.social:take_charge
+
+w: @en_take_in
+d: @en_visit for entertainment
+fs: 8
+hypo: ir
+sa: @en:verb.social:take_in
+
+w: @en_take_in_charge
+w: @en_undertake
+d: @en_accept as a charge
+fs: 8
+hypo: verb.communication:aceitar
+sa: @en:verb.social:take_in_charge
+
+w: @en_take_off
+w: @en_take_time_off
+d: @en_take time off from work; stop working temporarily
+fs: 2
+hypo: verb.communication:interromper
+sa: @en:verb.social:take_off
+
+w: @en_take_office
+d: @en_assume an office, duty, or title
+fs: 2
+hyper: aceder
+hyper: assumir
+hypo: começar[2]
+sa: @en:verb.social:take_office
+
+w: @en_take_orders
+d: @en_receive and be expected to follow directions or commands
+fs: 16
+hypo: obedecer[1]
+sa: @en:verb.social:take_orders
+
+w: @en_take_orders[1]
+d: @en_be ordained; enter the Christian ministry
+fs: 2
+sa: @en:verb.social:take_orders[1]
+
+w: @en_take_stage
+w: @en_take_the_stage
+d: @en_attract attention onto oneself
+fs: 2
+sa: @en:verb.social:take_stage
+
+w: @en_take_time_by_the_forelock
+d: @en_act quickly and decisively; not let slip an opportunity
+fs: 2
+hypo: agir
+sa: @en:verb.social:take_time_by_the_forelock
+
+w: @en_take_to
+d: @en_develop a habit; apply oneself to a practice or occupation
+fs: 8 33
+sa: @en:verb.social:take_to[1]
+
+w: @en_take_up
+d: @en_turn one's interest to
+fs: 8 33
+hypo: verb.motion:@en_turn[3]
+sa: @en:verb.social:take_up[1]
+
+w: @en_task
+d: @en_assign a task to
+fs: 31
+hypo: delegar
+sa: @en:verb.social:task
+
+w: @en_tenant
+d: @en_occupy as a tenant
+fs: 8
+hypo: verb.stative:povoar
+sa: @en:verb.social:tenant
+
+w: @en_tenure
+d: @en_give life-time employment to
+fs: 9
+hypo: avançar
+mt: noun.group:@en_academe
+sa: @en:verb.social:tenure
+
+w: @en_territorialise
+w: @en_territorialize
+d: @en_organize as a territory
+fs: 8
+hypo: organizar[2]
+sa: @en:verb.social:territorialise
+
+w: @en_thermostat
+d: @en_control the temperature with a thermostat
+fs: 8
+hypo: limitar
+sa: @en:verb.social:thermostat
+
+w: @en_throne
+d: @en_sit on the throne as a ruler
+fs: 2
+hypo: reinar
+sa: @en:verb.social:throne[1]
+
+w: @en_tinker
+d: @en_work as a tinker or tinkerer
+fs: 2
+hypo: trabalhar[2]
+sa: @en:verb.social:tinker
+
+w: @en_toe_the_line
+d: @en_do what is expected
+fs: 2
+hypo: acatar
+sa: @en:verb.social:toe_the_line
+
+w: @en_top_out
+d: @en_give up one's career just as one becomes very successful
+fs: 2
+hypo: abandonar
+sa: @en:verb.social:top_out
+
+w: @en_touch
+d: @en_deal with; usually used with a form of negation
+fs: 8 11
+hypo: governar
+sa: @en:verb.social:touch
+
+w: @en_train[1]
+d: @en_cause to grow in a certain way by tying and pruning it
+fs: 8
+hyper: @en_trellis
+hypo: limitar
+sa: @en:verb.social:train[3]
+
+w: @en_trellis
+d: @en_train on a trellis, as of a vine
+fs: 8
+hypo: @en_train[1]
+sa: @en:verb.social:trellis
+
+w: @en_trespass[1]
+d: @en_break the law
+fs: 2
+hypo: infringir
+sa: @en:verb.social:trespass
+
+w: @en_triangulate
+d: @en_divide into triangles or give a triangular form to
+fs: 8
+hypo: dividir
+sa: @en:verb.social:triangulate
+
+w: @en_trust
+d: @en_allow without fear
+fs: 24
+hypo: verb.communication:deixar
+sa: @en:verb.social:trust
+
+w: @en_turn
+d: @en_accomplish by rotating
+fs: 8
+hypo: cumprir
+sa: @en:verb.social:turn[10]
+vg: verb.contact:@en_turn[1]
+
+w: @en_turn_a_trick
+d: @en_have a customer, of a prostitute
+fs: 2
+hypo: trabalhar[2]
+sa: @en:verb.social:turn_a_trick
+
+w: @en_turn_out
+d: @en_come and gather for a public event
+fs: 2
+hypo: reunir
+sa: @en:verb.social:turn_out[3]
+
+w: @en_turn_thumbs_down
+w: @en_vote_down[1]
+d: @en_vote against
+fs: 22
+hypo: votar[2]
+sa: @en:verb.social:turn_thumbs_down
+
+w: @en_turn_up_the_heat
+w: @en_turn_up_the_pressure
+d: @en_apply great or increased pressure
+fs: 2 22
+hypo: compelir
+sa: @en:verb.social:turn_up_the_heat
+
+w: @en_two-time
+d: @en_carry on a romantic relationship with two people at the same time
+fs: 2
+hypo: tapear
+sa: @en:verb.social:two-time
+
+w: @en_underachieve
+w: @en_underperform
+d: @en_perform less well or with less success than expected
+fs: 1 2
+hypo: cumprir
+sa: @en:verb.social:underachieve
+
+w: @en_undergird
+d: @en_lend moral support to
+fs: 10
+hypo: apoiar
+sa: @en:verb.social:undergird
+
+w: @en_undo
+d: @en_cause the ruin or downfall of
+fs: 9 10
+hypo: @en_ruin
+sa: @en:verb.social:undo
+
+w: @en_unionise
+w: @en_unionize
+d: @en_recruit for a union or organize into a union
+fs: 9
+cause: organizar[1]
+hypo: inscrever
+sa: @en:verb.social:unionise[1]
+
+w: @en_unitise
+w: @en_unitize
+d: @en_divide (bulk material) and process as units
+fs: 8
+hypo: dividir
+sa: @en:verb.social:unitise
+
+w: @en_unseat
+d: @en_remove from political office
+fs: 9
+hypo: remover
+sa: @en:verb.social:unseat
+
+w: @en_upstage
+d: @en_treat snobbishly, put in one's place
+fs: 9
+hypo: tratar[2]
+sa: @en:verb.social:upstage
+
+w: @en_usurp
+d: @en_take the place of
+fs: 11
+hypo: sobrepor
+sa: @en:verb.social:usurp
+
+w: @en_valet
+d: @en_serve as a personal attendant to
+fs: 9
+hypo: servir
+sa: @en:verb.social:valet
+
+w: @en_vet
+d: @en_work as a veterinarian
+fs: 2
+hypo: @en_be
+sa: @en:verb.social:vet
+
+w: @en_victimise
+w: @en_victimize
+d: @en_make a victim of
+fs: 9
+hyper: calotear[1]
+hyper: enganar
+hypo: injustiçar
+sa: @en:verb.social:victimise[1]
+
+w: @en_volunteer
+d: @en_do volunteer work
+fs: 2 22
+hypo: trabalhar[3]
+sa: @en:verb.social:volunteer
+
+w: @en_wait
+w: @en_waitress
+d: @en_serve as a waiter or waitress in a restaurant
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:wait
+
+w: @en_walk
+d: @en_be or act in association with
+fs: 22
+hypo: associar-se[2]
+sa: @en:verb.social:walk[1]
+
+w: @en_walk[1]
+d: @en_live or behave in a specified manner
+fs: 22
+hypo: comportar
+sa: @en:verb.social:walk
+
+w: @en_walk_around
+d: @en_walk randomly
+fs: 2
+hypo: @en_act
+sa: @en:verb.social:walk_around[1]
+
+w: @en_walk_around[1]
+d: @en_behave in a certain manner or have certain properties
+fs: 22
+hypo: conduzir
+sa: @en:verb.social:walk_around
+
+w: @en_welch
+w: @en_welsh
+d: @en_cheat by avoiding payment of a gambling debt
+fs: 2
+hypo: calotear[1]
+sa: @en:verb.social:welch
+
+w: @en_whip_through
+d: @en_go through very fast
+fs: 8
+hypo: verb.consumption:@en_go_through
+sa: @en:verb.social:whip_through
+
+w: @en_whipsaw
+d: @en_victimize, especially in gambling or negotiations
+fs: 9
+hypo: calotear[1]
+sa: @en:verb.social:whipsaw
+
+w: @en_whore
+d: @en_work as a prostitute
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:whore
+
+w: @en_winkle_out
+d: @en_force from a place or position
+fs: 9 10
+hypo: remover
+sa: @en:verb.social:winkle_out
+
+w: @en_wive
+d: @en_take (someone) as a wife
+fs: 9
+hypo: casar
+sa: @en:verb.social:wive[1]
+
+w: @en_wive[1]
+d: @en_marry a woman, take a wife
+fs: 2
+hypo: casar
+sa: @en:verb.social:wive
+
+w: @en_work[1]
+d: @en_proceed towards a goal or along a path or through an activity
+fs: 22
+hypo: proceder
+sa: @en:verb.social:work[5]
+vg: verb.motion:@en_work
+
+w: @en_work[2]
+d: @en_cause to operate or function
+fs: 8
+hypo: governar
+sa: @en:verb.social:work[12]
+vg: @en_work[3]
+
+w: @en_work[3]
+d: @en_operate in or through
+fs: 8
+hypo: operar
+sa: @en:verb.social:work[11]
+vg: verb.contact:funcionar[2]
+vg: @en_work[2]
+
+w: @en_write_in
+d: @en_cast a vote by inserting a name that does not appear on the ballot
+fs: 8 9
+hypo: votar[2]
+sa: @en:verb.social:write_in
+
+w: ab-rogar
+w: abolir
+w: anular
+w: declarar_sem_efeito
+w: revogar
+d: @en_revoke formally
+fs: 8
+hypo: suprimir
+sa: @en:verb.social:abrogate
+
+w: abandonar
+w: demitir-se
+w: quitar
+w: renunciar
+w: resignar
+d: desistir ou retirar-se da posição
+fs: 2
+hyper: @en_fall[1]
+hyper: @en_top_out
+hyper: aposentar-se
+hyper: exonerar-se
+hypo: largar
+sa: @en:verb.social:leave_office
+
+w: abandonar[1]
+w: largar
+w: long-faced
+w: partir
+w: sair
+d: @en_remove oneself from an association with or participation in
+fs: 2 8
+hyper: @en_drop_out[1]
+hyper: abandonar
+hypo: verb.change:alterar[3]
+sa: @en:verb.social:depart
+vg: verb.motion:ir[12]
+
+w: abandonar[2]
+w: long-faced[1]
+d: desertar uma causa, um país ou um exército, muitas vezes a fim de aderir à causa oposta, ao país ou ao exército oposto
+e: Se soldados desertassem o exército de Hitler eles eram fuzilado.
+fs: 2 22
+entail: protestar
+hyper: @en_rat[2]
+hypo: verb.motion:escapar[4]
+sa: @en:verb.social:defect
+
+w: abastardar
+d: @en_change something so that its value declines; for example, art forms
+fs: 8
+hypo: aviltar
+sa: @en:verb.social:bastardise
+
+w: abdicar
+w: abrir_mão_de
+w: renunciar[1]
+d: abrir mão do poder, como monarca ou imperador, de deveres e obrigações
+fs: 2
+hypo: exonerar-se
+sa: @en:verb.social:abdicate
+
+w: abolir[1]
+w: declarar_sem_efeito[1]
+w: suprimir
+d: @en_do away with
+fs: 8 11
+hyper: @en_cashier
+hyper: ab-rogar
+sa: @en:verb.social:abolish
+
+w: abrir
+w: começar
+d: @en_begin or set in action, of meetings, speeches, recitals, etc.
+fs: 8 11
+hyper: @en_call_to_order
+hyper: inaugurar[1]
+hypo: verb.creation:começar
+sa: @en:verb.social:open[1]
+
+w: abrir[1] ant fechar
+d: @en_start to operate or function or cause to start operating or functioning
+fs: 1 8
+hyper: estabelecer
+sa: @en:verb.social:open
+
+w: abster
+w: abster-se
+d: @en_refrain from voting
+fs: 2
+hypo: verb.stative:resistir[4]
+sa: @en:verb.social:abstain
+
+w: abusar
+w: destratar
+w: maltratar
+d: @en_treat badly
+fs: 8 9
+hyper: @en_kick_around
+hypo: tratar[2]
+sa: @en:verb.social:abuse
+
+w: acabar
+w: terminar
+d: @en_finish or terminate (meetings, speeches, etc.)
+fs: 8 11
+hypo: verb.change:concluir[1]
+sa: @en:verb.social:close[1]
+
+w: acatar
+w: conformar
+w: seguir
+d: agir de acordo com as regras, comandos ou desejos de alguém
+fs: 2 22
+hyper: verb.communication:@en_accommodate
+hyper: @en_toe_the_line
+hyper: verb.stative:@en_conform_to
+hypo: obedecer[1]
+sa: @en:verb.social:abide_by
+vg: verb.change:@en_stick_to
+vg: verb.possession:adoptar[3]
+
+w: accionar
+w: acionar
+w: ajuizar
+w: litigar
+w: processar
+d: instituir processos judiciais contra alguém; abrir um processo contra
+e: Ela acionou a empresa por discriminação
+e: Ele foi avisado que o promotor iria processá-lo
+fs: 9
+hyper: @en_expedite
+hypo: verb.communication:desafiar[1]
+sa: @en:verb.social:action
+vg: @en_litigate
+
+w: aceder
+d: assumir funções ou cargo
+fs: 2
+hyper: @en_ascend
+hypo: @en_take_office
+hypo: vir_depois_de_
+sa: @en:verb.social:accede
+
+w: aceitar_de_volta
+d: @en_resume a relationship with someone after an interruption, as in a wife taking back her husband
+fs: 9
+hypo: relacionar
+sa: @en:verb.social:take_back
+
+w: acelerar
+w: apressar
+d: @en_speed up the progress of; facilitate
+fs: 8 11
+hypo: acorrer
+sa: @en:verb.social:expedite
+
+w: acercar-se
+d: @en_nearly do something
+fs: 28
+hypo: agir
+sa: @en:verb.social:come_close
+
+w: acolher
+w: sediar
+d: @en_provide housing for
+fs: 8 9 20 21
+hyper: @en_home
+hyper: @en_rehouse
+hyper: verb.stative:@en_accommodate
+hyper: verb.stative:@en_chamber
+hyper: verb.stative:@en_take_in
+hypo: verb.stative:abrigar
+sa: @en:verb.social:domiciliate
+
+w: acompanhar
+w: seguir[1]
+d: @en_conform one's action or practice to
+fs: 8
+hyper: @en_make_good
+sa: @en:verb.social:keep[3]
+
+w: acontecer
+d: @en_happen or take place
+fs: 1
+hypo: verb.change:ocorrer
+mu: noun.communication:@en_colloquialism
+sa: @en:verb.social:break[15]
+
+w: acontecer[1]
+d: chance de ser ou fazer algo, sem intenção ou nexo de causalidade
+fs: 28 34
+hypo: @en_chance
+sa: @en:verb.social:happen
+vg: verb.change:calhar
+
+w: acorrer
+w: ajudar
+w: assistir
+w: auxiliar
+w: socorrer
+w: solidarizar_se
+d: dar ajuda ou assistência
+fs: 1 2 8 9 10
+hyper: verb.change:aliviar
+hyper: @en_avail
+hyper: @en_benefact
+hyper: @en_help_out
+hyper: @en_subserve
+hyper: acelerar
+hyper: desenrascar
+hyper: servir
+hyper: socorrer[2]
+hyper: tutelar
+hypo: apoiar
+sa: @en:verb.social:aid
+
+w: acossar
+d: @en_cause to suffer
+fs: 9
+hyper: @en_purge
+hypo: verb.emotion:crucificar
+sa: @en:verb.social:persecute
+
+w: adiar
+d: @en_break from a meeting or gathering
+fs: 2 22
+entail: reunir
+hyper: @en_prorogue
+hypo: fechar
+sa: @en:verb.social:adjourn
+vg: verb.change:insular
+
+w: administrar
+w: gerenciar
+w: gerir
+d: @en_work in an administrative capacity; supervise or be in charge of
+fs: 2 8
+hyper: @en_pontificate
+hyper: chefiar
+hypo: governar
+sa: @en:verb.social:administer
+
+w: administrar_casa
+w: safar-se
+d: @en_carry on or function
+fs: 4 22
+sa: @en:verb.social:do[3]
+
+w: admitir
+d: @en_allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of
+fs: 9 20
+hyper: @en_induct
+hyper: readmitir[1]
+hyper: verb.stative:@en_involve[1]
+hypo: verb.communication:deixar
+sa: @en:verb.social:admit
+vg: verb.possession:admitir
+
+w: admitir[1]
+d: @en_allow to enter; grant entry to
+fs: 9 11 20
+hyper: readmitir
+hyper: repatriar
+hypo: verb.communication:deixar
+sa: @en:verb.social:allow_in
+vg: verb.stative:admitir
+
+w: advogar
+w: agitar
+w: fazer_campanha
+w: lutar
+d: @en_exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for
+fs: 8 9
+hypo: verb.communication:promover
+sa: @en:verb.social:agitate[10]
+vg: verb.communication:promover
+
+w: afagar
+w: amimar
+w: mimar
+w: mimosear
+d: @en_treat with excessive indulgence
+fs: 9
+hypo: tratar[2]
+sa: @en:verb.social:baby
+
+w: afectar
+d: @en_act like the master of
+fs: 2
+hypo: agir
+sa: @en:verb.social:act_superior
+
+w: afeminar
+w: paquerar_mulheres
+w: tornar_feminino
+d: @en_have amorous affairs; of men
+fs: 2
+hypo: interagir
+sa: @en:verb.social:philander
+
+w: afetar
+w: ter_efeito
+d: atuar ou ter um efeito de forma especificada
+fs: 8 11
+hypo: agir
+sa: @en:verb.social:play[12]
+vg: ser
+
+w: afiliar
+w: afiliar-se
+w: associar-se
+d: tornar-se membro de um grupo
+fs: 1 2
+hypo: filiar-se
+sa: @en:verb.social:affiliate
+
+w: afiliar-se[1]
+w: associar-se[1]
+w: filiar-se
+w: ingressar
+w: juntar-se
+d: tornar-se parte de; tornar-se um membro de um grupo ou organização
+fs: 22
+hyper: verb.competition:inscrever
+hyper: @en_band_oneself
+hyper: afiliar
+hyper: infiltrar
+hyper: organizar[1]
+hyper: refiliar
+hyper: unificar
+sa: @en:verb.social:fall_in
+
+w: agigantar
+w: exagerar
+d: @en_do something to an excessive degree
+fs: 8
+hyper: verb.communication:@en_overpraise
+hyper: @en_overleap
+hyper: @en_oversimplify
+hypo: @en_do
+sa: @en:verb.social:exaggerate
+
+w: agir
+w: atuar
+w: fazer
+d: fazer uma ação
+fs: 1 2 22
+hyper: verb.change:alternar[1]
+hyper: verb.change:aportar
+hyper: verb.change:correr
+hyper: verb.change:disturbar
+hyper: verb.cognition:reagir
+hyper: verb.communication:@en_go_ahead
+hyper: verb.competition:agredir
+hyper: verb.contact:forçar
+hyper: verb.creation:criar[7]
+hyper: verb.motion:@en_come_forward
+hyper: verb.possession:premiar[1]
+hyper: @en_coact
+hyper: @en_condescend
+hyper: @en_court
+hyper: @en_deal
+hyper: @en_dispatch
+hyper: @en_egotrip
+hyper: @en_evade
+hyper: @en_get_around_to
+hyper: @en_go_off_at_half-cock
+hyper: @en_guard
+hyper: @en_misbehave
+hyper: @en_oppose
+hyper: @en_partner
+hyper: @en_rampage
+hyper: @en_reciprocate
+hyper: @en_take_care
+hyper: @en_take_time_by_the_forelock
+hyper: acercar-se
+hyper: afectar
+hyper: afetar
+hyper: agir[1]
+hyper: agir_como_promotor
+hyper: aguentar
+hyper: antecipar
+hyper: apresentar
+hyper: atrever
+hyper: atrever[1]
+hyper: azarar
+hyper: brincar
+hyper: cometer
+hyper: começar[1]
+hyper: começar[3]
+hyper: comparticipar
+hyper: comportar
+hyper: condescender
+hyper: condescender[1]
+hyper: conduzir
+hyper: continuar
+hyper: correr
+hyper: costumar
+hyper: debandar
+hyper: efectivar
+hyper: executar[3]
+hyper: fazer_questão_de
+hyper: hostilizar
+hyper: interagir
+hyper: ir_levando
+hyper: lutar[1]
+hyper: manobrar
+hyper: performar
+hyper: proceder
+hyper: procurar
+hyper: reiterar
+hyper: roubar[1]
+hyper: satisfazer
+hyper: ser
+hyper: surpreender
+hyper: verb.stative:@en_do_well
+hyper: verb.stative:continuar
+hyper: verb.stative:continuar[2]
+hyper: verb.stative:prosseguir
+hyper: verb.stative:reter
+sa: @en:verb.social:act
+
+w: agir[1]
+d: @en_regulate one's behavior in accordance with certain information, ideas, or advice
+fs: 8
+hypo: agir
+sa: @en:verb.social:act_on[1]
+
+w: agir_como_promotor
+d: conduzir um processo em tribunal
+fs: 2
+hypo: agir
+sa: @en:verb.social:prosecute[1]
+
+w: aguentar
+w: lidar
+w: sobreviver
+w: virar-se
+d: @en_come to terms with
+fs: 22
+hyper: @en_fend
+hyper: @en_rub_along
+hyper: fazer_frente
+hyper: improvisar
+hyper: lidar_bem
+hypo: agir
+sa: @en:verb.social:contend
+
+w: aguentar[1]
+w: gerenciar[1]
+w: lidar_bem
+d: ser capaz de gerir ou gerenciar com sucesso
+fs: 8
+hypo: aguentar
+sa: @en:verb.social:hack
+
+w: ajudar[1]
+w: salvar
+w: socorrer[1]
+d: @en_save from ruin, destruction, or harm
+fs: 8 9 10 11
+hypo: resgatar
+sa: @en:verb.social:relieve
+
+w: ajudar[2]
+w: apoiar
+d: @en_give moral or psychological support, aid, or courage to
+fs: 8 9 10 11
+hyper: verb.possession:apadrinhar
+hyper: @en_undergird
+hyper: acorrer
+hyper: aprovar
+hyper: encorajar
+hyper: patrocinar
+sa: @en:verb.social:back_up
+
+w: ajudar[3]
+w: assistir[1]
+w: servir
+d: trabalhar para
+fs: 9 17
+hyper: @en_fag
+hyper: @en_valet
+hypo: acorrer
+sa: @en:verb.social:attend
+vg: @en_serve[1]
+
+w: ajudar[4]
+w: assistir[2]
+w: auxiliar[1]
+d: atuar como assistente em uma função subordinada ou apoiar
+fs: 2 9
+hyper: verb.competition:@en_protect
+hyper: incitar[1]
+hypo: trabalhar[3]
+sa: @en:verb.social:assist
+
+w: ajuizar_ação_contra
+w: processar[1]
+d: fazer uma ação penal contra ( em um julgamento)
+fs: 9
+sa: @en:verb.social:prosecute
+
+w: alcançar
+d: @en_succeed in a big way; get to the top
+fs: 2 22
+hypo: atingir
+sa: @en:verb.social:arrive
+
+w: alforriar
+w: emancipar
+d: libertar da escravidão ou servidão
+fs: 9
+hypo: emancipar[2]
+sa: @en:verb.social:emancipate
+
+w: alimentar
+d: apoiar ou promover
+e: A admiração dele alimentou a vaidade dela
+fs: 8 11
+hypo: encorajar
+sa: @en:verb.social:feed
+
+w: alistar
+d: nomear sumariamente ou comandar
+fs: 9
+hypo: nomear[3]
+sa: @en:verb.social:co-opt[1]
+
+w: alugar
+w: arrendar
+d: @en_let for money
+fs: 8 15 16
+hypo: verb.communication:contratar
+sa: @en:verb.social:lease
+
+w: alugar[1]
+w: fretar
+d: @en_hold under a lease or rental agreement; of goods and services
+fs: 8 16
+hypo: verb.communication:contratar
+sa: @en:verb.social:rent
+
+w: amotinar
+w: sublevar
+d: participar de um motim contra uma autoridade
+fs: 2
+hypo: amotinar-se
+sa: @en:verb.social:mutiny
+
+w: amotinar-se
+w: insurgir
+w: insurgir-se
+w: rebelar
+w: rebelar-se
+w: revoltar
+w: revoltar-se
+d: @en_take part in a rebellion; renounce a former allegiance
+fs: 2 22
+hyper: amotinar
+hyper: revoltar[1]
+hypo: protestar
+sa: @en:verb.social:arise
+
+w: analisar
+w: escolher
+w: peneirar
+w: selecionar
+d: @en_examine in order to test suitability
+fs: 8 9 10 11
+hypo: verb.cognition:selecionar
+sa: @en:verb.social:screen
+
+w: antecipar
+w: antever
+w: prever
+d: @en_act in advance of; deal with ahead of time
+fs: 8
+hypo: agir
+sa: @en:verb.social:anticipate
+
+w: anular[1]
+w: cancelar
+w: revogar[1]
+d: @en_declare null and void; make ineffective
+fs: 8 11
+hyper: verb.communication:anular
+hyper: verb.communication:cancelar
+hyper: @en_recall
+hyper: cancelar[2]
+hyper: invalidar
+hypo: verb.communication:julgar
+sa: @en:verb.social:cancel
+
+w: anular[2]
+w: cancelar[1]
+w: invalidar
+w: revogar[2]
+d: @en_declare invalid
+fs: 8 11
+hyper: @en_break
+hyper: @en_stet
+hypo: cancelar
+sa: @en:verb.social:annul
+
+w: anunciar
+w: lançar
+d: disponibilizar (informações) para publicação
+fs: 8 11
+hyper: reclassificar
+hypo: distribuir
+sa: @en:verb.social:free[1]
+
+w: apelar
+d: @en_take a court case to a higher court for review
+fs: 2 8
+hypo: verb.communication:desafiar[1]
+sa: @en:verb.social:appeal
+
+w: apelar[1]
+d: @en_challenge (a decision)
+fs: 8
+hypo: verb.communication:contestar
+sa: @en:verb.social:appeal[4]
+
+w: aplicar
+w: fazer_valer
+w: praticar
+w: usar
+w: utilizar
+d: @en_avail oneself to
+e: Aplicar um princípio
+e: Praticar uma religião
+e: Pratique a resistência não violenta
+e: Use seu bom senso
+fs: 8
+hyper: @en_follow[1]
+sa: @en:verb.social:apply[1]
+vg: verb.consumption:utilizar
+
+w: aplicar[1]
+w: forçar
+w: implementar
+d: Garantir a observância das leis e regras
+e: Aplique as regras para todos
+fs: 8
+hyper: @en_execute
+hyper: executar
+hypo: constranger
+sa: @en:verb.social:enforce
+
+w: apoiar[1]
+w: aprovar
+w: endossar
+w: secundar
+d: @en_give support or one's approval to
+fs: 8
+hypo: apoiar
+sa: @en:verb.social:second
+vg: aprovar[2]
+
+w: apoiar[2]
+w: aprovar[1]
+d: @en_guarantee as meeting a certain standard
+fs: 8 26
+hypo: verb.communication:garantir[2]
+sa: @en:verb.social:certify
+
+w: aposentar
+w: jubilar
+d: @en_retire and pension (someone) because of age or physical inability
+fs: 9
+hypo: aposentar[1]
+sa: @en:verb.social:superannuate
+
+w: aposentar[1]
+d: fazer (alguém) se aposentar
+e: O diretor foi aposentado após o escândalo
+fs: 9
+cause: aposentar-se
+hyper: aposentar
+hypo: demitir
+sa: @en:verb.social:retire[3]
+
+w: aposentar-se
+w: se_aposentar
+d: @en_go into retirement; stop performing one's work or withdraw from one's position
+fs: 2
+hyper: verb.change:@en_superannuate
+hyper: @en_withdraw
+hypo: abandonar
+sa: @en:verb.social:retire[1]
+
+w: apresentar
+w: oferecer
+w: voluntariar
+d: concordar, se oferecer
+fs: 28
+hypo: agir
+sa: @en:verb.social:offer
+
+w: aprisionar
+w: encarcerar
+w: prender
+w: ser_preso
+d: @en_lock up or confine, in or as in a jail
+fs: 9
+hypo: confinar
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.social:gaol
+
+w: aprisionar[1]
+d: @en_place in a confining or embarrassing position
+fs: 8 9 10 11
+hypo: confinar
+sa: @en:verb.social:pin_down
+
+w: aprisionar[2]
+d: @en_confine as if in a prison
+fs: 9
+hypo: confinar
+sa: @en:verb.social:imprison[1]
+
+w: aprovar[2]
+d: @en_be behind; approve of
+fs: 8 9
+hyper: verb.communication:garantir[2]
+hyper: verb.competition:defender[5]
+hypo: verb.communication:deferir
+sa: @en:verb.social:back
+vg: aprovar
+
+w: aproximar-se
+w: criar_laços_emocionais
+w: ligar_se
+d: criar laços sociais ou emocionais
+fs: 10
+hyper: @en_befriend
+hyper: @en_fixate
+hypo: relacionar
+sa: @en:verb.social:attach[3]
+
+w: apurar
+w: contar_votos
+d: @en_get the votes of
+fs: 8 9
+hypo: verb.possession:receber
+sa: @en:verb.social:poll[2]
+
+w: aquecer
+d: @en_run until the normal working temperature is reached
+fs: 8
+hypo: operar
+sa: @en:verb.social:warm_up
+
+w: armar
+d: @en_put into commission; equip for service; of ships
+fs: 8
+hypo: verb.possession:aparelhar
+sa: @en:verb.social:commission[1]
+
+w: arregimentar
+d: congregar (militares) em um regimento
+fs: 9
+hypo: organizar
+sa: @en:verb.social:regiment[1]
+
+w: arregimentar[1]
+d: @en_subject to rigid discipline, order, and systematization
+fs: 8 9
+hypo: governar[3]
+sa: @en:verb.social:regiment[2]
+
+w: arregimentar[2]
+d: @en_assign to a regiment
+fs: 9
+hypo: delegar
+sa: @en:verb.social:regiment
+
+w: arriscar
+w: aventurar
+w: aventurar-se
+d: @en_put at risk
+fs: 8
+hypo: arriscar[1]
+sa: @en:verb.social:adventure
+
+w: arriscar[1]
+d: @en_expose to a chance of loss or damage
+fs: 8 33
+hyper: @en_bell_the_cat
+hyper: arriscar
+hypo: procurar
+sa: @en:verb.social:lay_on_the_line
+
+w: arriscar[2]
+d: @en_take a risk in the hope of a favorable outcome
+fs: 26
+hyper: @en_go_for_broke
+hyper: @en_luck_it
+hypo: procurar
+sa: @en:verb.social:chance
+
+w: arruinar
+w: borrar
+w: fazer_besteira
+w: fazer_às_pressas
+w: ferrar
+w: foder_tudo
+w: meter_os_pés_pelas_mãos
+d: fazer uma bagunça, destruir ou danificar
+fs: 2 8
+hypo: fracassar
+sa: @en:verb.social:ball_up
+
+w: assalariar
+w: contratar
+w: empregar
+w: tomar_a_serviço
+d: contratar para trabalhar
+fs: 9
+hyper: verb.communication:@en_featherbed
+hyper: @en_engage
+hyper: @en_fill
+hyper: @en_rat[1]
+hyper: @en_ship
+hyper: contratar[2]
+hyper: subcontratar
+sa: @en:verb.social:employ
+
+w: assassinar
+w: despachar
+w: matar
+d: matar intencionalmente e com premeditação
+fs: 9
+hyper: @en_burke
+hyper: justiçar
+hypo: verb.contact:matar[1]
+sa: @en:verb.social:bump_off
+
+w: assassinar[1]
+d: @en_murder; especially of socially prominent persons
+fs: 9
+hypo: verb.contact:matar[1]
+sa: @en:verb.social:assassinate
+
+w: assediar
+w: molestar
+d: assediar ou agredir sexualmente; fazer avanços indecentes para
+fs: 9
+hypo: verb.competition:assaltar
+sa: @en:verb.social:molest
+
+w: assinar
+w: ratificar
+d: @en_approve and express assent, responsibility, or obligation
+fs: 8
+entail: verb.communication:endossar
+hypo: validar
+sa: @en:verb.social:ratify
+
+w: assistir[3]
+w: espionar
+w: guardar
+w: mirar
+w: observar
+w: olhar
+w: ver
+d: @en_follow with the eyes or the mind
+fs: 8 9 11
+hyper: @en_invigilate
+hyper: @en_keep_tabs_on
+hyper: custodiar
+hypo: verb.cognition:checar[3]
+sa: @en:verb.social:keep_an_eye_on
+vg: verb.cognition:seguir
+
+w: associar
+d: @en_keep company with; hang out with
+fs: 22
+hyper: @en_ally
+hyper: sair_com
+hyper: verb.stative:fazer_companhia
+hypo: interagir
+sa: @en:verb.social:affiliate[12]
+
+w: associar-se[2]
+d: @en_bring or come into association or action
+fs: 1 2 8 9
+hyper: @en_walk
+hypo: unificar
+sa: @en:verb.social:associate
+
+w: assumir
+d: assumir títulos, cargos, deveres, responsabilidades
+fs: 8
+hyper: reassumir
+hypo: @en_take_office
+sa: @en:verb.social:assume
+
+w: assumir_controle
+d: assumir o controle de
+fs: 8 9 10 11
+hypo: @en_take_charge
+sa: @en:verb.social:move_in_on
+
+w: atacar
+w: atentar
+w: estuprar
+w: violentar
+d: @en_force (someone) to have sex against their will
+fs: 9
+hyper: @en_gang-rape
+hypo: verb.competition:assaltar
+sa: @en:verb.social:outrage
+
+w: aterrorizar
+d: coagir por violência ou com ameaças
+fs: 9
+hypo: compelir
+sa: @en:verb.social:terrorise
+
+w: atingir
+w: conseguir
+w: ser_bem_sucedido
+w: suceder
+d: alcançar sucesso ou alcançar um objetivo desejado
+fs: 1 2 22 28
+entail: procurar
+hyper: verb.competition:atingir
+hyper: @en_pan_out
+hyper: @en_pass
+hyper: @en_run
+hyper: alcançar
+hyper: chegar_a
+hyper: conseguir[2]
+hyper: dar_sorte
+hyper: funcionar
+hyper: negociar
+hyper: passar[2]
+sa: @en:verb.social:bring_home_the_bacon
+
+w: atingir[1]
+w: chegar_a
+w: efectuar
+w: efetuar
+w: obter
+w: realizar
+d: obter com esforço
+fs: 8 11 26
+hyper: verb.competition:@en_score[1]
+hyper: verb.motion:atingir
+hyper: @en_average
+hyper: @en_compass
+hyper: atingir[4]
+hyper: chegar
+hyper: começar[4]
+hyper: culminar
+hypo: atingir
+sa: @en:verb.social:accomplish
+
+w: atingir[2]
+w: conseguir[1]
+w: negociar
+d: ser bem sucedido; atingir um objetivo
+fs: 8
+hypo: atingir
+sa: @en:verb.social:bring_off
+
+w: atingir[3]
+w: chegar
+d: @en_attain
+fs: 8 11
+hypo: chegar_a
+sa: @en:verb.social:come_to
+
+w: atingir[4]
+w: obter[1]
+d: @en_achieve something by means of trickery or devious methods
+fs: 2 14
+hypo: chegar_a
+sa: @en:verb.social:finagle
+
+w: atrair
+w: engodar
+w: seduzir
+d: @en_lure or entrap with or as if with a decoy
+fs: 9
+hypo: verb.communication:engodar
+sa: @en:verb.social:decoy
+
+w: atraiçoar
+w: trair
+d: @en_deliver to an enemy by treachery
+fs: 8 9
+hyper: @en_double_cross
+hypo: enganar
+sa: @en:verb.social:betray
+vg: verb.possession:vender[1]
+
+w: atrapalhar
+w: bloquear
+w: obstaculizar
+w: obstruir
+w: tolher
+d: @en_hinder or prevent the progress or accomplishment of
+fs: 8 11
+hyper: verb.communication:@en_stonewall
+hyper: @en_bottleneck
+hyper: @en_check[1]
+hyper: @en_filibuster
+hyper: @en_hang[1]
+hypo: impossibilitar
+sa: @en:verb.social:block
+
+w: atrapalhar[1]
+w: entravar
+w: estorvar
+w: evitar
+w: impedir
+w: reter
+d: @en_be a hindrance or obstacle to
+fs: 9 10 11
+hyper: verb.contact:barrar
+hyper: @en_hobble
+hyper: @en_set_back
+hyper: @en_stunt
+hyper: inibir[1]
+hyper: interferir
+hypo: atrapalhar[2]
+sa: @en:verb.social:impede
+
+w: atrapalhar[2]
+w: evitar[1]
+w: impedir[1]
+d: @en_stop (someone or something) from doing something or being in a certain state
+fs: 20 21
+hyper: verb.competition:defender[2]
+hyper: @en_blank
+hyper: @en_hold
+hyper: @en_keep_away
+hyper: @en_rain_out
+hyper: entravar
+hyper: excluir
+sa: @en:verb.social:prevent
+vg: verb.contact:@en_keep
+
+w: atrelar
+d: controlar e direcionar com ou como se por rédeas
+fs: 8
+hypo: governar[3]
+sa: @en:verb.social:draw_rein
+
+w: atrever
+w: atrever-se
+w: ousar
+d: ser corajoso o suficiente para tentar ou fazer algo
+fs: 2 32
+hypo: agir
+sa: @en:verb.social:dare[1]
+
+w: atrever[1]
+w: atrever-se[1]
+w: ousar[1]
+d: @en_take upon oneself; act presumptuously, without permission
+fs: 32
+hypo: agir
+sa: @en:verb.social:dare
+
+w: autorizar
+d: @en_give the right to
+fs: 24
+hypo: autorizar[2]
+sa: @en:verb.social:entitle
+
+w: autorizar[1]
+w: certificar
+w: licenciar
+d: autorizar oficialmente
+fs: 8 9 24
+entail: verb.communication:deferir
+hyper: @en_charter
+hyper: credenciar
+hyper: franquiar
+hypo: verb.communication:autorizar
+sa: @en:verb.social:licence
+
+w: autorizar[2]
+d: @en_give or delegate power or authority to
+fs: 9
+hyper: @en_sanction
+hyper: autorizar
+hypo: nomear[2]
+sa: @en:verb.social:authorise
+
+w: avançar
+w: promover
+d: @en_give a promotion to or assign to a higher position
+fs: 9
+hyper: @en_brevet
+hyper: @en_bring_up
+hyper: @en_spot_promote
+hyper: @en_tenure
+hyper: enobrecer
+hyper: favorecer
+hypo: delegar
+sa: @en:verb.social:advance
+
+w: aventurar[1]
+w: embarcar
+d: @en_proceed somewhere despite the risk of possible dangers
+fs: 4 22
+hypo: proceder
+sa: @en:verb.social:embark
+
+w: aviltar
+w: corromper
+w: depravar
+w: desvirtuar
+w: perverter
+w: subverter
+w: viciar
+d: corromper moralmente ou por intemperança ou sensualidade
+fs: 9 10
+hyper: verb.change:@en_carnalise
+hyper: @en_infect
+hyper: @en_lead_astray
+hyper: @en_suborn
+hyper: abastardar
+hyper: envenenar
+hypo: verb.change:alterar[2]
+sa: @en:verb.social:corrupt
+
+w: azarar
+w: galantear
+w: namorar
+d: @en_make amorous advances towards
+fs: 9
+hyper: @en_chase
+hyper: @en_display
+hypo: agir
+sa: @en:verb.social:court
+
+w: açambarcar
+w: monopolizar
+d: ter e controlar totalmente e exclusivamente
+fs: 8
+hypo: governar[3]
+sa: @en:verb.social:monopolise
+
+w: balcanizar
+d: @en_divide a territory into small, hostile states
+fs: 8
+hypo: dividir
+sa: @en:verb.social:Balkanise
+
+w: banir
+w: escorraçar
+w: ostracizar
+d: expulsar de uma comunidade ou grupo
+fs: 9
+hypo: expulsar[5]
+sa: @en:verb.social:blackball
+
+w: banir[1]
+w: escorraçar[1]
+w: expulsar
+d: proibir ficar no lugar de residência, como punição
+fs: 9
+hyper: @en_rusticate
+hypo: expulsar[5]
+sa: @en:verb.social:ban[2]
+
+w: banir[2]
+w: exilar
+w: expulsar[1]
+d: @en_expel, as if by official decree
+fs: 9 20
+hyper: @en_spike
+hypo: expulsar[5]
+sa: @en:verb.social:banish
+
+w: banir[3]
+w: degredar
+w: deportar
+w: desterrar
+w: exilar[1]
+w: expatriar
+w: expulsar[2]
+d: expulsar do país
+fs: 9
+hypo: expulsar[5]
+sa: @en:verb.social:deport
+
+w: batalhar
+w: guerrear
+w: lidar[1]
+w: pelejar
+d: @en_make a strenuous or labored effort
+fs: 22
+hyper: @en_flounder
+hyper: esforçar[1]
+hypo: procurar
+sa: @en:verb.social:fight
+
+w: boicotar ant patrocinar
+d: @en_refuse to sponsor; refuse to do business with
+fs: 8
+hypo: marginalizar[1]
+sa: @en:verb.social:boycott
+
+w: brincar
+w: folgar
+w: jogar
+d: se comportar descuidadamente ou indiferentemente
+fs: 2 22
+hypo: agir
+sa: @en:verb.social:dally
+vg: verb.cognition:brincar
+
+w: brincar[1]
+w: jogar[1]
+d: @en_be at play; be engaged in playful activity; amuse oneself in a way characteristic of children
+fs: 2
+hyper: verb.cognition:brincar_de_brigar
+hyper: verb.communication:brincar
+hyper: verb.motion:bagunçar
+hyper: @en_dabble
+hypo: @en_act
+sa: @en:verb.social:play[3]
+vg: @en_play
+
+w: burlar
+w: ludibriar
+w: mistificar
+d: @en_subject to a playful hoax or joke
+fs: 9
+hypo: enganar
+sa: @en:verb.social:hoax
+
+w: cacetear
+d: forçar ou coagir como se estivesse usando um cacete
+fs: 30
+hypo: compelir
+sa: @en:verb.social:bludgeon
+
+w: cair
+w: perder
+d: perder a castidade
+fs: 2
+hyper: @en_fall
+sa: @en:verb.social:fall[15]
+vg: @en_fall
+
+w: cair[1]
+d: sofrer derrota, falha ou ruína
+fs: 2
+hypo: fracassar
+sa: @en:verb.social:fall[2]
+
+w: calotear
+w: defraudar
+w: estafar
+w: fraudar
+w: trapacear
+d: @en_deprive of by deceit
+fs: 9 20
+hyper: @en_short
+hypo: calotear[1]
+sa: @en:verb.social:bunco
+
+w: calotear[1]
+w: defraudar[1]
+w: trapacear[1]
+d: @en_deprive somebody of something by deceit
+fs: 2 9 18
+entail: enganar
+hyper: verb.possession:@en_cozen
+hyper: verb.possession:@en_gazump
+hyper: verb.possession:roubar[5]
+hyper: @en_beguile
+hyper: @en_welch
+hyper: @en_whipsaw
+hyper: calotear
+hyper: charlatanear
+hyper: dar_calote
+hypo: @en_victimise
+sa: @en:verb.social:cheat
+
+w: cancelar[2]
+d: @en_cancel (a debt)
+fs: 8
+hypo: cancelar
+sa: @en:verb.social:write_off
+
+w: cancelar[3]
+d: @en_postpone indefinitely or annul something that was scheduled
+fs: 8
+entail: verb.communication:agendar
+sa: @en:verb.social:call_off
+
+w: capitanear
+d: ser o líder de
+fs: 8
+hypo: comandar
+sa: @en:verb.social:spearhead
+
+w: casar
+w: casar-se
+w: esposar
+w: juntar
+d: tomar em casamento
+fs: 9
+hyper: @en_inmarry
+hyper: @en_intermarry
+hyper: @en_mismarry
+hyper: @en_wive
+hyper: @en_wive[1]
+hyper: recasar
+hypo: unificar
+sa: @en:verb.social:conjoin
+vg: casar[1]
+
+w: casar[1]
+d: @en_perform a marriage ceremony
+fs: 9
+hyper: @en_solemnise[1]
+hypo: oficiar
+sa: @en:verb.social:splice
+vg: casar
+
+w: castigar
+w: penalizar
+w: punir
+d: @en_impose a penalty on; inflict punishment on
+fs: 9
+entail: verb.cognition:chutar
+hyper: verb.competition:desagravar
+hyper: verb.contact:@en_tar-and-feather
+hyper: @en_amerce
+hyper: @en_pillory[1]
+hyper: @en_scourge
+hyper: castigar[1]
+hyper: disciplinar
+hyper: executar[1]
+hyper: vitimizar
+sa: @en:verb.social:penalise
+
+w: castigar[1]
+d: @en_inflict severe punishment on
+fs: 9 10
+hypo: castigar
+sa: @en:verb.social:castigate
+
+w: celebrar
+d: @en_assign great social importance to
+fs: 9
+hypo: homenagear
+sa: @en:verb.social:lionise
+
+w: celebrar[1]
+w: curtir
+d: festejar ruidosamente, muitas vezes exagerando na bebida; envolver-se em  festividades barulhentas
+fs: 2
+hyper: @en_carouse
+hypo: celebrar[3]
+sa: @en:verb.social:jollify
+
+w: celebrar[2]
+w: festejar
+w: solenizar
+d: @en_behave as expected during of holidays or rites
+fs: 8
+hyper: verb.cognition:comemorar
+hyper: verb.emotion:enlutar
+hyper: @en_solemnise
+sa: @en:verb.social:celebrate[1]
+
+w: celebrar[3]
+d: @en_have a celebration
+fs: 2 8 9
+hyper: @en_jubilate
+hyper: @en_receive
+hyper: curtir
+hyper: festar
+hypo: encontrar
+sa: @en:verb.social:celebrate
+
+w: censurar
+w: embargar
+d: proibir a publicação de (documentos), por razões de segurança ou direitos autorais
+fs: 8 11
+hypo: proibir[1]
+sa: @en:verb.social:embargo[1]
+
+w: chantagear
+w: pressionar
+d: @en_exert pressure on someone through threats
+fs: 9
+hypo: influenciar
+sa: @en:verb.social:blackjack
+
+w: charlatanear
+w: fazer_charlatanismo
+d: @en_cheat somebody out of what is due, especially money
+fs: 9 18
+hypo: calotear[1]
+sa: @en:verb.social:bilk
+
+w: checar
+w: testar
+d: @en_test or examine for the presence of disease or infection
+fs: 8 9
+hypo: comprovar
+sa: @en:verb.social:screen[1]
+
+w: chefiar
+w: controlar
+w: inspecionar
+w: manejar
+w: supervisar
+w: supervisionar
+d: inspecionar e dirigir
+fs: 8 9
+hyper: @en_build
+hypo: administrar
+sa: @en:verb.social:oversee
+
+w: civilizar
+w: educar
+d: @en_teach or refine to be discriminative in taste or judgment
+fs: 8 9
+hyper: sofisticar
+hypo: verb.change:lustrar
+sa: @en:verb.social:civilise
+
+w: classificar
+d: @en_declare unavailable, as for security reasons
+fs: 8
+hypo: restringir
+sa: @en:verb.social:classify
+
+w: cobrir
+d: @en_to take an action to protect against future problems
+fs: 9
+hypo: verb.competition:defender
+sa: @en:verb.social:cover[1]
+vg: verb.communication:proteger
+
+w: coibir
+w: conter
+w: deter
+w: entravar[1]
+w: moderar
+w: serenar
+d: @en_keep under control; keep in check
+fs: 9 20
+hyper: verb.body:prender
+hyper: verb.contact:@en_confine
+hyper: limitar
+hypo: inibir
+sa: @en:verb.social:hold_back
+
+w: colaborar
+w: cooperar
+w: entender_se
+w: juntar_forças
+d: @en_work together on a common enterprise of project
+fs: 2 22
+hyper: @en_collaborate
+hyper: @en_go_along
+hypo: trabalhar[3]
+sa: @en:verb.social:collaborate
+vg: @en_collaborate
+
+w: coligar
+w: confederar
+d: formar uma confederação
+fs: 22
+hypo: unificar
+sa: @en:verb.social:confederate[10]
+
+w: colocar_na_lista_negra
+d: @en_put on a blacklist so as to banish or cause to be boycotted
+fs: 9
+hypo: incluir_numa_lista
+sa: @en:verb.social:blacklist
+
+w: colonizar ant descolonizar
+d: @en_settle as a colony; of countries in the developing world
+fs: 8
+hypo: verb.possession:@en_annex
+sa: @en:verb.social:colonise
+
+w: colorir
+w: matizar
+d: @en_modify or bias
+fs: 11
+hypo: influenciar
+sa: @en:verb.social:color
+
+w: comandar
+w: dirigir
+w: encabeçar
+w: gerir[1]
+w: liderar
+d: @en_be in charge of
+fs: 8
+hyper: @en_captain
+hyper: @en_chair
+hyper: @en_take_charge
+hyper: capitanear
+hypo: conduzir[3]
+sa: @en:verb.social:head
+
+w: combinar
+d: @en_join for a common purpose or in a common action
+fs: 1 2 4 22
+hyper: @en_summate
+hypo: interagir
+sa: @en:verb.social:combine
+
+w: cometer
+w: perpetrar
+d: realizar um ato, geralmente com uma conotação negativa
+e: Cometer um crime
+fs: 8
+hyper: @en_recommit
+hyper: fazer[3]
+hypo: agir
+sa: @en:verb.social:commit
+
+w: começar[1]
+d: começar um evento que é implícito e limitado pela natureza ou função inerente do objeto direto
+fs: 8
+hypo: agir
+sa: @en:verb.social:begin[4]
+vg: verb.stative:começar
+
+w: começar[2]
+d: @en_begin work or acting in a certain capacity, office or job
+fs: 8
+hyper: @en_take_office
+sa: @en:verb.social:start
+
+w: começar[3]
+d: @en_begin to deal with
+fs: 33
+hyper: verb.communication:defrontar
+hypo: agir
+sa: @en:verb.social:approach
+
+w: começar[4]
+d: @en_achieve or accomplish in the least degree, usually used in the negative
+fs: 11
+hypo: chegar_a
+sa: @en:verb.social:begin
+
+w: comparticipar
+w: participar
+w: tomar_parte
+d: compartilhar  algo
+fs: 2 22
+hyper: @en_partake_in
+hypo: agir
+sa: @en:verb.social:participate
+
+w: compelir
+w: forçar[1]
+w: obrigar
+d: @en_to cause to do through pressure or necessity, by physical, moral or intellectual means :"She forced him to take a job in the city"
+fs: 24 30
+cause: agir
+hyper: @en_bring_oneself
+hyper: @en_dragoon
+hyper: @en_drive[1]
+hyper: @en_squeeze_for
+hyper: @en_steamroll
+hyper: @en_turn_up_the_heat
+hyper: aterrorizar
+hyper: cacetear
+hypo: constranger
+sa: @en:verb.social:coerce
+
+w: compelir[1]
+w: constranger
+w: forçar[2]
+w: obrigar[1]
+d: @en_force somebody to do something
+fs: 24
+cause: agir
+hyper: verb.communication:@en_force
+hyper: verb.motion:@en_walk[1]
+hyper: @en_clamor
+hyper: @en_condemn
+hyper: compelir
+hyper: envergonhar
+hyper: forçar
+hyper: impor
+hypo: verb.communication:induzir
+sa: @en:verb.social:compel
+
+w: compensar
+w: corrigir
+d: @en_make reparations or amends for
+fs: 8 9
+hyper: @en_over-correct
+hyper: redimir[2]
+hypo: verb.change:alterar[2]
+sa: @en:verb.social:compensate
+
+w: comportar
+w: comportar-se
+w: portar-se_bem
+d: @en_behave well or properly
+fs: 2
+hyper: @en_walk[1]
+hyper: impor-se
+hyper: lembrar_quem_você_é
+hypo: agir
+sa: @en:verb.social:behave
+
+w: comportar-se[1]
+w: conduzir
+w: resistir
+d: @en_behave in a certain manner
+fs: 9
+hyper: verb.emotion:confundir
+hyper: @en_deal[1]
+hyper: @en_pose
+hyper: @en_walk_around[1]
+hyper: fazer-se_ouvir
+hypo: verb.contact:portar
+hypo: agir
+sa: @en:verb.social:acquit
+
+w: comprovar
+d: @en_make an examination or investigation
+fs: 22
+hyper: @en_breathalyse
+hyper: @en_countercheck[1]
+hyper: checar
+hypo: verb.perception:inspecionar
+sa: @en:verb.social:check[4]
+
+w: comutar
+w: permutar
+w: trocar
+d: @en_hand over one and receive another, approximately equivalent
+fs: 9
+hyper: @en_alternate
+hypo: redesignar
+sa: @en:verb.social:exchange
+
+w: condecorar
+d: atribuição de uma marca de honra, como uma medalha, para
+fs: 9
+hypo: honrar[1]
+sa: @en:verb.social:decorate
+
+w: condescender
+w: descer
+d: fazer algo que se considera estar abaixo da dignidade
+fs: 28
+hypo: agir
+sa: @en:verb.social:condescend
+
+w: condescender[1]
+d: tratar com condescendência
+e: GLOSS_: se comportar de forma condescendente
+fs: 22 28
+hypo: agir
+sa: @en:verb.social:condescend[1]
+
+w: conduzir[1]
+w: dirigir[1]
+w: governar
+w: guiar
+w: lidar[2]
+d: @en_be in charge of, act on, or dispose of
+fs: 8 9 11
+hyper: @en_come_to_grips
+hyper: @en_juggle[1]
+hyper: @en_touch
+hyper: @en_work[2]
+hyper: administrar
+hyper: conduzir[2]
+hyper: conduzir[3]
+hyper: coordenar
+hyper: cuidar
+hyper: dispor_de
+hyper: gerenciar_mal
+hyper: organizar[2]
+hyper: processar[2]
+hypo: governar[3]
+sa: @en:verb.social:handle
+
+w: conduzir[2]
+w: lidar[3]
+d: dirigir o curso de; gerenciar ou controlar
+fs: 8
+hyper: @en_racketeer
+hypo: governar
+sa: @en:verb.social:carry_on
+
+w: conduzir[3]
+w: dirigir[2]
+d: ser responsável por
+fs: 8 9
+cause: agir
+hyper: verb.creation:@en_have
+hyper: @en_administer
+hyper: comandar
+hyper: encaminhar
+hyper: operar
+hypo: governar
+sa: @en:verb.social:direct
+
+w: conduzir[4]
+w: encaminhar
+w: gerir[2]
+w: guiar[1]
+d: ser uma força motivadora ou orientadora
+fs: 8 9 10 11
+hypo: conduzir[3]
+sa: @en:verb.social:guide
+
+w: conduzir[5]
+w: guiar[2]
+d: @en_watch over like a shepherd, as a teacher of her pupils
+fs: 8 9
+hypo: verb.competition:guardar
+sa: @en:verb.social:shepherd[1]
+
+w: conduzir[6]
+d: @en_carry on (wars, battles, or campaigns)
+fs: 22
+hyper: oferecer[1]
+hypo: verb.competition:debater-se
+sa: @en:verb.social:wage
+
+w: confinar
+w: deter[1]
+w: prender[1]
+d: @en_deprive of freedom; take into confinement
+fs: 9
+hyper: verb.contact:@en_keep
+hyper: verb.contact:@en_straiten
+hyper: @en_bind_over
+hyper: @en_keep_in
+hyper: aprisionar
+hyper: aprisionar[1]
+hyper: aprisionar[2]
+hyper: emprisionar
+hyper: prender_em_uma_gaiola
+sa: @en:verb.social:confine
+
+w: confirmar
+d: @en_support a person for a position
+fs: 8 9 10 11
+hypo: verb.communication:deferir
+sa: @en:verb.social:confirm[1]
+
+w: conhecer
+d: @en_get to know; get acquainted with
+fs: 2 9
+sa: @en:verb.social:meet[3]
+
+w: conivir
+d: @en_encourage or assent to illegally or criminally
+fs: 8
+hypo: verb.communication:aquiescer
+sa: @en:verb.social:connive[12]
+
+w: consagrar
+w: ordenar
+w: sagrar
+d: nomear para um posto clerical
+fs: 9 20
+hypo: entronar[1]
+sa: @en:verb.social:consecrate
+
+w: conseguir[2]
+d: ter sucesso na obtenção de uma posição
+fs: 8
+hypo: atingir
+sa: @en:verb.social:nail_down
+
+w: consultar
+w: ver[1]
+w: visitar
+d: Ver por razões profissionais ou de negócios
+e: Você deveria ver um médico.
+fs: 9
+hypo: @en_call_in
+sa: @en:verb.social:see[11]
+vg: verb.contact:@en_see
+
+w: continuar
+w: engajar
+w: prosseguir
+d: realizar ou participar de uma atividade; estar envolvido em
+fs: 2 8
+hyper: @en_close
+hyper: @en_politick
+hyper: praticar[2]
+hypo: agir
+sa: @en:verb.social:pursue
+
+w: contrabalancear
+w: neutralizar
+d: opor-se e atenuar os efeitos das ações contrárias
+fs: 8
+hyper: @en_override
+hypo: verb.stative:compensar[1]
+sa: @en:verb.social:counterbalance
+
+w: contrariar
+w: desconcertar
+w: frustrar
+d: @en_hinder or prevent (the efforts, plans, or desires) of
+fs: 8 11
+hyper: verb.emotion:decepcionar
+hyper: @en_dash
+hyper: @en_ruin
+hyper: @en_short-circuit
+hypo: impossibilitar
+sa: @en:verb.social:baffle
+
+w: contratar[1]
+d: @en_assign to (a job or a home)
+fs: 20
+hypo: delegar
+sa: @en:verb.social:place
+
+w: contratar[2]
+w: empregar[1]
+d: @en_engage by written agreement
+fs: 9
+hyper: @en_contract_out
+hypo: assalariar
+sa: @en:verb.social:contract
+
+w: controlar[1]
+w: limitar
+w: refrear
+d: @en_lessen the intensity of; temper; hold in restraint; hold or keep within limits
+fs: 8 11
+hyper: verb.change:_reprimir
+hyper: verb.change:conter
+hyper: verb.change:desanimar[1]
+hyper: verb.emotion:subjugar
+hyper: verb.possession:@en_abnegate
+hyper: @en_bate
+hyper: @en_catch
+hyper: @en_counteract
+hyper: @en_thermostat
+hyper: @en_train[1]
+hyper: restringir
+hypo: coibir
+sa: @en:verb.social:contain
+
+w: controlar[2]
+d: ganhar o controle sobre
+fs: 8
+hypo: governar[3]
+sa: @en:verb.social:corner
+
+w: convencer
+w: persuadir
+d: @en_win approval or support for
+fs: 9 10
+hypo: influenciar
+sa: @en:verb.social:persuade
+vg: verb.competition:levar
+
+w: convidar
+d: @en_invite someone to one's house
+fs: 9
+hypo: verb.communication:pedir[6]
+sa: @en:verb.social:ask_over
+vg: verb.contact:convidar
+
+w: coordenar
+d: @en_bring into common action, movement, or condition
+fs: 8 9 10 11
+hypo: governar
+sa: @en:verb.social:coordinate
+
+w: coordenar[1]
+d: @en_be co-ordinated
+fs: 1
+hypo: verb.stative:@en_fit
+sa: @en:verb.social:coordinate[1]
+
+w: correr
+d: Trabalhar o mais rápido possível para um objetivo, às vezes em concorrência com outros
+e: Estamos correndo para encontrar uma cura para a Aids
+fs: 28
+hypo: agir
+sa: @en:verb.social:race[3]
+
+w: corrigir[1]
+w: disciplinar
+d: @en_punish in order to gain control or enforce obedience
+fs: 9
+hypo: castigar
+sa: @en:verb.social:correct
+
+w: cortejar
+w: galantear[1]
+d: @en_seek someone's favor
+fs: 8 9 10 11
+sa: @en:verb.social:court[1]
+
+w: costumar
+d: habitualmente fazer algo (usar somente no tempo passado)
+e: Eles costumavam passar férias nas Bahamas
+e: Eu costumava ficar doente quando eu comia naquele  refeitório
+fs: 28
+hypo: agir
+sa: @en:verb.social:use[3]
+
+w: craquear
+d: obter acesso não-autorizado a computadores com intenções maliciosas
+fs: 8
+hypo: invadir
+sa: @en:verb.social:crack
+
+w: credenciar
+w: reconhecer
+d: @en_grant credentials to
+fs: 8 9
+hypo: certificar
+sa: @en:verb.social:accredit
+
+w: criar
+d: @en_bring up under fosterage; of children
+fs: 9
+hypo: criar[1]
+sa: @en:verb.social:foster[1]
+
+w: criar[1]
+d: @en_bring up
+fs: 9
+cause: @en_grow_up
+hyper: @en_cradle
+hyper: @en_fledge
+hyper: criar
+sa: @en:verb.social:bring_up
+
+w: criminalizar
+w: proscrever
+d: declarar ilegal; fora da lei
+fs: 8
+hyper: proibir[1]
+hypo: verb.communication:proscrever
+sa: @en:verb.social:criminalise
+
+w: criminalizar[1]
+d: @en_treat as a criminal
+fs: 9 10
+hypo: tratar[2]
+sa: @en:verb.social:criminalize[2]
+
+w: crismar
+d: @en_administer the rite of confirmation to
+fs: 9
+hypo: @en_covenant
+mt: noun.group:igreja
+sa: @en:verb.social:confirm
+
+w: crucificar
+d: @en_kill by nailing onto a cross
+fs: 9
+hypo: executar[1]
+sa: @en:verb.social:crucify
+
+w: cuidar
+w: tomar_conta
+w: tratar
+d: @en_be in charge of or deal with
+fs: 8 9
+hyper: gerenciar[2]
+hypo: governar
+sa: @en:verb.social:mind[1]
+
+w: cuidar[1]
+d: @en_serve as a nurse; care for sick or handicapped people
+fs: 9
+hypo: tutelar
+sa: @en:verb.social:nurse
+
+w: cuidar[2]
+d: @en_have care of or look after
+fs: 20 21
+hyper: verb.creation:jardinar
+hyper: @en_shepherd
+hypo: providenciar
+sa: @en:verb.social:tend
+
+w: cuidar[3]
+w: tutelar
+w: zelar
+d: @en_provide care for
+fs: 22
+hyper: verb.consumption:criar
+hyper: cuidar[1]
+hyper: paparicar
+hyper: providenciar
+hypo: acorrer
+sa: @en:verb.social:give_care
+
+w: cuidar[4]
+w: providenciar
+d: @en_take charge of or deal with
+fs: 22
+hyper: cuidar[2]
+hyper: ministrar[1]
+hypo: tutelar
+sa: @en:verb.social:attend[12]
+
+w: culminar
+d: @en_reach the highest or most decisive point
+fs: 4 22
+hypo: chegar_a
+sa: @en:verb.social:culminate
+
+w: cumprir
+w: desempenhar
+w: realizar[1]
+d: @en_get (something) done
+fs: 8 9
+hyper: @en_misdo
+hyper: @en_overachieve
+hyper: @en_ply
+hyper: @en_turn
+hyper: @en_underachieve
+hyper: fazer_o_seu_melhor
+hypo: verb.creation:atingir
+sa: @en:verb.social:perform
+
+w: cumprir[1]
+d: @en_complete or carry out
+fs: 8
+hypo: verb.creation:atingir
+sa: @en:verb.social:complete
+
+w: custodiar
+d: @en_to keep watch over
+fs: 8 9
+hyper: @en_baby-sit
+hyper: @en_baby-sit[1]
+hyper: estar_de_sentinela
+hyper: patrulhar
+hypo: espionar
+sa: @en:verb.social:guard
+
+w: dar-se_ao_trabalho_de
+w: empenhar
+w: empenhar-se_em
+w: esforçar
+w: esforçar-se
+w: perseguir
+w: tentar
+d: tentar, empregando esforço
+e: Nos empenhamos em fazer  nossos clientes satisfeitos
+fs: 28
+hyper: verb.contact:lutar[2]
+hyper: esforçar_se
+hyper: ralar[1]
+hypo: procurar
+sa: @en:verb.social:endeavor
+
+w: dar_calote
+d: @en_avoid paying
+fs: 8
+hypo: calotear[1]
+sa: @en:verb.social:bunk
+
+w: dar_sorte
+d: suceder por sorte
+fs: 2
+hypo: atingir
+sa: @en:verb.social:hit_the_jackpot
+
+w: debandar
+w: disparar
+d: agir, geralmente em massa, às pressas ou por um impulso
+fs: 2
+hypo: agir
+sa: @en:verb.social:stampede
+
+w: declarar
+d: autorizar pagamentos de
+e: declarar dividendos
+fs: 8
+hypo: verb.communication:autorizar
+sa: @en:verb.social:declare
+
+w: decretar
+w: ordenar[1]
+w: promulgar
+d: @en_order by virtue of superior authority; decree
+fs: 8 26
+hyper: legislar
+hyper: redecretar
+hypo: verb.communication:decretar
+sa: @en:verb.social:enact
+
+w: defazer
+w: recalcar
+w: reprimir
+w: subjugar
+d: @en_put down by force or intimidation
+fs: 8 9 10
+hypo: oprimir
+sa: @en:verb.social:keep_down
+
+w: deixar
+w: permitir
+w: possibilitar
+d: @en_make it possible through a specific action or lack of action for something to happen
+fs: 25 35
+hyper: @en_pass[1]
+sa: @en:verb.social:allow
+
+w: delegar
+d: @en_give an assignment to (a person) to a post, or assign a task to (a person)
+fs: 14 15 20
+hyper: verb.communication:@en_mandate[1]
+hyper: verb.creation:eleger
+hyper: @en_cast
+hyper: @en_mandate
+hyper: @en_place
+hyper: @en_post[1]
+hyper: @en_task
+hyper: arregimentar[2]
+hyper: avançar
+hyper: contratar[1]
+hyper: demover
+hyper: deputar
+hyper: passar
+hyper: redesignar
+hypo: nomear[2]
+sa: @en:verb.social:assign
+
+w: delegar[1]
+w: deputar
+d: @en_transfer power to someone
+fs: 15
+hypo: delegar
+sa: @en:verb.social:depute
+
+w: delegar[2]
+w: passar
+d: passar ou delegar para outro
+fs: 15
+hypo: delegar
+sa: @en:verb.social:devolve[2]
+
+w: demitir
+w: desempregar
+w: despedir
+w: destituir
+d: terminar o emprego de; demitir de um cargo ou posição
+fs: 9 24
+hyper: @en_clean_out
+hyper: @en_pension_off
+hyper: @en_squeeze_out
+hyper: aposentar[1]
+hyper: despedir[1]
+hyper: despedir[2]
+hypo: remover
+sa: @en:verb.social:can
+
+w: demitir[1]
+w: remover
+d: remover de uma posição ou um escritório
+fs: 9
+hyper: @en_bench
+hyper: @en_drop
+hyper: @en_invalid
+hyper: @en_pull_off
+hyper: @en_unseat
+hyper: @en_winkle_out
+hyper: demitir
+hyper: enxotar
+sa: @en:verb.social:remove
+
+w: demitir-se[1]
+w: exonerar-se
+w: renunciar[2]
+w: resignar[1]
+d: sair voluntariamente de um emprego, posto ou posição
+fs: 8
+hyper: abdicar
+hypo: abandonar
+sa: @en:verb.social:renounce
+
+w: democratizar
+d: @en_become (more) democratic; of nations
+fs: 8
+hypo: verb.change:alterar[3]
+sa: @en:verb.social:democratise
+
+w: democratizar[1]
+d: @en_introduce democratic reforms; of nations
+fs: 1
+hypo: verb.change:alterar[2]
+sa: @en:verb.social:democratise[1]
+
+w: demover
+w: despromover
+w: relegar
+d: atribuir a uma posição inferior; reduzir no rank
+fs: 9 21
+hyper: @en_reduce
+hyper: @en_sideline
+hypo: delegar
+sa: @en:verb.social:bump
+
+w: denunciar
+w: estigmatizar
+d: @en_to accuse or condemn or openly or formally or brand as disgraceful
+fs: 8 9
+hypo: verb.communication:classificar
+sa: @en:verb.social:brand
+
+w: deportar[1]
+w: extraditar
+d: @en_hand over to the authorities of another country
+fs: 9
+hyper: @en_repatriate
+hypo: expulsar[5]
+sa: @en:verb.social:deliver
+
+w: derribar
+w: derrubar
+w: revirar
+w: subverter[1]
+d: causar a queda de; dos governantes
+fs: 8 9
+hyper: revolucionar
+hypo: @en_depose
+sa: @en:verb.social:bring_down
+
+w: derrubar[1]
+w: expulsar[3]
+w: substituir
+d: remover e substituir
+e: O processador de texto já derrubou a máquina de escrever.
+fs: 8 9
+hypo: sobrepor
+sa: @en:verb.social:oust[1]
+
+w: desacatar
+w: desobedecer ant obedecer[1]
+d: recusar a seguir; ser desobediente
+fs: 8 9
+hyper: @en_sit_in
+hyper: enfraquecer
+hyper: resistir[1]
+hypo: verb.communication:recusar[1]
+sa: @en:verb.social:disobey
+
+w: desavantajar
+w: desfavorecer
+w: prejudicar
+d: colocar em desvantagem; dificultar, prejudicar
+fs: 9 10
+hyper: verb.competition:dificultar
+hyper: prejudicar[1]
+hypo: discriminar
+sa: @en:verb.social:disadvantage
+
+w: descasar
+w: dissociar
+w: separar
+d: partir;  cessar ou quebrar associação com algo
+fs: 22
+hypo: separar-se
+sa: @en:verb.social:disassociate
+
+w: descasar[1]
+w: divorciar
+d: @en_get a divorce; formally terminate a marriage
+fs: 2 9
+entail: casar
+hypo: separar-se
+sa: @en:verb.social:divorce
+
+w: descertificar
+d: @en_cause to be no longer approved or accepted
+fs: 8 9 10 11
+sa: @en:verb.social:decertify
+
+w: descolonizar ant colonizar
+d: @en_grant independence to (a former colony)
+fs: 8
+hypo: emancipar[2]
+sa: @en:verb.social:decolonise
+
+w: desconfortar
+w: incomodar
+d: causar inconveniência ou desconforto para alguem
+fs: 9 10
+hyper: @en_distress
+hypo: verb.change:afetar
+sa: @en:verb.social:discommode
+
+w: desempenhar[1]
+w: ser
+d: comportar-se de uma determinada maneira
+e: desempenhar seguramente
+e: ser safo
+fs: 2 5 7
+hypo: agir
+sa: @en:verb.social:play[2]
+vg: afetar
+
+w: desenraizar
+d: mover (pessoas) à força de sua terra natal para um ambiente novo e estranho
+e: A guerra desenraizou muita gente.
+fs: 9 10
+hypo: verb.motion:@en_displace
+sa: @en:verb.social:deracinate
+
+w: desenrascar
+d: @en_help oneself, often through improvised means
+fs: 9
+hypo: acorrer
+sa: @en:verb.social:bootstrap
+
+w: desfibrilar
+d: @en_stop the fibrillation and restore normal contractions, usually by means of electric shocks
+fs: 8
+hypo: restabelecer[2]
+sa: @en:verb.social:defibrillate
+
+w: desgraçar
+w: desonrar
+d: @en_bring shame or dishonor upon
+fs: 8 9 10 11
+hyper: verb.change:@en_befoul
+sa: @en:verb.social:attaint
+
+w: designar
+w: nomear
+w: propor
+d: @en_put forward; nominate for appointment to an office or for an honor or position
+fs: 9 14
+hyper: verb.communication:propor
+hypo: verb.cognition:selecionar
+sa: @en:verb.social:propose
+
+w: designar[1]
+w: eleger
+w: escolher[1]
+w: nomear[1]
+d: selecionar por  voto para um cargo ou associação
+fs: 9
+hyper: @en_co-opt[1]
+hyper: reeleger
+hypo: verb.cognition:selecionar
+sa: @en:verb.social:elect
+
+w: desorganizar ant organizar[2]
+d: @en_remove the organization from
+fs: 8 11
+sa: @en:verb.social:disorganise
+
+w: despedir[1]
+d: @en_stop associating with
+fs: 9
+hypo: demitir
+sa: @en:verb.social:drop
+vg: @en_drop
+
+w: despedir[2]
+d: @en_dismiss, usually for economic reasons
+fs: 9
+hyper: @en_downsize
+hypo: demitir
+sa: @en:verb.social:furlough
+
+w: desregulamentar
+w: desregular ant regularizar
+d: remover os regulamentos
+fs: 8
+hypo: liberar
+sa: @en:verb.social:deregulate
+
+w: desrespeitar
+d: @en_show a lack of respect for
+fs: 8 9
+hyper: infringir
+hypo: relacionar
+sa: @en:verb.social:disrespect
+
+w: dessacralizar
+w: profanar
+w: violar
+d: violar o caráter sagrado de um lugar ou linguagem
+fs: 8
+hypo: verb.competition:assaltar
+sa: @en:verb.social:desecrate
+
+w: destruir_totalmente
+d: @en_ruin utterly
+fs: 8 9
+hypo: @en_ruin
+sa: @en:verb.social:shipwreck
+
+w: deturpar
+w: falsear
+w: falsificar
+d: @en_tamper, with the purpose of deception
+fs: 8
+hyper: @en_juggle[2]
+hypo: tapear[1]
+sa: @en:verb.social:cook
+
+w: dignificar
+d: @en_confer dignity or honor upon
+fs: 8 10 11
+hypo: honrar[1]
+sa: @en:verb.social:dignify
+
+w: dirigir[3]
+w: gerir[3]
+w: governar[1]
+w: reger
+d: @en_direct or strongly influence the behavior of
+fs: 11
+hypo: governar[3]
+sa: @en:verb.social:govern[1]
+
+w: dirigir[4]
+w: dominar
+w: reger[1]
+d: @en_have dominance or the power to defeat over
+fs: 8 9 10
+hyper: verb.communication:@en_command[1]
+hyper: submeter
+hypo: governar[3]
+sa: @en:verb.social:dominate
+
+w: discriminar
+d: @en_treat differently on the basis of sex or race
+fs: 8 9
+hyper: verb.change:ilhar
+hyper: @en_hive_off
+hyper: @en_redline
+hyper: @en_segregate
+hyper: desavantajar
+hypo: verb.cognition:separar
+sa: @en:verb.social:separate
+
+w: dispensar
+w: isentar
+d: conceder uma dispensa; conceder uma isenção
+e: Eu fui dispensado desta tarefa terrível
+fs: 20
+hypo: liberar
+sa: @en:verb.social:dispense
+
+w: dispensar[1]
+w: liberar
+d: @en_grant relief or an exemption from a rule or requirement to
+fs: 20
+hyper: @en_derestrict
+hyper: desregulamentar
+hyper: dispensar
+hyper: escusar
+hyper: poupar
+sa: @en:verb.social:exempt
+
+w: dispensar[2]
+d: deixar de manter ou deixar de fazer
+fs: 8
+hyper: verb.consumption:desistir
+sa: @en:verb.social:dispense_with
+
+w: dispor_de
+d: @en_deal with or settle
+fs: 8
+hypo: governar
+sa: @en:verb.social:dispose_of
+
+w: distribuir
+w: fornecer
+w: suprir
+d: @en_circulate or distribute or equip with
+fs: 8
+hyper: verb.change:desbloquear
+hyper: anunciar
+hyper: reemitir
+hypo: @en_distribute
+sa: @en:verb.social:issue
+
+w: ditar
+d: comandar como um ditador
+fs: 2
+hyper: tiranizar
+hypo: reinar
+sa: @en:verb.social:dictate
+
+w: divertir
+w: entreter
+d: @en_occupy in an agreeable, entertaining or pleasant fashion
+fs: 9
+hypo: divertir[1]
+sa: @en:verb.social:amuse
+
+w: divertir[1]
+w: entreter[1]
+d: @en_provide entertainment for
+fs: 9
+hyper: verb.consumption:receber
+hyper: divertir
+hypo: @en_socialise
+sa: @en:verb.social:entertain
+
+w: dividir
+w: fracionar
+w: repartir
+w: separar[1]
+d: @en_separate into parts or portions
+fs: 8 9 10 11
+hyper: verb.change:@en_format
+hyper: verb.change:@en_subdivide
+hyper: @en_canton
+hyper: @en_paragraph
+hyper: @en_sectionalise
+hyper: @en_triangulate
+hyper: @en_unitise
+hyper: balcanizar
+hyper: lascar
+hyper: lotear
+hyper: parcelar
+hypo: verb.change:mudar[13]
+sa: @en:verb.social:carve_up
+
+w: dotar
+w: investir
+d: @en_give qualities or abilities to
+fs: 17
+hyper: @en_cover[1]
+hypo: verb.change:habilitar
+sa: @en:verb.social:endow
+
+w: durar
+w: prolongar-se
+d: @en_allow to remain in a place or position or maintain a property or feature
+fs: 9 10
+hypo: verb.stative:alongar
+sa: @en:verb.social:continue
+vg: verb.stative:continuar
+
+w: educar[1]
+w: ensinar
+d: @en_give an education to
+fs: 9
+hyper: @en_co-educate
+hyper: @en_socialise[1]
+hyper: educar[2]
+hyper: preparar
+hypo: verb.change:aperfeiçoar
+sa: @en:verb.social:educate
+
+w: educar[2]
+d: @en_educate in or as if in a school
+fs: 9
+hyper: @en_home-school
+hypo: ensinar
+sa: @en:verb.social:school[1]
+
+w: efectivar
+w: efectuar[1]
+w: efetivar
+w: efetuar[1]
+d: agir de forma a causar a  existência de alguma coisa
+e: GLOSS_: agir de modo a trazer à existência
+e: efetivar uma mudança
+fs: 8 11
+hyper: @en_backdate
+hyper: @en_bring_to_bear
+hyper: @en_carry[2]
+hypo: agir
+sa: @en:verb.social:effect[15]
+
+w: efetuar[2]
+w: fazer[1]
+w: performar
+d: @en_perform a function
+fs: 2 8
+hyper: verb.motion:@en_church
+hyper: oficiar
+hypo: agir
+sa: @en:verb.social:perform[2]
+
+w: electrocutar
+w: eletrocutar
+d: @en_kill by electric shock
+fs: 10
+hypo: verb.contact:@en_kill
+sa: @en:verb.social:electrocute[1]
+
+w: electrocutar[1]
+w: eletrocutar[1]
+d: @en_kill by electrocution, as in the electric chair
+fs: 9
+hypo: verb.contact:matar[1]
+sa: @en:verb.social:electrocute
+
+w: emancipar[1]
+d: @en_give equal rights to; of women and minorities
+fs: 9 10
+hypo: verb.change:revoltar
+sa: @en:verb.social:emancipate[1]
+
+w: emancipar[2]
+w: liberar[1]
+d: @en_grant freedom to
+fs: 9 10
+hyper: @en_affranchise
+hyper: alforriar
+hyper: descolonizar
+hypo: liberar[2]
+sa: @en:verb.social:liberate
+
+w: embargar[1]
+d: impedir o comércio
+fs: 8
+hypo: travar
+sa: @en:verb.social:embargo
+
+w: emboscar
+d: @en_take or catch as if in a snare or trap
+fs: 9
+hypo: enganar
+sa: @en:verb.social:ensnare
+
+w: emparelhar
+w: juntar[1]
+d: formar um par ou pares
+fs: 2
+hypo: unificar
+sa: @en:verb.social:couple
+
+w: empossar
+d: Colocar cerimoniosamente ou formalmente em um cargo ou posição
+e: Houve uma cerimônia para empossar o presidente da Academia
+fs: 9 20
+hypo: instalar
+sa: @en:verb.social:induct
+
+w: emprisionar
+d: privar da liberdade
+fs: 9 10
+hypo: confinar
+sa: @en:verb.social:intern[2]
+
+w: encantar
+w: enfeitiçar
+d: controlar por magia, feitiços, e bruxaria
+fs: 8
+hyper: verb.communication:encantar
+hypo: governar[3]
+sa: @en:verb.social:becharm
+
+w: encarar
+d: @en_accept as a challenge
+fs: 8
+hyper: verb.competition:@en_rise
+hypo: verb.communication:defrontar
+sa: @en:verb.social:tackle
+
+w: encarregar
+d: @en_place an order for
+fs: 8 16 24
+hypo: verb.communication:encomendar
+sa: @en:verb.social:commission[2]
+
+w: encher_se
+d: @en_become filled with pride, arrogance, or anger
+fs: 1
+hypo: verb.body:agir
+sa: @en:verb.social:puff_up
+
+w: encontrar
+d: @en_get together socially or for a specific purpose
+fs: 2 22
+hyper: @en_call_in
+hyper: @en_rendezvous
+hyper: @en_reunite
+hyper: celebrar[3]
+hyper: pegar
+sa: @en:verb.social:get_together[1]
+
+w: encorajar
+w: estimular
+w: promover[1]
+d: contribuir para o progresso ou crescimento de
+e: Eu estou promovendo o uso de computadores na sala de aula.
+fs: 8 9 10 11
+hyper: @en_carry[1]
+hyper: @en_conduce
+hyper: @en_help
+hyper: alimentar
+hyper: incentivar
+hyper: instigar
+hyper: passar_ao_lado
+hypo: apoiar
+sa: @en:verb.social:boost
+
+w: enfraquecer
+w: sabotar
+w: solapar
+d: destruir propriedades ou dificultar as operações normais
+fs: 8
+hyper: verb.motion:descarrilhar[1]
+hypo: desacatar
+sa: @en:verb.social:countermine
+
+w: enganar
+w: iludir
+w: lograr
+d: @en_be false to; be dishonest with
+fs: 9 10
+hyper: @en_flim-flam
+hyper: @en_humbug
+hyper: @en_shill
+hyper: atraiçoar
+hyper: burlar
+hyper: emboscar
+hyper: enganar[1]
+hyper: tapear
+hyper: tapear[1]
+hypo: @en_victimise
+sa: @en:verb.social:deceive
+
+w: enganar[1]
+d: @en_make a fool or dupe of
+fs: 9
+hypo: enganar
+sa: @en:verb.social:befool
+
+w: enobrecer
+w: nobilitar
+d: @en_give a title to someone; make someone a member of the nobility
+fs: 9
+hyper: @en_baronetise
+hyper: @en_dub
+hyper: @en_lord
+hypo: avançar
+sa: @en:verb.social:ennoble
+
+w: ensaiar
+w: tentar[1]
+d: @en_put to the test, as for its quality, or give experimental use to
+fs: 8
+hyper: @en_field-test
+hyper: @en_float
+hyper: verificar
+hypo: verb.cognition:balizar
+sa: @en:verb.social:examine
+
+w: enterrar
+w: sepultar
+w: soterrar
+d: @en_place in a grave or tomb
+fs: 8 9
+hypo: verb.contact:deitar
+sa: @en:verb.social:bury
+
+w: entronar
+d: colocar um monarca no trono
+fs: 9
+hypo: entronar[1]
+sa: @en:verb.social:enthrone
+
+w: entronar[1]
+w: investir[1]
+d: fornecer com poder e autoridade
+fs: 9
+hyper: @en_coronate
+hyper: @en_ordain
+hyper: consagrar
+hyper: entronar
+hypo: instalar
+sa: @en:verb.social:invest
+
+w: envenenar
+d: @en_spoil as if by poison
+fs: 8 10
+hypo: aviltar
+sa: @en:verb.social:poison
+
+w: envergonhar
+d: obrigar através de um senso de vergonha
+fs: 30
+hypo: constranger
+sa: @en:verb.social:shame[1]
+
+w: enxotar
+w: expulsar[4]
+d: remover de uma posição ou cargo
+fs: 9 22
+hyper: @en_depose
+hyper: excomungar
+hypo: remover
+sa: @en:verb.social:boot_out
+
+w: escapar
+w: evitar[2]
+d: remover-se de um ambiente familiar, geralmente por prazer ou distração
+fs: 2 22
+hypo: verb.motion:foragir
+sa: @en:verb.social:escape
+
+w: escolher[2]
+d: @en_form sides, as for a game
+fs: 8
+hypo: organizar
+sa: @en:verb.social:choose_up
+
+w: escravizar
+d: @en_make a slave of; bring into servitude
+fs: 9
+hypo: submeter
+sa: @en:verb.social:enslave
+
+w: escusar
+d: @en_absolve from payment
+fs: 8 14
+hypo: liberar
+sa: @en:verb.social:forgive
+
+w: escutar
+w: obedecer
+d: @en_pay close attention to; give heed to
+fs: 8 9
+hypo: obedecer[1]
+sa: @en:verb.social:heed
+
+w: esforçar[1]
+w: esforçar-se[1]
+w: pressionar[1]
+d: fazer um esforço para alcançar um objetivo
+fs: 28
+hyper: verb.competition:batalhar_por_algo
+hypo: batalhar
+sa: @en:verb.social:drive
+vg: verb.communication:@en_bear_on
+
+w: esforçar_se
+d: @en_try very hard to do something
+fs: 28
+hypo: dar-se_ao_trabalho_de
+sa: @en:verb.social:be_at_pains
+
+w: esquivar
+w: evitar[3]
+d: @en_avoid (one's assigned duties)
+fs: 8
+hyper: @en_malinger
+hyper: @en_scrimshank
+hyper: @en_slack
+hypo: evitar[5]
+sa: @en:verb.social:fiddle
+
+w: estabelecer
+d: @en_set up or found
+fs: 8
+hypo: abrir[1]
+sa: @en:verb.social:establish
+
+w: estagiar
+d: trabalhar como estagiário
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:intern
+
+w: estar_de_sentinela
+d: @en_watch over so as to protect
+fs: 2 22
+hypo: custodiar
+sa: @en:verb.social:keep_guard
+
+w: estimular[1]
+w: instigar
+w: provocar
+d: @en_incite or stimulate
+fs: 8 11
+hypo: encorajar
+sa: @en:verb.social:spur
+
+w: estorvar[1]
+w: evitar[4]
+w: impedir[2]
+w: impossibilitar
+w: obstar
+w: proibir
+d: @en_keep from happening or arising; make impossible
+fs: 8 11
+hyper: verb.change:@en_make_unnecessary
+hyper: atrapalhar
+hyper: contrariar
+hyper: obviar
+hyper: travar
+sa: @en:verb.social:foreclose
+
+w: estratificar
+d: dividir a sociedade em classes sociais ou castas
+fs: 8 11
+hypo: verb.cognition:separar
+sa: @en:verb.social:stratify
+vg: estratificar[1]
+
+w: estratificar[1]
+d: @en_develop different social levels, classes, or castes
+fs: 1
+hypo: verb.change:alterar[3]
+sa: @en:verb.social:stratify[1]
+vg: estratificar
+
+w: evitar[5]
+d: @en_refrain from doing something
+fs: 33
+hyper: esquivar
+sa: @en:verb.social:avoid[3]
+
+w: evitar[6]
+w: obviar
+d: @en_prevent the occurrence of; prevent from happening
+fs: 8 11
+hypo: impossibilitar
+sa: @en:verb.social:avert
+
+w: excluir
+d: @en_prevent from entering; shut out
+fs: 9 10 11
+hyper: verb.communication:excomungar
+hyper: @en_lock_out
+hyper: marginalizar[1]
+hypo: atrapalhar[2]
+sa: @en:verb.social:exclude
+
+w: excomungar
+d: @en_oust or exclude from a group or membership by decree
+fs: 9
+hypo: enxotar
+sa: @en:verb.social:excommunicate
+vg: verb.communication:excomungar
+
+w: executar
+w: ligar
+d: @en_carry out a process or program, as on a computer or a machine
+fs: 8 11
+hyper: @en_step
+hypo: forçar
+sa: @en:verb.social:run
+vg: verb.creation:tocar[3]
+
+w: executar[1]
+d: @en_kill as a means of socially sanctioned punishment
+fs: 9
+hyper: @en_burn
+hyper: @en_hang
+hyper: crucificar
+hypo: verb.contact:matar[1]
+hypo: castigar
+sa: @en:verb.social:execute
+vg: justiçar
+
+w: executar[2]
+w: justiçar
+d: @en_murder in a planned fashion
+fs: 9
+hypo: assassinar
+sa: @en:verb.social:execute[1]
+vg: executar[1]
+
+w: executar[3]
+w: fazer[2]
+d: @en_carry out
+fs: 8
+hypo: agir
+sa: @en:verb.social:take[4]
+
+w: exercer
+w: praticar[1]
+d: @en_carry out or practice; as of jobs and professions
+fs: 8
+entail: trabalhar[2]
+hyper: @en_shamanise
+sa: @en:verb.social:exercise
+
+w: eximir
+d: @en_free someone temporarily from his or her obligations
+fs: 9
+hyper: @en_spell
+hypo: liberar[2]
+sa: @en:verb.social:take_over
+
+w: experimentar
+w: provar
+d: @en_try something new, as in order to gain experience
+fs: 2
+sa: @en:verb.social:experiment[2]
+vg: experimentar[1]
+
+w: experimentar[1]
+d: @en_to conduct a test or investigation
+fs: 2 22
+hypo: verb.communication:analizar
+sa: @en:verb.social:experiment[1]
+vg: experimentar
+
+w: expulsar[5]
+d: @en_force to leave or move out
+fs: 9
+hyper: verb.contact:ejetar
+hyper: @en_debar
+hyper: banir
+hyper: degredar
+hyper: exilar
+hyper: expulsar
+hyper: extraditar
+hypo: verb.motion:deslocar
+sa: @en:verb.social:expel
+
+w: extenuar
+d: se concentrar ou trabalhar demais
+fs: 9
+hypo: @en_exploit
+sa: @en:verb.social:overdrive
+
+w: exumar
+d: @en_dig up for reburial or for medical investigation; of dead bodies
+fs: 8
+hypo: verb.contact:@en_dig_up
+sa: @en:verb.social:disinter
+
+w: falhar
+w: negligenciar
+d: deixar de fazer alguma coisa; deixar algo desfeito
+e: Ela não percebeu que seu filho não estava mais em seu berço
+fs: 28
+hyper: verb.cognition:perder_(se)
+hyper: verb.contact:@en_strike_out
+hyper: verb.possession:@en_default
+hyper: @en_choke
+hyper: falhar[1]
+hyper: verb.stative:perder
+sa: @en:verb.social:neglect
+
+w: falhar[1]
+d: @en_fail to catch, as of a ball
+fs: 8
+hypo: falhar
+sa: @en:verb.social:muff[1]
+
+w: falhar[2]
+w: fracassar
+w: malograr
+w: quebrar_a_cara
+d: @en_be unsuccessful
+fs: 1 2 4 22
+hyper: verb.cognition:falhar_
+hyper: verb.motion:perder
+hyper: @en_fall_flat
+hyper: @en_overreach
+hyper: @en_shipwreck
+hyper: @en_strike_out
+hyper: arruinar
+hyper: cair[1]
+sa: @en:verb.social:fail
+
+w: favorecer
+w: preferir
+d: @en_promote over another
+fs: 8 9
+hyper: @en_advantage
+hypo: avançar
+sa: @en:verb.social:favor
+
+w: fazer[3]
+d: @en_carry out or commit
+fs: 8
+hypo: cometer
+sa: @en:verb.social:make[13]
+
+w: fazer-se_ouvir
+w: reinvindicar
+d: @en_insist on having one's opinions and rights recognized
+fs: 9
+hypo: conduzir
+sa: @en:verb.social:assert
+
+w: fazer_bico
+d: @en_work a second job, usually after hours
+fs: 2 22
+hypo: trabalhar[2]
+sa: @en:verb.social:moonlight
+
+w: fazer_frente
+d: @en_satisfy or fulfill
+fs: 8 11
+hypo: aguentar
+sa: @en:verb.social:cope_with
+
+w: fazer_greve
+w: paralizar
+w: parar
+d: parar de trabalhar para pressionar as demandas
+fs: 2
+hypo: protestar
+sa: @en:verb.social:strike
+
+w: fazer_o_seu_melhor
+d: @en_perform a task as well as possible
+fs: 1 2
+hypo: cumprir
+sa: @en:verb.social:do_one's_best
+
+w: fazer_questão_de
+d: @en_make a point of doing something; act purposefully and intentionally
+fs: 22
+hypo: agir
+sa: @en:verb.social:make_a_point
+
+w: fechar ant abrir[1]
+d: @en_cease to operate or cause to cease operating
+fs: 1 8
+hyper: adiar
+sa: @en:verb.social:close
+
+w: festar
+w: festejar[1]
+d: ter ou participar de uma festa
+fs: 2
+hyper: @en_rave
+hypo: celebrar[3]
+sa: @en:verb.social:party
+
+w: filiar
+w: filiar-se[1]
+w: incorporar-se
+d: @en_come into the company of
+fs: 9
+sa: @en:verb.social:join[1]
+
+w: financiar_ilegalmente
+d: realizar operações financeiras, muitas vezes de forma antiética
+fs: 2
+hypo: operar
+sa: @en:verb.social:financier
+
+w: fingir
+d: @en_assume certain affected attitudes
+fs: 2
+hypo: @en_pose
+sa: @en:verb.social:attitudinise
+
+w: fomentar
+w: incitar
+w: provocar[1]
+d: @en_try to stir up public opinion
+fs: 2 8 9 10
+hyper: @en_rumpus
+hypo: verb.communication:concitar
+sa: @en:verb.social:agitate
+
+w: formalizar
+w: oficializar
+d: @en_make formal or official
+fs: 8 11
+hyper: verb.change:@en_ritualise
+hypo: verb.communication:julgar
+sa: @en:verb.social:formalise
+
+w: formalizar[1]
+w: validar
+d: declarar ou fazer legalmente válido
+fs: 8 11
+hyper: @en_co-sign
+hyper: @en_probate
+hyper: assinar
+hypo: verb.communication:autorizar
+sa: @en:verb.social:validate
+
+w: franquiar
+w: privilegiar
+d: concessão de uma franquia para
+fs: 8 9
+hypo: certificar
+mt: noun.act:comercialismo
+sa: @en:verb.social:franchise
+
+w: funcionar
+d: @en_have an effect or outcome; often the one desired or expected
+fs: 1 4
+hypo: atingir
+sa: @en:verb.social:act[6]
+vg: verb.creation:trazer
+
+w: funcionar[1]
+w: servir[1]
+d: @en_be used by; as of a utility
+fs: 4 10 11 28
+hypo: verb.contact:funcionar[2]
+sa: @en:verb.social:serve
+vg: verb.stative:servir[2]
+
+w: furtar
+w: roubar
+d: @en_commit a burglary; enter and rob a dwelling
+fs: 8 9
+entail: invadir
+hypo: verb.possession:furtar[3]
+sa: @en:verb.social:burglarise
+
+w: gerenciar[2]
+w: tomar_conta[1]
+d: gerenciar ou executar
+fs: 8
+hyper: @en_stoke
+hypo: cuidar
+sa: @en:verb.social:tend[1]
+
+w: gerenciar_mal
+d: gerenciar mal ou de maneira incompetente
+fs: 8
+hypo: governar
+sa: @en:verb.social:misconduct
+
+w: gerir[4]
+w: governar[2]
+w: reger[2]
+w: reinar
+d: @en_exercise authority over; as of nations
+fs: 8
+hyper: @en_misgovern
+hyper: @en_throne
+hyper: ditar
+hyper: reino
+hypo: governar[3]
+sa: @en:verb.social:govern
+
+w: governar[3]
+w: reger[3]
+d: @en_exercise authoritative control or power over
+fs: 8 9 10 11
+hyper: verb.emotion:ocupar
+hyper: verb.motion:direcionar
+hyper: verb.motion:dirigir
+hyper: @en_call_the_shots
+hyper: @en_hold[1]
+hyper: @en_hold_one's_own
+hyper: @en_hold_sway
+hyper: @en_internationalise
+hyper: arregimentar[1]
+hyper: atrelar
+hyper: açambarcar
+hyper: controlar[2]
+hyper: dominar
+hyper: encantar
+hyper: governar
+hyper: presidir
+hyper: reger
+hyper: reinar
+sa: @en:verb.social:command
+
+w: hibernar
+d: @en_be in an inactive or dormant state
+fs: 1 2
+hypo: @en_rest
+sa: @en:verb.social:hibernate
+
+w: homenagear
+w: honrar
+w: prestigiar
+w: respeitar
+d: Mostrar respeito para com
+fs: 8 9
+hyper: celebrar
+hyper: tolerar
+hypo: verb.cognition:aceitar[4]
+sa: @en:verb.social:respect
+
+w: honrar[1]
+w: prestigiar[1]
+w: reconhecer[1]
+d: conceder honra ou recompensas
+fs: 8 9 10 11
+hyper: verb.consumption:brindar
+hyper: condecorar
+hyper: dignificar
+hypo: reconhecer[2]
+sa: @en:verb.social:honor
+
+w: hostilizar
+d: agir em oposição à
+fs: 9
+hypo: agir
+sa: @en:verb.social:antagonise
+
+w: implementar[1]
+d: aplicar de forma coerente com seu propósito e design
+fs: 8
+hypo: verb.consumption:utilizar
+sa: @en:verb.social:implement[1]
+
+w: impor
+w: obrigar[2]
+d: @en_compel to behave in a certain way
+fs: 8
+hypo: constranger
+sa: @en:verb.social:impose
+
+w: impor-se
+d: @en_put oneself forward in an assertive and insistent manner
+fs: 2
+hypo: comportar
+sa: @en:verb.social:assert_oneself
+
+w: improvisar
+d: @en_manage in a makeshift way; do with whatever is at hand
+fs: 2
+hypo: aguentar
+sa: @en:verb.social:extemporize
+
+w: inaugurar
+d: @en_commence officially
+fs: 8 11
+hyper: verb.communication:@en_swear_in
+hyper: @en_dedicate
+hypo: verb.creation:começar
+sa: @en:verb.social:inaugurate
+
+w: inaugurar[1]
+d: @en_open ceremoniously or dedicate formally
+fs: 8
+hypo: abrir
+sa: @en:verb.social:inaugurate[1]
+
+w: incentivar
+d: @en_promote the growth of
+fs: 8 11
+hypo: encorajar
+sa: @en:verb.social:foster
+
+w: incitar[1]
+w: instigar[1]
+d: ajudar ou encorajar, geralmente em algum delito
+fs: 9
+hypo: ajudar[4]
+sa: @en:verb.social:abet
+
+w: incluir_numa_lista
+w: listar
+d: incluir em uma lista
+fs: 8 9 11
+hyper: @en_inventory
+hyper: @en_post
+hyper: colocar_na_lista_negra
+hyper: indexar
+hyper: listar[1]
+hypo: registrar[2]
+sa: @en:verb.social:list
+
+w: incomodar[1]
+w: incomodar-se
+d: @en_take the trouble to do something; concern oneself
+fs: 1 28
+hypo: verb.competition:batalhar_por_algo
+sa: @en:verb.social:bother
+
+w: indeferir
+w: recusar
+w: rejeitar
+d: @en_refuse entrance or membership
+fs: 9 10
+sa: @en:verb.social:refuse
+vg: verb.communication:desprezar
+
+w: indexar
+w: pôr_um_índice
+d: @en_list in an index
+fs: 8 9
+hyper: @en_cross-index
+hypo: incluir_numa_lista
+sa: @en:verb.social:index
+
+w: induzir
+d: @en_admit as a member
+fs: 9 10
+hypo: verb.contact:receber
+sa: @en:verb.social:induct[3]
+
+w: infiltrar
+w: penetrar
+d: @en_enter a group or organization in order to spy on the members
+fs: 8
+hypo: filiar-se
+sa: @en:verb.social:infiltrate
+
+w: influenciar
+w: influir
+d: @en_have and exert influence or effect
+fs: 8 9 10 11
+hyper: verb.cognition:prejulgar[1]
+hyper: @en_fix
+hyper: @en_form
+hyper: @en_get_at
+hyper: @en_manipulate
+hyper: @en_swing_over
+hyper: chantagear
+hyper: colorir
+hyper: convencer
+hyper: militar
+hyper: verb.stative:dominar[1]
+hypo: verb.change:afetar
+sa: @en:verb.social:act_upon
+
+w: infringir
+w: ofender
+w: pecar
+w: quebrar
+w: transgredir
+w: violar[1]
+d: agir desrespeitando as leis, regras, contratos ou promessas
+e: quebrar promessas
+fs: 8
+hyper: @en_intrude
+hyper: @en_trespass[1]
+hyper: infringir[1]
+hyper: pecar[1]
+hyper: pisar_na_bola
+hypo: desrespeitar
+sa: @en:verb.social:breach
+
+w: infringir[1]
+d: ir contra regras ou leis
+fs: 22
+hypo: infringir
+sa: @en:verb.social:contravene
+
+w: infrinjir
+d: @en_make excessive use of
+fs: 22
+hyper: @en_encroach
+hypo: usar[1]
+sa: @en:verb.social:take_advantage[12]
+
+w: inibir
+w: suprimir[1]
+d: controlar e abster de mostrar emoções, desejos e impulsos ou comportamento
+fs: 8
+hyper: @en_choke[1]
+hyper: @en_quench
+hyper: coibir
+hypo: verb.cognition:reprimir
+sa: @en:verb.social:bottle_up
+
+w: inibir[1]
+d: limitar, bloquear ou diminuir a ação ou função de
+fs: 11
+hypo: entravar
+mt: noun.cognition:Quimica
+mt: noun.cognition:biologia
+sa: @en:verb.social:inhibit[4]
+
+w: injustiçar
+w: maltratar[1]
+d: @en_treat unjustly; do wrong to
+fs: 9
+hyper: @en_aggrieve
+hyper: @en_sandbag[1]
+hyper: @en_victimise
+hypo: tratar[2]
+sa: @en:verb.social:wrong
+
+w: inscrever
+w: recrutar
+w: registrar
+d: registrar formalmente como um participante ou membro
+e: O partido recrutou muitos membros novos.
+fs: 2 9 22
+hyper: verb.competition:@en_draft
+hyper: @en_unionise
+hyper: inscrever[1]
+hyper: matricular
+hypo: registrar[2]
+sa: @en:verb.social:enrol
+
+w: inscrever[1]
+w: registrar[1]
+d: inscrever-se para votar
+fs: 2 9
+hypo: inscrever
+sa: @en:verb.social:register[1]
+
+w: inscrever-se
+w: pedir
+w: reservar
+d: @en_arrange for and reserve (something for someone else) in advance
+fs: 8
+entail: verb.possession:adquirir[1]
+hyper: verb.possession:@en_hold_open
+hypo: verb.communication:pedir[6]
+sa: @en:verb.social:hold
+vg: verb.communication:pedir[3]
+
+w: instalar
+d: @en_put into an office or a position
+fs: 9 20
+hyper: empossar
+hyper: entronar[1]
+sa: @en:verb.social:instal
+
+w: integrar
+d: @en_open (a place) to members of all races and ethnic groups
+fs: 8
+sa: @en:verb.social:desegregate
+
+w: interagir
+d: @en_act together or towards others or with others
+fs: 2 22
+hyper: verb.cognition:conspirar[2]
+hyper: verb.communication:@en_communicate[1]
+hyper: verb.communication:@en_reach_out
+hyper: verb.communication:comunicar[2]
+hyper: verb.communication:condescender
+hyper: verb.emotion:controlar
+hyper: verb.possession:tramitar
+hyper: @en_fall_all_over
+hyper: @en_get_in_touch
+hyper: @en_have
+hyper: @en_invite
+hyper: @en_socialise
+hyper: afeminar
+hyper: associar
+hyper: combinar
+hyper: intervir
+hyper: marginalizar
+hyper: relacionar
+hyper: reunir
+hyper: tratar[2]
+hypo: agir
+sa: @en:verb.social:interact
+
+w: interferir
+d: @en_come between so as to be hindrance or obstacle
+fs: 4 22
+hypo: entravar
+sa: @en:verb.social:interfere[1]
+
+w: interferir[1]
+w: intervir
+d: @en_get involved, so as to alter or hinder an action, or through force or threat of force
+e: Por que os EUA não interviram antes na WW II?
+fs: 2 22
+hyper: @en_interlope
+hyper: @en_meddle
+hypo: interagir
+sa: @en:verb.social:interfere
+
+w: invadir
+d: entrar a propriedade de alguém (real ou virtual) de forma não autorizada, geralmente com a intenção de roubar ou cometer um ato violento
+fs: 8
+hyper: craquear
+hypo: @en_intrude
+sa: @en:verb.social:break_in
+
+w: investir[2]
+d: @en_furnish with power or authority; of kings or emperors
+fs: 17
+hypo: verb.possession:aparelhar
+sa: @en:verb.social:adorn
+
+w: ir
+w: visitar[1]
+d: Ir ver um lugar, para entretenimento
+fs: 8
+hyper: @en_take_in
+hypo: verb.motion:excursionar
+sa: @en:verb.social:see[10]
+vg: @en_see
+
+w: ir_levando
+d: Decidir sobre as ações quando elas acontecem, dependendo do que acontecer
+e: Ela não sabia o que esperar de seu novo emprego, então ela foi tocando
+fs: 2
+hypo: agir
+sa: @en:verb.social:play_it_by_ear
+
+w: julgar
+d: @en_put on trial or hear a case and sit as the judge at the trial of
+fs: 9
+hyper: @en_court-martial
+hypo: verb.cognition:decidir[3]
+sa: @en:verb.social:adjudicate[3]
+
+w: juntar-se[1]
+w: unir-se
+d: reunir e passar tempo juntos
+fs: 2
+hypo: reunir
+sa: @en:verb.social:club[3]
+
+w: juntar-se[2]
+d: unir-se com um propósito comum
+fs: 2 22
+hypo: unificar
+sa: @en:verb.social:club[10]
+
+w: laborar
+w: ralar
+w: trabalhar
+d: trabalhar muito
+fs: 2 22
+hypo: trabalhar[2]
+sa: @en:verb.social:dig
+
+w: lascar
+w: rachar
+d: @en_divide into slivers or splinters
+fs: 8 11
+hypo: dividir
+sa: @en:verb.social:sliver
+
+w: legalizar
+w: legitimar
+d: @en_make legal
+fs: 8
+hyper: @en_monetise
+hypo: verb.communication:deixar
+sa: @en:verb.social:decriminalise
+
+w: legislar
+d: @en_make laws, bills, etc. or bring into effect by legislation
+fs: 2 8
+hypo: decretar
+sa: @en:verb.social:legislate
+
+w: lembrar_quem_você_é
+d: recuperar suas boas maneiras após um lapso, ou parar de se comportar mal
+e: Por favor, lembre-se de quem você é, Carlos!
+fs: 2
+hypo: comportar
+sa: @en:verb.social:remember_oneself
+
+w: liberalizar
+d: @en_become more liberal
+fs: 1
+hypo: verb.change:alterar[3]
+sa: @en:verb.social:liberalise[1]
+vg: @en_liberalise
+
+w: liberar[2]
+d: @en_free from obligations or duties
+fs: 9 10
+hyper: @en_cashier[1]
+hyper: @en_clear
+hyper: @en_cut
+hyper: @en_disinvest
+hyper: emancipar[2]
+hyper: eximir
+hyper: verb.stative:desvencilhar
+sa: @en:verb.social:discharge[1]
+
+w: liberar[3]
+w: soltar
+d: @en_grant freedom to; free from confinement
+fs: 9 10
+hyper: verb.communication:@en_unspell
+hyper: verb.contact:desencadear
+hyper: @en_bail
+hyper: @en_bail_out
+hyper: @en_parole
+hyper: soltar[1]
+sa: @en:verb.social:free
+
+w: liberar[4]
+d: @en_relax or remove controls of
+fs: 8
+hypo: @en_liberalise
+sa: @en:verb.social:decontrol
+
+w: limitar[1]
+w: restringir
+d: @en_place under restrictions; limit access to
+fs: 8
+hyper: @en_localise
+hyper: @en_scant[1]
+hyper: @en_taboo
+hyper: classificar
+hypo: limitar
+sa: @en:verb.social:restrict
+
+w: linchar
+d: @en_kill without legal sanction
+fs: 9
+hypo: verb.contact:matar[1]
+sa: @en:verb.social:lynch
+
+w: listar[1]
+d: entrar em uma lista de jurados em potencial
+fs: 9
+hypo: incluir_numa_lista
+sa: @en:verb.social:empanel
+
+w: lotear
+d: dividir em lotes, diz-se   de terra, por exemplo
+fs: 8
+hypo: dividir
+sa: @en:verb.social:lot
+
+w: lutar[1]
+d: @en_make a great effort at a mental or physical task
+fs: 9
+hyper: @en_overexert
+hypo: agir
+sa: @en:verb.social:exert
+
+w: manifestar-se
+d: @en_march in protest; take part in a demonstration
+fs: 2 22
+hyper: piquetar
+hypo: protestar
+sa: @en:verb.social:demonstrate
+
+w: manobrar
+d: @en_act in order to achieve a certain goal
+fs: 2 22
+hypo: agir
+sa: @en:verb.social:manoeuver
+
+w: marginalizar
+d: @en_relegate to a lower or outer edge, as of specific groups of people
+e: Nós não devemos marginalizar os pobres da nossa sociedade
+fs: 9 10
+hypo: interagir
+sa: @en:verb.social:marginalise
+
+w: marginalizar[1]
+w: ostracizar[1]
+d: Evitar falar ou lidar com
+fs: 8 9
+entail: verb.communication:evitar[1]
+hyper: boicotar
+hypo: excluir
+sa: @en:verb.social:ostracise
+
+w: matricular
+d: @en_enroll as a student
+fs: 2
+hypo: inscrever
+sa: @en:verb.social:matriculate
+
+w: militar
+d: ter força ou influência; trazer um efeito ou alterar
+fs: 8 11
+hypo: influenciar
+sa: @en:verb.social:militate
+
+w: ministrar
+d: trabalhar como um ministro
+fs: 2
+hypo: trabalhar[3]
+sa: @en:verb.social:minister
+
+w: ministrar[1]
+d: @en_attend to the wants and needs of others
+fs: 12
+hypo: providenciar
+sa: @en:verb.social:minister[12]
+
+w: mourejar
+d: @en_work very hard, like a slave
+fs: 2
+hypo: trabalhar[2]
+sa: @en:verb.social:break_one's_back
+
+w: mover_se
+d: @en_live one's life in a specified environment
+fs: 22
+hypo: verb.stative:viver[2]
+sa: @en:verb.social:move[2]
+
+w: multar
+d: @en_issue a ticket or a fine to as a penalty
+fs: 9
+hyper: @en_amerce[1]
+hypo: @en_book
+sa: @en:verb.social:fine
+
+w: namorar[1]
+w: sair_com
+d: sair regularmente; ter um relacionamento estável com
+e: Ele está namorando sua ex mulher de novo!
+e: Você sabe que ela está saindo com um homem mais velho?
+fs: 2 9
+hypo: associar
+sa: @en:verb.social:go_out
+vg: @en_date
+
+w: nomear[2]
+d: @en_assign a duty, responsibility or obligation to
+fs: 9 14
+hyper: @en_accredit
+hyper: @en_create
+hyper: autorizar[2]
+hyper: delegar
+hyper: nomear[4]
+hyper: substituir[4]
+sa: @en:verb.social:appoint
+
+w: nomear[3]
+d: @en_create and charge with a task or function
+fs: 8 9
+hyper: @en_pack
+hyper: alistar
+hypo: verb.creation:constituir
+sa: @en:verb.social:constitute
+
+w: nomear[4]
+w: propor[1]
+d: @en_charge with a function; charge to be
+fs: 14
+hyper: renomear
+hypo: nomear[2]
+sa: @en:verb.social:make[3]
+
+w: obedecer[1] ant desobedecer
+d: @en_be obedient to
+fs: 8 9
+hyper: @en_take_orders
+hyper: acatar
+hyper: escutar
+hypo: verb.change:adaptar-se
+sa: @en:verb.social:obey
+
+w: ocupar
+w: ocupar_se
+d: Manter-se ocupado com
+fs: 9 20
+hyper: @en_play_around
+hyper: @en_potter
+hypo: trabalhar[3]
+sa: @en:verb.social:busy
+
+w: oferecer[1]
+d: @en_mount or put up
+fs: 8
+hypo: conduzir[6]
+sa: @en:verb.social:provide
+
+w: oficiar
+d: agir de forma oficial em uma cerimônia ou ritual religioso, como um casamento
+fs: 2 22
+hyper: casar[1]
+hypo: performar
+sa: @en:verb.social:officiate[1]
+
+w: operar
+d: @en_direct or control; projects, businesses, etc.
+fs: 8
+hyper: @en_block
+hyper: @en_work[3]
+hyper: aquecer
+hyper: financiar_ilegalmente
+hypo: conduzir[3]
+sa: @en:verb.social:operate
+
+w: oprimir
+d: @en_come down on or keep down by unjust use of one's authority
+fs: 8 9 10
+hyper: defazer
+sa: @en:verb.social:crush
+
+w: organizar
+d: @en_create (as an entity)
+fs: 1 2 8 9
+hyper: @en_draw_up
+hyper: arregimentar
+hyper: escolher[2]
+hyper: reorganizar
+hyper: sindicar
+hypo: verb.creation:construir
+sa: @en:verb.social:form
+
+w: organizar[1]
+d: @en_form or join a union
+fs: 2
+hypo: filiar-se
+sa: @en:verb.social:unionise
+
+w: organizar[2] ant desorganizar
+d: @en_cause to be structured or ordered or operating according to some principle or idea
+fs: 8 9 11
+hyper: verb.cognition:arrumar
+hyper: verb.possession:racionalizar
+hyper: @en_collectivise
+hyper: @en_territorialise
+hyper: reorganizar[1]
+hypo: governar
+sa: @en:verb.social:organise
+
+w: paparicar
+w: superproteger
+d: @en_care for like a mother
+fs: 9
+hypo: tutelar
+sa: @en:verb.social:fuss
+
+w: parar[1]
+w: travar
+d: @en_stop from happening or developing
+fs: 8
+hyper: @en_stay
+hyper: embargar[1]
+hypo: impossibilitar
+sa: @en:verb.social:halt
+
+w: parcelar
+d: dividir em partes
+fs: 8
+hypo: dividir
+sa: @en:verb.social:parcel
+
+w: partir[1]
+w: separar[2]
+w: separar-se
+d: descontinuar uma associação ou relação; seguir caminhos diferentes
+fs: 2
+hyper: verb.change:@en_break_apart
+hyper: verb.change:@en_give_the_axe
+hyper: @en_break_away
+hyper: @en_break_with
+hyper: descasar
+hyper: divorciar
+hyper: romper
+sa: @en:verb.social:break_up
+
+w: passar[1]
+d: @en_accept or judge as acceptable
+fs: 9
+cause: passar[2]
+hypo: verb.cognition:balizar
+sa: @en:verb.social:pass[7]
+
+w: passar[2]
+d: @en_go successfully through a test or a selection process
+fs: 2
+hyper: @en_ace
+hypo: atingir
+sa: @en:verb.social:make_it[5]
+
+w: passar_ao_lado
+d: @en_give one's silent approval to
+fs: 8 33
+hypo: encorajar
+sa: @en:verb.social:wink_at
+
+w: patentear
+d: @en_grant rights to; grant a patent for
+fs: 8
+hypo: registrar[2]
+sa: @en:verb.social:patent
+
+w: patrocinar ant boicotar
+d: @en_do one's shopping at; do business with; be a customer or client of
+fs: 8 9
+hypo: apoiar
+sa: @en:verb.social:buy_at
+
+w: patrulhar
+d: @en_maintain the security of by carrying out a patrol
+fs: 8 9
+hypo: custodiar
+sa: @en:verb.social:patrol
+
+w: pecar[1]
+d: @en_commit a sin; violate a law of God or a moral law
+fs: 2
+hyper: @en_fall
+hypo: infringir
+sa: @en:verb.social:sin
+
+w: pegar
+d: @en_meet someone for sexual purposes
+fs: 9
+hypo: encontrar
+sa: @en:verb.social:pick_up
+
+w: piquetar
+d: protestar usando  piquetes
+fs: 2 22
+hypo: manifestar-se
+sa: @en:verb.social:picket
+
+w: pisar_na_bola
+d: @en_commit a faux pas or a fault or make a serious mistake
+fs: 2 22
+hypo: infringir
+sa: @en:verb.social:blunder
+
+w: poupar
+d: @en_save or relieve from an experience or action
+fs: 14 20
+hypo: liberar
+sa: @en:verb.social:spare[1]
+
+w: praticar[2]
+d: @en_engage in or perform
+fs: 8
+hypo: continuar
+sa: @en:verb.social:commit[1]
+
+w: preceder
+d: @en_be the predecessor of
+fs: 9 22
+sa: @en:verb.social:come_before
+
+w: preferir[1]
+d: dar preferência a um credor
+fs: 9
+hypo: verb.possession:pagar[7]
+mt: noun.group:ciências_jurídicas
+sa: @en:verb.social:prefer[1]
+
+w: prejudicar[1]
+d: @en_disadvantage by prejudice
+fs: 9 10
+hypo: desavantajar
+mt: noun.act:Justiça
+sa: @en:verb.social:prejudice
+
+w: prender_em_uma_gaiola
+d: @en_confine in a cage
+fs: 8
+hypo: confinar
+sa: @en:verb.social:cage
+
+w: preparar
+d: @en_educate for a future role or function
+fs: 9
+hyper: verb.change:qualificar[1]
+hypo: ensinar
+sa: @en:verb.social:groom
+vg: verb.cognition:instruir
+vg: verb.cognition:treinar[1]
+vg: @en_check
+
+w: presidir
+d: @en_act as president
+fs: 2 22
+hypo: governar[3]
+sa: @en:verb.social:preside
+
+w: proceder
+d: @en_follow a procedure or take a course
+fs: 4 6 7 22
+hyper: @en_steamroll[1]
+hyper: @en_work[1]
+hyper: embarcar
+hypo: agir
+sa: @en:verb.social:go
+
+w: processar[2]
+w: tratar[1]
+d: @en_deal with in a routine way
+fs: 8
+hypo: governar
+sa: @en:verb.social:process[1]
+
+w: procurar
+w: tentar[2]
+d: fazer um esforço ou tentativa
+e: A criança tentou alguns passos vacilantes
+e: Ele tentou se livrar de seus medos
+fs: 8 28
+hyper: verb.communication:@en_pick_up_the_gauntlet
+hyper: @en_give_it_a_try
+hyper: @en_have_a_go
+hyper: arriscar[1]
+hyper: arriscar[2]
+hyper: batalhar
+hyper: dar-se_ao_trabalho_de
+hyper: procurar[1]
+hypo: agir
+sa: @en:verb.social:assay
+
+w: procurar[1]
+d: buscar cegamente ou incertamente
+e: Sua mente procurou cegamente fazer a conexão
+fs: 28
+hypo: procurar
+sa: @en:verb.social:grope
+
+w: proibir[1]
+d: @en_forbid the public distribution of ( a movie or a newspaper)
+fs: 8 11
+hyper: censurar
+hypo: criminalizar
+mt: noun.communication:@en_medium
+sa: @en:verb.social:ban
+
+w: prostituir
+d: @en_sell one's body; exchange sex for money
+fs: 2
+hyper: @en_street-walk
+hypo: verb.possession:vender[2]
+sa: @en:verb.social:prostitute
+
+w: protestar
+d: @en_express opposition through action or words
+fs: 2 22
+hyper: @en_rebel
+hyper: amotinar-se
+hyper: fazer_greve
+hyper: manifestar-se
+hypo: verb.communication:opor[1]
+sa: @en:verb.social:dissent
+
+w: provar[1]
+w: verificar
+d: @en_check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard
+fs: 8
+hypo: ensaiar
+mt: noun.cognition:ciência[1]
+sa: @en:verb.social:verify
+vg: verb.cognition:assegurar
+
+w: ralar[1]
+d: @en_to strive with determination
+fs: 22
+hypo: dar-se_ao_trabalho_de
+sa: @en:verb.social:buck[1]
+
+w: reabilitar
+d: @en_reinstall politically
+fs: 9
+hypo: reinstalar
+sa: @en:verb.social:rehabilitate[1]
+
+w: reabilitar[1]
+d: @en_restore to a state of good condition or operation
+fs: 8
+hypo: restabelecer[2]
+sa: @en:verb.social:rehabilitate[3]
+
+w: reabilitar[2]
+d: @en_help to readapt, as to a former state of health or good repute
+fs: 9
+hypo: restabelecer[2]
+sa: @en:verb.social:rehabilitate
+
+w: readmitir
+d: @en_admit anew
+fs: 9 20
+hypo: admitir[1]
+sa: @en:verb.social:readmit
+
+w: readmitir[1]
+d: @en_admit again or anew
+fs: 9 20
+hypo: admitir
+sa: @en:verb.social:readmit[1]
+
+w: reassumir
+d: assumir de novo
+fs: 8
+hypo: assumir
+sa: @en:verb.social:resume
+
+w: recasar
+d: @en_marry, not for the first time
+fs: 2 9
+hypo: casar
+sa: @en:verb.social:remarry
+
+w: reclassificar
+d: remover a restrição e disponibilizar novamente
+fs: 8
+hypo: anunciar
+sa: @en:verb.social:declassify
+
+w: reconhecer[2]
+d: @en_show approval or appreciation of
+fs: 8 9
+hyper: @en_rubricate
+hyper: honrar[1]
+hypo: verb.possession:apreciar
+sa: @en:verb.social:recognise[1]
+
+w: recorrer
+d: @en_have recourse to
+fs: 8
+hypo: verb.consumption:utilizar
+sa: @en:verb.social:fall_back
+
+w: redecretar
+d: @en_enact again
+fs: 8 11
+hypo: decretar
+sa: @en:verb.social:reenact
+
+w: redesignar
+w: remanejar
+w: transferir
+d: @en_transfer somebody to a different position or location of work
+fs: 9 20
+hyper: @en_second
+hyper: comutar
+hypo: delegar
+sa: @en:verb.social:reassign
+
+w: redimir
+d: @en_save from sins
+fs: 9 10
+mt: noun.group:igreja
+sa: @en:verb.social:deliver[3]
+
+w: redimir[1]
+d: @en_restore the honor or worth of
+fs: 8 11
+hypo: restaurar
+sa: @en:verb.social:redeem
+
+w: redimir[2]
+d: @en_make amends for
+fs: 8
+hypo: compensar
+sa: @en:verb.social:aby
+
+w: reeleger
+d: @en_elect again
+fs: 9
+hypo: eleger
+sa: @en:verb.social:reelect
+
+w: reemitir
+d: @en_issue (a new version of)
+fs: 8
+hypo: distribuir
+sa: @en:verb.social:reissue
+
+w: refiliar
+w: reingressar
+d: juntar se novamente a algo, alguem
+fs: 8 9
+hypo: filiar-se
+sa: @en:verb.social:rejoin
+
+w: registrar[2]
+d: registrar por escrito; escrever num livro de nomes, eventos ou transações
+fs: 8 11
+hyper: verb.communication:protocolar
+hyper: incluir_numa_lista
+hyper: inscrever
+hyper: patentear
+hyper: reservar[1]
+hypo: verb.communication:registar
+sa: @en:verb.social:register
+
+w: regulamentar
+w: regularizar
+d: pôr em conformidade com as regras ou princípios ou uso; impor regulamentos
+fs: 2 8 11
+hyper: verb.change:padronizar
+hyper: @en_district
+hypo: verb.cognition:decidir[3]
+sa: @en:verb.social:regularise
+
+w: reinar[1]
+w: reino
+d: @en_have sovereign power
+fs: 2
+hypo: reinar
+sa: @en:verb.social:reign
+
+w: reinstalar
+w: restabelecer
+d: @en_restore to the previous state or rank
+fs: 8 9
+hyper: reabilitar
+hypo: restabelecer[2]
+sa: @en:verb.social:reinstate
+
+w: reiterar
+d: @en_do over
+fs: 8
+hypo: agir
+sa: @en:verb.social:repeat
+
+w: rejulgar
+w: reouvir
+d: ouvir ou tentar um processo judicial de novo
+fs: 8
+hypo: @en_hear
+sa: @en:verb.social:rehear
+
+w: relacionar
+w: relacionar-se
+d: @en_have or establish a relationship to
+fs: 2 22
+hyper: verb.change:harmonizar
+hyper: verb.communication:obrigar
+hyper: @en_connect
+hyper: @en_get_along
+hyper: @en_mesh
+hyper: aceitar_de_volta
+hyper: aproximar-se
+hyper: desrespeitar
+hypo: interagir
+sa: @en:verb.social:relate
+
+w: renomear
+d: @en_name again or anew
+fs: 9
+hypo: nomear[4]
+sa: @en:verb.social:rename
+
+w: reorganizar
+d: @en_organize anew, as after a setback
+fs: 1 2
+hypo: organizar
+sa: @en:verb.social:regroup
+
+w: reorganizar[1]
+d: @en_organize anew
+fs: 8
+hyper: rever
+hypo: organizar[2]
+sa: @en:verb.social:reorganise
+
+w: repatriar
+d: @en_admit back into the country
+fs: 9
+hypo: admitir[1]
+sa: @en:verb.social:repatriate
+
+w: representar
+d: @en_be the defense counsel for someone in a trial
+fs: 8 9
+sa: @en:verb.social:defend
+
+w: representar[1]
+d: @en_be representative or typical for
+fs: 8 9 10 11
+hyper: verb.perception:instanciar[1]
+hyper: @en_speak_for
+hypo: verb.stative:estar[2]
+sa: @en:verb.social:represent[2]
+
+w: representar[2]
+d: @en_be a delegate or spokesperson for; represent somebody's interest or be a proxy or substitute for, as of politicians and office holders representing their constituents, or of a tenant representing other tenants in a housing dispute
+fs: 8 9
+hypo: verb.competition:exercer
+sa: @en:verb.social:represent
+
+w: reprovar ant atingir[2]
+d: @en_be unable
+fs: 28
+sa: @en:verb.social:fail[8]
+
+w: reprovar[1]
+d: @en_fail to get a passing grade
+fs: 2 8
+sa: @en:verb.social:bomb
+vg: @en_fail
+vg: @en_fail[1]
+
+w: reservar[1]
+d: @en_register in a hotel booker
+fs: 2
+hypo: registrar[2]
+sa: @en:verb.social:book[3]
+
+w: resgatar
+w: salvar[1]
+d: @en_free from harm or evil
+fs: 8 9 10 11
+hyper: @en_reprieve
+hyper: salvar
+hypo: @en_bring_through
+sa: @en:verb.social:rescue
+
+w: resistir[1]
+d: se recusar a obedecer
+fs: 2 22
+hypo: desacatar
+sa: @en:verb.social:balk
+
+w: resistir[2]
+d: resistir, ir contra a tendência
+fs: 8
+hypo: @en_oppose
+sa: @en:verb.social:buck
+
+w: restabelecer[1]
+w: restaurar
+d: trazer de volta ao original existência, uso, função ou posição
+fs: 8
+hyper: redimir[1]
+hypo: verb.change:alterar[2]
+sa: @en:verb.social:reestablish
+
+w: restabelecer[2]
+d: @en_return to its original or usable and functioning condition
+fs: 8 9 10 11
+hyper: verb.contact:@en_decompress
+hyper: desfibrilar
+hyper: reabilitar[1]
+hyper: reabilitar[2]
+hyper: reinstalar
+hypo: verb.creation:renovar
+sa: @en:verb.social:reconstruct[4]
+
+w: retirar
+d: @en_withdraw from circulation or from the market, as of bills, shares, and bonds
+fs: 8
+hypo: @en_recall
+sa: @en:verb.social:retire[4]
+
+w: retirar-se
+d: @en_withdraw from active participation
+fs: 22
+hyper: @en_drop_out
+hypo: verb.stative:deixar
+sa: @en:verb.social:retire[2]
+vg: verb.emotion:desinteressar
+vg: @en_withdraw
+
+w: reunificar
+d: @en_unify again, as of a country
+fs: 1 2 8 9 11
+hypo: unificar
+sa: @en:verb.social:reunify
+
+w: reunir
+d: @en_collect in one place
+fs: 2 22
+hyper: verb.competition:@en_aggroup
+hyper: verb.motion:@en_fort
+hyper: verb.motion:@en_hive
+hyper: verb.motion:aglomerar
+hyper: verb.motion:apinhar
+hyper: verb.motion:convergir
+hyper: verb.motion:encontrar[2]
+hyper: verb.motion:reunir
+hyper: verb.motion:reunir-se
+hyper: @en_caucus
+hyper: @en_turn_out
+hyper: unir-se
+hypo: interagir
+sa: @en:verb.social:assemble
+vg: verb.motion:ver
+
+w: reunir[1]
+w: unificar
+d: @en_act in concert or unite in a common purpose or belief
+fs: 2
+hyper: verb.change:@en_federalise[1]
+hyper: verb.change:associar-se
+hyper: @en_ally_with
+hyper: @en_band_together
+hyper: associar-se[2]
+hyper: casar
+hyper: coligar
+hyper: emparelhar
+hyper: juntar-se[2]
+hyper: reunificar
+hypo: filiar-se
+sa: @en:verb.social:unify
+
+w: reunir[2]
+d: @en_get people together
+fs: 9
+cause: reunir
+hyper: @en_make[1]
+sa: @en:verb.social:assemble[3]
+
+w: rever
+d: @en_revise or reorganize, especially for the purpose of updating and improving
+fs: 1 2 8
+hypo: reorganizar[1]
+sa: @en:verb.social:retool
+
+w: revoltar[1]
+d: fazer a revolução
+fs: 2 22
+hypo: amotinar-se
+sa: @en:verb.social:revolt
+
+w: revolucionar
+d: @en_overthrow by a revolution, of governments
+fs: 8
+hypo: derribar
+sa: @en:verb.social:revolutionize
+
+w: romper
+d: @en_withdraw from an organization or communion
+fs: 1 2 4 22
+hypo: separar-se
+sa: @en:verb.social:break_away
+
+w: roubar[1]
+d: colocar, trazer ou levar de forma secreta ou furtiva
+e: roubar um cigarro
+e: roubar um sorriso
+fs: 8
+hypo: agir
+sa: @en:verb.social:sneak
+
+w: salvar[2]
+d: @en_refrain from harming
+fs: 8 9 11
+hyper: @en_favor
+hypo: verb.stative:resistir[4]
+sa: @en:verb.social:spare
+
+w: satisfazer
+d: decidir e seguir um curso de ação que satisfaçam os requisitos mínimos para alcançar um objetivo
+e: Otimização requer processos que são mais complexos do que os necessários para apenas satisfizer
+fs: 2
+hypo: agir
+sa: @en:verb.social:satisfice
+
+w: seguir[2]
+d: @en_accept and follow the leadership or command or guidance of
+fs: 8 9
+hypo: verb.body:agir
+sa: @en:verb.social:follow[10]
+
+w: seguir[3]
+w: suceder[1]
+w: vir_depois_de_
+d: ser o sucessor (de)
+fs: 2 9 22
+hyper: aceder
+hyper: sobrepor
+sa: @en:verb.social:come_after
+
+w: sindicar
+w: sindicar-se
+d: @en_organize into or form a syndicate
+fs: 9
+hypo: organizar
+sa: @en:verb.social:syndicate
+vg: sindicar-se[1]
+
+w: sindicar-se[1]
+d: @en_join together into a syndicate
+fs: 2
+hypo: verb.stative:conectar
+sa: @en:verb.social:syndicate[1]
+vg: sindicar
+
+w: sobrepor
+w: substituir[1]
+w: suplantar
+d: @en_take the place or move into the position of
+fs: 8 9 10 11
+hyper: @en_usurp
+hyper: substituir
+hyper: substituir[2]
+hyper: substituir[3]
+hypo: vir_depois_de_
+sa: @en:verb.social:replace
+vg: verb.change:substituir[1]
+vg: verb.contact:recolocar
+
+w: sobrepujar
+d: @en_check the growth of
+fs: 11
+hypo: @en_stunt
+sa: @en:verb.social:dwarf
+
+w: socorrer[2]
+d: ajudar em uma situação difícil
+fs: 9 10
+hypo: acorrer
+sa: @en:verb.social:succor
+
+w: sodomizar
+d: @en_practice anal sex upon
+fs: 9
+hypo: verb.contact:acasalar
+sa: @en:verb.social:bugger
+
+w: sofisticar
+d: @en_make less natural or innocent
+fs: 10
+hypo: civilizar
+sa: @en:verb.social:sophisticate
+
+w: soltar[1]
+d: @en_set animals loose to graze
+fs: 8
+hypo: soltar
+sa: @en:verb.social:run[4]
+vg: verb.motion:@en_run[6]
+
+w: subcontratar
+d: @en_arranged for contracted work to be done by others
+fs: 8 15
+hypo: assalariar
+sa: @en:verb.social:farm_out
+
+w: submeter
+d: @en_make subservient; force to submit or subdue
+fs: 9
+hyper: @en_dragoon[1]
+hyper: escravizar
+hypo: dominar
+sa: @en:verb.social:subject
+
+w: substituir[2]
+d: @en_act as a substitute
+fs: 9
+hyper: @en_cover
+hypo: sobrepor
+sa: @en:verb.social:deputise[9]
+
+w: substituir[3]
+d: @en_take the place of or have precedence over
+fs: 11
+hypo: sobrepor
+sa: @en:verb.social:preempt
+
+w: substituir[4]
+d: @en_appoint as a substitute
+fs: 9
+hypo: nomear[2]
+sa: @en:verb.social:deputise
+
+w: surpreender
+d: @en_come upon or take unawares
+fs: 8 9
+hyper: @en_blindside
+hypo: agir
+sa: @en:verb.social:surprise
+
+w: tapear
+w: trair[1]
+d: @en_be sexually unfaithful to one's partner in marriage
+fs: 9
+hyper: @en_fool_around
+hyper: @en_two-time
+hypo: enganar
+sa: @en:verb.social:cheat_on
+
+w: tapear[1]
+w: trapacear[2]
+d: praticar truques ou fraude
+fs: 2
+hyper: @en_cozen
+hyper: @en_crib
+hyper: @en_job
+hyper: @en_rig
+hyper: @en_shark
+hyper: deturpar
+hypo: enganar
+sa: @en:verb.social:chisel
+
+w: tiranizar
+d: @en_rule a country as a tyrant
+fs: 8
+hypo: ditar
+sa: @en:verb.social:grind_down
+
+w: tolerar
+d: @en_recognize and respect (rights and beliefs of others)
+fs: 8 9 10 11
+hypo: homenagear
+sa: @en:verb.social:tolerate[1]
+
+w: trabalhar[1]
+d: @en_to exert effort in order to do, make, or perform something
+fs: 8
+hyper: @en_belabor
+hypo: trabalhar[3]
+sa: @en:verb.social:work_on
+
+w: trabalhar[2]
+d: @en_be employed
+fs: 2 22
+hyper: verb.competition:exercer
+hyper: verb.possession:@en_bank[1]
+hyper: @en_blackleg
+hyper: @en_drive
+hyper: @en_farm
+hyper: @en_freelance
+hyper: @en_job[1]
+hyper: @en_man
+hyper: @en_occupy
+hyper: @en_serve
+hyper: @en_subcontract
+hyper: @en_tinker
+hyper: @en_turn_a_trick
+hyper: fazer_bico
+hyper: laborar
+hyper: mourejar
+sa: @en:verb.social:do_work
+vg: @en_put_to_work
+vg: trabalhar[3]
+vg: trabalhar[4]
+
+w: trabalhar[3]
+d: @en_exert oneself by doing mental or physical work for a purpose or out of necessity
+fs: 2 22
+hyper: verb.consumption:@en_go_through
+hyper: verb.contact:@en_mess_around
+hyper: @en_beaver
+hyper: @en_boondoggle
+hyper: @en_carpenter
+hyper: @en_clerk
+hyper: @en_electioneer
+hyper: @en_keep_one's_nose_to_the_grindstone
+hyper: @en_page
+hyper: @en_pull_one's_weight
+hyper: @en_scant
+hyper: @en_serve[1]
+hyper: @en_skipper
+hyper: @en_specialise
+hyper: @en_volunteer
+hyper: @en_wait
+hyper: @en_whore
+hyper: ajudar[4]
+hyper: colaborar
+hyper: estagiar
+hyper: ministrar
+hyper: ocupar
+hyper: trabalhar[1]
+hyper: trabalhar[4]
+sa: @en:verb.social:work[2]
+vg: trabalhar[2]
+
+w: trabalhar[4]
+d: @en_operate in a certain place, area, or specialty
+fs: 8 22
+hypo: trabalhar[3]
+sa: @en:verb.social:work[4]
+vg: trabalhar[2]
+
+w: tratar[2]
+d: @en_interact in a certain way
+fs: 5 8 9
+hyper: verb.communication:esnobar
+hyper: verb.communication:ironizar
+hyper: @en_brutalise
+hyper: @en_do_well_by
+hyper: @en_gloss_over
+hyper: @en_handle_with_kid_gloves
+hyper: @en_nurse
+hyper: @en_ride_roughshod
+hyper: @en_rough-house
+hyper: @en_strong-arm
+hyper: @en_upstage
+hyper: abusar
+hyper: afagar
+hyper: criminalizar[1]
+hyper: injustiçar
+hypo: interagir
+sa: @en:verb.social:do_by
+vg: verb.cognition:tratar
+vg: verb.communication:cobrir
+
+w: tutelar[1]
+d: agir como um guardião para alguém
+fs: 9
+hypo: verb.stative:inter-relacionar
+sa: @en:verb.social:tutor
+
+w: unificar[1]
+w: unir
+d: reunir-se para uma finalidade comum ou ação ou ideologia ou numa situação compartilhada
+fs: 9 10
+hyper: verb.contact:ligar[3]
+hypo: verb.change:alterar[2]
+sa: @en:verb.social:unify[4]
+
+w: usar[1]
+w: utilizar[1]
+d: @en_seek or achieve an end by using to one's advantage
+fs: 8 9
+hyper: infrinjir
+hypo: verb.consumption:aproveitar
+sa: @en:verb.social:use[14]
+
+w: vetar
+d: @en_vote against; refuse to endorse; refuse to assent
+fs: 8
+entail: votar[4]
+hyper: @en_defeat
+hypo: verb.communication:opor[1]
+sa: @en:verb.social:negative
+
+w: visitar_uma_favela_ou_bairro_pobre
+d: @en_spend time at a lower socio-economic level than one's own, motivated by curiosity or desire for adventure; usage considered condescending and insensitive
+fs: 8
+hypo: verb.stative:fazer_passar
+sa: @en:verb.social:slum
+
+w: vitimizar
+d: punir injustamente
+fs: 9 10
+hypo: castigar
+sa: @en:verb.social:victimise
+
+w: votar
+d: @en_be guided by in voting
+fs: 8
+sa: @en:verb.social:vote[9]
+
+w: votar[1]
+d: @en_elect in a voting process
+fs: 8 9
+hypo: verb.cognition:selecionar
+sa: @en:verb.social:vote_in
+
+w: votar[2]
+d: @en_express one's preference for a candidate or for a measure or resolution; cast a vote
+fs: 2 22
+hyper: @en_outvote
+hyper: @en_poll[1]
+hyper: @en_turn_thumbs_down
+hyper: @en_write_in
+hyper: votar[5]
+hypo: verb.cognition:selecionar
+sa: @en:verb.social:vote[13]
+vg: votar[3]
+
+w: votar[3]
+d: @en_express one's choice or preference by vote
+fs: 8
+hyper: @en_bullet_vote
+hypo: verb.communication:exprimir
+sa: @en:verb.social:vote[10]
+vg: votar[2]
+
+w: votar[4]
+d: expressar uma escolha ou opinião
+fs: 22 26
+hyper: votar[6]
+hypo: verb.communication:exprimir
+sa: @en:verb.social:vote[11]
+
+w: votar[5]
+d: votação por escrutínio
+fs: 2
+hypo: votar[2]
+sa: @en:verb.social:ballot
+
+w: votar[6]
+d: @en_bring into existence or make available by vote
+fs: 8
+hypo: votar[4]
+sa: @en:verb.social:vote[12]
+
