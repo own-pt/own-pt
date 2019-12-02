@@ -1,4 +1,4 @@
 wn_name	wn_path	base_IRI
-pt	./	https://w3id.org/own-pt/wn30-pt/instances/
+pt	../src	https://w3id.org/own-pt/wn30-pt/instances/
 -- clone the own-en repo in the same directory as the this repo, or change the path
 en	../../own-en/src	https://w3id.org/own-pt/wn30-en/instances/
