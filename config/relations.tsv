@@ -7,7 +7,8 @@ sameVerbGroupAs	$	vg	sameVerbGroupAs	v	synset,word	Verb Group
 memberMeronymOf	%m	mm	memberMeronymOf	n	synset	Member meronym
 partMeronymOf	%p	mp	partMeronymOf	n	synset	Part meronym
 substanceMeronymOf	%s	ms	substanceMeronymOf	n	synset	Substance meronym
-similarTo	&	sim	similarTo	a,s	synset	Similar to
+similarTo	&	sim	similarTo	a,s	synset	Similar to (head -> satellite)
+satelliteOf	&	so	satelliteOf	a,s	synset	Similar to (satellite -> head)
 entails	*	entail	entails	v	synset	entailment
 derivationallyRelated	+	drf	derivationallyRelated	n,v,a,s,r	synset,word	Derivationally related form
 classifiedByTopic	-c	mt	classifiedByTopic	n,v,a,r,s	synset,word	Member of this domain - TOPIC
