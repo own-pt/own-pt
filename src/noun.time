@@ -1608,7 +1608,7 @@ sa: @en:noun.time:minority
 w: @en_modern_era
 d: @en_the present or recent times
 hyper: era_da_informação
-hypo: Escala_de_tempo_geológico
+hypo: época
 sa: @en:noun.time:modern_era
 
 w: @en_moment_of_truth
@@ -2252,12 +2252,6 @@ hp: mar
 hypo: @en_quarter_day
 sa: @en:noun.time:Annunciation
 
-w: Arqueano
-d: @en_the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life
-hp: Precambriano
-ihyper: éon[1]
-sa: @en:noun.time:Archaeozoic
-
 w: Ascensão
 d: @en_(Christianity) celebration of the Ascension of Christ into heaven; observed on the 40th day after Easter
 hypo: @en_holy_day_of_obligation
@@ -2393,31 +2387,8 @@ sa: @en:noun.time:Hindu_calendar
 w: Califados
 w: califado
 d: @en_the era of Islam's ascendancy from the death of Mohammed until the 13th century; some Moslems still maintain that the Moslem world must always have a calif as head of the community
-ihyper: Escala_de_tempo_geológico
+ihyper: época
 sa: @en:noun.time:Caliphate
-
-w: Cambriano
-d: @en_from 544 million to about 500 million years ago; marine invertebrates
-hp: Paleozoico
-ihyper: período[12]
-sa: @en:noun.time:Cambrian
-
-w: Carbonífero
-d: @en_from 345 million to 280 million years ago
-hp: Paleozoico
-ihyper: período[12]
-mp: Mississippiano
-mp: Pennsylvaniano
-sa: @en:noun.time:Carboniferous
-
-w: Cenozoico
-w: Cenozóico
-d: @en_approximately the last 63 million years
-hp: Fanerozoico
-ihyper: era[5]
-mp: Quaternário
-mp: Terciário
-sa: @en:noun.time:Age_of_Mammals
 
 w: Chanuca
 w: Chanucá
@@ -2463,19 +2434,6 @@ w: Oração_da_Noite
 d: @en_last of the seven canonical hours just before retiring
 hypo: Horas_Canônicas
 sa: @en:noun.time:complin
-
-w: Cretáceo
-d: @en_from 135 million to 63 million years ago; end of the age of reptiles; appearance of modern insects and flowering plants
-hp: Mesozoico
-ihyper: período[12]
-sa: @en:noun.time:Cretaceous
-
-w: Devoniano
-w: Devónico
-d: @en_from 405 million to 345 million years ago; preponderance of fishes and appearance of amphibians and ammonites
-hp: Paleozoico
-ihyper: período[12]
-sa: @en:noun.time:Age_of_Fishes
 
 w: Dezembro
 w: dez
@@ -2721,13 +2679,6 @@ hp: Calendário_Judaico
 hypo: mês__judaico
 sa: @en:noun.time:Ellul
 
-w: Eoceno
-w: eoceno
-d: @en_from 58 million to 40 million years ago; presence of modern mammals
-hp: Terciário
-ihyper: período[15]
-sa: @en:noun.time:Eocene
-
 w: Epifania
 w: Epifania_do_Senhor
 d: @en_twelve days after Christmas; celebrates the visit of the three wise men to the infant Jesus
@@ -2738,7 +2689,7 @@ sa: @en:noun.time:Epiphany
 w: Era_Comum
 w: Era_Cristã
 d: o período de tempo que se inicia com o suposto ano do nascimento de Cristo
-ihyper: Escala_de_tempo_geológico
+ihyper: época
 sa: @en:noun.time:Christian_era
 
 w: Era_da_Prata
@@ -2748,7 +2699,6 @@ hypo: etapa
 mt: noun.group:@en_classical_mythology
 sa: @en:noun.time:silver_age
 
-w: Escala_de_tempo_geológico
 w: era
 w: idade
 w: período
@@ -2794,13 +2744,6 @@ w: eternidade
 d: @en_a seemingly endless time interval (waiting)
 hypo: intervalo_de_tempo
 sa: @en:noun.time:eternity[1]
-
-w: Fanerozoico
-w: Fanerozóico
-d: @en_the period from about 5,400 million years ago until the present
-ihyper: éon[1]
-mp: Cenozoico
-sa: @en:noun.time:Phanerozoic
 
 w: Femtossegundo
 w: femtossegundo
@@ -2949,22 +2892,10 @@ hypo: dia[6]
 mr: noun.location:América
 sa: @en:noun.time:February_2
 
-w: Hadeano
-d: @en_the earliest eon in the history of the Earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life
-ihyper: éon[1]
-sa: @en:noun.time:Hadean
-
 w: Happy_Hour
 d: @en_the time of day when a bar sells alcoholic drinks at a reduced price
 hypo: hora[5]
 sa: @en:noun.time:happy_hour
-
-w: Holoceno
-w: Holocénico
-d: @en_approximately the last 10,000 years
-hp: Quaternário
-ihyper: período[15]
-sa: @en:noun.time:Holocene
 
 w: Hora-de-ponta
 w: Hora_de_ponta
@@ -3152,12 +3083,6 @@ mp: @en_mid-June
 mp: Festa_de_São_Pedro_e_São_Paulo
 sa: @en:noun.time:June
 
-w: Jurássico
-d: @en_from 190 million to 135 million years ago; dinosaurs; conifers
-hp: Mesozoico
-ihyper: período[12]
-sa: @en:noun.time:Jurassic
-
 w: Karttika
 d: @en_the eighth month of the Hindu calendar
 hp: Calendário_hindu
@@ -3225,15 +3150,6 @@ hp: Idade_da_Pedra
 ihyper: etapa
 sa: @en:noun.time:Epipaleolithic
 
-w: Mesozoico
-w: Mesozóico
-d: @en_from 230 million to 63 million years ago
-ihyper: era[5]
-mp: Cretáceo
-mp: Jurássico
-mp: Triássico
-sa: @en:noun.time:Age_of_Reptiles
-
 w: Messidor
 w: messidor
 d: @en_tenth month of the Revolutionary calendar (June and July); the month of harvest
@@ -3253,12 +3169,6 @@ d: @en_the ratio of the distance traveled (in miles) to the time spent traveling
 hypo: velocidade
 sa: @en:noun.time:miles_per_hour[1]
 
-w: Mioceno
-d: @en_from 25 million to 13 million years ago; appearance of grazing mammals
-hp: Terciário
-ihyper: período[15]
-sa: @en:noun.time:Miocene
-
 w: Missa_do_galo
 w: Véspera_de_Natal
 w: Véspera_de_natal
@@ -3266,12 +3176,6 @@ w: consoada
 d: @en_the day before Christmas
 hypo: Efeméride
 sa: @en:noun.time:Christmas_Eve
-
-w: Mississippiano
-d: @en_from 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects
-hp: Carbonífero
-ihyper: período[12]
-sa: @en:noun.time:Lower_Carboniferous
 
 w: Morte_subita
 w: Morte_súbita
@@ -3355,23 +3259,11 @@ hypo: @en_March_equinox
 mt: noun.communication:Língua_Persa
 sa: @en:noun.time:Noruz
 
-w: Oligoceno
-d: @en_from 40 million to 25 million years ago; appearance of sabertoothed cats
-hp: Terciário
-ihyper: período[15]
-sa: @en:noun.time:Oligocene
-
 w: Olimpíada
 w: olimpíada
 d: @en_one of the four-year intervals between Olympic Games; used to reckon time in ancient Greece for twelve centuries beginning in 776 BC
 hypo: etapa
 sa: @en:noun.time:Olympiad
-
-w: Ordoviciano
-d: @en_from 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds
-hp: Paleozoico
-ihyper: período[12]
-sa: @en:noun.time:Ordovician
 
 w: Outubro
 w: out
@@ -3383,12 +3275,6 @@ mp: 24_de_Outubro
 mp: @en_Columbus_Day
 mp: @en_mid-October
 sa: @en:noun.time:Oct
-
-w: Paleoceno
-d: @en_from 63 million to 58 million years ago; appearance of birds and earliest mammals
-hp: Terciário
-ihyper: período[15]
-sa: @en:noun.time:Paleocene
 
 w: Paleolítico
 w: paleolítico
@@ -3421,19 +3307,6 @@ hp: Paleolítico
 ihyper: etapa
 sa: @en:noun.time:Upper_Paleolithic
 
-w: Paleozoico
-w: Paleozóico
-w: paleozóico
-d: @en_from 544 million to about 230 million years ago
-ihyper: era[5]
-mp: Cambriano
-mp: Carbonífero
-mp: Devoniano
-mp: Ordoviciano
-mp: Permiano
-mp: Siluriano
-sa: @en:noun.time:Paleozoic
-
 w: Pansa
 d: @en_the tenth month of the Hindu calendar
 hp: Calendário_hindu
@@ -3459,12 +3332,6 @@ hp: pentecostes
 hypo: @en_quarter_day
 sa: @en:noun.time:Whitsunday
 
-w: Permiano
-d: @en_from 280 million to 230 million years ago; reptiles
-hp: Paleozoico
-ihyper: período[12]
-sa: @en:noun.time:Permian
-
 w: Período_de_incubação
 d: @en_the period between infection and the appearance of symptoms of the disease
 hypo: etapa
@@ -3478,19 +3345,6 @@ hyper: Páscoa_judaica[1]
 hypo: Festa_móvel
 mt: noun.cognition:judaísmo
 sa: @en:noun.time:Feast_of_the_Unleavened_Bread
-
-w: Pleistoceno
-w: Pleistocénico
-d: @en_from two million to 11 thousand years ago; extensive glaciation of the northern hemisphere; the time of human evolution
-hp: Quaternário
-ihyper: período[15]
-sa: @en:noun.time:Glacial_epoch
-
-w: Plioceno
-d: @en_from 13 million to 2 million years ago; growth of mountains; cooling of climate; more and larger mammals
-hp: Terciário
-ihyper: período[15]
-sa: @en:noun.time:Pliocene
 
 w: Pluvioso
 d: @en_fifth month of the Revolutionary calendar (January and February); the rainy month
@@ -3511,28 +3365,10 @@ d: @en_the length of time a packaged food or drug will last without deterioratin
 hypo: etapa
 sa: @en:noun.time:shelf_life
 
-w: Precambriano
-w: Precâmbrico
-w: Pré-Câmbrico
-w: Pré-cambriano
-w: Pré_Cambriano
-d: @en_the eon following the Hadean time and preceding the Phanerozoic eon; from about 3,800 million years ago until 544 million years ago
-ihyper: éon[1]
-mp: Arqueano
-mp: Proterozoico
-sa: @en:noun.time:Precambrian
-
 w: Problema_do_ano_2000
 d: @en_the year 2000 in the Gregorian calendar
 hypo: ano[2]
 sa: @en:noun.time:Y2K
-
-w: Proterozoico
-w: Proterozóico
-d: @en_from 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms
-hp: Precambriano
-ihyper: éon[1]
-sa: @en:noun.time:Proterozoic
 
 w: Purim
 d: @en_(Judaism) a Jewish holy day commemorating their deliverance from massacre by Haman
@@ -3582,14 +3418,6 @@ w: quarta_dimensão
 d: @en_the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event
 hypo: noun.attribute:amplidão
 sa: @en:noun.time:fourth_dimension
-
-w: Quaternário
-d: @en_last 2 million years
-hp: Cenozoico
-ihyper: período[12]
-mp: Holoceno
-mp: Pleistoceno
-sa: @en:noun.time:Age_of_Man
 
 w: Quinquagésima
 d: @en_the Sunday before Ash Wednesday (the beginning of Lent)
@@ -3767,12 +3595,6 @@ hypo: semana[2]
 mt: noun.cognition:judaísmo
 sa: @en:noun.time:shibah
 
-w: Siluriano
-d: @en_from 425 million to 405 million years ago; first air-breathing animals
-hp: Paleozoico
-ihyper: período[12]
-sa: @en:noun.time:Silurian
-
 w: Simchat_Torá
 w: Simchat_torá
 d: @en_(Judaism) a Jewish holy day celebrated on the 22nd or 23rd of Tishri to celebrate the completion of the annual cycle of readings of the Torah
@@ -3847,17 +3669,6 @@ d: @en_a day set aside for fasting and prayer
 hypo: feriado_religioso_cristão
 sa: @en:noun.time:Ember_Day
 
-w: Terciário
-d: @en_from 63 million to 2 million years ago
-hp: Cenozoico
-ihyper: período[12]
-mp: Eoceno
-mp: Mioceno
-mp: Oligoceno
-mp: Paleoceno
-mp: Plioceno
-sa: @en:noun.time:Tertiary
-
 w: Termidor
 d: @en_eleventh month of the Revolutionary calendar (July and August); the month of heat
 hp: @en_Revolutionary_calendar
@@ -3890,12 +3701,6 @@ hypo: Ta'anit
 hypo: festas_judaicas
 mt: noun.cognition:judaísmo
 sa: @en:noun.time:Fast_of_Ab
-
-w: Triássico
-d: @en_from 230 million to 190 million years ago; dinosaurs, marine reptiles; volcanic activity
-hp: Mesozoico
-ihyper: período[12]
-sa: @en:noun.time:Triassic
 
 w: Uma_semana_a_partir_de_segunda-feira
 d: @en_a time period of a week or more
@@ -4962,7 +4767,7 @@ sa: @en:noun.time:times[1]
 w: era[2]
 w: período[4]
 d: @en_an era of existence or influence
-hypo: Escala_de_tempo_geológico
+hypo: época
 sa: @en:noun.time:day[5]
 
 w: era[3]
@@ -4994,7 +4799,7 @@ hyper: @en_turn_of_the_century
 hyper: antiguidade
 hyper: idade_de_ouro
 hyper: reinado
-hypo: Escala_de_tempo_geológico
+hypo: época
 ihypo: noun.group:iluminismo
 ihypo: @en_Restoration
 ihypo: @en_Victorian_age
@@ -5010,17 +4815,6 @@ ihypo: Revolução_Industrial
 ihypo: Terror
 ihypo: era_elizabetana
 sa: @en:noun.time:historic_period
-
-w: era[5]
-w: período[7]
-d: @en_a major division of geological time; an era is usually divided into two or more periods
-hp: éon[1]
-hypo: era_geológica
-ihypo: Cenozoico
-ihypo: Mesozoico
-ihypo: Paleozoico
-mp: período[12]
-sa: @en:noun.time:geological_era
 
 w: era_da_informação
 d: um período com início no último quarto do século 20, quando a informação se tornou facilmente acessível através de publicações e através da manipulação da informação por computadores e redes de computadores
@@ -5051,16 +4845,6 @@ w: era_espacial
 d: a idade a partir da primeira viagem espacial; de 1957 até o presente
 hypo: momento
 sa: @en:noun.time:space_age
-
-w: era_geológica
-w: período_geológico
-d: @en_the time of the physical formation and development of the earth (especially prior to human history)
-hyper: era[5]
-hyper: período[12]
-hyper: período[15]
-hyper: éon[1]
-hypo: noun.Tops:espaço_temporal
-sa: @en:noun.time:geologic_time
 
 w: escala_de_tempo_rápida
 d: @en_(simulation) the time scale used in data processing when the time-scale factor is less than one
@@ -5231,7 +5015,7 @@ hyper: ano[1]
 hyper: ano[2]
 hyper: ano[4]
 hyper: ano[7]
-hyper: arrendamento
+manter
 hyper: auge
 hyper: bimestre
 hyper: bimilenio
@@ -6694,28 +6478,6 @@ hyper: @en_orbit_period
 hypo: intervalo_de_tempo
 sa: @en:noun.time:period[2]
 
-w: período[12]
-w: período_geológico[1]
-d: @en_a unit of geological time during which a system of rocks formed
-hp: era[5]
-hyper: era_do_gelo
-hypo: era_geológica
-ihypo: Cambriano
-ihypo: Carbonífero
-ihypo: Cretáceo
-ihypo: Devoniano
-ihypo: Jurássico
-ihypo: Mississippiano
-ihypo: Ordoviciano
-ihypo: Pennsylvaniano
-ihypo: Permiano
-ihypo: Quaternário
-ihypo: Siluriano
-ihypo: Terciário
-ihypo: Triássico
-mp: período[15]
-sa: @en:noun.time:geological_period
-
 w: período[13]
 w: época[3]
 d: @en_a period of time during which a person is normally in a particular life state
@@ -6754,20 +6516,6 @@ w: período[14]
 d: @en_an unbroken period of time during which you do something
 hypo: continuidade[1]
 sa: @en:noun.time:stint
-
-w: período[15]
-w: época[4]
-d: @en_a unit of geological time that is a subdivision of a period and is itself divided into ages
-hp: período[12]
-hypo: era_geológica
-ihypo: Eoceno
-ihypo: Holoceno
-ihypo: Mioceno
-ihypo: Oligoceno
-ihypo: Paleoceno
-ihypo: Pleistoceno
-ihypo: Plioceno
-sa: @en:noun.time:epoch[1]
 
 w: período_Romano
 w: tempos_Romanos
@@ -7536,19 +7284,1415 @@ d: @en_an immeasurably long period of time
 hypo: idade[2]
 sa: @en:noun.time:aeon
 
-w: éon[1]
-d: @en_the longest division of geological time
-hypo: era_geológica
-ihypo: Arqueano
-ihypo: Fanerozoico
-ihypo: Hadeano
-ihypo: Precambriano
-ihypo: Proterozoico
-mp: era[5]
-sa: @en:noun.time:aeon[1]
-
 w: último_suspiro
 d: @en_the point of death or exhaustion or completion
 hypo: cabo
 sa: @en:noun.time:last_gasp
+w: Aaleniano
+d: uma idade geocronológica compreendida entre 174.1+/-1.0 milhões de anos atrás e 170.3+/-1.4 milhões de anos atrás
+hp: Jurássico_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Aalenian
 
+w: Aeroniano
+d: uma idade geocronológica compreendida entre 440.8+/-1.2 milhões de anos atrás e 438.5+/-1.1 milhões de anos atrás
+hp: Llandovery
+ihyper: idade_geocronológica
+sa: @en:noun.time:Aeronian
+
+w: Mesozoico
+w: Mesozóico
+d: uma era geocronológica compreendida entre 251.902+/-0.024 milhões de anos atrás e 66.0 milhões de anos atrás
+hp: Fanerozóico
+ihyper: era_geocronológica
+mp: Cretáceo
+mp: Jurássico
+mp: Triásico
+sa: @en:noun.time:Mesozoic
+
+w: Devoniano
+w: Devónico
+d: um período geocronológico compreendido entre 419,2+/-3,2 milhões de anos atrás e 358,9+/-0,4 milhões de anos atrás; distingue-se pela preponderância de peixes e surgimento de amonites
+hp: Paleozoico
+ihyper: período_geocronológico
+mp: Devoniano_Inferior
+mp: Devoniano_Médio
+mp: Devoniano_Superior
+sa: @en:noun.time:Devonian
+
+w: Cenozoico
+w: Cenozóico
+d: uma era geocronológica compreendida entre 66,0 milhões de anos atrás e o presente
+hp: Fanerozóico
+ihyper: era_geocronológica
+mp: Neogénico
+mp: Paleogénico
+mp: Quaternário
+sa: @en:noun.time:Cenozoic
+
+w: Quaternário
+d: um período geocronológico compreendido entre 2,58 milhões de anos atrás até o presente
+hp: Cenozoico
+ihyper: período_geocronológico
+mp: Holocénico
+mp: Pleistoceno
+sa: @en:noun.time:Quaternary
+
+w: Albiano
+d: uma idade geocronológica compreendida entre 100.5 milhões de anos atrás e circa 113.0 milhões de anos atrás
+hp: Cretáceo_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Albian
+
+w: Anisiano
+d: uma idade geocronológica compreendida entre circa 242 milhões de anos atrás e 247.2 milhões de anos atrás
+hp: Triásico_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Anisian
+
+w: Aptiano
+d: uma idade geocronológica compreendida entre circa 113.0 milhões de anos atrás e circa 125.0 milhões de anos atrás
+hp: Cretáceo_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Aptian
+
+w: Aquitaniano
+d: uma idade geocronológica compreendida entre 20.44 milhões de anos atrás e 23.03 milhões de anos atrás
+hp: Mioceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Aquitanian
+
+w: Arcaico
+w: Arcaiqueano
+w: Arqueano
+d: um período geocronológico compreendido entre 4000 milhões de anos atrás e 2500 milhões de anos atrás; distingue-se pela formação da crosta terrestre; distingue-se pelo surgimento de formas primitivas de vida, organismos unicelulares
+hp: Pré-Cambriano
+ihyper: éon_geocronológica
+mp: Eoarcaico
+mp: Mesoarcaiqueano
+mp: Neoarcaiqueano
+mp: Paleoarcaico
+sa: @en:noun.time:Archean
+
+w: Artinskiano
+d: uma idade geocronológica compreendida entre 283.5+/-0.6 milhões de anos atrás e 290.1+/-0.26 milhões de anos atrás
+hp: Cisuraliano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Artinskian
+
+w: Asseliano
+d: uma idade geocronológica compreendida entre 293.52+/-0.17 milhões de anos atrás e 298.9+/-0.15 milhões de anos atrás
+hp: Cisuraliano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Asselian
+
+w: Bajociano
+d: uma idade geocronológica compreendida entre 168.3+/-1.3 milhões de anos atrás e 170.3+/-1.4 milhões de anos atrás
+hp: Jurássico_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Bajocian
+
+w: Barremiano
+d: uma idade geocronológica compreendida entre circa 125.0 milhões de anos atrás e circa 129.4 milhões de anos atrás
+hp: Cretáceo_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Barremian
+
+w: Bartoniano
+d: uma idade geocronológica compreendida entre 37.8 milhões de anos atrás e 41.2 milhões de anos atrás
+hp: Eoceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Bartonian
+
+w: Bashkiriano
+d: uma idade geocronológica compreendida entre 315.2+/-0.2 milhões de anos atrás e 323.2+/-0.4 milhões de anos atrás
+hp: Pennsylvánico_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Bashkirian
+
+w: Bathoniano
+w: Batoniano
+d: uma idade geocronológica compreendida entre 166.1+/-1.2 milhões de anos atrás e 168.3+/-1.3 milhões de anos atrás
+hp: Jurássico_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Bathonian
+
+w: Berriasiano
+d: uma idade geocronológica compreendida entre circa 139.8 milhões de anos atrás e circa 145.0 milhões de anos atrás
+hp: Cretáceo_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Berriasian
+
+w: Burdigaliano
+d: uma idade geocronológica compreendida entre 15.97 milhões de anos atrás e 20.44 milhões de anos atrás
+hp: Mioceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Burdigalian
+
+w: Calabriano
+d: uma idade geocronológica compreendida entre 0.773 milhões de anos atrás e 1.80 milhões de anos atrás
+hp: Pleistoceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Calabrian
+
+w: Calloviano
+d: uma idade geocronológica compreendida entre 163.5+/-1.0 milhões de anos atrás e 166.1+/-1.2 milhões de anos atrás
+hp: Jurássico_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Callovian
+
+w: Calimiano
+w: Calymmiano
+d: um período geocronológico compreendido entre 1600 milhões de anos atrás e 1400 milhões de anos atrás
+hp: Mesooproterozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Calymmian
+
+w: Cambriano
+w: Câmbrico
+d: um período geocronológico compreendido entre 541.0+/-1.0 milhões de anos atrás e 485.4+/-1.9 milhões de anos atrás; distingue-se pelo surgimento de invertebrados marinhos
+hp: Paleozoico
+ihyper: período_geocronológico
+mp: Cambriano_Série_2
+mp: Furongiano
+mp: Miaolingiano
+mp: Terreneuviano
+sa: @en:noun.time:Cambrian
+
+w: Cambriano_Série_2
+w: Câmbrico_Série_2
+d: uma época geocronológica compreendida entre circa 521 milhões de anos atrás e circa 509 milhões de anos atrás
+hp: Cambriano
+ihyper: época_geocronológica
+mp: Cambriano_Andar_3
+mp: Cambriano_Andar_4
+sa: @en:noun.time:Cambrian_Series2
+
+w: Cambriano_Andar_10
+w: Câmbrico_Andar_10
+d: uma idade geocronológica compreendida entre 485.4+/-1.9 milhões de anos atrás e circa 489.5 milhões de anos atrás
+hp: Furongiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Cambrian_Stage10
+
+w: Cambriano_Andar_2
+w: Câmbrico_Andar_2
+d: uma idade geocronológica compreendida entre circa 529 milhões de anos atrás e circa 521 milhões de anos atrás
+hp: Terreneuviano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Cambrian_Stage2
+
+w: Cambriano_Andar_3
+w: Câmbrico_Andar_3
+d: uma idade geocronológica compreendida entre circa 521 milhões de anos atrás e circa 514 milhões de anos atrás
+hp: Cambriano_Série_2
+ihyper: idade_geocronológica
+sa: @en:noun.time:Cambrian_Stage3
+
+w: Cambriano_Andar_4
+w: Câmbrico_Andar_4
+d: uma idade geocronológica compreendida entre circa 514 milhões de anos atrás e circa 509 milhões de anos atrás
+hp: Cambriano_Série_2
+ihyper: idade_geocronológica
+sa: @en:noun.time:Cambrian_Stage4
+
+w: Campaniano
+d: uma idade geocronológica compreendida entre 83.6+/-0.2 milhões de anos atrás e 72.1+/-0.2 milhões de anos atrás
+hp: Cretáceo_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Campanian
+
+w: Capitaniano
+d: uma idade geocronológica compreendida entre 265.1+/-0.4 milhões de anos atrás e 259.1+/-0.5 milhões de anos atrás
+hp: Guadalupiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Capitanian
+
+w: Carbónico
+w: Carbonífero
+d: um período geocronológico compreendido entre 358.9+/-0.4 milhões de anos atrás e 298.9+/-0.15 milhões de anos atrás
+hp: Paleozoico
+ihyper: período_geocronológico
+mp: Carbónico_Inferior
+mp: Carbónico_Superior
+sa: @en:noun.time:Carboniferous
+
+w: Carniano
+d: uma idade geocronológica compreendida entre circa 237 milhões de anos atrás e circa 227 milhões de anos atrás
+hp: Triásico_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Carnian
+
+w: Cenomaniano
+d: uma idade geocronológica compreendida entre 100.5 milhões de anos atrás e 93.9 milhões de anos atrás
+hp: Cretáceo_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Cenomanian
+
+w: Changhsingiano
+d: uma idade geocronológica compreendida entre 254.14+/-0.07 milhões de anos atrás e 251902+/-0.024 milhões de anos atrás
+hp: Lopingiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Changhsingian
+
+w: Chattiano
+d: uma idade geocronológica compreendida entre 27.82 milhões de anos atrás e 23.03 milhões de anos atrás
+hp: Oligocénico
+ihyper: idade_geocronológica
+sa: @en:noun.time:Chattian
+
+w: Cisuraliano
+d: uma época geocronológica compreendida entre 298.9+/-0.15 milhões de anos atrás e 272.95+/-0.11 milhões de anos atrás
+hp: Permiano
+ihyper: época_geocronológica
+mp: Artinskiano
+mp: Asseliano
+mp: Kunguriano
+mp: Sakmariano
+sa: @en:noun.time:Cisuralian
+
+w: Coniaciano
+d: uma idade geocronológica compreendida entre 89.8+/-0.3 milhões de anos atrás e 86.3+/-0.5 milhões de anos atrás
+hp: Cretáceo_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Coniacian
+
+w: Cretáceo
+d: um período geocronológico compreendido entre circa 145.0 milhões de anos atrás e 66.0 milhões de anos atrás; distingue-se pelo surgimento de insetos modernos e de angiospermas
+hp: Mesozoico
+ihyper: período_geocronológico
+mp: Cretáceo_Inferior
+mp: Cretáceo_Superior
+sa: @en:noun.time:Cretaceous
+
+w: Criogeniano
+w: Cryogeniano
+d: um período geocronológico compreendido entre circa 720 milhões de anos atrás e circa 635 milhões de anos atrás
+hp: Neoproterozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Cryogenian
+
+w: Daniano
+d: uma idade geocronológica compreendida entre 66.0 milhões de anos atrás e 61.6 milhões de anos atrás
+hp: Paleocénico
+ihyper: idade_geocronológica
+sa: @en:noun.time:Danian
+
+w: Dapingiano
+d: uma idade geocronológica compreendida entre 470.0+/-1.4 milhões de anos atrás e 467.3+/-1.1 milhões de anos atrás
+hp: Ordoviciano_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Dapingian
+
+w: Darriwiliano
+d: uma idade geocronológica compreendida entre 467.3+/-1.1 milhões de anos atrás e 458.4+/-0.9 milhões de anos atrás
+hp: Ordoviciano_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Darriwilian
+
+w: Drumiano
+d: uma idade geocronológica compreendida entre circa 504.5 milhões de anos atrás e circa 500.5 milhões de anos atrás
+hp: Miaolingiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Drumian
+
+w: Ectasiano
+d: um período geocronológico compreendido entre 1400 milhões de anos atrás e 1200 milhões de anos atrás
+hp: Mesooproterozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Ectasian
+
+w: Ediacariano
+d: um período geocronológico compreendido entre circa 635 milhões de anos atrás e 541.0+/-1.0 milhões de anos atrás
+hp: Neoproterozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Ediacaran
+
+w: Eifeliano
+d: uma idade geocronológica compreendida entre 393.3+/-1.2 milhões de anos atrás e 387.7+/-0.8 milhões de anos atrás
+hp: Devoniano_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Eifelian
+
+w: Emsiano
+d: uma idade geocronológica compreendida entre 407.6+/-2.6 milhões de anos atrás e 393.3+/-1.2 milhões de anos atrás
+hp: Devoniano_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Emsian
+
+w: Eoarcaico
+w: Eoarcaiqueano
+w: Eoarqueano
+d: uma era geocronológico compreendida entre 3600 milhões de anos atrás e 4000 milhões de anos atrás
+hp: Arqueano
+ihyper: era_geocronológica
+sa: @en:noun.time:Eoarchean
+
+w: Eoceno
+d: uma época geocronológica compreendida entre 56 milhões de anos atrás e 33.9 milhões de anos atrás; distingue-se pelo surgimento de mamíferos modernos; distingue-se pelo surgimento de tigres dente de sabre
+hp: Paleogénico
+ihyper: época_geocronológica
+mp: Bartoniano
+mp: Lutetiano
+mp: Priaboniano
+mp: Ypresiano
+sa: @en:noun.time:Eocene
+
+w: Fameniano
+w: Famenniano
+d: uma idade geocronológica compreendida entre 372.2+/-1.6 milhões de anos atrás e 358.9+/-0.4 milhões de anos atrás
+hp: Devoniano_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Famennian
+
+w: Floiano
+d: uma idade geocronológica compreendida entre 477.7+/-1.4 milhões de anos atrás e 470.0+/-1.4 milhões de anos atrás
+hp: Ordoviciano_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Floian
+
+w: Fortuniano
+d: uma idade geocronológica compreendida entre 541.0+/-1.0 milhões de anos atrás e circa 529 milhões de anos atrás
+hp: Terreneuviano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Fortunian
+
+w: Frasniano
+d: uma idade geocronológica compreendida entre 382.7+/-1.6 milhões de anos atrás e 372.2+/-1.6 milhões de anos atrás
+hp: Devoniano_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Frasnian
+
+w: Furongiano
+d: uma época geocronológica compreendida entre circa 497 milhões de anos atrás e 485.4+/-1.9 milhões de anos atrás
+hp: Cambriano
+ihyper: época_geocronológica
+mp: Cambriano_Andar_10
+mp: Jiangshaniano
+mp: Paibiano
+sa: @en:noun.time:Furongian
+
+w: Gelasiano
+d: uma idade geocronológica compreendida entre 2.58 milhões de anos atrás e 1.80 milhões de anos atrás
+hp: Pleistoceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Gelasian
+
+w: Givetiano
+d: uma idade geocronológica compreendida entre 387.7+/-0.8 milhões de anos atrás e 382.7+/-1.6 milhões de anos atrás
+hp: Devoniano_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Givetian
+
+w: Gorstiano
+d: uma idade geocronológica compreendida entre 427.4+/-0.5 milhões de anos atrás e 425.6+/-0.9 milhões de anos atrás
+hp: Ludlow
+ihyper: idade_geocronológica
+sa: @en:noun.time:Gorstian
+
+w: Gronelandês
+d: uma idade geocronológica compreendida entre 0.011700 milhões de anos atrás e 0.008276 milhões de anos atrás
+hp: Holocénico
+ihyper: idade_geocronológica
+sa: @en:noun.time:Greenlandian
+
+w: Guadalupiano
+d: uma época geocronológica compreendida entre 272.95+/-0.11 milhões de anos atrás e 259.1+/-0.5 milhões de anos atrás
+hp: Permiano
+ihyper: época_geocronológica
+mp: Capitaniano
+mp: Roadiano
+mp: Wordiano
+sa: @en:noun.time:Guadalupian
+
+w: Guzhangiano
+d: uma idade geocronológica compreendida entre circa 500.5 milhões de anos atrás e circa 497 milhões de anos atrás
+hp: Miaolingiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Guzhangian
+
+w: Gzheliano
+d: uma idade geocronológica compreendida entre 303.7+/-0.1 milhões de anos atrás e 298.9+/-0.15 milhões de anos atrás
+hp: Pennsylvánico_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Gzhelian
+
+w: Hadeano
+w: Pré-Arcaico
+w: Pré-Arcaiqueano
+w: Pré-Arqueano
+w: Priscoano
+d: um período geocronológico compreendido entre circa 4567 milhões de anos atrás e 4000 milhões de anos atrás;  o primeiro éon da história da Terra; começa na primeira acreção de material planetário; encerra-se na data das mais antigas rochas conhecidas; distingue-se pela não-evidência de vida
+hp: Pré-Cambriano
+ihyper: éon_geocronológica
+sa: @en:noun.time:Hadean
+
+w: Hauteriviano
+d: uma idade geocronológica compreendida entre circa 132.9 milhões de anos atrás e circa 129.4 milhões de anos atrás
+hp: Cretáceo_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Hauterivian
+
+w: Hettangiano
+d: uma idade geocronológica compreendida entre 201.3+/-0.2 milhões de anos atrás e 199.3+/-0.3 milhões de anos atrás
+hp: Jurássico_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Hettangian
+
+w: Hirnantiano
+d: uma idade geocronológica compreendida entre 445.2+/-1.4 milhões de anos atrás e 443.8+/-1.5 milhões de anos atrás
+hp: Ordoviciano_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Hirnantian
+
+w: Holocénico
+w: Holoceno
+d: uma época geocronológica compreendida entre 0.011700 milhões de anos atrás e o presente
+hp: Quaternário
+ihyper: época_geocronológica
+mp: Gronelandês
+mp: Meghalaiano
+mp: Norte-Gripiano
+sa: @en:noun.time:Holocene
+
+w: Homeriano
+d: uma idade geocronológica compreendida entre 430.5+/-0.7 milhões de anos atrás e 427.4+/-0.5 milhões de anos atrás
+hp: Wenlock
+ihyper: idade_geocronológica
+sa: @en:noun.time:Homerian
+
+w: Induano
+d: uma idade geocronológica compreendida entre 251902+/-0.024 milhões de anos atrás e 251.2 milhões de anos atrás
+hp: Triásico_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Induan
+
+w: Jiangshaniano
+d: uma idade geocronológica compreendida entre circa 494 milhões de anos atrás e circa 489.5 milhões de anos atrás
+hp: Furongiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Jiangshanian
+
+w: Jurássico
+d: um período geocronológico compreendido entre 201.3+/-0.2 milhões de anos atrás e circa 145.0 milhões de anos atrás; distingue-se pela presença de dinossauros e coníferas; distingue-se pelo surgimento dos primeiros pássaros
+hp: Mesozoico
+ihyper: período_geocronológico
+mp: Jurássico_Inferior
+mp: Jurássico_Médio
+mp: Jurássico_Superior
+sa: @en:noun.time:Jurassic
+
+w: Kasimoviano
+d: uma idade geocronológica compreendida entre 307+/-0.1 milhões de anos atrás e 303.7+/-0.1 milhões de anos atrás
+hp: Pennsylvánico_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Kasimovian
+
+w: Katiano
+d: uma idade geocronológica compreendida entre 453+/-0.7 milhões de anos atrás e 445.2+/-1.4 milhões de anos atrás
+hp: Ordoviciano_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Katian
+
+w: Kimmeridgiano
+d: uma idade geocronológica compreendida entre 157.3+/-1.0 milhões de anos atrás e 152.1+/-0.9 milhões de anos atrás
+hp: Jurássico_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Kimmeridgian
+
+w: Kunguriano
+d: uma idade geocronológica compreendida entre 283.5+/-0.6 milhões de anos atrás e 272.95+/-0.11 milhões de anos atrás
+hp: Cisuraliano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Kungurian
+
+w: Ladiniano
+d: uma idade geocronológica compreendida entre circa 242 milhões de anos atrás e circa 237 milhões de anos atrás
+hp: Triásico_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Ladinian
+
+w: Langhiano
+d: uma idade geocronológica compreendida entre 15.97 milhões de anos atrás e 13.82 milhões de anos atrás
+hp: Mioceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Langhian
+
+w: Llandovery
+d: uma época geocronológica compreendida entre 443.8+/-1.5 milhões de anos atrás e 433.4+/-0.8 milhões de anos atrás
+hp: Siluriano
+ihyper: época_geocronológica
+mp: Aeroniano
+mp: Rhuddaniano
+mp: Telychiano
+sa: @en:noun.time:Llandovery
+
+w: Lochkoviano
+d: uma idade geocronológica compreendida entre 419.2+/-3.2 milhões de anos atrás e 410.8+/-2.8 milhões de anos atrás
+hp: Devoniano_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Lochkovian
+
+w: Lopingiano
+d: uma época geocronológica compreendida entre 259.1+/-0.5 milhões de anos atrás e 251902+/-0.024 milhões de anos atrás
+hp: Permiano
+ihyper: época_geocronológica
+mp: Changhsingiano
+mp: Wuchiapingiano
+sa: @en:noun.time:Lopingian
+
+w: Carbónico_Inferior
+w: Carbonífero_Inferior
+w: Mississípico
+w: Mississippiano
+d: um sub-período geocronológico compreendido entre 358.9+/-0.4 milhões de anos atrás e 323.2+/-0.4 milhões de anos atrás; distingue-se pela expansão de ecossistemas de pasto
+hp: Carbonífero
+ihyper: subperíodo_geocronológico
+mp: Mississípico_Inferior
+mp: Mississípico_Médio
+mp: Mississípico_Superior
+sa: @en:noun.time:Mississippian
+
+w: Cretáceo_Inferior
+d: uma época geocronológica compreendida entre circa 145.0 milhões de anos atrás e 100.5 milhões de anos atrás
+hp: Cretáceo
+ihyper: época_geocronológica
+mp: Albiano
+mp: Aptiano
+mp: Barremiano
+mp: Berriasiano
+mp: Hauteriviano
+mp: Valanginiano
+sa: @en:noun.time:Lower_Cretaceous
+
+w: Devoniano_Inferior
+w: Devónico_Inferior
+d: uma época geocronológica compreendida entre 419.2+/-3.2 milhões de anos atrás e 393.3+/-1.2 milhões de anos atrás
+hp: Devoniano
+ihyper: época_geocronológica
+mp: Emsiano
+mp: Lochkoviano
+mp: Pragiano
+sa: @en:noun.time:Lower_Devonian
+
+w: Jurássico_Inferior
+d: uma época geocronológica compreendida entre 201.3+/-0.2 milhões de anos atrás e 174.1+/-1.0 milhões de anos atrás
+hp: Jurássico
+ihyper: época_geocronológica
+mp: Hettangiano
+mp: Pliensbachiano
+mp: Sinemuriano
+mp: Toarciano
+sa: @en:noun.time:Lower_Jurassic
+
+w: Mississípico_Inferior
+w: Mississippiano_Inferior
+d: uma época geocronológica compreendida entre 358.9+/-0.4 milhões de anos atrás e 346.7+/-0.4 milhões de anos atrás
+hp: Carbónico_Inferior
+ihyper: época_geocronológica
+mp: Tournaisiano
+sa: @en:noun.time:Lower_Mississippian
+
+w: Ordoviciano_Inferior
+w: Ordovícico_Inferior
+d: uma época geocronológica compreendida entre 485.4+/-1.9 milhões de anos atrás e 470.0+/-1.4 milhões de anos atrás
+hp: Ordoviciano
+ihyper: época_geocronológica
+mp: Floiano
+mp: Tremadociano
+sa: @en:noun.time:Lower_Ordovician
+
+w: Pennsylvánico_Inferior
+w: Pensilvaniano_Inferior
+d: uma época geocronológica compreendida entre 323.2+/-0.4 milhões de anos atrás e 315.2+/-0.2 milhões de anos atrás
+hp: Carbónico_Superior
+ihyper: época_geocronológica
+mp: Bashkiriano
+sa: @en:noun.time:Lower_Pennsylvanian
+
+w: Triásico_Inferior
+w: Triássico_Inferior
+d: uma época geocronológica compreendida entre 251902+/-0.024 milhões de anos atrás e 247.2 milhões de anos atrás
+hp: Triásico
+ihyper: época_geocronológica
+mp: Induano
+mp: Olenekiano
+sa: @en:noun.time:Lower_Triassic
+
+w: Ludfordiano
+d: uma idade geocronológica compreendida entre 425.6+/-0.9 milhões de anos atrás e 423+/-2.3 milhões de anos atrás
+hp: Ludlow
+ihyper: idade_geocronológica
+sa: @en:noun.time:Ludfordian
+
+w: Ludlow
+d: uma época geocronológica compreendida entre 427.4+/-0.5 milhões de anos atrás e 423+/-2.3 milhões de anos atrás
+hp: Siluriano
+ihyper: época_geocronológica
+mp: Gorstiano
+mp: Ludfordiano
+sa: @en:noun.time:Ludlow
+
+w: Lutetiano
+d: uma idade geocronológica compreendida entre 47.8 milhões de anos atrás e 41.2 milhões de anos atrás
+hp: Eoceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Lutetian
+
+w: Maastrichtiano
+w: Maestrichtiano
+d: uma idade geocronológica compreendida entre 72.1+/-0.2 milhões de anos atrás e 66.0 milhões de anos atrás
+hp: Cretáceo_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Maastrichtian
+
+w: Meghalaiano
+d: uma idade geocronológica compreendida entre 0.004200 milhões de anos atrás e o presente
+hp: Holocénico
+ihyper: idade_geocronológica
+sa: @en:noun.time:Meghalayan
+
+w: Mesoarcaico
+w: Mesoarcaiqueano
+w: Mesoarqueano
+d: uma era geocronológico compreendida entre 2800 milhões de anos atrás e 3200 milhões de anos atrás
+hp: Arqueano
+ihyper: era_geocronológica
+sa: @en:noun.time:Mesoarchean
+
+w: Mesooproterozoico
+w: Mesoproterozóico
+d: uma era geocronológico compreendida entre 1000 milhões de anos atrás e 1600 milhões de anos atrás
+hp: Proterozoico
+ihyper: era_geocronológica
+mp: Calimiano
+mp: Ectasiano
+mp: Steniano
+sa: @en:noun.time:Mesoproterozoic
+
+w: Messiniano
+d: uma idade geocronológica compreendida entre 5333 milhões de anos atrás e 7246 milhões de anos atrás
+hp: Mioceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Messinian
+
+w: Cambriano_Série_3
+w: Câmbrico_Série_3
+w: Miaolingiano
+d: uma época geocronológica compreendida entre circa 509 milhões de anos atrás e circa 497 milhões de anos atrás
+hp: Cambriano
+ihyper: época_geocronológica
+mp: Cambriano_Andar_5
+mp: Drumiano
+mp: Guzhangiano
+sa: @en:noun.time:Miaolingian
+
+w: Devoniano_Médio
+w: Devónico_Médio
+d: uma época geocronológica compreendida entre 393.3+/-1.2 milhões de anos atrás e 382.7+/-1.6 milhões de anos atrás
+hp: Devoniano
+ihyper: época_geocronológica
+mp: Eifeliano
+mp: Givetiano
+sa: @en:noun.time:Middle_Devonian
+
+w: Jurássico_Médio
+d: uma época geocronológica compreendida entre 174.1+/-1.0 milhões de anos atrás e 163.5+/-1.0 milhões de anos atrás
+hp: Jurássico
+ihyper: época_geocronológica
+mp: Aaleniano
+mp: Bajociano
+mp: Bathoniano
+mp: Calloviano
+sa: @en:noun.time:Middle_Jurassic
+
+w: Mississípico_Médio
+w: Mississippiano_Médio
+d: uma época geocronológica compreendida entre 346.7+/-0.4 milhões de anos atrás e 330.9+/-0.2 milhões de anos atrás
+hp: Carbónico_Inferior
+ihyper: época_geocronológica
+mp: Viseano
+sa: @en:noun.time:Middle_Mississippian
+
+w: Ordoviciano_Médio
+w: Ordovícico_Médio
+d: uma época geocronológica compreendida entre 470.0+/-1.4 milhões de anos atrás e 458.4+/-0.9 milhões de anos atrás
+hp: Ordoviciano
+ihyper: época_geocronológica
+mp: Dapingiano
+mp: Darriwiliano
+sa: @en:noun.time:Middle_Ordovician
+
+w: Pennsylvánico_Médio
+w: Pensilvaniano_Médio
+d: uma época geocronológica compreendida entre 315.2+/-0.2 milhões de anos atrás e 307+/-0.1 milhões de anos atrás
+hp: Carbónico_Superior
+ihyper: época_geocronológica
+mp: Moscoviano
+sa: @en:noun.time:Middle_Pennsylvanian
+
+w: Pleistoceno_Médio
+w: Plistocénico_Médio
+d: uma idade geocronológica compreendida entre 0.126000 milhões de anos atrás e 0.773 milhões de anos atrás
+hp: Pleistoceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Middle_Pleistocene
+
+w: Triásico_Médio
+w: Triássico_Médio
+d: uma época geocronológica compreendida entre 247.2 milhões de anos atrás e circa 237 milhões de anos atrás
+hp: Triásico
+ihyper: época_geocronológica
+mp: Anisiano
+mp: Ladiniano
+sa: @en:noun.time:Middle_Triassic
+
+w: Mioceno
+d: uma época geocronológica compreendida entre 23.03 milhões de anos atrás e 5.333 milhões de anos atrás
+hp: Neogénico
+ihyper: época_geocronológica
+mp: Aquitaniano
+mp: Burdigaliano
+mp: Langhiano
+mp: Messiniano
+mp: Serravalliano
+mp: Tortoniano
+sa: @en:noun.time:Miocene
+
+w: Moscoviano
+d: uma idade geocronológica compreendida entre 307+/-0.1 milhões de anos atrás e 315.2+/-0.2 milhões de anos atrás
+hp: Pennsylvánico_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Moscovian
+
+w: Neoarcaico
+w: Neoarcaiqueano
+w: Neoarqueano
+d: uma era geocronológico compreendida entre 2500 milhões de anos atrás e 2800 milhões de anos atrás
+hp: Arqueano
+ihyper: era_geocronológica
+sa: @en:noun.time:Neoarchean
+
+w: Neogénico
+w: Neógeno
+d: um período geocronológico compreendido entre 23.03 milhões de anos atrás e 2.58 milhões de anos atrás
+hp: Cenozoico
+ihyper: período_geocronológico
+mp: Mioceno
+mp: Pliocénico
+sa: @en:noun.time:Neogene
+
+w: Neoproterozoico
+w: Neoproterozóico
+d: uma era geocronológico compreendida entre 541.0+/-1.0 milhões de anos atrás e 1000 milhões de anos atrás
+hp: Proterozoico
+ihyper: era_geocronológica
+mp: Criogeniano
+mp: Ediacariano
+mp: Toniano
+sa: @en:noun.time:Neoproterozoic
+
+w: Noriano
+d: uma idade geocronológica compreendida entre circa 208.5 milhões de anos atrás e circa 227 milhões de anos atrás
+hp: Triásico_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Norian
+
+w: Norte-Gripiano
+d: uma idade geocronológica compreendida entre 0.004200 milhões de anos atrás e 0.008276 milhões de anos atrás
+hp: Holocénico
+ihyper: idade_geocronológica
+sa: @en:noun.time:Northgrippian
+
+w: Olenekiano
+d: uma idade geocronológica compreendida entre 247.2 milhões de anos atrás e 251.2 milhões de anos atrás
+hp: Triásico_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Olenekian
+
+w: Oligocénico
+w: Oligoceno
+d: uma época geocronológica compreendida entre 33.9 milhões de anos atrás e 23.03 milhões de anos atrás
+hp: Paleogénico
+ihyper: época_geocronológica
+mp: Chattiano
+mp: Rupeliano
+sa: @en:noun.time:Oligocene
+
+w: Ordoviciano
+w: Ordovícico
+d: um período geocronológico compreendido entre 485.4+/-1.9 milhões de anos atrás e 443.8+/-1.5 milhões de anos atrás; distingue-se pelo surgimento de conodontas e de ostracodas
+hp: Paleozoico
+ihyper: período_geocronológico
+mp: Ordoviciano_Inferior
+mp: Ordoviciano_Médio
+mp: Ordoviciano_Superior
+sa: @en:noun.time:Ordovician
+
+w: Orosiriano
+d: um período geocronológico compreendido entre 2050 milhões de anos atrás e 1800 milhões de anos atrás
+hp: Paleoproterozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Orosirian
+
+w: Oxfordiano
+d: uma idade geocronológica compreendida entre 157.3+/-1.0 milhões de anos atrás e 163.5+/-1.0 milhões de anos atrás
+hp: Jurássico_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Oxfordian
+
+w: Paibiano
+d: uma idade geocronológica compreendida entre circa 494 milhões de anos atrás e circa 497 milhões de anos atrás
+hp: Furongiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Paibian
+
+w: Paleoarcaico
+w: Paleoarcaiqueano
+w: Paleoarqueano
+d: uma era geocronológico compreendida entre 3200 milhões de anos atrás e 3600 milhões de anos atrás
+hp: Arqueano
+ihyper: era_geocronológica
+sa: @en:noun.time:Paleoarchean
+
+w: Paleocénico
+w: Paleoceno
+d: uma época geocronológica compreendida entre 66.0 milhões de anos atrás e 56 milhões de anos atrás
+hp: Paleogénico
+ihyper: época_geocronológica
+mp: Daniano
+mp: Selandiano
+mp: Thanetiano
+sa: @en:noun.time:Paleocene
+
+w: Paleogénico
+w: Paleógeno
+d: um período geocronológico compreendido entre 66.0 milhões de anos atrás e 23.03 milhões de anos atrás
+hp: Cenozoico
+ihyper: período_geocronológico
+mp: Eoceno
+mp: Oligocénico
+mp: Paleocénico
+sa: @en:noun.time:Paleogene
+
+w: Paleoproterozoico
+w: Paleoproterozóico
+d: uma era geocronológico compreendida entre 1600 milhões de anos atrás e 2500 milhões de anos atrás
+hp: Proterozoico
+ihyper: era_geocronológica
+mp: Orosiriano
+mp: Rhyaciano
+mp: Sideriano
+mp: Stateriano
+sa: @en:noun.time:Paleoproterozoic
+
+w: Paleozoico
+w: Paleozóico
+d: uma era geocronológico compreendida entre 251902+/-0.024 milhões de anos atrás e 541.0+/-1.0 milhões de anos atrás
+hp: Fanerozóico
+ihyper: era_geocronológica
+mp: Cambriano
+mp: Carbonífero
+mp: Devoniano
+mp: Ordoviciano
+mp: Permiano
+mp: Siluriano
+sa: @en:noun.time:Paleozoic
+
+w: Carbónico_Superior
+w: Carbonífero_Superior
+w: Pennsylvánico
+w: Pensilvaniano
+d: um sub-período geocronológico compreendido entre 323.2+/-0.4 milhões de anos atrás e 298.9+/-0.15 milhões de anos atrás; distingue-se pela expansão de ecossistemas de pasto
+hp: Carbonífero
+ihyper: subperíodo_geocronológico
+mp: Pennsylvánico_Inferior
+mp: Pennsylvánico_Médio
+mp: Pennsylvánico_Superior
+sa: @en:noun.time:Pennsylvanian
+
+w: Permiano
+d: um período geocronológico compreendido entre 298.9+/-0.15 milhões de anos atrás e 251902+/-0.024 milhões de anos atrás; distingue-se pelo surgimento dos primeiros grandes herbívoros e carnívoros
+hp: Paleozoico
+ihyper: período_geocronológico
+mp: Cisuraliano
+mp: Guadalupiano
+mp: Lopingiano
+sa: @en:noun.time:Permian
+
+w: Fanerozóico
+d: um período geocronológico compreendido entre 541.0+/-1.0 milhões de anos atrás e o presente
+ihyper: éon_geocronológica
+mp: Cenozoico
+mp: Mesozoico
+mp: Paleozoico
+sa: @en:noun.time:Phanerozoic
+
+w: Piacenziano
+d: uma idade geocronológica compreendida entre 2.58 milhões de anos atrás e 3.6 milhões de anos atrás
+hp: Pliocénico
+ihyper: idade_geocronológica
+sa: @en:noun.time:Piacenzian
+
+w: Pleistoceno
+w: Plistocénico
+w: Plistoceno
+d: uma época geocronológica compreendida entre 2.58 milhões de anos atrás e 0.011700 milhões de anos atrás; distingue-se pela glaciação extensa no hemisfério norte; disitingue-se pela evolução de humanos anatomicamente modernos
+hp: Quaternário
+ihyper: época_geocronológica
+mp: Calabriano
+mp: Gelasiano
+mp: Pleistoceno_Médio
+mp: Pleistoceno_Superior
+sa: @en:noun.time:Pleistocene
+
+w: Pliensbachiano
+w: Pliensbaquiano
+d: uma idade geocronológica compreendida entre 182.7+/-0.7 milhões de anos atrás e 190.8+/-1.0 milhões de anos atrás
+hp: Jurássico_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Pliensbachian
+
+w: Pliocénico
+w: Plioceno
+d: uma época geocronológica compreendida entre 5.333 milhões de anos atrás e 2.58 milhões de anos atrás; distingue-se pelo surgimento dos primeiros Hominini, os Australopitecíneos;  distingue-se pelo surgimento de cobras cascavéis
+hp: Neogénico
+ihyper: época_geocronológica
+mp: Piacenziano
+mp: Zancleano
+sa: @en:noun.time:Pliocene
+
+w: Pragiano
+d: uma idade geocronológica compreendida entre 407.6+/-2.6 milhões de anos atrás e 410.8+/-2.8 milhões de anos atrás
+hp: Devoniano_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Pragian
+
+w: Pré-Cambriano
+d: um super-éon geocronológico compreendido entre 541.0+/-1.0 milhões de anos atrás e circa 4567 milhões de anos atrás
+ihyper: super-éon_geocronológico
+mp: Arqueano
+mp: Hadeano
+mp: Proterozoico
+sa: @en:noun.time:Precambrian
+
+w: Priaboniano
+d: uma idade geocronológica compreendida entre 33.9 milhões de anos atrás e 37.8 milhões de anos atrás
+hp: Eoceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Priabonian
+
+w: Pridoli
+d: uma época geocronológica compreendida entre 423+/-2.3 milhões de anos atrás e 419.2+/-3.2 milhões de anos atrás
+hp: Siluriano
+ihyper: época_geocronológica
+sa: @en:noun.time:Pridoli
+
+w: Proterozoico
+w: Proterozóico
+d: um período geocronológico compreendido entre 2500 milhões de anos atrás e 541.0+/-1.0 milhões de anos atrás; distingue-se pela transição para uma atmosfera oxigenada; distingue-se pelo surgimento dos primeiros eucariotas
+hp: Pré-Cambriano
+ihyper: éon_geocronológica
+mp: Mesooproterozoico
+mp: Neoproterozoico
+mp: Paleoproterozoico
+sa: @en:noun.time:Proterozoic
+
+w: Rhaetiano
+d: uma idade geocronológica compreendida entre 201.3+/-0.2 milhões de anos atrás e circa 208.5 milhões de anos atrás
+hp: Triásico_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Rhaetian
+
+w: Rhuddaniano
+w: Rudaniano
+d: uma idade geocronológica compreendida entre 440.8+/-1.2 milhões de anos atrás e 443.8+/-1.5 milhões de anos atrás
+hp: Llandovery
+ihyper: idade_geocronológica
+sa: @en:noun.time:Rhuddanian
+
+w: Rhyaciano
+w: Riaciano
+d: um período geocronológico compreendido entre 2300 milhões de anos atrás e 2050 milhões de anos atrás
+hp: Paleoproterozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Rhyacian
+
+w: Roadiano
+d: uma idade geocronológica compreendida entre 268.8+/-0.5 milhões de anos atrás e 272.95+/-0.11 milhões de anos atrás
+hp: Guadalupiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Roadian
+
+w: Rupeliano
+d: uma idade geocronológica compreendida entre 27.82 milhões de anos atrás e 33.9 milhões de anos atrás
+hp: Oligocénico
+ihyper: idade_geocronológica
+sa: @en:noun.time:Rupelian
+
+w: Sakmariano
+d: uma idade geocronológica compreendida entre 290.1+/-0.26 milhões de anos atrás e 293.52+/-0.17 milhões de anos atrás
+hp: Cisuraliano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Sakmarian
+
+w: Sandbiano
+d: uma idade geocronológica compreendida entre 453+/-0.7 milhões de anos atrás e 458.4+/-0.9 milhões de anos atrás
+hp: Ordoviciano_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Sandbian
+
+w: Santoniano
+d: uma idade geocronológica compreendida entre 83.6+/-0.2 milhões de anos atrás e 86.3+/-0.5 milhões de anos atrás
+hp: Cretáceo_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Santonian
+
+w: Selandiano
+d: uma idade geocronológica compreendida entre 59.2 milhões de anos atrás e 61.6 milhões de anos atrás
+hp: Paleocénico
+ihyper: idade_geocronológica
+sa: @en:noun.time:Selandian
+
+w: Serpukhoviano
+d: uma idade geocronológica compreendida entre 323.2+/-0.4 milhões de anos atrás e 330.9+/-0.2 milhões de anos atrás
+hp: Mississípico_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Serpukhovian
+
+w: Serravalliano
+d: uma idade geocronológica compreendida entre 11.63 milhões de anos atrás e 13.82 milhões de anos atrás
+hp: Mioceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Serravallian
+
+w: Sheinwoodiano
+d: uma idade geocronológica compreendida entre 430.5+/-0.7 milhões de anos atrás e 433.4+/-0.8 milhões de anos atrás
+hp: Wenlock
+ihyper: idade_geocronológica
+sa: @en:noun.time:Sheinwoodian
+
+w: Sideriano
+d: um período geocronológico compreendido entre 2500 milhões de anos atrás e 2300 milhões de anos atrás
+hp: Paleoproterozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Siderian
+
+w: Siluriano
+w: Silúrico
+d: um período geocronológico compreendido entre 443.8+/-1.5 milhões de anos atrás e 419.2+/-3.2 milhões de anos atrás; distingue-se pelo surgimento de peixes ósseos, os Osteichthyes; disitingue-se pelo surgimento de sansguessugas e dos primeiros animais terrestres que respiram ar
+hp: Paleozoico
+ihyper: período_geocronológico
+mp: Llandovery
+mp: Ludlow
+mp: Pridoli
+mp: Wenlock
+sa: @en:noun.time:Silurian
+
+w: Sinemuriano
+d: uma idade geocronológica compreendida entre 190.8+/-1.0 milhões de anos atrás e 199.3+/-0.3 milhões de anos atrás
+hp: Jurássico_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Sinemurian
+
+w: Stateriano
+d: um período geocronológico compreendido entre 1800 milhões de anos atrás e 1600 milhões de anos atrás
+hp: Paleoproterozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Statherian
+
+w: Steniano
+d: um período geocronológico compreendido entre 1200 milhões de anos atrás e 1000 milhões de anos atrás
+hp: Mesooproterozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Stenian
+
+w: Telychiano
+d: uma idade geocronológica compreendida entre 433.4+/-0.8 milhões de anos atrás e 438.5+/-1.1 milhões de anos atrás
+hp: Llandovery
+ihyper: idade_geocronológica
+sa: @en:noun.time:Telychian
+
+w: Terreneuviano
+d: uma época geocronológica compreendida entre 541.0+/-1.0 milhões de anos atrás e circa 521 milhões de anos atrás
+hp: Cambriano
+ihyper: época_geocronológica
+mp: Cambriano_Andar_2
+mp: Fortuniano
+sa: @en:noun.time:Terreneuvian
+
+w: Terciário
+d: um termo obsoleto para o período geocronológico compreendido entre 2.6 milhões de anos atrás e 66 milhões de anos atrás; termo obsoleto que se referia ao Paleogénico e ao Neogénico 
+hp: Cenozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Tertiary
+
+w: Thanetiano
+d: uma idade geocronológica compreendida entre 56 milhões de anos atrás e 59.2 milhões de anos atrás
+hp: Paleocénico
+ihyper: idade_geocronológica
+sa: @en:noun.time:Thanetian
+
+w: Tithoniano
+w: Titoniano
+d: uma idade geocronológica compreendida entre circa 145.0 milhões de anos atrás e 152.1+/-0.9 milhões de anos atrás
+hp: Jurássico_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Tithonian
+
+w: Toarciano
+d: uma idade geocronológica compreendida entre 174.1+/-1.0 milhões de anos atrás e 182.7+/-0.7 milhões de anos atrás
+hp: Jurássico_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Toarcian
+
+w: Toniano
+d: um período geocronológico compreendido entre 1000 milhões de anos atrás e circa 720 milhões de anos atrás
+hp: Neoproterozoico
+ihyper: período_geocronológico
+sa: @en:noun.time:Tonian
+
+w: Tortoniano
+d: uma idade geocronológica compreendida entre 7246 milhões de anos atrás e 11.63 milhões de anos atrás
+hp: Mioceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Tortonian
+
+w: Tournaisiano
+w: Turnaisiano
+d: uma idade geocronológica compreendida entre 346.7+/-0.4 milhões de anos atrás e 358.9+/-0.4 milhões de anos atrás
+hp: Mississípico_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Tournaisian
+
+w: Tremadociano
+d: uma idade geocronológica compreendida entre 477.7+/-1.4 milhões de anos atrás e 485.4+/-1.9 milhões de anos atrás
+hp: Ordoviciano_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Tremadocian
+
+w: Triásico
+w: Triássico
+d: um período geocronológico compreendido entre 251.902+/-0.024 milhões de anos atrás e 201.3+/-0.2 milhões de anos atrás; distingue-se pelo surgimento de dinossauros, mamíferos verdadeiros, vertebrados voadores e ictiossauros
+hp: Mesozoico
+ihyper: período_geocronológico
+mp: Triásico_Inferior
+mp: Triásico_Médio
+mp: Triásico_Superior
+sa: @en:noun.time:Triassic
+
+w: Turoniano
+d: uma idade geocronológica compreendida entre 89.8+/-0.3 milhões de anos atrás e 93.9 milhões de anos atrás
+hp: Cretáceo_Superior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Turonian
+
+w: Cretáceo_Superior
+d: uma época geocronológica compreendida entre 100.5 milhões de anos atrás e 66.0 milhões de anos atrás
+hp: Cretáceo
+ihyper: época_geocronológica
+mp: Campaniano
+mp: Cenomaniano
+mp: Coniaciano
+mp: Maastrichtiano
+mp: Santoniano
+mp: Turoniano
+sa: @en:noun.time:Upper_Cretaceous
+
+w: Devoniano_Superior
+w: Devónico_Superior
+d: uma época geocronológica compreendida entre 382.7+/-1.6 milhões de anos atrás e 358.9+/-0.4 milhões de anos atrás
+hp: Devoniano
+ihyper: época_geocronológica
+mp: Fameniano
+mp: Frasniano
+sa: @en:noun.time:Upper_Devonian
+
+w: Jurássico_Superior
+d: uma época geocronológica compreendida entre 163.5+/-1.0 milhões de anos atrás e circa 145.0 milhões de anos atrás
+hp: Jurássico
+ihyper: época_geocronológica
+mp: Kimmeridgiano
+mp: Oxfordiano
+mp: Tithoniano
+sa: @en:noun.time:Upper_Jurassic
+
+w: Mississípico_Superior
+w: Mississippiano_Superior
+d: uma época geocronológica compreendida entre 330.9+/-0.2 milhões de anos atrás e 323.2+/-0.4 milhões de anos atrás
+hp: Carbónico_Inferior
+ihyper: época_geocronológica
+mp: Serpukhoviano
+sa: @en:noun.time:Upper_Mississippian
+
+w: Ordoviciano_Superior
+w: Ordovícico_Superior
+d: uma época geocronológica compreendida entre 458.4+/-0.9 milhões de anos atrás e 443.8+/-1.5 milhões de anos atrás
+hp: Ordoviciano
+ihyper: época_geocronológica
+mp: Hirnantiano
+mp: Katiano
+mp: Sandbiano
+sa: @en:noun.time:Upper_Ordovician
+
+w: Pennsylvánico_Superior
+w: Pensilvaniano_Superior
+d: uma época geocronológica compreendida entre 307+/-0.1 milhões de anos atrás e 298.9+/-0.15 milhões de anos atrás
+hp: Carbónico_Superior
+ihyper: época_geocronológica
+mp: Gzheliano
+mp: Kasimoviano
+sa: @en:noun.time:Upper_Pennsylvanian
+
+w: Pleistoceno_Superior
+w: Plistocénico_Superior
+d: uma idade geocronológica compreendida entre 0.011700 milhões de anos atrás e 0.126000 milhões de anos atrás
+hp: Pleistoceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Upper_Pleistocene
+
+w: Triásico_Superior
+w: Triássico_Superior
+d: uma época geocronológica compreendida entre circa 237 milhões de anos atrás e 201.3+/-0.2 milhões de anos atrás
+hp: Triásico
+ihyper: época_geocronológica
+mp: Carniano
+mp: Noriano
+mp: Rhaetiano
+sa: @en:noun.time:Upper_Triassic
+
+w: Valanginiano
+d: uma idade geocronológica compreendida entre circa 132.9 milhões de anos atrás e circa 139.8 milhões de anos atrás
+hp: Cretáceo_Inferior
+ihyper: idade_geocronológica
+sa: @en:noun.time:Valanginian
+
+w: Viseano
+d: uma idade geocronológica compreendida entre 330.9+/-0.2 milhões de anos atrás e 346.7+/-0.4 milhões de anos atrás
+hp: Mississípico_Médio
+ihyper: idade_geocronológica
+sa: @en:noun.time:Visean
+
+w: Wenlock
+d: uma época geocronológica compreendida entre 433.4+/-0.8 milhões de anos atrás e 427.4+/-0.5 milhões de anos atrás
+hp: Siluriano
+ihyper: época_geocronológica
+mp: Homeriano
+mp: Sheinwoodiano
+sa: @en:noun.time:Wenlock
+
+w: Wordiano
+d: uma idade geocronológica compreendida entre 265.1+/-0.4 milhões de anos atrás e 268.8+/-0.5 milhões de anos atrás
+hp: Guadalupiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Wordian
+
+w: Wuchiapingiano
+d: uma idade geocronológica compreendida entre 254.14+/-0.07 milhões de anos atrás e 259.1+/-0.5 milhões de anos atrás
+hp: Lopingiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Wuchiapingian
+
+w: Cambriano_Andar_5
+w: Câmbrico_Andar_5
+w: Wuliuano
+d: uma idade geocronológica compreendida entre circa 504.5 milhões de anos atrás e circa 509 milhões de anos atrás
+hp: Miaolingiano
+ihyper: idade_geocronológica
+sa: @en:noun.time:Wuliuan
+
+w: Ypresiano
+d: uma idade geocronológica compreendida entre 47.8 milhões de anos atrás e 56 milhões de anos atrás
+hp: Eoceno
+ihyper: idade_geocronológica
+sa: @en:noun.time:Ypresian
+
+w: Zancleano
+d: uma idade geocronológica compreendida entre 3.6 milhões de anos atrás e 5.333 milhões de anos atrás
+hp: Pliocénico
+ihyper: idade_geocronológica
+sa: @en:noun.time:Zanclean
+
+w: aeon
+w: aeon_geocronológico
+w: aeon_geológico
+w: eon
+w: éon
+w: eon_geocronológico
+w: éon_geocronológico
+w: eon_geológico
+w: éon_geológico
+w: éon_geológico
+d: primeira divisão do tempo geológico
+hp: super-éon_geológico
+hypo: tempo_geológico
+mp: era_geológico
+
+w: idade
+w: idade_geocronológico
+w: idade_geológico
+d: subdivisão de uma época; a menor subdivisão de tempo geológico
+hp: época_geológico
+hypo: tempo_geológico
+sa: @en:noun.time:geological_age
+
+w: época[4]
+w: época_geocronológico
+w: época_geológico
+d: subdivisão de um sub-período ou de um período que não tenha sub-períodos; divide-se em idades
+hp: período_geológico
+hp: sub-período_geológico
+hypo: tempo_geológico
+mp: idade_geológico
+sa: @en:noun.time:geological_epoch
+
+w: era
+w: era_geocronológico
+w: era_geológico
+d: subdivisão de um éon; divide-se em períodos
+hp: éon_geológico
+hypo: tempo_geológico
+mp: período_geológico
+sa: @en:noun.time:geological_era
+
+w: período
+w: período_geocronológico
+w: período_geológico
+d: subdivisão de uma era; divide-se em sub-periodos ou em épocas
+hp: era_geológico
+hypo: tempo_geológico
+mp: época_geológico
+mp: sub-período_geológico
+sa: @en:noun.time:geological_period
+
+w: sub-período
+w: sub-período_geocronológico
+w: sub-período_geológico
+d: subdivisão de um período; divide-se em épocas
+hp: período_geológico
+hypo: tempo_geológico
+mp: época_geológico
+sa: @en:noun.time:geological_sub-period
+
+w: super-aeon
+w: super-eon
+w: super-éon
+w: super-éon_geocronológico
+w: super-éon_geológico
+w: superaeon
+w: supereon
+w: superéon
+w: superéon_geocronológico
+w: superéon_geológico
+d: um conjunto de éons
+hypo: tempo_geológico
+mp: éon_geológico
+sa: @en:noun.time:geological_supereon
+
+w: tempo_geológico
+d: o tempo de formação física e desenvolvimento da Terra (especialmente antes da história humana)
+hyper: éon_geológico
+hyper: época_geológico
+hyper: era_geológico
+hypo: noun.Tops:tempo
+sa: @en:noun.time:geological_time
