@@ -3320,12 +3320,6 @@ hyper: Páscoa[3]
 hypo: Festa_móvel
 sa: @en:noun.time:Easter
 
-w: Pennsylvaniano
-d: @en_from 310 million to 280 million years ago; warm climate; swampy land
-hp: Carbonífero
-ihyper: período[12]
-sa: @en:noun.time:Pennsylvanian
-
 w: Pentecostes
 d: @en_seventh Sunday after Easter; commemorates the emanation of the Holy Spirit to the Apostles; a quarter day in Scotland
 hp: pentecostes
@@ -4826,7 +4820,6 @@ w: era_glacial
 w: período_glacial
 d: @en_any period of time during which glaciers covered a large part of the earth's surface
 hp: pré-história
-hypo: período[12]
 sa: @en:noun.time:glacial_period
 
 w: era_dourada
@@ -5000,7 +4993,6 @@ hyper: @en_watch
 hyper: @en_window
 hyper: Ano_Platônico
 hyper: Era_da_Prata
-hyper: Escala_de_tempo_geológico
 hyper: Estação_do_ano
 hyper: Fim-de-semana
 hyper: Meia_vida
@@ -5015,7 +5007,6 @@ hyper: ano[1]
 hyper: ano[2]
 hyper: ano[4]
 hyper: ano[7]
-manter
 hyper: auge
 hyper: bimestre
 hyper: bimilenio
@@ -5026,6 +5017,7 @@ hyper: dia[4]
 hyper: dia[8]
 hyper: duração[4]
 hyper: duração_de_uma_vida
+hyper: era
 hyper: era[1]
 hyper: era_dourada
 hyper: estações_(clima)
@@ -7288,6 +7280,7 @@ w: último_suspiro
 d: @en_the point of death or exhaustion or completion
 hypo: cabo
 sa: @en:noun.time:last_gasp
+
 w: Aaleniano
 d: uma idade geocronológica compreendida entre 174.1+/-1.0 milhões de anos atrás e 170.3+/-1.4 milhões de anos atrás
 hp: Jurássico_Médio
@@ -7367,7 +7360,7 @@ w: Arcaiqueano
 w: Arqueano
 d: um período geocronológico compreendido entre 4000 milhões de anos atrás e 2500 milhões de anos atrás; distingue-se pela formação da crosta terrestre; distingue-se pelo surgimento de formas primitivas de vida, organismos unicelulares
 hp: Pré-Cambriano
-ihyper: éon_geocronológica
+ihyper: éon_geocronológico
 mp: Eoarcaico
 mp: Mesoarcaiqueano
 mp: Neoarcaiqueano
@@ -7508,8 +7501,8 @@ hp: Guadalupiano
 ihyper: idade_geocronológica
 sa: @en:noun.time:Capitanian
 
-w: Carbónico
 w: Carbonífero
+w: Carbónico
 d: um período geocronológico compreendido entre 358.9+/-0.4 milhões de anos atrás e 298.9+/-0.15 milhões de anos atrás
 hp: Paleozoico
 ihyper: período_geocronológico
@@ -7718,13 +7711,13 @@ ihyper: idade_geocronológica
 sa: @en:noun.time:Gzhelian
 
 w: Hadeano
+w: Priscoano
 w: Pré-Arcaico
 w: Pré-Arcaiqueano
 w: Pré-Arqueano
-w: Priscoano
 d: um período geocronológico compreendido entre circa 4567 milhões de anos atrás e 4000 milhões de anos atrás;  o primeiro éon da história da Terra; começa na primeira acreção de material planetário; encerra-se na data das mais antigas rochas conhecidas; distingue-se pela não-evidência de vida
 hp: Pré-Cambriano
-ihyper: éon_geocronológica
+ihyper: éon_geocronológico
 sa: @en:noun.time:Hadean
 
 w: Hauteriviano
@@ -7745,8 +7738,8 @@ hp: Ordoviciano_Superior
 ihyper: idade_geocronológica
 sa: @en:noun.time:Hirnantian
 
-w: Holocénico
 w: Holoceno
+w: Holocénico
 d: uma época geocronológica compreendida entre 0.011700 milhões de anos atrás e o presente
 hp: Quaternário
 ihyper: época_geocronológica
@@ -7841,17 +7834,29 @@ mp: Changhsingiano
 mp: Wuchiapingiano
 sa: @en:noun.time:Lopingian
 
-w: Carbónico_Inferior
 w: Carbonífero_Inferior
-w: Mississípico
+w: Carbónico_Inferior
 w: Mississippiano
+w: Mississípico
 d: um sub-período geocronológico compreendido entre 358.9+/-0.4 milhões de anos atrás e 323.2+/-0.4 milhões de anos atrás; distingue-se pela expansão de ecossistemas de pasto
 hp: Carbonífero
-ihyper: subperíodo_geocronológico
+ihyper: sub-período_geocronológico
 mp: Mississípico_Inferior
 mp: Mississípico_Médio
 mp: Mississípico_Superior
 sa: @en:noun.time:Mississippian
+
+w: Carbonífero_Superior
+w: Carbónico_Superior
+w: Pennsylvánico
+w: Pensilvaniano
+d: um sub-período geocronológico compreendido entre 323.2+/-0.4 milhões de anos atrás e 298.9+/-0.15 milhões de anos atrás; distingue-se pela expansão de ecossistemas de pasto
+hp: Carbonífero
+ihyper: sub-período_geocronológico
+mp: Pennsylvánico_Inferior
+mp: Pennsylvánico_Médio
+mp: Pennsylvánico_Superior
+sa: @en:noun.time:Pennsylvanian
 
 w: Cretáceo_Inferior
 d: uma época geocronológica compreendida entre circa 145.0 milhões de anos atrás e 100.5 milhões de anos atrás
@@ -7885,8 +7890,8 @@ mp: Sinemuriano
 mp: Toarciano
 sa: @en:noun.time:Lower_Jurassic
 
-w: Mississípico_Inferior
 w: Mississippiano_Inferior
+w: Mississípico_Inferior
 d: uma época geocronológica compreendida entre 358.9+/-0.4 milhões de anos atrás e 346.7+/-0.4 milhões de anos atrás
 hp: Carbónico_Inferior
 ihyper: época_geocronológica
@@ -8006,8 +8011,8 @@ mp: Bathoniano
 mp: Calloviano
 sa: @en:noun.time:Middle_Jurassic
 
-w: Mississípico_Médio
 w: Mississippiano_Médio
+w: Mississípico_Médio
 d: uma época geocronológica compreendida entre 346.7+/-0.4 milhões de anos atrás e 330.9+/-0.2 milhões de anos atrás
 hp: Carbónico_Inferior
 ihyper: época_geocronológica
@@ -8110,8 +8115,8 @@ hp: Triásico_Inferior
 ihyper: idade_geocronológica
 sa: @en:noun.time:Olenekian
 
-w: Oligocénico
 w: Oligoceno
+w: Oligocénico
 d: uma época geocronológica compreendida entre 33.9 milhões de anos atrás e 23.03 milhões de anos atrás
 hp: Paleogénico
 ihyper: época_geocronológica
@@ -8155,8 +8160,8 @@ hp: Arqueano
 ihyper: era_geocronológica
 sa: @en:noun.time:Paleoarchean
 
-w: Paleocénico
 w: Paleoceno
+w: Paleocénico
 d: uma época geocronológica compreendida entre 66.0 milhões de anos atrás e 56 milhões de anos atrás
 hp: Paleogénico
 ihyper: época_geocronológica
@@ -8199,18 +8204,6 @@ mp: Permiano
 mp: Siluriano
 sa: @en:noun.time:Paleozoic
 
-w: Carbónico_Superior
-w: Carbonífero_Superior
-w: Pennsylvánico
-w: Pensilvaniano
-d: um sub-período geocronológico compreendido entre 323.2+/-0.4 milhões de anos atrás e 298.9+/-0.15 milhões de anos atrás; distingue-se pela expansão de ecossistemas de pasto
-hp: Carbonífero
-ihyper: subperíodo_geocronológico
-mp: Pennsylvánico_Inferior
-mp: Pennsylvánico_Médio
-mp: Pennsylvánico_Superior
-sa: @en:noun.time:Pennsylvanian
-
 w: Permiano
 d: um período geocronológico compreendido entre 298.9+/-0.15 milhões de anos atrás e 251902+/-0.024 milhões de anos atrás; distingue-se pelo surgimento dos primeiros grandes herbívoros e carnívoros
 hp: Paleozoico
@@ -8222,7 +8215,7 @@ sa: @en:noun.time:Permian
 
 w: Fanerozóico
 d: um período geocronológico compreendido entre 541.0+/-1.0 milhões de anos atrás e o presente
-ihyper: éon_geocronológica
+ihyper: éon_geocronológico
 mp: Cenozoico
 mp: Mesozoico
 mp: Paleozoico
@@ -8235,8 +8228,8 @@ ihyper: idade_geocronológica
 sa: @en:noun.time:Piacenzian
 
 w: Pleistoceno
-w: Plistocénico
 w: Plistoceno
+w: Plistocénico
 d: uma época geocronológica compreendida entre 2.58 milhões de anos atrás e 0.011700 milhões de anos atrás; distingue-se pela glaciação extensa no hemisfério norte; disitingue-se pela evolução de humanos anatomicamente modernos
 hp: Quaternário
 ihyper: época_geocronológica
@@ -8253,8 +8246,8 @@ hp: Jurássico_Inferior
 ihyper: idade_geocronológica
 sa: @en:noun.time:Pliensbachian
 
-w: Pliocénico
 w: Plioceno
+w: Pliocénico
 d: uma época geocronológica compreendida entre 5.333 milhões de anos atrás e 2.58 milhões de anos atrás; distingue-se pelo surgimento dos primeiros Hominini, os Australopitecíneos;  distingue-se pelo surgimento de cobras cascavéis
 hp: Neogénico
 ihyper: época_geocronológica
@@ -8292,7 +8285,7 @@ w: Proterozoico
 w: Proterozóico
 d: um período geocronológico compreendido entre 2500 milhões de anos atrás e 541.0+/-1.0 milhões de anos atrás; distingue-se pela transição para uma atmosfera oxigenada; distingue-se pelo surgimento dos primeiros eucariotas
 hp: Pré-Cambriano
-ihyper: éon_geocronológica
+ihyper: éon_geocronológico
 mp: Mesooproterozoico
 mp: Neoproterozoico
 mp: Paleoproterozoico
@@ -8517,8 +8510,8 @@ mp: Oxfordiano
 mp: Tithoniano
 sa: @en:noun.time:Upper_Jurassic
 
-w: Mississípico_Superior
 w: Mississippiano_Superior
+w: Mississípico_Superior
 d: uma época geocronológica compreendida entre 330.9+/-0.2 milhões de anos atrás e 323.2+/-0.4 milhões de anos atrás
 hp: Carbónico_Inferior
 ihyper: época_geocronológica
@@ -8617,52 +8610,51 @@ w: aeon
 w: aeon_geocronológico
 w: aeon_geológico
 w: eon
-w: éon
 w: eon_geocronológico
-w: éon_geocronológico
 w: eon_geológico
-w: éon_geológico
+w: éon[1]
+w: éon_geocronológico
 w: éon_geológico
 d: primeira divisão do tempo geológico
 hp: super-éon_geológico
 hypo: tempo_geológico
-mp: era_geológico
+mp: era_geológica
 
-w: idade
-w: idade_geocronológico
-w: idade_geológico
+w: idade[5]
+w: idade_geocronológica
+w: idade_geológica
 d: subdivisão de uma época; a menor subdivisão de tempo geológico
-hp: época_geológico
+hp: época_geológica
 hypo: tempo_geológico
 sa: @en:noun.time:geological_age
 
 w: época[4]
-w: época_geocronológico
-w: época_geológico
+w: época_geocronológica
+w: época_geológica
 d: subdivisão de um sub-período ou de um período que não tenha sub-períodos; divide-se em idades
 hp: período_geológico
 hp: sub-período_geológico
 hypo: tempo_geológico
-mp: idade_geológico
+mp: idade_geológica
 sa: @en:noun.time:geological_epoch
 
-w: era
-w: era_geocronológico
-w: era_geológico
+w: era[5]
+w: era_geocronológica
+w: era_geológica
 d: subdivisão de um éon; divide-se em períodos
 hp: éon_geológico
 hypo: tempo_geológico
 mp: período_geológico
 sa: @en:noun.time:geological_era
 
-w: período
+w: período[15]
 w: período_geocronológico
 w: período_geológico
 d: subdivisão de uma era; divide-se em sub-periodos ou em épocas
-hp: era_geológico
+hp: era_geológica
 hypo: tempo_geológico
-mp: época_geológico
 mp: sub-período_geológico
+mp: época_geológica
 sa: @en:noun.time:geological_period
 
 w: sub-período
@@ -8671,7 +8663,7 @@ w: sub-período_geológico
 d: subdivisão de um período; divide-se em épocas
 hp: período_geológico
 hypo: tempo_geológico
-mp: época_geológico
+mp: época_geológica
 sa: @en:noun.time:geological_sub-period
 
 w: super-aeon
@@ -8691,8 +8683,12 @@ sa: @en:noun.time:geological_supereon
 
 w: tempo_geológico
 d: o tempo de formação física e desenvolvimento da Terra (especialmente antes da história humana)
+hyper: era_geológica
+hyper: idade_geológica
+hyper: período_geológico
+hyper: sub-período_geológico
+hyper: super-éon_geológico
 hyper: éon_geológico
-hyper: época_geológico
-hyper: era_geológico
+hyper: época_geológica
 hypo: noun.Tops:tempo
 sa: @en:noun.time:geological_time
