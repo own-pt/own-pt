@@ -12222,6 +12222,14 @@ hypo: Linguistica
 mp: @en_sound_law
 sa: @en:noun.cognition:diachronic_linguistics
 
+w: Litologia
+w: Petrologia
+w: litologia
+w: petrologia
+d: o ramo da geologia que estuda rochas: sua origem, formação, composição mineral e classificação
+hypo: Geomorfologia
+sa: @en:noun.cognition:lithology
+
 w: Luteranismo
 w: luteranismo
 d: @en_teachings of Martin Luther emphasizing the cardinal doctrine of justification by faith alone
@@ -13138,12 +13146,6 @@ hyper: heráldica
 hyper: sindicância
 hypo: Solução_de_problemas
 sa: @en:noun.cognition:enquiry
-
-w: Petrologia
-w: petrologia
-d: @en_the branch of geology that studies rocks: their origin and formation and mineral composition and classification
-hypo: Geomorfologia
-sa: @en:noun.cognition:lithology
 
 w: Piromancia
 d: @en_divination by fire or flames

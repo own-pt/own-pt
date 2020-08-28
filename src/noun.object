@@ -3262,7 +3262,7 @@ d: @en_calculus in a salivary gland
 hypo: Litíase
 sa: @en:noun.object:ptyalith
 
-w: @en_quicksand
+w: areia_movediça
 d: @en_a pit filled with loose wet sand into which objects are sucked down
 hypo: cavouco
 ms: noun.substance:areia
@@ -9676,10 +9676,10 @@ hyper: @en_barbecue_pit
 hyper: @en_borrow_pit
 hyper: @en_divot[1]
 hyper: @en_fire_pit
-hyper: @en_quicksand
 hyper: @en_sawpit
 hyper: @en_tar_pit
 hyper: areal
+hyper: areia_movediça
 hypo: oco
 sa: @en:noun.object:cavity
 
