@@ -1127,7 +1127,7 @@ sa: @en:noun.substance:adermin
 
 w: @en_adesite
 d: @en_dark greyish extrusive rock
-hypo: Rocha_ìgnea
+hypo: Rocha_ígnea
 sa: @en:noun.substance:adesite
 
 w: @en_adrenosterone
@@ -1167,7 +1167,7 @@ sa: @en:noun.substance:nutrient_agar
 
 w: @en_agglomerate
 d: @en_volcanic rock consisting of large fragments fused together
-hypo: Rocha_vulcânica
+hypo: rocha_vulcânica
 sa: @en:noun.substance:agglomerate
 
 w: @en_agglutinogen
@@ -1463,7 +1463,7 @@ sa: @en:noun.substance:amphibole_group
 
 w: @en_amygdaloid
 d: @en_volcanic rock in which rounded cavities formed by expanding gas have subsequently become filled with mineral deposits
-hypo: Rocha_vulcânica
+hypo: rocha_vulcânica
 sa: @en:noun.substance:amygdaloid
 
 w: @en_amyl
@@ -1652,12 +1652,6 @@ w: @en_orchil
 d: @en_a purplish dye obtained from orchil lichens
 hypo: Corantes
 sa: @en:noun.substance:archil
-
-w: @en_arenaceous_rock
-d: @en_a sedimentary rock composed of sand
-hyper: arenito
-hypo: rocha_sedimentar
-sa: @en:noun.substance:arenaceous_rock
 
 w: @en_argil
 d: @en_a white clay (especially a white clay used by potters)
@@ -1937,7 +1931,7 @@ w: @en_pluton
 w: @en_plutonic_rock
 d: @en_large mass of intrusive igneous rock believed to have solidified deep within the earth
 hyper: granito
-hypo: Rocha_ìgnea
+hypo: Rocha_ígnea
 sa: @en:noun.substance:batholite
 
 w: @en_battery_acid
@@ -4725,7 +4719,7 @@ sa: @en:noun.substance:ground_glass
 w: @en_groundmass
 d: @en_(geology) the matrix of fine-grained crystalline material in which larger crystals are embedded
 hs: Porfiróide
-hypo: Rocha_ìgnea
+hypo: Rocha_ígnea
 mt: noun.cognition:geologia
 sa: @en:noun.substance:groundmass
 
@@ -4985,7 +4979,7 @@ sa: @en:noun.substance:horn
 w: @en_hornfels
 w: @en_hornstone
 d: @en_a fine-grained metamorphic rock formed by the action of heat on clay rocks
-hypo: Rochas_metamórficas
+hypo: rocha_metamórfica
 sa: @en:noun.substance:hornfels
 
 w: @en_horse_manure
@@ -6048,7 +6042,7 @@ sa: @en:noun.substance:marking_ink
 w: @en_marlite
 w: @en_marlstone
 d: @en_metamorphic rock with approximately the same composition as marl
-hypo: Rochas_metamórficas
+hypo: rocha_metamórfica
 sa: @en:noun.substance:marlite
 
 w: @en_mash
@@ -8379,7 +8373,7 @@ sa: @en:noun.substance:snuff
 
 w: @en_sodalite
 d: @en_a vitreous mineral consisting of sodium aluminum silicate and sodium chloride in crystalline form; occurs in igneous rocks
-hs: Rocha_ìgnea
+hs: Rocha_ígnea
 hypo: matéria_mineral
 sa: @en:noun.substance:sodalite
 
@@ -9932,12 +9926,6 @@ hyper: testosterona
 hypo: Hormona_esteroide
 sa: @en:noun.substance:androgen
 
-w: Anfibolito
-d: @en_a metamorphic rock composed chiefly of amphibole and plagioclase
-hypo: Rochas_metamórficas
-ms: anfíbola
-sa: @en:noun.substance:amphibolite
-
 w: Animais_venenosos
 w: peçonha
 w: veneno
@@ -10019,11 +10007,6 @@ hyper: Alka-Seltzer
 hyper: Omeprazol
 hypo: agente
 sa: @en:noun.substance:alkaliser
-
-w: Aplito
-d: @en_light-colored and fine-grained granitic rock consisting chiefly of quartz and feldspars
-hypo: Rocha_ìgnea
-sa: @en:noun.substance:aplite
 
 w: Aragonita
 d: @en_a mineral form of crystalline calcium carbonate; dimorphic with calcite
@@ -10249,6 +10232,7 @@ hypo: @en_transparent_gem
 hypo: Variedades_de_quartzo
 sa: @en:noun.substance:calcedony
 
+w: Ca
 w: Calcio
 w: Cálcio
 w: cálcio
@@ -11085,13 +11069,6 @@ d: @en_genetically engineered DNA made by recombining fragments of DNA from diff
 hypo: ADN
 sa: @en:noun.substance:recombinant_DNA
 
-w: Dacito
-w: dacito
-d: @en_a grey volcanic rock containing plagioclase and quartz and other crystalline minerals
-hypo: Rocha_vulcânica
-ms: Plagióclase
-sa: @en:noun.substance:dacite
-
 w: Darmstádio
 w: darmstádio
 w: darmstádtio
@@ -11131,11 +11108,6 @@ w: Diol
 d: @en_any of a class of alcohols having 2 hydroxyl groups in each molecule
 hypo: Alcool
 sa: @en:noun.substance:dihydric_alcohol
-
-w: Diorito
-d: @en_a granular crystalline intrusive rock
-hypo: Rocha_ìgnea
-sa: @en:noun.substance:diorite
 
 w: Disprosio
 w: disprósio
@@ -12252,7 +12224,7 @@ sa: @en:noun.substance:Y
 w: Kimberlito
 w: kimberlito
 d: @en_a rare type of peridotite that sometimes contains diamonds; found in South Africa and Siberia
-hypo: Peridotito
+hypo: peridotito
 sa: @en:noun.substance:kimberlite
 
 w: Kleenex
@@ -13224,12 +13196,6 @@ hyper: @en_vellum[1]
 hypo: @en_animal_skin
 sa: @en:noun.substance:parchment
 
-w: Peridotito
-d: @en_a dark coarse-grained igneous rock consisting principally of olivine
-hyper: Kimberlito
-hypo: Rocha_ìgnea
-sa: @en:noun.substance:peridotite
-
 w: Peroxido
 w: Peróxidos
 w: peróxido
@@ -13341,8 +13307,9 @@ sa: @en:noun.substance:bimetal
 w: Plagióclase
 w: plagioclase
 d: @en_any of a series of triclinic feldspars that form rocks
-hs: Dacito
 hs: basalto
+hs: basalto[2]
+hs: dacito
 hyper: @en_albite
 hyper: anortita
 hypo: feldspato
@@ -13449,7 +13416,7 @@ sa: @en:noun.substance:polymer
 w: Porfiróide
 w: porfiroide
 d: @en_any igneous rock with crystals embedded in a finer groundmass of minerals
-hypo: Rocha_ìgnea
+hypo: Rocha_ígnea
 ms: @en_groundmass
 sa: @en:noun.substance:porphyritic_rock
 
@@ -13698,55 +13665,25 @@ hs: ARN
 hypo: Carboidratos
 sa: @en:noun.substance:ribose
 
-w: Riolito
-w: Riólito
-d: @en_very acid volcanic rock
-hypo: Rocha_ìgnea
-sa: @en:noun.substance:rhyolite
-
-w: Rocha_vulcânica
-d: @en_extrusive igneous rock solidified near or on the surface of the Earth
-hyper: @en_agglomerate
-hyper: @en_amygdaloid
-hyper: Dacito
-hyper: Vidro_vulcânico
-hyper: basalto
-hyper: lava
-hyper: tufo
-hypo: Rocha_ìgnea
-sa: @en:noun.substance:volcanic_rock
-
-w: Rocha_ìgnea
+w: Rocha_ígnea
 w: Rochas_ígneas
 w: rocha_ígnea
 d: @en_rock formed by the solidification of molten magma
 hyper: @en_adesite
 hyper: @en_batholite
 hyper: @en_groundmass
-hyper: Aplito
-hyper: Diorito
-hyper: Peridotito
 hyper: Porfiróide
-hyper: Riolito
-hyper: Rocha_vulcânica
 hyper: andesito
+hyper: aplito
+hyper: diorito
 hyper: gabro
 hyper: pegmatito
+hyper: peridotito
+hyper: riolito
+hyper: rocha_vulcânica
 hypo: rocha
 ms: @en_sodalite
 sa: @en:noun.substance:igneous_rock
-
-w: Rochas_metamórficas
-w: pedra_metamórfica
-w: rocha_metamórfica
-d: @en_rock altered by pressure and heat
-hyper: @en_hornfels
-hyper: @en_marlite
-hyper: Anfibolito
-hyper: Xisto
-hyper: gnaisse
-hypo: rocha
-sa: @en:noun.substance:metamorphic_rock
 
 w: Rodio
 w: ródio
@@ -13845,6 +13782,7 @@ d: @en_a porous form of silica that is highly absorbent
 hypo: Colóide
 sa: @en:noun.substance:silica_gel
 
+w: Si
 w: Silicio
 w: silicone
 w: silício
@@ -13858,11 +13796,6 @@ hs: silicone[1]
 hypo: @en_semiconducting_material
 hypo: elemento_químico[1]
 sa: @en:noun.substance:Si
-
-w: Siltito
-d: @en_a fine-grained sandstone of consolidated silt
-hypo: arenito
-sa: @en:noun.substance:siltstone
 
 w: Sodio
 w: sódio
@@ -14375,7 +14308,7 @@ d: @en_a kind of natural glass produced when molten lava cools very rapidly
 hyper: @en_pitchstone
 hyper: @en_tachylite
 hyper: obsidiana
-hypo: Rocha_vulcânica
+hypo: rocha_vulcânica
 sa: @en:noun.substance:volcanic_glass
 
 w: Vitamina_B12
@@ -14439,12 +14372,6 @@ ms: Iterbio
 ms: Itrio
 ms: Tulio
 sa: @en:noun.substance:xenotime
-
-w: Xisto
-w: xisto
-d: @en_any metamorphic rock that can be split into thin layers
-hypo: Rochas_metamórficas
-sa: @en:noun.substance:schist
 
 w: Xisto_Betuminoso
 w: Xisto_betuminoso
@@ -14898,11 +14825,6 @@ hyper: Amônio
 hypo: @en_binary_compound
 sa: @en:noun.substance:ammonia
 
-w: andesito
-d: @en_a dark grey volcanic rock
-hypo: Rocha_ìgnea
-sa: @en:noun.substance:andesite
-
 w: androsterona
 d: @en_an androgenic hormone that is less active than testosterone
 hypo: @en_ketosteroid
@@ -14912,7 +14834,7 @@ sa: @en:noun.substance:androsterone
 w: anfíbola
 d: @en_a mineral or mineral variety belonging to the amphibole group
 hm: @en_amphibole_group
-hs: Anfibolito
+hs: anfibolito
 hyper: @en_anthophyllite
 hyper: @en_nephrite
 hyper: actinolita
@@ -14994,11 +14916,6 @@ mp: Epitopo
 mt: noun.cognition:Imunologia
 sa: @en:noun.substance:antigen
 
-w: antracite
-d: @en_a hard natural coal that burns slowly and gives intense heat
-hypo: carvão_mineral
-sa: @en:noun.substance:anthracite
-
 w: apatita
 d: @en_a common complex mineral consisting of calcium fluoride phosphate or calcium chloride phosphate; a source of phosphorus
 hyper: @en_fluorapatite
@@ -15041,23 +14958,6 @@ hyper: @en_air_cushion
 hypo: @en_compressed_gas
 sa: @en:noun.substance:compressed_air
 
-w: ardósia
-d: @en_a fine-grained metamorphic rock that can be split into thin layers
-hypo: rocha_sedimentar
-sa: @en:noun.substance:slate
-
-w: areia
-w: areias
-d: @en_a loose material consisting of grains of rock or coral
-hs: noun.object:@en_quicksand
-hs: noun.object:@en_sand_bar
-hs: noun.object:faixa
-hs: noun.object:praia
-hs: Concreto
-hypo: Solo
-ms: Silicio
-sa: @en:noun.substance:sand
-
 w: areia_grossa
 w: brita
 w: cascalho
@@ -15068,18 +14968,6 @@ hyper: @en_shingle
 hyper: balastro
 hypo: rocha
 sa: @en:noun.substance:crushed_rock
-
-w: arenito
-d: @en_a sedimentary rock consisting of sand consolidated with some cement (clay or quartz etc.)
-hyper: noun.object:@en_firestone
-hyper: noun.object:@en_holystone
-hyper: @en_bluestone
-hyper: @en_brownstone
-hyper: @en_greensand
-hyper: @en_grit
-hyper: Siltito
-hypo: @en_arenaceous_rock
-sa: @en:noun.substance:sandstone
 
 w: argent
 w: prata
@@ -15303,7 +15191,7 @@ sa: @en:noun.substance:goo
 
 w: basalto
 d: @en_the commonest type of solidified lava; a dense dark grey fine-grained igneous rock that is composed chiefly of plagioclase feldspar and pyroxene
-hypo: Rocha_vulcânica
+hypo: rocha_vulcânica
 ms: Plagióclase
 ms: piroxena
 sa: @en:noun.substance:basalt
@@ -15497,11 +15385,6 @@ hypo: Fezes
 mu: noun.communication:indecência
 sa: @en:noun.substance:crap
 
-w: brecha
-d: @en_a rudaceous rock consisting of sharp fragments embedded in clay or sand
-hypo: @en_rudaceous_rock
-sa: @en:noun.substance:breccia
-
 w: brometo_de_potássio
 d: @en_a white crystalline salt (KBr) used as a sedative and in photography
 hypo: @en_restrainer
@@ -15610,16 +15493,6 @@ hypo: @en_spar
 ms: carbonato_de_cálcio
 sa: @en:noun.substance:calcite
 
-w: calcário
-d: @en_a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals
-hyper: @en_rottenstone
-hypo: rocha
-hypo: rocha_sedimentar
-ms: Calcio
-ms: calcita
-ms: carbono
-sa: @en:noun.substance:limestone
-
 w: cama_de_feno_para_animais
 w: cama_de_palha_para_animais
 w: detritos_residuais
@@ -15681,6 +15554,7 @@ hypo: Composto_químico
 ms: @en_carbonyl_group
 sa: @en:noun.substance:carbonyl
 
+w: C
 w: carbono
 d: @en_an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds
 hs: calcário
@@ -15748,19 +15622,6 @@ hyper: @en_strawboard
 hypo: Papel
 hypo: algodão_carvado_e_comprido_em_camadas_moles
 sa: @en:noun.substance:cardboard
-
-w: carvão[1]
-w: carvão_mineral
-w: hulha
-d: @en_fossil fuel consisting of carbonized vegetable matter deposited in the Carboniferous period
-hyper: @en_steam_coal
-hyper: Lignito
-hyper: antracite
-hyper: carvão_betuminoso
-hypo: @en_vegetable_matter
-hypo: combustível_fóssil
-ms: carbono
-sa: @en:noun.substance:coal
 
 w: carvão_activado
 w: carvão_ativado
@@ -15887,8 +15748,9 @@ d: @en_a solution of hydrogen cyanide in water; weak solutions are used in fumig
 hypo: Ácidos
 sa: @en:noun.substance:hydrocyanic_acid
 
+w: cianita
 w: cianite
-d: @en_a grey or greenish-blue mineral consisting of aluminum silicate in crystalline form; occurs in metaphoric rock, used as a refractory
+d: @en_a grey or greenish-blue mineral consisting of triclinic Al2SiO5 aluminium neosilicate; used primarily in refractory and ceramic products, including porcelain plumbing fixtures and dishware; also used in electronics, electrical insulators and abrasives
 hypo: matéria_mineral
 sa: @en:noun.substance:cyanite
 
@@ -16184,11 +16046,6 @@ hyper: prata[1]
 hypo: materiais
 sa: @en:noun.substance:conductor
 
-w: conglomerado
-d: @en_a composite rock made up of particles of varying size
-hypo: rocha
-sa: @en:noun.substance:conglomerate
-
 w: constructora
 w: detergentes
 w: empreiteira
@@ -16330,13 +16187,6 @@ d: @en_the chemical group that gives color to a molecule
 hp: Corantes
 hypo: @en_chemical_group
 sa: @en:noun.substance:chromophore
-
-w: cré
-d: @en_a soft whitish calcite
-hs: noun.artifact:Giz
-hypo: calcita
-ms: carbonato_de_cálcio
-sa: @en:noun.substance:chalk
 
 w: cuproníquel
 d: @en_a 60/40 alloy of copper and nickel
@@ -16872,12 +16722,6 @@ hyper: vapor[2]
 hypo: @en_suspension
 sa: @en:noun.substance:vapor[1]
 
-w: evaporito
-d: @en_the sediment that is left after the evaporation of seawater
-hs: salmoura
-hypo: noun.object:depósito
-sa: @en:noun.substance:evaporite
-
 w: exalação
 d: @en_exhaled breath
 hyper: halitose
@@ -17117,14 +16961,6 @@ d: @en_cheap paper made from wood pulp and used for printing newspapers
 hypo: Papel
 sa: @en:noun.substance:newspaper
 
-w: folhelho
-w: xisto[1]
-d: uma rocha sedimentar formada pela deposição de sucessivas camadas de argila
-hyper: @en_humic_shale
-hyper: Xisto_Betuminoso
-hypo: rocha_sedimentar
-sa: @en:noun.substance:shale
-
 w: fosfato_de_cálcio
 d: @en_a phosphate of calcium; a main constituent of animal bones
 hypo: Fosfatos
@@ -17187,11 +17023,6 @@ d: @en_a liquid aldehyde with a penetrating odor; made from plant hulls and corn
 hypo: @en_plant_product
 hypo: Aldeídos
 sa: @en:noun.substance:furfural
-
-w: gabro
-d: @en_one of a family of granular intrusive rocks
-hypo: Rocha_ìgnea
-sa: @en:noun.substance:gabbro
 
 w: gadolinita
 d: @en_a mineral that is a source of rare earths; consists of silicates of iron and beryllium and cerium and yttrium and erbium
@@ -17313,12 +17144,6 @@ hp: noun.phenomenon:chuva-de-pedra
 hypo: gelo
 sa: @en:noun.substance:hailstone
 
-w: gnaisse
-w: gneisse
-d: @en_a laminated metamorphic rock similar to granite
-hypo: Rochas_metamórficas
-sa: @en:noun.substance:gneiss
-
 w: gordura[1]
 w: lípidos[1]
 w: tecido_adiposo
@@ -17362,12 +17187,6 @@ hyper: almandina
 hypo: @en_transparent_gem
 hypo: matéria_mineral
 sa: @en:noun.substance:garnet
-
-w: granito
-d: @en_plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz
-hypo: @en_batholite
-ms: Silicio
-sa: @en:noun.substance:granite
 
 w: graxa
 w: graxa_de_sapato
@@ -17778,7 +17597,7 @@ d: @en_rock that in its molten form (as magma) issues from volcanos; lava is wha
 hyper: @en_aa
 hyper: @en_pillow_lava
 hyper: lava_encordoada
-hypo: Rocha_vulcânica
+hypo: rocha_vulcânica
 sa: @en:noun.substance:lava
 
 w: lava[1]
@@ -18560,12 +18379,6 @@ ms: Tulio
 ms: európio
 sa: @en:noun.substance:monazite
 
-w: mármore
-d: @en_a hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material
-hyper: @en_verd_antique
-hypo: rocha
-sa: @en:noun.substance:marble
-
 w: naftalina
 d: @en_a white crystalline strong-smelling hydrocarbon made from coal tar or petroleum and used in organic synthesis and as a fumigant in mothballs
 hs: noun.artifact:@en_camphor_ball
@@ -18865,8 +18678,7 @@ hyper: @en_shingling
 hyper: @en_sial
 hyper: @en_sima
 hyper: Caliche
-hyper: Rocha_ìgnea
-hyper: Rochas_metamórficas
+hyper: Rocha_ígnea
 hyper: areia_grossa
 hyper: calcário
 hyper: conglomerado
@@ -18874,6 +18686,7 @@ hyper: magma
 hyper: mármore
 hyper: pedra-pomes
 hyper: quartzito
+hyper: rocha_metamórfica
 hyper: rocha_sedimentar
 hypo: materiais
 ms: matéria_mineral
@@ -18889,12 +18702,6 @@ d: @en_a transparent or translucent gemstone with a pearly luster; some specimen
 hypo: @en_transparent_gem
 hypo: feldspato
 sa: @en:noun.substance:moonstone
-
-w: pegmatito
-d: @en_a form of igneous rock consisting of extremely coarse granite resulting from the crystallization of magma rich in rare elements
-hypo: Rocha_ìgnea
-ms: @en_samarskite
-sa: @en:noun.substance:pegmatite
 
 w: pele[1]
 w: peles
@@ -19032,6 +18839,7 @@ hypo: matéria_mineral
 sa: @en:noun.substance:green_lead_ore
 
 w: piroxena
+w: piroxênio
 d: @en_any of a group of crystalline silicate mineral common in igneous and metamorphic rocks
 hs: @en_nephelinite
 hs: basalto
@@ -19239,11 +19047,6 @@ d: @en_a mixture of potassium nitrate, charcoal, and sulfur in a 75:15:10 ratio 
 hypo: noun.artifact:explosivo
 sa: @en:noun.substance:gunpowder
 
-w: quartzito
-d: @en_hard metamorphic rock consisting essentially of interlocking quartz crystals
-hypo: rocha
-sa: @en:noun.substance:quartzite
-
 w: queratina
 d: @en_a fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves
 hs: noun.animal:pena
@@ -19396,18 +19199,6 @@ d: @en_a toxic protein extracted from castor beans; used as a chemical reagent; 
 hypo: Toxinas
 hypo: albumina
 sa: @en:noun.substance:ricin
-
-w: rocha_sedimentar
-d: @en_rock formed from consolidated clay sediments
-hyper: @en_arenaceous_rock
-hyper: @en_argillaceous_rock
-hyper: @en_argillite
-hyper: @en_rudaceous_rock
-hyper: ardósia
-hyper: calcário
-hyper: folhelho
-hypo: rocha
-sa: @en:noun.substance:sedimentary_rock
 
 w: rodopsina
 d: @en_a red photopigment in the retinal rods of vertebrates; dissociates into retinene by light
@@ -19576,13 +19367,6 @@ w: seda
 d: @en_animal fibers produced by silkworms and other larvae that spin cocoons and by most spiders
 hypo: @en_animal_fiber
 sa: @en:noun.substance:silk
-
-w: sedimento
-w: sedimentos_finos
-w: silte
-d: @en_mud or clay or small rocks deposited by a river or lake
-hypo: Solo
-sa: @en:noun.substance:silt
 
 w: serina
 d: @en_a sweetish crystalline amino acid involved in the synthesis by the body of cysteine
@@ -19910,19 +19694,13 @@ sa: @en:noun.substance:tritium
 
 w: tufo
 d: @en_hard volcanic rock composed of compacted volcanic ash
-hypo: Rocha_vulcânica
+hypo: rocha_vulcânica
 sa: @en:noun.substance:tuff
 
 w: tundra
 d: @en_a black mucky soil with a frozen subsoil that is characteristic of Arctic and subarctic regions
 hypo: Solo
 sa: @en:noun.substance:tundra_soil
-
-w: turfa
-d: @en_partially carbonized vegetable matter saturated with water; can be used as a fuel when dried
-hypo: @en_humate
-hypo: @en_vegetable_matter
-sa: @en:noun.substance:peat
 
 w: turquesa
 d: @en_a blue to grey green mineral consisting of copper aluminum phosphate
@@ -20899,3 +20677,1935 @@ hyper: @en_sardonyx
 hypo: Calcedónia
 sa: @en:noun.substance:onyx
 
+w: aglomerado
+w: aglomerado_vulcânico
+d: uma rocha piroclástica com mais de 75% de bombas vulcânicas (diâmetro >64mm) que foram ao menos parcialmente derretidas durante a formação ou transporte
+hypo: rocha_piroclástica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:agglomerate
+
+w: anatexita
+w: anatexito
+w: migmatito
+d: uma rocha metamórfica silicática compósita, heterogênea difusa em uma escala meso a megascópica; tipicamente consiste de partes mais claras (leucossomos ou neossomos) de aparência ígnea e de partes mais escuras (melanossomos ou paleossomos) que usualmente apresentam características de rochas metamórficas
+hypo: rocha_migmática
+mt: noun.cognition:litologia
+sa: @en:noun.substance:anatexite
+
+w: andesito
+d: uma rocha vulcânica intermediária composta essencialmente de plagioclase (frequentemente zoneada entre labradorite e oligoclase), piroxênio, hornblenda e/ou biotita
+hypo: rocha_andesítica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:andesite
+
+w: andesitóide
+w: rocha_andesítica
+d: uma rocha que corresponde à classificação QAPF para rochas vulcânicas identificadas como andesito
+hyper: andesito
+hypo: rocha_vulcânica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:andesitic_rock
+
+w: anfibolito
+d: uma rocha metamórfica granodiorítica ou gnáissica que consiste principalmente de anfíbola verde, marrom ou preta e plagioclase (incluindo albita), que combinados compõe >75% da rocha e onde ambos são constituintes principais; a anfíbola representa ≥50% dos constituintes máficos totais e representa ≥30% da composição total; outros minerais comuns incluem quartzo, piroxênio, granada, minerais do grupo epídoto,  biotita, titanita and escapolita
+hypo: rocha_metamórfica
+ms: anfíbola
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:amphibolite
+
+w: anidrita
+d: um evaporito composto de >50% de anidrita (CaSO4); frequentemente associado a gipsita e halita, formando espessas camadas entremeadas com calcário e folhelho
+hypo: evaporito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:anhydrite
+
+w: anortosito
+d: uma rocha plutônica leucocrata que consiste essencialmente de plagioclase cálcica, frequentemente com pequenas quantidades de piroxênio
+hypo: rocha_anortosítica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:anorthosite
+
+w: anortosito_com_quartzo
+d: uma rocha plutônica leucocrata que consiste essencialmente de plagioclase, quartzo e pequenas quantidades de piroxênio
+hypo: rocha_anortosítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_anorthosite
+
+w: anortosito_rico_em_feldspatoides
+d: uma rocha anortosítica que contém 0% a 10% de mineral feldspatóide e sem quartzo na fração QAPF; campo QAPF 10'
+hypo: rocha_anortosítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_anorthosite
+
+w: antracite
+w: antracito
+d: o carvão de maior grau, muito duro, lustroso, preto, com brilho semimetálico e fratura semiconcoidal; tem um conteúode de carbono fixo >91% em base livre de matéria mineral e seca
+hypo: carvão_de_pedra
+mt: noun.cognition:litologia
+sa: @en:noun.substance:anthracite
+
+w: aplito
+d: uma rocha ígnea levemente colorida (leucocrata) caracterizada por uma textura granular-xenomórfica de gãos finos, usualmente com composição granítica consistindo de quartzo, feldspato alcalino e plagioclase sódica
+hypo: rocha_plutônica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:aplite
+
+w: arcose
+d: um arenito com feldspato >25% e quartzo como principais constituintes; pode conter fragmentos líticos; feldspato alcalino é majoritário no feldspato total; a maior parte dos arcoses é dericada de granitos ou gnaisses
+hypo: arenite
+mt: noun.cognition:litologia
+sa: @en:noun.substance:arkose
+
+w: ardósia
+d: uma rocha metamórfica de grãos muito finos ou ultrafinos que apresenta foliação contínua na qual os grãos individuais são muito pequenos para serem vistos a olho nu (clivagem slaty); usualmente de grau metamórfico muito baixo, embora também possa ocorrer sob condições de grau baixo; é o equivalente metamórfico do folhelho
+hypo: xisto
+mt: noun.cognition:litologia
+sa: @en:noun.substance:slate
+
+w: areia
+w: areias
+d: um sedimento clástico com grãos de tamanho médio entre 0,063mm e 2mm
+hs: noun.object:areia_movediça
+hs: noun.object:banco_de_areia
+hs: noun.object:faixa
+hs: noun.object:praia
+hs: concreto
+hyper: areia_fina
+hyper: areia_grossa
+hyper: areia_média
+hypo: sedimento_detrítico
+hypo: solo
+ms: Si
+mt: noun.cognition:litologia
+sa: @en:noun.substance:sand
+
+w: areia_calcária
+d: um sedimento clástico-carbonático misto no qual a porção clástica é restrita a componentes do tamanho de areia; consiste de 25% a 50% de calcita e 50% a 75% de areia
+hypo: sedimento_detrítico
+ms: calcita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calcareous_sand
+
+w: areia_fina
+d: um sedimento clástico com tamanho médio de grão entre 0,063mm e 0,2mm
+hypo: areia
+mt: noun.cognition:litologia
+sa: @en:noun.substance:fine_sand
+
+w: areia_grossa[1]
+d: um sedimento clástico com tamanho médio de grão entre 0,63mm e 2mm
+hypo: areia
+mt: noun.cognition:litologia
+sa: @en:noun.substance:coarse_sand
+
+w: areia_média
+d: um sedimento clástico com tamanho médio de grão entre 0,2mm e 0,63mm
+hypo: areia
+mt: noun.cognition:litologia
+sa: @en:noun.substance:medium_sand
+
+w: arenite
+d: um arenito com grãos do tamanho de areia e <15% de material matriz (<30 µm); as proporções relativas de feldspato, quartzo e fragmentos líticos não são definidas
+hyper: arcose
+hyper: arenito_com_quartzo
+hyper: litoarenito
+hypo: arenito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:arenite
+
+w: arenito
+d: uma rocha sedimentar clástica com grãos de tamanho médio entre 0,063mm e 2mm
+hyper: @en:noun.object:firestone
+hyper: @en:noun.object:holystone
+hyper: @en:noun.substance:bluestone
+hyper: @en:noun.substance:brownstone
+hyper: @en:noun.substance:greensand
+hyper: @en:noun.substance:grit
+hyper: arenite
+hyper: arenito_fino
+hyper: arenito_grosso
+hyper: arenito_impuro
+hyper: arenito_médio
+hypo: rocha_sedimentar_detrítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:sandstone
+
+w: arenito_calcário
+d: uma rocha clástico-carbonática mista na qual a porção clástica é restrita a componentes do tamanho de areia; consiste de 25% a 50% de calcita e 50% a 75% de areia
+hypo: rocha_sedimentar_detrítica
+ms: calcita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calcareous_sandstone
+
+w: arenito_com_quartzo
+d: um arenito com mais de 95% de grãos de quartzo
+hypo: arenite
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_arenite
+
+w: arenito_fino
+d: arenito clástico que contém menos de 10% de matriz; a matriz é de minerais de silicatos do tamanho de argila (argila, feldspato, quartzo, fragmentos de rocha e produtos de alterações) de natgureza detrítica ou diagenética
+hypo: arenito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:fine_sandstone
+
+w: arenito_grosso
+d: um arenito com tamanho médio de grão entre 0,63mm e 2mm
+hypo: arenito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:coarse_sandstone
+
+w: arenito_impuro
+d: um arenito com >15% de material de matriz (componentes <30µm); as proporções relativas dos diferentes componentes (feldspato e/ou quartzo e/ou fragmentos líticos) são variáveis
+hyper: grauvaque
+hypo: arenito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:wacke
+
+w: arenito_médio
+d: um arenito com tamanho médio de grão entre 0,2mm e 0,63mm
+hypo: arenito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:medium_sandstone
+
+w: argila[1]
+d: um sedimento clástico com grãos de tamanho médio menor do que 0,002mm
+hypo: sedimento_detrítico
+mt: noun.cognition:litologia
+sa: @en:noun.substance:clay[3]
+
+w: argilito
+d: uma rocha sedimentar clástica que consiste de partículas de argila compactada
+hypo: rocha_sedimentar_detrítica
+ms: argila[1]
+mt: noun.cognition:litologia
+sa: @en:noun.substance:claystone
+
+w: bagacina_consolidada
+w: lapilli_consolidado
+d: uma rocha piroclástica com mais de 75% de lapilli (diâmetro entre 2mm 64mm)
+hypo: rocha_piroclástica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:lapillistone
+
+w: barro[1]
+d: um sedimento clástico composto por uma mistura de areia, silte e argila, frequentemente apresenta cor amarela ou marrom e normalmente é livre de material carbonático (ocasionalmente com carbonato secundário); frequentemente forma-se como produto da alteração de rochas consolidadas ou não consolidadas preexistentes; inclui loesse, barro alterado in situ e barro transportado
+hyper: @en:noun.substance:chernozemic_soil
+hyper: @en:noun.substance:regur
+hypo: sedimento_detrítico
+hypo: solo
+mt: noun.cognition:litologia
+sa: @en:noun.substance:loam
+
+w: basalto[2]
+d: uma rocha vulcânica composta essencialmente por plagioclase cálcica e piroxênio; olivina, foids secundários e quartzo também podem estar presentes
+hypo: rocha_basáltica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:basalt[2]
+
+w: basaltóide
+w: rocha_basáltica
+d: uma rocha que corresponde à classificação QAPF para rochas vulcânicas identificadas como basalto
+hyper: basalto[2]
+hypo: rocha_vulcânica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:basaltic_rock
+
+w: basanito
+d: uma rocha vulcânica contendo plagioclase sódica, piroxênio, foids essenciais e olivina
+hypo: rocha_tefritóidica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:basanite
+
+w: basanito_fonolítico
+d: uma rocha basáltica alcalina que consiste de plagioclase, feldspatóides, olivina, augita e frequentemente pouca sanidina; se o teor de olivina for <10% trata-se de um tefrito fonolítico
+hypo: rocha_tefritóidica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:phonolitic_basanite
+
+w: blocos
+d: um sedimento clástico com tamnho médio de grão >200mm
+hypo: sedimento_detrítico
+mt: noun.cognition:litologia
+sa: @en:noun.substance:block_size_sediment
+
+w: bomba
+w: brecha_de_cinzas
+w: tefra_de_bloco
+d: um depósito piroclástico não consolidado composto por mais de 75% de blocos vulcânicos (diâmetro >64mm)
+hypo: tefra
+mt: noun.cognition:litologia
+sa: @en:noun.substance:block_tephra
+
+w: brecha
+d: uma rocha sedimentar clástica que contém >50% de minerais e fragmentos angulares de rochas fraturadas com grão de tamanho médio >2mm; o equivalente solidificado de seixos e usualmente suportado em clastos; a matriz pode conter partículas do tamanho de areia ou de argila; o termo inclui brechas polimíticas e oligomíticas, isto é, brechas com componenetes litológicos heterogêneos ou homogêneos; os fragmentos têm normalmente arestas vivas e cantos não desgastados
+hypo: rocha_sedimentar_detrítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:breccia
+
+w: brecha_piroclástica
+d: uma rocha piroclástica com mais de 75% de blocos angulares (diâmetro >64mm)
+hypo: rocha_piroclástica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:pyroclastic_breccia
+
+w: brecha_tectônica
+d: uma rocha de falha com material rochoso não coeso com ≥90% porfiroclastos geralmente angulares e fragmentos líticos em uma matriz de grãos mais finos de composição similar
+hypo: material_relacionado_com_uma_falha
+mt: noun.cognition:litologia
+sa: @en:noun.substance:tectonic_breccia
+
+w: cal_arenosa
+d: um sedimento clástico-carbonático misto no qual a porção clástica é restrita a componentes do tamanho de areia; consiste em 50% a 75% de calcita e 25% a 50% de areia
+hypo: sedimento_carbonatado
+ms: areia
+ms: calcita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:sandy_lime
+
+w: calcarenito
+w: calciarenita
+w: calciarenito
+d: um calcário constituído predominantemente (>50%) de partículas de calcita detríticas arredondadas (biogenéticas ou não biogenéticas) com tamanho entre 0,063mm e 2mm; os interstícios são preenchidos com lama carbonatada ou cimento
+hypo: calcário
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calciarenite
+
+w: calcário
+d: uma rocha sedimentar carbonática composta de >95% de calcita (e aragonita) e <5% de dolomita
+hyper: @en:noun.substance:rottenstone
+hyper: calciarenito
+hyper: calcilutito
+hyper: calcirudito
+hyper: calcissiltito
+hyper: cré
+hyper: travertino
+hypo: rocha_sedimentar_carbonatada
+ms: C
+ms: Ca
+ms: calcita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:limestone
+
+w: calcário_arenoso
+d: uma rocha clástico-carbonática mista na qual a porção clástica é restrita a componentes do tamanho de areia; consiste em 50% a 75% de calcita e 25% a 50% de areia
+hypo: rocha_sedimentar_carbonatada
+ms: areia
+ms: calcita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:sandy_limestone
+
+w: calcilutito
+d: um calcário constituído predominantemente (>50%) de lama carbonatada ou partículas detríticas < 0,004mm
+hypo: calcário
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calcilutite
+
+w: calcirudito
+d: um calcário constituído predominantemente (>50%) de partículas de calcita detríticas arredondadas (biogenéticas ou não biogenéticas) com tamanho maior do que 2mm; os interstícios são preenchidos com lama carbonatada ou cimento
+hypo: calcário
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calcirudite
+
+w: calcissiltito
+d: um calcário constituído predominantemente (>50%) de partículas de calcita detríticas arredondadas (biogenéticas ou não biogenéticas) com tamanho entre 0,004 e 0,063mm; os interstícios são preenchidos com lama carbonatada ou cimento
+hypo: calcário
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calcisiltite
+
+w: carvão[1]
+w: carvão_de_pedra
+w: carvão_mineral
+w: hulha
+d: um carvão duro, de brilho negro, com poder calorífico >23,86MJ/kg em uma base livre de minerais úmidos; distingui-se do lenhito pois o carvão negro apresenta maiores graus de consolidação e de coalificação bem como maior poder calorífico; inclui todos os carvões de graus médios a altos
+hyper: antracite
+hypo: carvão[2]
+mt: noun.cognition:litologia
+sa: @en:noun.substance:hard_coal
+
+w: carvão[2]
+d: um combustível fóssil; rocha prontamente combustível com <75% umidade e >50% de materiais carbônicos (incluindo água inerente) em peso e >70% em volume; formado a partir de vários tipos de restos de plantas por diferentes graus de compactação e endurecimento; este termo não distingue carvões sapropélicos de húmicos
+hyper: @en:noun.substance:steam_coal
+hyper: antracite
+hyper: carvão_betuminoso
+hyper: carvão_de_pedra
+hyper: lenhito
+hyper: lignito[1]
+hypo: @en:noun.substance:vegetable_matter
+hypo: combustível_fóssil
+hypo: rocha_sedimentar_orgânica
+ms: C
+mt: noun.cognition:litologia
+sa: @en:noun.substance:coal
+
+w: cascalho_fino
+d: uma rocha sedimentar clástica que contém >50% de minerais arredondados e fragmentos de rocha com tamanho médio de grão entre 2mm e 6,3mm
+hypo: cascalho[1]
+mt: noun.cognition:litologia
+sa: @en:noun.substance:fine_gravel
+
+w: cascalho_grosso
+d: uma rocha sedimentar clástica que contém >50% de minerais arredondados e fragmentos de rocha com tamanho médio de grão entre 20mm e 63mm
+hypo: cascalho[1]
+mt: noun.cognition:litologia
+sa: @en:noun.substance:coarse_gravel
+
+w: cascalho_médio
+d: uma rocha sedimentar clástica que contém >50% de minerais arredondados e fragmentos de rocha com tamanho médio de grão entre 6,3mm e 20mm
+hypo: cascalho[1]
+mt: noun.cognition:litologia
+sa: @en:noun.substance:medium_gravel
+
+w: cascalho[1]
+d: uma rocha sedimentar clástica que contém >50% de minerais arredondados e fragmentos de rocha com grãos de tamanho médio >2mm
+hyper: cascalho_fino
+hyper: cascalho_grosso
+hyper: cascalho_médio
+hypo: sedimento_detrítico
+mt: noun.cognition:litologia
+sa: @en:noun.substance:gravel[2]
+
+w: cataclasita
+d: uma rocha de falha que é coesa com xistosidade ausente a pouco desenvolvida, caracterizada por profiroclastos geralmente angulares e fragmentos líticos em uma matriz de grãos finos de composiçào similar; mecanismos de deformação dúctil são predominantes mas deformação plástica também pode estar envolvida
+hypo: rocha_de_falha
+mt: noun.cognition:litologia
+sa: @en:noun.substance:cataclasite
+
+w: cherte
+d: uma rocha sedimentar microcristalina que consiste predominantemente de cristais finos de quartzo (<30 µm); ocorre como nódulos em calcários, dolomitos e cré, ou como cherte estratificado; o termo cherte inclui diatomito and radiolarita
+hyper: radiolarita
+hypo: rocha_biogênica-bioquímica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:chert[2]
+
+w: cinza[1]
+w: lapilli
+d: depósito piroclástico não consolidado no qual >75% do material tem um tamanho de grão <2mm
+hypo: tefra
+mt: noun.cognition:litologia
+sa: @en:noun.substance:ash[2]
+
+w: conglomerado
+w: rudito
+d: uma rocha sedimentar clástica que contém >50% de minerais arredondados e fragmentos de rocha com grãos de tamanho médio >2mm (o equivalente consolidado de granulito); a matriz pode conter partículas de tamanho arenoso ou argiloso, isto é, conglomerados com componentes litológicos homogêneos ou heterogênos
+hypo: rocha_sedimentar_detrítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:conglomerate
+
+w: corneana
+w: cornubianito
+w: hornfels
+d: uma rocha metamórfica de contato dura, compacta e de qualquer tamanhão de grão, composta predominantemente por silicatos e minerais óxidos em proporções variadas, com aparência calosa e fratura subconcoidal a chanfrada; pode reter algumas das características estruturais herdadas do seu protólito, tais como estratificação, laminação sedimentar ou deposição em camadas metamórficas; ocorre principalmente, mas não exclusivamente, na partes mais interiores de auréolas de contato
+hypo: rocha_metamórfica_de_contato
+mt: noun.cognition:litologia
+sa: @en:noun.substance:hornfels
+
+w: cré
+d: um calcário marinho levemente colorido (cinza claro) composto quase inteiramente de calcita cristalina fina; esses calcários porosos consistem de algas calcárias e foraminíferas, e usuamente contêm nódulos de cherte
+hs: noun.artifact:giz
+hypo: calcário
+mt: noun.cognition:litologia
+sa: @en:noun.substance:chalk
+
+w: dacito
+d: uma rocha vulcânica que consiste essencialmente de quartzo e plagioclase sódica, com piroxênio e/ou hornblenda e/ou biotita secundários
+hypo: rocha_vulcânica
+ms: plagioclase
+ms: quartzo
+mt: noun.cognition:litologia
+sa: @en:noun.substance:dacite
+
+w: diabase
+w: diabásio
+w: diábase
+w: dolerito
+w: microgabro
+d: uma rocha magmática com tamanho de grão intermediário entre basalto e gabro, composta essencialmente de plagioclase, piroxênio e minerais opacos
+hypo: rocha_vulcânica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:diabase
+
+w: diamictito
+d: uma rocha sedimentar clástica pobremente selecionada ou não selecionada que contém componentes arrendondados ou não do tamanho de cascalho sustentados pela matriz em silte e argila; o equivalente consolidado do diamictito; o termo é não genético mas inclui termos como tilito consolidado
+hypo: rocha_sedimentar_detrítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:diamictite
+
+w: diamictito_não_consolidado
+d: um sedimento clástico pobremente selecionado ou não selecionado que contém componentes arrendondados ou não do tamanho de cascalho sustentados pela matriz em silte e argila; o equivalente não consolidado do dacito; o termo é não genético mas inclui termos como tilito não consolidado
+hypo: sedimento_detrítico
+mt: noun.cognition:litologia
+sa: @en:noun.substance:diamicton
+
+w: diatexito
+d: um tipo de migmatito no qual as partes mais claras e mais escuras formam estruturas schlieren e nebulíticas que se fundem
+hypo: rocha_migmática
+mt: noun.cognition:litologia
+sa: @en:noun.substance:diatexite
+
+w: diorito
+d: uma rocha plutônica que consiste de plagioclase intermediária, geralmente com hornblenda, biotita e augita
+hypo: rocha_diorítica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:diorite
+
+w: diorito_feldspatóidico
+d: uma rocha plutônica alcalina que consiste de feldspatóides (10% a 60% dos minerais félsicos), plagioclase intermediária e grandes quantidades de minerais máficos
+hypo: dioritóide_feldspatóidico
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid_diorite
+
+w: diorito_rico_em_feldspatoides
+d: uma rocha diorítica que contém 0% a 10% de mineral feldspatóide na fração QAPF; campo QAPF 10'
+hypo: rocha_diorítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_diorite
+
+w: dioritóide
+w: rocha_diorítica
+d: uma rocha que corresponde à classificação QAPF para rochas plutônicas identificadas como diamictito não consolidado ou monzodiorito
+hyper: diorito
+hyper: diorito_rico_em_feldspatoides
+hyper: monzodiorito
+hyper: monzodiorito_quartzítico
+hyper: monzodiorito_rico_em_feldspatoides
+hyper: quartzodiorito
+hypo: rocha_plutônica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:dioritic_rock
+
+w: dioritóide_feldspatóidico
+d: uma rocha que corresponde à classificação QAPF para rochas plutônicas que contêm foids essenciais e nas quais a plagioclase (anortita entre 0% e 50%) é mais abundante do que o feldspato alcalino
+hyper: diorito_feldspatóidico
+hyper: monzodiorito_feldspatóidico
+hypo: rocha_plutônica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid_dioritic_rock
+
+w: dolomito
+w: rocha_dolomítica
+d: uma rocha sedimentar carbonática composta de >90% de dolomita  e <10% de calcita; usualmente formada pela diagênse e dolomitização de calcita e aragonita; apresenta razão entre carbonato de magnésio e a soma de calcita e aragonita de mais de 1 para 1
+hypo: rocha_sedimentar_carbonatada
+ms: calcita
+ms: dolomito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:dolomite
+
+w: eclogito
+d: uma rocha metamórfica sem plagioclase composta por ≥75% onfacite e granada em volume, ambos presentes como consituintes principais porém nenhum compõe >75% em volume
+hypo: rocha_metamórfica_de_alta_pressão
+mt: noun.cognition:litologia
+sa: @en:noun.substance:eclogite
+
+w: espilito
+d: uma rocha hipabissal básica a intermediária alterada para rocha vulcânica na qual o feldspato é parcialmente ou totalmente composto de albita, tipicamente acompanhada de clorita, calcita, quartzo, epídoto, prehnita e produtos de cristalização hidratada de baixa temperatura; tipicamente preserva características de erupções vulcânicas
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:spilite
+
+w: evaporito
+d: uma rocha sedimentar química que contém >50% de sais não carbonáticos, os quais podem incluir minerais de borato, sulfato e clorito; usualmente formada a partir de uma solução salina por precipitação devida à vaporização do solvente
+hyper: anidrita
+hyper: gipsita[1]
+hyper: salgema
+hypo: material_sedimentar_químico
+mt: noun.cognition:litologia
+sa: @en:noun.substance:evaporite
+
+w: filito
+d: uma rocha metamórfica de grãos finos a médios caracterizada por xistosidade contínua bem desenvolvida a partir do arranjo em paralelo de filosilicatos; é usualmente de baixo grau metamórfico e é intermediário entre metargilito e micaxisto
+hypo: micaxisto
+mt: noun.cognition:litologia
+sa: @en:noun.substance:phyllite
+
+w: filonito
+d: uma milonita rica em filosilicatos que apresenta o brilho lustroso de um filito
+hypo: milonita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:phyllonite
+
+w: foidito
+d: uma rocha vulcânica que contém >60% de foids
+hypo: rocha_vulcânica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foidite
+
+w: foidito_fonolítico
+d: uma rocha vulcânica alcalina que consiste de feldspatóides e pouco feldspato alcalino
+hypo: foiditóide
+mt: noun.cognition:litologia
+sa: @en:noun.substance:phonolitic_foidite
+
+w: foidito_tefritico
+d: uma rocha vulcânica alcalina que consiste de feldspatóides e pouca plagioclase; inclui foidito basanítico que contém >10% de olivina modal
+hypo: foiditóide
+mt: noun.cognition:litologia
+sa: @en:noun.substance:tephritic_foidite
+
+w: foiditóide
+d: uma rocha que corresponde à classificação QAPF para rochas vulcânicas identificadas como monzosienito feldspatóidico
+hyper: foidito_fonolítico
+hyper: foidito_tefritico
+hypo: rocha_vulcânica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foiditic_rock
+
+w: foidolito
+d: uma rocha plutônica que consiste de feldspatóides (>60% de minerais félsicos)
+hypo: rocha_plutônica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foidolite
+
+w: folhelho
+w: xisto[1]
+d: uma rocha sedimentar formada pela deposição de sucessivas camadas de argila
+hyper: @en_humic_shale
+hyper: Xisto_Betuminoso
+hyper: folhelho_negro
+hypo: rocha_sedimentar
+mt: noun.cognition:litologia
+sa: @en:noun.substance:shale
+
+w: folhelho_negro
+d: um folhelho finamente laminado excepcionalmente rico em matéria orgânica (conteúdo >5% de carbono) e sulfeto, especialmente pirita e sulfeto de ferro
+hypo: folhelho
+mt: noun.cognition:litologia
+sa: @en:noun.substance:black_shale
+
+w: fonólito
+d: uma rocha vulcânica que consiste essencialmente em feldspato alcalino e foids
+hypo: rocha_fonolitóidica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:phonolite
+
+w: fonólito_tefritico
+d: uma rocha vulcânica alcalina que consiste de feldspato alcalino, plagioclase, feldspatóides e diversos minerais máficos
+hypo: rocha_fonolitóidica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:tephritic_phonolite
+
+w: fonolitóide
+w: rocha_fonolitóidica
+d: uma rocha que corresponde à classificação QAPF para rochas vulcânicas identificadas como fonólito
+hyper: fonólito
+hyper: fonólito_tefritico
+hypo: rocha_vulcânica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:phonolitic_rock
+
+w: gabro
+d: uma rocha plutônica de grãos mais grosseiros composta essencialmente de plagioclase cálcica, piroxênio e óxiods de ferro; se olivina for um constituinte essencial então é um gabro olivínico
+hypo: rocha_gabróica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:gabbro
+
+w: gabro_feldspatóidico
+d: uma rocha plutônica alcalina que consiste de feldspatóides (10% a 60% dos minerais félsicos), plagioclase cálcica e grandes quantidades de minerais máficos
+hypo: rocha_gabróica_feldspatóidica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid_gabbro
+
+w: gabro_rico_em_feldspatoides
+d: uma rocha gabróica que contém 0% a 10% de mineral feldspatóide e sem quartzo na fração QAPF; campo QAPF 10'
+hypo: rocha_gabróica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_gabbro
+
+w: gabróide
+w: rocha_gabróica
+d: uma rocha que corresponde à classificação QAPF para rochas plutônicas identificadas como gabro ou monzogabro
+hyper: gabro
+hyper: gabro_rico_em_feldspatoides
+hyper: monzogabro
+hyper: monzogabro_quartzítico
+hyper: monzogabro_rico_em_feldspatoides
+hyper: quartzogabro
+hypo: rocha_plutônica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:gabbroic_rock
+
+w: gabróide_feldspatóidico
+w: rocha_gabróica_feldspatóidica
+d: uma rocha que corresponde à classificação QAPF para rochas plutônicas que contêm foids essenciais e nas quais a plagioclase (anortita entre 50% e 100%) é mais abundante do que o feldspato alcalino
+hyper: gabro_feldspatóidico
+hyper: monzodiorito_feldspatóidico
+hypo: rocha_plutônica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid_gabbroic_rock
+
+w: gesso[1]
+w: gipsita[1]
+w: pedra_de_gesso
+w: sulfato_de_cálcio_hidratado
+d: um evaportio composto de >50% de gipsita, frequentemente com anidrita e halita, formando espessas camadas intercaladas com calcário e folhelho
+hypo: evaporito
+ms: gipsita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:gypsum[2]
+
+w: gnaisse
+d: uma rocha metamórfica usualmente com estrutura gnáissica (uma foliação que é ou mal desenvolvida ou espaçada de forma que a rocha irá rachar em uma escala >1cm, a deposição em camadas litológicas ou minearológicas é comum) onde quartzo e feldspato são componentes essenciais com >20%de feldspato e <50% de mica sendo o limite composicional para o xisto
+hyper: ortognaisse
+hyper: paragnaisse
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:gneiss
+
+w: gnaisse_arcósico
+d: um paragnaisse no qual o protólito pode ser identificado como arcose (um arenito rico em feldspato); indicativo de baixas condições metamórficas (até fácies de xisto verde), com quartzo e feldspato como constituintes principais
+hypo: paragnaisse
+mt: noun.cognition:litologia
+sa: @en:noun.substance:arkosic_gneiss
+
+w: gnaisse_diorítico
+d: um ortognaisse no qual o protólito pode ser identificado como diorito
+hypo: ortognaisse
+mt: noun.cognition:litologia
+sa: @en:noun.substance:diorite_gneiss
+
+w: gnaisse_facoidal
+d: um tipo de ortognaisse caracterizado pela presen';ca de augen (agregado de grãos ou grão em formato lenticular), normalmente em escala macroscópica, os quais usualmente são resultantes de deformação
+hypo: ortognaisse
+mt: noun.cognition:litologia
+sa: @en:noun.substance:augen_gneiss
+
+w: gnaisse_granítico
+d: um ortognaisse no qual o protólito pode ser identificado como granito
+hypo: ortognaisse
+mt: noun.cognition:litologia
+sa: @en:noun.substance:granite_gneiss
+
+w: gnaisse_tonalítico
+d: um ortognaisse no qual o protólito pode ser identificado como tonalito
+hypo: ortognaisse
+mt: noun.cognition:litologia
+sa: @en:noun.substance:tonalite_gneiss
+
+w: goivagem_de_falha
+d: uma rocha de falha de grãos finos a ultrafinos, não coesa, rica em argila, que pode apresentar xistosidade e conter <30% de fragmentos visíveis; clastos líticos podem estar presentes
+hypo: material_relacionado_com_uma_falha
+mt: noun.cognition:litologia
+sa: @en:noun.substance:fault_gouge
+
+w: granito
+d: uma rocha plutônica que consiste essencialmente de quartzo, feldspato alcalino e plagioclase sódica em diversas proporções, usualmente com biotita e/ou hornblenda
+hypo: granitóide
+mt: noun.cognition:litologia
+sa: @en:noun.substance:granite
+
+w: granito_com_felsdpato_alcalino
+d: uma rocha plutônica e uma variedade de granito em que plagioclase compreende <10% do feldspato total
+hypo: granitóide
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:alkali_feldspar_granite
+
+w: granitóide
+d: uma rocha que corresponde à classificação QAPF para rochas plutônicas identificadas como granito, granitóide ou tonalito
+hyper: granito
+hyper: granito_com_felsdpato_alcalino
+hyper: granodiorito
+hyper: tonalito
+hypo: rocha_plutônica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:granitic_rock
+
+w: granodiorito
+d: uma rocha plutônica que consiste essencialmente de quartzo, plagioclase sódica e feldspato alcalino em quantidades menores, em conjunto com biotita e hornblenda secundários
+hypo: granitóide
+mt: noun.cognition:litologia
+sa: @en:noun.substance:granodiorite
+
+w: granulito
+d: uma rocha metamórfica de alto grau na qual silicatos de fe-mg são predominantemente livres de hidroxilas; a presença de feldspato e a ausência de moscovita primária são importantes; pode conter cordierita; o termo inclui rochas granoblásticas máficas (com >30% de minerais máficos, predominantemente piroxênio) e rochas granoblásticas fésicas (com <30% de minerais máficos, predominantemente piroxênio)
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:granulite
+
+w: grauvaca
+w: grauvaque
+d: um arenito impuro, geralmente de cor cinza ou verde, que é caracterizado por uma matriz de constituintes de grãos do tamanho de argila; a matriz tipicamente apresenta intercrescimentos de sericite e clorito e, em adição, quartzo e feldspato; os componentes do tamanho de areia são dominados por quartzo, fragmentos líticos frequentes e quantidades variáveis mas secundárias de feldspato
+hypo: arenito_impuro
+mt: noun.cognition:litologia
+sa: @en:noun.substance:graywacke
+
+w: greisen
+d: uma rocha metassomática de temperatura média caracterizados pela presença de quartzo e mica branca, comumente com topázio, fluorita, turmalina e localmente com amazonita, ortoclase, andalusita e diásporo; tipicamente pode conter mineralização de berílio, tungstênio, molibdênio, estanho e tântalo; são associadas com leucogranitos de orogênese tardia de alto grau e se forma como substitutas, dentro do corpo granítico e/ou em amplo espectro de rochas nativas; zoneamento pode estar presente
+hypo: rocha_metassomática
+mt: noun.cognition:litologia
+sa: @en:noun.substance:greisen
+
+w: impactita
+d: uma rocha produzida por metamorfismo de impacto (metamorfismo de extensão local, incluindo derretimento e vaporização, causada pela passagem de uma onda de choque devida ao impacto de um corpo planetário em uma superfície planetária)
+hypo: material_de_génese_compósita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:impactite
+
+w: kakirite
+d: uma rocha de falha que é não coesae apresenta xistosidade pouco desenvolvida ou nehuma xistosidade; é caracterizada por porfiroclastos geralmente angulares e fragmentos líticos em uma matriz de grãos finos e de composição similar; formada por mecanismos de deformação rúptil como um fluxo cataclástico
+hypo: material_relacionado_com_uma_falha
+mt: noun.cognition:litologia
+sa: @en:noun.substance:kakirite
+
+w: lamprófiro
+d: uma rocha magmática que é altamente porfírica em minerais máficos (biotita, anfíbola, piroxênio) com todo feldspato confinado à matriz; ocorre comumente em diques ou pequenas intrusões
+hypo: rocha_plutônica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:lamprophyre
+
+w: latito
+d: uma rocha vulcânica que consiste de frações aproximadamente iguais de plagioclase sódica e feldspato alcalino; o equivalente vulcânico de monzonito
+hypo: rocha_traquítica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:latite
+
+w: latito_quartzítico
+d: uma rocha vulcânica que consiste de frações aproximadamente iguais de plagioclase e feldspato alcalino, com quartzo entre 5% e 20% do conteúdo de minerais félsico e máfico
+hypo: rocha_traquítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_latite
+
+w: latito_rico_em_feldspatoides
+d: uma rocha latítica que contém 0% a 10% de mineral feldspatóide e sem quartzo na fração QAPF; campo QAPF 8'
+hypo: rocha_traquítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_latite
+
+w: lenhite[1]
+w: lenhito
+w: lignite
+w: lignito[1]
+w: linhito
+d: um material sedimentar orgânico marrom e consolidado que possui poder calorífico <19,31 MJ/kg em juma base livre de minerais [umidos, com <75% de umidade e <69% de carbono fixo
+hypo: carvão[2]
+mt: noun.cognition:litologia
+sa: @en:noun.substance:brown_coal
+
+w: litoarenito
+d: um arenito caracterizado por >25% de fragmentos líticos e <75% de quartzo; pode conter feldspato mas os componentes do feldspato são suboridnados aos componentes líticos; a composição é muito variável e dependente do material de origem
+hypo: arenite
+mt: noun.cognition:litologia
+sa: @en:noun.substance:litharenite
+
+w: marga_argilosa
+d: um sedimento clástico-carbonático misto no qual a porção clástica é restrita a componentes do tamanho de argila; consiste de 50% a 75% de argila e 25% a 50% de calcita
+hyper: marga[2]
+ms: argila[1]
+ms: calcita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:clay_marl
+
+w: marga_calcária
+w: pedra_marga_calcária
+d: uma rocha clástico-carbonática mista na qual a porção clástica é restrita a componentes do tamanho de argila; consiste de 25% a 50% de argila e 50% a 75% de calcita
+hypo: marga[2]
+ms: calcita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calcareous_marlstone
+
+w: marga_calcária[1]
+d: um sedimento clástico-carbonático misto no qual a porção clástica é restrita a componentes do tamanho de argila; consiste de 25% a 50% de argila e 50% a 75% de calcita
+hypo: marga[1]
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calcareous_marl
+
+w: marga_dolomítica
+w: pedra_marga_dolomítica
+d: uma rocha sedimentar clástico-carbonática na qual a porção clástica é restrita a componentes do tamanho de argila; marga dolomítica é composta por 25% a 75% de argila e 25% a 75% de dolomita; pedra de marga dolomítica é menos comum do que pedra de marga calcária
+hypo: rocha_sedimentar_detrítica
+ms: argila[1]
+ms: dolomito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:dolomitic_marlstone
+
+w: marga_dolomítica[1]
+d: um sedimento clástico-carbonático mista no qual a porção clástica é restrita a componentes do tamanho de argila; consiste de 25% a 50% de argila e 50% a 75% de dolomita; menos comum do que marga calcária
+hypo: sedimento_detrítico
+ms: argila[1]
+ms: dolomito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:dolomitic_marl
+
+w: marga[1]
+d: um sedimento clástico-carbonático no qual a porção clástica restringe-se a componentes do tamanho de argila; consiste de 25% a 75% de argila e 25% a 75% de calcita; usado como fertilizante em solos deficientes em cal
+hyper: marga_argilosa
+hyper: marga_calcária[1]
+hypo: Solo
+hypo: sedimento_detrítico
+ms: argila[1]
+ms: calcita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:marl
+
+w: marga[2]
+w: pedra_marga
+d: uma rocha clástico-carbonática na qual a porção clástica restringe-se a componentes do tamanho de argila; consiste de 25% a 75% de argila e 25% a 75% de calcita
+hyper: marga_calcária
+hyper: pedra_marga_argilosa
+hypo: rocha_sedimentar_detrítica
+ms: argila[1]
+ms: calcita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:marlite
+
+w: mármore
+d: uma rocha metamórfica contendo >50% em volume de minerais carbonáticos (calcite e/ou aragonita e/ou dolomita) que aceita alto polimento; usado para esculturas e como material de construção
+hyper: mármore_calcítico
+hyper: mármore_dolomítico
+hyper: mármore_impuro
+hyper: mármore_puro
+hyper: verd_antique
+hypo: rocha_metacarbonática
+mt: noun.cognition:litologia
+sa: @en:noun.substance:marble
+
+w: mármore_calcítico
+d: um mármore no qual os minerais de carbonato são predominantemente calcita
+hypo: mármore
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calcitic_marble
+
+w: mármore_dolomítico
+d: um mármore no qual os minerais carbonáticos consistem predominatemente de dolomita
+hypo: mármore
+ms: dolomito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:dolomitic_marble
+
+w: mármore_impuro
+d: um mármore que contém <95% em volume de minerais carbonáticos (calcita e/ou aragonita e/ou dolomita)
+hyper: xisto_cálcico
+hypo: mármore
+mt: noun.cognition:litologia
+sa: @en:noun.substance:impure_marble
+
+w: mármore_puro
+d: um mármore que contém >95% em volume de minerais carbonáticos (calcita e/ou aragonita e/ou dolomita)
+hypo: mármore
+ms: calcita
+ms: dolomito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:pure_marble
+
+w: material_antropogénico
+d: material de origem artificial, formado por atividade humana
+mt: noun.cognition:litologia
+sa: @en:noun.substance:anthropogenic_material
+
+w: material_de_génese_compósita
+d: material em estado de consolidação não especificado que apresenta os efeitos de um ou mais eventos geológicos (tais como soterramento, deformação dúctil ou friável ou alterações químicas em regime aberto) subsequentes ao processo primário (sedimentar ou ígneo) de formação da rocha
+hyper: impactita
+hyper: material_formado_em_superfície
+hyper: material_relacionado_com_uma_falha
+hyper: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:composite_genesis_material
+
+w: material_formado_em_superfície
+d: material que é produto de processos de meteorização em rochas ou depósitos preexistente, análogo a rochas hidrotermais ou metassomáticas, mas formado à temperatura e pressão ambientes da superfície da Terra
+hypo: material_de_génese_compósita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:surficially_formed_material
+
+w: material_ígneo
+d: material de ocorrência natural, solidificado ou não, formado a partir de material derretido ou parcialmente derretido (magma) como resultado de um processo ígneo como intrusão e arrefecimento de magma na crosta ou erupção vulcânica.
+hyper: piroclastos
+hyper: rocha_plutônica
+hyper: rocha_ultramáfica
+hyper: rocha_vulcânica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:igneous_material
+
+w: material_relacionado_com_uma_falha
+d: material formado como resultado de uma falha friável, composto de uma matriz superior a 10%; a matriz é material de granulação fina gerado por uma redução da sua granulometria de origem tectónica
+hyper: brecha_tectônica
+hyper: goivagem_de_falha
+hyper: kakirite
+hyper: rocha_de_falha
+hypo: material_de_génese_compósita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:fault-related_material
+
+w: material_sedimentar
+d: material formado por acumulação de material fragmentário sólido depositado por ar, água ou gelo, ou material acumulado devido a outros agentes naturais, como precipitação química a partir de uma solução ou secreção por organismos; incui sedimentos e rochas sedimentares
+hyper: piroclastos
+hyper: rocha_sedimentar
+hyper: sedimento
+mt: noun.cognition:litologia
+sa: @en:noun.substance:sedimentary_material
+
+w: material_sedimentar_químico
+d: material sedimentar que é constituído por, pelo menos, 50% de material produzido por processos químicos inorgânicos dentro da bacia de deposição; inclui classes de sedimentos inorgânicos, siliciosos, carbonatados, evaporíticos, ricos em ferro e fosfatados
+hyper: evaporito
+hypo: sedimento
+mt: noun.cognition:litologia
+sa: @en:noun.substance:chemical_sediment
+
+w: metabasalto
+d: um basalto que foi metamorfoseado
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:metabasalt
+
+w: metagabro
+d: um gabro que foi metamorfoseado
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:metagabbro
+
+w: metagranito
+d: um granito que foi metamorfoseado
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:metagranite
+
+w: metassomatito
+w: rocha_metassomática
+d: uma rocha metamórfica que teve sua composição química substancialmente alterada pela alteração dos seus consitituintes; metassomatismo é um processo metamórfico difuso de regime aberto no qual a composição química de uma rocha é alterada pela reação com um meio fluido externo
+hyper: greisen
+hyper: skarn
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:metasomatic_rock
+
+w: metatexito
+d: uma variedade de migmatito com melanossomos, mesossomos e leucossomos discretos; rochas formadas nos estágios inciais de anatéxia
+hypo: rocha_migmática
+mt: noun.cognition:litologia
+sa: @en:noun.substance:metatexite
+
+w: micaxisto
+d: uma variedade de xisto com mica como único consituinte principal, quartzo inferior e <20% de feldspato
+hyper: filito
+hyper: micaxisto_andaluzítico
+hyper: micaxisto_cianita
+hyper: micaxisto_estaurolítico
+hyper: micaxisto_granada
+hypo: xisto
+mt: noun.cognition:litologia
+sa: @en:noun.substance:mica_schist
+
+w: micaxisto_andaluzítico
+d: um micaxisto que contém andaluzita
+hypo: micaxisto
+mt: noun.cognition:litologia
+sa: @en:noun.substance:andalusite-mica_schist
+
+w: micaxisto_cálcico
+d: uma rocha metacarbonática com estrutura xistósica e composta de quartzo e mica orientada a calcita
+hypo: rocha_carbonática_silicatada
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calc-mica_schist
+
+w: micaxisto_cianita
+d: um micaxisto que contém cianita
+hypo: micaxisto
+ms: cianita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:kyanite-mica_schist
+
+w: micaxisto_estaurolítico
+d: um micaxisto que contém estaurolita
+hypo: micaxisto
+mt: noun.cognition:litologia
+sa: @en:noun.substance:staurolite-mica_schist
+
+w: micaxisto_granada
+d: um micaxisto que contém granada
+hypo: micaxisto
+mt: noun.cognition:litologia
+sa: @en:noun.substance:garnet-mica_schist
+
+w: milonita
+d: uma rocha de falha que é coesae caracterizada por xistosidade bem desenvolvida resultante de redução tectônica no tamanho de grão dentro de uma zona dúctil de cisalhamento, e que comumente contém porfiroclastos arredondados e fragmentos líticos de composição similar à matriz
+hyper: filonito
+hypo: rocha_de_falha
+mt: noun.cognition:litologia
+sa: @en:noun.substance:mylonite
+
+w: monzodiorito
+d: uma rocha plutônica de aparência grabóica que contém ortoclase secundária porém essencial, bem como plagioclase cálcica
+hypo: rocha_diorítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:monzodiorite
+
+w: monzodiorito_feldspatóidico
+d: uma rocha plutônica alcalina que consiste de feldspatóides (10% a 60% dos minerais félsicos), plagioclase intermediária, feldspato alcalino inferior e grandes quantidades de minerais máficos
+hypo: rocha_gabróica_feldspatóidica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid_monzogabbro
+
+w: monzodiorito_quartzítico
+d: uma rocha plutônica que consiste essencialmente de plagioclase cálcica, feldspato alcalino, quartzo e minerais máficos 
+hypo: rocha_diorítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_monzodiorite
+
+w: monzodiorito_rico_em_feldspatoides
+d: uma rocha plutônica com a composição de um monzodiorito, contendo pequenas quantidades de feldspatóides (<10% dos minerais félsicos)
+hypo: rocha_diorítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_monzodiorite
+
+w: monzogabro
+d: uma rocha plutônica de aspecto gabróico que contém ortoclase secundária porém essencial, bem como plagioclase cálcica
+hypo: rocha_gabróica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:monzogabbro
+
+w: monzogabro_quartzítico
+d: uma rocha plutônica que consiste essencialmente de plagioclase cálcica, minerais máficos e quartzo
+hypo: rocha_gabróica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_monzogabbro
+
+w: monzogabro_rico_em_feldspatoides
+d: uma rocha monzogabróica que contém 0% a 10% de mineral feldspatóide na fração QAPF; campo QAPF 9'
+hypo: rocha_gabróica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_monzogabbro
+
+w: monzonito
+d: uma rocha plutônica que consiste de frações aproximadamente iguais de plagioclase e feldspato alcalino, com anfíbola e/ou piroxênio secundários
+hypo: rocha_sienítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:monzonite
+
+w: monzonito_rico_em_feldspatoides
+d: uma rocha monzonítica que contém 0% a 10% de mineral feldspatóide e sem quartzo na fração QAPF; campo QAPF 8'
+hypo: rocha_sienítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_monzonite
+
+w: monzosienito_feldspatóidico
+d: uma rocha plutônica alcalina rara que consiste de feldspatóides, feldspato alcalino, plagioclase e minerais máficos
+hypo: sienitóide_feldspatóidico[1]
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid_monzosyenite
+
+w: oficalcita
+w: ofita
+w: verd_antique
+w: verde_antique
+d: uma variação de oficarbonato na qual a calcita é predominantemente mineral
+hypo: oficarbonato
+mt: noun.cognition:litologia
+sa: @en:noun.substance:ophicalcite
+
+w: oficarbonato
+d: uma rocha que consiste de serpentinito e minerais carbonáticos, onde o serpentinito é comumente fragmentado ou brechado, com veias e impregnada pelo material carbonático (calcita, dolomita ou magnesita)
+hyper: oficalcita
+hypo: rocha_metacarbonática
+mt: noun.cognition:litologia
+sa: @en:noun.substance:ophicarbonate
+
+w: ooze_calcária
+d: um sedimento marinho que consiste de >30% de restos de esqueletos de organismos calcáreos pelágicos (tais como foraminíferas, pteropodas ou cocolitóforos) e minerais de argila
+hypo: sedimento_carbonatado
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calcareous_ooze
+
+w: ooze_siliciosa
+d: um sedimento marinho que consiste de >30% de restos de esqueletos de organismos siliciosos pelágicos (tais como radiolários ou diatomáceas) e minerais de argila
+hypo: sedimento_biogênico-bioquímico
+mt: noun.cognition:litologia
+sa: @en:noun.substance:siliceous_ooze
+
+w: ortognaisse
+d: um gnaisse com mineralogia e textura indicando derivação de um protólito ígneo, geralmente possui composição homogênea
+hyper: gnaisse_diorítico
+hyper: gnaisse_facoidal
+hyper: gnaisse_granítico
+hyper: gnaisse_tonalítico
+hypo: gnaisse
+mt: noun.cognition:litologia
+sa: @en:noun.substance:orthogneiss
+
+w: paragnaisse
+d: um gnaisse com mineralogia e textura indicando derivação de um protólito sedimentar; rocha de caracterísitca relativamente variável em uma escala dm-m comparado a ortognaisse
+hyper: gnaisse_arcósico
+hypo: gnaisse
+mt: noun.cognition:litologia
+sa: @en:noun.substance:paragneiss
+
+w: pedra_marga_argilosa
+d: uma pedra marga que comnsiste de 50% a 75% de argila e 25% a 50% de calcita
+hypo: marga[2]
+ms: argila[1]
+ms: calcita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:clay_marlstone
+
+w: pedra_metamórfica
+w: rocha_metamórfica
+d: uma rocha derivada de rochas preexistentes a partir de alterações mineralógicas, químicas ou estruturais que ocorreram em estado sólido em resposta a alterações nítidas na temperatura, pressão e tensão de cisalhamnto e ambiente químico (em qualquer combinação), geralmente na profundidade da crosta terrestre
+hyper: anfibolito
+hyper: espilito
+hyper: gnaisse
+hyper: granulito
+hyper: metabasalto
+hyper: metagabro
+hyper: metagranito
+hyper: prasinita
+hyper: quartzito
+hyper: rocha_metacarbonática
+hyper: rocha_metamórfica_de_alta_pressão
+hyper: rocha_metamórfica_de_contato
+hyper: rocha_metassomática
+hyper: rocha_metavulcanoclástica
+hyper: rocha_migmática
+hyper: rocha_sedimentare_metasiliclástica
+hyper: serpentinito
+hyper: xisto
+hypo: material_de_génese_compósita
+hypo: rocha
+mt: noun.cognition:litologia
+sa: @en:noun.substance:metamorphic_rock
+
+w: pegmatito
+d: uma rocha ígnea com grãos excepcionalmente grosseiros com cristais interligados (textura porfirítica), muitos dos quais têm diâmetro >1cm; a composição é usualmente granítica mas também pode ser similar a outros tipos de rochas ígneas; pegmatitos usualmente ocorrem como diques irregulares, lentes ou veios associados com plutões ou batólitos
+hypo: rocha_plutônica
+ms: @en:noun.substance:samarskite
+mt: noun.cognition:litologia
+sa: @en:noun.substance:pegmatite
+
+w: peridotito
+d: uma rocha ultramáfica que consiste essencialmente de olivina (>40%), com piroxênio e/ou anfíbola
+hyper: kimberlito
+hypo: rocha_ultramáfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:peridotite
+
+w: piroclastos
+w: piroclásticos
+d: clastos formados pela fragmentação resultante de processos ou erupções vulcânicas explosivas; depósitos de piroclastos são montagens, consolidadas ou não consolidadas, que contém mais de 75% de prioclastos em volume
+hyper: rocha_piroclástica
+hyper: tefra
+hypo: material_sedimentar
+hypo: material_ígneo
+mt: noun.cognition:litologia
+sa: @en:noun.substance:pyroclastics
+
+w: piroxenito
+d: uma rocha ultramáfica composta quase inteiramente de um ou mais piroxênios e ocasionalmente biotita, hornblenda ou olivina
+hypo: rocha_ultramáfica
+ms: piroxênio
+mt: noun.cognition:litologia
+sa: @en:noun.substance:pyroxenite
+
+w: porfiro
+w: pórfiro
+d: rochas vulcânicas metamorfeseadas de química usualmente ácida a intermediária com porfiroblastos em matriz de grãos finos
+hypo: rocha_vulcânica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:porphyroid
+
+w: prasinita
+d: uma rocha metamórifca gnáissica ou xistósica que consiste predominantemente de actinolita, albita ocelar, epídoto, possivelmentre com clorito e titanita
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:prasinite
+
+w: quartzito
+d: uma rocha metamórfica granoblástica que consiste principalmente de quartzo e é formada pela recristalização de arenito ou cherte, por metamorfismo térmico ou regional
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartzite
+
+w: quartzodiorito
+d: uma rocha plutônica que consiste essencialmente de plagioclase, quartzo e minerais máficos
+hypo: rocha_diorítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_diorite
+
+w: quartzogabro
+d: uma rocha plutônica composta principalmente por plagioclase cálcica, piroxênio e quartzo
+hypo: rocha_gabróica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_gabbro
+
+w: quartzolito
+d: termo coletivo para rochas plutônicas onde o conteúdo de quartzo respomnde por mais de 90% dos minerais félsicos
+hypo: rocha_plutônica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartzolite
+
+w: quartzomonzonito
+d: uma rocha plutônica que consiste de frações aproximadamente iguais de plagioclase e feldspato alcalino, com quartz essencial (entre 5% e 20% do conteúdo de mineral félsico)
+hypo: rocha_sienítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_monzonite
+
+w: quartzosienito
+d: uma rocha plutônica que consiste essencialmente de feldspato alcalino, quartzo e minerais máficos
+hypo: rocha_sienítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_syenite
+
+w: radiolarita
+d: um cherte marinho (sílica sedimentar) cujos componentes microfósseis reconhecíveis consistem principalmente de esqueletos siliciosos de radiolaria (microorganismos marinhos unicelulares)
+hypo: cherte
+mt: noun.cognition:litologia
+sa: @en:noun.substance:radiolarite
+
+w: rauchwacke
+w: rauhwacke
+w: rauwacke
+d: uma rocha carbonática sedimentar que consiste de rocha dolomítica ou calcário poroso ou celular em que a dissolução secundária de material prontamente solúvel (gipsita/anidrita) formou cavidades; formada principalmente por processos sedimentares ou tectônicos
+hypo: rocha_de_falha
+hypo: rocha_sedimentar_carbonatada
+mt: noun.cognition:litologia
+sa: @en:noun.substance:rauchwacke
+
+w: riolito
+w: riólito
+d: uma rocha vulcânica silícica que consiste de fenocristais de quartzo e feldspato alcalino, frequentemente com plagioclase e biotita, em uma matriz vítrea com a composição química do granito
+hypo: rocha_riolítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:rhyolite
+
+w: riolito_com_feldspato_alcalino
+d: uma rocha vulcânica e uma variedade de riolito em que plagioclase compreende <10% do feldspato total
+hypo: rocha_riolítica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:alkali_feldspar_rhyolite
+
+w: riolitóide
+w: rocha_riolítica
+d: uma rocha que corresponde à classificação QAPF para rochas vulcânicas identificadas como riolito
+hyper: riolito
+hyper: riolito_com_feldspato_alcalino
+hypo: rocha_vulcânica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:rhyolithic_rock
+
+w: rocha_anortosítica
+d: uma rocha que corresponde à classificação QAPF para rochas plutônicas identificadas como anortosito
+hyper: anortosito
+hyper: anortosito_com_quartzo
+hyper: anortosito_rico_em_feldspatoides
+hypo: rocha_plutônica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:anorthositic_rock
+
+w: rocha_biogênica
+w: rocha_biogênica-bioquímica
+w: rocha_bioquímica
+d: uma rocha sedimentar com mais de 50% formada (direta ou indiretamente) pelos processos químicos e atividades de organismos vivos; rochas sedimentares carbonáticas não estão incluídas
+hyper: cherte
+hypo: rocha_sedimentar
+mt: noun.cognition:litologia
+sa: @en:noun.substance:biochemical-biogenic_sedimentary_rock
+
+w: rocha_calciossilicática
+w: rocha_cálcio-silicática
+d: uma rocha metamórfica composta principalmente por minerais cálcio-silicáticos contendo até 5% em volume de minerais carbonáticos (calcita e/ou aragonita e/ou dolomita)
+hypo: rocha_metacarbonática
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calc-silicate_rock
+
+w: rocha_carbonática_silicatada
+d: uma rocha metamórfica composta principalmeente por minerais silicatados (incluindo minerais cálcio-silicáticos) contendo entre 5% e 50% em volume de minerais carbonáticos (calcita e/ou aragonita e/ou dolomita)
+hyper: micaxisto_cálcico
+hypo: rocha_metacarbonática
+mt: noun.cognition:litologia
+sa: @en:noun.substance:carbonate-silicate_rock
+
+w: rocha_de_falha
+d: uma rocha formada como resultado de deformação na zona de falha
+hyper: cataclasita
+hyper: milonita
+hyper: rauwacke
+hyper: taquilita_falsa
+hypo: material_relacionado_com_uma_falha
+hypo: rocha
+mt: noun.cognition:litologia
+sa: @en:noun.substance:fault_rock
+
+w: rocha_metacarbonática
+d: uma rocha metamórfica (metassomática) carbonática e/ou com carbonatos e/ou cálcio-silicáticos que, no caso de rochas cálcio-silicáticas, podem não apresentar carbonato; inclui rochas silicáticas que possuem carbonato
+hyper: mármore
+hyper: oficarbonato
+hyper: rocha_calciossilicática
+hyper: rocha_carbonática_silicatada
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:metacarbonatic_rock
+
+w: rocha_metamórfica_de_alta_pressão
+d: uma rocha caracterizada pelas condições dominates de pressão metamórficas que abrangem xisto glaucófano e fácies de eclogito
+hyper: eclogito
+hyper: xisto_azul
+hyper: xisto_branco
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:high-pressure_metamorphic_rock
+
+w: rocha_metamórfica_de_contato
+d: uma rocha que se origina a partir de um metamorfismo (térmico) de extensão local, que afeta rochas nativas em torno de corpos de magma colocados em uma variedade de ambientes, de vulcânicos a profundidade do manto superior, tanto em contexto continental como oceânico
+hyper: corneana
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:contact-metamorphic_rock
+
+w: rocha_metavulcanoclástica
+d: um termo para rochas vulcânicas que apresentam evidência de tere sido submetidas a metamorfismo
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:metavolcaniclastic_rock
+
+w: rocha_migmática
+d: qualquer rocha formada por anatexia (isto é, fusão de uma rocha), independente da proporção de fusão ou do processo de fusão
+hyper: diatexito
+hyper: metatexito
+hyper: migmatito
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:migmatic_rock
+
+w: rocha_piroclástica
+d: uma rocha ígnea que contém mais de 75% de piroclastos em volume, isto é, de clastos formados como resultado de um processo vulcânico; exclui tufos
+hyper: aglomerado
+hyper: brecha_piroclástica
+hyper: lapilli_consolidado
+hyper: tufo
+hyper: tufo-brecha
+hyper: tufo_lapilli
+hypo: piroclastos
+hypo: rocha_sedimentar
+mt: noun.cognition:litologia
+sa: @en:noun.substance:pyroclastic_rock
+
+w: rocha_plutônica
+d: uma rocha ígnea formada por lento resfriamento e apresenta textura de grãos relativamente grossos (>3mm) nos quais os cristais individuais podem ser vistos a olho nu
+hyper: aplito
+hyper: dioritóide_feldspatóidico
+hyper: foidolito
+hyper: granitóide
+hyper: lamprófiro
+hyper: pegmatito
+hyper: quartzolito
+hyper: rocha_anortosítica
+hyper: rocha_diorítica
+hyper: rocha_gabróica
+hyper: rocha_gabróica_feldspatóidica
+hyper: rocha_sienítica
+hyper: sienitóide_feldspatóidico[1]
+hypo: material_ígneo
+mt: noun.cognition:litologia
+sa: @en:noun.substance:plutonic_rock
+
+w: rocha_sedimentar
+d: rocha formada por acumulação e cementação de materiais sólidos fragmentários depositados pelo ar, água ou gelo, ou em resultado de outros agentes naturais, como a precipitação a partir de uma solução, a acumulação de matéria orgânica, ou processos biogénicos, incluindo secreção por organismos
+hyper: @en:noun.substance:argillaceous_rock
+hyper: @en:noun.substance:argillite
+hyper: @en:noun.substance:rudaceous_rock
+hyper: ardósia
+hyper: folhelho
+hyper: rocha_biogênica-bioquímica
+hyper: rocha_piroclástica
+hyper: rocha_sedimentar_carbonatada
+hyper: rocha_sedimentar_detrítica
+hyper: rocha_sedimentar_orgânica
+hyper: rocha_sedimentar_química
+hyper: tufo
+hypo: material_sedimentar
+hypo: rocha
+mt: noun.cognition:litologia
+sa: @en:noun.substance:sedimentary_rock
+
+w: rocha_sedimentar_carbonatada
+d: uma rocha sedimentar na qual ≥ 50% dos constituintes primários e/ou recristalizados são compostos de minerais carbonáticos (calcita/aragonita/dolomita); tais materias possuem origem intrabasinal, ou seja, são formados por processos que ocorrem dentro de um dado regime deposicional e não transportados para este regime a partir de outras fontes de sedimentos
+hyper: calcário
+hyper: calcário_arenoso
+hyper: dolomito
+hyper: rauwacke
+hypo: rocha_sedimentar
+mt: noun.cognition:litologia
+sa: @en:noun.substance:carbonate_sedimentary_rock
+
+w: rocha_sedimentar_detrítica
+d: uma rocha sedimentar composta que consiste de >50% de sedimentos detríticos (fragmentos de quaisquer tipos de rocha que tenham sido transportados por agentes mecênicos tais como vento, água, gelo ou gravidade anteriormente à deposição); o termo incluí rochas clástico-carbonáticas mistas
+hyper: arenito
+hyper: arenito_calcário
+hyper: argilito
+hyper: brecha
+hyper: conglomerado
+hyper: diamictito
+hyper: folhelho
+hyper: marga[2]
+hyper: marga_dolomítica
+hyper: siltito
+hypo: rocha_sedimentar
+mt: noun.cognition:litologia
+sa: @en:noun.substance:clastic_sedimentary_rock
+
+w: rocha_sedimentar_orgânica
+d: uma rocha sedimentar na qual cor, composição, textura e densidade aparente indicam teor de conteúdo orgânico suficientemente elevado (≥ 50% em peso em base livre de umidade) para impedir sua classificação como qualquer outro tipo de rocha sedimentar, e contém carbono como componente essencial
+hyper: carvão
+hypo: rocha_sedimentar
+mt: noun.cognition:litologia
+sa: @en:noun.substance:organic_sedimentary_rock
+
+w: rocha_sedimentar_química
+d: uma rocha sedimentar composta principalmente por material formado diretamente por precipitação a partir de solução ou suspensão coloidal (evaporação), ou pela deposição de precipitados insolúveis (mistura de sais insolúveis)
+hypo: rocha_sedimentar
+mt: noun.cognition:litologia
+sa: @en:noun.substance:chemical_sedimentary_rock
+
+w: rocha_sedimentare_metasiliclástica
+d: um termo para rochas siliciclásticas que apresentam evidências de terem sido submetidas a metamorfismo
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:metasiliciclastic_sedimentary_rock
+
+w: rocha_sienítica
+w: sienitóide
+d: uma rocha que corresponde à classificação QAPF para rochas plutônicas identificadas como sienito ou monzonito
+hyper: monzonito
+hyper: monzonito_rico_em_feldspatoides
+hyper: quartzomonzonito
+hyper: quartzosienito
+hyper: sienito
+hyper: sienito_com_felsdpato_alcalino
+hyper: sienito_com_quartzo_e_felsdpato_alcalino
+hyper: sienito_feldspatóidico
+hyper: sienito_feldspatóidico_rico_em_feldspato_alcalino
+hypo: rocha_plutônica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:syenitic_rock
+
+w: rocha_tefritóidica
+w: tefritóide
+d: uma rocha que corresponde à classificação QAPF para rochas vulcânicas identificadas como tefrito
+hyper: basanito
+hyper: basanito_fonolítico
+hyper: tefrito
+hyper: tefrito_fonolítico
+hypo: rocha_vulcânica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:tephritic_rock
+
+w: rocha_traquítica
+w: traquitóide
+d: uma rocha que corresponde à classificação QAPF para rochas vulcânicas identificadas como traquito
+hyper: latito
+hyper: latito_quartzítico
+hyper: latito_rico_em_feldspatoides
+hyper: traquito
+hyper: traquito_com_felsdpato_alcalino
+hyper: traquito_com_quartzo_e_felsdpato_alcalino
+hyper: traquito_feldspatóidico_rico_em_feldspato_alcalino
+hyper: traquito_quartzítico
+hyper: traquito_rico_em_feldspatoides
+hypo: rocha_vulcânica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:trachytic_rock
+
+w: rocha_ultramáfica
+d: uma rocha ígnea com mais de 90% de minerais máficos como olivina, piroxênio, hornblenda e às vezes biotita; inclui ultramafite (ultramafic plutonic rock) and ultramafitita (rocha vulcânica ultramáfica)
+hyper: peridotito
+hyper: piroxenito
+hypo: material_ígneo
+mt: noun.cognition:litologia
+sa: @en:noun.substance:ultramafic_rock
+
+w: rocha_vulcânica
+d: uma rocha vulcânica que pode ser associada a vulcanismo e tem textura de grãos relativamente finos nos quais a maior partes dos cristais individuais não pode ser vista a olho nu; inclui rochas subvulcânicas (hipabissais)
+hyper: dacito
+hyper: diábase
+hyper: foidito
+hyper: foiditóide
+hyper: pórfiro
+hyper: rocha_andesítica
+hyper: rocha_basáltica
+hyper: rocha_fonolitóidica
+hyper: rocha_riolítica
+hyper: rocha_tefritóidica
+hyper: rocha_traquítica
+hypo: material_ígneo
+hypo: rocha
+mt: noun.cognition:litologia
+sa: @en:noun.substance:volcanic_rock
+
+w: salgema
+d: um evaporito composto de >50% de halita cristalina (NaCl), tipicamente manchada por óxidos de ferro e misturado com sedimentos de grãos finos (argila)
+hypo: evaporito
+ms: argila[1]
+ms: halita
+mt: noun.cognition:litologia
+sa: @en:noun.substance:rock_salt
+
+w: sapropel
+d: um oóze gelationoso não consolidado composto de restos de plantas (mais frequentemente algas), putrefando sob condições anaeróbicas em lagos rasos e no leito marinho
+hypo: sedimento_organogénico
+mt: noun.cognition:litologia
+sa: @en:noun.substance:sapropel
+
+w: scree
+w: tálus
+d: uma rocha sedimentar clástica que contém mais de 50% de mienral não arredondado e fragmentos de rochas com tamanho médio de grão >2mm
+hypo: sedimento_detrítico
+mt: noun.cognition:litologia
+sa: @en:noun.substance:scree
+
+w: sedimento
+d: material não consolidado sólido constituído por uma agregação de partículas transportadas ou depositadas por ar, água ou gelo, ou que se acumularam pela ação de outros agentes naturais, como a precipitação química ou secretação de organismos, e que forma camadas na superfície da Terra.
+hyper: material_sedimentar_químico
+hyper: sedimento_biogênico-bioquímico
+hyper: sedimento_carbonatado
+hyper: sedimento_detrítico
+hyper: sedimento_organogénico
+hyper: tefra
+hypo: material_sedimentar
+mt: noun.cognition:litologia
+sa: @en:noun.substance:sediment
+
+w: sedimento_biogênico
+w: sedimento_biogênico-bioquímico
+w: sedimento_bioquímico
+d: sedimento com mais de 50% formado (direta ou indiretamente) pelos processos químicos e atividades de organismos vivos; sedimentos carbonáticos não estão incluídos
+hyper: ooze_siliciosa
+hypo: sedimento
+mt: noun.cognition:litologia
+sa: @en:noun.substance:biochemical-biogenic_sediment
+
+w: sedimento_carbonatado
+d: um sedimento no qual ≥ 50% dos constituintes primários e/ou recristalizados são compostos de minerais carbonáticos (calcita/aragonita/dolomita); tais materias possuem origem intrabasinal, ou seja, são formados por processos que ocorrem dentro de um dado regime deposicional e não transportados para este regime a partir de outras fontes de sedimentos
+hyper: cal_arenosa
+hyper: ooze_calcária
+hypo: sedimento
+mt: noun.cognition:litologia
+sa: @en:noun.substance:carbonate_sediment
+
+w: sedimento_detrítico
+d: um sedimento formado pela acumulação de fragmentos quebrados de rochas ou minerais preexistentes e transportados como partículas separadas por agentes mecênicos (tais como vento, água, gelo, gravidade) anteriormente à deposição; o termo incluí sedimentos clástico-carbonáticos mistos
+hyper: areia
+hyper: areia_calcária
+hyper: argila
+hyper: barro
+hyper: blocos
+hyper: cascalho
+hyper: diamictito_não_consolidado
+hyper: marga[1]
+hyper: marga_dolomítica[1]
+hyper: scree
+hyper: seixos
+hyper: silte
+hypo: sedimento
+mt: noun.cognition:litologia
+sa: @en:noun.substance:clastic_sediment
+
+w: sedimento_organogénico
+d: um sedimento no qual cor, composição, textura e densidade aparente indicam teor de conteúdo orgânico suficientemente elevado (≥ 50% em peso em base livre de umidade) para impedir sua classificação como qualquer outro tipo de sedimento, e contém carbono como componente essencial
+hyper: sapropel
+hyper: turfa
+hypo: sedimento
+mt: noun.cognition:litologia
+sa: @en:noun.substance:organic_sediment
+
+w: seixos
+d: um sedimento clástico com tamanho médio de grão entre 63mm e 200mm
+hypo: sedimento_detrítico
+mt: noun.cognition:litologia
+sa: @en:noun.substance:cobbles
+
+w: serpentinito
+d: uma rocha metamórfica com >75% em volume de minerais do grupo serpentina
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:serpentinite
+
+w: sienito
+d: uma rocha plutônica que consiste principalmente de feldspato alcalino com plagioclase sódica, biotita, piroxênio, anfíbola inferiores e ocasionalmente faialite; quartzo secundário e/ou nefelina podem estar presentes
+hypo: rocha_sienítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:syenite
+
+w: sienito_com_felsdpato_alcalino
+d: uma rocha plutônica e uma variedade de sienito em que plagioclase compreende <10% do feldspato total
+hypo: rocha_sienítica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:alkali_feldspar_syenite
+
+w: sienito_com_quartzo_e_felsdpato_alcalino
+d: uma rocha plutônica félisca que consiste essencialmente de feldspato alcalino, quartzo e minerais máficos
+hypo: rocha_sienítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_alkali_feldspar_syenite
+
+w: sienito_feldspatóidico
+d: rocha sienítica que contém entre 0% e 10% de minerais feldspatóidicos e sem quartzo na fração QAPF. Definido modalmente no campo QAPF 7'
+hypo: rocha_sienítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_syenite
+
+w: sienito_feldspatóidico_rico_em_feldspato_alcalino
+d: uma rocha sienítica que contém 0% a 10% de mineral feldspatóide e sem quartzo na fração QAPF; campo QAPF 6'
+hypo: rocha_sienítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_alkali_feldspar_syenite
+
+w: sienitóide_feldspatóidico
+d: uma rocha plutônica leucocrata que consiste de feldspatóides (10% a 60% dos minerais félsicos), feldspato alcalino e minerais máficos
+hypo: sienitóide_feldspatóidico[1]
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid_syenite
+
+w: sienitóide_feldspatóidico[1]
+d: uma rocha plutônica leucocrata que consiste de feldspatóides (10% a 60% dos minerais félsicos), feldspato alcalino e minerais máficos
+hyper: monzosienito_feldspatóidico
+hyper: sienitóide_feldspatóidico
+hypo: rocha_plutônica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid_syenitic_rock
+
+w: silte
+d: um sedimento clástico com grãos de tamanho médio entre 0,002mm e 0,063mm
+hyper: silte_fino
+hyper: silte_grosso
+hyper: silte_médio
+hypo: sedimento_detrítico
+hypo: solo
+mt: noun.cognition:litologia
+sa: @en:noun.substance:silt
+
+w: silte_fino
+d: um sedimento clástico com tamanho médio de grão entre 0,002mm e 0,0063mm
+hypo: silte
+mt: noun.cognition:litologia
+sa: @en:noun.substance:fine_silt
+
+w: silte_grosso
+d: um sedimento clástico com tamanho médio de grão entre 0,02mm e 0,063mm
+hypo: silte
+mt: noun.cognition:litologia
+sa: @en:noun.substance:coarse_silt
+
+w: silte_médio
+d: um sedimento clástico com tamanho médio de grão entre 0,0063mm e 0,02mm
+hypo: silte
+mt: noun.cognition:litologia
+sa: @en:noun.substance:medium_silt
+
+w: siltito
+d: uma rocha sedimentar clástica com grãos de tamanho médio entre 0,002mm e 0,063mm
+hyper: siltito_fino
+hyper: siltito_grosso
+hyper: siltito_médio
+hypo: rocha_sedimentar_detrítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:siltstone
+
+w: siltito_fino
+d: um siltito com tamanho médio de grão entre 0,002mm e 0,0063mm
+hypo: siltito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:fine_siltstone
+
+w: siltito_grosso
+d: um siltito com tamanho médio de grão entre 0,02mm e 0,063mm
+hypo: siltito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:coarse_siltstone
+
+w: siltito_médio
+d: um siltito com tamanho médio de grão entre 0,0063mm e 0,02mm
+hypo: siltito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:medium_siltstone
+
+w: skarn
+d: uma rocha metassomática formada no contato entre uma rocha silicatada (ou magma derretido) e uma rocha carbonática); consiste principalmnte de cálcio, magnésio, ferro e silicatos de manganês que contêm pouca ou nenhuma água
+hypo: rocha_metassomática
+mt: noun.cognition:litologia
+sa: @en:noun.substance:skarn
+
+w: taquilita_falsa
+d: um material de aparência vítrea e grãos ultrafinos, usualmente de aparência pedregosa e preta, ocorrendo como veiso planares finos, veios de injeção or como matriz para pseudoconglomerados ou brechas, que preenchem fraturas de dilatação na rocha hospedeira; formado pela fusão local devido a falhamento dúctil e geração local de calor de fricção
+hypo: rocha_de_falha
+mt: noun.cognition:litologia
+sa: @en:noun.substance:pseudotachylite
+
+w: tefra
+d: depósitos piroclásticos predominatemente não consolidados que contêm mais de 75% de piroclastos em volume, isto é, de clastos formados como resultado de um processo vulcânico
+hyper: cinza
+hyper: tefra_de_bloco
+hyper: tefra_de_lapilli
+hypo: piroclastos
+hypo: sedimento
+mt: noun.cognition:litologia
+sa: @en:noun.substance:tephra
+
+w: tefra_de_bagacina
+w: tefra_de_lapilli
+d: um depósito piroclástico não consolidado com mais de 75% lapilli (diâmetro entre 2mm e 64mm)
+hypo: tefra
+mt: noun.cognition:litologia
+sa: @en:noun.substance:lapilli_tephra
+
+w: tefrito
+d: uma rocha vulcânica alcalina que consiste de plagioclase cálcica, piroxênio e feldspatóides
+hypo: rocha_tefritóidica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:tephrite
+
+w: tefrito_fonolítico
+d: uma rocha vulcânica alcalina que consiste de plagioclase, olivina, augita e frequentemente pouca sanidina; se o teor de olivina for >10% trata-se de um basanito fonolítico
+hypo: rocha_tefritóidica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:phonolitic_tephrite
+
+w: tonalito
+d: uma rocha plutônica que consiste essencialmente de quartzo plagioclase intermediária e habitualmente biotita e anfíbola
+hypo: granitóide
+mt: noun.cognition:litologia
+sa: @en:noun.substance:tonalite
+
+w: traquito
+d: uma rocha vulcânica que consiste essencialmente em feldspato alcalino
+hypo: rocha_traquítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:trachyte
+
+w: traquito_com_felsdpato_alcalino
+d: uma rocha vulcânica e uma variedade de traquito em que plagioclase compreende <10% do feldspato total
+hypo: rocha_traquítica
+ms: plagioclase
+mt: noun.cognition:litologia
+sa: @en:noun.substance:alkali_feldspar_trachyte
+
+w: traquito_com_quartzo_e_felsdpato_alcalino
+d: uma rocha vulcânica félsica que consiste essencialmente de feldspato alcalino, quartzo e minerais máficos
+hypo: rocha_traquítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_alkali_feldspar_trachyte
+
+w: traquito_feldspatóidico_rico_em_feldspato_alcalino
+d: uma rocha traquítica que contém 0% a 10% de mineral feldspatóide na fração QAPF; campo QAPF 6'
+hypo: rocha_traquítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_alkali_feldspar_trachyte
+
+w: traquito_quartzítico
+d: uma rocha vulcânica que consiste de fenocristais de feldspato alcalino e quartzo em matriz criptocristalina ou vítrea; o equivalente vulcânico de rocha ígnea rica em quartzo
+hypo: rocha_traquítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:quartz_trachyte
+
+w: traquito_rico_em_feldspatoides
+d: uma rocha traquítica que contém 0% a 10% de mineral feldspatóide e sem quartzo na fração QAPF; campo QAPF 7'
+hypo: rocha_traquítica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:foid-bearing_trachyte
+
+w: travertino
+d: uma rocha feita de carbontao de cáclo precipitado biótica ou abióticamente de água aquecida ou a temperatura ambiente de uma nascente; inclui tufa calcária
+hypo: calcário
+mt: noun.cognition:litologia
+sa: @en:noun.substance:travertine
+
+w: tufo_de_cinzas
+d: uma rocha piroclástica na qual menos de 25% em volume de rocha é maior do que 64mm no maior diâmetro e mais de 75% em volume é de cinzas (diâmetero <2mm)
+hypo: rocha_piroclástica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:ash_tuff
+
+w: tufite
+w: tufito
+d: uma rocha que consiste de uma mistura de material piroclástico e clástico normal (epiclástico), mas com material piroclástico respondendo por 25% a 75% do volume total; pode aind ser classificado de acordo com o tamanho médio de grão dos clastos
+hypo: rocha_sedimentar
+mt: noun.cognition:litologia
+sa: @en:noun.substance:tuffite
+
+w: tufo_bagacina
+w: tufo_lapilli
+d: uma rocha piroclástica que consiste de menos de 25% de bombas/blocos e mais de 75% cinzas e lapilli
+hypo: rocha_piroclástica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:lapilli_tuff
+
+w: tufo-brecha
+d: uma rocha piroclástica com 25% a 75% de bombas/blocos (diâmetro >64mm)
+hypo: rocha_piroclástica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:tuff_breccia
+
+w: turfa
+d: um depósito não consolidado de restos de plantas com alto teor de água (≥75%), conteúdo de carbono fixo em torno de 60% e de oxigênio em torno de 30% (em uma base livre de minerais úmidos); forma lenhito durante a coalificação; pode ser usado como combustível quando seco
+hypo: sedimento_organogénico
+mt: noun.cognition:litologia
+sa: @en:noun.substance:peat
+
+w: xisto
+d: uma rocha metamórfica com estrutura xistósica (uma foliação que é ou bem desenvolvida ou contínua de tal forma que a rocha irá rachar ≤1cm, a deposição em camadas litológicas ou minearológicas é comum); distingue-se do gnaisse devido à composição <20% de feldspato e >50% de mica
+hyper: ardósia
+hyper: micaxisto
+hyper: xisto_grafite
+hyper: xisto_verde
+hypo: rocha_metamórfica
+mt: noun.cognition:litologia
+sa: @en:noun.substance:schist
+
+w: xisto_azul
+d: uma rocha metamórfica (xisto) de coloração azulada devidas a presença de anfíbola sódica (por exemplo glaucofânio, crossita) and lawsonita
+hyper: xisto_glaucófano
+hypo: rocha_metamórfica_de_alta_pressão
+mt: noun.cognition:litologia
+sa: @en:noun.substance:blueschist
+
+w: xisto_branco
+d: um xisto de coloração clara contendo cianita e talco; representa rochas ricas em alumínio e magnésio metamorfoseadas sob condições de fácies de eclogito
+hypo: rocha_metamórfica_de_alta_pressão
+mt: noun.cognition:litologia
+sa: @en:noun.substance:whiteschist
+
+w: xisto_cálcico
+d: um calcário argiloso metamorfoseado que contém calcita como componente substancial e com estrutura xistósica produzida pelo paralelismo de minerais escamosos
+hypo: mármore_impuro
+mt: noun.cognition:litologia
+sa: @en:noun.substance:calc-schist
+
+w: xisto_clorítico
+d: um xisto no qual clorita é a principal consituinte, transmitindo xistosidade através de seu alinhamento em paralelo; quartzo, epídoto, magnetita e granada também podem estar presentes
+hypo: xisto_verde
+ms: clorito
+mt: noun.cognition:litologia
+sa: @en:noun.substance:chlorite_schist
+
+w: xisto_glaucófano
+d: um xisto de coloração azulada devido à presença de glaucofânio
+hypo: xisto_azul
+mt: noun.cognition:litologia
+sa: @en:noun.substance:glaucophane-schist
+
+w: xisto_grafite
+d: um xisto no qual o grafite é o principal consituinte, transmitindo xistosidade através de seu alinhamento em paralelo
+hypo: xisto
+mt: noun.cognition:litologia
+sa: @en:noun.substance:graphite_schist
+
+w: xisto_verde
+d: um xisto esverdeado cuja cor se deve à presença de minerais como actionilita, clorito e epídoto em >50% da composição
+hyper: xisto_clorítico
+hypo: xisto
+mt: noun.cognition:litologia
+sa: @en:noun.substance:greenschist
