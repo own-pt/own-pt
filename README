@@ -1,14 +1,10 @@
 # -*- mode: org -*-
-#+TITLE: Portuguese Open WordNet (OWN-PT)
+#+TITLE: Open Portuguese WordNet (OWN-PT)
 
-This repository hosts Portuguese WordNet data in textual format,
-linked to (but independent from) the [[https://github.com/own-pt/own-en/][Open English
-WordNet]]. Contributions are welcome!
+This repository hosts Portuguese WordNet data in textual format, this is an experiment branch of http://openwordnet-pt.org. It is linked to (but independent from) the [[https://github.com/own-pt/own-en/][Open English WordNet]]. 
 
 You can also get the data in JSON and RDF format.
 
-See the [[https://github.com/own-pt/own-en/wiki/][Wiki]] for how the data was generated, how it compares to
-Princeton WordNet and what is the syntax of the text files.
-
-This data is validated and exported by the [[https://github.com/own-pt/mill/][mill tool]] — see its
+See the [[https://github.com/own-pt/own-en/wiki/][Wiki]] for how the data was generated, how it compares to Princeton WordNet and what is the syntax of the text files. This data is validated and exported by the [[https://github.com/own-pt/mill/][mill tool]] — see its
 repository for more information about validation, export formats, etc.
+
